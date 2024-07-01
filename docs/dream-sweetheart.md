@@ -36,7 +36,7 @@ aside: false
       <td>奪魄幽蘭</td>
       <td>高挑窈窕</td>
       <td>文靜優雅</td>
-      <td>-</td>
+      <td></td>
     </tr>
     <tr>
       <td>葉雲裳</td>
@@ -61,12 +61,6 @@ aside: false
       <td>嬌小玲瓏</td>
       <td>恬靜溫馴</td>
       <td>力拔山兮氣蓋世</td>
-    </tr>
-    <tr>
-      <td>其他</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>瑞杏</td>

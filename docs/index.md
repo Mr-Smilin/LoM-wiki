@@ -15,7 +15,7 @@ hero:
       link: /news
     - theme: alt
       text: 遊戲下載
-      link: https://store.steampowered.com/app/1859910?snr=5000_5100___primarylinks
+      link: https://store.steampowered.com/app/1859910/_/
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit

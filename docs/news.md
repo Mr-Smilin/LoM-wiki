@@ -1,3 +1,5 @@
+# 最新消息
+
 ## [版本更新 v1.0.3130](https://store.steampowered.com/news/app/1859910/view/4267805297642838656?l=tchinese)
 
 發表時間
@@ -37,8 +39,6 @@
 立繪：更新龍湘的半身頭像立繪
 製作群內容勘誤
 
----
-
 ## [版本更新 v1.0.3129](https://store.steampowered.com/news/app/1859910/view/4204754268648635765?l=tchinese)
 
 發表時間
@@ -71,8 +71,6 @@
 秘笈：論語的嘴力加成錯誤
 秘笈：五毒秘錄描述錯別字
 
----
-
 ## [版本更新 v1.0.3128.1](https://store.steampowered.com/news/app/1859910/view/4204754268638692856?l=tchinese)
 
 發表時間
@@ -83,8 +81,6 @@
 功能修正
 
 修練：秘笈無法點擊選擇的錯誤
-
----
 
 ## [版本更新 v1.0.3128](https://store.steampowered.com/news/app/1859910/view/4204754268638299112?l=tchinese)
 
@@ -116,8 +112,6 @@
 道具：龍湘的髮簪圖片
 秘笈：玄玄如意指的龍淵七訣等級顯示
 秘笈：備急千金要方的徐如林等級顯示
-
----
 
 ## [版本更新 v1.0.3127](https://store.steampowered.com/news/app/1859910/view/4204754268631023374?l=tchinese)
 

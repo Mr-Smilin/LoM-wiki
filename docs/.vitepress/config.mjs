@@ -23,6 +23,7 @@ export default defineConfig({
 			},
 			{
 				items: [
+					{ text: "養成指令整理", link: "/develop" },
 					{ text: "門派設施", link: "/facility" },
 					{ text: "稱號列表", link: "/title-list" },
 					{ text: "夢境心上人", link: "/dream-sweetheart" },
