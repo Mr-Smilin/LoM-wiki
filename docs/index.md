@@ -5,23 +5,22 @@ layout: home
 hero:
   name: "LoM-wiki"
   text: "活俠傳wiki"
-  tagline: 一個人閒暇時建立的 wiki
+  tagline: 閒暇時建立的 wiki
   image:
     src: /images/logo.png
     alt: LoM-wiki
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 最新消息
+      link: /news
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: 遊戲下載
+      link: https://store.steampowered.com/app/1859910?snr=5000_5100___primarylinks
+# features:
+#   - title: Feature A
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature B
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature C
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---

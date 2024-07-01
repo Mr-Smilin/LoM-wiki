@@ -1,6 +1,8 @@
 // .vitepress/theme/index.js
 import DefaultTheme from "vitepress/theme";
-import MyLayout from "./MyLayout.vue";
+import MyLayout from "./components/MyLayout.vue";
+import "./styles/style.css";
+import "./styles/twikoo.css";
 
 export default {
 	extends: DefaultTheme,
