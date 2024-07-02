@@ -2,12 +2,20 @@
 aside: false
 title: 主支線重要發生時間軸
 tags:
-  - timeline
-  - branch
+
+- timeline
+- branch
+
 ---
+
 # 主支線重要發生時間軸
-<table>
-    <tr>
+
+<div class="timeline-container">
+
+## 週期性事件
+
+<table class="timeline-table">
+    <tr class="timeline-header">
         <th>類別</th>
         <th>特定觸發地點</th>
         <th>年</th>
@@ -37,6 +45,24 @@ tags:
     <td>-</td>
     <td>-</td>
 </tr>
+</table>
+</div>
+
+<div class="timeline-container">
+
+## 第一年
+
+<table class="timeline-table">
+    <tr class="timeline-header">
+        <th>類別</th>
+        <th>特定觸發地點</th>
+        <th>年</th>
+        <th>月</th>
+        <th>旬</th>
+        <th>事件內容</th>
+        <th>觸發條件</th>
+        <th>備註</th>
+    </tr>
 <tr>
     <td>主線</td>
     <td>-</td>
@@ -143,3 +169,4 @@ tags:
     <td>-</td>
 </tr>
 </table>
+</div>
