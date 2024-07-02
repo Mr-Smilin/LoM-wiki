@@ -7,6 +7,9 @@ export default defineConfig({
 	description: "活俠傳wiki", // 站點敘述
 	lang: "zh-TW", // 站點語系
 	base: "/LoM-wiki/", // 站點子目錄
+	sitemap: {
+		hostname: "https://smilin.net/LoM-wiki/",
+	},
 	appearance: "dark", // 默認深色主題
 	lastUpdated: true, // 是否使用 Git 获取每个页面的最后更新时间戳
 	themeConfig: {
