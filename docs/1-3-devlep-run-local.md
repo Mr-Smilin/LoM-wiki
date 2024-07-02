@@ -23,6 +23,8 @@ npm run dev
 
 順利的話，即可在 `localhost:5173` 看到網站，進行編輯。
 
+往後執行只需執行 `npm run dev`
+
 ::: warning 💡 注意
 協作專案，`push`檔案前請務必先`pull`一次，檢查是否存在更新的版本！
 :::
