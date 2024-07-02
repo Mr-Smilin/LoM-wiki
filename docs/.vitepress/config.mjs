@@ -18,6 +18,7 @@ export default defineConfig({
 			{
 				text: "人物",
 				items: [
+					{ text: "人物列表", link: "/characters/" },
 					{ text: "夢境心上人", link: "/people/dream-sweetheart" },
 					{ text: "稱號列表", link: "/people/title-list" },
 				],
