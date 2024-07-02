@@ -4,10 +4,8 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/Mr-Smilin/LoM-wiki">
-    <img src="https://img.shields.io/badge/npm-18.18.1-blue?style=flat-square"></a>  
-    <a href="https://github.com/Mr-Smilin/LoM-wiki/blob/main/License"><img src="https://img.shields.io/badge/license-CC_BY_NC_SA_4.0-green?style=flat-square
-"></a>  
+    <a href="https://github.com/Mr-Smilin/LoM-wiki"><img src="https://img.shields.io/badge/npm-18.18.1-blue?style=flat-square"></a>  
+    <a href="https://github.com/Mr-Smilin/LoM-wiki/blob/main/License"><img src="https://img.shields.io/badge/license-CC_BY_NC_SA_4.0-green?style=flat-square"></a>  
     <a href="https://github.com/Mr-Smilin/LoM-wiki"><img src="https://img.shields.io/github/stars/Mr-Smilin/LoM-wiki?style=flat-square"></a>
 </p>
 
