@@ -35,7 +35,11 @@ export default defineConfig({
 			},
 			{
 				text: "協助編輯",
-				items: [{ text: "如何開始", link: "/1-1-devlep-start" }],
+				items: [
+					{ text: "如何開始", link: "/1-1-devlep-start" },
+					{ text: "設定檔項目說明", link: "/1-2-devlep-vitepress" },
+					{ text: "本地運行(進階)", link: "/1-3-devlep-run-local" },
+				],
 			},
 		],
 
