@@ -20,16 +20,13 @@ export default defineConfig({
 				items: [
 					{ text: "夢境心上人", link: "/people/dream-sweetheart" },
 					{ text: "稱號列表", link: "/people/title-list" },
-					{
-						text: "主支線重要發生時間軸",
-						link: "/story-branch-timeline",
-					},
 				],
 			},
 			{ text: "武功", link: "/skill" },
 			{
 				text: "互動事件",
 				items: [
+					{ text: "主支線重要發生時間軸", link: "/event/story-branch-timeline" },
 					{ text: "養成指令整理", link: "/event/develop" },
 					{ text: "門派設施", link: "/event/facility" },
 				],

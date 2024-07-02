@@ -1,0 +1,9 @@
+# top-most EditorConfig file
+root = true
+
+[*.{js,py,md}]
+charset = utf-8
+
+[*.md]
+indent_style = space
+indent_size = 4
