@@ -11,7 +11,7 @@
 
 ## 開發 | Development
 
-發 PR 請先`fork`
+發 PR 請先`fork`  
 `clone` 至本地後，運行以下指令
 
 ```sh
