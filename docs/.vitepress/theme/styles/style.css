@@ -8,6 +8,10 @@
     justify-content: center;
   }
 
+  .Layout .VPContent .VPDoc .container .content .content-container{
+    max-width: none;
+  }
+
   .vp-doc table tbody tr:hover {
     background-color: var(--vp-code-block-bg);
   }

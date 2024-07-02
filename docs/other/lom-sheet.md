@@ -1,4 +1,5 @@
 ---
+aside: false
 title: 唐門圖書館
 tags:
   - sheet
@@ -9,4 +10,6 @@ tags:
 
 [原文連結](https://forum.gamer.com.tw/C.php?bsn=73317&snA=303)
 
-<iframe src="https://docs.google.com/spreadsheets/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o/htmlview?usp=sharing" width="100%" height="600"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o/htmlview?usp=sharing" height="600px" style="
+    width: 85vw;
+"></iframe>
