@@ -1,3 +1,12 @@
+---
+title: 最新計畫
+tags:
+  - news
+  - 新聞
+  - 遊戲更新
+  - 更新
+---
+
 # 最新計畫
 
 ## [版本更新 v1.0.3130](https://store.steampowered.com/news/app/1859910/view/4267805297642838656?l=tchinese)
