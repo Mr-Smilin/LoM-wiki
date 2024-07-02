@@ -15,13 +15,13 @@ hero:
       link: /wiki-list
     - theme: alt
       text: 更新計畫
-      link: /news
+      link: /other/news
     - theme: alt
       text: 遊戲下載
       link: https://store.steampowered.com/app/1859910/_/
     - theme: alt
       text: 協作Wiki
-      link: /1-1-devlep-start
+      link: /devlep/1-start
 ---
 
 <script setup>

@@ -15,42 +15,30 @@ export default defineConfig({
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
-			// { text: "Home", link: "/" },
-			// { text: "Examples", link: "/markdown-examples" },
-		],
-
-		sidebar: [
-			{
-				text: "wiki導覽",
-				link: "/wiki-list",
-			},
 			{
 				text: "人物",
 				items: [
-					{ text: "夢境心上人", link: "/dream-sweetheart" },
-					{ text: "稱號列表", link: "/title-list" },
-					{ text: "主支線重要發生時間軸", link: "/story-branch-timeline" },
+					{ text: "夢境心上人", link: "/people/dream-sweetheart" },
+					{ text: "稱號列表", link: "/people/title-list" },
+					{
+						text: "主支線重要發生時間軸",
+						link: "/people/story-branch-timeline",
+					},
 				],
 			},
+			{ text: "武功", link: "/skill" },
 			{
-				text: "技能",
-				items: [],
-			},
-			{
-				text: "物品",
-				items: [],
-			},
-			{
-				text: "互動",
+				text: "互動事件",
 				items: [
-					{ text: "養成指令整理", link: "/develop" },
-					{ text: "門派設施", link: "/facility" },
+					{ text: "養成指令整理", link: "/event/develop" },
+					{ text: "門派設施", link: "/event/facility" },
 				],
 			},
+			{ text: "結局", link: "/ending" },
 			{
 				text: "其他",
 				items: [
-					{ text: "更新計畫", link: "/news" },
+					{ text: "更新計畫", link: "/other/news" },
 					{
 						text: "拆包資料",
 						items: [
@@ -60,22 +48,42 @@ export default defineConfig({
 							},
 						],
 					},
-					{ text: "唐門圖書館(google sheet)", link: "/lom-sheet" },
+					{ text: "唐門圖書館(google sheet)", link: "/other/lom-sheet" },
 				],
 			},
 			{
 				text: "協助編輯",
 				items: [
-					{ text: "如何開始", link: "/1-1-devlep-start" },
-					{ text: "設定檔項目說明", link: "/1-2-devlep-vitepress" },
-					{ text: "本地運行(進階)", link: "/1-3-devlep-run-local" },
+					{ text: "如何開始", link: "/devlep/1-start" },
+					{ text: "設定檔項目說明", link: "/devlep/2-vitepress" },
+					{ text: "本地運行(進階)", link: "/devlep/3-run-local" },
 					{
 						text: "Markdown 基本知識 & 頁面模板",
-						link: "/1-4-devlep-markdown",
+						link: "/devlep/4-markdown",
 					},
 				],
 			},
 		],
+		// {
+		// 	text: "wiki導覽",
+		// 	link: "/wiki-list",
+		// },
+		// {
+		// 	text: "人物",
+
+		// },
+		// {
+		// 	text: "技能",
+		// 	items: [],
+		// },
+		// {
+		// 	text: "物品",
+		// 	items: [],
+		// },
+		// {
+		// 	text: "互動",
+
+		// },
 
 		socialLinks: [
 			{ icon: "github", link: "https://github.com/Mr-Smilin/LoM-wiki" },
