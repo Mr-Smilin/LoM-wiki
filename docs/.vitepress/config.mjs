@@ -27,6 +27,7 @@ export default defineConfig({
 			{
 				text: "人物",
 				items: [
+					{ text: "人物列表", link: "/characters/" },
 					{ text: "夢境心上人", link: "/dream-sweetheart" },
 					{ text: "稱號列表", link: "/title-list" },
 					{ text: "主支線重要發生時間軸", link: "/story-branch-timeline" },
