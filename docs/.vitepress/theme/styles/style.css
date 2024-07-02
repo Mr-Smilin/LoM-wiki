@@ -43,3 +43,7 @@
     visibility: visible;
     opacity: 1;
   }
+
+  .tk-owo-emotion, .twikoo .OwO-item img{
+    width: 100px;
+  }
