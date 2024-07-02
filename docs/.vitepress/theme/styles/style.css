@@ -47,3 +47,35 @@
   .tk-owo-emotion, .twikoo .OwO-item img{
     width: 100px !important;
   }
+
+  .contributors {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  
+  .contributor-card {
+    width: 120px;
+    padding: 16px;
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .contributor-card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .contributor-card p {
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  .contributor-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }

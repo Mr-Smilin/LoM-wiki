@@ -18,20 +18,37 @@ export default defineConfig({
 
 		sidebar: [
 			{
-				text: "遊戲公告",
-				items: [{ text: "最新消息", link: "/news" }],
+				text: "wiki導覽",
+				link: "/wiki-list",
 			},
 			{
+				text: "人物",
 				items: [
-					{ text: "養成指令整理", link: "/develop" },
-					{ text: "門派設施", link: "/facility" },
-					{ text: "稱號列表", link: "/title-list" },
 					{ text: "夢境心上人", link: "/dream-sweetheart" },
+					{ text: "稱號列表", link: "/title-list" },
 				],
 			},
 			{
-				text: "外部資源",
-				items: [{ text: "唐門圖書館(google sheet)", link: "/lom-sheet" }],
+				text: "技能",
+				items: [],
+			},
+			{
+				text: "物品",
+				items: [],
+			},
+			{
+				text: "互動",
+				items: [
+					{ text: "養成指令整理", link: "/develop" },
+					{ text: "門派設施", link: "/facility" },
+				],
+			},
+			{
+				text: "其他",
+				items: [
+					{ text: "更新計畫", link: "/news" },
+					{ text: "唐門圖書館(google sheet)", link: "/lom-sheet" },
+				],
 			},
 			{
 				text: "協助編輯",

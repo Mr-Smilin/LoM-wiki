@@ -10,12 +10,14 @@
   },
   "scripts": {
     "dev": "npm run docs:dev",
+    "build": "node ./tools/buildContributors.js",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs --port 4173"
   },
   "dependencies": {
     "algoliasearch": "^4.24.0",
+    "axios": "^1.7.2",
     "birpc": "^0.2.17",
     "copy-anything": "^3.0.5",
     "csstype": "^3.1.3",

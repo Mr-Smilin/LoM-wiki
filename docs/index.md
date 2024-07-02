@@ -11,7 +11,10 @@ hero:
     alt: LoM-wiki
   actions:
     - theme: brand
-      text: 最新消息
+      text: 瀏覽 Wiki
+      link: /wiki-list
+    - theme: alt
+      text: 更新消息
       link: /news
     - theme: alt
       text: 遊戲下載
