@@ -22,7 +22,7 @@ export default defineConfig({
 					{ text: "稱號列表", link: "/people/title-list" },
 					{
 						text: "主支線重要發生時間軸",
-						link: "/people/story-branch-timeline",
+						link: "/story-branch-timeline",
 					},
 				],
 			},
@@ -34,7 +34,7 @@ export default defineConfig({
 					{ text: "門派設施", link: "/event/facility" },
 				],
 			},
-			{ text: "結局", link: "/ending" },
+			{ text: "結局", link: "/end" },
 			{
 				text: "其他",
 				items: [
