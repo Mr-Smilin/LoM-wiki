@@ -64,26 +64,6 @@ export default defineConfig({
 				],
 			},
 		],
-		// {
-		// 	text: "wiki導覽",
-		// 	link: "/wiki-list",
-		// },
-		// {
-		// 	text: "人物",
-
-		// },
-		// {
-		// 	text: "技能",
-		// 	items: [],
-		// },
-		// {
-		// 	text: "物品",
-		// 	items: [],
-		// },
-		// {
-		// 	text: "互動",
-
-		// },
 
 		socialLinks: [
 			{ icon: "github", link: "https://github.com/Mr-Smilin/LoM-wiki" },

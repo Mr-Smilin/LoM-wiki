@@ -19,14 +19,14 @@ tags:
 這邊主要講解 `.vitepress` 資料夾內，  
 一些較常需要編輯的內容要點。
 
-![](/images/1-2-devlep-vitepress/01.jpg)
+![](/images/devlep/2-vitepress/01.jpg)
 
 - `config.mjs` 主要會需要調整的設定檔，影響左側目錄，以及站點的主要設定
 - `theme` 本站的自定義樣式 / 工具，請在具備一定基礎知識的情況下操作
 
 ## 目錄調整
 
-![](/images/1-2-devlep-vitepress/02.jpg)
+![](/images/devlep/2-vitepress/02.jpg)
 
 請在 `config.mjs` 的 `themeConfig.sidebar` 修改
 
