@@ -106,7 +106,7 @@ tags:
         <td>-</td>
     </tr>
     <tr>
-        <td>事件</td>
+        <td>主線</td>
         <td>唐門/弟子房</td>
         <td>一</td>
         <td>四</td>
@@ -136,7 +136,7 @@ tags:
         </td>
     </tr>
     <tr>
-        <td>事件</td>
+        <td>主線</td>
         <td>唐門/弟子房</td>
         <td>一</td>
         <td>四</td>
@@ -203,7 +203,7 @@ tags:
         </td>
     </tr>
     <tr>
-        <td>事件</td>
+        <td>支線</td>
         <td>唐門/伙房</td>
         <td>一</td>
         <td>四</td>
@@ -222,7 +222,7 @@ tags:
         <td>-</td>
     </tr>
     <tr>
-        <td>事件</td>
+        <td>支線</td>
         <td>唐門/伙房</td>
         <td>一</td>
         <td>四</td>
@@ -265,7 +265,7 @@ tags:
         <td>-</td>
     </tr>
     <tr>
-        <td>事件</td>
+        <td>支線</td>
         <td>唐門/煉丹房</td>
         <td>一</td>
         <td>四</td>
@@ -300,7 +300,7 @@ tags:
         <td>-</td>
     </tr>
     <tr>
-        <td>事件</td>
+        <td>主線</td>
         <td>-</td>
         <td>一</td>
         <td>四</td>
