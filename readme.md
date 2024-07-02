@@ -33,5 +33,7 @@ npm run dev
 
 <details>
 <summary>CC BY-NC-SA-4.0 Licence</summary>
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMr-Smilin%2FLoM-wiki.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FMr-Smilin%2FLoM-wiki?ref=badge_large&issueType=license)
+
 </details>
