@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: 遊戲下載
       link: https://store.steampowered.com/app/1859910/_/
+    - theme: alt
+      text: 協作Wiki
+      link: /1-1-devlep-start
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
