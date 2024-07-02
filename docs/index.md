@@ -75,8 +75,8 @@ onMounted(() => {
 }
 
 @keyframes run {
-  0% { right: -300px; bottom: -350px; }
-  100% { right: 200%; bottom: -350px; }
+  0% { right: -800px; bottom: -350px; }
+  100% { right: 600%; bottom: -350px; }
 }
 
 @keyframes fade {
@@ -103,7 +103,7 @@ onMounted(() => {
   right: -100px;
   bottom: 10px;
   display: none;
-  animation: run 1s linear;
+  animation: run 1.5s linear;
 }
 
 #character-fade {
