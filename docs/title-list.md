@@ -1,5 +1,9 @@
 ---
 aside: false
+title: 稱號列表
+tags:
+  - titleList
+  - 稱號
 ---
 
 # 稱號列表

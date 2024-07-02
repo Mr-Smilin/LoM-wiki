@@ -1,5 +1,10 @@
 ---
 aside: false
+title: 養成指令整理
+tags:
+  - develop
+  - 養成
+  - 事件
 ---
 
 # 養成指令整理
