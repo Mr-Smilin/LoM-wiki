@@ -47,6 +47,15 @@ export default defineConfig({
 				text: "其他",
 				items: [
 					{ text: "更新計畫", link: "/news" },
+					{
+						text: "拆包資料",
+						items: [
+							{
+								text: "v1.0.3130",
+								link: "https://smilin.pse.is/LoM",
+							},
+						],
+					},
 					{ text: "唐門圖書館(google sheet)", link: "/lom-sheet" },
 				],
 			},
