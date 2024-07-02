@@ -126,4 +126,6 @@ outline: [2, 3]
 在 `Add files via upload` 的框簡單打一下修改了甚麼，  
 之後 `Commit changes`。
 
+網站反應變更約需 1~3 分鐘的作業時間。
+
 到此土法煉鋼的本地編輯完成。
