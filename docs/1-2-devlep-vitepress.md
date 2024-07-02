@@ -40,4 +40,4 @@
 簡易 CSS 可直接在 `.vitepress/theme/styles/style.css` 進行增改
 
 如果需要大量改動，請在熟悉架構後，  
-另外建立 css 檔後接入。
+另外建立 css 檔接入。
