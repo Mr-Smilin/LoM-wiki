@@ -14,7 +14,7 @@ hero:
       text: 瀏覽 Wiki
       link: /wiki-list
     - theme: alt
-      text: 更新消息
+      text: 更新計畫
       link: /news
     - theme: alt
       text: 遊戲下載
