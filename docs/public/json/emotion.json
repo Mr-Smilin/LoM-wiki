@@ -2,7 +2,8 @@
     "活俠傳": {
         "type": "image",
         "container": [
-            { "icon": "<img src=\"https://i.imgur.com/bAx0lUX.png\">", "text": "plum_happy_02" }
+            { "icon": "<img src=\"https://i.imgur.com/bAx0lUX.png\">", "text": "plum_happy_02" },
+            { "icon": "<img src=\"https://i.imgur.com/xusE287.png\">", "text": "player_suck4" }
         ]
     },
     "顏文字": {
