@@ -7,7 +7,7 @@ hero:
   text: "活俠傳wiki"
   tagline: 閒暇時建立的 wiki
   image:
-    src: /images/logo.png
+    src: /images/index/logo.png
     alt: LoM-wiki
   actions:
     - theme: brand
@@ -19,11 +19,100 @@ hero:
     - theme: alt
       text: 協作Wiki
       link: /1-1-devlep-start
-# features:
-#   - title: Feature A
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+
+<script setup>
+import { onMounted } from 'vue'
+
+onMounted(() => {
+  const heroImage = document.querySelector('.image-container .VPImage')
+
+  const character = document.createElement('img')
+  character.id = 'character'
+  character.src = '/LoM-wiki/images/generic/plum_hand.png'
+  character.alt = 'Character'
+  
+  const characterRun = document.createElement('img')
+  characterRun.id = 'character-run'
+  characterRun.src = '/LoM-wiki/images/generic/plum_happy_01.png'
+  characterRun.alt = 'Character Running'
+  characterRun.style.display = 'none'
+  
+  const characterFade = document.createElement('img')
+  characterFade.id = 'character-fade'
+  characterFade.src = '/LoM-wiki/images/index/logo.png'
+  characterFade.alt = 'Logo'
+  characterFade.style.display = 'none'
+
+  heroImage.parentElement.appendChild(character)
+  heroImage.parentElement.appendChild(characterRun)
+  heroImage.parentElement.appendChild(characterFade)
+  heroImage.style.display = 'none';
+
+  character.addEventListener('animationend', function() {
+    this.style.display = 'none'
+    characterRun.style.display = 'block'
+    characterRun.style.animationPlayState = 'running'
+  })
+
+  characterRun.addEventListener('animationend', function() {
+    this.style.display = 'none'
+    characterFade.style.display = 'block'
+    characterFade.style.animationPlayState = 'running'
+  })
+})
+</script>
+
+<style>
+@keyframes peek {
+  0% { right: 30px; bottom: -500px; opacity: 1; transform: rotate(0deg); }
+  20% { right: 30px; bottom: -250px; transform: rotate(0deg); }
+  30% { transform: rotate(-20deg); }
+  50% { transform: rotate(20deg); }
+  70% { transform: rotate(-20deg); }
+  80% { right: 30px; bottom: -250px; transform: rotate(0deg); }
+  100% { right: 30px; bottom: -500px; opacity: 1; transform: rotate(0deg); }
+}
+
+@keyframes run {
+  0% { right: -300px; bottom: -100px; }
+  100% { right: 200%; bottom: -100px; }
+}
+
+@keyframes fade {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.image-container{
+  clip-path: inset(-100px -100px -50px -100px);
+}
+
+#character {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  opacity: 0;
+  transform: rotate(0deg);
+  transform-origin: bottom right;
+  animation: peek 2.5s linear;
+}
+
+#character-run {
+  position: fixed;
+  right: -100px;
+  bottom: 10px;
+  display: none;
+  animation: run 1s linear;
+}
+
+#character-fade {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  opacity: 1;
+  transform: translate(-50%, -50%);
+  display: none;
+  animation: fade 0.5s linear;
+}
+</style>
