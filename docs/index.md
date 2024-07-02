@@ -65,18 +65,18 @@ onMounted(() => {
 
 <style>
 @keyframes peek {
-  0% { right: 30px; bottom: -500px; opacity: 1; transform: rotate(0deg); }
-  20% { right: 30px; bottom: -250px; transform: rotate(0deg); }
+  0% { right: 30px; bottom: -600px; opacity: 1; transform: rotate(0deg); }
+  20% { right: 30px; bottom: -300px; transform: rotate(0deg); }
   30% { transform: rotate(-20deg); }
   50% { transform: rotate(20deg); }
   70% { transform: rotate(-20deg); }
-  80% { right: 30px; bottom: -250px; transform: rotate(0deg); }
-  100% { right: 30px; bottom: -500px; opacity: 1; transform: rotate(0deg); }
+  80% { right: 30px; bottom: -300px; transform: rotate(0deg); }
+  100% { right: 30px; bottom: -800px; opacity: 1; transform: rotate(0deg); }
 }
 
 @keyframes run {
-  0% { right: -300px; bottom: -100px; }
-  100% { right: 200%; bottom: -100px; }
+  0% { right: -300px; bottom: -350px; }
+  100% { right: 200%; bottom: -350px; }
 }
 
 @keyframes fade {
@@ -108,6 +108,8 @@ onMounted(() => {
 
 #character-fade {
   position: fixed;
+  width: 300px;
+  height: 300px;
   left: 50%;
   top: 50%;
   opacity: 1;
