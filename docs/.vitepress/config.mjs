@@ -33,13 +33,10 @@ export default defineConfig({
 				text: "外部資源",
 				items: [{ text: "唐門圖書館(google sheet)", link: "/lom-sheet" }],
 			},
-			// {
-			// 	text: "調試",
-			// 	items: [
-			// 		{ text: "Markdown 擴充範例", link: "/markdown-examples" },
-			// 		{ text: "運行時 API 範例", link: "/api-examples" },
-			// 	],
-			// },
+			{
+				text: "協助編輯",
+				items: [{ text: "如何開始", link: "/1-1-devlep-start" }],
+			},
 		],
 
 		socialLinks: [
