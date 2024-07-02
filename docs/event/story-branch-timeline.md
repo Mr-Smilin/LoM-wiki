@@ -106,7 +106,7 @@ tags:
         <td>-</td>
     </tr>
     <tr>
-        <td>事件</td>
+        <td>主線</td>
         <td>唐門/弟子房</td>
         <td>一</td>
         <td>四</td>
@@ -136,7 +136,7 @@ tags:
         </td>
     </tr>
     <tr>
-        <td>事件</td>
+        <td>主線</td>
         <td>唐門/弟子房</td>
         <td>一</td>
         <td>四</td>
@@ -203,7 +203,7 @@ tags:
         </td>
     </tr>
     <tr>
-        <td>事件</td>
+        <td>支線</td>
         <td>唐門/伙房</td>
         <td>一</td>
         <td>四</td>
@@ -222,7 +222,7 @@ tags:
         <td>-</td>
     </tr>
     <tr>
-        <td>事件</td>
+        <td>支線</td>
         <td>唐門/伙房</td>
         <td>一</td>
         <td>四</td>
@@ -265,7 +265,7 @@ tags:
         <td>-</td>
     </tr>
     <tr>
-        <td>事件</td>
+        <td>支線</td>
         <td>唐門/煉丹房</td>
         <td>一</td>
         <td>四</td>
@@ -277,7 +277,6 @@ tags:
                 選項2：「你是來找死的嗎？」(<span class="be-icon">生死簿4「毒死」</span>)
             </details>
         </td>
-        <td>-</td>
         <td>-</td>
         <td>-</td>
     </tr>
@@ -299,11 +298,9 @@ tags:
         </td>
         <td>第一年四月中旬結束時自動觸發</td>
         <td>-</td>
-        <td>-</td>
-        <td>-</td>
     </tr>
     <tr>
-        <td>事件</td>
+        <td>主線</td>
         <td>-</td>
         <td>一</td>
         <td>四</td>
@@ -324,8 +321,6 @@ tags:
         </td>
         <td>-</td>
         <td>Demo版見蒙面人時，學問≧5，學問+2，正式版好像有調降學問要求(待確)</td>
-        <td>-</td>
-        <td>-</td>
     </tr>
 </table>
 </div>
