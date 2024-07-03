@@ -4,7 +4,7 @@
         <div
           v-for="(tab, index) in tabs"
           :key="index"
-          :class="{ active: selectedIndex.value === index }"
+          :class="{ active: selectedIndex === index }"
           @click="selectTab(index)"
           class="tab-title"
         >
@@ -65,19 +65,19 @@
     text-align: center;
     transition: background-color 0.3s, border-bottom 0.3s;
   }
-  
-  .tab-title:hover {
-    background-color: var(--vp-code-block-bg);
-  }
-  
+
   .tab-title.active {
     border-bottom: 2px solid #42b983;
-    /* background-color: #fff; */
+    background-color: var(--vp-c-gray-1);
+  }
+  
+  .tab-title:hover {
+    background-color: var(--vp-c-gray-2);
   }
   
   .tab-content {
     padding: 15px;
-    /* background-color: #fff; */
+    background-color: var(--vp-c-gray-soft);
   }
   </style>
   
