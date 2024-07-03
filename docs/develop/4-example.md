@@ -1,14 +1,14 @@
 ---
 title: Markdown 基本知識 & 頁面模板
 tags:
-  - dev
-  - develop
-  - developer
-  - 開發
-  - markdown
-  - 協作
-  - example
-  - template
+    - dev
+    - develop
+    - developer
+    - 開發
+    - markdown
+    - 協作
+    - example
+    - template
 ---
 
 # Markdown 基本知識 & 頁面模板
@@ -21,9 +21,10 @@ tags:
 本站頁面都是 `.md` 檔，也就是使用 `Markdown` 進行撰寫
 
 關於 `Markdown` 的基本知識，網路上教學眾多  
-一般來說，對於第一次接觸 Markdown 的人，我們會建議參考[這篇文章](https://markdown.tw)
+對於第一次接觸 Markdown 的人，建議參考[這篇文章](https://markdown.tw)
 
-本文章主要會列出與傳統 `Markdown` 不同，額外支援的一些撰寫格式。
+本文會列出與傳統 `Markdown` 不同，  
+額外支援的撰寫格式。
 
 ## .md 模板
 
@@ -36,7 +37,7 @@ tags:
 # 標題
 ```
 
-首先當你要創建頁面時，新建一個 `.md` 檔在 `docs` 底下  
+首先當要創建頁面時，新建一個 `.md` 檔在 `docs` 底下  
 檔名務必是純英文跟`-`組成
 
 兩個 `---` 中間有 `title` 跟 `tags`，  
@@ -56,14 +57,14 @@ tags:
 
 除了這兩個參數以外，還有其他比較常用到的參數
 
-- `aside: false`  
-  默認為 `true`，設成 `false` 可以讓右側的標題導覽消失，  
-  覺得頁面不夠大的時候就可以加上這一行。
+-   `aside: false`  
+    默認為 `true`，設成 `false` 可以讓右側的標題導覽消失，  
+    覺得頁面不夠大的時候就可以加上這一行。
 
-- `outline: [2, 3]`
-  決定右側標題導覽要抓取的標題區間，
-  默認為 2，也就是只抓前綴為 `##` 的標題到導覽  
-  如範例設定 [2, 3]，則會將 `###` 的標題放在 `##` 底下。
+-   `outline: [2, 3]`
+    決定右側標題導覽要抓取的標題區間，
+    默認為 2，也就是只抓前綴為 `##` 的標題到導覽  
+    如範例設定 [2, 3]，則會將 `###` 的標題放在 `##` 底下。
 
 除此以外的表頭屬性，可參考[官方文檔](https://vitepress.dev/zh/reference/default-theme-home-page)
 
@@ -161,5 +162,5 @@ tags:
 
 ## 外部工具
 
-- [線上轉換 Excel 為 Markdown 或 Html 表格的工具](https://tableconvert.com/zh-tw/excel-to-html)  
-  對複雜的表格格式不起做用，但在搬運資料時很有用。
+-   [線上轉換 Excel 為 Markdown 或 Html 表格的工具](https://tableconvert.com/zh-tw/excel-to-html)  
+    對複雜的表格格式不起做用，但在搬運資料時很有用。
