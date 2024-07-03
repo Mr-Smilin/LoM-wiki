@@ -11,7 +11,6 @@
 
 ## 開發 | Development
 
-發 PR 請先`fork`  
 `clone` 至本地後，運行以下指令
 
 ```sh
@@ -21,7 +20,7 @@ npm run dev
 
 順利的話，即可在 `localhost:5173` 看到網站，進行編輯。
 
-往後執行只需執行 `npm run dev`
+往後執行只需 `npm run dev`
 
 ## 國際化 | i18n
 
