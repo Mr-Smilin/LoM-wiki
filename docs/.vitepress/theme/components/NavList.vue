@@ -46,12 +46,14 @@
 	cursor: pointer;
 	padding: 0.5rem;
 	background-color: var(--vp-c-bg-alt);
+	border-bottom: 2px solid var(--vp-c-bg-alt);
 	border-radius: 4px;
-	transition: background-color 0.3s;
+	transition: background-color 0.3s,border-bottom 0.3s;
   }
   
   summary:hover {
 	background-color: var(--vp-c-bg-hover);
+    border-bottom: 2px solid #42b983;
   }
   
   .sub-items {
