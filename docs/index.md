@@ -21,7 +21,7 @@ hero:
       link: https://store.steampowered.com/app/1859910/_/
     - theme: alt
       text: 協作Wiki
-      link: /devlep/1-start
+      link: /develop/1-start
 ---
 
 <script setup>
