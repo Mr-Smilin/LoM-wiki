@@ -3,9 +3,13 @@
 	<div class="not-found-container">
 		<div class="not-found-content">
 			<h1>404</h1>
-			<p>抱歉，我們無法找到您要找的頁面。</p>
-			<p>可能是這個頁面尚未有人維護，請試著聯繫維護人員。</p>
+      <div class="img-container">
+        <img src="https://i.imgur.com/yBZyrSc.png">
+      </div>
+			<p>抱歉，葉小妹找不到你要的頁面。</p>
+			<p>醒醒吧肥仔～找不到就自己動手做啊～</p>
 			<a href="/" class="home-button">返回首頁</a>
+			<a href="/develop/1-start" class="home-button">協作Wiki</a>
 		</div>
 	</div>
 </template>
@@ -42,6 +46,7 @@
 .home-button {
 	display: inline-block;
 	padding: 10px 20px;
+  margin: 10px;
 	font-size: 1rem;
 	color: #ffffff;
 	background-color: #007bff;
@@ -52,5 +57,13 @@
 
 .home-button:hover {
 	background-color: #0056b3;
+}
+
+.img-container {
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  display: flex;
+  padding: 20px 0px;
 }
 </style>
