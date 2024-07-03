@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-    name: "活俠傳wiki"
+    name: "活俠傳Wiki"
     text: "Legend of Mortal Wiki"
     tagline: 不負俠義，不忘初心
     image:
