@@ -116,4 +116,13 @@ export default defineConfig({
 			link: "/en",
 		},
 	},
+	// head: [
+	// 	[
+	// 		"link",
+	// 		{
+	// 			rel: "stylesheet",
+	// 			href: "https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css",
+	// 		},
+	// 	],
+	// ],
 });
