@@ -10,27 +10,7 @@ tags:
 
 <br>
 
--   **人物**
-    -   人物列表
-    -   夢境心上人
-    -   稱號列表
--   **武功**
-    -   尚無頁面
--   **互動事件**
-    -   主支線重要發生時間軸
-    -   養成指令整理
-    -   門派設施
--   **結局**
-    -   尚無頁面
--   **其他**
-    -   更新計畫
-    -   拆包資料
-    -   唐門圖書館
--   **協助編輯**
-    -   如何開始
-    -   設定檔項目說明
-    -   本地運行(進階)
-    -   Markdown 基本知識 & 頁面模板
+<NavList />
 
 <br>
 
@@ -39,6 +19,8 @@ tags:
 <div v-html="$frontmatter.contributors"></div>
 
 <script setup>
+import NavList from './.vitepress/theme/components/NavList.vue'
+
 import { VPTeamMembers } from 'vitepress/theme'
 import { ref, onMounted } from 'vue'
 
