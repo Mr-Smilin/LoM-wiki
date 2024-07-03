@@ -3,6 +3,7 @@ import DefaultTheme from "vitepress/theme";
 import MyLayout from "./components/MyLayout.vue";
 import Tabs from "./components/Tabs.vue";
 import Tab from "./components/Tab.vue";
+import Icon from "./components/Icon.vue";
 import "./styles/style.css";
 import "./styles/twikoo.css";
 
@@ -13,5 +14,6 @@ export default {
   enhanceApp({ app }) {
     app.component("Tabs", Tabs);
     app.component("Tab", Tab);
+    app.component("Icon", Icon);
   },
 };
