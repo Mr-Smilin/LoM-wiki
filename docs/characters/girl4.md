@@ -1,4 +1,5 @@
 ---
+aside: false
 title: 龍湘
 tags:
     - 人物
