@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-	title: "LoM-wiki", // 站點名稱
+	title: "Legend of Mortal Wiki", // 站點名稱
 	// titleTemplate: "", title | titleTemplate
 	description: "活俠傳wiki", // 站點敘述
 	lang: "zh-TW", // 站點語系
@@ -14,6 +14,7 @@ export default defineConfig({
 	lastUpdated: true, // 是否使用 Git 获取每个页面的最后更新时间戳
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
+		siteTitle: "Legend of Mortal Wiki",
 		nav: [
 			{
 				text: "人物",

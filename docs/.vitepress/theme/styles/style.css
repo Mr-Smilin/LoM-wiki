@@ -1,3 +1,7 @@
+  :root{
+    --vp-nav-height: 96px;
+  }
+
   .Layout .VPContent .VPDoc .container{
     max-width: none;
   }
