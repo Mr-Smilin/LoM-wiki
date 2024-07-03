@@ -10,9 +10,9 @@
   },
   "scripts": {
     "dev": "npm run docs:dev",
-    "build": "node ./tools/buildContributors.js",
+    "build": "npm run docs:build",
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
+    "docs:build": "vitepress build docs && node ./tools/buildContributors.js",
     "docs:preview": "vitepress preview docs --port 4173"
   },
   "dependencies": {

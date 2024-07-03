@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-	title: "LoM-wiki", // 站點名稱
+	title: "Legend of Mortal Wiki", // 站點名稱
 	// titleTemplate: "", title | titleTemplate
 	description: "活俠傳wiki", // 站點敘述
 	lang: "zh-TW", // 站點語系
@@ -14,6 +14,11 @@ export default defineConfig({
 	lastUpdated: true, // 是否使用 Git 获取每个页面的最后更新时间戳
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
+		logo: {
+			light: "/images/logo-light.svg",
+			dark: "/images/logo-dark.svg",
+		},
+		siteTitle: false,
 		nav: [
 			{
 				text: "人物",
@@ -66,6 +71,23 @@ export default defineConfig({
 				],
 			},
 		],
+
+		sidebar: {
+			"/develop/": [
+				{
+					text: "協助編輯",
+					items: [
+						{ text: "如何開始", link: "/develop/1-start" },
+						{ text: "設定檔項目說明", link: "/develop/2-vitepress" },
+						{ text: "本地運行(進階)", link: "/develop/3-run-local" },
+						{
+							text: "Markdown 基本知識 & 頁面模板",
+							link: "/develop/4-example",
+						},
+					],
+				},
+			],
+		},
 
 		socialLinks: [
 			{ icon: "github", link: "https://github.com/Mr-Smilin/LoM-wiki" },

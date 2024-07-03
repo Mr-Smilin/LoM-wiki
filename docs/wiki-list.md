@@ -34,7 +34,7 @@ tags:
 
 <br>
 
-## LoM-wiki 的建立，離不開小夥伴們的共同維護
+## LoM-Wiki 的建立，離不開小夥伴們的共同維護
 
 <div v-html="$frontmatter.contributors"></div>
 

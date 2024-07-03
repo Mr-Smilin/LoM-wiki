@@ -1,3 +1,10 @@
+  :root{
+    /* 導航欄高度 */
+    --vp-nav-height: 96px;
+    /* logo 高度 */
+    --vp-nav-logo-height: 90px;
+  }
+
   .Layout .VPContent .VPDoc .container{
     max-width: none;
   }
