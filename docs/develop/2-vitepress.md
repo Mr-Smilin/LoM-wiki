@@ -1,7 +1,9 @@
 ---
 title: 設定檔項目說明
 tags:
-  - devlep
+  - dev
+  - develop
+  - developer
   - 開發
   - 協作
 ---

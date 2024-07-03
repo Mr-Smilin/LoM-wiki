@@ -2,7 +2,9 @@
 outline: [2, 3]
 title: 如何開始協作 LoM-wiki
 tags:
-  - devlep
+  - dev
+  - develop
+  - developer
   - 開發
   - 協作
 ---
@@ -106,7 +108,7 @@ tags:
   ![](/images/devlep/1-start/06.jpg)
   :::
 - `en` 資料夾內存放英文版本的同名 wiki 檔案，維護時可協助新增修改
-- `public` 存放靜態資源，例如需要上傳圖檔，請將圖檔按照 `public/{md檔名}/{圖檔}.{副檔名}`的形式擺放
+- `public` 存放靜態資源，例如需要上傳圖檔，請將圖檔按照 `public/images/{md檔案分類}/{md檔名}/{圖檔}.{副檔名}`的形式擺放
 - `.vitepress` 為本專案的設定檔，請務必在閱讀[設定檔項目說明](/devlep/2-vitepress)後再進行調整
 
 調整完畢後回到 `Github`
