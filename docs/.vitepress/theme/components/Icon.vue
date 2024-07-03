@@ -1,5 +1,5 @@
 <template>
-  <span class="icon" :style="this.iconStyle(type)"></span>{{ contents }}
+  <span class="icon" :style="iconStyle(type)"></span>{{ contents }}
 </template>
 
 <script>
