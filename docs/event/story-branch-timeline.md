@@ -217,7 +217,7 @@ tags:
                 選項1.2：「講幹話對付他」道德-1、嘴力+2、唐布衣好感+2
             </details>
             選項2：【<95】大驚(性情-1、唐布衣好感+1)<br>
-            選項3：【≧95】嚇死(<span class="be-icon">生死簿7「屁力焦蛙」</span>)
+            選項3：【≧95】嚇死(<Icon type="badend" contents="生死簿7「屁力焦蛙」"></Icon>)
         </td>
         <td>-</td>
         <td>-</td>
@@ -275,7 +275,7 @@ tags:
             <details>
                 <summary>初識唐錚</summary>
                 選項1：「你是來找工作的嗎？」(唐錚好感+1)<br>
-                選項2：「你是來找死的嗎？」(<span class="be-icon">生死簿4「毒死」</span>)
+                選項2：「你是來找死的嗎？」(<Icon type="badend" contents="生死簿4「毒死」"></Icon>)
             </details>
         </td>
         <td>-</td>
@@ -414,7 +414,7 @@ tags:
                         </details>
                         選項1.1.2：「沒辦法了，葉姑娘，妳先進艙裡躲一下，此處有我護妳。」葉雲裳好感+2，單挑-閻關三煞
                     </details>
-                    選項1.2：【<60】喇嗲失敗(<span class="be-icon">生死簿5「爆頭」</span>)
+                    選項1.2：【<60】喇嗲失敗(<Icon type="badend" contents="生死簿5「爆頭」"></Icon>)
                 </details>
                 選項2「他還沒回來喔。」性情+1、處世+1、道德-1、葉雲舟好感-2，接選項1「裝傻。」唬爛🎲
                 <details>
@@ -449,11 +449,11 @@ tags:
             勝、平(撐五回合)、負：葉雲舟好感+1<br><br>
             在初遇葉氏兄妹(四)選項3.1 ：「沒錯，我就是葉雲舟。」的情況下： <br>
             勝：名聲+1、性情+1、道德+1、葉雲舟好感-2，<br>
-            負：<span class="be-icon">生死簿6「誰都別想欺負我小師妹」</span>
+            負：<Icon type="badend" contents="生死簿6「誰都別想欺負我小師妹」"></Icon>
         </td>
         <td></td>
         <td>
-            <li>初遇葉氏兄妹(四)選項1.1.2：「沒辦法了，葉姑娘，妳先進艙裡躲一下，此處有我護妳。」投降觸發<span class="be-icon">生死簿1「砍死」</span></li>
+            <li>初遇葉氏兄妹(四)選項1.1.2：「沒辦法了，葉姑娘，妳先進艙裡躲一下，此處有我護妳。」投降、戰敗時觸發<Icon type="badend" contents="生死簿1「砍死」"></Icon></li>
         </td>
     </tr>
     <tr>
