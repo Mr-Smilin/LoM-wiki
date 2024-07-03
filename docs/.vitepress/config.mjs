@@ -61,7 +61,7 @@ export default defineConfig({
 					{ text: "本地運行(進階)", link: "/develop/3-run-local" },
 					{
 						text: "Markdown 基本知識 & 頁面模板",
-						link: "/develop/4-markdown",
+						link: "/develop/4-example",
 					},
 				],
 			},
