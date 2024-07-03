@@ -14,7 +14,11 @@ export default defineConfig({
 	lastUpdated: true, // 是否使用 Git 获取每个页面的最后更新时间戳
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
-		siteTitle: "Legend of Mortal Wiki",
+		logo: {
+			light: "/images/logo-light.svg",
+			dark: "/images/logo-dark.svg",
+		},
+		siteTitle: false,
 		nav: [
 			{
 				text: "人物",
