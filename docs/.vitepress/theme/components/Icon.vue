@@ -28,9 +28,6 @@ export default {
       basePath: ''
     };
   },
-  created() {
-    this.basePath = this.getBasePath();
-  },
   methods: {
     iconStyle(iconType) {
       const TYPE_BADEND = 'badend';
@@ -41,19 +38,13 @@ export default {
         case TYPE_BADEND:
         case 'be':
           return {
-          backgroundImage: `url('${this.getBasePath()}/images/generic/${ICON_BADEND}')`
+          backgroundImage: `url('/LoM-wiki/images/generic/${ICON_BADEND}')`
         };
         default:
           return {
-            backgroundImage: `url('${this.getBasePath()}/images/generic/${ICON_BADEND}')`
+            backgroundImage: `url('/LoM-wiki/images/generic/${ICON_BADEND}')`
           };
       }
-    },
-    getBasePath() {
-      var location = window.location.pathname;
-      var firstSlashIndex = location.indexOf('/');
-      var secondSlashIndex = location.indexOf('/', firstSlashIndex + 1);
-      return  location.substring(0, secondSlashIndex);
     }
   }
 };
