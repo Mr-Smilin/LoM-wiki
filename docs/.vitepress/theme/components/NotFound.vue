@@ -9,7 +9,7 @@
 			<p>抱歉，葉小妹找不到你要的頁面。</p>
 			<p>醒醒吧肥仔～找不到就自己動手做啊～</p>
 			<a href="/" class="home-button">返回首頁</a>
-			<a href="/develop/1-start" class="home-button">協作Wiki</a>
+			<a href="/LoM-wiki/develop/1-start" class="home-button">協作Wiki</a>
 		</div>
 	</div>
 </template>
