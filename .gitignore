@@ -17,4 +17,5 @@ pnpm-global
 TODOs.md
 *.timestamp-*.mjs
 docs/.obsidian
-docs/.vitepress
+docs/.vitepress/cache
+docs/.vitepress/dist
