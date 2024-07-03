@@ -72,6 +72,23 @@ export default defineConfig({
 			},
 		],
 
+		sidebar: {
+			"/develop/": [
+				{
+					text: "協助編輯",
+					items: [
+						{ text: "如何開始", link: "/develop/1-start" },
+						{ text: "設定檔項目說明", link: "/develop/2-vitepress" },
+						{ text: "本地運行(進階)", link: "/develop/3-run-local" },
+						{
+							text: "Markdown 基本知識 & 頁面模板",
+							link: "/develop/4-example",
+						},
+					],
+				},
+			],
+		},
+
 		socialLinks: [
 			{ icon: "github", link: "https://github.com/Mr-Smilin/LoM-wiki" },
 		],
