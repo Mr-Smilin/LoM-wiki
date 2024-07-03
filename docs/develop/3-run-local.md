@@ -1,7 +1,9 @@
 ---
 title: 如何在本地運行本 wiki
 tags:
-  - devlep
+  - dev
+  - develop
+  - developer
   - 開發
   - 協作
   - npm

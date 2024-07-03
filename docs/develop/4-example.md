@@ -1,10 +1,14 @@
 ---
 title: Markdown 基本知識 & 頁面模板
 tags:
-  - devlep
+  - dev
+  - develop
+  - developer
   - 開發
   - markdown
   - 協作
+  - example
+  - template
 ---
 
 # Markdown 基本知識 & 頁面模板
