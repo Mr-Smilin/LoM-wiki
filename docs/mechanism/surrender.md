@@ -1,5 +1,4 @@
 ---
-aside: false
 title: 投降機制
 tags:
 - machanism
