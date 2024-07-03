@@ -29,6 +29,14 @@ export default defineConfig({
 				],
 				activeMatch: "/characters/",
 			},
+			{
+				text: "機制", items: [
+					{
+						text: "投降",
+						link: "/mechanism/surrender",
+					},
+				],
+			},
 			{ text: "武功", link: "/skill" },
 			{
 				text: "互動事件",
