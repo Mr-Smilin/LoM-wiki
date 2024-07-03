@@ -42,8 +42,12 @@ export default defineConfig({
 				text: "互動事件",
 				items: [
 					{
-						text: "主支線重要發生時間軸",
+						text: "主支線年表",
 						link: "/event/story-branch-timeline",
+					},
+					{
+						text: "主支線簡易表格",
+						link: "/event/story-simple-table",
 					},
 					{ text: "養成指令整理", link: "/event/develop" },
 					{ text: "門派設施", link: "/event/facility" },
