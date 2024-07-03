@@ -80,6 +80,18 @@
             { "icon": "<img src=\"https://i.imgur.com/NR4XXOn.png\">", "text": "girl4_laugh2" }
         ]
     },
+    "和尚":{
+        "type": "image",
+        "container": [
+            { "icon": "<img src=\"https://i.imgur.com/2Ll04xn.png\">", "text": "special206" },
+            { "icon": "<img src=\"https://i.imgur.com/jgMVuI7.png\">", "text": "special206_laugh1" },
+            { "icon": "<img src=\"https://i.imgur.com/Aim3h4h.png\">", "text": "special206_nervous1" },
+            { "icon": "<img src=\"https://i.imgur.com/DL8dSlN.png\">", "text": "special206_nervous2" },
+            { "icon": "<img src=\"https://i.imgur.com/V0WTdfy.png\">", "text": "special206_special1" },
+            { "icon": "<img src=\"https://i.imgur.com/TLyZXnb.png\">", "text": "special206_2" },
+            { "icon": "<img src=\"https://i.imgur.com/tFxUmT9.png\">", "text": "trainee351" }
+        ]
+    },
     "活俠傳": {
         "type": "image",
         "container": [

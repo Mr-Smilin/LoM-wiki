@@ -11,17 +11,6 @@
     ]
   },
   {
-    "avatar": "https://avatars.githubusercontent.com/u/35301327?v=4",
-    "name": "asd9176506911298",
-    "title": "Contributor",
-    "links": [
-      {
-        "icon": "github",
-        "link": "https://github.com/asd9176506911298"
-      }
-    ]
-  },
-  {
     "avatar": "https://avatars.githubusercontent.com/u/41343762?v=4",
     "name": "pon50895",
     "title": "Contributor",
@@ -29,6 +18,17 @@
       {
         "icon": "github",
         "link": "https://github.com/pon50895"
+      }
+    ]
+  },
+  {
+    "avatar": "https://avatars.githubusercontent.com/u/35301327?v=4",
+    "name": "asd9176506911298",
+    "title": "Contributor",
+    "links": [
+      {
+        "icon": "github",
+        "link": "https://github.com/asd9176506911298"
       }
     ]
   },
