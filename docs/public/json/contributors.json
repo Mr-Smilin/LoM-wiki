@@ -22,9 +22,20 @@
     ]
   },
   {
-    "avatar": "https://www.github.com/pon50895.png",
+    "avatar": "https://avatars.githubusercontent.com/u/6348965?v=4",
+    "name": "dbfoxtw",
+    "title": "Contributor",
+    "links": [
+      {
+        "icon": "github",
+        "link": "https://github.com/dbfoxtw"
+      }
+    ]
+  },
+  {
+    "avatar": "https://avatars.githubusercontent.com/u/41343762?v=4",
     "name": "pon50895",
-    "title": "Contributor via PR",
+    "title": "Contributor",
     "links": [
       {
         "icon": "github",
