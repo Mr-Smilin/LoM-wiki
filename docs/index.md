@@ -3,25 +3,25 @@
 layout: home
 
 hero:
-  name: "LoM-wiki"
-  text: "活俠傳wiki"
-  tagline: 閒暇時建立的 wiki
-  image:
-    src: /images/index/logo.png
-    alt: LoM-wiki
-  actions:
-    - theme: brand
-      text: 瀏覽 Wiki
-      link: /wiki-list
-    - theme: alt
-      text: 更新計畫
-      link: /other/news
-    - theme: alt
-      text: 遊戲下載
-      link: https://store.steampowered.com/app/1859910/_/
-    - theme: alt
-      text: 協作Wiki
-      link: /develop/1-start
+    name: "活俠傳wiki"
+    text: "Legend of Mortal Wiki"
+    tagline: 不負俠義，不忘初心
+    image:
+        src: /images/index/logo.png
+        alt: LoM-wiki
+    actions:
+        - theme: brand
+          text: 瀏覽 Wiki
+          link: /wiki-list
+        - theme: alt
+          text: 更新計畫
+          link: /other/news
+        - theme: alt
+          text: 遊戲下載
+          link: https://store.steampowered.com/app/1859910/_/
+        - theme: alt
+          text: 協作Wiki
+          link: /develop/1-start
 ---
 
 <script setup>
@@ -50,7 +50,6 @@ onMounted(() => {
   heroImage.parentElement.appendChild(character)
   heroImage.parentElement.appendChild(characterRun)
   heroImage.parentElement.appendChild(characterFade)
-  heroImage.style.display = 'none';
 
   character.addEventListener('animationend', function() {
     this.style.display = 'none'
@@ -86,9 +85,12 @@ onMounted(() => {
   0% { opacity: 0; }
   100% { opacity: 1; }
 }
-
 .image-container{
-  clip-path: inset(-100px -100px -50px -100px);
+  clip-path: inset(-100px -100px -50px 0px);
+}
+
+.image-container .VPImage{
+  display: none;
 }
 
 #character {
@@ -120,4 +122,20 @@ onMounted(() => {
   display: none;
   animation: fade 0.5s linear;
 }
+
+@media (max-width: 960px){
+  .image-container .VPImage{
+    display: block;
+  }
+  #character{
+    display: none;
+  }
+  #character-run{
+    display: none;
+  }
+  #character-fade{
+    display: none;
+  }
+}
+
 </style>
