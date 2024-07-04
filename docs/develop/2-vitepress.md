@@ -1,5 +1,6 @@
 ---
 title: 設定檔項目說明
+description: 這邊主要講解 `.vitepress` 資料夾內，一些較常需要編輯的內容要點。
 tags:
     - dev
     - develop

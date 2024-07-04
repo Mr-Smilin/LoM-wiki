@@ -1,12 +1,13 @@
 ---
 title: 如何在本地運行本 wiki
+description: 本專案使用 `node` 版本為 `18.18.1`，有編輯權限可直接 `pull` 專案`
 tags:
-  - dev
-  - develop
-  - developer
-  - 開發
-  - 協作
-  - npm
+    - dev
+    - develop
+    - developer
+    - 開發
+    - 協作
+    - npm
 ---
 
 # 如何在本地運行本 wiki
