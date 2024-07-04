@@ -169,7 +169,7 @@ export default {
     padding: 20px 0px;
 }
 .img-container > img {
-    weight: 30%;
-    height: 30%;
+    width: 50%;
+    height: 50%;
 }
 </style>
