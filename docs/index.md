@@ -21,7 +21,7 @@ hero:
           link: https://store.steampowered.com/app/1859910/_/
         - theme: alt
           text: Discord
-          link: https://discord.gg/P4kePy6qmc/
+          link: https://discord.gg/P4kePy6qmc
         - theme: alt
           text: 協作Wiki
           link: /develop/1-start
