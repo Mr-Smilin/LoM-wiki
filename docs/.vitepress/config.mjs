@@ -5,7 +5,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
 	title: "Legend of Mortal Wiki", // 站點名稱
 	// titleTemplate: "", title | titleTemplate
-	description: "活俠傳wiki", // 站點敘述
+	// description: "活俠傳wiki", // 站點敘述
 	lang: "zh-TW", // 站點語系
 	base: "/LoM-wiki/", // 站點子目錄
 	sitemap: {
