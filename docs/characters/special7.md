@@ -2,6 +2,7 @@
 title: 石公遠
 tags:
  - 人物
+ - 飛石幫
 aside: false
 ---
 
