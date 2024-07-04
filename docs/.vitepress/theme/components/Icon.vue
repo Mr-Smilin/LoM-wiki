@@ -3,6 +3,7 @@
 </template>
 
 <script>
+import { withBase } from "vitepress";
 export default {
   props: {
     type: {
@@ -38,11 +39,11 @@ export default {
         case TYPE_BADEND:
         case 'be':
           return {
-          backgroundImage: `url('/LoM-wiki/images/generic/${ICON_BADEND}')`
+          backgroundImage: `url('${withBase(`/images/generic/${ICON_BADEND}`)}')`
         };
         default:
           return {
-            backgroundImage: `url('/LoM-wiki/images/generic/${ICON_BADEND}')`
+            backgroundImage: `url('${withBase(`/images/generic/${ICON_BADEND}`)}')`
           };
       }
     }
