@@ -14,7 +14,7 @@ hero:
           text: 瀏覽 Wiki
           link: /wiki-list
         - theme: alt
-          text: 更新計畫
+          text: 官方更新紀錄
           link: /other/news
         - theme: alt
           text: 遊戲下載
@@ -28,43 +28,44 @@ hero:
 ---
 
 <script setup>
-import { onMounted } from 'vue'
+import { onMounted } from 'vue';
+import { withBase } from "vitepress";
 
 onMounted(() => {
-  const heroImage = document.querySelector('.image-container .VPImage')
+  const heroImage = document.querySelector('.image-container .VPImage');
 
-  const character = document.createElement('img')
-  character.id = 'character'
-  character.src = '/LoM-wiki/images/generic/plum_hand.png'
-  character.alt = 'Character'
+  const character = document.createElement('img');
+  character.id = 'character';
+  character.src = withBase('/images/generic/plum_hand.png');
+  character.alt = 'Character';
   
-  const characterRun = document.createElement('img')
-  characterRun.id = 'character-run'
-  characterRun.src = '/LoM-wiki/images/generic/plum_happy_01.png'
-  characterRun.alt = 'Character Running'
-  characterRun.style.display = 'none'
+  const characterRun = document.createElement('img');
+  characterRun.id = 'character-run';
+  characterRun.src = withBase('/images/generic/plum_happy_01.png');
+  characterRun.alt = 'Character Running';
+  characterRun.style.display = 'none';
   
-  const characterFade = document.createElement('img')
-  characterFade.id = 'character-fade'
-  characterFade.src = '/LoM-wiki/images/index/logo.png'
-  characterFade.alt = 'Logo'
-  characterFade.style.display = 'none'
+  const characterFade = document.createElement('img');
+  characterFade.id = 'character-fade';
+  characterFade.src = withBase('/images/index/logo.png');
+  characterFade.alt = 'Logo';
+  characterFade.style.display = 'none';
 
-  heroImage.parentElement.appendChild(character)
-  heroImage.parentElement.appendChild(characterRun)
-  heroImage.parentElement.appendChild(characterFade)
+  heroImage.parentElement.appendChild(character);
+  heroImage.parentElement.appendChild(characterRun);
+  heroImage.parentElement.appendChild(characterFade);
 
   character.addEventListener('animationend', function() {
-    this.style.display = 'none'
-    characterRun.style.display = 'block'
-    characterRun.style.animationPlayState = 'running'
-  })
+    this.style.display = 'none';
+    characterRun.style.display = 'block';
+    characterRun.style.animationPlayState = 'running';
+  });
 
   characterRun.addEventListener('animationend', function() {
-    this.style.display = 'none'
-    characterFade.style.display = 'block'
-    characterFade.style.animationPlayState = 'running'
-  })
+    this.style.display = 'none';
+    characterFade.style.display = 'block';
+    characterFade.style.animationPlayState = 'running';
+  });
 })
 </script>
 
