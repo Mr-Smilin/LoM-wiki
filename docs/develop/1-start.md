@@ -35,7 +35,12 @@ tags:
 
 ## 第二步 - 獲得協作權限(非必要)
 
-[聯絡我](mailto:lion31lion31@gmail.com)，提供你建立 Github 的信箱  
+選擇以下任一步驟
+
+-   [加入 Discord](https://discord.gg/P4kePy6qmc)
+-   [透過信箱聯絡我](mailto:lion31lion31@gmail.com)
+
+提供你建立 Github 的信箱  
 由我這邊開啟協作權限
 
 有沒有權限差異在於
