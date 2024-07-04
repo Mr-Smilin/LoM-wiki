@@ -9,7 +9,7 @@ aside: false
 
 <!-- <img src="/images/characters/girl_8/girl8_drumstick.png" alt="龍湘吃雞腿" width="300" align="right" style="margin: -100px 0 0 -75px;"/> -->
 
-<ChTabs position="bottom">
+<ChTabs position="top">
   <ChTab title="龍湘" :name="{
     nameZh: '龍湘',
     nameEn: 'Long Xiang',
@@ -32,8 +32,8 @@ aside: false
   <ChTab title="角色2"
   :name="{
     nameZh: '龍湘',
-    nameEn: 'Cloris',
-    position: 'left'
+    nameEn: 'Long Xiang',
+    position: 'right'
   }" 
   :image="{
     src: '/images/characters/girl_8/girl8_drumstick.png',
@@ -46,7 +46,7 @@ aside: false
     { label: '屬性1', value: '值1' },
     { label: '屬性2', value: '值2' }
     ],
-    position: 'right'
+    position: 'left'
   }"></ChTab>
 </ChTabs>
 
