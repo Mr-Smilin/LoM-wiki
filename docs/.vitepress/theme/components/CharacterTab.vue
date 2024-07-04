@@ -100,7 +100,6 @@
     bottom: 0;
     text-align: center;
     padding: 20px;
-    transform: translateY(-50%);
   }
   
   .character-details.left {
@@ -109,7 +108,6 @@
   
   .character-details.center {
     left: 50%;
-    transform: translate(-50%, 100%);
   }
   
   .character-details.right {
@@ -133,7 +131,6 @@
   .attributes-table-container {
     position: absolute;
     bottom: 0;
-    transform: translateY(-50%);
   }
   
   .attributes-table-container.left {
@@ -142,7 +139,6 @@
   
   .attributes-table-container.center {
     left: 50%;
-    transform: translate(-50%, 100%);
   }
   
   .attributes-table-container.right {

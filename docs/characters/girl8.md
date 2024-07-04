@@ -9,7 +9,7 @@ aside: false
 
 <!-- <img src="/images/characters/girl_8/girl8_drumstick.png" alt="龍湘吃雞腿" width="300" align="right" style="margin: -100px 0 0 -75px;"/> -->
 
-<ChTabs>
+<ChTabs position="bottom">
   <ChTab title="龍湘" :name="{
     nameZh: '龍湘',
     nameEn: 'Long Xiang',
