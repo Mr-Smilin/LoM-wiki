@@ -7,3 +7,7 @@ charset = utf-8
 [*.md]
 indent_style = space
 indent_size = 4
+
+[*.vue]
+indent_style = space
+indent_size = 4
