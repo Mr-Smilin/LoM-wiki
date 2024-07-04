@@ -1,5 +1,6 @@
 ---
 title: Markdown 基本知識 & 頁面模板
+description: 本文會列出與傳統 `Markdown` 不同，額外支援的撰寫格式。
 tags:
     - dev
     - develop
@@ -31,6 +32,7 @@ tags:
 ```
 ---
 title:
+description:
 tags:
 ---
 
@@ -40,8 +42,9 @@ tags:
 首先當要創建頁面時，新建一個 `.md` 檔在 `docs` 底下  
 檔名務必是純英文跟`-`組成
 
-兩個 `---` 中間有 `title` 跟 `tags`，  
+兩個 `---` 中間有 `title`、`description` 跟 `tags`，  
 `title` 請跟 #標題 中的 標題使用同樣的字串，  
+`description` 敘述一下這篇頁面的內容為何，可以是內文重點，**不可換行**。  
 `tags` 用來標記這篇文章主要提供哪些內容，  
 例如人物列傳，會有人物的介紹，可能還會細部分類他的故事，甚至時間軸  
 那`tags`就可以是人物，故事，時間軸
