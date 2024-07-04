@@ -59,7 +59,7 @@ export default defineConfig({
 			{
 				text: "其他",
 				items: [
-					{ text: "更新計畫", link: "/other/news" },
+					{ text: "官方更新紀錄", link: "/other/news" },
 					{
 						text: "拆包資料",
 						items: [
