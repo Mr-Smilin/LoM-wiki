@@ -18,6 +18,17 @@
             { "icon": "<img src=\"https://i.imgur.com/WamnWzI.png\">", "text": "girl1_laugh1" }
         ]
     },
+    "小師妹":{
+        "type":"image",
+        "container": [
+            { "icon": "<img src=\"https://i.imgur.com/vKgaQCP.png\">", "text": "sister1_angry1" },
+            { "icon": "<img src=\"https://i.imgur.com/VRrso2R.png\">", "text": "sister1_nervous2" },
+            { "icon": "<img src=\"https://i.imgur.com/riLSvat.png\">", "text": "sister1_sad2" },
+            { "icon": "<img src=\"https://i.imgur.com/VVQMAq7.png\">", "text": "sister1_shy" },
+            { "icon": "<img src=\"https://i.imgur.com/v4Nob6d.png\">", "text": "sister1_special1" },
+            { "icon": "<img src=\"https://i.imgur.com/yPw4V2z.png\">", "text": "sister1_special2" }
+        ]
+    },
     "葉雲裳":{
         "type":"image",
         "container": [

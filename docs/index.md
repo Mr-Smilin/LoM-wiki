@@ -20,6 +20,9 @@ hero:
           text: 遊戲下載
           link: https://store.steampowered.com/app/1859910/_/
         - theme: alt
+          text: Discord
+          link: https://discord.gg/P4kePy6qmc
+        - theme: alt
           text: 協作Wiki
           link: /develop/1-start
 ---
@@ -86,7 +89,7 @@ onMounted(() => {
   100% { opacity: 1; }
 }
 .image-container{
-  clip-path: inset(-100px -100px -50px 0px);
+  clip-path: inset(-100px -100px -50px 20px);
 }
 
 .image-container .VPImage{

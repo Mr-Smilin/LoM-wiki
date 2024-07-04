@@ -188,21 +188,6 @@ export default defineConfig({
 		// 	});
 		// },
 	},
-	// enhanceApp({ app, router }) {
-	// 	router.beforeEach((to, from, next) => {
-	// 		const borderless = to.meta.frontmatter.borderless;
-
-	// 		if (borderless && !borderlessStyle) {
-	// 			import("./styles/borderless.css").then((module) => {
-	// 				borderlessStyle = module.default;
-	// 			});
-	// 		} else if (!borderless && borderlessStyle) {
-	// 			const styleTag = document.getElementById("borderless-style");
-	// 			if (styleTag) {
-	// 				styleTag.remove();
-	// 				borderlessStyle = null;
-	// 			}
-	// 		}
 
 	// 		next();
 	// 	});
