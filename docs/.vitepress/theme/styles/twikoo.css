@@ -25,3 +25,8 @@
     margin-left: auto;
     margin-right: auto;
   }
+
+  /* 留言板貼圖大小 */
+  .tk-owo-emotion, .twikoo .OwO-item img{
+    width: 100px !important;
+  }
