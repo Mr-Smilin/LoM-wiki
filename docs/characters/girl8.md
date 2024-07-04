@@ -7,13 +7,21 @@ tags:
 aside: false
 ---
 
-<img src="/images/characters/girl_8/girl8_drumstick.png" alt="龍湘吃雞腿" width="300" align="right" style="margin: -100px 0 0 -75px;"/>
+<img src="/images/characters/girl_8/girl8_drumstick.png" alt="龍湘吃雞腿" width="240" align="right" style="margin: -75px 0 0 0;"/>
 
 # 龍湘
 
 > 「縱死俠骨香，不慚世上英。誰人書閣下，白首太玄雞。」
 
-~~雞腿俠，又名錦香宮殺人魔。~~
+~~雞腿俠，又名錦香宮殺人魔，丐幫的行走錢包。~~
+
+錦香宮弟子，劍術高超，英姿颯爽。沿著生父的足跡遊歷江湖，並遵奉師命行俠仗義，見《惜花令》的風流惡棍便一劍除掉。
+
+可是收了劍後，便是呆頭呆腦。烤隻雞不拔毛，錢包總是被割，生活一團糟。
+
+酷愛雞腿，願餐餐都有雞腿吃。
+
+<br clear="all">
 
 <Tabs>
   <Tab title="列傳一">
