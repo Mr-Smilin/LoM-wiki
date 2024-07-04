@@ -61,16 +61,16 @@ tags:
     默認為 `true`，設成 `false` 可以讓右側的標題導覽消失，  
     覺得頁面不夠大的時候可以加上這一行。
 
--   `outline: [2, 3]`
+-   `outline: [2, 3]`  
     決定右側標題導覽要抓取的標題區間，
     默認為 2，也就是只抓前綴為 `##` 的標題到導覽  
     如範例設定 [2, 3]，則會將 `###` 的標題放在 `##` 底下。
 
--   `sidebar: false`
+-   `sidebar: false`  
     默認為 `true`，設成 `false` 可以讓左側的側邊欄消失，  
     覺得頁面不夠大的時候可以加上這一行。
 
--   `borderless: true`
+-   `borderless: true` <Badge type="warning" text="自定義" />  
     默認為 `false`，設成 `true` 可以讓文章的寬度呈現無邊界樣式，  
     搭配上面的 `aside` 跟 `sidebar` 可以最大程度的拉伸內容，  
     內容如果會變化的話，寬度也會動態改變。
