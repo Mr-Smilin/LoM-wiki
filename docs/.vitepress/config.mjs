@@ -1,5 +1,5 @@
 import { defineConfig } from "vitepress";
-import MarkdownItContainer from "markdown-it-container";
+// import MarkdownItContainer from "markdown-it-container";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
