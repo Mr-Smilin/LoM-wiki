@@ -1,12 +1,14 @@
 ---
 title: 唐中翎
 tags:
- - 人物
- - 唐門
+    - 人物
+    - 唐門
 ---
 
-![唐中翎](/images/characters/icon_master.png)
+![唐中翎](/images/characters/faction/icon_master.png)
+
 # 唐門掌門 唐中翎
+
 本名唐中翎，當任唐門掌門人。  
 性情剛烈，嫉惡如仇，曾列名武林十大高手的傳奇人物，可惜中年過後，身體已然大不如前，飛燕流星翎成為絕響。
 

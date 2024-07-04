@@ -5,6 +5,7 @@ import Tabs from "./components/Tabs.vue";
 import Tab from "./components/Tab.vue";
 import Icon from "./components/Icon.vue";
 import "./styles/style.css";
+import "./styles/borderless.css";
 import "./styles/twikoo.css";
 
 export default {

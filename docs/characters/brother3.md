@@ -1,12 +1,14 @@
 ---
 title: 唐陞
 tags:
- - 人物
- - 唐門
+    - 人物
+    - 唐門
 ---
 
-![唐陞](/images/characters/icon_brother3.png)
+![唐陞](/images/characters/faction/icon_brother3.png)
+
 # 三師兄 唐陞
+
 單名一字陞，唐門掌門第三親傳弟子。  
 帶藝投師，因此年紀較二位師兄為長，從前是志向遠大的讀書人，只因開罪權貴，遠避江湖。  
 興趣是說書，教化英才，笑談天下事。

@@ -1,10 +1,10 @@
 ---
-aside: false
 title: 龍湘
 tags:
     - 人物
     - 錦香宮
     - 可攻略女角
+aside: false
 ---
 
 <img src="/images/characters/girl8_drumstick.png" alt="龍湘吃雞腿" width="300" align="right" style="margin: -100px 0 0 -75px;"/>

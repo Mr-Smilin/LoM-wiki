@@ -1,9 +1,10 @@
 ---
 aside: false
+borderless: true
 title: 稱號列表
 tags:
-  - titleList
-  - 稱號
+    - titleList
+    - 稱號
 ---
 
 # 稱號列表
@@ -23,7 +24,7 @@ tags:
     </tr>
     <tr>
         <td>下作俠</td>
-        <td>未知</td>
+        <td>無可救藥的故事中，可以於段考時選擇與丐幫菜市場決戰，勝利後獲得</td>
     </tr>
     <tr>
         <td>鬼面郎中</td>

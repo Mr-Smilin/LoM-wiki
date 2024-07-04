@@ -70,6 +70,11 @@ tags:
     默認為 `true`，設成 `false` 可以讓左側的側邊欄消失，  
     覺得頁面不夠大的時候可以加上這一行。
 
+-   `borderless: true`
+    默認為 `false`，設成 `true` 可以讓文章的寬度呈現無邊界樣式，  
+    搭配上面的 `aside` 跟 `sidebar` 可以最大程度的拉伸內容，  
+    內容如果會變化的話，寬度也會動態改變。
+
 除此以外的表頭屬性，可參考[官方文檔](https://vitepress.dev/zh/reference/default-theme-home-page)
 
 ## vitepress 的自訂 markdown

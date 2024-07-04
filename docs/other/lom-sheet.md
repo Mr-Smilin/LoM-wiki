@@ -1,5 +1,6 @@
 ---
 aside: false
+borderless: true
 title: 唐門圖書館
 tags:
     - sheet

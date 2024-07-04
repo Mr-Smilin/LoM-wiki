@@ -1,12 +1,13 @@
 ---
 title: 唐默鈴
 tags:
- - 人物
- - 唐門
- - 可攻略女角
+    - 人物
+    - 唐門
+    - 可攻略女角
 ---
 
-![唐默鈴](/images/characters/icon_girl0.png)
+![唐默鈴](/images/characters/girl_0/icon_girl0.png)
+
 # 小師妹 唐默鈴
 
 芳名默鈴，掌門獨生愛女，宛如森林小動物般的少女，性情淡漠，身繫七串從來不響的鈴鐺。  

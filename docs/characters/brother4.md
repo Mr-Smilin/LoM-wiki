@@ -1,12 +1,14 @@
 ---
 title: 唐惟元
 tags:
- - 人物
- - 唐門
+    - 人物
+    - 唐門
 ---
 
-![唐惟元](/images/characters/icon_brother4.png)
+![唐惟元](/images/characters/faction/icon_brother4.png)
+
 # 四師兄 唐惟元
+
 本名惟元，唐門掌門的關門弟子。  
 被委以往返山下兜售藥品、採購生活用品的任務，樂此不疲，經常鑽門規的空子，夾帶私貨抬價賣給同門師兄弟賺取差價。
 

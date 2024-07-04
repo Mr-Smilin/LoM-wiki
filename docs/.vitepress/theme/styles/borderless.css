@@ -1,0 +1,15 @@
+
+.borderless #app .Layout .VPContent .VPDoc .container{
+  max-width: none;
+}
+
+.borderless #app .Layout .VPContent .VPDoc .container .content{
+  max-width: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.borderless #app .Layout .VPContent .VPDoc .container .content .content-container{
+  max-width: none;
+}

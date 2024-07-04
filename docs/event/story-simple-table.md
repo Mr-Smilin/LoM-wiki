@@ -1,15 +1,17 @@
 ---
+borderless: true
 title: 主支線簡易表格
-outline: [2,3]
+outline: [2, 3]
 tags:
-
-- simple
-- table
-- branch
-
+    - simple
+    - table
+    - branch
 ---
+
 # 主支線簡易表格
+
 ## 第一年
+
 <div class="table-container">
 <table>
     <thead>
@@ -155,6 +157,7 @@ tags:
 </div>
 
 ## 第二年 - 路線：留守唐門
+
 <div class="table-container">
 <table>
     <thead>
@@ -319,6 +322,7 @@ tags:
 </div>
 
 ## 第二年 - 路線：崆峒派留學
+
 <div class="table-container">
 <table>
     <thead>
@@ -495,6 +499,7 @@ tags:
 </div>
 
 ## 第三年
+
 <div class="table-container">
 <table>
     <thead>
@@ -668,9 +673,11 @@ tags:
 </div>
 
 ## 第四年
+
 ```
     注：若條件無法成立西武林盟, 決戰於一月中旬發生, 第三年年底不會成立西武林、出使別派事件
 ```
+
 <div class="table-container">
 <table>
     <thead>

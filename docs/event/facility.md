@@ -1,10 +1,11 @@
 ---
 aside: false
+borderless: true
 title: 門派設施列表
 tags:
-  - facility
-  - 門派
-  - 設施
+    - facility
+    - 門派
+    - 設施
 ---
 
 # 門派設施列表

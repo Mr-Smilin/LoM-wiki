@@ -22,17 +22,6 @@
     ]
   },
   {
-    "avatar": "https://avatars.githubusercontent.com/u/35301327?v=4",
-    "name": "asd9176506911298",
-    "title": "Contributor",
-    "links": [
-      {
-        "icon": "github",
-        "link": "https://github.com/asd9176506911298"
-      }
-    ]
-  },
-  {
     "avatar": "https://avatars.githubusercontent.com/u/6348965?v=4",
     "name": "dbfoxtw",
     "title": "Contributor",
@@ -40,6 +29,17 @@
       {
         "icon": "github",
         "link": "https://github.com/dbfoxtw"
+      }
+    ]
+  },
+  {
+    "avatar": "https://avatars.githubusercontent.com/u/35301327?v=4",
+    "name": "asd9176506911298",
+    "title": "Contributor",
+    "links": [
+      {
+        "icon": "github",
+        "link": "https://github.com/asd9176506911298"
       }
     ]
   }

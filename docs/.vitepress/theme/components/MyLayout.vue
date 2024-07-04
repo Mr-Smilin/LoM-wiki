@@ -3,6 +3,7 @@
 import DefaultTheme from "vitepress/theme";
 import { defineAsyncComponent } from "vue";
 import Twikoo from "./Twikoo.vue";
+import Borderless from "./Borderless.vue";
 
 const { Layout } = DefaultTheme;
 const NotFound = defineAsyncComponent(() => import("./NotFound.vue"));
@@ -21,6 +22,7 @@ const NotFound = defineAsyncComponent(() => import("./NotFound.vue"));
 		</template>
 		<template #doc-after>
 			<Twikoo></Twikoo>
+			<Borderless></Borderless>
 		</template>
 	</Layout>
 </template>

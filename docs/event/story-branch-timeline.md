@@ -1,6 +1,6 @@
 ---
-sidebar: false
 aside: false
+borderless: true
 title: 主支線年表
 outline: [2, 3]
 tags:

@@ -1,11 +1,12 @@
 ---
 title: 唐布衣
 tags:
- - 人物
- - 唐門
+    - 人物
+    - 唐門
 ---
 
-![唐布衣](/images/characters/icon_brother1.png)
+![唐布衣](/images/characters/faction/icon_brother1.png)
+
 # 飛俠 唐布衣
 
 名喚布衣，掌門座下第一大弟子。  
