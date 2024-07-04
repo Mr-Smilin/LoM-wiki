@@ -95,7 +95,7 @@ export default {
                 leftValue = this.contents[index - 1].checkValue
             }
 
-            // right equaltion for the margin judgement, the result depends on the order of contents.
+            // right inequality for the margin judgement, the result depends on the order of contents.
             return leftValue <= this.randomVariable && this.randomVariable <= rightValue
         },
         getSampleSpaceValue(index = null) {
