@@ -7,9 +7,50 @@ tags:
 aside: false
 ---
 
-<img src="/images/characters/girl_8/girl8_drumstick.png" alt="龍湘吃雞腿" width="300" align="right" style="margin: -100px 0 0 -75px;"/>
+<!-- <img src="/images/characters/girl_8/girl8_drumstick.png" alt="龍湘吃雞腿" width="300" align="right" style="margin: -100px 0 0 -75px;"/> -->
 
-# 龍湘
+<ChTabs>
+  <ChTab title="龍湘" :name="{
+    nameZh: '龍湘',
+    nameEn: 'Long Xiang',
+    position: 'left'
+  }" 
+  :image="{
+    src: '/images/characters/girl_8/icon_girl8.png',
+    position: 'center'
+  }"
+   :attributes="{
+    table: [
+    { label: '屬性1', value: '值1' },
+    { label: '屬性1', value: '值1' },
+    { label: '屬性1', value: '值1' },
+    { label: '屬性2', value: '值2' }
+    ],
+    position: 'right'
+  }"
+  />
+  <ChTab title="角色2"
+  :name="{
+    nameZh: '龍湘',
+    nameEn: 'Cloris',
+    position: 'left'
+  }" 
+  :image="{
+    src: '/images/characters/girl_8/girl8_drumstick.png',
+    position: 'center'
+  }"
+   :attributes="{
+    table: [
+    { label: '屬性1', value: '值1' },
+    { label: '屬性1', value: '值1' },
+    { label: '屬性1', value: '值1' },
+    { label: '屬性2', value: '值2' }
+    ],
+    position: 'right'
+  }"></ChTab>
+</ChTabs>
+
+<!-- # 龍湘 -->
 
 > 「縱死俠骨香，不慚世上英。誰人書閣下，白首太玄雞。」
 

@@ -4,6 +4,8 @@ import MyLayout from "./components/MyLayout.vue";
 import Tabs from "./components/Tabs.vue";
 import Tab from "./components/Tab.vue";
 import Icon from "./components/Icon.vue";
+import ChTabs from "./components/CharacterTabs.vue";
+import ChTab from "./components/CharacterTab.vue";
 import "./styles/style.css";
 import "./styles/borderless.css";
 import "./styles/twikoo.css";
@@ -16,5 +18,7 @@ export default {
     app.component("Tabs", Tabs);
     app.component("Tab", Tab);
     app.component("Icon", Icon);
+    app.component("ChTabs", ChTabs);
+    app.component("ChTab", ChTab);
   },
 };
