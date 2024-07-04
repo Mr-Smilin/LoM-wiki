@@ -3,23 +3,25 @@
 	<div class="not-found-container">
 		<div class="not-found-content">
             <div class="img-container">
-                <img :src="this.getContent().image">
+                <img :src="content.image">
             </div>
-            <p>{{ this.getContent().name }}結緣機率：{{ this.getShowProbability() }} % </p>
-			<p>{{ this.getContent().mainMessage }}</p>
-			<p>{{ this.getContent().subMessage }}</p>
+            <p>{{ content.name }}結緣機率：{{ showProbability }} % </p>
+			<p>{{ content.mainMessage }}</p>
+			<p>{{ content.subMessage }}</p>
 			<a href="/" class="home-button">返回首頁</a>
-			<a :href="this.getContent().customButton.link" class="home-button">{{ this.getContent().customButton.text }}</a>
+			<a :href="content.customButton.link" class="home-button">{{ content.customButton.text }}</a>
 		</div>
 	</div>
 </template>
+
 <script>
 import { withBase } from "vitepress";
 export default {
     data() {
         return {
             randomVariable: 0,
-            contentIndex:0,
+            contentIndex: 0,
+            content: {},
             contents: [
                 {
                     name: '葉小妹',
@@ -44,8 +46,9 @@ export default {
                     checkValue: 1000000
                 }
             ],// 圖片名稱不可帶空格, #字符, 否則無法顯示。
-            sampleSpaceValueArray:[],
-            SAMPLE_SPACE: 0
+            sampleSpaceValueArray: [],
+            SAMPLE_SPACE: 0,
+            showProbability: 0
         }
     },
     created() {
@@ -61,6 +64,7 @@ export default {
             }
         }
         this.setContent();
+        this.showProbability = this.getShowProbability();
     },
     methods: {
         getContentIndex() {
@@ -69,14 +73,11 @@ export default {
         setContentIndex(index) {
             this.contentIndex = index;
         },
-        generateRandom(sampleSpace){
+        generateRandom(sampleSpace) {
             return Math.ceil(sampleSpace * Math.random());
         },
         setContent() {
             this.content = this.contents[this.contentIndex]
-        },
-        getContent() {
-            return this.content;
         },
         appendSampleSpace(rightValue) {
             let leftValue = 0
@@ -87,11 +88,11 @@ export default {
 
             this.sampleSpaceValueArray.push(rightValue - leftValue)
         },
-        checkContentIndex(index){
+        checkContentIndex(index) {
             let leftValue = 0
             let rightValue = this.contents[index].checkValue
-            if (index > 0){
-                leftValue = this.contents[index-1].checkValue
+            if (index > 0) {
+                leftValue = this.contents[index - 1].checkValue
             }
 
             // right equaltion for the margin judgement, the result depends on the order of contents.
@@ -104,13 +105,13 @@ export default {
 
             return this.sampleSpaceValueArray[index]
         },
-        getShowProbability(index = null){
-            if (index === null){
+        getShowProbability(index = null) {
+            if (index === null) {
                 index = this.contentIndex
             }
 
             // 四捨五入到第二位
-            return  (this.getSampleSpaceValue(index) / this.SAMPLE_SPACE).toFixed(4)  * 100;
+            return (this.getSampleSpaceValue(index) / this.SAMPLE_SPACE).toFixed(4) * 100;
         }
     }
 }
