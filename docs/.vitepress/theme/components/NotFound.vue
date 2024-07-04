@@ -2,119 +2,17 @@
 <template>
 	<div class="not-found-container">
 		<div class="not-found-content">
-            <div class="img-container">
-                <img :src="this.getContent().image">
-            </div>
-            <p>{{ this.getContent().name }}結緣機率：{{ this.getShowProbability() }} % </p>
-			<p>{{ this.getContent().mainMessage }}</p>
-			<p>{{ this.getContent().subMessage }}</p>
+			<h1>404</h1>
+      <div class="img-container">
+        <img src="https://i.imgur.com/yBZyrSc.png">
+      </div>
+			<p>抱歉，葉小妹找不到你要的頁面。</p>
+			<p>醒醒吧肥仔～找不到就自己動手做啊～</p>
 			<a href="/" class="home-button">返回首頁</a>
-			<a :href="this.getContent().customButton.link" class="home-button">{{ this.getContent().customButton.text }}</a>
+			<a href="/LoM-wiki/develop/1-start" class="home-button">協作Wiki</a>
 		</div>
 	</div>
 </template>
-<script>
-import { withBase } from "vitepress";
-export default {
-    data() {
-        return {
-            randomVariable: 0,
-            contentIndex:0,
-            contents: [
-                {
-                    name: '葉小妹',
-                    image: withBase(`/images/characters/girl_2/gloomy2.png`),
-                    mainMessage: "抱歉，葉小妹找不到你要的頁面。",
-                    subMessage: "醒醒吧肥仔～找不到就自己動手做啊～",
-                    customButton: {
-                        text: "經不起挑釁動手做",
-                        link: withBase(`/develop/1-start`)
-                    },
-                    checkValue: 1000000 * 0.8231  //檢定值
-                },
-                {
-                    name: '雞腿俠',
-                    image: withBase(`/images/characters/girl_8/girl8_drumstick.png`),
-                    mainMessage: "抱歉，龍湘把你要的頁面當雞腿吃了。",
-                    subMessage: "龍湘開心地望著你，希望你還能提供更多雞腿。",
-                    customButton: {
-                        text: "你感到無奈，只好重新做一頁餵她",
-                        link: withBase(`/develop/1-start`)
-                    },
-                    checkValue: 1000000
-                }
-            ],// 圖片名稱不可帶空格, #字符, 否則無法顯示。
-            sampleSpaceValueArray:[],
-            SAMPLE_SPACE: 0
-        }
-    },
-    created() {
-        const SAMPLE_SPACE = 1000000;  // 樣本選定值上限
-        this.SAMPLE_SPACE = SAMPLE_SPACE
-        this.randomVariable = this.generateRandom(this.SAMPLE_SPACE);
-
-        for (let i = 0; i < this.contents.length; i++) {
-            this.appendSampleSpace(this.contents[i].checkValue)
-            // Calculate the checkValue of each content
-            if (this.checkContentIndex(i)) {
-                this.setContentIndex(i);
-            }
-        }
-        this.setContent();
-    },
-    methods: {
-        getContentIndex() {
-            return this.contentIndex;
-        },
-        setContentIndex(index) {
-            this.contentIndex = index;
-        },
-        generateRandom(sampleSpace){
-            return Math.ceil(sampleSpace * Math.random());
-        },
-        setContent() {
-            this.content = this.contents[this.contentIndex]
-        },
-        getContent() {
-            return this.content;
-        },
-        appendSampleSpace(rightValue) {
-            let leftValue = 0
-
-            if (this.sampleSpaceValueArray.length !== 0) {
-                leftValue = this.sampleSpaceValueArray[this.sampleSpaceValueArray.length - 1]
-            }
-
-            this.sampleSpaceValueArray.push(rightValue - leftValue)
-        },
-        checkContentIndex(index){
-            let leftValue = 0
-            let rightValue = this.contents[index].checkValue
-            if (index > 0){
-                leftValue = this.contents[index-1].checkValue
-            }
-
-            // right equaltion for the margin judgement, the result depends on the order of contents.
-            return leftValue <= this.randomVariable && this.randomVariable <= rightValue
-        },
-        getSampleSpaceValue(index = null) {
-            if (index === null) {
-                return this.index = this.SAMPLE_SPACE
-            }
-
-            return this.sampleSpaceValueArray[index]
-        },
-        getShowProbability(index = null){
-            if (index === null){
-                index = this.contentIndex
-            }
-
-            // 四捨五入到第二位
-            return  (this.getSampleSpaceValue(index) / this.SAMPLE_SPACE).toFixed(4)  * 100;
-        }
-    }
-}
-</script>
 
 <style scoped>
 .not-found-container {
@@ -162,14 +60,10 @@ export default {
 }
 
 .img-container {
-    align-items: center;
-    align-content: center;
-    justify-content: center;
-    display: flex;
-    padding: 20px 0px;
-}
-.img-container > img {
-    width: 50%;
-    height: 50%;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  display: flex;
+  padding: 20px 0px;
 }
 </style>
