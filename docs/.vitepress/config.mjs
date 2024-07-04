@@ -30,7 +30,8 @@ export default defineConfig({
 				activeMatch: "/characters/",
 			},
 			{
-				text: "機制", items: [
+				text: "機制",
+				items: [
 					{
 						text: "投降",
 						link: "/mechanism/surrender",
@@ -148,6 +149,15 @@ export default defineConfig({
 			label: "English",
 			lang: "en",
 			link: "/en",
+		},
+	},
+	markdown: {
+		container: {
+			tipLabel: "💡提示",
+			warningLabel: "⚠️警告",
+			dangerLabel: "☢️危險",
+			infoLabel: "📃內容",
+			detailsLabel: "📖詳細內容",
 		},
 	},
 	// head: [

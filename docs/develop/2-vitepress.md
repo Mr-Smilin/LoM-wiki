@@ -1,11 +1,11 @@
 ---
 title: 設定檔項目說明
 tags:
-  - dev
-  - develop
-  - developer
-  - 開發
-  - 協作
+    - dev
+    - develop
+    - developer
+    - 開發
+    - 協作
 ---
 
 # 設定檔項目說明
@@ -23,8 +23,8 @@ tags:
 
 ![](/images/develop/2-vitepress/01.jpg)
 
-- `config.mjs` 主要會需要調整的設定檔，影響左側目錄，以及站點的主要設定
-- `theme` 本站的自定義樣式 / 工具，請在具備一定基礎知識的情況下操作
+-   `config.mjs` 主要會需要調整的設定檔，影響左側目錄，以及站點的主要設定
+-   `theme` 本站的自定義樣式 / 工具，請在具備一定基礎知識的情況下操作
 
 ## 目錄調整
 

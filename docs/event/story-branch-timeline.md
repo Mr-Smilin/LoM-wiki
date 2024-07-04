@@ -1,12 +1,11 @@
 ---
+sidebar: false
 aside: false
 title: 主支線年表
-outline: [2,3]
+outline: [2, 3]
 tags:
-
-- timeline
-- branch
-
+    - timeline
+    - branch
 ---
 
 # 主支線年表
