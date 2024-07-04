@@ -7,7 +7,7 @@ tags:
 aside: false
 ---
 
-<img src="/images/characters/girl8_drumstick.png" alt="龍湘吃雞腿" width="300" align="right" style="margin: -100px 0 0 -75px;"/>
+<img src="/images/characters/girl_8/girl8_drumstick.png" alt="龍湘吃雞腿" width="300" align="right" style="margin: -100px 0 0 -75px;"/>
 
 # 龍湘
 
