@@ -57,7 +57,6 @@ export default {
             this.appendSampleSpace(this.contents[i].checkValue)
             // Calculate the checkValue of each content
             if (this.checkContentIndex(i)) {
-                console.log("setContentIndex:" + i);
                 this.setContentIndex(i);
             }
         }
