@@ -56,7 +56,7 @@ borderless: false
       </ChTr>
       <ChTr>
         <ChTd position='center'>  
-          ~~ 溫夫人(師傅) ~~
+          溫夫人(師傅)
         </ChTd>
       </ChTr>
       <ChTr>
