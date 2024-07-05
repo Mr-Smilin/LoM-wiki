@@ -8,7 +8,7 @@ aside: false
 borderless: false
 ---
 
-<ChTabs position="top">
+<ChTabs position="bottom">
   <ChTab title="龍湘">
     <ChBg :image="{
       src: '/images/characters/girl_8/normal.png',

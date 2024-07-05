@@ -156,7 +156,7 @@
   }
 
   .particle-basic.tabs-bottom{
-    bottom: 10vh; 
+    bottom: 46px; 
   }
 
   .particle-container{
