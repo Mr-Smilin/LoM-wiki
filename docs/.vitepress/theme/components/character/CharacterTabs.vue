@@ -11,7 +11,7 @@
           {{ tab.title }}
         </div>
       </div>
-      <div class="tab-content">
+      <div class="tab-contents">
         <slot></slot>
       </div>
       <div :class="['particle-basic',tabsPosition]">
@@ -93,10 +93,10 @@
   .tabs-container {
     position: relative;
     max-width: 100%;
-    height: 70vh;
     display: flex;
     flex-direction:column;
     overflow: hidden;
+    box-sizing: border-box;
   }
   
   .tabs {
@@ -104,7 +104,8 @@
     justify-content: center;
     margin-bottom: 1rem;
     box-sizing: border-box;
-    height: 10vh;
+    height: 46px;
+    margin: 0;
   }
   
   .tabs-top.tabs {

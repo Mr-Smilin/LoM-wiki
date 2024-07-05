@@ -1,4 +1,4 @@
-
+<template></template>
 
 <script setup>
 import { watchEffect } from 'vue'

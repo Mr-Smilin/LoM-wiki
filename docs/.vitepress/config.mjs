@@ -1,5 +1,4 @@
 import { defineConfig } from "vitepress";
-// import MarkdownItContainer from "markdown-it-container";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -187,29 +186,10 @@ export default defineConfig({
 			// 圖片懶加載
 			lazyLoading: false,
 		},
-		// config: (md) => {
-		// 	md.use(MarkdownItContainer, "tabs", {
-		// 		render(tokens, idx) {
-		// 			const token = tokens[idx];
-		// 			if (token.nesting === 1) {
-		// 				return "<Tabs>\n";
-		// 			} else {
-		// 				return "</Tabs>\n";
-		// 			}
-		// 		},
-		// 	});
-		// 	md.use(MarkdownItContainer, "tab", {
-		// 		render(tokens, idx) {
-		// 			const token = tokens[idx];
-		// 			if (token.nesting === 1) {
-		// 				const title = token.info.trim().slice(4).trim();
-		// 				return `<Tab title="${title}">\n`;
-		// 			} else {
-		// 				return "</Tab>\n";
-		// 			}
-		// 		},
-		// 	});
-		// },
+		component: {
+			blockTags: [],
+			inlineTags: ["template", "td", "div", "slot", "p", "ChTd", "CharacterTd"],
+		},
 	},
 
 	// 		next();
