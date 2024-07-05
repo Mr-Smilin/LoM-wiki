@@ -79,16 +79,21 @@ export default defineConfig({
 					{ text: "設定檔項目說明", link: "/develop/2-vitepress" },
 					{ text: "本地運行(進階)", link: "/develop/3-run-local" },
 					{
-						text: "Markdown 基本知識",
-						link: "/develop/4-example",
-					},
-					{
-						text: "Markdown 頁面模板",
-						link: "/develop/template.md",
-					},
-					{
-						text: "Markdown 頁面乾淨模板",
-						link: "/develop/clean-template.md",
+						text: "Markdown 相關",
+						items: [
+							{
+								text: "基本知識",
+								link: "/develop/4-example",
+							},
+							{
+								text: "常見用法",
+								link: "/develop/template.md",
+							},
+							{
+								text: "乾淨模板",
+								link: "/develop/clean-template.md",
+							},
+						],
 					},
 				],
 			},
@@ -105,6 +110,16 @@ export default defineConfig({
 						{
 							text: "Markdown 基本知識",
 							link: "/develop/4-example",
+							items: [
+								{
+									text: "Markdown 常見用法",
+									link: "/develop/template.md",
+								},
+								{
+									text: "Markdown 乾淨模板",
+									link: "/develop/clean-template.md",
+								},
+							],
 						},
 					],
 				},
