@@ -7,23 +7,24 @@ tags:
 aside: false
 ---
 
-<!-- <img src="/images/characters/girl_8/girl8_drumstick.png" alt="龍湘吃雞腿" width="300" align="right" style="margin: -100px 0 0 -75px;"/> -->
-
 <ChTabs position="top">
   <ChTab title="龍湘" :name="{
     nameZh: '龍湘',
     nameEn: 'Long Xiang',
     position: 'right'
   }" 
-  :image="{
-    src: '/images/characters/girl_8/girl8_drumstick.png',
-  }"
-   :attributes="{
+  :attributes="{
     table: [
-    { label: '屬性1', value: '值1' },
-    { label: '屬性1', value: '值1' },
-    { label: '屬性1', value: '值1' },
-    { label: '屬性2', value: '值2' }
+    { label: '用來展示', value: '標題顏色', isTitle: true },
+    { label: '性別', value: '女' },
+    { label: '年齡', value: '不明，可能18上下' },
+    {value: '稱號',isTitle: true},
+    {value: '錦香宮殺人魔、湘姊'},
+    { value: '關係',isTitle: true },
+    { value: '龍淵(父親)' },
+    { value: '溫夫人(師傅)' },
+    { value: '畫中仙(師姐)' },
+    { value: '趙活(臭弟)' },
     ],
     position: 'left'
   }"
@@ -36,7 +37,7 @@ aside: false
   }" 
   :image="{
     src: '/images/characters/girl_8/girl8_drumstick.png',
-    position: 'right',
+    position: 'center',
     anima: true
   }"></ChTab>
 </ChTabs>
