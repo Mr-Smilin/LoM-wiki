@@ -36,20 +36,20 @@ export default {
             const TYPE_BADEND = 'badend';
             const TYPE_GIRL0  = 'girl0';
             const SOURCE_MAP = {
-                TYPE_BADEND: `url('${withBase(`/images/generic/icon_badend.jpg`)}')`,
-                TYPE_GIRL0: `url('${withBase(`/images/characters/girl_0/icon_girl0.png`)}')`
+                [TYPE_BADEND]: `url('${withBase(`/images/generic/icon_badend.jpg`)}')`,
+                [TYPE_GIRL0]: `url('${withBase(`/images/characters/girl_0/icon_girl0.png`)}')`
             };
 
             // check key exists in map
             if (SOURCE_MAP.hasOwnProperty(character)){
                 return {
-                    backgroundImage: SOURCE_MAP.character
+                    backgroundImage: SOURCE_MAP[character]
                 };
             }
 
             // given default icon the same as TYPE_BADEND
             return {
-                backgroundImage: SOURCE_MAP.TYPE_BADEND
+                backgroundImage: SOURCE_MAP[TYPE_BADEND]
             };
         },
         getIconClass(iconType) {
