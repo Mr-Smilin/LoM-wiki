@@ -7,7 +7,7 @@ tags:
 aside: false
 ---
 
-<ChTabs position="top">
+<ChTabs position="bottom">
   <ChTab title="龍湘" :name="{
     nameZh: '龍湘',
     nameEn: 'Long Xiang',
