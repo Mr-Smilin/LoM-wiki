@@ -93,7 +93,7 @@
   .tabs-container {
     position: relative;
     max-width: 100%;
-    height: 700px;
+    height: 70vh;
     display: flex;
     flex-direction:column;
     overflow: hidden;
@@ -103,6 +103,8 @@
     display: flex;
     justify-content: center;
     margin-bottom: 1rem;
+    box-sizing: border-box;
+    height: 10vh;
   }
   
   .tabs-top.tabs {
@@ -139,7 +141,7 @@
   
   .tab-content {
     position: relative;
-    height: 100%;
+    /* height: 100%; */
   }
   </style>
   
@@ -166,7 +168,7 @@
       width: 0;
       height: 0;
       border-radius: 50%;
-      background-color: #ffffff;
+      background-color: var(--vp-c-text-1);
       opacity: 0.8;
       animation: riseAndFade 2s linear infinite;
   }

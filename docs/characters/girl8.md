@@ -17,7 +17,7 @@ aside: false
   }" 
   :image="{
     src: '/images/characters/girl_8/icon_girl8.png',
-    position: 'center'
+    position: 'left'
   }"
    :attributes="{
     table: [
@@ -36,8 +36,7 @@ aside: false
     position: 'right'
   }" 
   :image="{
-    src: '/images/characters/girl_8/girl8_drumstick.png',
-    position: 'center'
+    src: '/images/characters/girl_8/girl8_drumstick.png'
   }"
    :attributes="{
     table: [

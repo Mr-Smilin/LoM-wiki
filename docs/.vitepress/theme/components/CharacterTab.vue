@@ -58,7 +58,16 @@
   
       const isActive = computed(() => index === selectedIndex.value);
       const imageSrc = computed(() => withBase(props.image.src));
-      const imagePosition = computed(() => props.image.position || 'center');
+      const imagePosition = computed(() => {
+        switch(props.image?.position) {
+          case 'left':
+            return 'left bottom';
+          case 'right':
+            return 'right bottom';
+          default:
+            return 'center bottom';
+        }}
+      );
       const attributesPosition = computed(() => props.attributes.position || 'left');
       const namePosition = computed(() => props.name.position || 'right');
   
@@ -78,7 +87,7 @@
   <style scoped>
   .tab-content {
     position: relative;
-    height: 100%;
+    height: 60vh;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -87,11 +96,11 @@
   
   .background-image {
     position: absolute;
-    top: 0;
+    bottom: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-size: 554px auto;
+    background-size: auto 60vh;
     background-repeat: no-repeat;
   }
   
