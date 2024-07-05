@@ -234,6 +234,7 @@ export default {
   padding-right: 10px;
   font-weight: bold;
   margin-top: 0;
+  min-width: 300px;
 }
 
 .attributes-table::before {

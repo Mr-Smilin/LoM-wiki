@@ -13,6 +13,11 @@ aside: false
     nameEn: 'Long Xiang',
     position: 'right'
   }" 
+  :image="{
+    src: '/images/characters/girl_8/normal.png',
+    position: 'right',
+    anima: false
+  }"
   :attributes="{
     table: [
     { label: '用來展示', value: '標題顏色', isTitle: true },
@@ -29,17 +34,39 @@ aside: false
     position: 'left'
   }"
   />
-  <ChTab title="角色2"
+  <ChTab title="吃雞腿"
   :name="{
-    nameZh: '龍湘',
-    nameEn: 'Long Xiang',
+    nameZh: '吃雞腿',
+    nameEn: 'Chī jītuǐ',
     position: 'left'
   }" 
   :image="{
     src: '/images/characters/girl_8/girl8_drumstick.png',
     position: 'center',
     anima: true
-  }"></ChTab>
+  }"/>
+  <ChTab title="大笑"
+  :name="{
+    nameZh: '大笑',
+    nameEn: 'Laugh heartily',
+    position: 'left'
+  }" 
+  :image="{
+    src: '/images/characters/girl_8/laugh2.png',
+    position: 'center',
+    anima: true
+  }"/>
+  <ChTab title="戰鬥"
+  :name="{
+    nameZh: '戰鬥',
+    nameEn: 'Fight',
+    position: 'left'
+  }" 
+  :image="{
+    src: '/images/characters/girl_8/angry3.png',
+    position: 'center',
+    anima: true
+  }"/>
 </ChTabs>
 
 <!-- # 龍湘 -->
