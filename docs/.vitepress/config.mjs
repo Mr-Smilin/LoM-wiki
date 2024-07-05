@@ -185,7 +185,7 @@ export default defineConfig({
 		},
 		image: {
 			// 圖片懶加載
-			lazyLoading: true,
+			lazyLoading: false,
 		},
 		// config: (md) => {
 		// 	md.use(MarkdownItContainer, "tabs", {
