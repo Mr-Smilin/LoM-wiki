@@ -1,5 +1,5 @@
 ---
-title: 最新計畫
+title: 官方更新紀錄
 tags:
   - news
   - 新聞
@@ -7,7 +7,7 @@ tags:
   - 更新
 ---
 
-# 最新計畫
+# {{ $frontmatter.title }}
 
 ## [版本更新 v1.0.3130](https://store.steampowered.com/news/app/1859910/view/4267805297642838656?l=tchinese)
 
