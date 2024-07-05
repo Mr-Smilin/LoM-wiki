@@ -59,7 +59,7 @@ export default defineConfig({
 			{
 				text: "其他",
 				items: [
-					{ text: "官方更新紀錄", link: "/other/news" },
+					{ text: "官方更新", link: "/other/news" },
 					{
 						text: "拆包資料",
 						items: [
@@ -185,7 +185,7 @@ export default defineConfig({
 		},
 		image: {
 			// 圖片懶加載
-			lazyLoading: true,
+			lazyLoading: false,
 		},
 		// config: (md) => {
 		// 	md.use(MarkdownItContainer, "tabs", {

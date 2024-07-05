@@ -7,9 +7,69 @@ tags:
 aside: false
 ---
 
-<img src="/images/characters/girl_8/girl8_drumstick.png" alt="龍湘吃雞腿" width="240" align="right" style="margin: -75px 0 0 0;"/>
+<ChTabs position="bottom">
+  <ChTab title="龍湘" :name="{
+    nameZh: '龍湘',
+    nameEn: 'Long Xiang',
+    position: 'right'
+  }" 
+  :image="{
+    src: '/images/characters/girl_8/normal.png',
+    position: 'right',
+    anima: false
+  }"
+  :attributes="{
+    table: [
+    { label: '用來展示', value: '標題顏色', isTitle: true },
+    { label: '性別', value: '女' },
+    { label: '年齡', value: '不明，可能18上下' },
+    {value: '稱號',isTitle: true},
+    {value: '錦香宮殺人魔、湘姊'},
+    { value: '關係',isTitle: true },
+    { value: '龍淵(父親)' },
+    { value: '溫夫人(師傅)' },
+    { value: '畫中仙(師姐)' },
+    { value: '趙活(臭弟)' },
+    ],
+    position: 'left'
+  }"
+  />
+  <ChTab title="吃雞腿"
+  :name="{
+    nameZh: '吃雞腿',
+    nameEn: 'Chī jītuǐ',
+    position: 'left'
+  }" 
+  :image="{
+    src: '/images/characters/girl_8/girl8_drumstick.png',
+    position: 'center',
+    anima: true
+  }"/>
+  <ChTab title="大笑"
+  :name="{
+    nameZh: '大笑',
+    nameEn: 'Laugh heartily',
+    position: 'left'
+  }" 
+  :image="{
+    src: '/images/characters/girl_8/laugh2.png',
+    position: 'center',
+    anima: true
+  }"/>
+  <ChTab title="戰鬥"
+  :name="{
+    nameZh: '戰鬥',
+    nameEn: 'Fight',
+    position: 'left'
+  }" 
+  :image="{
+    src: '/images/characters/girl_8/angry3.png',
+    position: 'center',
+    anima: true
+  }"/>
+</ChTabs>
 
-# 龍湘
+<!-- # 龍湘 -->
 
 > 「縱死俠骨香，不慚世上英。誰人書閣下，白首太玄雞。」
 
