@@ -1,6 +1,7 @@
 ---
-title: Markdown 基本知識 & 頁面模板
-description: 本文會列出與傳統 `Markdown` 不同，額外支援的撰寫格式。
+title: Markdown 基本知識
+description: 基本 Markdown 知識，
+outline: [2, 3]
 tags:
     - dev
     - develop
@@ -12,167 +13,63 @@ tags:
     - template
 ---
 
-# Markdown 基本知識 & 頁面模板
+# {{ $frontmatter.title }}
 
-::: tip 💡 注意
-此處提供編輯 wiki 相關的基礎知識，  
-有關遊戲資料查詢，請至其他頁面。
+本頁將提供給你協作時模板，  
+以及最低限度的基礎教學，  
+獻給每一位喜愛活俠、熱情貢獻的你。
+
+## 可直接使用的模板
+
+:::info
+模板直接到該路徑 "複製"、"貼上" 到 "你想要的位置"， "更名" 後即可使用，
+:::
+:::danger
+請勿直接"修改"、"刪除"、"重命名"、"移動"頁面模板，以免其他人使用上出現意外。
 :::
 
-本站頁面都是 `.md` 檔，也就是使用 `Markdown` 進行撰寫
+### Markdown 乾淨模板
 
-關於 `Markdown` 的基本知識，網路上教學眾多  
-對於第一次接觸 Markdown 的人，建議參考[這篇文章](https://markdown.tw)
+[Markdown 乾淨模板](/develop/clean-template.md)  
+路徑: `docs/develop/clean-template.md`
 
-本文會列出與傳統 `Markdown` 不同，  
-額外支援的撰寫格式。
+## 參與項目建議知識 (建議補齊順序)
 
-## .md 模板
+1. Html or md(markdown)擇一使用  
+   Html 學習資源：[W3C Html](https://www.w3schools.com/html/default.asp)  
+   md 學習資源：[Markdown 語法說明](https://markdown.tw)
 
-```
----
-title:
-description:
-tags:
----
-
-# 標題
-```
-
-首先當要創建頁面時，新建一個 `.md` 檔在 `docs` 底下  
-檔名務必是純英文跟`-`組成
-
-兩個 `---` 中間有 `title`、`description` 跟 `tags`，  
-`title` 請跟 #標題 中的 標題使用同樣的字串，  
-`description` 敘述一下這篇頁面的內容為何，可以是內文重點，**不可換行**。  
-`tags` 用來標記這篇文章主要提供哪些內容，  
-例如人物列傳，會有人物的介紹，可能還會細部分類他的故事，甚至時間軸  
-那`tags`就可以是人物，故事，時間軸
-
-```
-tags:
-  - 人物
-  - 故事
-  - 時間軸
-```
-
-這樣子去做撰寫。
-
-除了這兩個參數以外，還有其他比較常用到的參數
-
--   `aside: false`  
-    默認為 `true`，設成 `false` 可以讓右側的標題導覽消失，  
-    覺得頁面不夠大的時候可以加上這一行。
-
--   `outline: [2, 3]`  
-    決定右側標題導覽要抓取的標題區間，
-    默認為 2，也就是只抓前綴為 `##` 的標題到導覽  
-    如範例設定 [2, 3]，則會將 `###` 的標題放在 `##` 底下。
-
--   `sidebar: false`  
-    默認為 `true`，設成 `false` 可以讓左側的側邊欄消失，  
-    覺得頁面不夠大的時候可以加上這一行。
-
--   `borderless: true` <Badge type="warning" text="自定義" />  
-    默認為 `false`，設成 `true` 可以讓文章的寬度呈現無邊界樣式，  
-    搭配上面的 `aside` 跟 `sidebar` 可以最大程度的拉伸內容，  
-    內容如果會變化的話，寬度也會動態改變。
-
-除此以外的表頭屬性，可參考[官方文檔](https://vitepress.dev/zh/reference/default-theme-home-page)
-
-## vitepress 的自訂 markdown
-
-**格式**
-
-```md
-::: info
-這是消息盒子
+::: tip  
+寫複雜的表格很可能 html, md 兩者都會同時使用，<br>
+若寫簡單表格的話二者擇一使用即可。<br>
+我們將完善、簡化此入門門檻，但這需要時間開發，<br>
+希望能讓更多人能夠快速上手。
 :::
 
-::: tip
-這是提示盒子
-:::
-
-::: tip 改名
-這是改變標題的提示盒子  
-此處列出的所有盒子都可以改變標題喔！
-:::
+2. (optional)CSS, Javascript, Vue.js, RWD 概念  
+   CSS 學習資源：[W3C CSS](https://www.w3schools.com/css/default.asp)  
+   Javascript 學習資源：[MDN Web Docs](https://www.w3schools.com/js/)  
+   Vue.js 學習資源：[Vue.js 官方文件](https://cn.vuejs.org/)
 
 ::: warning
-這是警告盒子
+此項基本皆為前端技術，不熟悉的話可以先略過。<br>
 :::
 
-::: danger
-這是危險盒子
-:::
-
-::: details
-這是可以收納折疊的盒子
-:::
-```
-
-**結果**
+RWD 學習資源：[W3C Responsive Web Design - Introduction](https://www.w3schools.com/css/css_rwd_intro.asp)
 
 ::: info
-這是消息盒子
+RWD 為響應式網頁設計， <br>
+基本概念為在佈局時需要同時考慮桌機、手機、平板等不同裝置的顯示效果。
 :::
 
-::: tip
-這是提示盒子
-:::
+3. vitepress 框架開發相關知識
+   ref:
 
-::: tip 改名
-這是改變標題的提示盒子  
-此處列出的所有盒子都可以改變標題喔！
-:::
+-   [rumtime API](https://vitepress.dev/reference/runtime-api#runtime-api)
+-   [Prev Next Links](https://vitepress.dev/reference/default-theme-prev-next-links)
+-   [vitepress 官方文件](https://vitepress.dev/)
 
-::: warning
-這是警告盒子
-:::
-
-::: danger
-這是危險盒子
-:::
-
-::: details
-這是可以收納折疊的盒子
-:::
-
-## HTML5
-
-我們可以在 `.md` 檔中使用 `HTML5` 的語法  
-比如說， `Markdown` 的表格是長這樣的
-
-```
-| ID | 姓名  |
-|----|-----|
-| 1  | 微笑A |
-| 2  | 微笑B |
-```
-
-這個表格可以替換成 `HTML` 如以下
-
-```
-<table>
-    <tr>
-        <td>ID</td>
-        <td>姓名</td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>微笑A</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>微笑B</td>
-    </tr>
-</table>
-```
-
-當資料量增加時，  
-相比起 `Markdown` 原本的表格，`HTML` 的表格格式更易於維護。
-
-## 外部工具
-
--   [線上轉換 Excel 為 Markdown 或 Html 表格的工具](https://tableconvert.com/zh-tw/excel-to-html)  
-    對複雜的表格格式不起做用，但在搬運資料時很有用。
+    ::: info  
+    此項目可以使用的部分為 runtime API 與 Prev Next Links,  
+    其他部分有興趣可以慢慢看官方文件  
+    :::
