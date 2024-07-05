@@ -323,14 +323,7 @@ hello `行內純文字塊`test
 
 ### 消息盒子
 
-````
-### Markdown 頁面模板
-[Markdown 頁面模板](/develop/template.md)
-路徑: `docs/develop/template.md`
-
-## vitepress 的自訂語法
-
-```md
+```Markdown
 ::: info
 這是消息盒子
 :::
@@ -355,7 +348,7 @@ hello `行內純文字塊`test
 ::: details
 這是可以收納折疊的盒子
 :::
-````
+```
 
 **效果：**
 

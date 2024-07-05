@@ -87,7 +87,7 @@ export default defineConfig({
 							},
 							{
 								text: "常見用法",
-								link: "/develop/template.md",
+								link: "/develop/4-1-template.md",
 							},
 							{
 								text: "乾淨模板",
@@ -113,7 +113,7 @@ export default defineConfig({
 							items: [
 								{
 									text: "Markdown 常見用法",
-									link: "/develop/template.md",
+									link: "/develop/4-1-template.md",
 								},
 								{
 									text: "Markdown 乾淨模板",
