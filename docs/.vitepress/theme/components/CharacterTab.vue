@@ -206,7 +206,7 @@ export default {
 
 .attributes-table-container {
   position: absolute;
-  bottom: 5px;
+  bottom: 0;
   transform: translateY(0%);
   transition: transform 0.3s;
 }
@@ -233,7 +233,7 @@ export default {
   max-height: 40vh;
   padding-right: 10px;
   font-weight: bold;
-  margin-top: 0;
+  margin: 0;
   min-width: 300px;
 }
 
@@ -247,7 +247,6 @@ export default {
   background-color: var(--vp-c-gray-1);
   opacity: 0.5;
   z-index: -1;
-  border-radius: 0 0 5% 5% ;
 }
 
 .attributes-table tr {
@@ -268,6 +267,9 @@ export default {
 }
 
 .toggle-button {
+  position: absolute;
+  top:-30px;
+  left:0;
   width: 100%;
   height: 30px;
   background-color: var(--vp-c-gray-2);
@@ -276,6 +278,8 @@ export default {
   text-align: center;
   padding: 0;
   /* font-size: 12px; */
-  border-radius: 5% 5% 0 0  ;
+  border-radius: 25px 25px 0 0  ;
+  /* z-index: 1; */
+  overflow: hidden;
 }
 </style>

@@ -14,10 +14,10 @@
       <div class="tab-content">
         <slot></slot>
       </div>
-      <div class="particle-basic">
+      <div :class="['particle-basic',tabsPosition]">
         <div class="particle-container"></div>
       </div>
-    </div>
+  </div>
   </template>
   
   <script>
@@ -152,6 +152,10 @@
     left:0;
     width: 100%;
     z-index: -1;
+  }
+
+  .particle-basic.tabs-bottom{
+    bottom: 10vh; 
   }
 
   .particle-container{
