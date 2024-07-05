@@ -3,8 +3,14 @@ import DefaultTheme from "vitepress/theme";
 import MyLayout from "./components/MyLayout.vue";
 import Tabs from "./components/Tabs.vue";
 import Tab from "./components/Tab.vue";
-import ChTabs from "./components/CharacterTabs.vue";
-import ChTab from "./components/CharacterTab.vue";
+import CharacterTabs from "./components/character/CharacterTabs.vue";
+import CharacterTab from "./components/character/CharacterTab.vue";
+import CharacterBackground from "./components/character/CharacterBackground.vue";
+import CharacterName from "./components/character/CharacterName.vue";
+import CharacterTable from "./components/character/CharacterTable.vue";
+import CharacterTr from "./components/character/CharacterTr.vue";
+import CharacterTd from "./components/character/CharacterTd.vue";
+import ChineseStyleTd from "./components/ChineseStyleTd.vue";
 //import Icon Group
 import Icon from "./components/Icon.vue";
 import BadendIcon from "./components/icons/BadendIcon.vue";
@@ -29,8 +35,14 @@ export default {
     app.component("Tabs", Tabs);
     app.component("Tab", Tab);
 
-    app.component("ChTabs", ChTabs);
-    app.component("ChTab", ChTab);
+    app.component("ChTabs", CharacterTabs);
+    app.component("ChTab", CharacterTab);
+    app.component("ChBg", CharacterBackground);
+    app.component("ChName", CharacterName);
+    app.component("ChTable", CharacterTable);
+    app.component("ChTr", CharacterTr);
+    app.component("ChTd", CharacterTd);
+    app.component("CnTd", ChineseStyleTd);
 
     //Icon component group
     app.component("Icon", Icon);

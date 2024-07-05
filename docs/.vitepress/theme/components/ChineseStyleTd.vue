@@ -1,5 +1,5 @@
 <template>
-	<div style="display:table-cell;min-width:60px">
+	<div style="display:table-cell;min-width:60px;flex:1;padding:10px">
 		<div style="width: 100%">
 			<div style="margin-top: 10px; box-sizing: border-box">
 				<div style="width: 100%; font-size: 0px; box-sizing: border-box">
@@ -284,12 +284,19 @@
 </template>
 
 <script>
+import { computed } from 'vue';
 export default {
 	name: 'CnTd',
 	props:{
-		color: {
-			type: String,
-			default: '#7f9bdc'
+		isTitle: {
+			type: Boolean,
+			default: false
+		}
+	},
+	setup(props){
+		const color = computed(() => props.isTitle ? '#dc7f7f' : '#7f9bdc')
+		return {
+			color
 		}
 	}
 }

@@ -5,68 +5,108 @@ tags:
     - 錦香宮
     - 可攻略女角
 aside: false
+borderless: false
 ---
 
-<ChTabs position="bottom">
-  <ChTab title="龍湘" :name="{
-    nameZh: '龍湘',
-    nameEn: 'Long Xiang',
-    position: 'right'
-  }" 
-  :image="{
-    src: '/images/characters/girl_8/normal.png',
-    position: 'right',
-    anima: false
-  }"
-  :attributes="{
-    table: [
-    { label: '用來展示', value: '標題顏色', isTitle: true },
-    { label: '性別', value: '女' },
-    { label: '年齡', value: '不明，可能18上下' },
-    {value: '稱號',isTitle: true},
-    {value: '錦香宮殺人魔、湘姊'},
-    { value: '關係',isTitle: true },
-    { value: '龍淵(父親)' },
-    { value: '溫夫人(師傅)' },
-    { value: '畫中仙(師姐)' },
-    { value: '趙活(臭弟)' },
-    ],
-    position: 'left'
-  }"
-  />
-  <ChTab title="吃雞腿"
-  :name="{
-    nameZh: '吃雞腿',
-    nameEn: 'Chī jītuǐ',
-    position: 'left'
-  }" 
-  :image="{
-    src: '/images/characters/girl_8/girl8_drumstick.png',
-    position: 'center',
-    anima: true
-  }"/>
-  <ChTab title="大笑"
-  :name="{
-    nameZh: '大笑',
-    nameEn: 'Laugh heartily',
-    position: 'left'
-  }" 
-  :image="{
-    src: '/images/characters/girl_8/laugh2.png',
-    position: 'center',
-    anima: true
-  }"/>
-  <ChTab title="戰鬥"
-  :name="{
-    nameZh: '戰鬥',
-    nameEn: 'Fight',
-    position: 'left'
-  }" 
-  :image="{
-    src: '/images/characters/girl_8/angry3.png',
-    position: 'center',
-    anima: true
-  }"/>
+<ChTabs position="top">
+  <ChTab title="龍湘">
+    <ChBg :image="{
+      src: '/images/characters/girl_8/normal.png',
+      position: 'right'
+    }" />
+    <ChName :name="{
+      nameZh: '龍湘',
+      nameEn: 'Long Xiang',
+      position: 'right'
+    }"/>
+    <ChTable position="left">
+      <ChTr>
+        <ChTd isTitle=true>
+          性別
+        </ChTd>
+        <ChTd>
+          女
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd isTitle=true>
+          年齡
+        </ChTd>
+        <ChTd>
+          不明，可能18上下
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd isTitle=true>
+          稱號
+        </ChTd>
+        <ChTd>
+          錦香宮殺人魔、湘姊
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd isTitle=true position='center'>
+          關係
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd position='center'>
+          龍淵(父親)
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd position='center'>  
+          ~~ 溫夫人(師傅) ~~
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd position='center'>
+          畫中仙(師姐)
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd position='center'>
+          趙活(臭弟)
+        </ChTd>
+      </ChTr>
+    </ChTable>
+  </ChTab>
+  <ChTab title="吃雞腿">
+    <ChBg :image="{
+      src: '/images/characters/girl_8/girl8_drumstick.png',
+      position: 'center',
+      anima: true
+    }" />
+    <ChName :name="{
+      nameZh: '吃雞腿',
+      nameEn: 'Chī jītuǐ',
+      position: 'left'
+    }"/>
+  </ChTab>
+  <ChTab title="大笑">
+    <ChBg :image="{
+      src: '/images/characters/girl_8/laugh2.png',
+      position: 'left',
+      anima: true
+    }" />
+    <ChName :name="{
+      nameZh: 'Laugh heartily',
+      nameEn: '大笑',
+      position: 'right'
+    }"/>
+  </ChTab>
+  <ChTab title="戰鬥">
+    <ChBg :image="{
+      src: '/images/characters/girl_8/angry3.png',
+      position: 'center',
+      anima: true
+    }"/>
+    <ChName :name="{
+      nameZh: '戰鬥',
+      nameEn: 'Fight',
+      position: 'center'
+    }"/>
+  </ChTab>
 </ChTabs>
 
 <!-- # 龍湘 -->
