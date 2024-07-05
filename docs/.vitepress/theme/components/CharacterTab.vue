@@ -39,7 +39,8 @@
         type: Object,
         default: () => ({
           src: '',
-          position: 'center' // 'left', 'center', 'right'
+          position: 'center', // 'left', 'center', 'right'
+          anima: false // true, false
         })
       },
       attributes: {

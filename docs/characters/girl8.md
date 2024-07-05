@@ -13,11 +13,10 @@ aside: false
   <ChTab title="龍湘" :name="{
     nameZh: '龍湘',
     nameEn: 'Long Xiang',
-    position: 'left'
+    position: 'right'
   }" 
   :image="{
-    src: '/images/characters/girl_8/icon_girl8.png',
-    position: 'left'
+    src: '/images/characters/girl_8/girl8_drumstick.png',
   }"
    :attributes="{
     table: [
@@ -26,26 +25,19 @@ aside: false
     { label: '屬性1', value: '值1' },
     { label: '屬性2', value: '值2' }
     ],
-    position: 'right'
+    position: 'left'
   }"
   />
   <ChTab title="角色2"
   :name="{
     nameZh: '龍湘',
     nameEn: 'Long Xiang',
-    position: 'right'
+    position: 'left'
   }" 
   :image="{
-    src: '/images/characters/girl_8/girl8_drumstick.png'
-  }"
-   :attributes="{
-    table: [
-    { label: '屬性1', value: '值1' },
-    { label: '屬性1', value: '值1' },
-    { label: '屬性1', value: '值1' },
-    { label: '屬性2', value: '值2' }
-    ],
-    position: 'left'
+    src: '/images/characters/girl_8/girl8_drumstick.png',
+    position: 'right',
+    anima: true
   }"></ChTab>
 </ChTabs>
 
