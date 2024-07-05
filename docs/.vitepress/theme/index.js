@@ -6,6 +6,8 @@ import Tab from "./components/Tab.vue";
 import Icon from "./components/Icon.vue";
 import ChTabs from "./components/CharacterTabs.vue";
 import ChTab from "./components/CharacterTab.vue";
+import BadendIcon from "./components/icons/BadendIcon.vue";
+import Girl0Icon from "./components/icons/Girl0Icon.vue";
 import "./styles/style.css";
 import "./styles/borderless.css";
 import "./styles/twikoo.css";
@@ -17,8 +19,16 @@ export default {
   enhanceApp({ app }) {
     app.component("Tabs", Tabs);
     app.component("Tab", Tab);
-    app.component("Icon", Icon);
+
     app.component("ChTabs", ChTabs);
     app.component("ChTab", ChTab);
+
+    //Icon component group
+    app.component("Icon", Icon);
+    // following component based on Icon,
+    // if you need, you can add image map to function getIconSource() in Icon.vue,
+    // and create a new vue file to register
+    app.component("BadendIcon", BadendIcon);
+    app.component("Girl0Icon", Girl0Icon);
   },
 };
