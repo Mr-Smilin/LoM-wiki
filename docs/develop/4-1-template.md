@@ -339,6 +339,37 @@ hello `行內純文字塊`test
     </Tab>
 </Tabs>
 
+### Icon 懶人組件
+目前提供少部分Icon與語法示例如下
+```
+<BadendIcon :size='`medium`'>hello1</BadendIcon>
+<BadendIcon :size='`small`'>hello2</BadendIcon>
+<BadendIcon>hello3</BadendIcon>
+
+<Girl0Icon :size='`medium`'>hello1</Girl0Icon>
+<Girl0Icon :size='`small`'>hello2</Girl0Icon>
+<Girl0Icon>hello3</Girl0Icon>
+```
+展示效果
+
+|                          語法                          | 效果                                             |           說明           |
+|:----------------------------------------------------:|:-----------------------------------------------|:----------------------:|
+| ```<BadendIcon :size="`medium`">我是文字</BadendIcon>``` | <BadendIcon :size="`medium`">我是文字</BadendIcon> |        顯示中型Icon        |
+| ```<BadendIcon :size="`small`">我是文字</BadendIcon>```  | <BadendIcon :size="`small`">我是文字</BadendIcon>  |        顯示小型Icon        |
+|         ```<BadendIcon>我是文字</BadendIcon>```          | <BadendIcon>我是文字</BadendIcon>                  | 採用預設大小, 預設為"\`small\`" |
+
+目前已可用組件名稱如下:
+- `<BadendIcon>` : 生死簿 (飲茶)
+- `<Girl0Icon>`  : 小師妹頭像
+
+可用屬性寫法
+
+| 屬性名稱 | 值                           | default     | 
+|:-----|:----------------------------|:------------|
+| size | "\`medium\`" \| "\`small\`" | "\`small\`" |
+
+
+
 ## 外部工具
 
 -   [線上轉換 Excel 為 Markdown 或 Html 表格的工具](https://tableconvert.com/zh-tw/excel-to-html)  

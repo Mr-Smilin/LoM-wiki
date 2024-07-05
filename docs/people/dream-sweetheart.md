@@ -60,7 +60,7 @@ tags:
             <td>身嬌體弱</td>
         </tr>
         <tr>
-            <td>唐默鈴</td>
+            <td><Girl0Icon :size="`medium`">唐默鈴</Girl0Icon></td>
             <td>0</td>
             <td>嬌小玲瓏</td>
             <td>恬靜溫馴</td>
