@@ -9,20 +9,26 @@
   export default {
     name: 'CharacterBackground',
     props: {
-      image: {
-        type: Object,
-        required: true,
-        default: () => ({
-          src: '',
-          position: 'center', // 'left', 'center', 'right'
-          anima: false // true, false
-        })
+      src:{
+        type: String,
+        required: true
+      },
+      position: {
+        type: String,
+        required: false,
+        default: 'left', // 'left' or 'center' or 'right'
+        validator: value => ['left', 'center', 'right'].includes(value)
+      },
+      anima: {
+        type: Boolean,
+        required: false,
+        default: false
       }
     },
     setup(props) {
-      const imageSrc = computed(() => withBase(props.image.src));
+      const imageSrc = computed(() => withBase(props.src));
       const imagePosition = computed(() => {
-        switch (props.image.position) {
+        switch (props.position) {
           case 'left':
             return 'left bottom';
           case 'right':
@@ -31,7 +37,7 @@
             return 'center bottom';
         }
       });
-      const imageAnima = computed(() => (props.image.anima ? 'anima' : ''));
+      const imageAnima = computed(() => (props.anima ? 'anima' : ''));
   
       return {
         imageSrc,

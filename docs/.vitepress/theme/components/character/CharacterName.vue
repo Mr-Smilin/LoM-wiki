@@ -1,7 +1,7 @@
 <template>
     <div class="character-details" :class="namePosition">
-      <p v-if="name.nameZh" class="character-name zh">{{ name.nameZh }}</p>
-      <p v-if="name.nameEn" class="character-name en">{{ name.nameEn }}</p>
+      <p v-if="nameZh" class="character-name zh">{{ nameZh }}</p>
+      <p v-if="nameEn" class="character-name en">{{ nameEn }}</p>
     </div>
   </template>
   
@@ -9,19 +9,26 @@
   export default {
     name: 'CharacterName',
     props: {
-      name: {
-        type: Object,
-        required: true,
-        default: () => ({
-          nameZh: '',
-          nameEn: '',
-          position: 'right' // 'left', 'center', 'right'
-        })
+      nameZh: {
+        type: String,
+        required: false,
+        default: ''
+      },
+      nameEn:{
+        type: String,
+        required: false,
+        default: ''
+      },
+      position: {
+        type: String,
+        required: false,
+        default: 'left', // 'left' or 'center' or 'right'
+        validator: value => ['left', 'center', 'right'].includes(value)
       }
     },
     computed: {
       namePosition() {
-        return this.name.position || 'right';
+        return this.position || 'right';
       }
     }
   };
