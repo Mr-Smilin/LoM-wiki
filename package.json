@@ -30,6 +30,7 @@
     "magic-string": "^0.30.10",
     "mark.js": "^8.11.1",
     "markdown-it-container": "^4.0.0",
+    "marked": "^13.0.2",
     "minisearch": "^6.3.0",
     "mitt": "^3.0.1",
     "nanoid": "^3.3.7",

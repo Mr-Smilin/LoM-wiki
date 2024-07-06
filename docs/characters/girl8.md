@@ -51,7 +51,9 @@ borderless: false
       </ChTr>
       <ChTr>
         <ChTd position='center'>  
-          溫夫人(師傅)
+          <MarkdownWrapper>
+            ~~溫夫人(師傅)~~
+          </MarkdownWrapper>
         </ChTd>
       </ChTr>
       <ChTr>
@@ -132,7 +134,7 @@ borderless: false
 	兼而貌美如花，慕名而來追求者絡繹不絕。<br><br>
     龍湘情竇初開，亦不免心下竊喜，只是笨拙未解風情，<br>
 	為了遮羞，便以武會友，以劍交心，<br>
-	結果求愛者紛紛敗於劍下，灰頭土臉而去，<br>
+	結果 ~~求愛者紛紛~~ 敗於劍下，灰頭土臉而去，<br>
 	就是她好言相慰，亦不能免其挫折，<br>
 	好些心氣高者，封劍退隱亦不足為奇。<br><br>
     久而久之，便看淡了，<br>
