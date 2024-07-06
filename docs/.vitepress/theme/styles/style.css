@@ -7,6 +7,10 @@
     --scrollbar-color: #ced4d9;
   }
 
+  .vp-doc p{
+    margin: 0;
+  }
+
   .dark{
     --scrollbar-color: #EEF4FA;
   }
