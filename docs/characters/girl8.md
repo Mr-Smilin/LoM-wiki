@@ -51,9 +51,7 @@ borderless: false
       </ChTr>
       <ChTr>
         <ChTd position='center'>  
-          <MarkdownWrapper>
-            ~~溫夫人(師傅)~~
-          </MarkdownWrapper>
+            溫夫人(師傅)
         </ChTd>
       </ChTr>
       <ChTr>
@@ -159,7 +157,3 @@ borderless: false
     你最好別對這人心懷期待。
   </Tab>
 </Tabs>
-
-::: md
-~~test~~
-:::
