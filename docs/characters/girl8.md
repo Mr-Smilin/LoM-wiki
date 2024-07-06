@@ -10,16 +10,11 @@ borderless: false
 
 <ChTabs position="bottom">
   <ChTab title="龍湘">
-    <ChBg :image="{
-      src: '/images/characters/girl_8/normal.png',
-      position: 'right'
-    }" />
-    <ChName :name="{
-      nameZh: '龍湘',
-      nameEn: 'Long Xiang',
-      position: 'right'
-    }"/>
-    <ChTable position="left">
+    <ChBg
+      src='/images/characters/girl_8/normal.png' 
+      position='right'/>
+    <ChName nameZh='龍湘' nameEn='Long Xiang' position='right' />
+    <ChTable>
       <ChTr>
         <ChTd isTitle=true>
           性別
@@ -72,40 +67,30 @@ borderless: false
     </ChTable>
   </ChTab>
   <ChTab title="吃雞腿">
-    <ChBg :image="{
-      src: '/images/characters/girl_8/girl8_drumstick.png',
-      position: 'center',
-      anima: true
-    }" />
-    <ChName :name="{
-      nameZh: '吃雞腿',
-      nameEn: 'Chī jītuǐ',
-      position: 'left'
-    }"/>
+    <ChBg 
+      src='/images/characters/girl_8/girl8_drumstick.png' 
+      position='center' 
+      anima=true />
+    <ChName
+      nameZh='吃雞腿'
+      nameEn='Chī jītuǐ'/>
   </ChTab>
   <ChTab title="大笑">
-    <ChBg :image="{
-      src: '/images/characters/girl_8/laugh2.png',
-      position: 'left',
-      anima: true
-    }" />
-    <ChName :name="{
-      nameZh: 'Laugh heartily',
-      nameEn: '大笑',
-      position: 'right'
-    }"/>
+    <ChBg src='/images/characters/girl_8/laugh2.png'
+          anima=true />
+    <ChName 
+      nameZh='Laugh heartily'
+      nameEn='大笑'
+      position='right'/>
   </ChTab>
   <ChTab title="戰鬥">
-    <ChBg :image="{
-      src: '/images/characters/girl_8/angry3.png',
-      position: 'center',
-      anima: true
-    }"/>
-    <ChName :name="{
-      nameZh: '戰鬥',
-      nameEn: 'Fight',
-      position: 'center'
-    }"/>
+    <ChBg src='/images/characters/girl_8/angry3.png'
+          position='center'
+          anima=true />
+    <ChName 
+      nameZh='戰鬥'
+      nameEn='Fight'
+      position='center'/>
   </ChTab>
 </ChTabs>
 
