@@ -39,7 +39,12 @@ export default defineConfig({
 					},
 				],
 			},
-			{ text: "武功", link: "/skill" },
+			{ 
+				text: "武功",
+				items: [
+					{ text: "秘笈列表", link: "/books" },
+				]
+			},
 			{
 				text: "互動事件",
 				items: [
