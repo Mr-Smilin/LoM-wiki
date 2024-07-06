@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+import markdownItContainer from "markdown-it-container";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -189,6 +190,25 @@ export default defineConfig({
 		component: {
 			blockTags: [],
 			inlineTags: [],
+		},
+		config: (md) => {
+			// 目前沒用
+			md.use(markdownItContainer, "md", {
+				validate: function (params) {
+					return params.trim().match(/^md\s+(.*)$/);
+				},
+				render: function (tokens, idx) {
+					var m = tokens[idx].info.trim().match(/^md\s+(.*)$/);
+
+					if (tokens[idx].nesting === 1) {
+						// opening tag
+						return "<MarkdownWrapper>\n" + md.utils.escapeHtml(m[1]) + "\n";
+					} else {
+						// closing tag
+						return "</MarkdownWrapper>\n";
+					}
+				},
+			});
 		},
 	},
 
