@@ -384,21 +384,21 @@ tags:
         <td>獲得方式</td>
     </tr>
     <tr>
-        <td>唐門暗器總綱</td>
+        <td><MarkdownWrapper>[唐門暗器總綱](book_1000)</MarkdownWrapper></td>
         <td>輕功7<br>暗器5<br>額外暗器</td>
         <td>50</td>
         <td>學問10 (LV6)</td>
         <td>初始</td>
     </tr>
     <tr>
-        <td>擲石問天</td>
+        <td><MarkdownWrapper>[擲石問天](book_1010)</MarkdownWrapper></td>
         <td>體力5<br>暗器3</td>
         <td>25</td>
         <td></td>
         <td>一年伙房－大師兄</td>
     </tr>
     <tr>
-        <td>五毒密錄</td>
+        <td><MarkdownWrapper>[五毒秘錄](book_3020)</MarkdownWrapper></td>
         <td>暗器5<br>內力5<br>醫術LV1<br>毒功</td>
         <td>50</td>
         <td>學問10 (LV6)</td>
