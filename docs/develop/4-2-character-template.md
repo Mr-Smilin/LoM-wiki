@@ -142,7 +142,7 @@ tags:
 ```Markdown
 <ChTabs>
     <ChTab title="龍湘">
-        <ChName
+        <ChName position='right'
         nameZh='龍湘'
         nameEn='Long Xiang'/>
   </ChTab>
@@ -153,7 +153,7 @@ tags:
 
 <ChTabs>
     <ChTab title="龍湘">
-        <ChName
+        <ChName position='right'
         nameZh='龍湘'
         nameEn='Long Xiang'/>
     </ChTab>
@@ -178,21 +178,8 @@ tags:
 
 ```Markdown
 <ChTabs>
-    <ChTab>
-        <ChTable position='right'
-        :table="[
-            ["我是第一行第一列","我是第一行第二列"],
-            ["我是第二行第一列","我應該沒搞錯行列吧"]
-        ]"/>
-    </ChTab>
-</ChTabs>
-```
-
-**效果：**
-
-<ChTabs>
     <ChTab title="我是表格">
-        <ChTable position='right'
+        <ChTable
         :table="[
             ['第一行第一列','第一行第二列'],
             ['第二行第一列','應該沒搞錯行列吧'],
@@ -209,7 +196,37 @@ tags:
         ]"/>
     </ChTab>
     <ChTab title="我是表格2">
+        <ChTable position='right'
+        :table="[
+            ['第一行第一列','第一行第二列'],
+            ['第二行第一列','應該沒搞錯行列吧']
+        ]"/>
+    </ChTab>
+</ChTabs>
+```
+
+**效果：**
+
+<ChTabs>
+    <ChTab title="我是表格">
         <ChTable
+        :table="[
+            ['第一行第一列','第一行第二列'],
+            ['第二行第一列','應該沒搞錯行列吧'],
+            ['一行可以只有一欄'],
+            ['也','可','以','分','好','幾','欄'],
+            ['他們都支援 `Markdown`'],
+            ['~~刪除線~~'],
+            ['或是<br>換行'],
+            ['喔不過換行必須使用`<br>`'],
+            ['因為陣列中的文字在md不能直接換行'],
+            ['內容過多的話可以往下捲動'],
+            ['使用這個方式設計的表格<br>每一行的第一欄固定是深色'],
+            ['如果需要進一步設計<br>我們需要使用進階寫法']
+        ]"/>
+    </ChTab>
+    <ChTab title="我是表格2">
+        <ChTable position='right'
         :table="[
             ['第一行第一列','第一行第二列'],
             ['第二行第一列','應該沒搞錯行列吧']
@@ -217,7 +234,95 @@ tags:
     </ChTab>
 </ChTabs>
 
-::: details 進階用法
+<br>
+
+---
+
+<br>
+
+#### 結果
+
+將組件組合起來後
+
+```markdown
+<ChTabs>
+    <ChTab title="龍湘">
+        <ChName
+        nameZh='龍湘'
+        nameEn='Long Xiang'
+        position='right'/>
+        <ChBg
+        src='/images/characters/girl_8/normal.png'
+        position='right'/>
+        <ChTable
+        :table="[
+            ['第一行第一列','第一行第二列'],
+            ['第二行第一列','應該沒搞錯行列吧'],
+            ['一行可以只有一欄'],
+            ['也','可','以','分','好','幾','欄'],
+            ['他們都支援 `Markdown`'],
+            ['~~刪除線~~'],
+            ['或是<br>換行'],
+            ['喔不過換行必須使用`<br>`'],
+            ['因為陣列中的文字在md不能直接換行'],
+            ['內容過多的話可以往下捲動'],
+            ['使用這個方式設計的表格<br>每一行的第一欄固定是深色'],
+            ['如果需要進一步設計<br>我們需要使用進階寫法']
+        ]"/>
+    </ChTab>
+    <ChTab title="吃雞腿">
+        <ChBg
+        src='/images/characters/girl_8/girl8_drumstick.png'
+        position='center'
+        anima=true />
+    </ChTab>
+</ChTabs>
+```
+
+**效果：**
+
+<ChTabs>
+    <ChTab title="龍湘">
+        <ChName
+        nameZh='龍湘'
+        nameEn='Long Xiang'
+        position='right'/>
+        <ChBg
+        src='/images/characters/girl_8/normal.png'
+        position='right'/>
+        <ChTable
+        :table="[
+            ['第一行第一列','第一行第二列'],
+            ['第二行第一列','應該沒搞錯行列吧'],
+            ['一行可以只有一欄'],
+            ['也','可','以','分','好','幾','欄'],
+            ['他們都支援 `Markdown`'],
+            ['~~刪除線~~'],
+            ['或是<br>換行'],
+            ['喔不過換行必須使用`<br>`'],
+            ['因為陣列中的文字在md不能直接換行'],
+            ['內容過多的話可以往下捲動'],
+            ['使用這個方式設計的表格<br>每一行的第一欄固定是深色'],
+            ['如果需要進一步設計<br>我們需要使用進階寫法']
+        ]"/>
+    </ChTab>
+    <ChTab title="吃雞腿">
+        <ChBg
+        src='/images/characters/girl_8/girl8_drumstick.png'
+        position='center'
+        anima=true />
+    </ChTab>
+</ChTabs>
+
+<br>
+
+---
+
+<br>
+
+#### 額外
+
+::: details ChTable 進階用法
 
 <br>
 
