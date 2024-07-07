@@ -88,10 +88,6 @@ tags:
 
 ## 拳掌
 
-::: info
-詳細頁面動工中，有些連結無效，請見諒
-:::
-
 <table>
     <tr>
         <td>名稱</td>
@@ -147,14 +143,14 @@ tags:
         <td>拳掌10<br>輕功6<br>借勢LV2<br>風雷神腳</td>
         <td>80</td>
         <td>形意拳LV1</td>
-        <td>圍城事件－丐幫優勢，撤退客棧(需戰術LV0)遇到丐幫，得風神救場，花一千塊取得<br>二年留學－拜師夏侯蘭，然後三年招親去後山練功拜祭</td>
+        <td>圍城事件－丐幫優勢，撤退客棧(需戰術LV0)遇到丐幫，得風神救場，花一千塊取得<br>二年留學－拜師夏侯蘭，三年招親去後山練功拜祭</td>
     </tr>
     <tr>
         <td><MarkdownWrapper>[蛇兔鷹猿搏](book_4003)</MarkdownWrapper></td>
         <td>輕功15<br>拳掌15<br>爆發10<br>難知如陰<br>戰術LV1</td>
         <td>50</td>
         <td>形意拳LV1</td>
-        <td>待確認途徑</td>
+        <td>拜師夏侯蘭，先取得《很是用力踢》，三年招親去後山練功拜祭。</td>
     </tr>
     <tr>
         <td><MarkdownWrapper>[玄玄如意指](book_4004)</MarkdownWrapper></td>
