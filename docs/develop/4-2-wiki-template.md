@@ -118,11 +118,23 @@ tags:
 除了換行還是只能使用 `<br>` 以外，其他的 Markdown 都可以使用
 
 ```Markdown
-<div>~~123~~</div>
-<div><MarkdownWrapper>~~123~~</MarkdownWrapper></div>
+<div>
+    ~~我是純HTML格式~~
+</div>
+<div>
+    <MarkdownWrapper>
+        ~~我是在HTML中，使用MarkdownWrapper框起來的格式~~
+    </MarkdownWrapper>
+</div>
 ```
 
 **效果：**
 
-<div>~~123~~</div>
-<div><MarkdownWrapper>~~123~~</MarkdownWrapper></div>
+<div>
+    ~~我是純HTML格式~~
+</div>
+<div>
+    <MarkdownWrapper>
+        ~~我是在HTML中，使用MarkdownWrapper框起來的格式~~
+    </MarkdownWrapper>
+</div>
