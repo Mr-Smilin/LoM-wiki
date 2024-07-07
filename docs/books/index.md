@@ -12,6 +12,7 @@ tags:
 # {{ $frontmatter.title }}
 
 ## 刀劍
+
 <table>
     <tr>
         <td>名稱</td>
@@ -21,67 +22,67 @@ tags:
         <td>獲得方式</td>
     </tr>
     <tr>
-        <td>點蒼劍譜</td>
-        <td>刀劍10<br>輕功10<br>點蒼快劍LV2<br>點破雲關</td>
-        <td>50</td>
-        <td>刀劍10 (LV6)</td>
-        <td>四書事件<br>買牛事件－跟葉家兄妹要錢獲得<br>二年一月上旬－四師兄買物<br>二年留學－無色廣場逛街，四師兄買物($2500)</td>
-    </tr>
-    <tr>
-        <td>孔夫子劍</td>
-        <td>刀劍10<br>儒學LV1<br>君子風<br>修養+10</td>
-        <td>80</td>
-        <td>儒學LV1</td>
-        <td>二年留學－玄功門季試勝出(魏菊好感未達2★)<br>二年留學－玄功門－季試戰勝兩場，獎勵選擇「武功秘笈」</td>
-    </tr>
-    <tr>
-        <td>翻浪刀法</td>
-        <td>刀劍5<br>翻浪刀法<br>道德-5<br>性情+5<br>處世+5<br></td>
-        <td>25</td>
-        <td></td>
-        <td>強賣魚鮮事件－幫助許大鯨打贏福韞後，花錢購買($500)或選「我買不起」強搶贏得<br>二年十月中旬－四師兄買物($1000)</td>
-    </tr>
-    <tr>
-        <td>雲裳劍法</td>
-        <td>刀劍+8<br>點蒼快劍LV2</td>
-        <td>50</td>
-        <td>學問20</td>
-        <td>三年一月上旬－葉家辭別(葉雲裳好感&gt;5★贈與)</td>
-    </tr>
-    <tr>
-        <td>流星劍譜</td>
-        <td>刀劍10<br>輕功10<br>疾如風<br>颯踏流星劍<br>性情+5</td>
-        <td>80</td>
-        <td>性情&gt;=60<br>刀劍&gt;=20<br>輕功&gt;=20</td>
-        <td>三年四月上旬－四師兄買物($3500)<br>或四師兄遠行回歸補買</td>
-    </tr>
-    <tr>
-        <td>君子論劍</td>
-        <td>刀劍5<br>學問8<br>君子風<br>儒學LV1<br>處世-</td>
-        <td>80</td>
-        <td>儒學LV3</td>
-        <td>三年四月上旬－四師兄買物($2500)</td>
-    </tr>
-    <tr>
-        <td>千刀萬剮殺</td>
-        <td>刀劍+10<br>拳掌-5<br>道德-5<br>修養-5</td>
-        <td>25</td>
-        <td></td>
-        <td>三年夏侯蘭線－放生第三香，骰祕笈</td>
-    </tr>
-    <tr>
-        <td>雲霄雷霆霹靂刀</td>
+        <td><MarkdownWrapper>[雲霄雷霆霹靂刀](book_2000)</MarkdownWrapper></td>
         <td>刀劍10<br>輕功-5<br>霹靂刀<br>性情+5</td>
         <td>50</td>
         <td>刀劍20</td>
         <td>三年四月上旬－四師兄買物($2000) <br>千面人事件－選外門弟子，聊到龍湘時說龍湘呆(性情≧60)</td>
     </tr>
     <tr>
-        <td>斬天黑翼雙龍劍</td>
+        <td><MarkdownWrapper>[流星劍譜](book_2001)</MarkdownWrapper></td>
+        <td>刀劍10<br>輕功10<br>疾如風<br>颯踏流星劍<br>性情+5</td>
+        <td>80</td>
+        <td>性情&gt;=60<br>刀劍&gt;=20<br>輕功&gt;=20</td>
+        <td>三年四月上旬－四師兄買物($3500)<br>或四師兄遠行回歸補買</td>
+    </tr>
+    <tr>
+        <td><MarkdownWrapper>[翻浪刀法](book_2002)</MarkdownWrapper></td>
+        <td>刀劍5<br>翻浪刀法<br>道德-5<br>性情+5<br>處世+5<br></td>
+        <td>25</td>
+        <td></td>
+        <td>強賣魚鮮事件－幫助許大鯨打贏福韞後，花錢購買($500)或選「我買不起」強搶贏得<br>二年十月中旬－四師兄買物($1000)</td>
+    </tr>
+    <tr>
+        <td><MarkdownWrapper>[君子論劍](book_2003)</MarkdownWrapper></td>
+        <td>刀劍5<br>學問8<br>君子風<br>儒學LV1<br>處世-</td>
+        <td>80</td>
+        <td>儒學LV3</td>
+        <td>三年四月上旬－四師兄買物($2500)</td>
+    </tr>
+    <tr>
+        <td><MarkdownWrapper>[斬天黑翼雙龍劍](book_2005)</MarkdownWrapper></td>
         <td>刀劍2<br>嘴力3<br>性情+3<br>處世+3</td>
         <td>15</td>
         <td></td>
         <td>三年四月上旬－四師兄買物($2000)<br>招親事件劇情(心上人唐默鈴)</td>
+    </tr>
+    <tr>
+        <td><MarkdownWrapper>[孔夫子劍](book_2006)</MarkdownWrapper></td>
+        <td>刀劍10<br>儒學LV1<br>君子風<br>修養+10</td>
+        <td>80</td>
+        <td>儒學LV1</td>
+        <td>二年留學－玄功門季試勝出(魏菊好感未達2★)<br>二年留學－玄功門－季試戰勝兩場，獎勵選擇「武功秘笈」</td>
+    </tr>
+    <tr>
+        <td><MarkdownWrapper>[點蒼劍譜](book_2300)</MarkdownWrapper></td>
+        <td>刀劍10<br>輕功10<br>點蒼快劍LV2<br>點破雲關</td>
+        <td>50</td>
+        <td>刀劍10 (LV6)</td>
+        <td>四書事件<br>買牛事件－跟葉家兄妹要錢獲得<br>二年一月上旬－四師兄買物<br>二年留學－無色廣場逛街，四師兄買物($2500)</td>
+    </tr>
+    <tr>
+        <td><MarkdownWrapper>[雲裳劍法](book_2302)</MarkdownWrapper></td>
+        <td>刀劍+8<br>點蒼快劍LV2</td>
+        <td>50</td>
+        <td>學問20</td>
+        <td>三年一月上旬－葉家辭別(葉雲裳好感&gt;5★贈與)</td>
+    </tr>
+    <tr>
+        <td><MarkdownWrapper>[千刀萬剮殺](book_6010)</MarkdownWrapper></td>
+        <td>刀劍+10<br>拳掌-5<br>道德-5<br>修養-5</td>
+        <td>25</td>
+        <td></td>
+        <td>三年夏侯蘭線－放生第三香，骰祕笈</td>
     </tr>
 </table>
 

@@ -42,6 +42,7 @@ export default defineConfig({
 			{
 				text: "武功",
 				items: [{ text: "秘笈列表", link: "/books" }],
+				activeMatch: "/books/",
 			},
 			{
 				text: "互動事件",
