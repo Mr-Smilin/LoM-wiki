@@ -1,5 +1,8 @@
 <template>
-    <span :class=getIconSizeClass(size) :style="getIconSource(character)"></span><slot></slot>
+    <a v-if="href" :href="href">
+        <span :class=getIconSizeClass(size) :style="getIconSource(character)"></span><slot></slot>
+    </a>
+    <span v-else><span :class=getIconSizeClass(size) :style="getIconSource(character)"></span><slot></slot></span>
 </template>
 
 <script>
@@ -9,15 +12,7 @@ export default {
     props: {
         character: {
             type: String,
-            default: 'badend',
-            validator: function (value) {
-                // Only allow specific icon types
-                return [
-                    'badend',
-                    'girl0',
-                    'default'
-                ].indexOf(value) !== -1
-            }
+            default: 'badend'
         },
         size: {
             type: String,
@@ -29,6 +24,10 @@ export default {
                     'medium'
                 ].indexOf(value) !== -1
             }
+        },
+        href: {
+            type: String,
+            default: '',
         }
     },
     methods: {
