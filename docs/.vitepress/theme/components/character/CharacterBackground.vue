@@ -19,7 +19,7 @@
         default: 'left', // 'left' or 'center' or 'right'
         validator: value => ['left', 'center', 'right'].includes(value)
       },
-      anima: {
+      animation: {
         type: Boolean,
         required: false,
         default: false
@@ -37,7 +37,7 @@
             return 'center bottom';
         }
       });
-      const imageAnima = computed(() => (props.anima ? 'anima' : ''));
+      const imageAnima = computed(() => (props.animation ? 'anima' : ''));
   
       return {
         imageSrc,
