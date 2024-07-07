@@ -33,21 +33,21 @@ export default defineComponent({
     },
     setup(props) {
         const { size, href } = toRefs(props)
-
+        const CHARACTER = 'girl0';
         // if given href, use it directly
         if (href.value){
             return {
                 size: size.value,
                 href: href.value,
-                character: 'girl0'
+                character: CHARACTER
             }
         }
 
-        // default link for girl0
+        // default link if no href is given
         return {
             size: size.value,
-            href: withBase('/characters/girl0'),
-            character: 'girl0'
+            href: withBase(`/characters/${CHARACTER}`),
+            character: CHARACTER
         }
     }
 })
