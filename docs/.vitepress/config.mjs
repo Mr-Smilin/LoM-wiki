@@ -63,7 +63,10 @@ export default defineConfig({
 					{ text: "門派設施", link: "/event/facility" },
 				],
 			},
-			{ text: "結局", link: "/end" },
+			{
+				text: "結局",
+				items: [{ text: "生死簿", link: "/ends/bad-end" }],
+			},
 			{
 				text: "其他",
 				items: [
