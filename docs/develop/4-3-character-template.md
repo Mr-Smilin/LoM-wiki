@@ -1,6 +1,6 @@
 ---
-title: Markdown 角色資訊相關組件說明
-description: for 角色頁面相關組件的說明
+title: 人物列傳組件用法
+description: 人物頁面相關組件說明
 aside: true
 outline: [2, 4]
 sidebar: true
@@ -86,7 +86,7 @@ tags:
     -   `left` <Badge type="warning" text="默認值" /> ：設定組件在左邊
     -   `center`：設定組件在中間
     -   `right`：設定組件在右邊
--   `anima`：切換時是否啟用圖片動畫
+-   `animation`：切換時是否啟用圖片動畫
 
 ```Markdown
 <ChTabs>
@@ -99,7 +99,7 @@ tags:
         <ChBg
         src='/images/characters/girl_8/girl8_drumstick.png'
         position='center'
-        anima=true />
+        animation=true />
     </ChTab>
 </ChTabs>
 ```
@@ -116,7 +116,7 @@ tags:
         <ChBg
         src='/images/characters/girl_8/girl8_drumstick.png'
         position='center'
-        anima=true />
+        animation=true />
     </ChTab>
 </ChTabs>
 
@@ -274,7 +274,7 @@ tags:
         <ChBg
         src='/images/characters/girl_8/girl8_drumstick.png'
         position='center'
-        anima=true />
+        animation=true />
     </ChTab>
 </ChTabs>
 ```
@@ -310,7 +310,7 @@ tags:
         <ChBg
         src='/images/characters/girl_8/girl8_drumstick.png'
         position='center'
-        anima=true />
+        animation=true />
     </ChTab>
 </ChTabs>
 

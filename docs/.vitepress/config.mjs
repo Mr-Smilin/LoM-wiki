@@ -97,8 +97,12 @@ export default defineConfig({
 								link: "/develop/clean-template.md",
 							},
 							{
-								text: "角色資訊寫法",
-								link: "/develop/4-2-character-template.md",
+								text: "LoM-wiki 公開組件",
+								link: "/develop/4-2-wiki-template.md",
+							},
+							{
+								text: "人物列傳組件",
+								link: "/develop/4-3-character-template.md",
 							},
 						],
 					},
@@ -127,8 +131,12 @@ export default defineConfig({
 									link: "/develop/clean-template.md",
 								},
 								{
-									text: "角色資訊寫法",
-									link: "/develop/4-2-character-template.md",
+									text: "LoM-wiki 公開組件",
+									link: "/develop/4-2-wiki-template.md",
+								},
+								{
+									text: "人物列傳組件",
+									link: "/develop/4-3-character-template.md",
 								},
 							],
 						},
