@@ -39,11 +39,9 @@ export default defineConfig({
 					},
 				],
 			},
-			{ 
+			{
 				text: "武功",
-				items: [
-					{ text: "秘笈列表", link: "/books" },
-				]
+				items: [{ text: "秘笈列表", link: "/books" }],
 			},
 			{
 				text: "互動事件",
@@ -98,6 +96,10 @@ export default defineConfig({
 								text: "乾淨模板",
 								link: "/develop/clean-template.md",
 							},
+							{
+								text: "角色資訊寫法",
+								link: "/develop/4-2-character-template.md",
+							},
 						],
 					},
 				],
@@ -123,6 +125,10 @@ export default defineConfig({
 								{
 									text: "Markdown 乾淨模板",
 									link: "/develop/clean-template.md",
+								},
+								{
+									text: "角色資訊寫法",
+									link: "/develop/4-2-character-template.md",
 								},
 							],
 						},
