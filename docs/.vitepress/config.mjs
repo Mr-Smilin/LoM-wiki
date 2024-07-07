@@ -112,6 +112,10 @@ export default defineConfig({
 								text: "人物列傳組件",
 								link: "/develop/4-3-character-template.md",
 							},
+							{
+								text: "官方更新頁面模塊說明",
+								link: "/develop/4-4-news-template.md",
+							},
 						],
 					},
 				],
@@ -145,6 +149,10 @@ export default defineConfig({
 								{
 									text: "人物列傳組件",
 									link: "/develop/4-3-character-template.md",
+								},
+								{
+									text: "官方更新頁面模塊說明",
+									link: "/develop/4-4-news-template.md",
 								},
 							],
 						},
