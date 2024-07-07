@@ -32,7 +32,7 @@ tags:
 
 <br>
 
-與上一篇[常見用法>LoM-wiki 的自訂語法](/develop/4-1-template.html#lom-wiki-的自訂語法) 類似
+與上一篇[LoM-wiki 公開組件](/develop/4-2-wiki-template.html) 類似
 內容較多所以拆出一篇講解。
 
 ## 角色資訊框組件
