@@ -1,8 +1,11 @@
 const fs = require("fs");
 
 const TARGET_NEWS_PATH = "./docs/other/news";
-const GENERATE_PREFIX = "@/docs/other/news";
-const SAVE_PATH = "./docs/other/news/newsList.json";
+// TARGET FILE TEMPLATE <!--@include: @/other/news/[fileName]-->
+const GENERATE_PREFIX = "<!--@include: @/other/news/";
+const GENERATE_SUFFIX = "-->";
+// using news1.md to exp.
+const SAVE_MARKDOWN_PATH = "./docs/other/news1.md";
 
 try {
     fs.readdir(TARGET_NEWS_PATH, (err, files) => {
@@ -26,10 +29,25 @@ try {
             });
 
             // add prefix GENERATE_PREFIX to files
-            files.map(file => GENERATE_PREFIX + "/" + file);
+            // form: <!--@include: @/other/news/[fileName]-->
+            files = files.map(file => GENERATE_PREFIX + file + GENERATE_SUFFIX);
 
-            // write prefixedFiles to SAVE_PATH
-            fs.writeFileSync(SAVE_PATH, JSON.stringify(files, null, 4));
+            console.log(files);
+
+            const MARKDOWN_HEAD = "---\n" +
+                "title: 官方更新\n" +
+                "tags:\n" +
+                "  - news\n" +
+                "  - 新聞\n" +
+                "  - 遊戲更新\n" +
+                "  - 更新\n" +
+                "---\n" +
+                "\n" +
+                "# {{ $frontmatter.title }}\n" +
+                "\n"
+
+            // write data to replace the md file
+            fs.writeFileSync(SAVE_MARKDOWN_PATH, MARKDOWN_HEAD + files.join("\n"), "utf8");
         }
     });
 } catch (err) {

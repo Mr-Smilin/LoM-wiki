@@ -78,6 +78,7 @@ export default defineConfig({
 						],
 					},
 					{ text: "唐門圖書館(google sheet)", link: "/other/lom-sheet" },
+					{ text: "官方更新(exp)", link: "/other/news1" },
 				],
 			},
 			{

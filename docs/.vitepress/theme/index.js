@@ -24,7 +24,6 @@ import Girl6Icon from "./components/icons/Girl6Icon.vue";
 import Girl7Icon from "./components/icons/Girl7Icon.vue";
 import Girl8Icon from "./components/icons/Girl8Icon.vue";
 import MarkdownWrapper from "./components/MarkdownWrapper.vue";
-import NewsLoader from "./components/NewsLoader.vue";
 import "./styles/style.css";
 import "./styles/borderless.css";
 import "./styles/twikoo.css";
@@ -63,7 +62,5 @@ export default {
     app.component("Girl8Icon", Girl8Icon);
 
     app.component("MarkdownWrapper", MarkdownWrapper);
-
-    app.component("NewsLoader", NewsLoader);
   },
 };
