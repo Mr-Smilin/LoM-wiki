@@ -349,6 +349,12 @@ hello `行內純文字塊`test
     </Tab>
 </Tabs>
 
+<br>
+
+---
+
+<br>
+
 ### Icon 懶人組件
 
 目前提供少部分 Icon 與語法示例如下
@@ -406,6 +412,12 @@ hello `行內純文字塊`test
 -   `<Girl6Icon>` : <Girl6Icon>郁竹頭像</Girl6Icon>
 -   `<Girl7Icon>` : <Girl7Icon>魏菊頭像</Girl7Icon>
 -   `<Girl8Icon>` : <Girl8Icon>龍湘頭像</Girl8Icon>
+
+<br>
+
+---
+
+<br>
 
 ### Markdown 外部解析工具
 
