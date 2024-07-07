@@ -62,15 +62,17 @@ tags:
 <BadendIcon :size='`medium`'>我是文字1</BadendIcon>
 <BadendIcon :size='`small`'>我是文字2</BadendIcon>
 <BadendIcon>我是文字3</BadendIcon>
+<BadendIcon :no="30">生死簿30『清理門戶』</BadendIcon>
 ```
+`<BadendIcon>`連結預設會跳入生死簿, 可用 :no 指定跳入編號。
 
 **效果：**  
 <BadendIcon :size='`medium`'>我是文字 1</BadendIcon>  
 <BadendIcon :size='`small`'>我是文字 2</BadendIcon>  
 <BadendIcon>我是文字 3</BadendIcon>
-
+<BadendIcon :no="30">生死簿30『清理門戶』</BadendIcon>
 ---
-
+`<Girl[0-8]Icon>`連結預設會跳入人物列傳頁面，詳情參考[夢境心上人](/people/dream-sweetheart.html)
 ```
 <Girl0Icon :size='`medium`'>我是文字4</Girl0Icon>
 <Girl0Icon :size='`small`'>我是文字5</Girl0Icon>
@@ -84,24 +86,28 @@ tags:
 
 ---
 
-### Icon 懶人組件使用事例
+### Icon 懶人組件使用示例
 
-|                           語法                           | 效果                                               |                     說明                      |
-| :------------------------------------------------------: | :------------------------------------------------- | :-------------------------------------------: |
+|                          語法                          | 效果                                             |                     說明                      |
+|:----------------------------------------------------:|:-----------------------------------------------| :-------------------------------------------: |
 | `` <BadendIcon :size="`medium`">我是文字</BadendIcon> `` | <BadendIcon :size="`medium`">我是文字</BadendIcon> |                 顯示中型 Icon                 |
 | `` <BadendIcon :size="`small`">我是文字</BadendIcon> ``  | <BadendIcon :size="`small`">我是文字</BadendIcon>  |                 顯示小型 Icon                 |
 |           `<BadendIcon>我是文字</BadendIcon>`            | <BadendIcon>我是文字</BadendIcon>                  |        採用預設大小, 預設為"\`small\`"        |
-|               `<BadendIcon></BadendIcon>`                | <BadendIcon></BadendIcon>                          | 不寫任何文字，採用預設大小, 預設為"\`small\`" |
+|             `<BadendIcon></BadendIcon>`              | <BadendIcon></BadendIcon>                      | 不寫任何文字，採用預設大小, 預設為"\`small\`" |
+|   `<BadendIcon :no="30">生死簿30『清理門戶』</BadendIcon>`    | <BadendIcon :no="30">生死簿30『清理門戶』</BadendIcon>  | no 用來連結生死簿的編號, 不使用則會跳到該頁最上面。| 
 
 可用屬性寫法
 
 | 屬性名稱 | 值                          | default     |
 | :------- | :-------------------------- | :---------- |
 | size     | "\`medium\`" \| "\`small\`" | "\`small\`" |
+| no       | 0 <= no <= 90                 | 0           |
 
-目前已可用組件名稱如下:
+### 目前已可用組件：
 
--   `<BadendIcon>` : <BadendIcon>生死簿 (飲茶躺)</BadendIcon>
+-   `<BadendIcon>` : <BadendIcon>生死簿 (飲茶躺)</BadendIcon>, 預設點擊會跳到生死簿。
+
+以下人物頭像預設會跳到人物列傳頁面：  
 -   `<Girl0Icon>` : <Girl0Icon>小師妹頭像</Girl0Icon>
 -   `<Girl1Icon>` : <Girl1Icon>瑞杏頭像</Girl1Icon>
 -   `<Girl2Icon>` : <Girl2Icon>葉雲裳頭像</Girl2Icon>
