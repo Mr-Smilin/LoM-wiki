@@ -1,14 +1,14 @@
+// This script is used to generate the news list in the news.md file
 const fs = require("fs");
-
 const TARGET_NEWS_PATH = "./docs/other/news";
 // TARGET FILE TEMPLATE <!--@include: @/other/news/[fileName]-->
 const GENERATE_PREFIX = "<!--@include: @/other/news/";
 const GENERATE_SUFFIX = "-->";
 // using news1.md to exp.
-const SAVE_MARKDOWN_PATH = "./docs/other/news2.md";
+const SAVE_MARKDOWN_PATH = "./docs/other/news.md";
 
 try {
-    fs.rm("./docs/other/news1.md", () =>{});
+    fs.rm("./docs/other/news2.md", () =>{});
     fs.readdir(TARGET_NEWS_PATH, (err, files) => {
         if (err) {
             console.log(err);
