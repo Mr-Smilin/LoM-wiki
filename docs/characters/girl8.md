@@ -69,7 +69,7 @@ borderless: false
   <ChTab title="吃雞腿">
     <ChBg 
       src='/images/characters/girl_8/girl8_drumstick.png' 
-      position='center' 
+      position='right'
       animation=true />
     <ChName
       nameZh='吃雞腿'
@@ -77,20 +77,19 @@ borderless: false
   </ChTab>
   <ChTab title="大笑">
     <ChBg src='/images/characters/girl_8/laugh2.png'
+          position='right'
           animation=true />
     <ChName 
       nameZh='Laugh heartily'
-      nameEn='大笑'
-      position='right'/>
+      nameEn='大笑'/>
   </ChTab>
   <ChTab title="戰鬥">
     <ChBg src='/images/characters/girl_8/angry3.png'
-          position='center'
+          position='right'
           animation=true />
     <ChName 
       nameZh='戰鬥'
-      nameEn='Fight'
-      position='center'/>
+      nameEn='Fight'/>
   </ChTab>
 </ChTabs>
 
