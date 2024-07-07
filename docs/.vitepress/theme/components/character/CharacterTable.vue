@@ -1,7 +1,16 @@
 <template>
   <div class="attributes-table-container" :class="attributesPosition" :style="{ transform: tableTransform }">
     <button @click="toggleTable" class="toggle-button">摺疊</button>
-    <table class="attributes-table">
+    <table v-if="haveData" class="attributes-table">
+      <CharacterTr v-for="(trData,trIndex) in table" :key="trIndex">
+        <CharacterTd v-for="(tdData,tdIndex) in trData" :key="tdIndex" :isTitle="tdIndex === 0" :position="tdIndex === 0 ? 'center' : 'left'">
+          <MarkdownWrapper>
+            {{ tdData }}
+          </MarkdownWrapper>
+        </CharacterTd>
+      </CharacterTr>
+    </table>
+    <table v-else class="attributes-table">
       <slot></slot>
     </table>
   </div>
@@ -9,6 +18,8 @@
 
 <script>
 import { ref , computed} from 'vue';
+import CharacterTr from './CharacterTr.vue';
+import CharacterTd from './CharacterTd.vue';
 
 export default {
   name: 'CharacterTable',
@@ -17,22 +28,33 @@ export default {
         type: String,
         default: 'left', // 'left' or 'center' or 'right'
         validator: value => ['left', 'center', 'right'].includes(value)
-      }
+    },
+    table: {
+      type: Object,
+      default: []
+    }
+  },
+  components: {
+    CharacterTr,
+    CharacterTd
   },
   setup(props) {
     const tableVisible = ref(true);
 
     const attributesPosition = computed(() => props.position || 'left');
-    const tableTransform = computed(() => tableVisible.value ? 'translateY(0%)' : 'translateY(100%)');
+    const tableTransform = computed(() => tableVisible.value ? `translateY(0%)` : `translateY(100%)`);
 
     const toggleTable = () => {
       tableVisible.value = !tableVisible.value;
     };
 
+    const haveData = computed(() => props.table.length > 0);
+
     return {
       attributesPosition,
       tableTransform,
       toggleTable,
+      haveData,
     };
   }
 };

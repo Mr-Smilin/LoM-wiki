@@ -39,11 +39,10 @@ export default defineConfig({
 					},
 				],
 			},
-			{ 
+			{
 				text: "武功",
-				items: [
-					{ text: "秘笈列表", link: "/books" },
-				]
+				items: [{ text: "秘笈列表", link: "/books" }],
+				activeMatch: "/books/",
 			},
 			{
 				text: "互動事件",
@@ -98,6 +97,14 @@ export default defineConfig({
 								text: "乾淨模板",
 								link: "/develop/clean-template.md",
 							},
+							{
+								text: "LoM-wiki 公開組件",
+								link: "/develop/4-2-wiki-template.md",
+							},
+							{
+								text: "人物列傳組件",
+								link: "/develop/4-3-character-template.md",
+							},
 						],
 					},
 				],
@@ -123,6 +130,14 @@ export default defineConfig({
 								{
 									text: "Markdown 乾淨模板",
 									link: "/develop/clean-template.md",
+								},
+								{
+									text: "LoM-wiki 公開組件",
+									link: "/develop/4-2-wiki-template.md",
+								},
+								{
+									text: "人物列傳組件",
+									link: "/develop/4-3-character-template.md",
 								},
 							],
 						},
