@@ -22,6 +22,11 @@ export default defineConfig({
 		siteTitle: false,
 		nav: [
 			{
+				text: "結緣",
+				link: "/meeting", // 結緣頁面, 不對應實際連結
+			}
+			,
+			{
 				text: "人物",
 				items: [
 					{ text: "人物列表", link: "/characters/" },
