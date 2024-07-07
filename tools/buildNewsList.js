@@ -8,7 +8,7 @@ const GENERATE_SUFFIX = "-->";
 const SAVE_MARKDOWN_PATH = "./docs/other/news2.md";
 
 try {
-    fs.rm("./docs/other/news1.md");
+    fs.rm("./docs/other/news1.md", () =>{});
     fs.readdir(TARGET_NEWS_PATH, (err, files) => {
         if (err) {
             console.log(err);
