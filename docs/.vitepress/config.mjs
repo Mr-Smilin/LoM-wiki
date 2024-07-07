@@ -24,8 +24,7 @@ export default defineConfig({
 			{
 				text: "結緣",
 				link: "/meeting", // 結緣頁面, 不對應實際連結
-			}
-			,
+			},
 			{
 				text: "人物",
 				items: [
