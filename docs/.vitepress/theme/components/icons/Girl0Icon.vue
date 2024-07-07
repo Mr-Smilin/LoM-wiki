@@ -1,11 +1,13 @@
 <template>
-    <Icon :size=size :character=character><slot></slot></Icon>
+    <Icon :size=size :character=character :href="href"><slot></slot></Icon>
 </template>
 
 <script>
 import {defineComponent, toRefs} from 'vue'
+import {withBase} from "vitepress";
 
 export default defineComponent({
+    methods: {withBase},
     props: {
         size: {
             type: String,
@@ -17,6 +19,10 @@ export default defineComponent({
                     'medium'
                 ].indexOf(value) !== -1
             }
+        },
+        href: {
+            type: String,
+            default: ''
         }
     },
     data() {
@@ -26,10 +32,21 @@ export default defineComponent({
         }
     },
     setup(props) {
-        const { size } = toRefs(props)
+        const { size, href } = toRefs(props)
 
+        // if given href, use it directly
+        if (href.value){
+            return {
+                size: size.value,
+                href: href.value,
+                character: 'girl0'
+            }
+        }
+
+        // default link for girl0
         return {
             size: size.value,
+            href: withBase('/characters/girl0'),
             character: 'girl0'
         }
     }
