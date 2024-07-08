@@ -20,3 +20,4 @@ docs/.obsidian
 docs/.vitepress/cache
 docs/.vitepress/dist
 docs/other/news.md
+docs/public/json/contributors.json

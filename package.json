@@ -12,7 +12,7 @@
     "dev": "npm run docs:dev",
     "build": "npm run docs:build",
     "docs:dev": "vitepress dev docs",
-    "docs:build": "node ./tools/buildNewsList.js && vitepress build docs && node ./tools/buildContributors.js",
+    "docs:build": "node ./tools/buildNewsList.js && node ./tools/buildContributors.js && vitepress build docs",
     "docs:preview": "vitepress preview docs --port 4173"
   },
   "dependencies": {
