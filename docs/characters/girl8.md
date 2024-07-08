@@ -95,6 +95,15 @@ borderless: false
 
 <!-- # 龍湘 -->
 
+<InfoList>
+  <Info title="test" open=true>
+    12312321321321321
+  </Info>
+  <Info title="test">
+    12312321321321321
+  </Info>
+</InfoList>
+
 > 「縱死俠骨香，不慚世上英。誰人書閣下，白首太玄雞。」
 
 ~~雞腿俠，又名錦香宮殺人魔，丐幫的行走錢包。~~
