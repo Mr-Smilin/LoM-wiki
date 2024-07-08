@@ -16,7 +16,7 @@ borderless: false
     <ChName nameZh='龍湘' nameEn='Long Xiang' position='right' />
     <ChTable>
       <ChTr>
-        <ChTd isTitle=true  position='center'>
+        <ChTd isTitle=true>
           性別
         </ChTd>
         <ChTd>
