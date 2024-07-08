@@ -166,7 +166,33 @@ borderless: false
   </Tab>
 </Tabs>
 
-<BTable :items="items" :fields="fields" >
+<!-- <BTable :items="items" :fields="fields" /> -->
+<BTable :table="items">
+  <tr>
+    <td>age</td>
+    <td>first_name</td>
+    <td>last_name</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>Dickerson</td>
+    <td>Macdonald</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>Larsen</td>
+    <td>Shaw</td>
+  </tr>
+  <tr>
+    <td>89</td>
+    <td>Geneva</td>
+    <td>Wilson</td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>Jami</td>
+    <td>Carney</td>
+  </tr>
 </BTable>
 
 <script setup>
@@ -187,10 +213,19 @@ const fields = [
   }
 ]
 
+
 const items = [
-  { isActive: true, age: 40, first_name: 'Dickerson', last_name: 'Macdonald' },
-  { isActive: false, age: 21, first_name: 'Larsen', last_name: 'Shaw' },
-  { isActive: false, age: 89, first_name: 'Geneva', last_name: 'Wilson' },
-  { isActive: true, age: 38, first_name: 'Jami', last_name: 'Carney' }
+  { age: 40, first_name: 'Dickerson', last_name: 'Macdonald' },
+  { age: 21, first_name: 'Larsen', last_name: 'Shaw' },
+  {  age: 89, first_name: 'Geneva', last_name: 'Wilson' },
+  {  age: 38, first_name: 'Jami', last_name: 'Carney' }
+]
+
+const items2 = [
+  ['age','first_name','last_name'],
+  [40,'Dickerson','Macdonald'],
+  [21,'Larsen','Shaw'],
+  [89,'Geneva','Wilson'],
+  [38,'Jami','Carney']
 ]
 </script>
