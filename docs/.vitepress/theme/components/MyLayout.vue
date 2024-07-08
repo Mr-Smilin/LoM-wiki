@@ -1,6 +1,6 @@
 <!-- .vitepress/theme/MyLayout.vue -->
 <script setup>
-import { onMounted } from 'vue';
+// import { onMounted } from 'vue';
 import DefaultTheme from "vitepress/theme";
 import { defineAsyncComponent } from "vue";
 import Twikoo from "./default/Twikoo.vue";

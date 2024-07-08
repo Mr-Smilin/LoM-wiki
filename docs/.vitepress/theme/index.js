@@ -1,6 +1,8 @@
 // .vitepress/theme/index.js
 import DefaultTheme from "vitepress/theme";
 import MyLayout from "./components/MyLayout.vue";
+// import mock Bootstrap-vue
+import BTable from "./components/bootstrap-vue/BTable.vue";
 // import CharacterTab Group
 import CharacterTabs from "./components/character/CharacterTabs.vue";
 import CharacterTab from "./components/character/CharacterTab.vue";
@@ -38,6 +40,8 @@ export default {
   // 使用注入插槽的包装组件覆盖 Layout
   Layout: MyLayout,
   enhanceApp({ app }) {
+    // import mock Bootstrap-vue
+    app.component("BTable", BTable);
     // import CharacterTab Group
     app.component("ChTabs", CharacterTabs);
     app.component("ChTab", CharacterTab);
