@@ -1,83 +1,104 @@
 <template>
     <div class="info-container">
-        <!-- 標題容器，點擊可展開或收合內容容器 -->
-        <div class="title" @click="toggleContent">
+      <div class="title" @click="toggleContent" :aria-expanded="isOpen">
         {{ title }}
+        <span class="arrow" :class="{ open: isOpen }"></span>
+      </div>
+      <div class="content-wrapper" :style="{ height: contentHeight }">
+        <div ref="content" class="content">
+            <MarkdownWrapper>{{ slotContent }}</MarkdownWrapper>
         </div>
-        <!-- 內容容器，根據 isOpen 狀態決定顯示與否，並添加過渡效果 -->
-        <transition name="slide-fade">
-        <div v-show="isOpen" class="content">
-            <slot></slot>
-        </div>
-        </transition>
+      </div>
     </div>
-</template>
-
-<script>
-import { ref, watch } from 'vue';
-
-export default {
-    name: 'Info',
-    props: {
-        open: {
-        type: Boolean,
-        default: false
-        },
-        title: {
-        type: String,
-        required: true
-        }
-    },
-    setup(props){
-        const isOpen = ref(props.open);
-
-        // 切換內容容器的顯示狀態
-        const toggleContent = () => {
-        isOpen.value = !isOpen.value;
-        };
-
-        watch(() => props.open, (newVal) => {
-        isOpen.value = newVal;
-        });
-
-        return {
-        isOpen,
-        toggleContent
-        }
+  </template>
+  
+  <script setup>
+  import { ref, watch, nextTick, useSlots } from 'vue';
+import MarkdownWrapper from './MarkdownWrapper.vue';
+  
+  const props = defineProps({
+    open: Boolean,
+    title: {
+      type: String,
+      required: true
     }
+  });
+
+  const slots = useSlots();
+  const slotContent = ref('');
+
+if (slots.default) {
+  slotContent.value = slots.default().map(node => { 
+        if(node?.type === 'br')
+            return '<br>'
+        else
+            return node.children}
+    ).join('').trim();
 }
-</script>
-
-<style scoped>
-    .info-container {
-        max-width: 200px;
-        padding: 10px; /* 添加內邊距 */
-        overflow: hidden; /* 確保動畫效果在容器內 */
+  
+  const isOpen = ref(props.open);
+  const content = ref(null);
+  const contentHeight = ref('0px');
+  
+  const updateHeight = async () => {
+    await nextTick();
+    if (isOpen.value) {
+      contentHeight.value = `${content.value.scrollHeight}px`;
+    } else {
+      contentHeight.value = '0px';
     }
-
-    .title {
-        font-weight: bold;
-        cursor: pointer; /* 添加鼠標指針樣式 */
-        padding: 5px; /* 添加內邊距 */
-        border: 2px dotted var(--vp-c-green-2);
-    }
-
-    .title::after {
-        content: "";
-        border: transparent 10px solid;
-        border-top-color: var(--vp-c-green-2);
-    }
-
-    /* 過渡效果 */
-    .slide-fade-enter-active, .slide-fade-leave-active {
-        transition: all 0.5s ease;
-    }
-    .slide-fade-enter, .slide-fade-leave-to /* .slide-fade-leave-active in <2.1.8 */ {
-        opacity: 0;
-        transform: translateY(-20px);
-    }
-
-    .content {
-        margin-top: 10px; /* 添加頂部邊距 */
-    }
-</style>
+  };
+  
+  const toggleContent = () => {
+    isOpen.value = !isOpen.value;
+    updateHeight();
+  };
+  
+  watch(() => props.open, (newVal) => {
+    isOpen.value = newVal;
+    updateHeight();
+  });
+  
+  updateHeight();
+  </script>
+  
+  <style scoped>
+  .info-container {
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+    border: 2px solid var(--vp-c-border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .arrow {
+    border: solid var(--vp-c-green-2);
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    transition: transform 0.3s ease;
+  }
+  
+  .arrow.open {
+    transform: rotate(-135deg);
+  }
+  
+  .content-wrapper {
+    overflow: hidden;
+    transition: height 0.3s ease-out;
+  }
+  
+  .content {
+    padding: 10px 5px;
+    border: 1px solid var(--vp-c-divider);
+    border-top: none;
+    background-color: var(--vp-c-gray-1);
+  }
+  </style>

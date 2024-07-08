@@ -96,11 +96,22 @@ borderless: false
 <!-- # 龍湘 -->
 
 <InfoList>
-  <Info title="test" open=true>
-    12312321321321321
+  <Info title="列傳一" open=true>
+      ~~師承錦香宮~~，劍法精絕的清麗佳人。<br>
+      踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。<br>
+      ~~雖然如此，由於不諳世事，意外地容易受騙上當。~~
   </Info>
-  <Info title="test">
-    12312321321321321
+  <Info title="列傳二">
+    對父親的記憶，如今很稀薄了。<br>
+    遙遠記憶裡那一日，他摸摸她小腦袋瓜，<br>
+	一笑出門去，便再也不曾回來。<br>
+    後來錦香宮溫夫人才接了她去，收入門牆。<br><br>   
+    輾轉聽人傳聞，才知道父親是武林傳奇，<br>
+	既悲傷又驕傲，沿著父親的足跡，造訪故人，<br>
+	想蒐集更多已故生父的故事，憑此懷念。<br><br>
+    一身劍法皆得於家傳秘笈，龍淵七訣中，尤擅劍法，<br>
+	自小便以雞腿為劍，悟出人劍合一的奧義而渾不自覺，<br>
+	至今也不太清楚自己究竟算不算高手。
   </Info>
 </InfoList>
 
@@ -167,7 +178,7 @@ borderless: false
 </Tabs>
 
 <!-- <BTable :items="items" :fields="fields" /> -->
-<BTable :table="items">
+<BTable :table="items2">
   <tr>
     <td>age</td>
     <td>first_name</td>
@@ -189,43 +200,46 @@ borderless: false
     <td>Wilson</td>
   </tr>
   <tr>
-    <td>38</td>
+    <td colspan=2>38</td>
     <td>Jami</td>
-    <td>Carney</td>
+    <!-- <td>Carney</td> -->
   </tr>
 </BTable>
 
 <script setup>
 
-const fields = [
-  {
-    key: 'last_name',
-    sortable: true
-  },
-  {
-    key: 'first_name',
-    sortable: false
-  },
-  {
-    key: 'age',
-    label: 'Person age',
-    sortable: true
-  }
-]
-
-
 const items = [
-  { age: 40, first_name: 'Dickerson', last_name: 'Macdonald' },
-  { age: 21, first_name: 'Larsen', last_name: 'Shaw' },
-  {  age: 89, first_name: 'Geneva', last_name: 'Wilson' },
-  {  age: 38, first_name: 'Jami', last_name: 'Carney' }
+  {
+    age: '40',
+    first_name: 'Dickerson',
+    last_name: 'Macdonald',
+    _attributes: { style: 'background-color: #f0f0f0;' },
+    _cellAttributes: {
+      first_name: { style: 'color: red;' }
+    }
+  },
+  { age: '21', first_name: 'Larsen', last_name: 'Shaw' },
+  {  age: '89', first_name: 'Geneva', last_name: 'Wilson' },
+  {  age: '38', 
+  first_name: 'Geneva' ,
+  // last_name: 'Carney',
+    _cellAttributes: {
+      first_name: { colspan: 2 }
+    }
+   }
 ]
 
 const items2 = [
-  ['age','first_name','last_name'],
-  [40,'Dickerson','Macdonald'],
-  [21,'Larsen','Shaw'],
-  [89,'Geneva','Wilson'],
-  [38,'Jami','Carney']
+  {
+    age: '40',
+    first_name: 'Dickerson',
+    last_name: 'Macdonald',
+  },
+  { age: '21', first_name: 'Larsen', last_name: 'Shaw' },
+  {  age: '89', first_name: 'Geneva', last_name: 'Wilson' },
+  {  age: '38', 
+  first_name: 'Geneva' ,
+  last_name: 'Carney',
+   }
 ]
 </script>

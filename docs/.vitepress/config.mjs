@@ -230,22 +230,24 @@ export default defineConfig({
 			inlineTags: [],
 		},
 		config: (md) => {
-			// 目前沒用
-			// md.use(markdownItContainer, "md", {
-			// 	validate: function (params) {
-			// 		return params.trim().match(/^md\s+(.*)$/);
-			// 	},
-			// 	render: function (tokens, idx) {
-			// 		var m = tokens[idx].info.trim().match(/^md\s+(.*)$/);
-			// 		if (tokens[idx].nesting === 1) {
-			// 			// opening tag
-			// 			return "<MarkdownWrapper>\n" + md.utils.escapeHtml(m[1]) + "\n";
-			// 		} else {
-			// 			// closing tag
-			// 			return "</MarkdownWrapper>\n";
-			// 		}
-			// 	},
-			// });
+			const defaultRender =
+				md.renderer.rules.html_block ||
+				function (tokens, idx, options, env, self) {
+					return self.renderToken(tokens, idx, options);
+				};
+			md.renderer.rules.html_block = function (
+				tokens,
+				idx,
+				options,
+				env,
+				self
+			) {
+				const content = tokens[idx].content;
+				if (content.includes("<MarkdownWrapper")) {
+					return content;
+				}
+				return defaultRender(tokens, idx, options, env, self);
+			};
 		},
 	},
 
