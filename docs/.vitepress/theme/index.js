@@ -1,3 +1,6 @@
+import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap-vue-3/dist/bootstrap-vue-3.css";
+
 // .vitepress/theme/index.js
 import DefaultTheme from "vitepress/theme";
 import MyLayout from "./components/MyLayout.vue";

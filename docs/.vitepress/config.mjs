@@ -245,6 +245,11 @@ export default defineConfig({
 			// });
 		},
 	},
+	vite: {
+		ssr: {
+			noExternal: ["bootstrap-vue-3"],
+		},
+	},
 
 	// 		next();
 	// 	});
