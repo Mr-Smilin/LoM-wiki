@@ -17,20 +17,21 @@
           :key="cellIndex" 
           v-bind="cellData.attributes"
         >
-          <template v-if="cellData.type === 'text'">
-            {{ cellData.content }}
-          </template>
-          <template v-else-if="cellData.type === 'component'">
-            <component :is="renderComponent(cellData.content)" />
-          </template>
-          <template v-else-if="cellData.type === 'array'">
+          <template v-if="cellData.type === 'array'">
             <template v-for="(item, index) in cellData.content" :key="index">
-              <component 
-                v-if="typeof item === 'object' && item.type"
-                :is="renderComponent(item)"
-              />
-              <template v-else>{{ item }}</template>
+              <template v-if="getContentType(item) === 'br'">
+                <br />
+              </template>
+              <template v-else-if="getContentType(item) === 'text'">
+                {{ item.children }}
+              </template>
+              <template v-else-if="getContentType(item) === 'component'">
+                <component :is="renderComponent(item)" />
+              </template>
             </template>
+          </template>
+          <template v-else>
+            <MarkdownWrapper :content="cellData.content" />
           </template>
         </td>
       </tr>
@@ -110,7 +111,20 @@ onMounted(() => {
             })
           return row
         })
-        console.log(rows);
+        console.log('Headers:', headers.value);
+        rows.value.forEach((row, rowIndex) => {
+          console.log(`Row ${rowIndex}:`);
+          row._cells.forEach((cell, cellIndex) => {
+            console.log(`  Cell ${cellIndex}:`);
+            console.log('    Type:', cell.type);
+            console.log('    Content:', cell.content);
+            if (Array.isArray(cell.content)) {
+              cell.content.forEach((item, itemIndex) => {
+                console.log(`      Item ${itemIndex}:`, item);
+              });
+            }
+          });
+        });
       }
     }
   }
@@ -125,37 +139,67 @@ const sort = (key) => {
   }
 }
 
+// const sortedRows = computed(() => {
+//   return [...rows.value].sort((a, b) => {
+//     const aVal = a._cells[headers.value.findIndex(header => header?.key === sortKey.value)]?.content
+//     const bVal = b._cells[headers.value.findIndex(header => header?.key === sortKey.value)]?.content
+//     if (aVal < bVal) return sortOrder.value === 'asc' ? -1 : 1
+//     if (aVal > bVal) return sortOrder.value === 'asc' ? 1 : -1
+//     return 0
+//   })
+// })
+
 const sortedRows = computed(() => {
   return [...rows.value].sort((a, b) => {
-    const aVal = a._cells[headers.value.findIndex(header => header?.key === sortKey.value)]?.content
-    const bVal = b._cells[headers.value.findIndex(header => header?.key === sortKey.value)]?.content
-    if (aVal < bVal) return sortOrder.value === 'asc' ? -1 : 1
-    if (aVal > bVal) return sortOrder.value === 'asc' ? 1 : -1
-    return 0
-  })
-})
+    const aCell = a._cells[headers.value.findIndex(header => header?.key === sortKey.value)];
+    const bCell = b._cells[headers.value.findIndex(header => header?.key === sortKey.value)];
+    
+    const aVal = aCell?.type === 'array' 
+      ? aCell.content.filter(item => getContentType(item) === 'text').map(item => item.children).join('')
+      : aCell?.content;
+    
+    const bVal = bCell?.type === 'array' 
+      ? bCell.content.filter(item => getContentType(item) === 'text').map(item => item.children).join('')
+      : bCell?.content;
+
+    if (aVal < bVal) return sortOrder.value === 'asc' ? -1 : 1;
+    if (aVal > bVal) return sortOrder.value === 'asc' ? 1 : -1;
+    return 0;
+  });
+});
 
 function getContentType(content) {
   if (Array.isArray(content)) {
     return 'array';
-  } else if (typeof content === 'object' && content !== null && content.type) {
+  } else if (typeof content === 'object' && content !== null) {
+    if (content.type === 'br') return 'br';
+    if (content.type === Symbol.for('v-txt')) return 'text';
     return 'component';
-  } else {
+  } else if (typeof content === 'string') {
     return 'text';
+  } else {
+    console.log('Unknown content type:', content);
+    return 'unknown';
   }
 }
 
 function renderComponent(content) {
+  if (content.type === 'br') {
+    return h('br');
+  }
+  if (content.type === Symbol.for('v-txt')) {
+    return content.children;
+  }
+
   const slots = {};
   if (content.children) {
-    // 處理默認插槽
     if (typeof content.children === 'string') {
       slots.default = () => content.children;
     } else if (Array.isArray(content.children)) {
       slots.default = () => content.children.map(child => {
         if (typeof child === 'string') {
           return child;
-        } else if (typeof child === 'object' && child.type) {
+        } else if (typeof child === 'object' && child !== null) {
           return renderComponent(child);
         }
         return null;
