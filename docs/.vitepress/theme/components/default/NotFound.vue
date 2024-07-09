@@ -65,7 +65,8 @@ export default {
         }
         this.setContent();
         this.showProbability = this.getShowProbability();
-
+    },
+    mounted() {
         //remove useless element
         document.querySelectorAll("body>div.lg-container").forEach(e => e.remove());
     },
