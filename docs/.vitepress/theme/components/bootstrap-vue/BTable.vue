@@ -17,7 +17,21 @@
           :key="cellIndex" 
           v-bind="cellData.attributes"
         >
-          <MarkdownWrapper :content="cellData.content" />
+          <template v-if="cellData.type === 'text'">
+            {{ cellData.content }}
+          </template>
+          <template v-else-if="cellData.type === 'component'">
+            <component :is="renderComponent(cellData.content)" />
+          </template>
+          <template v-else-if="cellData.type === 'array'">
+            <template v-for="(item, index) in cellData.content" :key="index">
+              <component 
+                v-if="typeof item === 'object' && item.type"
+                :is="renderComponent(item)"
+              />
+              <template v-else>{{ item }}</template>
+            </template>
+          </template>
         </td>
       </tr>
     </tbody>
@@ -25,7 +39,7 @@
 </template>
 
 <script setup>
-import { ref, computed, useSlots, onMounted } from 'vue'
+import { h,ref, computed, useSlots, onMounted } from 'vue'
 
 const props = defineProps({
   field:{
@@ -60,7 +74,8 @@ onMounted(() => {
       if(trRow[key] === undefined) return
       row._cells.push({
         content: trRow[key],
-        attributes: trRow?._cellAttributes?.[key] || {}
+        attributes: trRow?._cellAttributes?.[key] || {},
+        type: 'text'
       })
     })
     return row
@@ -74,8 +89,8 @@ onMounted(() => {
           .filter(node => node.type === 'td')
           .map(td => {
             return{
-              key: td.children.toString().trim(),
-              label: td.children.toString().trim(),
+              key: td.children,
+              label: td.children,
               unsortable: !!td.props?.unsortable,
             }
           })
@@ -88,12 +103,14 @@ onMounted(() => {
             .filter(node => node.type === 'td')
             .forEach((td) => {
               row._cells.push({
-                content: td.children.toString().trim(),
-                attributes: td.props || {}
+                content: td.children,
+                attributes: td.props || {},
+                type: getContentType(td.children)
               })
             })
           return row
         })
+        console.log(rows);
       }
     }
   }
@@ -117,6 +134,39 @@ const sortedRows = computed(() => {
     return 0
   })
 })
+
+function getContentType(content) {
+  if (Array.isArray(content)) {
+    return 'array';
+  } else if (typeof content === 'object' && content !== null && content.type) {
+    return 'component';
+  } else {
+    return 'text';
+  }
+}
+
+function renderComponent(content) {
+  const slots = {};
+  if (content.children) {
+    // 處理默認插槽
+    if (typeof content.children === 'string') {
+      slots.default = () => content.children;
+    } else if (Array.isArray(content.children)) {
+      slots.default = () => content.children.map(child => {
+        if (typeof child === 'string') {
+          return child;
+        } else if (typeof child === 'object' && child.type) {
+          return renderComponent(child);
+        }
+        return null;
+      });
+    } else if (typeof content.children === 'object' && content.children.default) {
+      slots.default = content.children.default;
+    }
+  }
+
+  return h(content.type, content.props, slots);
+}
 </script>
 
 <style scoped>
