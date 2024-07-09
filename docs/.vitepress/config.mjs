@@ -101,10 +101,6 @@ export default defineConfig({
 								link: "/develop/4-1-template.md",
 							},
 							{
-								text: "乾淨模板",
-								link: "/develop/clean-template.md",
-							},
-							{
 								text: "LoM-wiki 公開組件",
 								link: "/develop/4-2-wiki-template.md",
 							},
@@ -115,6 +111,19 @@ export default defineConfig({
 							{
 								text: "官方更新頁面模塊說明",
 								link: "/develop/4-4-news-template.md",
+							},
+						],
+					},
+					{
+						text: "Markdown 開發參考模板",
+						items: [
+							{
+								text: "乾淨模板",
+								link: "/develop/clean-template.md",
+							},
+							{
+								text: "乾淨角色頁面模板",
+								link: "/develop/clean-character-template.md",
 							},
 						],
 					},
@@ -142,10 +151,6 @@ export default defineConfig({
 									link: "/develop/4-1-template.md",
 								},
 								{
-									text: "Markdown 乾淨模板",
-									link: "/develop/clean-template.md",
-								},
-								{
 									text: "LoM-wiki 公開組件",
 									link: "/develop/4-2-wiki-template.md",
 								},
@@ -156,6 +161,19 @@ export default defineConfig({
 								{
 									text: "官方更新頁面模塊說明",
 									link: "/develop/4-4-news-template.md",
+								},
+							],
+						},
+						{
+							text: "Markdown 開發參考模板",
+							items: [
+								{
+									text: "乾淨模板",
+									link: "/develop/clean-template.md",
+								},
+								{
+									text: "乾淨角色頁面模板",
+									link: "/develop/clean-character-template.md",
 								},
 							],
 						},
