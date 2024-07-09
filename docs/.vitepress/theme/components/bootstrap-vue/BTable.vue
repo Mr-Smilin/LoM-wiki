@@ -2,10 +2,10 @@
   <table>
     <thead>
       <tr>
-        <th v-for="header in headers" :key="header" @click="sort(header)">
-          {{ header }}
-          <span class="sort-icon">
-            {{ sortKey === header ? (sortOrder === 'asc' ? '▲' : '▼') : '◆' }}
+        <th v-for="header in headers" :key="header.key" @click="!header?.unsortable ? sort(header.key) : null">
+          {{ header.label }}
+          <span v-if="!header?.unsortable" class="sort-icon">
+            {{ sortKey === header.key ? (sortOrder === 'asc' ? '▲' : '▼') : '◆' }}
           </span>
         </th>
       </tr>
@@ -28,6 +28,10 @@
 import { ref, computed, useSlots, onMounted } from 'vue'
 
 const props = defineProps({
+  field:{
+    type: Array,
+    default: () => []
+  },
   table: {
     type: Array,
     default: () => []
@@ -43,8 +47,8 @@ const sortKey = ref('')
 const sortOrder = ref('asc')
 
 onMounted(() => {
-  if (props.table.length > 0) {
-  headers.value = Object.keys(props.table[0]).filter(key => key !== '_attributes' && key !== '_cellAttributes')
+  if (props.table.length > 0 && props.field.length > 0) {
+  headers.value = props.field;
   rows.value = props.table.map(trRow => {
     console.log(trRow);
     const row = {
@@ -52,10 +56,11 @@ onMounted(() => {
       _cells: []
     }
     headers.value.forEach(header => {
-      if(trRow[header] === undefined) return
+      const key = header?.key;
+      if(trRow[key] === undefined) return
       row._cells.push({
-        content: trRow[header],
-        attributes: trRow?._cellAttributes?.[header] || {}
+        content: trRow[key],
+        attributes: trRow?._cellAttributes?.[key] || {}
       })
     })
     return row
@@ -67,7 +72,13 @@ onMounted(() => {
       if (trElements.length > 0) {
         headers.value = trElements[0].children
           .filter(node => node.type === 'td')
-          .map(td => td.children.toString().trim())
+          .map(td => {
+            return{
+              key: td.children.toString().trim(),
+              label: td.children.toString().trim(),
+              unsortable: !!td.props?.unsortable,
+            }
+          })
         rows.value = trElements.slice(1).map(tr => {
           const row = {
             _attributes: tr.props || {},
@@ -99,8 +110,8 @@ const sort = (key) => {
 
 const sortedRows = computed(() => {
   return [...rows.value].sort((a, b) => {
-    const aVal = a._cells[headers.value.indexOf(sortKey.value)]?.content
-    const bVal = b._cells[headers.value.indexOf(sortKey.value)]?.content
+    const aVal = a._cells[headers.value.findIndex(header => header?.key === sortKey.value)]?.content
+    const bVal = b._cells[headers.value.findIndex(header => header?.key === sortKey.value)]?.content
     if (aVal < bVal) return sortOrder.value === 'asc' ? -1 : 1
     if (aVal > bVal) return sortOrder.value === 'asc' ? 1 : -1
     return 0
