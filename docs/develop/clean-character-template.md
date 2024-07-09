@@ -1,5 +1,5 @@
 ---
-title: 角色頁面乾淨模板
+title: 角色頁面模板
 description: 開發角色頁面可參考的模板。
 aside: true
 outline: [2, 3]
