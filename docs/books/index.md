@@ -23,7 +23,7 @@ tags:
         <td>價格(如果有)</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[雲霄雷霆霹靂刀](book_2000)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`2000`">雲霄雷霆霹靂刀</BookItemIcon></td>
         <td>刀劍10<br>輕功-5<br>霹靂刀<br>性情+5</td>
         <td>50</td>
         <td>刀劍20</td>
@@ -31,15 +31,15 @@ tags:
         <td>2000</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[流星劍譜](book_2001)</MarkdownWrapper></td>
-        <td>刀劍10<br>輕功10<br>疾如風<br>颯踏流星劍<br>性情+5</td>
+        <td><BookItemIcon :no="`2001`">流星劍譜</BookItemIcon></td>
+        <<td>刀劍10<br>輕功10<br>疾如風<br>颯踏流星劍<br>性情+5</td>
         <td>80</td>
         <td>性情&gt;=60<br>刀劍&gt;=20<br>輕功&gt;=20</td>
         <td>三年四月上旬－四師兄買物($3500)<br>或四師兄遠行回歸補買</td>
         <td>3500</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[翻浪刀法](book_2002)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`2002`">翻浪刀法</BookItemIcon></td>
         <td>刀劍5<br>翻浪刀法<br>道德-5<br>性情+5<br>處世+5<br></td>
         <td>25</td>
         <td></td>
@@ -47,7 +47,7 @@ tags:
         <td>1000 或 500</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[君子論劍](book_2003)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`2003`">君子論劍</BookItemIcon></td>
         <td>刀劍5<br>學問8<br>君子風<br>儒學LV1<br>處世-</td>
         <td>80</td>
         <td>儒學LV3</td>
@@ -55,7 +55,7 @@ tags:
         <td>2500</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[斬天黑翼雙龍劍](book_2005)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`2005`">斬天黑翼雙龍劍</BookItemIcon></td>
         <td>刀劍2<br>嘴力3<br>性情+3<br>處世+3</td>
         <td>15</td>
         <td></td>
@@ -63,7 +63,7 @@ tags:
         <td>2000</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[孔夫子劍](book_2006)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`2006`">孔夫子劍</BookItemIcon></td>
         <td>刀劍10<br>儒學LV1<br>君子風<br>修養+10</td>
         <td>80</td>
         <td>儒學LV1</td>
@@ -71,7 +71,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[點蒼劍譜](book_2300)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`2300`">點蒼劍譜</BookItemIcon></td>
         <td>刀劍10<br>輕功10<br>點蒼快劍LV2<br>點破雲關</td>
         <td>50</td>
         <td>刀劍10 (LV6)</td>
@@ -79,7 +79,7 @@ tags:
         <td>2500</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[雲裳劍法](book_2302)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`2302`">雲裳劍法</BookItemIcon></td>
         <td>刀劍+8<br>點蒼快劍LV2</td>
         <td>50</td>
         <td>學問20</td>
@@ -87,7 +87,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[千刀萬剮殺](book_6010)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`6010`">千刀萬剮殺</BookItemIcon></td>
         <td>刀劍+10<br>拳掌-5<br>道德-5<br>修養-5</td>
         <td>25</td>
         <td></td>
@@ -108,7 +108,7 @@ tags:
         <td>價格(如果有)</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[拈花指法](book_1020)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`1020`">拈花指法</BookItemIcon></td>
         <td>拳掌15<br>折花手LV5</td>
         <td>80</td>
         <td>內力40<br>拳掌40</td>
@@ -116,7 +116,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[苦惱拳](book_3000)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`3000`">苦惱拳</BookItemIcon></td>
         <td>拳掌5<br>苦惱拳</td>
         <td>25</td>
         <td></td>
@@ -124,7 +124,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[太祖長拳](book_3001)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`3001`">太祖長拳</BookItemIcon></td>
         <td>拳掌5<br>體力3</td>
         <td>25</td>
         <td></td>
@@ -132,7 +132,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[揍狗拳](book_3002)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`3002`">揍狗拳</BookItemIcon></td>
         <td>拳掌5<br>揍狗拳</td>
         <td>25</td>
         <td>拳掌10</td>
@@ -140,7 +140,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[酩酊玄劍掌](book_3010)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`3010`">酩酊玄劍掌</BookItemIcon></td>
         <td>體力5<br>內力5<br>拳掌10<br>刀劍10<br>傲慢</td>
         <td>80</td>
         <td>學問20<br>拳掌20<br>刀劍15<br>黃酒80</td>
@@ -148,7 +148,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[金剛腿](book_4001)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`4001`">金剛腿</BookItemIcon></td>
         <td>體力10<br>輕功10<br>金剛腿LV5</td>
         <td>50</td>
         <td>體力20<br> 佛學LV1</td>
@@ -156,7 +156,7 @@ tags:
         <td>2000</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[很是用力踢](book_4002)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`4002`">很是用力踢</BookItemIcon></td>
         <td>拳掌10<br>輕功6<br>借勢LV2<br>風雷神腳</td>
         <td>80</td>
         <td>形意拳LV1</td>
@@ -164,7 +164,7 @@ tags:
         <td>1000</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[蛇兔鷹猿搏](book_4003)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`4003`">蛇兔鷹猿搏</BookItemIcon></td>
         <td>輕功15<br>拳掌15<br>爆發10<br>難知如陰<br>戰術LV1</td>
         <td>50</td>
         <td>形意拳LV1</td>
@@ -172,7 +172,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[玄玄如意指](book_4004)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`4004`">玄玄如意指</BookItemIcon></td>
         <td>拳掌10<br>如意境LV3<br>龍淵七絕LV2</td>
         <td>80</td>
         <td></td>
@@ -180,7 +180,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[那由它劫指](book_4005)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`4005`">那由它劫指</BookItemIcon></td>
         <td>拳掌10<br>體力5<br>內力5</td>
         <td>80</td>
         <td>佛學LV1</td>
@@ -188,7 +188,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[蛇形拳](book_4008)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`4008`">蛇形拳</BookItemIcon></td>
         <td>拳掌5<br>形意拳LV1</td>
         <td>25</td>
         <td></td>
@@ -196,7 +196,7 @@ tags:
         <td>700</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[逍遙遊腿法](book_4020)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`4020`">逍遙遊腿法</BookItemIcon></td>
         <td>輕功10<br>體力5<br>學問3<br>疾如風<br>修養+3</td>
         <td>50</td>
         <td>學問10</td>
@@ -204,7 +204,7 @@ tags:
         <td>1800</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[阿摩搪牆拳](book_4040)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`4040`">阿摩搪牆拳</BookItemIcon></td>
         <td>拳掌5</td>
         <td>25</td>
         <td></td>
@@ -212,7 +212,7 @@ tags:
         <td>800</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[羅漢拳譜](book_6001)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`6001`">羅漢拳譜</BookItemIcon></td>
         <td>拳掌6<br>佛學LV1</td>
         <td>25</td>
         <td></td>
@@ -220,7 +220,7 @@ tags:
         <td>1000</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[飛天腳](book_6002)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`6002`">飛天腳</BookItemIcon></td>
         <td>輕功10<br>拳掌5</td>
         <td>50</td>
         <td></td>
@@ -228,7 +228,7 @@ tags:
         <td>1200</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[仙鶴迷蹤拳](book_6003)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`6003`">仙鶴迷蹤拳</BookItemIcon></td>
         <td>輕功7<br>拳掌7<br>爆發3<br>形意拳LV1<br>仙鶴迷蹤步</td>
         <td>50</td>
         <td></td>
@@ -236,7 +236,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[無影爪](book_6004)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`6004`">無影爪</BookItemIcon></td>
         <td>輕功10<br>無影爪<br>道德-</td>
         <td>50</td>
         <td></td>
@@ -244,7 +244,7 @@ tags:
         <td>1200</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[鐵臂神拳](book_6005)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`6005`">鐵臂神拳</BookItemIcon></td>
         <td>拳掌10<br>鐵臂飛拳</td>
         <td>50</td>
         <td></td>
@@ -252,7 +252,7 @@ tags:
         <td>1200</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[白猿通臂拳](book_6006)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`6006`">白猿通臂拳</BookItemIcon></td>
         <td>拳掌+5<br>輕功+3<br>形意拳LV1</td>
         <td>25</td>
         <td></td>
@@ -260,7 +260,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[奪魄幽靈爪](book_6007)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`6007`">奪魄幽靈爪</BookItemIcon></td>
         <td>輕功10<br>奪魄幽靈爪<br>陰陽-</td>
         <td>50</td>
         <td>輕功30</td>
@@ -268,7 +268,7 @@ tags:
         <td></td>
     </tr>	
     <tr>
-        <td><MarkdownWrapper>[登雲踏．望月](book_6008)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`6008`">登雲踏．望月</BookItemIcon></td>
         <td>輕功3<br>拳掌3</td>
         <td>25</td>
         <td></td>
@@ -276,7 +276,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[雪山飛鴻爪](book_6009)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`6009`">雪山飛鴻爪</BookItemIcon></td>
         <td>輕功15<br>爆發6<br>雪山飛鴻爪</td>
         <td>80</td>
         <td>輕功50</td>
@@ -297,7 +297,7 @@ tags:
         <td>價格(如果有)</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[金鐘罩](book_1030)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`1030`">金鐘罩</BookItemIcon></td>
         <td>內力5<br>體力5<br>金鐘罩LV3<br>鐵布衫LV5<br>不壞金身</td>
         <td>50</td>
         <td>佛學LV1</td>
@@ -305,7 +305,7 @@ tags:
         <td>3500</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[龜息功](book_7000)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7000`">龜息功</BookItemIcon></td>
         <td>內力5<br>防禦10<br>體力-5<br>陰陽-5</td>
         <td>25</td>
         <td></td>
@@ -313,7 +313,7 @@ tags:
         <td>900</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[蓮花落](book_7001)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7001`">蓮花落</BookItemIcon></td>
         <td>內力+5<br>學問-5</td>
         <td>25</td>
         <td></td>
@@ -321,7 +321,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[全真劍法](book_7002)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7002`">全真劍法</BookItemIcon></td>
         <td>體力10<br>內力5<br>全真體操LV5<br>道學LV2</td>
         <td>52</td>
         <td></td>
@@ -329,7 +329,7 @@ tags:
         <td>1200</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[烈火禪](book_7003)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7003`">烈火禪</BookItemIcon></td>
         <td>內力10<br>體力7<br>烈火禪<br>陰陽+10</td>
         <td>50</td>
         <td></td>
@@ -337,7 +337,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[楊家練兵操](book_7004)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7004`">楊家練兵操</BookItemIcon></td>
         <td>體力5<br>侵略如火<br>戰術LV1</td>
         <td>25</td>
         <td></td>
@@ -345,7 +345,7 @@ tags:
         <td>900</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[龍吟功](book_7005)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7005`">龍吟功</BookItemIcon></td>
         <td>內力10<br>龍吟功</td>
         <td>50</td>
         <td>道學LV1</td>
@@ -353,7 +353,7 @@ tags:
         <td>1500</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[混元童子炁](book_7006)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7006`">混元童子炁</BookItemIcon></td>
         <td>內力10<br>體力5<br>歸元</td>
         <td>50</td>
         <td>自戀</td>
@@ -361,7 +361,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[巫山洞府九寶圖](book_7007)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7007`">巫山洞府九寶圖</BookItemIcon></td>
         <td>體力5<br>內力10<br>防禦10</td>
         <td>50</td>
         <td></td>
@@ -369,7 +369,7 @@ tags:
         <td>1500</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[鐵琵琶功](book_7008)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7008`">鐵琵琶功</BookItemIcon></td>
         <td>內力15<br>體力6<br>鐵琵琶功LV3</td>
         <td>80</td>
         <td></td>
@@ -377,7 +377,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[焚心火印](book_7009)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7009`">焚心火印</BookItemIcon></td>
         <td>內力15<br>焚心火印LV3</td>
         <td>50</td>
         <td></td>
@@ -385,7 +385,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[雪山心法](book_7010)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7010`">雪山心法</BookItemIcon></td>
         <td>內力10<br>體力10<br>雪山心法LV5</td>
         <td>50</td>
         <td></td>
@@ -393,7 +393,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[玄燭心經](book_7011)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7011`">玄燭心經</BookItemIcon></td>
         <td>內力10</td>
         <td>50</td>
         <td></td>
@@ -401,7 +401,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[南宮心法](book_7012)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7012`">南宮心法</BookItemIcon></td>
         <td>內力10<br>體力10<br>南宮護心訣3<br>不動如山<br>修養+10</td>
         <td>50</td>
         <td></td>
@@ -409,7 +409,7 @@ tags:
         <td>2500</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[龍淵七訣](book_7013)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7013`">龍淵七訣</BookItemIcon></td>
         <td>內力15<br>龍淵七訣LV5</td>
         <td>80</td>
         <td>內力30</td>
@@ -417,7 +417,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[逐浪訣](book_7014)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`7014`">逐浪訣</BookItemIcon></td>
         <td>內力10<br>逐浪訣LV1<br>性情+10</td>
         <td>50</td>
         <td></td>
@@ -438,7 +438,7 @@ tags:
         <td>價格(如果有)</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[唐門暗器總綱](book_1000)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`1000`">唐門暗器總綱</BookItemIcon></td>
         <td>輕功7<br>暗器5<br>額外暗器</td>
         <td>50</td>
         <td>學問10 (LV6)</td>
@@ -446,7 +446,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[擲石問天](book_1010)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`1010`">擲石問天</BookItemIcon></td>
         <td>體力5<br>暗器3</td>
         <td>25</td>
         <td></td>
@@ -454,7 +454,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[五毒秘錄](book_3020)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`3020`">五毒秘錄</BookItemIcon></td>
         <td>暗器5<br>內力5<br>醫術LV1<br>毒功</td>
         <td>50</td>
         <td>學問10 (LV6)</td>
@@ -479,7 +479,7 @@ tags:
         <td>價格(如果有)</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[歷戰血書](book_4010)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`4010`">歷戰血書</BookItemIcon></td>
         <td>嘴力10<br>刀劍5<br>拳掌5<br>輕功5<br>體力5<br>學問10<br>難知如陰<br>戰術LV1</td>
         <td>80</td>
         <td></td>
@@ -487,7 +487,7 @@ tags:
         <td>2500</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[八荒奪路逃](book_4030)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`4030`">八荒奪路逃</BookItemIcon></td>
         <td>輕功15<br>性情-5<br>修養-5<br>道德-5</td>
         <td>25</td>
         <td></td>
@@ -495,7 +495,7 @@ tags:
         <td>900</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[論語](book_8000)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8000`">論語</BookItemIcon></td>
         <td>嘴力10<br>學問10<br>儒學LV2<br>性情-7<br>處世-7</td>
         <td>50</td>
         <td>學問10</td>
@@ -503,7 +503,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[孫子兵法](book_8001)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8001`">孫子兵法</BookItemIcon></td>
         <td>學問18<br>戰術LV5<br>性情-6</td>
         <td>80</td>
         <td>學問20<br>學問30 (LV2)<br>學問50 (LV4)<br>學問80 (LV8)</td>
@@ -511,7 +511,7 @@ tags:
         <td>2000</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[十八種奇兵鍛法雜記](book_8004)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8004`">十八種奇兵鍛法雜記</BookItemIcon></td>
         <td>鍛造點50<br>修養-5<br>處世+5</td>
         <td>50</td>
         <td></td>
@@ -519,7 +519,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[江湖鬼域錄](book_8005)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8005`">江湖鬼域錄</BookItemIcon></td>
         <td>石灰粉<br>性情-5<br>道德-5<br>處世+5</td>
         <td>25</td>
         <td></td>
@@ -527,7 +527,7 @@ tags:
         <td>900</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[江湖鬼域錄．續](book_8006)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8006`">江湖鬼域錄．續</BookItemIcon></td>
         <td>核棗釘<br>性情-</td>
         <td>25</td>
         <td></td>
@@ -535,7 +535,7 @@ tags:
         <td>900</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[戰神語錄](book_8007)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8007`">戰神語錄</BookItemIcon></td>
         <td>嘴力20<br>儒學LV2<br>孟子曰</td>
         <td>50</td>
         <td>儒學LV2</td>
@@ -543,7 +543,7 @@ tags:
         <td>1500</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[南宮風流扇](book_8008)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8008`">南宮風流扇</BookItemIcon></td>
         <td>拳掌5<br>暗器3<br>防禦5<br>修養+5</td>
         <td>25</td>
         <td>修養&gt;=60</td>
@@ -551,7 +551,7 @@ tags:
         <td>800</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[崆峒玄兵鍛法](book_8009)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8009`">崆峒玄兵鍛法</BookItemIcon></td>
         <td>學問6<br>鍛造點150<br>修養-10<br>處世+10</td>
         <td>50</td>
         <td>學問40</td>
@@ -559,7 +559,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[南宮武備論](book_8010)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8010`">南宮武備論</BookItemIcon></td>
         <td>學問10<br>不動如山<br>戰術LV1<br>醫術LV1</td>
         <td>80</td>
         <td>學問30</td>
@@ -567,7 +567,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[溫陽活血符](book_8100)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8100`">溫陽活血符</BookItemIcon>></td>
         <td>體力10<br>內力5<br>醫術LV1<br>陰陽+10</td>
         <td>50</td>
         <td>陰陽≧60</td>
@@ -575,7 +575,7 @@ tags:
         <td>1200</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[備急千金藥方](book_8101)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8101`">備急千金藥方</BookItemIcon></td>
         <td>學問10<br>徐如林<br>醫術LV1</td>
         <td>50</td>
         <td>學問10</td>
@@ -583,7 +583,7 @@ tags:
         <td>1200</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[傷寒雜病論](book_8102)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8102`">傷寒雜病論</BookItemIcon></td>
         <td>學問10<br>徐如林<br>醫術LV1</td>
         <td>50</td>
         <td>學問10</td>
@@ -591,7 +591,7 @@ tags:
         <td>1200</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[唐門藥典](book_8104)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8104`">唐門藥典</BookItemIcon></td>
         <td>抗毒15<br>抗麻15<br>醫術LV1</td>
         <td>50</td>
         <td>學問20 (LV5)</td>
@@ -599,7 +599,7 @@ tags:
         <td>1200</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[宋詞選集](book_8105)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8105`">宋詞選集</BookItemIcon></td>
         <td>學問10<br>修養+5<br>處世-2</td>
         <td>25</td>
         <td>學問10</td>
@@ -607,7 +607,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[太平聖惠方](book_8106)</MarkdownWrapper></td>
+        <td><BookItemIcon :no="`8106`">太平聖惠方</BookItemIcon></td>
         <td>抗毒15<br>抗麻15<br>醫術LV1</td>
         <td>50</td>
         <td>學問20</td>
