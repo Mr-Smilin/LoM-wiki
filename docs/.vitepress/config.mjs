@@ -90,7 +90,7 @@ export default defineConfig({
 					{ text: "設定檔項目說明", link: "/develop/2-vitepress" },
 					{ text: "本地運行(進階)", link: "/develop/3-run-local" },
 					{
-						text: "Markdown 相關",
+						text: "Markdown 編輯須知",
 						items: [
 							{
 								text: "基本知識",
@@ -99,10 +99,6 @@ export default defineConfig({
 							{
 								text: "常見用法",
 								link: "/develop/4-1-template.md",
-							},
-							{
-								text: "乾淨模板",
-								link: "/develop/clean-template.md",
 							},
 							{
 								text: "LoM-wiki 公開組件",
@@ -115,6 +111,19 @@ export default defineConfig({
 							{
 								text: "官方更新頁面模塊說明",
 								link: "/develop/4-4-news-template.md",
+							},
+						],
+					},
+					{
+						text: "Markdown 開發參考模板",
+						items: [
+							{
+								text: "乾淨模板",
+								link: "/develop/clean-template.md",
+							},
+							{
+								text: "乾淨角色頁面模板",
+								link: "/develop/clean-character-template.md",
 							},
 						],
 					},
@@ -131,16 +140,15 @@ export default defineConfig({
 						{ text: "設定檔項目說明", link: "/develop/2-vitepress" },
 						{ text: "本地運行(進階)", link: "/develop/3-run-local" },
 						{
-							text: "Markdown 基本知識",
-							link: "/develop/4-example",
+							text: "Markdown 編輯須知",
 							items: [
+								{
+									text: "Markdown 基本知識",
+									link: "/develop/4-example",
+								},
 								{
 									text: "Markdown 常見用法",
 									link: "/develop/4-1-template.md",
-								},
-								{
-									text: "Markdown 乾淨模板",
-									link: "/develop/clean-template.md",
 								},
 								{
 									text: "LoM-wiki 公開組件",
@@ -153,6 +161,19 @@ export default defineConfig({
 								{
 									text: "官方更新頁面模塊說明",
 									link: "/develop/4-4-news-template.md",
+								},
+							],
+						},
+						{
+							text: "Markdown 開發參考模板",
+							items: [
+								{
+									text: "乾淨模板",
+									link: "/develop/clean-template.md",
+								},
+								{
+									text: "乾淨角色頁面模板",
+									link: "/develop/clean-character-template.md",
 								},
 							],
 						},
@@ -227,22 +248,24 @@ export default defineConfig({
 			inlineTags: [],
 		},
 		config: (md) => {
-			// 目前沒用
-			// md.use(markdownItContainer, "md", {
-			// 	validate: function (params) {
-			// 		return params.trim().match(/^md\s+(.*)$/);
-			// 	},
-			// 	render: function (tokens, idx) {
-			// 		var m = tokens[idx].info.trim().match(/^md\s+(.*)$/);
-			// 		if (tokens[idx].nesting === 1) {
-			// 			// opening tag
-			// 			return "<MarkdownWrapper>\n" + md.utils.escapeHtml(m[1]) + "\n";
-			// 		} else {
-			// 			// closing tag
-			// 			return "</MarkdownWrapper>\n";
-			// 		}
-			// 	},
-			// });
+			const defaultRender =
+				md.renderer.rules.html_block ||
+				function (tokens, idx, options, env, self) {
+					return self.renderToken(tokens, idx, options);
+				};
+			md.renderer.rules.html_block = function (
+				tokens,
+				idx,
+				options,
+				env,
+				self
+			) {
+				const content = tokens[idx].content;
+				if (content.includes("<MarkdownWrapper")) {
+					return content;
+				}
+				return defaultRender(tokens, idx, options, env, self);
+			};
 		},
 	},
 

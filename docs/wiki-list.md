@@ -19,7 +19,7 @@ tags:
 <div v-html="$frontmatter.contributors"></div>
 
 <script setup>
-import NavList from './.vitepress/theme/components/NavList.vue'
+import NavList from './.vitepress/theme/components/private/NavList.vue'
 
 import { VPTeamMembers } from 'vitepress/theme'
 import { ref, onMounted } from 'vue'

@@ -4,9 +4,7 @@
     <table v-if="haveData" class="attributes-table">
       <CharacterTr v-for="(trData,trIndex) in table" :key="trIndex">
         <CharacterTd v-for="(tdData,tdIndex) in trData" :key="tdIndex" :isTitle="tdIndex === 0" :position="tdIndex === 0 ? 'center' : 'left'">
-          <MarkdownWrapper>
             {{ tdData }}
-          </MarkdownWrapper>
         </CharacterTd>
       </CharacterTr>
     </table>

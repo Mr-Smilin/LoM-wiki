@@ -18,6 +18,8 @@ tags:
 
 # {{ $frontmatter.title }}
 
+[官方更新頁](/develop/1-start.html)
+
 ## 更新說明
 
 目前的官方更新頁面在 github 並沒有直接對應於一個.md 檔案,  

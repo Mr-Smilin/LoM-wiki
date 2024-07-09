@@ -51,6 +51,7 @@
     /* border: 1px solid #ddd; */
     /* border-radius: 5px; */
     overflow: hidden;
+    margin-top: 20px;
   }
   
   .tab-titles {

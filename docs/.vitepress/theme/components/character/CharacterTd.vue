@@ -1,11 +1,11 @@
 <template>
     <td :class=[styleName,position] >
-        <slot></slot>
+        <MarkdownWrapper :content="slotContent" />
     </td>
 </template>
 
 <script>
-import { computed } from 'vue';
+import { ref,computed, useSlots } from 'vue';
 export default {
 	name: 'CharacterTd',
 	props:{
@@ -20,9 +20,20 @@ export default {
         }
 	},
 	setup(props){
+        const slots = useSlots()
+        const slotContent = ref('');
+        if (slots.default) {
+            slotContent.value = slots.default().map(node => { 
+            if(node?.type === 'br')
+                return '<br>'
+            else
+                return node.children
+            }).join('').trim();
+        }
 		const styleName = computed(() => props.isTitle ? 'label' : 'value')
 		return {
-			styleName
+			styleName,
+            slotContent
 		}
 	}
 }

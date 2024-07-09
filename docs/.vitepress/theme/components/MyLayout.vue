@@ -1,12 +1,18 @@
 <!-- .vitepress/theme/MyLayout.vue -->
 <script setup>
+// import { onMounted } from 'vue';
 import DefaultTheme from "vitepress/theme";
 import { defineAsyncComponent } from "vue";
-import Twikoo from "./Twikoo.vue";
-import Borderless from "./Borderless.vue";
+import Twikoo from "./default/Twikoo.vue";
+import Borderless from "./default/Borderless.vue";
 
 const { Layout } = DefaultTheme;
-const NotFound = defineAsyncComponent(() => import("./NotFound.vue"));
+const NotFound = defineAsyncComponent(() => import("./default/NotFound.vue"));
+
+// onMounted(() => {
+// 	import('bootstrap/dist/js/bootstrap.bundle.min.js');
+// 	import('bootstrap-vue/dist/bootstrap-vue.css');
+// });
 </script>
 
 <template>
