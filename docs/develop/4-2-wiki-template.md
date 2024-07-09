@@ -165,12 +165,16 @@ tags:
 替表格加上排序效果  
 將外層的 `<table>` 換成 `<BTable>` 即可
 
+-   `:unsortable`：於第一行使用可控制排序
+-   `true`：關閉排序
+-   `false` <Badge type="warning" text="默認值" /> ：開啟排序
+
 ```Markdown
 <BTable>
   <tr>
     <td>age</td>
     <td>first_name</td>
-    <td>last_name</td>
+    <td :unsortable=true>last_name</td> // 此行不排序
   </tr>
   <tr>
     <td>40</td>
@@ -196,7 +200,7 @@ tags:
   <tr>
     <td>age</td>
     <td>first_name</td>
-    <td>last_name</td>
+    <td :unsortable=true>last_name</td>
   </tr>
   <tr>
     <td>40</td>
@@ -217,18 +221,20 @@ tags:
 
 ### BTable 進階用法
 
+<br>
+
 `BTable` 內的 `<tr>` `<td>` 屬性皆會保留
 
 ```Markdown
 <BTable>
   <tr>
     <td>age</td>
-    <td>first_name</td>
+    <td :unsortable=true>first_name</td> // 此行不排序
     <td>last_name</td>
   </tr>
-  <tr style='background-color: #f0f0f0; color: black;'>
+  <tr style='background-color: #f0f0f0; color: black;'> // 除標題外的 tr 可以設定屬性
     <td>40</td>
-    <td style='color: red;'>Dickerson</td>
+    <td style='color: red;'>Dickerson</td> // td 也可以
     <td>Macdonald</td>
   </tr>
 </BTable>
@@ -239,7 +245,7 @@ tags:
 <BTable>
   <tr>
     <td>age</td>
-    <td>first_name</td>
+    <td :unsortable=true>first_name</td>
     <td>last_name</td>
   </tr>
   <tr style='background-color: #f0f0f0; color: black;'>
@@ -251,30 +257,62 @@ tags:
 
 <br>
 
-除了原始 HTML 表格，另外接受 `:table` 方式帶入
+除了原始 HTML 表格，另外接受 `Attribute` 方式帶入
+
+-   `:field` <Badge type="danger" text="必填" /> ：設定 table 的標題欄位
+-   `:table` <Badge type="danger" text="必填" /> ：設定 table 的內容
 
 ```Markdown
-<BTable :table="[{
+<BTable
+  :field="[{
+      key: 'age',
+      label: '年齡'
+    },{
+      key: 'first_name',
+      label: '姓'
+    },{
+      key: 'last_name',
+      label: '名',
+      unsortable: true
+    }
+    ]"
+  :table="[{
     age: '40',
     first_name: 'Dickerson',
     last_name: 'Macdonald',
     _attributes: { style: 'background-color: #f0f0f0; color: black;' },
     _cellAttributes: {
-      first_name: { style: 'color: red;' }
+    first_name: { style: 'color: red;' }
     }
-  },
-  { age: '21', first_name: 'Larsen', last_name: 'Shaw' }
-]"/>
+    },
+    { age: '21', first_name: 'Larsen', last_name: 'Shaw' }
+  ]"
+/>
+
 ```
 
-<BTable :table="[{
+<BTable
+  :field="[{
+      key: 'age',
+      label: '年齡'
+    },{
+      key: 'first_name',
+      label: '姓'
+    },{
+      key: 'last_name',
+      label: '名',
+      unsortable: true
+    }
+    ]"
+  :table="[{
     age: '40',
     first_name: 'Dickerson',
     last_name: 'Macdonald',
     _attributes: { style: 'background-color: #f0f0f0; color: black;' },
     _cellAttributes: {
-      first_name: { style: 'color: red;' }
+    first_name: { style: 'color: red;' }
     }
-  },
-  { age: '21', first_name: 'Larsen', last_name: 'Shaw' }
-]"/>
+    },
+    { age: '21', first_name: 'Larsen', last_name: 'Shaw' }
+  ]"
+/>
