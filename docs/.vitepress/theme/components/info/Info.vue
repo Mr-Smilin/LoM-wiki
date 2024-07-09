@@ -42,7 +42,7 @@ const contentHeight = ref('0px');
 const updateHeight = async () => {
   await nextTick();
   if (isOpen.value) {
-    contentHeight.value = `${content.value.scrollHeight}px`;
+    contentHeight.value = `${content?.value?.scrollHeight}px`;
   } else {
     contentHeight.value = '0px';
   }

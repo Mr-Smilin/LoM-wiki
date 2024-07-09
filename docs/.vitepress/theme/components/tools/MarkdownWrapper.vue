@@ -8,7 +8,6 @@
 <script setup>
 import { ref, watchEffect, getCurrentInstance } from 'vue';
 import { marked } from 'marked';
-import DOMPurify from 'dompurify';
 
 const props = defineProps({
   content: {
@@ -53,7 +52,8 @@ watchEffect(() => {
 
     let rawHtml = marked(content, markedOptions);
     rawHtml = removePTags(rawHtml);
-    compiledMarkdown.value = DOMPurify.sanitize(rawHtml);
+    // compiledMarkdown.value = DOMPurify.sanitize(rawHtml);
+    compiledMarkdown.value = rawHtml;
   } catch (error) {
     console.error('Markdown parsing error:', error);
     compiledMarkdown.value = 'Error parsing markdown';
