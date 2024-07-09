@@ -122,7 +122,7 @@ export default defineConfig({
 								link: "/develop/clean-template.md",
 							},
 							{
-								text: "乾淨角色頁面模板",
+								text: "角色頁面模板",
 								link: "/develop/clean-character-template.md",
 							},
 						],
@@ -172,7 +172,7 @@ export default defineConfig({
 									link: "/develop/clean-template.md",
 								},
 								{
-									text: "乾淨角色頁面模板",
+									text: "角色頁面模板",
 									link: "/develop/clean-character-template.md",
 								},
 							],
