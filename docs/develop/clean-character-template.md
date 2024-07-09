@@ -55,7 +55,7 @@ tags:
 
 <br>
 
-MD 檔文字內容
+文字內容
 
 <Tabs>
     <Tab title="列傳一">
