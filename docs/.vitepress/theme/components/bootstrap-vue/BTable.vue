@@ -46,11 +46,21 @@ const sortOrder = ref('asc')
 onMounted(() => {
   if (props.table.length > 0) {
   headers.value = Object.keys(props.table[0]).filter(key => key !== '_attributes' && key !== '_cellAttributes')
-  rows.value = props.table.map(row => ({
-    ...row,
-    _attributes: row._attributes || {},
-    _cellAttributes: row._cellAttributes || {}
-  }))
+  rows.value = props.table.map(trRow => {
+    console.log(trRow);
+    const row = {
+      _attributes: trRow?._attributes || {},
+      _cells: []
+    }
+    headers.value.forEach(header => {
+      if(trRow[header] === undefined) return
+      row._cells.push({
+        content: trRow[header],
+        attributes: trRow?._cellAttributes?.[header] || {}
+      })
+    })
+    return row
+  })
 } else {
     const slotContent = slots.default && slots.default()
     if (slotContent && slotContent.length > 0) {

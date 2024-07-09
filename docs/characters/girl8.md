@@ -178,7 +178,7 @@ borderless: false
 </Tabs>
 
 <!-- <BTable :items="items" :fields="fields" /> -->
-<BTable :table="items2">
+<BTable :table="items">
   <tr>
     <td>age</td>
     <td>first_name</td>
@@ -199,7 +199,7 @@ borderless: false
     <td>Geneva</td>
     <td>Wilson</td>
   </tr>
-  <tr>
+  <tr test=2>
     <td colspan=2>38</td>
     <td>Jami</td>
     <!-- <td>Carney</td> -->
@@ -213,7 +213,7 @@ const items = [
     age: '40',
     first_name: 'Dickerson',
     last_name: 'Macdonald',
-    _attributes: { style: 'background-color: #f0f0f0;' },
+    _attributes: { style: 'background-color: #f0f0f0; color: black;' },
     _cellAttributes: {
       first_name: { style: 'color: red;' }
     }
