@@ -166,8 +166,8 @@ tags:
 將外層的 `<table>` 換成 `<BTable>` 即可
 
 -   `:unsortable`：於第一行使用可控制排序
--   `true`：關閉排序
--   `false` <Badge type="warning" text="默認值" /> ：開啟排序
+    -   `true`：關閉排序
+    -   `false` <Badge type="warning" text="默認值" /> ：開啟排序
 
 ```Markdown
 <BTable>
