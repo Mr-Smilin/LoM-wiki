@@ -24,6 +24,13 @@ import Girl5Icon from "./components/icons/Girl5Icon.vue";
 import Girl6Icon from "./components/icons/Girl6Icon.vue";
 import Girl7Icon from "./components/icons/Girl7Icon.vue";
 import Girl8Icon from "./components/icons/Girl8Icon.vue";
+// import ItemIcon Group
+import ItemIcon from "./components/ItemIcon.vue";
+import BookItemIcon from "./components/itemIcons/BookItemIcon.vue";
+import SpecialItemIcon from "./components/itemIcons/SpecialItemIcon.vue";
+import NewspaperItemIcon from "./components/itemIcons/NewspaperItemIcon.vue";
+import TeaItemIcon from "./components/itemIcons/TeaItemIcon.vue";
+import WineItemIcon from "./components/itemIcons/WineItemIcon.vue";
 // tools
 import Tabs from "./components/tab/Tabs.vue";
 import Tab from "./components/tab/Tab.vue";
@@ -67,6 +74,19 @@ export default {
     app.component("Girl6Icon", Girl6Icon);
     app.component("Girl7Icon", Girl7Icon);
     app.component("Girl8Icon", Girl8Icon);
+
+    // ItemIcon component group
+    app.component("ItemIcon", ItemIcon);
+    // following component based on BookItemIcon,
+    // It adds an Item background foreach vue file,
+    // if you need, you can copy ItemIcon.vue,
+    // and create a new vue file to register
+    app.component("BookItemIcon", BookItemIcon);
+    app.component("SpecialItemIcon", SpecialItemIcon);
+    app.component("NewspaperItemIcon", NewspaperItemIcon);
+    app.component("TeaItemIcon", TeaItemIcon);
+    app.component("WineItemIcon", WineItemIcon);
+
 
     // tools
     app.component("Tabs", Tabs);

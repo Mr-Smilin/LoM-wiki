@@ -212,7 +212,7 @@ tags:
         <td>800</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[羅漢拳譜](book_6001)</MarkdownWrapper></td>
+        <td><ItemIcon :no="`6001`">羅漢拳譜</ItemIcon></td>
         <td>拳掌6<br>佛學LV1</td>
         <td>25</td>
         <td></td>
