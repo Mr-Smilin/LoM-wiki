@@ -82,7 +82,8 @@ tags:
 <Girl0Icon :size='`small`'>我是文字5</Girl0Icon>
 <Girl0Icon>我是文字6</Girl0Icon>
 ```
-
+small(小型)圖案為32 px * 32 px,  
+medium(中型) 圖案100 px * 100 px。
 **效果：**  
 <Girl0Icon :size='`medium`'>我是文字 4</Girl0Icon>  
 <Girl0Icon :size='`small`'>我是文字 5</Girl0Icon>  
@@ -137,7 +138,9 @@ tags:
 ```
 
 `<BookItemIcon>`預設有連結, 點擊會跳入對應資訊頁面,  
-此外, 圖案為小型(100 px * 100 px);  
+此外, 預設圖案為small(小型, 100 px * 100 px);  
+medium為中型(200 px * 200 px);  
+可透過 `:size` 設定大小。  
 若needLink = false時, 點擊圖片則會啟用圖片放大。  
 僅有`no`為必填值。  
 
