@@ -54,7 +54,7 @@ tags:
     </Tab>
 </Tabs>
 
-## Icon 懶人組件
+## 人物 Icon 懶人組件
 
 目前提供少部分 Icon 與語法示例如下
 
@@ -90,7 +90,7 @@ tags:
 
 ---
 
-### Icon 懶人組件使用示例
+### 人物 Icon 懶人組件使用示例
 
 |                           語法                           | 效果                                                    |                        說明                         |
 | :------------------------------------------------------: | :------------------------------------------------------ | :-------------------------------------------------: |
@@ -100,7 +100,7 @@ tags:
 |               `<BadendIcon></BadendIcon>`                | <BadendIcon></BadendIcon>                               |    不寫任何文字，採用預設大小, 預設為"\`small\`"    |
 | `<BadendIcon :no="30">生死簿30『清理門戶』</BadendIcon>` | <BadendIcon :no="30">生死簿 30『清理門戶』</BadendIcon> | no 用來連結生死簿的編號, 不使用則會跳到該頁最上面。 |
 
-可用屬性寫法
+### 可用屬性寫法
 
 | 屬性名稱 | 值                          | default     |
 | :------- | :-------------------------- | :---------- |
@@ -123,6 +123,58 @@ tags:
 -   `<Girl7Icon>` : <Girl7Icon>魏菊頭像</Girl7Icon>
 -   `<Girl8Icon>` : <Girl8Icon>龍湘頭像</Girl8Icon>
 
+## 物品 Icon 懶人組件
+
+目前提供少部分 Icon 與語法示例如下, 以`BookItemIcon`為例,  
+可替換下面已可用組件任一, 只要求`no`有及`物品使用類型`對應即可  
+與人物Icon的差別在於多了一個背景，  
+此外，此組件使用的圖片有對應`特定位置擺放`。
+
+```
+<BookItemIcon :no="6001">我是文字</BookItemIcon>
+<BookItemIcon :needLink="false" :no="6001">我是文字1</BookItemIcon>
+<BookItemIcon :size="`medium`" :no="6001">我是文字2</BookItemIcon>
+```
+
+`<BookItemIcon>`預設有連結, 點擊會跳入對應資訊頁面,  
+此外, 圖案為小型(100 px * 100 px);  
+若needLink = false時, 點擊圖片則會啟用圖片放大。  
+僅有`no`為必填值。  
+
+**效果：**  
+<BookItemIcon :no="6001">我是文字</BookItemIcon>
+<BookItemIcon :needLink="false" :no="6001">我是文字1</BookItemIcon>
+<BookItemIcon :size="`medium`" :no="6001">我是文字2</BookItemIcon>
+
+### 可用屬性寫法  
+因 `type` 已包含在組件名稱中，故不需額外設定。
+| 屬性名稱 | 值                           | default     | require |
+| :------- |:----------------------------|:------------|:--------|
+| no       | 根據不同的物品有不同的值        | -           |o        |
+| size     | "\`medium\`" \| "\`small\`" | "\`small\`" | x       | 
+| needLink | true \| false               | true        |x        |
+
+### 目前已可用組件(每一組件代表不同的物品類型)：
+-   `<BookItemIcon>` : 武學書籍(book), 
+-   `<FoodItemIcon>` : 食物(food),
+-   `<NewspaperItemIcon>` : 江湖快報(newspaper),
+-   `<SpecialItemIcon>` : 特殊道具(special),
+-   `<TeaItemIcon>` : 茶水(tea),
+-   `<WineItemIcon>` : 酒(wine),
+### 對應擺放路徑格式
+```
+docs/public/images/${type}s/item_${type}_${no}.png
+```
+其中 `${type}` 為物品類型，如 `book`、`food`、`special`、`tea`、`wine`；  
+`${no}` 為物品編號。  
+
+舉例而言 武學書籍(book) 編號為 6001, 圖片路徑為  `docs/public/images/books/item_book_6001.png`,  
+特殊道具(special) 編號為2003, 圖片路徑為 `docs/public/images/specials/item_special_2003.png`
+
+::: warning
+使用前請先確認是否該圖檔案存在，若不存在，請一並上傳至指定路徑。  
+若不確定物品的分類，請以圖片解包原名為主
+:::
 ## Markdown 外部解析工具
 
 用來主動解析被 html 包住的內容  
