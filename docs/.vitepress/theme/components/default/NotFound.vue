@@ -68,7 +68,7 @@ export default {
     },
     mounted() {
         //remove useless element
-        // document.querySelectorAll("body>div.lg-container").forEach(e => e.remove());
+        document.querySelectorAll("body>div.lg-container").forEach(e => e.remove());
     },
     methods: {
         getContentIndex() {
