@@ -33,6 +33,11 @@ tags:
 [Markdown 乾淨模板](/develop/clean-template.md)  
 路徑: `docs/develop/clean-template.md`
 
+### 角色頁面模板
+
+[角色頁面模板](/develop/clean-character-template.md)  
+路徑: `docs/develop/clean-character-template.md`
+
 ## 參與項目建議知識 (建議補齊順序)
 
 1. Html or md(markdown)擇一使用  
