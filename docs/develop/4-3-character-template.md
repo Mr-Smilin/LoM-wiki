@@ -400,16 +400,12 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd isTitle=true>
-                    <MarkdownWrapper>
-                        使用 MarkdownWrapper 才會支援 `Markdown`
-                    </MarkdownWrapper>
+                    他們都支援 `Markdown`
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd isTitle=true>
-                    <MarkdownWrapper>
-                        ~~刪除線~~
-                    </MarkdownWrapper>
+                    ~~刪除線~~
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -420,9 +416,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd>
-                    <MarkdownWrapper>
-                        喔不過換行必須使用`< br>`
-                    </MarkdownWrapper>
+                    喔不過換行必須使用`< br>`
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -521,16 +515,12 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd isTitle=true>
-                    <MarkdownWrapper>
-                        使用 MarkdownWrapper 才會支援 `Markdown`
-                    </MarkdownWrapper>
+                    他們都支援 `Markdown`
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd isTitle=true>
-                    <MarkdownWrapper>
-                        ~~刪除線~~
-                    </MarkdownWrapper>
+                    ~~刪除線~~
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -541,9 +531,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd>
-                    <MarkdownWrapper>
-                        喔不過換行必須使用`< br>`
-                    </MarkdownWrapper>
+                    喔不過換行必須使用`<br>`
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -585,3 +573,82 @@ tags:
         </ChTable>
     </ChTab>
 </ChTabs>
+
+## 詳細資料組件
+
+佔據側邊一段空間的組件，  
+通常用法是在 `<InfoList>` 底下添加其他文字或是元件，填滿同列的剩餘空間
+
+`InfoList` 提供屬性如以下：
+
+-   `position`：設定組件位置
+    -   `left`：設定組件在左邊
+    -   `right` <Badge type="warning" text="默認值" /> ：設定組件在右邊
+
+`Info` 提供屬性如以下：
+
+-   `title` <Badge type="danger" text="必填" /> ：設定詳細內容的標題文字
+-   `open`：預設是否展開
+
+```Markdown
+<InfoList position="left">
+  <Info title="列傳一" open=true>
+      師承錦香宮，劍法精絕的清麗佳人。<br>
+      踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。<br>
+      雖然如此，由於不諳世事，意外地容易受騙上當。
+  </Info>
+  <Info title="列傳二">
+    對父親的記憶，如今很稀薄了。<br>
+    遙遠記憶裡那一日，他摸摸她小腦袋瓜，<br>
+    一笑出門去，便再也不曾回來。<br>
+    後來錦香宮溫夫人才接了她去，收入門牆。<br><br>
+    輾轉聽人傳聞，才知道父親是武林傳奇，<br>
+    既悲傷又驕傲，沿著父親的足跡，造訪故人，<br>
+    想蒐集更多已故生父的故事，憑此懷念。<br><br>
+    一身劍法皆得於家傳秘笈，龍淵七訣中，尤擅劍法，<br>
+    自小便以雞腿為劍，悟出人劍合一的奧義而渾不自覺，<br>
+    至今也不太清楚自己究竟算不算高手。
+  </Info>
+</InfoList>
+```
+
+<div style=" display: flex; width: 100%; height: 100%">
+<InfoList position="left">
+  <Info title="列傳一" open=true>
+      師承錦香宮，劍法精絕的清麗佳人。<br>
+      踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。<br>
+      雖然如此，由於不諳世事，意外地容易受騙上當。
+  </Info>
+  <Info title="列傳二">
+    對父親的記憶，如今很稀薄了。<br>
+    遙遠記憶裡那一日，他摸摸她小腦袋瓜，<br>
+    一笑出門去，便再也不曾回來。<br>
+    後來錦香宮溫夫人才接了她去，收入門牆。<br><br>   
+    輾轉聽人傳聞，才知道父親是武林傳奇，<br>
+    既悲傷又驕傲，沿著父親的足跡，造訪故人，<br>
+    想蒐集更多已故生父的故事，憑此懷念。<br><br>
+    一身劍法皆得於家傳秘笈，龍淵七訣中，尤擅劍法，<br>
+    自小便以雞腿為劍，悟出人劍合一的奧義而渾不自覺，<br>
+    至今也不太清楚自己究竟算不算高手。
+  </Info>
+</InfoList>
+<br>
+我是測試文字我是測試文字我是測試文字我是測試文字<br>  
+我是測試文字我是測試文字<br>   
+我是測試文字<br>   
+我是測試文字<br>   
+我是測試文字<br>   
+我是測試文字<br>   
+我是測試文字<br>   
+我是測試文字<br>   
+我是測試文字<br> 
+我是測試文字<br> 
+我是測試文字<br> 
+我是測試文字<br> 
+我是測試文字<br> 
+我是測試文字<br> 
+我是測試文字<br> 
+我是測試文字<br> 
+我是測試文字<br> 
+我是測試文字<br> 
+</div>

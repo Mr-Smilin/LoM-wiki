@@ -26,7 +26,6 @@
 
 <script setup>
 import { ref, computed, useSlots, onMounted } from 'vue'
-import MarkdownWrapper from '../tools/MarkdownWrapper.vue';
 
 const props = defineProps({
   table: {

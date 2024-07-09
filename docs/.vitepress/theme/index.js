@@ -25,11 +25,11 @@ import Girl6Icon from "./components/icons/Girl6Icon.vue";
 import Girl7Icon from "./components/icons/Girl7Icon.vue";
 import Girl8Icon from "./components/icons/Girl8Icon.vue";
 // tools
-import Tabs from "./components/tools/Tabs.vue";
-import Tab from "./components/tools/Tab.vue";
+import Tabs from "./components/tab/Tabs.vue";
+import Tab from "./components/tab/Tab.vue";
 import MarkdownWrapper from "./components/tools/MarkdownWrapper.vue";
-import InfoList from "./components/tools/InfoList.vue";
-import Info from "./components/tools/Info.vue";
+import InfoList from "./components/info/InfoList.vue";
+import Info from "./components/info/Info.vue";
 
 import "./styles/style.css";
 import "./styles/borderless.css";

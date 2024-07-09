@@ -1,8 +1,6 @@
 <template>
     <td :class=[styleName,position] >
-        <MarkdownWrapper>
-            {{ slotContent }}
-        </MarkdownWrapper>
+        <MarkdownWrapper :content="slotContent" />
     </td>
 </template>
 
