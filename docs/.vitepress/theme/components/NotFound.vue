@@ -65,6 +65,9 @@ export default {
         }
         this.setContent();
         this.showProbability = this.getShowProbability();
+
+        //remove useless element
+        document.querySelectorAll("body>div.lg-container").forEach(e => e.remove());
     },
     methods: {
         getContentIndex() {
