@@ -15,11 +15,11 @@ tags:
 
 <BTable>
     <tr>
-        <td>對應對象</td>
+        <td :unsortable=true>對應對象</td>
         <td>官方編號</td>
-        <td>屬性1</td>
-        <td>屬性2</td>
-        <td>屬性3</td>
+        <td :unsortable=true>屬性1</td>
+        <td :unsortable=true>屬性2</td>
+        <td :unsortable=true>屬性3</td>
     </tr>
     <tr>
         <td><Girl4Icon :size="`medium`">上官瑩</Girl4Icon></td>
