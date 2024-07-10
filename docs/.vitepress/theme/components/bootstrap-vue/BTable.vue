@@ -300,6 +300,11 @@ th {
   border: 1px solid var(--vp-input-border-color);
   border-radius: 4px;
   box-sizing: border-box;
+  transition: border-color 0.25s;
+}
+
+.search-input:hover{
+  border-color: var(--vp-c-brand-1);
 }
 
 @media screen and (min-width: 768px) {
