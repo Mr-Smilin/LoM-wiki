@@ -465,10 +465,6 @@ tags:
 
 ## 其他
 
-::: info
-詳細頁面動工中，有些連結無效，請見諒
-:::
-
 <BTable>
     <tr>
         <td>名稱</td>
@@ -567,7 +563,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`8100`">溫陽活血符</BookItemIcon>></td>
+        <td><BookItemIcon :no="`8100`">溫陽活血符</BookItemIcon></td>
         <td>體力10<br>內力5<br>醫術LV1<br>陰陽+10</td>
         <td>50</td>
         <td>陰陽≧60</td>
