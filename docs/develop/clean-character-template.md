@@ -39,7 +39,7 @@ tags:
         <!-- <ChBg
         src='圖片Url' 
         position='right'
-        animation=true /> -->
+        :animation=true /> -->
         <!-- <ChName nameZh='中文姓名' nameEn='English Name' position='right' /> -->
         <!-- <ChTable :table="[[1,2],[3,4,5]]"/> -->
     </ChTab>
