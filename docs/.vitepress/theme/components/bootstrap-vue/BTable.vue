@@ -1,216 +1,274 @@
 <template>
-  <table>
-    <thead>
-      <tr>
-        <th v-for="header in headers" :key="header.key" @click="!header?.unsortable ? sort(header.key) : null">
-          {{ header.label }}
-          <span v-if="!header?.unsortable" class="sort-icon">
-            {{ sortKey === header.key ? (sortOrder === 'asc' ? '▲' : '▼') : '◆' }}
-          </span>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr v-for="(row, rowIndex) in sortedRows" :key="rowIndex" v-bind="row._attributes">
-        <td 
-          v-for="(cellData, cellIndex) in row._cells" 
-          :key="cellIndex" 
-          v-bind="cellData.attributes"
-        >
-          <template v-if="cellData.type === 'array'">
-            <template v-for="(item, index) in cellData.content" :key="index">
-              <template v-if="getContentType(item) === 'br'">
-                <br />
-              </template>
-              <template v-else-if="getContentType(item) === 'text'">
-                {{ item.children }}
-              </template>
-              <template v-else-if="getContentType(item) === 'component'">
-                <component :is="renderComponent(item)" />
+  <div class="table-container">
+    <input 
+      v-if="!unsearch"
+      v-model="searchQuery" 
+      placeholder="搜索... (多個關鍵字用空格分隔)"
+      class="search-input"
+    />
+    <table :class="{ 'horizontal': horizontal }">
+      <thead>
+        <tr>
+          <th v-for="header in headers" :key="header.key" @click="handleSort(header)">
+            <span>{{ header.label }}</span>
+            <span v-if="!header.unsortable" class="sort-icon">
+              {{ getSortIcon(header.key) }}
+            </span>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr v-for="row in filteredAndSortedRows" :key="row.id" v-bind="row._attributes" v-memo="[row.id, row.isSelected]">
+          <td v-for="(cell, cellIndex) in row._cells" 
+              :key="cellIndex" 
+              v-bind="cell.attributes">
+            <template v-if="cell.type === 'array'">
+              <template v-for="(item, index) in cell.content" :key="index">
+                <br v-if="isBreakElement(item)" />
+                <template v-else-if="isTextElement(item)">{{ item.children }}</template>
+                <component 
+                  v-else-if="isComponentElement(item)" 
+                  :is="item.type"
+                  v-bind="item.props"
+                >
+                  <template v-for="(slotContent, slotName) in item.children" :key="slotName" v-slot:[slotName]>
+                    <template v-if="typeof slotContent === 'function'">
+                      <component :is="{ render: slotContent }" />
+                    </template>
+                    <template v-else>
+                      {{ slotContent }}
+                    </template>
+                  </template>
+                </component>
               </template>
             </template>
-          </template>
-          <template v-else>
-            <MarkdownWrapper :content="cellData.content" />
-          </template>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+            <MarkdownWrapper v-else :content="cell.content" />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </template>
 
 <script setup>
-import { h,ref, computed, useSlots, onMounted } from 'vue'
+import { ref, computed, useSlots, onUpdated, onMounted, onUnmounted, shallowRef, shallowReactive  } from 'vue'
 
 const props = defineProps({
-  field:{
-    type: Array,
-    default: () => []
-  },
-  table: {
-    type: Array,
-    default: () => []
-  }
+  field: { type: Array, default: () => [] },
+  table: { type: Array, default: () => [] },
+  horizontal: { type: Boolean, default: false },
+  unsearch: { type: Boolean, default: false }
 })
 
+// debug 工具
+// let updateCount = 0
+// let startTime
+
 const slots = useSlots()
-
 const headers = ref([])
-const rows = ref([])
+const rows = shallowRef([])
 
+// 排序
 const sortKey = ref('')
 const sortOrder = ref('asc')
 
+// 查詢
+const searchQuery = ref('')
+
 onMounted(() => {
-  if (props.table.length > 0 && props.field.length > 0) {
-  headers.value = props.field;
-  rows.value = props.table.map(trRow => {
-    console.log(trRow);
-    const row = {
-      _attributes: trRow?._attributes || {},
-      _cells: []
-    }
-    headers.value.forEach(header => {
-      const key = header?.key;
-      if(trRow[key] === undefined) return
-      row._cells.push({
-        content: trRow[key],
-        attributes: trRow?._cellAttributes?.[key] || {},
-        type: 'text'
-      })
-    })
-    return row
-  })
-} else {
-    const slotContent = slots.default && slots.default()
-    if (slotContent && slotContent.length > 0) {
-      const trElements = slotContent.filter(node => node.type === 'tr')
-      if (trElements.length > 0) {
-        headers.value = trElements[0].children
-          .filter(node => node.type === 'td')
-          .map(td => {
-            return{
-              key: td.children,
-              label: td.children,
-              unsortable: !!td.props?.unsortable,
-            }
-          })
-        rows.value = trElements.slice(1).map(tr => {
-          const row = {
-            _attributes: tr.props || {},
-            _cells: []
-          }
-          tr.children
-            .filter(node => node.type === 'td')
-            .forEach((td) => {
-              row._cells.push({
-                content: td.children,
-                attributes: td.props || {},
-                type: getContentType(td.children)
-              })
-            })
-          return row
-        })
-        console.log('Headers:', headers.value);
-        rows.value.forEach((row, rowIndex) => {
-          console.log(`Row ${rowIndex}:`);
-          row._cells.forEach((cell, cellIndex) => {
-            console.log(`  Cell ${cellIndex}:`);
-            console.log('    Type:', cell.type);
-            console.log('    Content:', cell.content);
-            if (Array.isArray(cell.content)) {
-              cell.content.forEach((item, itemIndex) => {
-                console.log(`      Item ${itemIndex}:`, item);
-              });
-            }
-          });
-        });
-      }
-    }
+  // startTime = performance.now()
+  // 如果未來有子組件需要動態改變，這些搬到 watchEffect 試試
+  if (props.table.length && props.field.length) {
+    initializeFromProps()
+  } else if (slots.default) {
+    initializeFromSlots()
   }
 })
 
-const sort = (key) => {
-  if (sortKey.value === key) {
+// onUpdated(() => {
+//   updateCount++
+//   console.log(`Component updated ${updateCount} times`)
+// })
+
+// onUnmounted(() => {
+//   const endTime = performance.now()
+//   console.log(`Component lived for ${endTime - startTime}ms`)
+// })
+
+//#region 初始化
+function initializeFromProps() {
+  headers.value = props.field
+  rows.value = props.table.map(trRow => ({
+    _attributes: trRow._attributes || {},
+    _cells: headers.value.map(header => ({
+      content: trRow[header.key],
+      attributes: trRow._cellAttributes?.[header.key] || {},
+      type: 'text'
+    })).filter(cell => cell.content !== undefined)
+  }))
+}
+
+function initializeFromSlots() {
+  const slotContent = slots.default?.()
+  if (!slotContent?.length) return
+
+  const trElements = slotContent.filter(node => node.type === 'tr')
+  if (trElements.length === 0) return
+
+  headers.value = trElements[0].children
+    .filter(node => node.type === 'td')
+    .map(td => ({
+      key: td.children,
+      label: td.children,
+      unsortable: !!td.props?.unsortable,
+    }))
+
+  rows.value = trElements.slice(1).map(tr => ({
+    _attributes: tr.props || {},
+    _cells: tr.children
+      .filter(node => node.type === 'td')
+      .map(td => ({
+        content: td.children,
+        attributes: td.props || {},
+        type: getContentType(td.children)
+      }))
+  }))
+}
+//#endregion
+
+//#region 解析資料
+function getContentType(content) {
+  if (Array.isArray(content)) return 'array';
+  if (!content || typeof content !== 'object') return 'text';
+  if (content.type === 'br') return 'br';
+  if (typeof content.type === 'symbol' && content.type.description === 'v-txt') return 'text';
+  if (typeof content.type === 'string' || typeof content.type === 'object') return 'component';
+  return 'unknown';
+}
+
+function isBreakElement(item) {
+  return item && item.type === 'br';
+}
+
+function isTextElement(item) {
+  return item && typeof item.type === 'symbol' && item.type.description === 'v-txt';
+}
+
+function isComponentElement(item) {
+  return item && typeof item.type === 'string' || typeof item.type === 'object';
+}
+//#endregion
+
+//#region 排序
+function handleSort(header) {
+  if (header.unsortable) return
+  if (sortKey.value === header.key) {
     sortOrder.value = sortOrder.value === 'asc' ? 'desc' : 'asc'
   } else {
-    sortKey.value = key
+    sortKey.value = header.key
     sortOrder.value = 'asc'
   }
 }
 
-// const sortedRows = computed(() => {
-//   return [...rows.value].sort((a, b) => {
-//     const aVal = a._cells[headers.value.findIndex(header => header?.key === sortKey.value)]?.content
-//     const bVal = b._cells[headers.value.findIndex(header => header?.key === sortKey.value)]?.content
-//     if (aVal < bVal) return sortOrder.value === 'asc' ? -1 : 1
-//     if (aVal > bVal) return sortOrder.value === 'asc' ? 1 : -1
-//     return 0
-//   })
-// })
+function getSortIcon(key) {
+  return sortKey.value === key 
+    ? (sortOrder.value === 'asc' ? '▲' : '▼') 
+    : '◆'
+}
 
 const sortedRows = computed(() => {
-  return [...rows.value].sort((a, b) => {
-    const aCell = a._cells[headers.value.findIndex(header => header?.key === sortKey.value)];
-    const bCell = b._cells[headers.value.findIndex(header => header?.key === sortKey.value)];
-    
-    const aVal = aCell?.type === 'array' 
-      ? aCell.content.filter(item => getContentType(item) === 'text').map(item => item.children).join('')
-      : aCell?.content;
-    
-    const bVal = bCell?.type === 'array' 
-      ? bCell.content.filter(item => getContentType(item) === 'text').map(item => item.children).join('')
-      : bCell?.content;
-
-    if (aVal < bVal) return sortOrder.value === 'asc' ? -1 : 1;
-    if (aVal > bVal) return sortOrder.value === 'asc' ? 1 : -1;
-    return 0;
-  });
+  if (!sortKey.value) return rows.value;
+  
+  const headerIndex = headers.value.findIndex(header => header.key === sortKey.value);
+  const compareFunction = (a, b) => {
+    const aVal = getCellSortValue(a._cells[headerIndex]);
+    const bVal = getCellSortValue(b._cells[headerIndex]);
+    return sortOrder.value === 'asc' 
+      ? aVal.localeCompare(bVal, undefined, {numeric: true, sensitivity: 'base'})
+      : bVal.localeCompare(aVal, undefined, {numeric: true, sensitivity: 'base'});
+  };
+  
+  return [...rows.value].sort(compareFunction);
 });
 
-function getContentType(content) {
+function getCellSortValue(cell) {
+  if (cell.type === 'array') {
+    return cell.content
+      .filter(item => item.type === Symbol.for('v-txt'))
+      .map(item => item.children)
+      .join('')
+  }
+  return String(cell.content)
+}
+//#endregion
+
+//#region 搜尋框
+const filteredAndSortedRows = computed(() => {
+  let result = sortedRows.value
+
+  if (searchQuery.value) {
+    const keywords = searchQuery.value.toLowerCase().split(' ').filter(k => k)
+    result = result.filter(row => 
+      keywords.every(keyword => searchInRow(row, keyword))
+    )
+  }
+
+  return result
+})
+
+function searchInRow(row, keyword) {
+  return row._cells.some(cell => searchInCell(cell, keyword))
+}
+
+function searchInCell(cell, keyword) {
+  if (typeof cell.content === 'string' || (typeof cell?.type === 'symbol' && cell?.type?.description === 'v-txt')) {
+    return cell.content.toLowerCase().includes(keyword)
+  }
+  if (Array.isArray(cell.content)) {
+    return cell.content.some(item => searchInItem(item, keyword))
+  }
+  return false
+}
+
+function searchInItem(item, keyword) {
+  if (isTextElement(item)) {
+    return String(item.children).toLowerCase().includes(keyword)
+  }
+  if (isComponentElement(item)) {
+    return searchInComponentSlots(item.children, keyword)
+  }
+  return false
+}
+
+function searchInComponentSlots(slots, keyword) {
+  if (typeof slots === 'string' || (typeof slots?.type === 'symbol' && slots?.type?.description === 'v-txt')) {
+    return slots.toLowerCase().includes(keyword);
+  }
+  if (typeof slots === 'object' && slots !== null) {
+    return Object.values(slots).some(slotContent => 
+      (typeof slotContent === 'string' && slotContent.toLowerCase().includes(keyword)) ||
+      (typeof slotContent === 'function' && searchInRenderedContent(slotContent(), keyword))
+    );
+  }
+  return false;
+}
+
+function searchInRenderedContent(content, keyword) {
+  if (typeof content === 'string') {
+    return content.toLowerCase().includes(keyword)
+  }
   if (Array.isArray(content)) {
-    return 'array';
-  } else if (typeof content === 'object' && content !== null) {
-    if (content.type === 'br') return 'br';
-    if (content.type === Symbol.for('v-txt')) return 'text';
-    return 'component';
-  } else if (typeof content === 'string') {
-    return 'text';
-  } else {
-    console.log('Unknown content type:', content);
-    return 'unknown';
+    return content.some(item => searchInRenderedContent(item, keyword))
   }
-}
-
-function renderComponent(content) {
-  if (content.type === 'br') {
-    return h('br');
-  }
-  if (content.type === Symbol.for('v-txt')) {
-    return content.children;
-  }
-
-  const slots = {};
-  if (content.children) {
-    if (typeof content.children === 'string') {
-      slots.default = () => content.children;
-    } else if (Array.isArray(content.children)) {
-      slots.default = () => content.children.map(child => {
-        if (typeof child === 'string') {
-          return child;
-        } else if (typeof child === 'object' && child !== null) {
-          return renderComponent(child);
-        }
-        return null;
-      });
-    } else if (typeof content.children === 'object' && content.children.default) {
-      slots.default = content.children.default;
+  if (typeof content === 'object' && content !== null) {
+    if (content.children) {
+      return searchInRenderedContent(content.children, keyword)
     }
+    return Object.values(content).some(value => searchInRenderedContent(value, keyword))
   }
-
-  return h(content.type, content.props, slots);
+  return false
 }
+//#endregion
 </script>
 
 <style scoped>
@@ -231,5 +289,57 @@ th {
 
 .sort-icon {
   margin-left: 0.5rem;
+}
+
+.search-input {
+  max-width: 300px;
+  width: 100%;
+  padding: 8px;
+  margin-top: 16px;
+  font-size: 16px;
+  border: 1px solid var(--vp-input-border-color);
+  border-radius: 4px;
+  box-sizing: border-box;
+  transition: border-color 0.25s;
+}
+
+.search-input:hover{
+  border-color: var(--vp-c-brand-1);
+}
+
+@media screen and (min-width: 768px) {
+  table.horizontal {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: max-content;
+    width: 100%;
+    max-width: 80vw;
+    overflow-x: auto;
+  }
+
+  table.horizontal thead,
+  table.horizontal tbody {
+    display: contents;
+  }
+
+  table.horizontal tr {
+    display: grid;
+    grid-template-rows: auto 1fr;
+  }
+
+  table.horizontal th,
+  table.horizontal td {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  table.horizontal th {
+    font-weight: bold;
+    justify-content: center;
+  }
 }
 </style>

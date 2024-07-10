@@ -86,7 +86,7 @@ tags:
     -   `left` <Badge type="warning" text="默認值" /> ：設定組件在左邊
     -   `center`：設定組件在中間
     -   `right`：設定組件在右邊
--   `animation`：切換時是否啟用圖片動畫
+-   `:animation`：切換時是否啟用圖片動畫
 
 ```Markdown
 <ChTabs>
@@ -99,7 +99,7 @@ tags:
         <ChBg
         src='/images/characters/girl_8/girl8_drumstick.png'
         position='center'
-        animation=true />
+        :animation=true />
     </ChTab>
 </ChTabs>
 ```
@@ -116,7 +116,7 @@ tags:
         <ChBg
         src='/images/characters/girl_8/girl8_drumstick.png'
         position='center'
-        animation=true />
+        :animation=true />
     </ChTab>
 </ChTabs>
 
@@ -274,7 +274,7 @@ tags:
         <ChBg
         src='/images/characters/girl_8/girl8_drumstick.png'
         position='center'
-        animation=true />
+        :animation=true />
     </ChTab>
 </ChTabs>
 ```
@@ -310,7 +310,7 @@ tags:
         <ChBg
         src='/images/characters/girl_8/girl8_drumstick.png'
         position='center'
-        animation=true />
+        :animation=true />
     </ChTab>
 </ChTabs>
 

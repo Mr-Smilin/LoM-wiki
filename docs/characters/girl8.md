@@ -70,7 +70,7 @@ borderless: false
     <ChBg 
       src='/images/characters/girl_8/girl8_drumstick.png' 
       position='right'
-      animation=true />
+      :animation=true />
     <ChName
       nameZh='吃雞腿'
       nameEn='Chī jītuǐ'/>
@@ -78,7 +78,7 @@ borderless: false
   <ChTab title="大笑">
     <ChBg src='/images/characters/girl_8/laugh2.png'
           position='right'
-          animation=true />
+          :animation=true />
     <ChName 
       nameZh='Laugh heartily'
       nameEn='大笑'/>
@@ -86,7 +86,7 @@ borderless: false
   <ChTab title="戰鬥">
     <ChBg src='/images/characters/girl_8/angry3.png'
           position='right'
-          animation=true />
+          :animation=true />
     <ChName 
       nameZh='戰鬥'
       nameEn='Fight'/>
