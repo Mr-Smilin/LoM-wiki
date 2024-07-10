@@ -77,7 +77,7 @@ export default {
         },
         getIconSource(no, type) {
             // this requires the same image path format
-            return withBase(`/images/${type}s/item_${type}_${no}.png`);
+            return withBase(`/images/items/${type}s/item_${type}_${no}.png`);
         },
         getIconSizeClass(size) {
             const SIZE_SMALL = 'small';
