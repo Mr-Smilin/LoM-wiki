@@ -295,7 +295,7 @@ th {
   max-width: 300px;
   width: 100%;
   padding: 8px;
-  margin-bottom: 16px;
+  margin-top: 16px;
   font-size: 16px;
   border: 1px solid var(--vp-input-border-color);
   border-radius: 4px;
