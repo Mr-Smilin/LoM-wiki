@@ -221,7 +221,7 @@ function searchInRow(row, keyword) {
 }
 
 function searchInCell(cell, keyword) {
-  if (typeof cell.content === 'string') {
+  if (typeof cell.content === 'string' || (typeof cell?.type === 'symbol' && cell?.type?.description === 'v-txt')) {
     return cell.content.toLowerCase().includes(keyword)
   }
   if (Array.isArray(cell.content)) {
@@ -241,7 +241,7 @@ function searchInItem(item, keyword) {
 }
 
 function searchInComponentSlots(slots, keyword) {
-  if (typeof slots === 'string') {
+  if (typeof slots === 'string' || (typeof slots?.type === 'symbol' && slots?.type?.description === 'v-txt')) {
     return slots.toLowerCase().includes(keyword);
   }
   if (typeof slots === 'object' && slots !== null) {
