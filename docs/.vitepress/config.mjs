@@ -268,17 +268,4 @@ export default defineConfig({
 			};
 		},
 	},
-
-	// 		next();
-	// 	});
-	// },
-	// head: [
-	// 	[
-	// 		"link",
-	// 		{
-	// 			rel: "stylesheet",
-	// 			href: "https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css",
-	// 		},
-	// 	],
-	// ],
 });

@@ -82,8 +82,9 @@ tags:
 <Girl0Icon :size='`small`'>我是文字5</Girl0Icon>
 <Girl0Icon>我是文字6</Girl0Icon>
 ```
-small(小型)圖案為32 px * 32 px,  
-medium(中型) 圖案100 px * 100 px。
+
+small(小型)圖案為 32 px _ 32 px,  
+medium(中型) 圖案 100 px _ 100 px。
 **效果：**  
 <Girl0Icon :size='`medium`'>我是文字 4</Girl0Icon>  
 <Girl0Icon :size='`small`'>我是文字 5</Girl0Icon>  
@@ -128,7 +129,7 @@ medium(中型) 圖案100 px * 100 px。
 
 目前提供少部分 Icon 與語法示例如下, 以`BookItemIcon`為例,  
 可替換下面已可用組件任一, 只要求`no`有及`物品使用類型`對應即可  
-與人物Icon的差別在於多了一個背景，  
+與人物 Icon 的差別在於多了一個背景，  
 此外，此組件使用的圖片有對應`特定位置擺放`。
 
 ```
@@ -138,46 +139,52 @@ medium(中型) 圖案100 px * 100 px。
 ```
 
 `<BookItemIcon>`預設有連結, 點擊會跳入對應資訊頁面,  
-此外, 預設圖案為small(小型, 100 px * 100 px);  
-medium為中型(200 px * 200 px);  
+此外, 預設圖案為 small(小型, 100 px _ 100 px);  
+medium 為中型(200 px _ 200 px);  
 可透過 `:size` 設定大小。  
-若needLink = false時, 點擊圖片則會啟用圖片放大。  
-僅有`no`為必填值。  
+若 needLink = false 時, 點擊圖片則會啟用圖片放大。  
+僅有`no`為必填值。
 
 **效果：**  
 <BookItemIcon :no="6001">我是文字</BookItemIcon>
-<BookItemIcon :needLink="false" :no="6001">我是文字1</BookItemIcon>
-<BookItemIcon :size="`medium`" :no="6001">我是文字2</BookItemIcon>
+<BookItemIcon :needLink="false" :no="6001">我是文字 1</BookItemIcon>
+<BookItemIcon :size="`medium`" :no="6001">我是文字 2</BookItemIcon>
 
-### 可用屬性寫法  
+### 可用屬性寫法
+
 因 `type` 已包含在組件名稱中，故不需額外設定。
-| 屬性名稱 | 值                           | default     | require |
+| 屬性名稱 | 值 | default | require |
 | :------- |:----------------------------|:------------|:--------|
-| no       | 根據不同的物品有不同的值        | -           |o        |
-| size     | "\`medium\`" \| "\`small\`" | "\`small\`" | x       | 
-| needLink | true \| false               | true        |x        |
+| no | 根據不同的物品有不同的值 | - |o |
+| size | "\`medium\`" \| "\`small\`" | "\`small\`" | x |
+| needLink | true \| false | true |x |
 
 ### 目前已可用組件(每一組件代表不同的物品類型)：
--   `<BookItemIcon>` : 武學書籍(book), 
+
+-   `<BookItemIcon>` : 武學書籍(book),
 -   `<FoodItemIcon>` : 食物(food),
 -   `<NewspaperItemIcon>` : 江湖快報(newspaper),
 -   `<SpecialItemIcon>` : 特殊道具(special),
 -   `<TeaItemIcon>` : 茶水(tea),
 -   `<WineItemIcon>` : 酒(wine),
+
 ### 對應擺放路徑格式
+
 ```
 docs/public/images/items/${type}s/item_${type}_${no}.png
 ```
-其中 `${type}` 為物品類型，如 `book`、`food`、`special`、`tea`、`wine`；  
-`${no}` 為物品編號。  
 
-舉例而言 武學書籍(book) 編號為 6001, 圖片路徑為  `docs/public/images/items/books/item_book_6001.png`,  
-特殊道具(special) 編號為2003, 圖片路徑為 `docs/public/images/items/specials/item_special_2003.png`
+其中 `${type}` 為物品類型，如 `book`、`food`、`special`、`tea`、`wine`；  
+`${no}` 為物品編號。
+
+舉例而言 武學書籍(book) 編號為 6001, 圖片路徑為 `docs/public/images/items/books/item_book_6001.png`,  
+特殊道具(special) 編號為 2003, 圖片路徑為 `docs/public/images/items/specials/item_special_2003.png`
 
 ::: warning
 使用前請先確認是否該圖檔案存在，若不存在，請一並上傳至指定路徑。  
 若不確定物品的分類，請以圖片解包原名為主
 :::
+
 ## Markdown 外部解析工具
 
 用來主動解析被 html 包住的內容  
@@ -220,12 +227,21 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 替表格加上排序效果  
 將外層的 `<table>` 換成 `<BTable>` 即可
 
+<br>
+
+`BTable` 提供屬性如以下：
+
+-   `:horizontal`：將表格轉為橫向顯示
+-   `:search`：開啟表格搜尋功能
+
+`td` 提供屬性如以下：
+
 -   `:unsortable`：於第一行使用可控制排序
     -   `true`：關閉排序
     -   `false` <Badge type="warning" text="默認值" /> ：開啟排序
 
 ```Markdown
-<BTable>
+<BTable :search=true>
   <tr>
     <td>age</td>
     <td>first_name</td>
@@ -244,14 +260,14 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
   <tr>
     <td>89</td>
     <td>Geneva</td>
-    <td>Wilson</td>
+    <td>Shaw</td>
   </tr>
 </BTable>
 ```
 
 **效果：**
 
-<BTable>
+<BTable :search=true>
   <tr>
     <td>age</td>
     <td>first_name</td>
@@ -270,7 +286,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
   <tr>
     <td>89</td>
     <td>Geneva</td>
-    <td>Wilson</td>
+    <td>Shaw</td>
   </tr>
 </BTable>
 

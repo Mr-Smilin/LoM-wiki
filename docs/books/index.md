@@ -13,7 +13,7 @@ tags:
 
 ## 刀劍
 
-<BTable>
+<BTable :search=true>
     <tr>
         <td>名稱</td>
         <td :unsortable=true>效果</td>
@@ -98,7 +98,7 @@ tags:
 
 ## 拳掌
 
-<BTable>
+<BTable :search=true>
     <tr>
         <td>名稱</td>
         <td :unsortable=true>效果</td>
@@ -287,7 +287,7 @@ tags:
 
 ## 內功
 
-<BTable>
+<BTable :search=true>
     <tr>
         <td>名稱</td>
         <td :unsortable=true>效果</td>
@@ -428,7 +428,7 @@ tags:
 
 ## 暗器
 
-<BTable>
+<BTable :search=true>
     <tr>
         <td>名稱</td>
         <td :unsortable=true>效果</td>
@@ -465,7 +465,7 @@ tags:
 
 ## 其他
 
-<BTable>
+<BTable :search=true>
     <tr>
         <td>名稱</td>
         <td :unsortable=true>效果</td>

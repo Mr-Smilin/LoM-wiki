@@ -35,21 +35,9 @@ defineProps({
   margin-right: 20px;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 768px) {
   .floating-div {
-    width: 25%;
-  }
-}
-
-@media screen and (max-width: 900px) {
-  .floating-div {
-    width: 30%;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .floating-div {
-    width: 100%; 
+    width: 100%;
     float: none;
     margin-left: 0;
     margin-right: 0;
