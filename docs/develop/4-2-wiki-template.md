@@ -166,13 +166,13 @@ medium為中型(200 px * 200 px);
 -   `<WineItemIcon>` : 酒(wine),
 ### 對應擺放路徑格式
 ```
-docs/public/images/${type}s/item_${type}_${no}.png
+docs/public/images/items/${type}s/item_${type}_${no}.png
 ```
 其中 `${type}` 為物品類型，如 `book`、`food`、`special`、`tea`、`wine`；  
 `${no}` 為物品編號。  
 
-舉例而言 武學書籍(book) 編號為 6001, 圖片路徑為  `docs/public/images/books/item_book_6001.png`,  
-特殊道具(special) 編號為2003, 圖片路徑為 `docs/public/images/specials/item_special_2003.png`
+舉例而言 武學書籍(book) 編號為 6001, 圖片路徑為  `docs/public/images/items/books/item_book_6001.png`,  
+特殊道具(special) 編號為2003, 圖片路徑為 `docs/public/images/items/specials/item_special_2003.png`
 
 ::: warning
 使用前請先確認是否該圖檔案存在，若不存在，請一並上傳至指定路徑。  
