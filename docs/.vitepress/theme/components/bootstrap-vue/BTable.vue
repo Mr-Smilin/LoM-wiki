@@ -61,8 +61,8 @@ const props = defineProps({
 })
 
 // debug 工具
-let updateCount = 0
-let startTime
+// let updateCount = 0
+// let startTime
 
 const slots = useSlots()
 const headers = ref([])
@@ -76,7 +76,7 @@ const sortOrder = ref('asc')
 const searchQuery = ref('')
 
 onMounted(() => {
-  startTime = performance.now()
+  // startTime = performance.now()
   // 如果未來有子組件需要動態改變，這些搬到 watchEffect 試試
   if (props.table.length && props.field.length) {
     initializeFromProps()
@@ -85,15 +85,15 @@ onMounted(() => {
   }
 })
 
-onUpdated(() => {
-  updateCount++
-  console.log(`Component updated ${updateCount} times`)
-})
+// onUpdated(() => {
+//   updateCount++
+//   console.log(`Component updated ${updateCount} times`)
+// })
 
-onUnmounted(() => {
-  const endTime = performance.now()
-  console.log(`Component lived for ${endTime - startTime}ms`)
-})
+// onUnmounted(() => {
+//   const endTime = performance.now()
+//   console.log(`Component lived for ${endTime - startTime}ms`)
+// })
 
 //#region 初始化
 function initializeFromProps() {
