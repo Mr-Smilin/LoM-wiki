@@ -309,14 +309,16 @@ th {
 
 @media screen and (min-width: 768px) {
   table.horizontal {
-    display: inline-grid;
+    display: grid;
     grid-auto-flow: column;
-    grid-auto-columns: auto;
+    grid-auto-columns: max-content;
+    width: 100%;
+    max-width: 80vw;
+    overflow-x: auto;
   }
 
   table.horizontal thead,
-  table.horizontal tbody,
-  table.horizontal tr {
+  table.horizontal tbody {
     display: contents;
   }
 
@@ -330,6 +332,9 @@ th {
     padding: 10px;
     display: flex;
     align-items: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   table.horizontal th {
