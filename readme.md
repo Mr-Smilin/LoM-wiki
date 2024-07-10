@@ -31,7 +31,7 @@ npm run dev
 3. 使用你順手的IDE編輯`./docs/<your-md-file-class>/<your-md-file-name>.md`
 4. 存檔, 提交commit, 推送到`Github Pull Request`, 等待審核。
 5. 審核通過後，合併到主分支，若部署成功，網站即會更新。
-6. 上`活俠傳Wiki`看看你的貢獻有多棒！
+6. 上[活俠傳Wiki](https://smilin.net/LoM-wiki/)看看你的貢獻有多棒！
 
 ## 檔案結構 | File Structure
 本專案的檔案結構如下：
@@ -40,19 +40,38 @@ npm run dev
 ├── backup
 │         └── en
 ├── docs
+│         ├── books
 │         ├── characters
 │         ├── develop
 │         ├── en
+│         ├── ends
 │         ├── event
 │         ├── mechanism
 │         ├── other
+│         │         └── news
 │         ├── people
 │         └── public
 │             ├── images
 │             │         ├── characters
+│             │         │         ├── girl_0
+│             │         │         ├── girl_1
+│             │         │         ├── girl_2
+│             │         │         ├── girl_3
+│             │         │         ├── girl_4
+│             │         │         ├── girl_5
+│             │         │         ├── girl_6
+│             │         │         ├── girl_7
+│             │         │         └── girl_8
 │             │         ├── develop
 │             │         ├── generic
-│             │         └── index
+│             │         │         ├── achievement_icon
+│             │         │         ├── background
+│             │         │         └── face_icon
+│             │         ├── index
+│             │         └── items
+│             │                   ├── books
+│             │                   └── specials
+│             │         
 │             └── json
 ├── node_modules
 └── tools
@@ -61,20 +80,24 @@ npm run dev
 `./backup/en` 存放國際版的備份文件、模板文件等。 
 
 ### `./docs` 存放各類別的文檔，md檔案、開發用的資料文件都會放在這裡。  
+`./docs/books` 存放武學列表及武學頁面。  
 `./docs/characters` 存放人物列表及人物頁面。  
 `./docs/develop` 存放開發文件，開發導覽、開發工具、開發規範等。  
 `./docs/en` 英文版文檔。  
+`./docs/end` 生死簿資料。
 `./docs/event` 存放事件相關資料。  
 `./docs/mechanism` 存放遊戲機制資料。  
-`./docs/other` 存放其他類別的資料，如資料來源、官方更新資訊等。  
+`./docs/other` 存放其他類別的資料，如資料來源等。  
+`./docs/other/news` 存放官方更新資料。
 `./docs/people` 存放舊版人物資料，後續預計搬移到`./docs/characters`中。    
 
 #### `./docs/public` 存放公共資源，如圖片、JSON檔案等。  
 `./docs/public/images` 存放圖片  
-`./docs/public/images/characters` 存放人物圖片  
+`./docs/public/images/characters` 存放人物圖片(具體會再往下一層, 依據角色做分類)  
 `./docs/public/images/develop` 存放開發文件用圖片    
 `./docs/public/images/generic` 存放一般用圖片  
 `./docs/public/images/index` 存放首頁用圖片  
+`./docs/public/images/items` 存放物品圖片, 會依據類別做分類  
 `./docs/public/json` 存放JSON檔案  
 
 ### `./node_modules` 存放npm模組, 一般為npm自行創建, 不會隨著你的commit提交, 也不會、不應讓你去修改它。  
