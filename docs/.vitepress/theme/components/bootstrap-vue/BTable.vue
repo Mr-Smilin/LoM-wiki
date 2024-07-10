@@ -10,7 +10,7 @@
       <thead>
         <tr>
           <th v-for="header in headers" :key="header.key" @click="handleSort(header)">
-            <span v-once>{{ header.label }}</span>
+            <span>{{ header.label }}</span>
             <span v-if="!header.unsortable" class="sort-icon">
               {{ getSortIcon(header.key) }}
             </span>
