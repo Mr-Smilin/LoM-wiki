@@ -232,7 +232,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 `BTable` 提供屬性如以下：
 
 -   `:horizontal`：將表格轉為橫向顯示
--   `:search`：開啟表格搜尋功能
+-   `:unsearch`：關閉表格搜尋功能
 
 `td` 提供屬性如以下：
 
@@ -241,7 +241,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
     -   `false` <Badge type="warning" text="默認值" /> ：開啟排序
 
 ```Markdown
-<BTable :search=true>
+<BTable>
   <tr>
     <td>age</td>
     <td>first_name</td>
@@ -267,7 +267,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 
 **效果：**
 
-<BTable :search=true>
+<BTable>
   <tr>
     <td>age</td>
     <td>first_name</td>
@@ -297,7 +297,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 `BTable` 內的 `<tr>` `<td>` 屬性皆會保留
 
 ```Markdown
-<BTable>
+<BTable :unsearch=true>
   <tr>
     <td>age</td>
     <td :unsortable=true>first_name</td> // 此行不排序
@@ -313,7 +313,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 
 **效果：**
 
-<BTable>
+<BTable :unsearch=true>
   <tr>
     <td>age</td>
     <td :unsortable=true>first_name</td>
@@ -358,6 +358,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
     },
     { age: '21', first_name: 'Larsen', last_name: 'Shaw' }
   ]"
+  :unsearch=true
 />
 
 ```
@@ -386,4 +387,5 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
     },
     { age: '21', first_name: 'Larsen', last_name: 'Shaw' }
   ]"
+  :unsearch=true
 />

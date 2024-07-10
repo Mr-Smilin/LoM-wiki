@@ -1,7 +1,7 @@
 <template>
   <div class="table-container">
     <input 
-      v-if="search"
+      v-if="!unsearch"
       v-model="searchQuery" 
       placeholder="搜索... (多個關鍵字用空格分隔)"
       class="search-input"
@@ -57,7 +57,7 @@ const props = defineProps({
   field: { type: Array, default: () => [] },
   table: { type: Array, default: () => [] },
   horizontal: { type: Boolean, default: false },
-  search: { type: Boolean, default: false }
+  unsearch: { type: Boolean, default: false }
 })
 
 // debug 工具
