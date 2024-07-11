@@ -22,13 +22,15 @@ tags:
 
 `Tabs` 提供屬性如以下：
 
--   `position`：設定分頁表的位置
+1.  `position`：設定分頁表的位置
+
+
     -   `top` <Badge type="warning" text="默認值" /> ：設定分頁表在上方
     -   `bottom`：設定分頁表在下方
 
 `Tab` 提供屬性如以下：
 
--   `title` <Badge type="danger" text="必填" /> ：設定分頁籤的文字
+1.  `title` <Badge type="danger" text="必填" /> ：設定分頁籤的文字
 
 ```Markdown
 <Tabs>
@@ -231,16 +233,23 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 
 `BTable` 提供屬性如以下：
 
--   `:horizontal`：將表格轉為橫向顯示
+1.  `:horizontal`：將表格轉為橫向顯示
+
+
     -   `true`：轉成橫向
     -   `false` <Badge type="warning" text="默認值" /> ：不轉成橫向
--   `:unsearch`：控制表格搜尋功能
+
+2.  `:unsearch`：控制表格搜尋功能
+
+
     -   `true`：關閉搜尋
     -   `false` <Badge type="warning" text="默認值" /> ：開啟搜尋
 
-`td` 提供屬性如以下：
+第一行(標題) `td` 提供屬性如以下：
 
--   `:unsortable`：於第一行使用可控制排序
+1.  `:unsortable`：控制欄位排序
+
+
     -   `true`：關閉排序
     -   `false` <Badge type="warning" text="默認值" /> ：開啟排序
 

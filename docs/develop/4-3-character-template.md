@@ -41,13 +41,14 @@ tags:
 
 `ChTabs` 提供屬性如以下：
 
--   `position`：設定組件位置
+1.  `position`：設定組件位置
+
     -   `top` <Badge type="warning" text="默認值" /> ：設定組件在上方
     -   `bottom`：設定組件在下方
 
 `ChTab` 提供屬性如以下：
 
--   `title` <Badge type="danger" text="必填" /> ：設定分頁籤的文字
+1.  `title` <Badge type="danger" text="必填" /> ：設定分頁籤的文字
 
 ```Markdown
 <ChTabs>
@@ -81,12 +82,14 @@ tags:
 
 `ChBg` 提供屬性如以下：
 
--   `src` <Badge type="danger" text="必填" /> ：設定做為背景圖片檔的 url
--   `position`：設定組件位置
+1.  `src` <Badge type="danger" text="必填" /> ：設定做為背景圖片檔的 url
+2.  `position`：設定組件位置
+
     -   `left` <Badge type="warning" text="默認值" /> ：設定組件在左邊
     -   `center`：設定組件在中間
     -   `right`：設定組件在右邊
--   `:animation`：切換時是否啟用圖片動畫
+
+3.  `:animation`：切換時是否啟用圖片動畫
 
 ```Markdown
 <ChTabs>
@@ -171,10 +174,12 @@ tags:
 
 `ChTable` 提供屬性如以下：
 
--   `position`：設定組件位置
+1.  `position`：設定組件位置
+
     -   `left` <Badge type="warning" text="默認值" /> ：設定組件在左邊
     -   `right`：設定組件在右邊
--   `:table`：設定表格內的內容，以二維陣列代表行列
+
+2.  `:table`：設定表格內的內容，以二維陣列代表行列
 
 ```Markdown
 <ChTabs>
@@ -581,14 +586,16 @@ tags:
 
 `InfoList` 提供屬性如以下：
 
--   `position`：設定組件位置
+1.  `position`：設定組件位置
+
     -   `left`：設定組件在左邊
     -   `right` <Badge type="warning" text="默認值" /> ：設定組件在右邊
+    -   `none`：關閉浮動效果
 
 `Info` 提供屬性如以下：
 
--   `title` <Badge type="danger" text="必填" /> ：設定詳細內容的標題文字
--   `open`：預設是否展開
+1.  `title` <Badge type="danger" text="必填" /> ：設定詳細內容的標題文字
+2.  `open`：預設是否展開
 
 ```Markdown
 <InfoList position="left">
