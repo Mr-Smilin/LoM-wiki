@@ -232,7 +232,11 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 `BTable` 提供屬性如以下：
 
 -   `:horizontal`：將表格轉為橫向顯示
--   `:unsearch`：關閉表格搜尋功能
+    -   `true`：轉成橫向
+    -   `false` <Badge type="warning" text="默認值" /> ：不轉成橫向
+-   `:unsearch`：控制表格搜尋功能
+    -   `true`：關閉搜尋
+    -   `false` <Badge type="warning" text="默認值" /> ：開啟搜尋
 
 `td` 提供屬性如以下：
 
