@@ -46,7 +46,7 @@ tags:
 選擇以下任一步驟
 
 -   [加入 Discord](https://discord.gg/P4kePy6qmc)
--   [透過信箱聯絡我](mailto:lion31lion31@gmail.com)
+-   [透過信箱聯絡我](mailto:legendofmortal.wiki@gmail.com)
 
 提供你建立 Github 的信箱  
 由我這邊開啟協作權限
