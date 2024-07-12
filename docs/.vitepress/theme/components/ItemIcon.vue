@@ -1,11 +1,11 @@
 <template>
-    <a v-if="needLink" :href="getItemPageUrl(no, type)">
+    <a v-if="needLink" :href="getItemPageUrl(no, type)" class="inline">
         <!--  using span to show item background -->
         <span :class=getIconBackgroundSizeClass(size) :style="getIconBackgroundSource()">
-            <span :class=getIconSizeClass(size) :style="getLinkedIconSourceStyle(no, type)" ></span>
+            <div :class=getIconSizeClass(size) :style="getLinkedIconSourceStyle(no, type)" ></div>
         </span><slot></slot>
     </a>
-    <span v-else>
+    <span v-else class="inline">
         <span :class=getIconBackgroundSizeClass(size) :style="getIconBackgroundSource()">
             <img :class=getIconSizeClass(size)  :src="getIconSource(no, type)">
         </span>
@@ -137,13 +137,13 @@ export default {
     z-index: 1;
     background-size: 100% 100%;
     background-repeat: no-repeat;
+    margin: auto;
 }
 
 .background-image{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: inline-block;
     vertical-align: middle;
+    align-content: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     z-index: -1;
@@ -162,10 +162,16 @@ export default {
 .bg-small {
     width: 132px;
     height: 132px;
+    line-height: 132px;
 }
 
 .bg-medium {
     width: 265px;
     height: 265px;
+    line-height: 265px;
+}
+
+.inline{
+    display: inline;
 }
 </style>
