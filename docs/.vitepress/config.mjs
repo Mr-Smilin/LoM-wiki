@@ -61,7 +61,7 @@ export default defineConfig({
 				text: "其他",
 				items: [
 					{ text: "官方更新", link: "/other/news" },
-					{ text: "遊戲指南", link: "/guide/1-game-objective" },
+					{ text: "遊戲指南(施工中)", link: "/guide/1-game-objective" },
 					{
 						text: "拆包資料",
 						items: [
