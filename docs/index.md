@@ -14,8 +14,8 @@ hero:
           text: 瀏覽 Wiki
           link: /wiki-list
         - theme: alt
-          text: 官方更新
-          link: /other/news
+          text: 遊戲指南
+          link: /guide/1-game-objective.md
         - theme: alt
           text: 遊戲下載
           link: https://store.steampowered.com/app/1859910/_/
@@ -25,6 +25,16 @@ hero:
         - theme: alt
           text: 協作Wiki
           link: /develop/1-start
+features:
+    - icon: ❓
+      title: 為什麼要製作 LoM-Wiki？
+      details: 因為活俠傳是一款好遊戲
+    - icon: 🙋‍♂️
+      title: 我想加入耶，看協作教學就好嗎？
+      details: 你願意跟我寫一輩子Wiki嗎？👀
+    - icon: 🌟
+      title: 不過這樣寫Wiki有甚麼意義嗎？
+      details: 要一輩子寫Wiki是不可能的<br>但我還是想和大家寫一輩子Wiki<br>一輩子都不會再分開！
 ---
 
 <script setup>

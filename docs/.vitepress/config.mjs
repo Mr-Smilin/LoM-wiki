@@ -35,6 +35,7 @@ export default defineConfig({
 				items: [
 					{ text: "門派設施", link: "/event/facility" },
 					{ text: "秘笈列表", link: "/books" },
+					{ text: "技能效果(尚未編輯)", link: "no-page" },
 					{ text: "道具列表", link: "/items" },
 					{ text: "養成指令", link: "/event/develop" },
 				],
@@ -72,6 +73,7 @@ export default defineConfig({
 					},
 					{ text: "唐門圖書館(google sheet)", link: "/other/lom-sheet" },
 				],
+				activeMatch: "/guide/",
 			},
 			{
 				text: "協助編輯",
