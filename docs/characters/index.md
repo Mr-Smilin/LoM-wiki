@@ -38,7 +38,7 @@ tags:
 <td>歸屬</td>
 </tr>
 <tr>
-<td>趙活</td>
+<td>[趙活](player)</td>
 <td>四川唐門</td>
 </tr>
 <tr>
