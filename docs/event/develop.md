@@ -1,14 +1,14 @@
 ---
 aside: false
 borderless: true
-title: 養成指令整理
+title: 養成指令
 tags:
     - develop
     - 養成
     - 事件
 ---
 
-# 養成指令整理
+# 養成指令
 
 <table>
     <tr>
