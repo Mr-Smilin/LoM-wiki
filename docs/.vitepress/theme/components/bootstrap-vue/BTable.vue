@@ -1,11 +1,33 @@
 <template>
   <div class="table-container">
-    <input 
-      v-if="!unsearch"
-      v-model="searchQuery" 
-      placeholder="搜索... (多個關鍵字用空格分隔)"
-      class="search-input"
-    />
+    <div v-if="!unsearch" class="tag-container">
+      <div 
+        v-for="tag in tags" 
+        :key="tag.text" 
+        class="tag" 
+        @click="addTagToSearch(tag)"
+      >
+        <span v-if="tag.icon" class="tag-icon">{{ tag.icon }}</span>
+        {{ tag.text }}
+      </div>
+    </div>
+    <div v-if="!unsearch" class="search-container">
+      <input 
+        v-model="searchQuery" 
+        placeholder="搜索... (多個關鍵字用空格分隔)"
+        class="search-input"
+      />
+      <div class="selected-tags">
+        <span 
+          v-for="tag in selectedTags" 
+          :key="tag" 
+          class="selected-tag"
+        >
+          {{ tag }}
+          <button @click="removeTag(tag)" class="remove-tag">×</button>
+        </span>
+      </div>
+    </div>
     <table :class="{ 'horizontal': horizontal }">
       <thead>
         <tr>
@@ -51,13 +73,14 @@
 </template>
 
 <script setup>
-import { ref, computed, useSlots, onMounted, shallowRef  } from 'vue'
+import { ref, computed, useSlots, onMounted, shallowRef, watchEffect  } from 'vue'
 
 const props = defineProps({
   field: { type: Array, default: () => [] },
   table: { type: Array, default: () => [] },
   horizontal: { type: Boolean, default: false },
-  unsearch: { type: Boolean, default: false }
+  unsearch: { type: Boolean, default: false },
+  tags: { type: Array, default: () => []}
 })
 
 // debug 工具
@@ -75,6 +98,9 @@ const sortOrder = ref('asc')
 // 查詢
 const searchQuery = ref('')
 
+// 標籤
+const selectedTags = ref([])
+
 onMounted(() => {
   // startTime = performance.now()
   // 如果未來有子組件需要動態改變，這些搬到 watchEffect 試試
@@ -83,6 +109,10 @@ onMounted(() => {
   } else if (slots.default) {
     initializeFromSlots()
   }
+})
+
+watchEffect(() => {
+  updateTag()
 })
 
 // onUpdated(() => {
@@ -269,6 +299,25 @@ function searchInRenderedContent(content, keyword) {
   return false
 }
 //#endregion
+
+//#region 標籤
+function addTagToSearch(tag) {
+  if (!selectedTags.value.includes(tag.text)) {
+    selectedTags.value.push(tag.text)
+    searchQuery.value = selectedTags.value.join(' ')
+  }
+}
+
+function removeTag(tag) {
+  selectedTags.value = selectedTags.value.filter(t => t !== tag)
+  searchQuery.value = selectedTags.value.join(' ')
+}
+
+function updateTag(){
+  selectedTags.value = searchQuery.value.split(' ').filter(t => t.trim() !== '')
+}
+//#endregion
+
 </script>
 
 <style scoped>
@@ -305,6 +354,66 @@ th {
 
 .search-input:hover{
   border-color: var(--vp-c-brand-1);
+}
+
+.tag-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.tag {
+  background-color: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  padding: 4px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  transition: background-color 0.2s;
+}
+
+.tag:hover {
+  background-color: var(--vp-c-brand-soft);
+}
+
+.tag-icon {
+  margin-right: 4px;
+}
+
+.search-container {
+  position: relative;
+}
+
+.selected-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 8px;
+}
+
+.selected-tag {
+  background-color: var(--vp-c-brand-soft);
+  color: var(--vp-c-text-1);
+  padding: 2px 6px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+}
+
+.remove-tag {
+  background: none;
+  border: none;
+  color: var(--vp-c-text-1);
+  margin-left: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 0 2px;
+}
+
+.remove-tag:hover {
+  color: var(--vp-c-danger);
 }
 
 @media screen and (min-width: 768px) {

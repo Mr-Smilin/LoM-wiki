@@ -33,7 +33,7 @@ features:
       title: 我想加入，看協作教學就好嗎？
       details: 你願意跟我寫一輩子Wiki嗎？👀
     - icon: 🌟
-      title: 不過這樣寫Wiki有甚麼意義嗎？
+      title: 這樣寫Wiki有甚麼意義嗎？
       details: 要一輩子寫Wiki是不可能的<br>但我還是想和大家寫一輩子Wiki<br>一輩子都不會再分開！
 ---
 

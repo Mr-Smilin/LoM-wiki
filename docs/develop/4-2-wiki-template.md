@@ -24,7 +24,6 @@ tags:
 
 1.  `position`：設定分頁表的位置
 
-
     -   `top` <Badge type="warning" text="默認值" /> ：設定分頁表在上方
     -   `bottom`：設定分頁表在下方
 
@@ -235,26 +234,36 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 
 1.  `:horizontal`：將表格轉為橫向顯示
 
-
     -   `true`：轉成橫向
     -   `false` <Badge type="warning" text="默認值" /> ：不轉成橫向
 
 2.  `:unsearch`：控制表格搜尋功能
 
-
     -   `true`：關閉搜尋
     -   `false` <Badge type="warning" text="默認值" /> ：開啟搜尋
+
+3.  `:tags`：設定搜尋標籤(當 `unsearch` = `true` 時無效)
+
+    -   `text` <Badge type="danger" text="必填" /> ：標籤文字
+    -   `icon`：標籤 icon
 
 第一行(標題) `td` 提供屬性如以下：
 
 1.  `:unsortable`：控制欄位排序
 
-
     -   `true`：關閉排序
     -   `false` <Badge type="warning" text="默認值" /> ：開啟排序
 
 ```Markdown
-<BTable>
+<BTable :tags="[
+  {
+    text: '21',
+  },
+  {
+    text: 'Shaw',
+    icon: '🅰️'
+  }
+]">
   <tr>
     <td>age</td>
     <td>first_name</td>
@@ -280,7 +289,16 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 
 **效果：**
 
-<BTable>
+<BTable :tags="[
+  {
+    text: '21',
+  },
+  {
+    text: 'Shaw',
+    icon: '🅰️'
+  }
+]">
+
   <tr>
     <td>age</td>
     <td>first_name</td>
