@@ -15,7 +15,7 @@ tags:
 
 <BTable>
     <tr>
-        <td>名稱</td>
+        <td :unsortable=true>名稱</td>
         <td :unsortable=true>效果</td>
         <td>武學點</td>
         <td :unsortable=true>條件</td>
@@ -100,7 +100,7 @@ tags:
 
 <BTable>
     <tr>
-        <td>名稱</td>
+        <td :unsortable=true>名稱</td>
         <td :unsortable=true>效果</td>
         <td>武學點</td>
         <td :unsortable=true>條件</td>
@@ -289,7 +289,7 @@ tags:
 
 <BTable>
     <tr>
-        <td>名稱</td>
+        <td :unsortable=true>名稱</td>
         <td :unsortable=true>效果</td>
         <td>武學點</td>
         <td :unsortable=true>條件</td>
@@ -430,7 +430,7 @@ tags:
 
 <BTable>
     <tr>
-        <td>名稱</td>
+        <td :unsortable=true>名稱</td>
         <td :unsortable=true>效果</td>
         <td>武學點</td>
         <td :unsortable=true>條件</td>
@@ -467,7 +467,7 @@ tags:
 
 <BTable>
     <tr>
-        <td>名稱</td>
+        <td :unsortable=true>名稱</td>
         <td :unsortable=true>效果</td>
         <td>武學點</td>
         <td :unsortable=true>條件</td>
