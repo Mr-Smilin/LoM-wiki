@@ -1,5 +1,5 @@
 ---
-title: 一開始應該做些甚麼？
+title: 遊戲目標
 description: 不知道一開始要幹嘛嗎？看這裡！
 aside: false
 outline: [2, 3]
