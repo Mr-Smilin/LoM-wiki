@@ -30,7 +30,7 @@ features:
       title: 為什麼要製作 LoM-Wiki？
       details: 因為活俠傳是一款好遊戲
     - icon: 🙋‍♂️
-      title: 我想加入耶，看協作教學就好嗎？
+      title: 我想加入，看協作教學就好嗎？
       details: 你願意跟我寫一輩子Wiki嗎？👀
     - icon: 🌟
       title: 不過這樣寫Wiki有甚麼意義嗎？
