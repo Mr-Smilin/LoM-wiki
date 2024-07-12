@@ -22,10 +22,6 @@ export default defineConfig({
 		siteTitle: false,
 		nav: [
 			{
-				text: "結緣",
-				link: "/meeting", // 結緣頁面, 不對應實際連結
-			},
-			{
 				text: "人物",
 				items: [
 					{ text: "人物列表", link: "/characters/" },
@@ -35,21 +31,17 @@ export default defineConfig({
 				activeMatch: "/characters/",
 			},
 			{
-				text: "機制",
+				text: "系統",
 				items: [
-					{
-						text: "投降",
-						link: "/mechanism/surrender",
-					},
+					{ text: "門派設施", link: "/event/facility" },
+					{ text: "秘笈列表", link: "/books" },
+					{ text: "道具列表", link: "/items" },
+					{ text: "養成指令", link: "/event/develop" },
 				],
-			},
-			{
-				text: "武功",
-				items: [{ text: "秘笈列表", link: "/books" }],
 				activeMatch: "/books/",
 			},
 			{
-				text: "互動事件",
+				text: "事件",
 				items: [
 					{
 						text: "主支線年表",
@@ -59,18 +51,16 @@ export default defineConfig({
 						text: "主支線簡易表格",
 						link: "/event/story-simple-table",
 					},
-					{ text: "養成指令整理", link: "/event/develop" },
-					{ text: "門派設施", link: "/event/facility" },
+					{ text: "風雲史(尚未編輯)", link: "no-page" },
+					{ text: "生死簿", link: "/ends/bad-end" },
+					{ text: "汗青書(尚未編輯)", link: "no-page" },
 				],
-			},
-			{
-				text: "結局",
-				items: [{ text: "生死簿", link: "/ends/bad-end" }],
 			},
 			{
 				text: "其他",
 				items: [
 					{ text: "官方更新", link: "/other/news" },
+					{ text: "遊戲指南", link: "/guide/1-game-objective" },
 					{
 						text: "拆包資料",
 						items: [
@@ -176,6 +166,29 @@ export default defineConfig({
 									link: "/develop/clean-character-template.md",
 								},
 							],
+						},
+					],
+				},
+			],
+			"/guide/": [
+				{
+					text: "遊戲指南",
+					items: [
+						{
+							text: "遊戲目標",
+							link: "/guide/1-game-objective",
+						},
+						{
+							text: "一開始應該做些甚麼？",
+							link: "/guide/2-how-to-start",
+						},
+						{
+							text: "關於心上人",
+							link: "/people/dream-sweetheart",
+						},
+						{
+							text: "關於投降",
+							link: "/guide/surrender",
 						},
 					],
 				},
