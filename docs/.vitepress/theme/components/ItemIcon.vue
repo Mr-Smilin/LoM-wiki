@@ -1,12 +1,12 @@
 <template>
     <a v-if="needLink" :href="getItemPageUrl(no, type)">
         <!--  using span to show item background -->
-        <span :class=getIconSizeClass(size) :style="getIconBackgroundSource()">
+        <span :class=getIconBackgroundSizeClass(size) :style="getIconBackgroundSource()">
             <span :class=getIconSizeClass(size) :style="getLinkedIconSourceStyle(no, type)" ></span>
         </span><slot></slot>
     </a>
     <span v-else>
-        <span :class=getIconSizeClass(size) :style="getIconBackgroundSource()">
+        <span :class=getIconBackgroundSizeClass(size) :style="getIconBackgroundSource()">
             <img :class=getIconSizeClass(size)  :src="getIconSource(no, type)">
         </span>
         <slot></slot>
@@ -80,20 +80,44 @@ export default {
             return withBase(`/images/items/${type}s/item_${type}_${no}.png`);
         },
         getIconSizeClass(size) {
+            console.log("getIconSizeClass:" + size)
             const SIZE_SMALL = 'small';
             const SIZE_MEDIUM = 'medium';
+            const SIZE_SMALL_CLASS = 'small';
+            const SIZE_MEDIUM_CLASS = 'medium';
 
-            let returnClass = ['icon', 'background-image'];
+            let returnClass = ['icon'];
 
             switch (size) {
                 case SIZE_SMALL:
-                    returnClass.push(SIZE_SMALL);
+                    returnClass.push(SIZE_SMALL_CLASS);
                     break;
                 case SIZE_MEDIUM:
-                    returnClass.push(SIZE_MEDIUM);
+                    returnClass.push(SIZE_MEDIUM_CLASS);
                     break;
                 default:
-                    returnClass.push(SIZE_SMALL);
+                    returnClass.push(SIZE_SMALL_CLASS);
+                    break;
+            }
+            return returnClass;
+        },
+        getIconBackgroundSizeClass(size) {
+            const SIZE_SMALL = 'small';
+            const SIZE_MEDIUM = 'medium';
+            const BACKGROUND_SIZE_SMALL_CLASS = 'bg-small';
+            const BACKGROUND_SIZE_MEDIUM_CLASS = 'bg-medium';
+
+            let returnClass = ['background-image'];
+
+            switch (size) {
+                case SIZE_SMALL:
+                    returnClass.push(BACKGROUND_SIZE_SMALL_CLASS);
+                    break;
+                case SIZE_MEDIUM:
+                    returnClass.push(BACKGROUND_SIZE_MEDIUM_CLASS);
+                    break;
+                default:
+                    returnClass.push(BACKGROUND_SIZE_SMALL_CLASS);
                     break;
             }
             return returnClass;
@@ -110,14 +134,18 @@ export default {
 <style scoped>
 .icon {
     /* Add dimensions to span */
-    display: inline-block;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    vertical-align: middle;
     z-index: 1;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 
 .background-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     z-index: -1;
 }
 
@@ -129,5 +157,15 @@ export default {
 .medium {
     width: 200px;
     height: 200px;
+}
+
+.bg-small {
+    width: 132px;
+    height: 132px;
+}
+
+.bg-medium {
+    width: 265px;
+    height: 265px;
 }
 </style>
