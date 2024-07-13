@@ -145,10 +145,10 @@ tags:
             <BadendIcon :no="6">生死簿 No.6</BadendIcon>
         </td>
         <td>
-            誰也別想欺負我<Girl2Icon>小師妹</Girl2Icon>
+            誰也別想欺負我<Girl0Icon>小師妹</Girl0Icon>
         </td>
         <td>
-            你為了捍衛<Girl2Icon>小師妹</Girl2Icon>，挺身而出做了一回英雄，<br>
+            你為了捍衛<Girl0Icon>小師妹</Girl0Icon>，挺身而出做了一回英雄，<br>
             縱使不為人知，亦死而無憾。
         </td>
         <td>
