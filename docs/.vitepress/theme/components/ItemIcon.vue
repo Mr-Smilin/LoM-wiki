@@ -80,7 +80,6 @@ export default {
             return withBase(`/images/items/${type}s/item_${type}_${no}.png`);
         },
         getIconSizeClass(size) {
-            console.log("getIconSizeClass:" + size)
             const SIZE_SMALL = 'small';
             const SIZE_MEDIUM = 'medium';
             const SIZE_SMALL_CLASS = 'small';
