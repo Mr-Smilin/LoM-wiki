@@ -4,7 +4,8 @@ tags:
     - 人物
 ---
 
-<BTable :tags="[
+<BTable searchMode="or"
+  :tags="[
     { text: '四川唐門'},
     { text: '飛石幫' },
     { text: '點蒼派' },
