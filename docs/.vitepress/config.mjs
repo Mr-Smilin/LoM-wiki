@@ -52,7 +52,7 @@ export default defineConfig({
 						text: "主支線簡易表格",
 						link: "/event/story-simple-table",
 					},
-					{ text: "風雲史(尚未編輯)", link: "no-page" },
+					{ text: "風雲史(成就)", link: "/event/achievement" },
 					{ text: "生死簿", link: "/ends/bad-end" },
 					{ text: "汗青書(尚未編輯)", link: "no-page" },
 				],
