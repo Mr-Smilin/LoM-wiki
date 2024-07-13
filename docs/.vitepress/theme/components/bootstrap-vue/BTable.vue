@@ -12,11 +12,16 @@
       </div>
     </div>
     <div v-if="!unsearch" class="search-container">
-      <input 
-        v-model="searchQuery" 
-        placeholder="搜索... (多個關鍵字用空格分隔)"
-        class="search-input"
-      />
+      <div class="search-input-wrapper">
+        <button @click="toggleSearchMode" class="search-mode-toggle">
+          {{ searchMode }}
+        </button>
+        <input 
+          v-model="searchQuery" 
+          placeholder="搜索... (多個關鍵字用空格分隔)"
+          class="search-input"
+        />
+      </div>
       <div class="selected-tags">
         <span 
           v-for="tag in selectedTags" 
@@ -80,7 +85,8 @@ const props = defineProps({
   table: { type: Array, default: () => [] },
   horizontal: { type: Boolean, default: false },
   unsearch: { type: Boolean, default: false },
-  tags: { type: Array, default: () => []}
+  tags: { type: Array, default: () => []},
+  searchMode: { type: String, default: 'and' }
 })
 
 // debug 工具
@@ -97,6 +103,7 @@ const sortOrder = ref('asc')
 
 // 查詢
 const searchQuery = ref('')
+const searchMode = ref(props.searchMode.toLowerCase())
 
 // 標籤
 const selectedTags = ref([])
@@ -239,7 +246,9 @@ const filteredAndSortedRows = computed(() => {
   if (searchQuery.value) {
     const keywords = searchQuery.value.toLowerCase().split(' ').filter(k => k)
     result = result.filter(row => 
-      keywords.every(keyword => searchInRow(row, keyword))
+    searchMode.value === 'and'
+        ? keywords.every(keyword => searchInRow(row, keyword))
+        : keywords.some(keyword => searchInRow(row, keyword))
     )
   }
 
@@ -298,6 +307,10 @@ function searchInRenderedContent(content, keyword) {
   }
   return false
 }
+
+function toggleSearchMode() {
+  searchMode.value = searchMode.value === 'and' ? 'or' : 'and'
+}
 //#endregion
 
 //#region 標籤
@@ -341,18 +354,17 @@ th {
 }
 
 .search-input {
-  max-width: 300px;
-  width: 100%;
+  flex-grow: 1;
   padding: 8px;
-  margin-top: 16px;
   font-size: 16px;
   border: 1px solid var(--vp-input-border-color);
-  border-radius: 4px;
+  border-left: none;
+  border-radius: 0 4px 4px 0;
   box-sizing: border-box;
   transition: border-color 0.25s;
 }
 
-.search-input:hover{
+.search-input:hover, .search-input:focus {
   border-color: var(--vp-c-brand-1);
 }
 
@@ -384,6 +396,50 @@ th {
 
 .search-container {
   position: relative;
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  width: 100%;
+  margin-top: 16px;
+}
+
+.search-input-wrapper {
+  display: flex;
+  align-items: stretch;
+  width: 100%;
+}
+
+.search-input {
+  flex-grow: 1;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid var(--vp-input-border-color);
+  border-left: none;
+  border-radius: 0 4px 4px 0;
+  box-sizing: border-box;
+  transition: border-color 0.25s;
+}
+
+.search-input:hover, .search-input:focus {
+  border-color: var(--vp-c-brand-1);
+}
+
+.search-mode-toggle {
+  padding: 0 8px;
+  background-color: var(--vp-c-brand);
+  color: var(--vp-c-bg);
+  border: none;
+  border-radius: 4px 0 0 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.2s;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+}
+
+.search-mode-toggle:hover {
+  background-color: var(--vp-c-brand-2);
 }
 
 .selected-tags {
@@ -391,6 +447,7 @@ th {
   flex-wrap: wrap;
   gap: 4px;
   margin-top: 8px;
+  width: 100%;
 }
 
 .selected-tag {
