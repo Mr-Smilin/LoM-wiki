@@ -91,11 +91,11 @@ tags:
 <td>飛石幫</td>
 </tr>
 <tr>
-<td>觀雲客</td>
+<td>[觀雲客](special202)</td>
 <td>點蒼派</td>
 </tr>
 <tr>
-<td>聽海生</td>
+<td>[聽海生](special202)</td>
 <td>點蒼派</td>
 </tr>
 <tr>
@@ -123,11 +123,11 @@ tags:
 <td>丐幫</td>
 </tr>
 <tr>
-<td>覺慧</td>
+<td>[覺慧](monk2)</td>
 <td>嵩山派</td>
 </tr>
 <tr>
-<td>釋明</td>
+<td>[釋明](special826)</td>
 <td>嵩山派</td>
 </tr>
 <tr>
