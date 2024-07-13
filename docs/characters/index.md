@@ -74,7 +74,7 @@ tags:
 <td>四川唐門</td>
 </tr>
 <tr>
-<td>許大鯨</td>
+<td>[許大鯨](big_shock1)</td>
 <td>四川唐門</td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ tags:
 <td>飛石幫</td>
 </tr>
 <tr>
-<td>石夫人</td>
+<td>[石夫人](special815)</td>
 <td>飛石幫</td>
 </tr>
 <tr>
