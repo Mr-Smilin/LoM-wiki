@@ -13,6 +13,13 @@ tags:
 
 # {{ $frontmatter.title }}
 
+:::danger 前方高能
+本列表頁具有嚴重劇透，若在意遊戲體驗被破壞者，請速速離開。
+:::
+
+防劇透唐嬌嬌鎮樓：
+<img height="300" width="300" src="/images/characters/big_trainee_girl_1/jojo.png">
+
 <BTable>
     <tr>
         <td>編號</td>
@@ -123,7 +130,10 @@ tags:
         <td id="風雲史-No.09">09</td>
         <td><AchievementIcon :size="`medium`" :no="`09`">展露頭角</AchievementIcon></td>
         <td>你在崆峒大試大出風頭，要不是臉，說不定老婆都有了。</td>
-        <td></td>
+        <td>
+            第二年留學比武連勝三場或<br>
+            第三場被乞丐狂犬之外的人打敗也可以獲得。
+        </td>
         <td></td>
         <td></td>
     </tr>
@@ -150,7 +160,11 @@ tags:
         <td id="風雲史-No.12">12</td>
         <td><AchievementIcon :size="`medium`" :no="`12`">雪山派大弟子</AchievementIcon></td>
         <td>兼，掌門伴侶。</td>
-        <td></td>
+        <td>
+            第二年好感度四星以上(建議五星)<br>
+            抵抗<Girl5Icon>夏侯蘭</Girl5Icon>傳功後，<br>
+            武林傳奇通關時保持心上人為<Girl5Icon>夏侯蘭</Girl5Icon>。
+        </td>
         <td></td>
         <td></td>
     </tr>
@@ -158,7 +172,10 @@ tags:
         <td id="風雲史-No.13">13</td>
         <td><AchievementIcon :size="`medium`" :no="`13`">唐門女婿</AchievementIcon></td>
         <td>千防萬防，家賊難防，想不到是你！</td>
-        <td></td>
+        <td>
+            第二年好感度四星以上(建議五星)<br>
+            武林傳奇通關時保持心上人為<Girl0Icon>小師妹</Girl0Icon>。
+        </td>
         <td></td>
         <td>~~教你監守自盜、監守自盜~~</td>
     </tr>
@@ -166,15 +183,22 @@ tags:
         <td id="風雲史-No.14">14</td>
         <td><AchievementIcon :size="`medium`" :no="`14`">忘憂俠侶</AchievementIcon></td>
         <td>走遍四方，行俠仗義，她愛煞了你的英雄氣概。</td>
+        <td>
+            第二年好感度四星以上(建議五星)<br>
+            觸發飛鴿傳書事件後，<br>
+            武林傳奇通關時保持心上人為<Girl8Icon>龍湘</Girl8Icon>。
+        </td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>~~說好了你要為我殺盡天下的雞，餐餐有雞腿~~</td>
     </tr>
     <tr>
         <td id="風雲史-No.15">15</td>
         <td><AchievementIcon :size="`medium`" :no="`15`">最後的暗器</AchievementIcon></td>
         <td>不可防禦，無法迴避，直憾心靈。</td>
-        <td></td>
+        <td>
+            未組建西武林盟，第四年一月下旬第一場戰鬥勝利(不可三師兄陣亡)，<br>
+            且成功與武林盟主決鬥(無關勝負)，即可取得。
+        </td>
         <td>中旬+1</td>
         <td>中旬+1 = 每月中旬行動次數+1</td>
     </tr>
@@ -182,7 +206,7 @@ tags:
         <td id="風雲史-No.16">16</td>
         <td><AchievementIcon :size="`medium`" :no="`16`">武林傳奇</AchievementIcon></td>
         <td>你成遂了兒時夢想，證明天棄如你，努力不懈也能有出息。</td>
-        <td></td>
+        <td>組建西武林盟，且戰勝武林盟主。</td>
         <td></td>
         <td></td>
     </tr>
@@ -190,7 +214,7 @@ tags:
         <td id="風雲史-No.17">17</td>
         <td><AchievementIcon :size="`medium`" :no="`17`">飛俠歸來</AchievementIcon></td>
         <td>他固有他的機緣，但若無你，飛俠歸來便遙遙無期。</td>
-        <td></td>
+        <td>在大師兄死後復活大師兄。</td>
         <td>下旬+1</td>
         <td>下旬+1 = 每月下旬行動次數+1</td>
     </tr>
