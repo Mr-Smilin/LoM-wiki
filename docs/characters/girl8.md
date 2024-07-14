@@ -32,11 +32,13 @@ borderless: false
         </ChTd>
       </ChTr>
       <ChTr>
-        <ChTd isTitle=true>
+        <ChTd isTitle=true position='center'>
           稱號
         </ChTd>
-        <ChTd>
-          錦香宮殺人魔、湘姊
+      </ChTr>
+      <ChTr>
+        <ChTd position='center'>
+          湘姊、||錦香宮殺人魔||、||雞腿俠||、||丐幫的行走錢包||
         </ChTd>
       </ChTr>
       <ChTr>
@@ -117,7 +119,9 @@ borderless: false
 
 > 「縱死俠骨香，不慚世上英。誰人書閣下，白首太玄雞。」
 
-~~雞腿俠，又名錦香宮殺人魔，丐幫的行走錢包。~~
+<MarkdownWrapper>||想搶我雞腿，就算是詩仙也絕不原諒！||</MarkdownWrapper>
+
+<br><br>
 
 錦香宮弟子，劍術高超，英姿颯爽。沿著生父的足跡遊歷江湖，並遵奉師命行俠仗義，見《惜花令》的風流惡棍便一劍除掉。
 
