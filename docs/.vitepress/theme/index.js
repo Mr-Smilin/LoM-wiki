@@ -31,6 +31,10 @@ import SpecialItemIcon from "./components/itemIcons/SpecialItemIcon.vue";
 import NewspaperItemIcon from "./components/itemIcons/NewspaperItemIcon.vue";
 import TeaItemIcon from "./components/itemIcons/TeaItemIcon.vue";
 import WineItemIcon from "./components/itemIcons/WineItemIcon.vue";
+// import AchievementIcon
+import AchievementIcon from "./components/AchievementIcon.vue";
+// import MoodIcon
+import MoodIcon from "./components/MoodIcon.vue";
 // tools
 import Tabs from "./components/tab/Tabs.vue";
 import Tab from "./components/tab/Tab.vue";
@@ -86,6 +90,10 @@ export default {
     app.component("NewspaperItemIcon", NewspaperItemIcon);
     app.component("TeaItemIcon", TeaItemIcon);
     app.component("WineItemIcon", WineItemIcon);
+    // AchievementIcon component
+    app.component("AchievementIcon", AchievementIcon);
+    // MoodIcon component
+    app.component("MoodIcon", MoodIcon);
 
 
     // tools

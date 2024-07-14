@@ -1,8 +1,5 @@
 <template>
-  <span 
-    :class="{'shary': isHighlighted}" 
-    v-html="compiledMarkdown"
-  ></span>
+  <span v-html="compiledMarkdown"></span>
 </template>
 
 <script setup>
@@ -19,19 +16,24 @@ const props = defineProps({
 const instance = getCurrentInstance();
 const slots = instance.slots;
 const compiledMarkdown = ref('');
-const isHighlighted = ref(false);
 
 const markedOptions = {
   breaks: true,
   gfm: true,
-  headerIds: false, 
-  mangle: false,   
+  headerIds: false,
+  mangle: false,
 };
 
 function removePTags(html) {
   html = html.replace(/^<p>/, '');
   html = html.replace(/<\/p>\s*$/, '');
   return html;
+}
+
+function processHighlights(html) {
+  return html.replace(/\|\|(.*?)\|\|/g, (match, p1) => {
+    return `<span class="shary" tabindex="0">${p1}</span>`;
+  });
 }
 
 watchEffect(() => {
@@ -43,16 +45,9 @@ watchEffect(() => {
       content = slots.default ? slots.default().map(node => node.children).join('').trim() : '';
     }
 
-    if (content.startsWith('||') && content.endsWith('||')) {
-      isHighlighted.value = true;
-      content = content.slice(2, -2);
-    } else {
-      isHighlighted.value = false;
-    }
-
     let rawHtml = marked(content, markedOptions);
     rawHtml = removePTags(rawHtml);
-    // compiledMarkdown.value = DOMPurify.sanitize(rawHtml);
+    rawHtml = processHighlights(rawHtml);
     compiledMarkdown.value = rawHtml;
   } catch (error) {
     console.error('Markdown parsing error:', error);
@@ -61,11 +56,13 @@ watchEffect(() => {
 });
 </script>
 
-<style scoped>
+<style>
 .shary {
   position: relative;
   cursor: pointer;
+  display: inline-block;
 }
+
 .shary::before {
   content: '';
   position: absolute;
@@ -76,7 +73,16 @@ watchEffect(() => {
   background-color: black;
   transition: opacity 0.3s ease;
 }
-.shary:hover::before {
-  opacity: 0.5;
+
+.shary:hover::before,
+.shary:focus::before,
+.shary:active::before {
+  opacity: 0;
+}
+
+@media (max-width: 768px) {
+  .shary:active::before {
+    opacity: 0;
+  }
 }
 </style>
