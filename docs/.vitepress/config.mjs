@@ -54,7 +54,7 @@ export default defineConfig({
 					},
 					{ text: "風雲史(成就)", link: "/event/achievement" },
 					{ text: "生死簿", link: "/ends/bad-end" },
-					{ text: "汗青書(尚未編輯)", link: "no-page" },
+					{ text: "汗青書(編輯中)", link: "/event/history" },
 				],
 			},
 			{
@@ -195,7 +195,7 @@ export default defineConfig({
 						{
 							text: "關於心相",
 							link: "/guide/mood",
-						}
+						},
 					],
 				},
 			],
