@@ -1,0 +1,14 @@
+---
+title: 南宮遠
+aside: false
+outline: [2, 3]
+sidebar: false
+borderless: false
+tags:
+    - 人物
+    - 南宮世家
+---
+
+# {{ $frontmatter.title }}
+
+<img src="/images/icon_under_construction.png" />

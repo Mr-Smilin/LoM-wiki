@@ -147,6 +147,10 @@ tags:
 <td>全真派</td>
 </tr>
 <tr>
+<td>[郝大通](other4)</td>
+<td>全真派</td>
+</tr>
+<tr>
 <td>[火龍仙君](special204)</td>
 <td>崆峒派 - 飛天門</td>
 </tr>
@@ -207,7 +211,7 @@ tags:
 <td>崆峒派 - 玄功門</td>
 </tr>
 <tr>
-<td>鄒博</td>
+<td>[鄒博](special201)</td>
 <td>青城派</td>
 </tr>
 <tr>
@@ -295,7 +299,7 @@ tags:
 <td>泥教</td>
 </tr>
 <tr>
-<td>趙逵</td>
+<td>[趙逵](special403)</td>
 <td>泥教</td>
 </tr>
 <tr>
