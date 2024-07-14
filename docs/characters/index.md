@@ -143,15 +143,15 @@ tags:
 <td>全真派</td>
 </tr>
 <tr>
-<td>丘處機</td>
+<td>[丘處機](special209)</td>
 <td>全真派</td>
 </tr>
 <tr>
-<td>火龍仙君</td>
+<td>[火龍仙君](special204)</td>
 <td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
-<td>金烏上人</td>
+<td>[金烏上人](special207)</td>
 <td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
@@ -163,15 +163,15 @@ tags:
 <td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
-<td>火閃電</td>
+<td>[火閃電](firebird1)</td>
 <td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
-<td>雷謙</td>
+<td>[雷謙](special804)</td>
 <td>崆峒派 - 鐵拳門</td>
 </tr>
 <tr>
-<td>孟瞋</td>
+<td>[孟瞋](other1)</td>
 <td>崆峒派 - 鐵拳門</td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ tags:
 <td>崆峒派 - 鐵拳門</td>
 </tr>
 <tr>
-<td>勾魂叟</td>
+<td>[勾魂叟](special806)</td>
 <td>崆峒派 - 奪魄門</td>
 </tr>
 <tr>
@@ -187,11 +187,11 @@ tags:
 <td>崆峒派 - 奪魄門</td>
 </tr>
 <tr>
-<td>余麟</td>
+<td>[余麟](other3)</td>
 <td>崆峒派 - 奪魄門</td>
 </tr>
 <tr>
-<td>第三香</td>
+<td>[第三香](special820)</td>
 <td>崆峒派 - 奪魄門</td>
 </tr>
 <tr>
@@ -199,11 +199,11 @@ tags:
 <td>崆峒派 - 玄功門</td>
 </tr>
 <tr>
-<td>呼延菊</td>
+<td>[呼延菊](special822)</td>
 <td>崆峒派 - 玄功門</td>
 </tr>
 <tr>
-<td>閻羅生</td>
+<td>[閻羅生](other2)</td>
 <td>崆峒派 - 玄功門</td>
 </tr>
 <tr>
