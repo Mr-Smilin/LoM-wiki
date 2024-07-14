@@ -229,13 +229,13 @@ const sortedRows = computed(() => {
 });
 
 function getCellSortValue(cell) {
-  if (cell.type === 'array') {
-    return cell.content
+  if (cell?.type === 'array') {
+    return cell?.content
       .filter(item => item.type === Symbol.for('v-txt'))
       .map(item => item.children)
       .join('')
   }
-  return String(cell.content)
+  return String(cell?.content)
 }
 //#endregion
 
