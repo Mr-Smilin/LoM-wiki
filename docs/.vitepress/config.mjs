@@ -192,6 +192,10 @@ export default defineConfig({
 							text: "關於投降",
 							link: "/guide/surrender",
 						},
+						{
+							text: "關於心相",
+							link: "/guide/mood",
+						}
 					],
 				},
 			],
