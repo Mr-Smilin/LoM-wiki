@@ -11,4 +11,4 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<img src="/images/icon_under construction.png" />
+<img src="/images/icon_under_construction.png" />
