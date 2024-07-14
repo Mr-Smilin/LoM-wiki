@@ -186,6 +186,33 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 若不確定物品的分類，請以圖片解包原名為主
 :::
 
+## 心相 Icon 懶人組件
+
+```
+<MoodIcon :mood="`high`">我是文字</MoodIcon>  
+<MoodIcon :mood="`good`">我是文字1/MoodIcon>  
+<MoodIcon >我是文字2</MoodIcon>  
+<MoodIcon :mood="`normal`">我是文字3</MoodIcon>  
+<MoodIcon :mood="`low`">我是文字4</MoodIcon>  
+<MoodIcon :mood="`bad`">我是文字5</MoodIcon>  
+<MoodIcon :mood="`bad`" :size="`medium`">我是文字6</MoodIcon>  
+<MoodIcon :mood="`bad`" :size="`small`">我是文字7</MoodIcon>  
+```
+**效果：**  
+<MoodIcon :mood="`high`">我是文字</MoodIcon>  
+<MoodIcon :mood="`good`">我是文字1</MoodIcon>  
+<MoodIcon >我是文字2</MoodIcon>  
+<MoodIcon :mood="`normal`">我是文字3</MoodIcon>  
+<MoodIcon :mood="`low`">我是文字4</MoodIcon>  
+<MoodIcon :mood="`bad`">我是文字5</MoodIcon>  
+<MoodIcon :mood="`bad`" :size="`medium`">我是文字6</MoodIcon>  
+<MoodIcon :mood="`bad`" :size="`small`">我是文字7</MoodIcon>
+
+### 可用屬性寫法
+| 屬性名稱 | 值                                                                | default    | require |
+|:-----|:-----------------------------------------------------------------|:-----------|:--------|
+| size | "\`medium\`" \| "\`small\`"                                      | "\`small\`" | x |
+| mood | "\`high\`" \| "\`good\`" \| "\`normal\`" \| "\`low\`" \| "\`bad\`" | "\`normal\`" |x |
 ## Markdown 外部解析工具
 
 用來主動解析被 html 包住的內容  
