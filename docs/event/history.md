@@ -14,14 +14,13 @@ tags:
 
 # {{ $frontmatter.title }}
 
-:::danger 前方高能
+::: danger 前方高能
 本列表頁具有嚴重劇透，若在意遊戲體驗被破壞者，請速速離開。
 :::
 
 ## 防劇透唐嬌嬌鎮樓
-<img height="300" width="300" src="/images/characters/big_trainee_girl_1/jojo.png">
 
-<div class="table-content">
+<img height="300" width="300" src="/images/characters/big_trainee_girl_1/jojo.png">
     
 ##汗青書 No.1 ~ 汗青書 No.10
 <table>
@@ -70,4 +69,3 @@ tags:
 ::: warning
 這個頁面還在施工中，敬請期待！
 :::
-
