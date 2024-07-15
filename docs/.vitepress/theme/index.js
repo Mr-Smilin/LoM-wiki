@@ -61,7 +61,22 @@ export default {
   Layout: MyLayout,
   enhanceApp({ app }) {
     // import 連結預覽
-    app.use(NolebaseInlineLinkPreviewPlugin, {
+    app.use(NolebaseInlineLinkPreviewPlugin);
+    app.provide(InjectionKey, {
+      popupWidth: 500,
+      popupHeight: 470,
+      locales: {
+        "zh-TW": {
+          popup: {
+            loading: "加載中...",
+            loadingAriaLabel: "加載中",
+            iframeAriaLabel: "連結預覽",
+          },
+        },
+      },
+    });
+    // import 歷史貢獻
+    app.use(NolebaseGitChangelogPlugin, {
       locales: {
         "zh-TW": {
           noLogs: "該文章無歷史貢獻",
@@ -78,21 +93,6 @@ export default {
         },
       },
     });
-    app.provide(InjectionKey, {
-      popupWidth: 500,
-      popupHeight: 470,
-      locales: {
-        "zh-TW": {
-          popup: {
-            loading: "加載中...",
-            loadingAriaLabel: "加載中",
-            iframeAriaLabel: "連結預覽",
-          },
-        },
-      },
-    });
-    // import 歷史貢獻
-    app.use(NolebaseGitChangelogPlugin);
     // import mock Bootstrap-vue
     app.component("BTable", BTable);
     // import CharacterTab Group

@@ -1,9 +1,16 @@
 <template>
-  <span v-html="compiledMarkdown"></span>
+  <div ref="containerRef">
+    <template v-for="(part, index) in compiledParts" :key="index">
+      <VPNolebaseInlineLinkPreview v-if="part?.type === 'link'" 
+        :href="part.href" 
+      >{{ part.text }}</VPNolebaseInlineLinkPreview>
+      <span v-else v-html="part"></span>
+    </template>
+  </div>
 </template>
 
 <script setup>
-import { ref, watchEffect, getCurrentInstance } from 'vue';
+import { ref, watchEffect, getCurrentInstance, onUnmounted, onMounted, nextTick } from 'vue';
 import { marked } from 'marked';
 
 const props = defineProps({
@@ -15,7 +22,8 @@ const props = defineProps({
 
 const instance = getCurrentInstance();
 const slots = instance.slots;
-const compiledMarkdown = ref('');
+const compiledParts = ref([]);
+const containerRef = ref(null);
 
 const markedOptions = {
   breaks: true,
@@ -36,25 +44,66 @@ function processHighlights(html) {
   });
 }
 
-watchEffect(() => {
-  try {
-    let content;
-    if (props.content !== null) {
-      content = props.content;
-    } else {
-      content = slots.default ? slots.default().map(node => node.children).join('').trim() : '';
-    }
+function processContent(html) {
+  const linkRegex = /<a\s+(?:[^>]*?\s+)?href="([^"]*)"[^>]*>(.*?)<\/a>/gi;
+  const parts = [];
+  let lastIndex = 0;
+  let match;
 
-    let rawHtml = marked(content, markedOptions);
-    rawHtml = removePTags(rawHtml);
-    rawHtml = processHighlights(rawHtml);
-    compiledMarkdown.value = rawHtml;
-  } catch (error) {
-    console.error('Markdown parsing error:', error);
-    compiledMarkdown.value = 'Error parsing markdown';
+  while ((match = linkRegex.exec(html)) !== null) {
+    if (match.index > lastIndex) {
+      parts.push(html.slice(lastIndex, match.index));
+    }
+    parts.push({
+      type: 'link',
+      href: match[1],
+      text: match[2]
+    });
+    lastIndex = linkRegex.lastIndex;
   }
+
+  if (lastIndex < html.length) {
+    parts.push(html.slice(lastIndex));
+  }
+
+  return parts;
+}
+
+let stopWatchEffect = null;
+
+onMounted(() => {
+  stopWatchEffect = watchEffect(() => {
+    if (!containerRef.value) return; // 確保容器元素存在
+
+    nextTick(() => {
+      try {
+        let content;
+        if (props.content !== null) {
+          content = props.content;
+        } else {
+          content = slots.default ? slots.default().map(node => node.children).join('').trim() : '';
+        }
+
+        let rawHtml = marked(content, markedOptions);
+        rawHtml = removePTags(rawHtml);
+        rawHtml = processHighlights(rawHtml);
+        compiledParts.value = processContent(rawHtml);
+      } catch (error) {
+        console.error('Markdown parsing error:', error);
+        compiledParts.value = ['Error parsing markdown'];
+      }
+    });
+  });
+});
+
+onUnmounted(() => {
+  if (stopWatchEffect) {
+    stopWatchEffect();
+  }
+  compiledParts.value = [];
 });
 </script>
+
 
 <style>
 .shary {
