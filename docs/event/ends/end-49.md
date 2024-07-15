@@ -15,15 +15,15 @@ tags:
 
 <table style="text-align:center;">
     <tr>
-        <td WIDTH=500 BGCOLOR="#dacbb2">
+        <td WIDTH=550 BGCOLOR="#dacbb2">
             <hr><br>
-            <font size="7" color="#a83232"> <strong>喪家之犬&emsp;&emsp;</strong></font>
+            <font size="7" color="#a83232"><strong>&emsp;&emsp;喪家之犬&emsp;&emsp;</strong></font>
             <br>
             <br>
             <font size="5" color="000000">
             <strong>
-            你有一間房子可以遮風避雨，但以沒有故<br>
-            鄉能夠回去．<br>
+            &emsp;&emsp;&emsp;你有一間房子可以遮風避雨，但已沒有故&emsp;&emsp;&emsp;<br>
+            &emsp;&emsp;&emsp;鄉能夠回去．<br>
             <br>
             <br>
             <br>
