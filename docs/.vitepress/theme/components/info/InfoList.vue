@@ -20,12 +20,15 @@ defineProps({
   height: auto; 
   word-break: break-all;
   margin-top: 20px;
+  max-height: 500px;
+  overflow: hidden;
+  overflow-y: auto;
 }
 
 
 @media screen and (min-width: 768px) {
   .floating-div {
-    width: 25%; 
+    width: 33.33%; 
     min-width: 150px;  
     max-width: 300px;  
   }
