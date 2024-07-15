@@ -13,7 +13,7 @@ tags:
 
 # 夢境心上人
 
-<BTable>
+<BTable :stickyHeader=true>
     <tr>
         <td :unsortable=true>對應對象</td>
         <td>官方編號</td>
