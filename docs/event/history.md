@@ -58,7 +58,7 @@ tags:
         </td>
         <td>
             <!-- 達成條件 -->
-            <font color=#FF0000>目前版本無法達成</font>
+            <font color=#FF0000>【目前版本無法達成】</font>
         </td>
         <td>
             <!-- 差分 -->
@@ -83,7 +83,7 @@ tags:
         </td>
         <td>
             <!-- 達成條件 -->
-            <font color=#FF0000>目前版本無法達成</font>
+            <font color=#FF0000>【目前版本無法達成】</font>
         </td>
         <td>
             <!-- 差分 -->
@@ -108,7 +108,7 @@ tags:
         </td>
         <td>
             <!-- 達成條件 -->
-            <font color=#FF0000>目前版本無法達成</font>
+            <font color=#FF0000>【目前版本無法達成】</font>
         </td>
         <td>
             <!-- 差分 -->
@@ -133,7 +133,7 @@ tags:
         </td>
         <td>
             <!-- 達成條件 -->
-            <font color=#FF0000>目前版本無法達成</font><br>
+            <font color=#FF0000>【目前版本無法達成】</font><br>
             Demo版結局，連續四個月在月考核貢獻時，貢獻值＜-50．
             但目前正式版只會有兩次月考和貢獻．
         </td>
@@ -263,7 +263,7 @@ tags:
         </td>
         <td>
             <!-- 備註 -->
-            <font color=#FF0000>此結局女角門很慘．</font><br>
+            <font color=#FF0000>此結局女角很慘．</font><br>
             小師妹目前唯二會死的情況．
         </td>
     </tr>
