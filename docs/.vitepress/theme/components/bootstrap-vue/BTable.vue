@@ -166,7 +166,9 @@ const displayedRows = computed(() => {
 }
 
 .sticky-header{
-  max-height: calc(90vh - var(--vp-nav-height));
+    display:flex;
+    flex-direction: column;
+    max-height: calc(90vh - var(--vp-nav-height));
 }
 
 .sticky-header table {
