@@ -17,19 +17,18 @@ tags:
     <tr>
         <td WIDTH=500 BGCOLOR="#dacbb2">
             <hr><br>
-            <b>
-            <font size="7" color="#a83232" face="標楷體">喪家之犬&emsp;&emsp;</font>
+            <font size="7" color="#a83232"> <strong>喪家之犬&emsp;&emsp;</strong></font>
             <br>
             <br>
-            <br>
-            <font size="5" color="000000" face="標楷體">
+            <font size="5" color="000000">
+            <strong>
             你有一間房子可以遮風避雨，但以沒有故<br>
             鄉能夠回去．<br>
             <br>
             <br>
             <br>
+            </strong>
             </font>
-            </b>
             <hr>
         </td>
     </tr>
