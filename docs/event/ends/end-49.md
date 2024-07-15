@@ -14,11 +14,11 @@ tags:
 # {{ $frontmatter.title }}
 <Table>
     <tr>
-        <td WIDTH=100% BGCOLOR=#eadac1>
+        <td WIDTH=600 BGCOLOR="#eadac1" align='center'>
             <hr><br>
-            <font size=7 color=#a83232>回歸隱居</font>
+            <font size="7" color="#a83232" face="標楷體">喪家之犬&emsp;&emsp;</font>
+            <font size="5" color face="標楷體">
             <br>
-            <font size=5>
             你有一間房子可以遮風避雨，但以沒有故<br>
             鄉能夠回去．<br>
             <br>
