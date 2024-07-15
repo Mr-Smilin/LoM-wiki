@@ -1,7 +1,7 @@
 <template>
-    <a v-if="href" :href="href">
+    <VPNolebaseInlineLinkPreview v-if="href" :href="href">
         <span :class=getIconSizeClass(size) :style="getIconSource(character)"></span><slot></slot>
-    </a>
+    </VPNolebaseInlineLinkPreview>
     <span v-else><span :class=getIconSizeClass(size) :style="getIconSource(character)"></span><slot></slot></span>
 </template>
 
