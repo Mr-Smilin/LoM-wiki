@@ -1,5 +1,11 @@
 import { defineConfig } from "vitepress";
+// 連結預覽
 import { InlineLinkPreviewElementTransform } from "@nolebase/vitepress-plugin-inline-link-preview/markdown-it";
+// 歷史貢獻
+import {
+	GitChangelog,
+	GitChangelogMarkdownSection,
+} from "@nolebase/vitepress-plugin-git-changelog/vite";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -289,6 +295,17 @@ export default defineConfig({
 			// };
 			// 連結預覽
 			md.use(InlineLinkPreviewElementTransform);
+		},
+	},
+	vite: {
+		plugins: [
+			GitChangelog({
+				repoURL: () => "https://github.com/Mr-Smilin/LoM-wiki",
+			}),
+			GitChangelogMarkdownSection(),
+		],
+		ssr: {
+			noExternal: ["@nolebase/*"],
 		},
 	},
 });

@@ -9,6 +9,9 @@ import {
   InjectionKey,
 } from "@nolebase/vitepress-plugin-inline-link-preview/client";
 import "@nolebase/vitepress-plugin-inline-link-preview/client/style.css";
+// import 歷史貢獻
+import { NolebaseGitChangelogPlugin } from "@nolebase/vitepress-plugin-git-changelog/client";
+import "@nolebase/vitepress-plugin-git-changelog/client/style.css";
 // import CharacterTab Group
 import CharacterTabs from "./components/character/CharacterTabs.vue";
 import CharacterTab from "./components/character/CharacterTab.vue";
@@ -58,29 +61,38 @@ export default {
   Layout: MyLayout,
   enhanceApp({ app }) {
     // import 連結預覽
-    app.use(NolebaseInlineLinkPreviewPlugin);
-    app.provide(InjectionKey, {
-      popupWidth: 500,
-      popupHeight: 470,
+    app.use(NolebaseInlineLinkPreviewPlugin, {
       locales: {
-        popup: {
-          loading: "加載中...",
-          loadingAriaLabel: "加載中",
-        },
         "zh-TW": {
-          popup: {
-            loading: "加載中...",
-            loadingAriaLabel: "加載中",
+          noLogs: "該文章無歷史貢獻",
+          noContributors: "該文章無貢獻者",
+          viewFullHistory: "查看完整歷史貢獻",
+          changelog: {
+            title: "歷史貢獻",
+            noData: "無歷史貢獻",
           },
-        },
-        en: {
-          popup: {
-            loading: "Loading...",
-            loadingAriaLabel: "Loading",
+          contributors: {
+            title: "貢獻者",
+            noData: "無貢獻者",
           },
         },
       },
     });
+    app.provide(InjectionKey, {
+      popupWidth: 100,
+      popupHeight: 100,
+      locales: {
+        "zh-TW": {
+          popup: {
+            loading: "加載中...",
+            loadingAriaLabel: "加載中",
+            iframeAriaLabel: "連結預覽",
+          },
+        },
+      },
+    });
+    // import 歷史貢獻
+    app.use(NolebaseGitChangelogPlugin);
     // import mock Bootstrap-vue
     app.component("BTable", BTable);
     // import CharacterTab Group
