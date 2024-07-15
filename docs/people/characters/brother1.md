@@ -6,7 +6,7 @@ tags:
 aside: false
 ---
 
-![唐布衣](/images/people/characters/faction/icon_brother1.png)
+![唐布衣](/images/characters/faction/icon_brother1.png)
 
 # 飛俠 唐布衣
 

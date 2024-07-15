@@ -45,15 +45,15 @@ export default {
 
             const SOURCE_MAP = {
                 [CHAR_BADEND]: `url('${withBase(`/images/generic/icon_badend.jpg`)}')`,
-                [CHAR_GIRL_0]: `url('${withBase(`/images/people/characters/girl_0/icon_girl0.png`)}')`,
-                [CHAR_GIRL_1]: `url('${withBase(`/images/people/characters/girl_1/icon_girl1.png`)}')`,
-                [CHAR_GIRL_2]: `url('${withBase(`/images/people/characters/girl_2/icon_girl2.png`)}')`,
-                [CHAR_GIRL_3]: `url('${withBase(`/images/people/characters/girl_3/icon_girl3.png`)}')`,
-                [CHAR_GIRL_4]: `url('${withBase(`/images/people/characters/girl_4/icon_girl4.png`)}')`,
-                [CHAR_GIRL_5]: `url('${withBase(`/images/people/characters/girl_5/icon_girl5.png`)}')`,
-                [CHAR_GIRL_6]: `url('${withBase(`/images/people/characters/girl_6/icon_girl6.png`)}')`,
-                [CHAR_GIRL_7]: `url('${withBase(`/images/people/characters/girl_7/icon_girl7.png`)}')`,
-                [CHAR_GIRL_8]: `url('${withBase(`/images/people/characters/girl_8/icon_girl8.png`)}')`
+                [CHAR_GIRL_0]: `url('${withBase(`/images/characters/girl_0/icon_girl0.png`)}')`,
+                [CHAR_GIRL_1]: `url('${withBase(`/images/characters/girl_1/icon_girl1.png`)}')`,
+                [CHAR_GIRL_2]: `url('${withBase(`/images/characters/girl_2/icon_girl2.png`)}')`,
+                [CHAR_GIRL_3]: `url('${withBase(`/images/characters/girl_3/icon_girl3.png`)}')`,
+                [CHAR_GIRL_4]: `url('${withBase(`/images/characters/girl_4/icon_girl4.png`)}')`,
+                [CHAR_GIRL_5]: `url('${withBase(`/images/characters/girl_5/icon_girl5.png`)}')`,
+                [CHAR_GIRL_6]: `url('${withBase(`/images/characters/girl_6/icon_girl6.png`)}')`,
+                [CHAR_GIRL_7]: `url('${withBase(`/images/characters/girl_7/icon_girl7.png`)}')`,
+                [CHAR_GIRL_8]: `url('${withBase(`/images/characters/girl_8/icon_girl8.png`)}')`
             };
 
             // check key exists in map

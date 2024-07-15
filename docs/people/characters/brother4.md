@@ -6,7 +6,7 @@ tags:
 aside: false
 ---
 
-![唐惟元](/images/people/characters/faction/icon_brother4.png)
+![唐惟元](/images/characters/faction/icon_brother4.png)
 
 # 四師兄 唐惟元
 

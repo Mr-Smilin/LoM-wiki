@@ -6,7 +6,7 @@ tags:
 aside: false
 ---
 
-![唐陞](/images/people/characters/faction/icon_brother3.png)
+![唐陞](/images/characters/faction/icon_brother3.png)
 
 # 三師兄 唐陞
 

@@ -9,7 +9,7 @@ tags:
 aside: false
 ---
 
-![夏侯蘭](/images/people/characters/girl_5/icon_girl5.png)
+![夏侯蘭](/images/characters/girl_5/icon_girl5.png)
 
 # 奪魄幽蘭 夏侯蘭
 

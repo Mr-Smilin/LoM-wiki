@@ -6,7 +6,7 @@ tags:
 aside: false
 ---
 
-![唐中翎](/images/people/characters/faction/icon_master.png)
+![唐中翎](/images/characters/faction/icon_master.png)
 
 # 唐門掌門 唐中翎
 

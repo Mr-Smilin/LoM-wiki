@@ -7,7 +7,7 @@ tags:
 aside: false
 ---
 
-![唐默鈴](/images/people/characters/girl_0/icon_girl0.png)
+![唐默鈴](/images/characters/girl_0/icon_girl0.png)
 
 # 小師妹 唐默鈴
 

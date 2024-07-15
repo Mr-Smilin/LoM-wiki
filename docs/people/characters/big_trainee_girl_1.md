@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
   <ChTab title="唐嬌嬌">
     <ChBg
-      src='/images/people/characters/big_trainee_girl_1/normal.png' 
+      src='/images/characters/big_trainee_girl_1/normal.png' 
       position='right'/>
     <ChName nameZh='唐嬌嬌' nameEn='Tang Jiao Jiao' position='right' />
     <ChTable>
@@ -48,7 +48,7 @@ tags:
   </ChTab>
   <ChTab title="JOJO立">
     <ChBg 
-      src='/images/people/characters/big_trainee_girl_1/jojo.png' 
+      src='/images/characters/big_trainee_girl_1/jojo.png' 
       position='right'
       :animation=true />
     <ChName

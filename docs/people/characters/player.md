@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
   <ChTab title="趙活">
     <ChBg
-      src='/images/people/characters/player/normal.png' 
+      src='/images/characters/player/normal.png' 
       position='right'/>
     <ChName nameZh='趙活' nameEn='Zhao Huo' position='right' />
     <ChTable>

@@ -11,7 +11,7 @@ borderless: false
 <ChTabs position="bottom">
   <ChTab title="龍湘">
     <ChBg
-      src='/images/people/characters/girl_8/normal.png' 
+      src='/images/characters/girl_8/normal.png' 
       position='right'/>
     <ChName nameZh='龍湘' nameEn='Long Xiang' position='right' />
     <ChTable>
@@ -70,7 +70,7 @@ borderless: false
   </ChTab>
   <ChTab title="吃雞腿">
     <ChBg 
-      src='/images/people/characters/girl_8/girl8_drumstick.png' 
+      src='/images/characters/girl_8/girl8_drumstick.png' 
       position='right'
       :animation=true />
     <ChName
@@ -78,7 +78,7 @@ borderless: false
       nameEn='Chī jītuǐ'/>
   </ChTab>
   <ChTab title="大笑">
-    <ChBg src='/images/people/characters/girl_8/laugh2.png'
+    <ChBg src='/images/characters/girl_8/laugh2.png'
           position='right'
           :animation=true />
     <ChName 
@@ -86,7 +86,7 @@ borderless: false
       nameEn='大笑'/>
   </ChTab>
   <ChTab title="戰鬥">
-    <ChBg src='/images/people/characters/girl_8/angry3.png'
+    <ChBg src='/images/characters/girl_8/angry3.png'
           position='right'
           :animation=true />
     <ChName 

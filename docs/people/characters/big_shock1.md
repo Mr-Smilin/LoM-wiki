@@ -14,7 +14,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="許大鯨">
-		<ChBg src='/images/people/characters/big_shock1/normal.png' position='right'/>
+		<ChBg src='/images/characters/big_shock1/normal.png' position='right'/>
 		<ChName nameZh='許大鯨' nameEn='Xu Da Jing' position='right' />
 		<ChTable>
 			<ChTr>

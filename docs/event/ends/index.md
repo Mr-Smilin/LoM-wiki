@@ -20,7 +20,7 @@ tags:
 
 ## 防劇透唐嬌嬌鎮樓
 
-<img height="300" width="300" src="/images/people/characters/big_trainee_girl_1/jojo.png">
+<img height="300" width="300" src="/images/characters/big_trainee_girl_1/jojo.png">
     
 ## 汗青書 No.1 ~ 汗青書 No.10
 <table>

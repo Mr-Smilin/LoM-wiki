@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
   <ChTab title="唐小樓">
     <ChBg
-      src='/images/people/characters/aunt2/normal.png' 
+      src='/images/characters/aunt2/normal.png' 
       position='right'/>
     <ChName nameZh='唐小樓' nameEn='Tang Xiao Lou' position='right' />
     <ChTable>

@@ -6,7 +6,7 @@ tags:
 aside: false
 ---
 
-![唐錚](/images/people/characters/faction/icon_brother2.png)
+![唐錚](/images/characters/faction/icon_brother2.png)
 
 # 二師兄 唐錚
 

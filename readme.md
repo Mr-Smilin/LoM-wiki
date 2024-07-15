@@ -43,39 +43,44 @@ npm run dev
 ├── backup
 │         └── en
 ├── docs
-│         ├── books
-│         ├── characters
 │         ├── develop
 │         ├── en
-│         ├── ends
 │         ├── event
-│         ├── mechanism
+│         │         ├── achivement
+│         │         ├── dead
+│         │         └── ends
 │         ├── other
+│         │         ├── guide
+│         │         │         └── mechanism
 │         │         └── news
 │         ├── people
-│         └── public
-│             ├── images
-│             │         ├── characters
-│             │         │         ├── girl_0
-│             │         │         ├── girl_1
-│             │         │         ├── girl_2
-│             │         │         ├── girl_3
-│             │         │         ├── girl_4
-│             │         │         ├── girl_5
-│             │         │         ├── girl_6
-│             │         │         ├── girl_7
-│             │         │         └── girl_8
-│             │         ├── develop
-│             │         ├── generic
-│             │         │         ├── achievement_icon
-│             │         │         ├── background
-│             │         │         └── face_icon
-│             │         ├── index
-│             │         └── items
-│             │                   ├── books
-│             │                   └── specials
-│             │
-│             └── json
+│         │         └── characters
+│         ├── public
+│         │         ├── images
+│         │         │         ├── characters
+│         │         │         │         ├── girl_0
+│         │         │         │         ├── girl_1
+│         │         │         │         ├── girl_2
+│         │         │         │         ├── girl_3
+│         │         │         │         ├── girl_4
+│         │         │         │         ├── girl_5
+│         │         │         │         ├── girl_6
+│         │         │         │         ├── girl_7
+│         │         │         │         └── girl_8
+│         │         │         ├── develop
+│         │         │         ├── generic
+│         │         │         │         ├── achievement_icon
+│         │         │         │         ├── background
+│         │         │         │         └── face_icon
+│         │         │         ├── index
+│         │         │         └── items
+│         │         │                   ├── books
+│         │         │                   └── specials
+│         │         │
+│         │         └── json
+│         └── system
+│                   ├── books
+│                   └── items
 ├── node_modules
 └── tools
 ```
@@ -86,21 +91,31 @@ npm run dev
 
 ### `./docs` 存放各類別的文檔，md 檔案、開發用的資料文件都會放在這裡。
 
-`./docs/books` 存放武學列表及武學頁面。  
-`./docs/characters` 存放人物列表及人物頁面。  
-`./docs/develop` 存放開發文件，開發導覽、開發工具、開發規範等。  
-`./docs/en` 英文版文檔。  
-`./docs/end` 生死簿資料。
-`./docs/event` 存放事件相關資料。  
-`./docs/mechanism` 存放遊戲機制資料。  
-`./docs/other` 存放其他類別的資料，如資料來源等。  
-`./docs/other/news` 存放官方更新資料。
-`./docs/people` 存放舊版人物資料，後續預計搬移到`./docs/characters`中。
+`./docs/en` 英文版文檔。
+
+其餘同 `navbar` 一級分類
+
+人物 - `./docs/people` 存放人物類別資料，如心上人、稱號等。  
+系統 - `./docs/system` 存放系統類別資料，如門派設施、秘笈列表等。  
+事件 - `./docs/event` 存放事件類別資料，如主支線年表、生死簿等。  
+其他 - `./docs/other` 存放其他類別資料，如官方更新、遊戲指南等。  
+協助編輯 - `./docs/develop` 存放開發文件，開發導覽、開發工具、開發規範等。
+
+二級分類同 `navbar` 子分類
+
+`./docs/people/characters` 存放人物列表及人物頁面。  
+`./docs/system/books` 存放武學列表及武學頁面。  
+`./docs/system/items` 存放道具列表資料。  
+`./docs/event/dead` 生死簿資料。  
+`./docs/event/ends` 汗青書資料。  
+`./docs/other/news` 存放官方更新資料。  
+`./docs/other/guide` 存放遊戲指南。  
+`./docs/other/guide/mechanism` 存放遊戲機制資料。
 
 #### `./docs/public` 存放公共資源，如圖片、JSON 檔案等。
 
 `./docs/public/images` 存放圖片  
-`./docs/public/images/people/characters` 存放人物圖片(具體會再往下一層, 依據角色做分類)  
+`./docs/public/images/characters` 存放人物圖片(具體會再往下一層, 依據角色做分類)  
 `./docs/public/images/develop` 存放開發文件用圖片  
 `./docs/public/images/generic` 存放一般用圖片  
 `./docs/public/images/index` 存放首頁用圖片  
