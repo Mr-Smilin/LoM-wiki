@@ -165,16 +165,6 @@ const displayedRows = computed(() => {
   overflow-x: auto;
 }
 
-.sticky-header{
-    display:flex;
-    flex-direction: column;
-    max-height: calc(90vh - var(--vp-nav-height));
-}
-
-.sticky-header table {
-  overflow-y: auto;
-}
-
 table {
   width: 100%;
   border-collapse: collapse;
@@ -191,6 +181,15 @@ th {
 }
 
 @media screen and (min-width: 768px) {
+    .sticky-header{
+        display:flex;
+        flex-direction: column;
+        max-height: calc(90vh - var(--vp-nav-height));
+    }
+
+    .sticky-header table {
+        overflow-y: auto;
+    }
   table.horizontal {
     display: grid;
     grid-auto-flow: column;
