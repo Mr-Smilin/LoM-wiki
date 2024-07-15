@@ -1,5 +1,5 @@
 <template>
-  <div class="table-container">
+  <div class="table-container" :class="{'sticky-header': stickyHeader}">
     <BTableSearch 
       v-if="!unsearch" 
       v-model:searchQuery="searchQuery"
@@ -8,7 +8,7 @@
       :rows="sortedRows"
       @filtered-rows="handleFilteredRows"
     />
-    <table :class="{ 'horizontal': horizontal, 'sticky-header': stickyHeader }">
+    <table :class="{ 'horizontal': horizontal }">
       <BTableHeader 
         :headers="headers" 
         :sort-key="sortKey"
@@ -165,9 +165,12 @@ const displayedRows = computed(() => {
   overflow-x: auto;
 }
 
-.sticky-header {
+.sticky-header{
+  max-height: calc(90vh - var(--vp-nav-height));
+}
+
+.sticky-header table {
   overflow-y: auto;
-  max-height: calc(100vh - var(--vp-nav-height));
 }
 
 table {
