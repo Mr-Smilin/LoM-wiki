@@ -21,6 +21,8 @@ tags:
 ## 防劇透唐嬌嬌鎮樓
 
 <img height="300" width="300" src="/images/characters/big_trainee_girl_1/jojo.png">
+
+
     
 ## 汗青書 No.1 ~ 汗青書 No.10
 <table>
@@ -1442,3 +1444,53 @@ tags:
 ::: warning
 這個頁面還在施工中，敬請期待！
 :::
+<br>
+::: warning
+以下重製中
+:::
+
+<BTable :stickyHeader=true>
+    <tr>
+        <td>
+            <b>
+                結局編號
+            </b>
+        </td>
+        <td>
+            <b>
+                結局名稱
+            </b>
+        </td>
+        <td>
+            <b>
+                結局概要
+            </b>
+        </td>
+    </tr>
+    <tr>
+        <td id="汗青書-No.">
+            <!-- 結局編號 -->
+            結局
+        </td>
+        <td font color=#a83232>
+            <!-- 結局名稱 -->
+        </td>
+        <td>
+            <!-- 結局概要 -->
+        </td>
+    </tr>
+    <tr>
+        <td id="汗青書-No.49">
+            <!-- 結局編號 -->
+            結局49
+        </td>
+        <td font color=#a83232>
+            <!-- 結局名稱 -->
+            [喪家之犬](end-49)
+        </td>
+        <td>
+            <!-- 結局概要 -->
+            東西武林交戰，敗給南宮深後，被南宮深救出．
+        </td>
+    </tr>
+</BTable>
