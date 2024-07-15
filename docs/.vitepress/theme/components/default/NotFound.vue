@@ -25,7 +25,7 @@ export default {
             contents: [
                 {
                     name: '葉小妹',
-                    image: withBase(`/images/characters/girl_2/gloomy2.png`),
+                    image: withBase(`/images/people/characters/girl_2/gloomy2.png`),
                     mainMessage: "抱歉，葉小妹找不到你要的頁面。",
                     subMessage: "醒醒吧肥仔～找不到就自己動手做啊～",
                     customButton: {
@@ -36,7 +36,7 @@ export default {
                 },
                 {
                     name: '雞腿俠',
-                    image: withBase(`/images/characters/girl_8/girl8_drumstick.png`),
+                    image: withBase(`/images/people/characters/girl_8/girl8_drumstick.png`),
                     mainMessage: "抱歉，龍湘把你要的頁面當雞腿吃了。",
                     subMessage: "龍湘開心地望著你，希望你還能提供更多雞腿。",
                     customButton: {

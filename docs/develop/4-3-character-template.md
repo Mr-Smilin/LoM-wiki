@@ -21,7 +21,7 @@ tags:
 <br><br>
 
 <div style="text-align: center;">
-  <img src="/images/characters/girl_8/icon_drumstick.png" style="display: block; margin: 0 auto;" />
+  <img src="/images/people/characters/girl_8/icon_drumstick.png" style="display: block; margin: 0 auto;" />
   <p>感謝龍湘擔任本頁展示用模特</p>
 </div>
 
@@ -95,12 +95,12 @@ tags:
 <ChTabs>
     <ChTab title="我是第一頁">
         <ChBg
-        src='/images/characters/girl_8/normal.png'
+        src='/images/people/characters/girl_8/normal.png'
         position='right'/>
     </ChTab>
     <ChTab title="切換我的圖片有動畫載入">
         <ChBg
-        src='/images/characters/girl_8/girl8_drumstick.png'
+        src='/images/people/characters/girl_8/girl8_drumstick.png'
         position='center'
         :animation=true />
     </ChTab>
@@ -112,12 +112,12 @@ tags:
 <ChTabs>
     <ChTab title="我是第一頁">
         <ChBg
-        src='/images/characters/girl_8/normal.png'
+        src='/images/people/characters/girl_8/normal.png'
         position='right'/>
     </ChTab>
     <ChTab title="切換我的圖片有動畫載入">
         <ChBg
-        src='/images/characters/girl_8/girl8_drumstick.png'
+        src='/images/people/characters/girl_8/girl8_drumstick.png'
         position='center'
         :animation=true />
     </ChTab>
@@ -257,7 +257,7 @@ tags:
         nameEn='Long Xiang'
         position='right'/>
         <ChBg
-        src='/images/characters/girl_8/normal.png'
+        src='/images/people/characters/girl_8/normal.png'
         position='right'/>
         <ChTable
         :table="[
@@ -277,7 +277,7 @@ tags:
     </ChTab>
     <ChTab title="吃雞腿">
         <ChBg
-        src='/images/characters/girl_8/girl8_drumstick.png'
+        src='/images/people/characters/girl_8/girl8_drumstick.png'
         position='center'
         :animation=true />
     </ChTab>
@@ -293,7 +293,7 @@ tags:
         nameEn='Long Xiang'
         position='right'/>
         <ChBg
-        src='/images/characters/girl_8/normal.png'
+        src='/images/people/characters/girl_8/normal.png'
         position='right'/>
         <ChTable
         :table="[
@@ -313,7 +313,7 @@ tags:
     </ChTab>
     <ChTab title="吃雞腿">
         <ChBg
-        src='/images/characters/girl_8/girl8_drumstick.png'
+        src='/images/people/characters/girl_8/girl8_drumstick.png'
         position='center'
         :animation=true />
     </ChTab>

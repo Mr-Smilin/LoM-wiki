@@ -30,22 +30,22 @@ export default defineConfig({
 			{
 				text: "人物",
 				items: [
-					{ text: "人物列表", link: "/characters/" },
+					{ text: "人物列表", link: "/people/characters/" },
 					{ text: "夢境心上人", link: "/people/dream-sweetheart" },
 					{ text: "稱號列表", link: "/people/title-list" },
 				],
-				activeMatch: "/characters/",
+				activeMatch: "/people/",
 			},
 			{
 				text: "系統",
 				items: [
-					{ text: "門派設施", link: "/event/facility" },
-					{ text: "秘笈列表", link: "/books" },
+					{ text: "門派設施", link: "/system/facility" },
+					{ text: "秘笈列表", link: "/system/books" },
 					{ text: "技能效果(尚未編輯)", link: "no-page" },
-					{ text: "道具列表", link: "/items" },
-					{ text: "養成指令", link: "/event/develop" },
+					{ text: "道具列表(尚未編輯)", link: "/system/items" },
+					{ text: "養成指令", link: "/system/develop" },
 				],
-				activeMatch: "/books/",
+				activeMatch: "/system/",
 			},
 			{
 				text: "事件",
@@ -59,15 +59,16 @@ export default defineConfig({
 						link: "/event/story-simple-table",
 					},
 					{ text: "風雲史(成就)", link: "/event/achievement" },
-					{ text: "生死簿", link: "/ends/bad-end" },
-					{ text: "汗青書(編輯中)", link: "/event/history" },
+					{ text: "生死簿", link: "/event/dead" },
+					{ text: "汗青書(編輯中)", link: "/event/ends" },
 				],
+				activeMatch: "/event/",
 			},
 			{
 				text: "其他",
 				items: [
 					{ text: "官方更新", link: "/other/news" },
-					{ text: "遊戲指南(施工中)", link: "/guide/1-game-objective" },
+					{ text: "遊戲指南(施工中)", link: "/other/guide/1-game-objective" },
 					{
 						text: "拆包資料",
 						items: [
@@ -184,11 +185,11 @@ export default defineConfig({
 					items: [
 						{
 							text: "遊戲目標",
-							link: "/guide/1-game-objective",
+							link: "/other/guide/1-game-objective",
 						},
 						{
 							text: "一開始應該做些甚麼？",
-							link: "/guide/2-how-to-start",
+							link: "/other/guide/2-how-to-start",
 						},
 						{
 							text: "關於心上人",
@@ -196,11 +197,11 @@ export default defineConfig({
 						},
 						{
 							text: "關於投降",
-							link: "/guide/surrender",
+							link: "/other/guide/mechanism/surrender",
 						},
 						{
 							text: "關於心相",
-							link: "/guide/mood",
+							link: "/other/guide/mechanism/mood",
 						},
 					],
 				},

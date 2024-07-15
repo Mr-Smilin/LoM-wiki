@@ -23,18 +23,21 @@ npm run dev
 往後執行只需 `npm run dev`
 
 ## 快速開始 | Quick Start
-1. 以下操作預設從本專案根目錄開始，若不是，請切換到該目錄。  
+
+1. 以下操作預設從本專案根目錄開始，若不是，請切換到該目錄。
 2. 以下指令皆在終端機執行，執行複製`./backup/dev-clean-template.md`到`./docs/<your-md-file-class>/<your-md-file-name>.md`
     ```shell
     cp ./backup/dev-clean-template.md ./docs/<your-md-file-class>/<your-md-file-name>.md
     ```
-3. 使用你順手的IDE編輯`./docs/<your-md-file-class>/<your-md-file-name>.md`
-4. 存檔, 提交commit, 推送到`Github Pull Request`, 等待審核。
+3. 使用你順手的 IDE 編輯`./docs/<your-md-file-class>/<your-md-file-name>.md`
+4. 存檔, 提交 commit, 推送到`Github Pull Request`, 等待審核。
 5. 審核通過後，合併到主分支，若部署成功，網站即會更新。
-6. 上[活俠傳Wiki](https://smilin.net/LoM-wiki/)看看你的貢獻有多棒！
+6. 上[活俠傳 Wiki](https://smilin.net/LoM-wiki/)看看你的貢獻有多棒！
 
 ## 檔案結構 | File Structure
+
 本專案的檔案結構如下：
+
 ```
 .
 ├── backup
@@ -71,15 +74,18 @@ npm run dev
 │             │         └── items
 │             │                   ├── books
 │             │                   └── specials
-│             │         
+│             │
 │             └── json
 ├── node_modules
 └── tools
 ```
-### `./backup` 存放各版本的備份文件、模板文件等。  
-`./backup/en` 存放國際版的備份文件、模板文件等。 
 
-### `./docs` 存放各類別的文檔，md檔案、開發用的資料文件都會放在這裡。  
+### `./backup` 存放各版本的備份文件、模板文件等。
+
+`./backup/en` 存放國際版的備份文件、模板文件等。
+
+### `./docs` 存放各類別的文檔，md 檔案、開發用的資料文件都會放在這裡。
+
 `./docs/books` 存放武學列表及武學頁面。  
 `./docs/characters` 存放人物列表及人物頁面。  
 `./docs/develop` 存放開發文件，開發導覽、開發工具、開發規範等。  
@@ -89,20 +95,21 @@ npm run dev
 `./docs/mechanism` 存放遊戲機制資料。  
 `./docs/other` 存放其他類別的資料，如資料來源等。  
 `./docs/other/news` 存放官方更新資料。
-`./docs/people` 存放舊版人物資料，後續預計搬移到`./docs/characters`中。    
+`./docs/people` 存放舊版人物資料，後續預計搬移到`./docs/characters`中。
 
-#### `./docs/public` 存放公共資源，如圖片、JSON檔案等。  
+#### `./docs/public` 存放公共資源，如圖片、JSON 檔案等。
+
 `./docs/public/images` 存放圖片  
-`./docs/public/images/characters` 存放人物圖片(具體會再往下一層, 依據角色做分類)  
-`./docs/public/images/develop` 存放開發文件用圖片    
+`./docs/public/images/people/characters` 存放人物圖片(具體會再往下一層, 依據角色做分類)  
+`./docs/public/images/develop` 存放開發文件用圖片  
 `./docs/public/images/generic` 存放一般用圖片  
 `./docs/public/images/index` 存放首頁用圖片  
 `./docs/public/images/items` 存放物品圖片, 會依據類別做分類  
-`./docs/public/json` 存放JSON檔案  
+`./docs/public/json` 存放 JSON 檔案
 
-### `./node_modules` 存放npm模組, 一般為npm自行創建, 不會隨著你的commit提交, 也不會、不應讓你去修改它。  
+### `./node_modules` 存放 npm 模組, 一般為 npm 自行創建, 不會隨著你的 commit 提交, 也不會、不應讓你去修改它。
+
 ### `./tools` 存放開發打包工具
-
 
 ## 國際化 | i18n
 

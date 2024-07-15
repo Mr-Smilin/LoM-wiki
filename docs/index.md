@@ -15,7 +15,7 @@ hero:
           link: /wiki-list
         - theme: alt
           text: 遊戲指南
-          link: /guide/1-game-objective.md
+          link: /other/guide/1-game-objective.md
         - theme: alt
           text: 遊戲下載
           link: https://store.steampowered.com/app/1859910/_/

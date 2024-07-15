@@ -186,12 +186,12 @@ hello `行內純文字塊`test
 
 ```markdown
 ![趙活的圖片,完整路徑](https://i.imgur.com/WlPuE8U.png)
-![龍湘大頭貼, 相對路徑](/images/characters/girl_8/icon_girl8.png)
+![龍湘大頭貼, 相對路徑](/images/people/characters/girl_8/icon_girl8.png)
 ```
 
 **效果：**  
 ![趙活的圖片,完整路徑](https://i.imgur.com/WlPuE8U.png)
-![龍湘大頭貼, 相對路徑](/images/characters/girl_8/icon_girl8.png)
+![龍湘大頭貼, 相對路徑](/images/people/characters/girl_8/icon_girl8.png)
 
 ::: tip
 注：本地圖片放在`docs/public`下時，網址請使用相對路徑。  
