@@ -46,7 +46,7 @@ export default defineComponent({
         // default link if no href is given
         return {
             size: size.value,
-            href: withBase(`/characters/${CHARACTER}`),
+            href: withBase(`/people/characters/${CHARACTER}`),
             character: CHARACTER
         }
     }
