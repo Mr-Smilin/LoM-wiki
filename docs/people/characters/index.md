@@ -7,7 +7,7 @@ tags:
     - 人物
 ---
 
-<BTable searchMode="or"
+<BTable :stickyHeader=true searchMode="or"
   :tags="[
     { text: '四川唐門'},
     { text: '飛石幫' },
