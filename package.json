@@ -1,7 +1,4 @@
 {
-  "devDependencies": {
-    "vitepress": "^1.2.3"
-  },
   "name": "lom-wiki",
   "version": "1.2.0",
   "main": "index.js",
@@ -16,6 +13,8 @@
     "docs:preview": "vitepress preview docs --port 4173"
   },
   "dependencies": {
+    "@nolebase/vitepress-plugin-git-changelog": "^2.2.2",
+    "@nolebase/vitepress-plugin-inline-link-preview": "^2.2.0",
     "algoliasearch": "^4.24.0",
     "axios": "^1.7.2",
     "birpc": "^0.2.17",
@@ -47,6 +46,7 @@
     "tabbable": "^6.2.0",
     "twikoo": "^1.6.36",
     "vite": "^5.3.2",
+    "vitepress": "^1.2.3",
     "vue": "^3.4.31"
   },
   "author": "mr-smilin",
