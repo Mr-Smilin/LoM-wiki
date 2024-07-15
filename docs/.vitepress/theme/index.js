@@ -3,6 +3,12 @@ import DefaultTheme from "vitepress/theme";
 import MyLayout from "./components/MyLayout.vue";
 // import mock Bootstrap-vue
 import BTable from "./components/bootstrap-vue/BTable.vue";
+// import 連結預覽
+import {
+  NolebaseInlineLinkPreviewPlugin,
+  InjectionKey,
+} from "@nolebase/vitepress-plugin-inline-link-preview/client";
+import "@nolebase/vitepress-plugin-inline-link-preview/client/style.css";
 // import CharacterTab Group
 import CharacterTabs from "./components/character/CharacterTabs.vue";
 import CharacterTab from "./components/character/CharacterTab.vue";
@@ -51,6 +57,30 @@ export default {
   // 使用注入插槽的包装组件覆盖 Layout
   Layout: MyLayout,
   enhanceApp({ app }) {
+    // import 連結預覽
+    app.use(NolebaseInlineLinkPreviewPlugin);
+    app.provide(InjectionKey, {
+      popupWidth: 500,
+      popupHeight: 470,
+      locales: {
+        popup: {
+          loading: "加載中...",
+          loadingAriaLabel: "加載中",
+        },
+        "zh-TW": {
+          popup: {
+            loading: "加載中...",
+            loadingAriaLabel: "加載中",
+          },
+        },
+        en: {
+          popup: {
+            loading: "Loading...",
+            loadingAriaLabel: "Loading",
+          },
+        },
+      },
+    });
     // import mock Bootstrap-vue
     app.component("BTable", BTable);
     // import CharacterTab Group
@@ -94,7 +124,6 @@ export default {
     app.component("AchievementIcon", AchievementIcon);
     // MoodIcon component
     app.component("MoodIcon", MoodIcon);
-
 
     // tools
     app.component("Tabs", Tabs);

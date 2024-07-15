@@ -1,5 +1,5 @@
 import { defineConfig } from "vitepress";
-// import markdownItContainer from "markdown-it-container";
+import { InlineLinkPreviewElementTransform } from "@nolebase/vitepress-plugin-inline-link-preview/markdown-it";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -238,6 +238,8 @@ export default defineConfig({
 		outline: {
 			label: "頁面導航",
 		},
+
+		externalLinkIcon: true,
 	},
 	locales: {
 		root: {
@@ -267,24 +269,26 @@ export default defineConfig({
 			inlineTags: [],
 		},
 		config: (md) => {
-			const defaultRender =
-				md.renderer.rules.html_block ||
-				function (tokens, idx, options, env, self) {
-					return self.renderToken(tokens, idx, options);
-				};
-			md.renderer.rules.html_block = function (
-				tokens,
-				idx,
-				options,
-				env,
-				self
-			) {
-				const content = tokens[idx].content;
-				if (content.includes("<MarkdownWrapper")) {
-					return content;
-				}
-				return defaultRender(tokens, idx, options, env, self);
-			};
+			// const defaultRender =
+			// 	md.renderer.rules.html_block ||
+			// 	function (tokens, idx, options, env, self) {
+			// 		return self.renderToken(tokens, idx, options);
+			// 	};
+			// md.renderer.rules.html_block = function (
+			// 	tokens,
+			// 	idx,
+			// 	options,
+			// 	env,
+			// 	self
+			// ) {
+			// 	const content = tokens[idx].content;
+			// 	if (content.includes("<MarkdownWrapper")) {
+			// 		return content;
+			// 	}
+			// 	return defaultRender(tokens, idx, options, env, self);
+			// };
+			// 連結預覽
+			md.use(InlineLinkPreviewElementTransform);
 		},
 	},
 });
