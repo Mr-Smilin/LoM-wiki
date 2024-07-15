@@ -1,16 +1,14 @@
 <template>
-  <div ref="containerRef">
-    <template v-for="(part, index) in compiledParts" :key="index">
-      <VPNolebaseInlineLinkPreview v-if="part?.type === 'link'" 
-        :href="part.href" 
-      >{{ part.text }}</VPNolebaseInlineLinkPreview>
-      <span v-else v-html="part"></span>
-    </template>
-  </div>
+  <template v-for="(part, index) in compiledParts" :key="index">
+    <VPNolebaseInlineLinkPreview v-if="part?.type === 'link'" 
+      :href="part.href" 
+    >{{ part.text }}</VPNolebaseInlineLinkPreview>
+    <span v-else v-html="part"></span>
+  </template>
 </template>
 
 <script setup>
-import { ref, watchEffect, getCurrentInstance, onUnmounted, onMounted, nextTick } from 'vue';
+import { ref, watchEffect, getCurrentInstance } from 'vue';
 import { marked } from 'marked';
 
 const props = defineProps({
@@ -23,7 +21,6 @@ const props = defineProps({
 const instance = getCurrentInstance();
 const slots = instance.slots;
 const compiledParts = ref([]);
-const containerRef = ref(null);
 
 const markedOptions = {
   breaks: true,
@@ -69,38 +66,23 @@ function processContent(html) {
   return parts;
 }
 
-let stopWatchEffect = null;
-
-onMounted(() => {
-  stopWatchEffect = watchEffect(() => {
-    if (!containerRef.value) return; // 確保容器元素存在
-
-    nextTick(() => {
-      try {
-        let content;
-        if (props.content !== null) {
-          content = props.content;
-        } else {
-          content = slots.default ? slots.default().map(node => node.children).join('').trim() : '';
-        }
-
-        let rawHtml = marked(content, markedOptions);
-        rawHtml = removePTags(rawHtml);
-        rawHtml = processHighlights(rawHtml);
-        compiledParts.value = processContent(rawHtml);
-      } catch (error) {
-        console.error('Markdown parsing error:', error);
-        compiledParts.value = ['Error parsing markdown'];
+watchEffect(() => {
+    try {
+      let content;
+      if (props.content !== null) {
+        content = props.content;
+      } else {
+        content = slots.default ? slots.default().map(node => node.children).join('').trim() : '';
       }
-    });
-  });
-});
 
-onUnmounted(() => {
-  if (stopWatchEffect) {
-    stopWatchEffect();
-  }
-  compiledParts.value = [];
+      let rawHtml = marked(content, markedOptions);
+      rawHtml = removePTags(rawHtml);
+      rawHtml = processHighlights(rawHtml);
+      compiledParts.value = processContent(rawHtml);
+    } catch (error) {
+      console.error('Markdown parsing error:', error);
+      compiledParts.value = ['Error parsing markdown'];
+    }
 });
 </script>
 
