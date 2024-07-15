@@ -1,5 +1,8 @@
 ---
 title: 人物列表
+aside: false
+sidebar: false
+borderless: false
 tags:
     - 人物
 ---
