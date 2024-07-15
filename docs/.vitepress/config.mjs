@@ -245,7 +245,7 @@ export default defineConfig({
 			label: "頁面導航",
 		},
 
-		externalLinkIcon: true,
+		externalLinkIcon: false, // 外部連結標示
 	},
 	locales: {
 		root: {
