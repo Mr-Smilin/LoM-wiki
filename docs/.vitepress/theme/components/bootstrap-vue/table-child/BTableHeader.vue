@@ -1,5 +1,5 @@
 <template>
-    <thead>
+    <thead :class="{ 'sticky': sticky }">
         <tr>
             <th v-for="header in headers" :key="header.key" @click="handleSort(header)">
                 <span>{{ header.label }}</span>
@@ -20,7 +20,8 @@ import BTableSortIcon from './BTableSortIcon.vue'
 const props = defineProps({
     headers: Array,
     sortKey: String,
-    sortOrder: String
+    sortOrder: String,
+    sticky: Boolean
 })
 
 const emit = defineEmits(['sort'])
@@ -31,3 +32,11 @@ function handleSort(header) {
     }
 }
 </script>
+
+<style scoped>
+.sticky {
+  position: sticky;
+  top: -1px;
+  z-index: 1;
+}
+</style>

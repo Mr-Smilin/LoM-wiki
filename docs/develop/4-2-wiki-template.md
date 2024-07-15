@@ -189,30 +189,33 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 ## 心相 Icon 懶人組件
 
 ```
-<MoodIcon :mood="`high`">我是文字</MoodIcon>  
-<MoodIcon :mood="`good`">我是文字1/MoodIcon>  
-<MoodIcon >我是文字2</MoodIcon>  
-<MoodIcon :mood="`normal`">我是文字3</MoodIcon>  
-<MoodIcon :mood="`low`">我是文字4</MoodIcon>  
-<MoodIcon :mood="`bad`">我是文字5</MoodIcon>  
-<MoodIcon :mood="`bad`" :size="`medium`">我是文字6</MoodIcon>  
-<MoodIcon :mood="`bad`" :size="`small`">我是文字7</MoodIcon>  
+<MoodIcon :mood="`high`">我是文字</MoodIcon>
+<MoodIcon :mood="`good`">我是文字1/MoodIcon>
+<MoodIcon >我是文字2</MoodIcon>
+<MoodIcon :mood="`normal`">我是文字3</MoodIcon>
+<MoodIcon :mood="`low`">我是文字4</MoodIcon>
+<MoodIcon :mood="`bad`">我是文字5</MoodIcon>
+<MoodIcon :mood="`bad`" :size="`medium`">我是文字6</MoodIcon>
+<MoodIcon :mood="`bad`" :size="`small`">我是文字7</MoodIcon>
 ```
+
 **效果：**  
 <MoodIcon :mood="`high`">我是文字</MoodIcon>  
-<MoodIcon :mood="`good`">我是文字1</MoodIcon>  
-<MoodIcon >我是文字2</MoodIcon>  
-<MoodIcon :mood="`normal`">我是文字3</MoodIcon>  
-<MoodIcon :mood="`low`">我是文字4</MoodIcon>  
-<MoodIcon :mood="`bad`">我是文字5</MoodIcon>  
-<MoodIcon :mood="`bad`" :size="`medium`">我是文字6</MoodIcon>  
-<MoodIcon :mood="`bad`" :size="`small`">我是文字7</MoodIcon>
+<MoodIcon :mood="`good`">我是文字 1</MoodIcon>  
+<MoodIcon >我是文字 2</MoodIcon>  
+<MoodIcon :mood="`normal`">我是文字 3</MoodIcon>  
+<MoodIcon :mood="`low`">我是文字 4</MoodIcon>  
+<MoodIcon :mood="`bad`">我是文字 5</MoodIcon>  
+<MoodIcon :mood="`bad`" :size="`medium`">我是文字 6</MoodIcon>  
+<MoodIcon :mood="`bad`" :size="`small`">我是文字 7</MoodIcon>
 
 ### 可用屬性寫法
-| 屬性名稱 | 值                                                                | default    | require |
-|:-----|:-----------------------------------------------------------------|:-----------|:--------|
-| size | "\`medium\`" \| "\`small\`"                                      | "\`small\`" | x |
-| mood | "\`high\`" \| "\`good\`" \| "\`normal\`" \| "\`low\`" \| "\`bad\`" | "\`normal\`" |x |
+
+| 屬性名稱 | 值                                                                 | default      | require |
+| :------- | :----------------------------------------------------------------- | :----------- | :------ |
+| size     | "\`medium\`" \| "\`small\`"                                        | "\`small\`"  | x       |
+| mood     | "\`high\`" \| "\`good\`" \| "\`normal\`" \| "\`low\`" \| "\`bad\`" | "\`normal\`" | x       |
+
 ## Markdown 外部解析工具
 
 用來主動解析被 html 包住的內容  
@@ -273,6 +276,15 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 
     -   `text` <Badge type="danger" text="必填" /> ：標籤文字
     -   `icon`：標籤 icon
+
+4.  `searchMode`：設定搜尋的類型
+
+    -   `and` <Badge type="warning" text="默認值" /> ：交集查詢
+    -   `or`：聯集查詢
+
+5.  `:stickyHeader`：設定表頭凍結
+    -   `true`：啟用凍結
+    -   `false` <Badge type="warning" text="默認值" /> ：關閉凍結
 
 第一行(標題) `td` 提供屬性如以下：
 
@@ -383,67 +395,3 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
     <td>Macdonald</td>
   </tr>
 </BTable>
-
-<br>
-
-除了原始 HTML 表格，另外接受 `Attribute` 方式帶入
-
--   `:field` <Badge type="danger" text="必填" /> ：設定 table 的標題欄位
--   `:table` <Badge type="danger" text="必填" /> ：設定 table 的內容
-
-```Markdown
-<BTable
-  :field="[{
-      key: 'age',
-      label: '年齡'
-    },{
-      key: 'first_name',
-      label: '姓'
-    },{
-      key: 'last_name',
-      label: '名',
-      unsortable: true
-    }
-    ]"
-  :table="[{
-    age: '40',
-    first_name: 'Dickerson',
-    last_name: 'Macdonald',
-    _attributes: { style: 'background-color: #f0f0f0; color: black;' },
-    _cellAttributes: {
-    first_name: { style: 'color: red;' }
-    }
-    },
-    { age: '21', first_name: 'Larsen', last_name: 'Shaw' }
-  ]"
-  :unsearch=true
-/>
-
-```
-
-<BTable
-  :field="[{
-      key: 'age',
-      label: '年齡'
-    },{
-      key: 'first_name',
-      label: '姓'
-    },{
-      key: 'last_name',
-      label: '名',
-      unsortable: true
-    }
-    ]"
-  :table="[{
-    age: '40',
-    first_name: 'Dickerson',
-    last_name: 'Macdonald',
-    _attributes: { style: 'background-color: #f0f0f0; color: black;' },
-    _cellAttributes: {
-    first_name: { style: 'color: red;' }
-    }
-    },
-    { age: '21', first_name: 'Larsen', last_name: 'Shaw' }
-  ]"
-  :unsearch=true
-/>

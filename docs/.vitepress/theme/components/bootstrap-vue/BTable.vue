@@ -8,11 +8,12 @@
       :rows="sortedRows"
       @filtered-rows="handleFilteredRows"
     />
-    <table :class="{ 'horizontal': horizontal }">
+    <table :class="{ 'horizontal': horizontal, 'sticky-header': stickyHeader }">
       <BTableHeader 
         :headers="headers" 
         :sort-key="sortKey"
         :sort-order="sortOrder"
+        :sticky="stickyHeader"
         @sort="handleSort"
       />
       <BTableBody 
@@ -30,12 +31,11 @@ import BTableBody from './table-child/BTableBody.vue'
 import BTableSearch from './table-child/BTableSearch.vue'
 
 const props = defineProps({
-  field: { type: Array, default: () => [] },
-  table: { type: Array, default: () => [] },
   horizontal: { type: Boolean, default: false },
   unsearch: { type: Boolean, default: false },
   tags: { type: Array, default: () => []},
-  searchMode: { type: String, default: 'and' }
+  searchMode: { type: String, default: 'and' },
+  stickyHeader: { type: Boolean, default: false }
 })
 
 // debug 工具
@@ -160,6 +160,16 @@ const filteredAndSortedRows = computed(() => {
 </script>
 
 <style scoped>
+.table-container {
+  /* width: 100%; */
+  overflow-x: auto;
+}
+
+.sticky-header {
+  overflow-y: auto;
+  max-height: calc(100vh - var(--vp-nav-height));
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
