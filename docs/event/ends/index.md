@@ -1453,20 +1453,14 @@ tags:
 
 <BTable :stickyHeader=true>
     <tr>
-        <td>
-            <b>
-                結局編號
-            </b>
+        <td>            
+                結局編號            
         </td>
         <td :unsortable=true>
-            <b>
-                結局名稱
-            </b>
+                結局名稱            
         </td>
-        <td :unsortable=true>
-            <b>
+        <td :unsortable=true>            
                 結局概要
-            </b>
         </td>
     </tr>
     <tr>
