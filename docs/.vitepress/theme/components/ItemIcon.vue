@@ -1,10 +1,10 @@
 <template>
-    <a v-if="needLink" :href="getItemPageUrl(no, type)" class="inline">
+    <VPNolebaseInlineLinkPreview v-if="needLink" :href="getItemPageUrl(no, type)" class="inline">
         <!--  using span to show item background -->
         <span :class=getIconBackgroundSizeClass(size) :style="getIconBackgroundSource()">
             <div :class=getIconSizeClass(size) :style="getLinkedIconSourceStyle(no, type)" ></div>
         </span><slot></slot>
-    </a>
+    </VPNolebaseInlineLinkPreview>
     <span v-else class="inline">
         <span :class=getIconBackgroundSizeClass(size) :style="getIconBackgroundSource()">
             <img :class=getIconSizeClass(size)  :src="getIconSource(no, type)">
