@@ -360,8 +360,6 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
   </tr>
 </BTable>
 
-### BTable 進階用法
-
 <br>
 
 `BTable` 內的 `<tr>` `<td>` 屬性皆會保留

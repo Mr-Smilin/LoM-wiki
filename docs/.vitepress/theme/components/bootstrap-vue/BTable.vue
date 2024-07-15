@@ -17,7 +17,7 @@
         @sort="handleSort"
       />
       <BTableBody 
-        :rows="filteredAndSortedRows"
+        :rows="displayedRows"
         :headers="headers"
       />
     </table>
@@ -152,8 +152,8 @@ function handleFilteredRows(rows) {
   filteredRows.value = rows
 }
 
-const filteredAndSortedRows = computed(() => {
-  return filteredRows.value
+const displayedRows = computed(() => {
+  return props.unsearch ? sortedRows.value : filteredRows.value
 })
 //#endregion
 
