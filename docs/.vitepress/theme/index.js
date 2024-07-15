@@ -79,8 +79,8 @@ export default {
       },
     });
     app.provide(InjectionKey, {
-      popupWidth: 100,
-      popupHeight: 100,
+      popupWidth: 500,
+      popupHeight: 470,
       locales: {
         "zh-TW": {
           popup: {
