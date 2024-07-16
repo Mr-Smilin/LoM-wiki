@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import {defineComponent, toRefs, useSlots} from 'vue'
+import {defineComponent, toRefs} from 'vue'
 import {withBase} from "vitepress";
 
 export default defineComponent({

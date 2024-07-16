@@ -3,10 +3,8 @@
 </template>
 
 <script>
-import ItemIcon from "../ItemIcon.vue";
 
 export default {
-    components: {ItemIcon},
     props: {
         size: {
             type: String,

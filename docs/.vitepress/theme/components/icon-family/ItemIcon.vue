@@ -1,13 +1,13 @@
 <template>
-    <VPNolebaseInlineLinkPreview v-if="needLink" :href="getItemPageUrl(no, type)" class="inline">
+    <VPNolebaseInlineLinkPreview v-if="needLink" :href="getItemPageUrl(no, typeAttr.type, typeAttr.prefix)" class="inline">
         <!--  using span to show item background -->
         <span :class=getIconBackgroundSizeClass(size) :style="getIconBackgroundSource()">
-            <div :class=getIconSizeClass(size) :style="getLinkedIconSourceStyle(no, type)" ></div>
+            <div :class=getIconSizeClass(size) :style="getLinkedIconSourceStyle(no, typeAttr.type)" ></div>
         </span><slot></slot>
     </VPNolebaseInlineLinkPreview>
     <span v-else class="inline">
         <span :class=getIconBackgroundSizeClass(size) :style="getIconBackgroundSource()">
-            <img :class=getIconSizeClass(size)  :src="getIconSource(no, type)">
+            <img :class=getIconSizeClass(size)  :src="getIconSource(no, typeAttr.type)">
         </span>
         <slot></slot>
     </span>
@@ -15,6 +15,13 @@
 
 <script>
 import {withBase} from "vitepress";
+
+const typeMap = {
+    'book': {
+        type: 'book',
+        prefix: '/system',
+    }
+}
 
 export default {
     props: {
@@ -38,37 +45,42 @@ export default {
         },
         type: {
             type: String,
-            validator: function (value) {
-                // Only allow specific icon types
-                return [
-                    'bag',
-                    'book',
-                    'box',
-                    'crane',
-                    'draw',
-                    'food',
-                    'jade',
-                    'letter',
-                    'medicineBottle',
-                    'moneyBag',
-                    'newspaper',
-                    'paper',
-                    'special',
-                    'sword',
-                    'tea',
-                    'toilet',
-                    'toy',
-                    'wine',
-                    'woodSword'
-                ].indexOf(value) !== -1
-            },
+            // validator: function (value) {
+            //     // Only allow specific icon types
+            //     return [
+            //         'bag',
+            //         'book',
+            //         'box',
+            //         'crane',
+            //         'draw',
+            //         'food',
+            //         'jade',
+            //         'letter',
+            //         'medicineBottle',
+            //         'moneyBag',
+            //         'newspaper',
+            //         'paper',
+            //         'special',
+            //         'sword',
+            //         'tea',
+            //         'toilet',
+            //         'toy',
+            //         'wine',
+            //         'woodSword'
+            //     ].indexOf(value) !== -1
+            // },
             default: 'book',
         }
     },
+    computed: {
+        typeAttr(){
+            return typeMap[this.type] || { type: this.type, prefix: '' };
+        }
+    },
     methods: {
-        getItemPageUrl(no, type){
+        getItemPageUrl(no, type, prefix){
             // this requires the same format for ItemPages
-            return withBase(`/system/${type}s/${type}_${no}`);
+            return withBase(`${prefix}/${type}s/${type}_${no}`);
         },
         getIconBackgroundSource() {
             return {
