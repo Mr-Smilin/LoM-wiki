@@ -18,7 +18,6 @@
       />
       <BTableBody 
         :rows="displayedRows"
-        :headers="headers"
       />
     </table>
   </div>
