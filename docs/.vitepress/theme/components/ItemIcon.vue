@@ -68,7 +68,7 @@ export default {
     methods: {
         getItemPageUrl(no, type){
             // this requires the same format for ItemPages
-            return withBase(`/${type}s/${type}_${no}`);
+            return withBase(`/system/${type}s/${type}_${no}`);
         },
         getIconBackgroundSource() {
             return {
