@@ -69,8 +69,7 @@
         "container": [
             { "icon": "<img src=\"https://i.imgur.com/GPWSvAG.png\">", "text": "girl7_special1" },
             { "icon": "<img src=\"https://i.imgur.com/PCeOxek.png\">", "text": "girl7_special2" },
-            { "icon": "<img src=\"https://i.imgur.com/PS5e9TM.png\">", "text": "girl7_shy" },
-            { "icon": "<img src=\"https://i.imgur.com/PS5e9TM.png\">", "text": "girl5_angry1" }
+            { "icon": "<img src=\"https://i.imgur.com/PS5e9TM.png\">", "text": "girl7_shy" }
         ]
     },
     "魏菊":{

@@ -1,5 +1,5 @@
 <template>
-    <VPNolebaseInlineLinkPreview v-if="needLink" :href="getItemPageUrl(no, type)" class="inline">
+    <VPNolebaseInlineLinkPreview v-if="needLink" :href="getItemPageUrl(no, type, getPrefixByType())" class="inline">
         <!--  using span to show item background -->
         <span :class=getIconBackgroundSizeClass(size) :style="getIconBackgroundSource()">
             <div :class=getIconSizeClass(size) :style="getLinkedIconSourceStyle(no, type)" ></div>
@@ -15,7 +15,6 @@
 
 <script>
 import {withBase} from "vitepress";
-
 export default {
     props: {
         size: {
@@ -38,37 +37,37 @@ export default {
         },
         type: {
             type: String,
-            validator: function (value) {
-                // Only allow specific icon types
-                return [
-                    'bag',
-                    'book',
-                    'box',
-                    'crane',
-                    'draw',
-                    'food',
-                    'jade',
-                    'letter',
-                    'medicineBottle',
-                    'moneyBag',
-                    'newspaper',
-                    'paper',
-                    'special',
-                    'sword',
-                    'tea',
-                    'toilet',
-                    'toy',
-                    'wine',
-                    'woodSword'
-                ].indexOf(value) !== -1
-            },
+            // validator: function (value) {
+            //     // Only allow specific icon types
+            //     return [
+            //         'bag',
+            //         'book',
+            //         'box',
+            //         'crane',
+            //         'draw',
+            //         'food',
+            //         'jade',
+            //         'letter',
+            //         'medicineBottle',
+            //         'moneyBag',
+            //         'newspaper',
+            //         'paper',
+            //         'special',
+            //         'sword',
+            //         'tea',
+            //         'toilet',
+            //         'toy',
+            //         'wine',
+            //         'woodSword'
+            //     ].indexOf(value) !== -1
+            // },
             default: 'book',
         }
     },
     methods: {
-        getItemPageUrl(no, type){
+        getItemPageUrl(no, type, prefix){
             // this requires the same format for ItemPages
-            return withBase(`/${type}s/${type}_${no}`);
+            return withBase(`${prefix}/${type}s/${type}_${no}`);
         },
         getIconBackgroundSource() {
             return {
@@ -125,6 +124,13 @@ export default {
             return {
                 backgroundImage: `url('${this.getIconSource(no, type)}')`
             };
+        },
+        getPrefixByType(){
+            const prefixMap = {
+                'book': '/system'
+            };
+
+            return prefixMap.hasOwnProperty(this.type) ? prefixMap[this.type] : '';
         }
     }
 };

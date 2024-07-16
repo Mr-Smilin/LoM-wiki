@@ -1,0 +1,64 @@
+---
+title: 汗青書49：喪家之犬
+description: 汗青書49：喪家之犬。
+aside: true
+outline: [2, 3]
+sidebar: true
+borderless: false
+tags:
+    - ends
+    - 汗青書
+    - 結局
+    - 喪家之犬
+---
+
+# {{ $frontmatter.title }}
+
+<table style="text-align:center;">
+    <tr>
+        <td WIDTH=565 BGCOLOR="#dacbb2">
+            <hr><br>
+            <font size="7" color="#a83232"><strong>&emsp;&emsp;喪家之犬&emsp;&emsp;</strong></font>
+            <br>
+            <br>
+            <font size="5" color="000000">
+            <strong>
+            &emsp;&emsp;你有一間房子可以遮風避雨，但已沒有故<br>
+            &emsp;&emsp;鄉能夠回去．<br>
+            <br>
+            <br>
+            <br>
+            </strong>
+            </font>
+            <hr>
+        </td>
+    </tr>
+</table>
+
+## 條件與流程
+
+<b>條件：</b>西武林盟成功成立，有結緣對象(待確認)，南宮深好感≧20．<br>
+<b>流程：</b><br>
+四年二月中，東西武林盟交戰：
+
+### 護衛三師兄路線
+
+1. 選擇「決鬥：護衛三師兄」，兩場⚔️決鬥勝利，
+2. 🎲武林盟的消耗(上限60，加減值：雙方向心力及支援勢力)：【＜90】遭遇頑強抵抗，損傷慘重 或著 【＜45】損傷輕微，狠狠蹂躪了西武林盟．
+3. ⚔️混戰，戰敗後進入結局．
+
+### 出擊外堡路線
+
+1. 選擇「戰役：唐門出擊」，
+2. 防守外堡成功(中間過程有各種情況組合差異)，選擇「兵分兩路，一半固守外堡周旋，一半上大院準備決戰」．
+3. 🎲大院的情況(上限60，加值：向心力及支援勢力、減值：敵方向心力)：【＜30】唐門大勢已去 或著 【＜66】戰況激烈，
+4. 🎲你的對手(上限99，加值：[南宮深](/people/characters/special102)好感、減值：<Girl4Icon>上官瑩</Girl4Icon>好感)：【＜70】南宮深（鳳凰肩甲）．※若與<Girl5Icon>夏侯蘭</Girl5Icon>或<Girl8Icon>龍湘</Girl8Icon>結緣，此步驟跳過．
+5. ⚔️與[南宮深](/people/characters/special102)決鬥，若未滿足[大師兄](/people/characters/brother1)生存條件，戰敗後進入結局．
+
+## 分歧與變化
+
+### 結緣對象
+不同結緣對象，結局劇情跟傳奇文本會有差異．
++ <Girl0Icon>唐默鈴</Girl0Icon>：逃往東海
++ <Girl5Icon>夏侯蘭</Girl5Icon>：回大雪山
++ <Girl8Icon>龍湘</Girl8Icon>：逃往金國

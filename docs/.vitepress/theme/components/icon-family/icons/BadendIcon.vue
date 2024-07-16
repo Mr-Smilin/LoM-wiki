@@ -7,7 +7,6 @@ import {defineComponent, toRefs} from 'vue'
 import {withBase} from "vitepress";
 
 export default defineComponent({
-    methods: {withBase},
     props: {
         size: {
             type: String,
@@ -20,25 +19,33 @@ export default defineComponent({
                 ].indexOf(value) !== -1
             }
         },
-        href: {
-            type: String,
-            default: ''
+        no:{
+            type: Number,
+            default: 0,
+            validator: function (value) {
+                // 生死簿的死亡數字為 1-90, 0為引導到該頁面最上面。
+                if (value <= 0 && value <= 90){
+                    return true;
+                }
+                return false;
+            }
         }
     },
     data() {
         return {
             size: '',
-            character: ''
+            character: '',
+            href: ''
         }
     },
     setup(props) {
-        const { size, href } = toRefs(props)
-        const CHARACTER = 'girl0';
+        const { size, no } = toRefs(props)
+        const CHARACTER = 'badend';
         // if given href, use it directly
-        if (href.value){
+        if (no.value !== 0){
             return {
                 size: size.value,
-                href: href.value,
+                href: withBase(`/event/badends/index#生死簿-No.${no.value}`),
                 character: CHARACTER
             }
         }
@@ -46,7 +53,7 @@ export default defineComponent({
         // default link if no href is given
         return {
             size: size.value,
-            href: withBase(`/characters/${CHARACTER}`),
+            href: withBase(`/event/badends`),
             character: CHARACTER
         }
     }

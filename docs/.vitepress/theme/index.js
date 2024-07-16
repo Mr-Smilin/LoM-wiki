@@ -22,28 +22,28 @@ import CharacterTr from "./components/character/CharacterTr.vue";
 import CharacterTd from "./components/character/CharacterTd.vue";
 import ChineseStyleTd from "./components/tdStyles/ChineseStyleTd.vue";
 // import Icon Group
-import Icon from "./components/Icon.vue";
-import BadendIcon from "./components/icons/BadendIcon.vue";
-import Girl0Icon from "./components/icons/Girl0Icon.vue";
-import Girl1Icon from "./components/icons/Girl1Icon.vue";
-import Girl2Icon from "./components/icons/Girl2Icon.vue";
-import Girl3Icon from "./components/icons/Girl3Icon.vue";
-import Girl4Icon from "./components/icons/Girl4Icon.vue";
-import Girl5Icon from "./components/icons/Girl5Icon.vue";
-import Girl6Icon from "./components/icons/Girl6Icon.vue";
-import Girl7Icon from "./components/icons/Girl7Icon.vue";
-import Girl8Icon from "./components/icons/Girl8Icon.vue";
+import Icon from "./components/icon-family/Icon.vue";
+import BadendIcon from "./components/icon-family/icons/BadendIcon.vue";
+import Girl0Icon from "./components/icon-family/icons/Girl0Icon.vue";
+import Girl1Icon from "./components/icon-family/icons/Girl1Icon.vue";
+import Girl2Icon from "./components/icon-family/icons/Girl2Icon.vue";
+import Girl3Icon from "./components/icon-family/icons/Girl3Icon.vue";
+import Girl4Icon from "./components/icon-family/icons/Girl4Icon.vue";
+import Girl5Icon from "./components/icon-family/icons/Girl5Icon.vue";
+import Girl6Icon from "./components/icon-family/icons/Girl6Icon.vue";
+import Girl7Icon from "./components/icon-family/icons/Girl7Icon.vue";
+import Girl8Icon from "./components/icon-family/icons/Girl8Icon.vue";
 // import ItemIcon Group
-import ItemIcon from "./components/ItemIcon.vue";
-import BookItemIcon from "./components/itemIcons/BookItemIcon.vue";
-import SpecialItemIcon from "./components/itemIcons/SpecialItemIcon.vue";
-import NewspaperItemIcon from "./components/itemIcons/NewspaperItemIcon.vue";
-import TeaItemIcon from "./components/itemIcons/TeaItemIcon.vue";
-import WineItemIcon from "./components/itemIcons/WineItemIcon.vue";
+import ItemIcon from "./components/icon-family/ItemIcon.vue";
+import BookItemIcon from "./components/icon-family/itemIcons/BookItemIcon.vue";
+import SpecialItemIcon from "./components/icon-family/itemIcons/SpecialItemIcon.vue";
+import NewspaperItemIcon from "./components/icon-family/itemIcons/NewspaperItemIcon.vue";
+import TeaItemIcon from "./components/icon-family/itemIcons/TeaItemIcon.vue";
+import WineItemIcon from "./components/icon-family/itemIcons/WineItemIcon.vue";
 // import AchievementIcon
-import AchievementIcon from "./components/AchievementIcon.vue";
+import AchievementIcon from "./components/icon-family/AchievementIcon.vue";
 // import MoodIcon
-import MoodIcon from "./components/MoodIcon.vue";
+import MoodIcon from "./components/icon-family/MoodIcon.vue";
 // tools
 import Tabs from "./components/tab/Tabs.vue";
 import Tab from "./components/tab/Tab.vue";
@@ -63,14 +63,13 @@ export default {
     // import 連結預覽
     app.use(NolebaseInlineLinkPreviewPlugin);
     app.provide(InjectionKey, {
-      popupWidth: 500,
-      popupHeight: 470,
+      popupWidth: 600,
+      popupHeight: 400,
       locales: {
         "zh-TW": {
           popup: {
             loading: "加載中...",
-            loadingAriaLabel: "加載中",
-            iframeAriaLabel: "連結預覽",
+            openInCurrentPage: "在完整頁面中打開",
           },
         },
       },

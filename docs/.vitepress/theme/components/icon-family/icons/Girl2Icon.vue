@@ -3,10 +3,11 @@
 </template>
 
 <script>
-import {defineComponent, toRefs, useSlots} from 'vue'
+import {defineComponent, toRefs} from 'vue'
 import {withBase} from "vitepress";
 
 export default defineComponent({
+    methods: {withBase},
     props: {
         size: {
             type: String,
@@ -19,33 +20,25 @@ export default defineComponent({
                 ].indexOf(value) !== -1
             }
         },
-        no:{
-            type: Number,
-            default: 0,
-            validator: function (value) {
-                // 生死簿的死亡數字為 1-90, 0為引導到該頁面最上面。
-                if (value <= 0 && value <= 90){
-                    return true;
-                }
-                return false;
-            }
+        href: {
+            type: String,
+            default: ''
         }
     },
     data() {
         return {
             size: '',
-            character: '',
-            href: ''
+            character: ''
         }
     },
     setup(props) {
-        const { size, no } = toRefs(props)
-        const CHARACTER = 'badend';
+        const { size, href } = toRefs(props)
+        const CHARACTER = 'girl2';
         // if given href, use it directly
-        if (no.value !== 0){
+        if (href.value){
             return {
                 size: size.value,
-                href: withBase(`/ends/bad-end#生死簿-No.${no.value}`),
+                href: href.value,
                 character: CHARACTER
             }
         }
@@ -53,7 +46,7 @@ export default defineComponent({
         // default link if no href is given
         return {
             size: size.value,
-            href: withBase(`/ends/bad-end`),
+            href: withBase(`/people/characters/${CHARACTER}`),
             character: CHARACTER
         }
     }

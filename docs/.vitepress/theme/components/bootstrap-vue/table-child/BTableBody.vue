@@ -48,3 +48,21 @@
         return item && typeof item.type === 'string' || typeof item.type === 'object';
     }
 </script>
+
+<style scoped>
+@media screen and (min-width: 768px) {
+    table.horizontal tr {
+        display: grid;
+        grid-template-rows: auto 1fr;
+    }
+
+    table.horizontal td {
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+</style>

@@ -1,12 +1,10 @@
 <template>
-    <ItemIcon :size="size" :no="no" :needLink="needLink" :type="`tea`"><slot></slot></ItemIcon>
+    <ItemIcon :size="size" :no="no" :needLink="needLink" :type="`special`"><slot></slot></ItemIcon>
 </template>
 
 <script>
-import ItemIcon from "../ItemIcon.vue";
 
 export default {
-    components: {ItemIcon},
     props: {
         size: {
             type: String,
@@ -22,7 +20,7 @@ export default {
         no: {
             type: String,
             validator: function (string) {
-                return string.match("/^\d{3}$/");
+                return string.match("/^00[1-3]|[1-9]\d{2}$/");
             }
         },
         needLink: {
