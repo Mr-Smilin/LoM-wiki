@@ -59,7 +59,7 @@ tags:
 若[四師兄](/people/characters/brother4)之前有歸來，會在結尾前劇情登場．
 
 ### 結緣對象
-根據結緣對象，結尾劇情會有差異，並取得對應的[風雲史](event/achievements/index)．
+根據結緣對象，結尾劇情會有差異，並取得對應的[風雲史](/event/achievements)．
 + <Girl5Icon>夏侯蘭</Girl5Icon>：<AchievementIcon :size="`small`" :no="`12`">雪山派大弟子</AchievementIcon>
 + <Girl0Icon>唐默鈴</Girl0Icon>：<AchievementIcon :size="`small`" :no="`13`">唐門女婿</AchievementIcon>
 + <Girl8Icon>龍湘</Girl8Icon>：<AchievementIcon :size="`small`" :no="`14`">忘憂俠侶</AchievementIcon>
