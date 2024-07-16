@@ -45,7 +45,7 @@ export default defineComponent({
         if (no.value !== 0){
             return {
                 size: size.value,
-                href: withBase(`/event/ends/index#生死簿-No.${no.value}`),
+                href: withBase(`/event/badends/index#生死簿-No.${no.value}`),
                 character: CHARACTER
             }
         }
@@ -53,7 +53,7 @@ export default defineComponent({
         // default link if no href is given
         return {
             size: size.value,
-            href: withBase(`/event/ends`),
+            href: withBase(`/event/badends`),
             character: CHARACTER
         }
     }
