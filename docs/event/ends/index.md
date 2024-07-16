@@ -646,14 +646,7 @@ tags:
 預定以上方每個結局有單一頁面的新表格為主．
 :::
 
-<p>
-  <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-    確認內容
-  </a>
-</p>
-<div class="collapse" id="collapseExample">
-  <div class="card card-body">
-      
+::: details
 ## 汗青書 No.1 ~ 汗青書 No.10
 <table>
     <tr>
@@ -2071,9 +2064,7 @@ tags:
         </td>
     </tr>
 </table>
-
-  </div>
-</div>
+:::
 
 ::: warning
 這個頁面還在施工中，敬請期待！
