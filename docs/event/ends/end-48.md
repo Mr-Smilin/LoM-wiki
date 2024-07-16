@@ -39,7 +39,7 @@ tags:
 
 <b>條件：</b>西武林盟成功成立<br>
 <b>流程：</b><br>
-第四年三月上旬，眉山決戰，🗡️ 與武林盟主([瑞笙](/people/characters/special999))決鬥，勝利後進入結局．
+第四年三月上旬，眉山決戰，🗡️ 與武林盟主-[瑞笙](/people/characters/special999)決鬥，勝利後進入結局．
 
 ## 分歧與變化
 
@@ -73,4 +73,4 @@ tags:
 
 ### 小師妹回唐門
 
-若<Girl0Icon>小師妹</Girl0Icon>有出嫁，且[瑞笙](/people/characters/special999)存活，結尾前劇情小師妹會回到唐門．(但是戰鬥後對話[瑞笙](/people/characters/special999)有辦黑臉時才會趕小師妹走，明顯與此結果不符合）
+若<Girl0Icon>小師妹</Girl0Icon>有出嫁，且[瑞笙](/people/characters/special999)存活，結尾前劇情<Girl0Icon>小師妹</Girl0Icon>會回到唐門．(但是戰鬥後對話[瑞笙](/people/characters/special999)有辦黑臉時才會趕<Girl0Icon>小師妹</Girl0Icon>，明顯與此結果不符合）

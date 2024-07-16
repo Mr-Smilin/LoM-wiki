@@ -89,7 +89,10 @@ watchEffect(() => {
         }).join('').trim() : '';
       }
 
-      // ... 其餘代碼保持不變
+      let rawHtml = marked(content, markedOptions);
+      rawHtml = removePTags(rawHtml);
+      rawHtml = processHighlights(rawHtml);
+      compiledParts.value = processContent(rawHtml);
     } catch (error) {
       console.error('Markdown parsing error:', error);
       compiledParts.value = ['Error parsing markdown'];
