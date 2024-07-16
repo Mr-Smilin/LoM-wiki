@@ -4,10 +4,10 @@
 		<summary>{{ item.text }}</summary>
 		<ul v-if="item.items" class="sub-items">
 		  <li v-for="subItem in item.items" :key="subItem.text" class="sub-item">
-			<VPNolebaseInlineLinkPreview :href="isString(subItem.link) ? withBase(subItem.link) : '#'">{{ subItem.text }}</VPNolebaseInlineLinkPreview>
+			<a :href="isString(subItem.link) ? withBase(subItem.link) : '#'">{{ subItem.text }}</a>
 		  </li>
 		</ul>
-		<VPNolebaseInlineLinkPreview v-else :href="isString(item.link) ? withBase(item.link) : '#'">{{ item.text }}</VPNolebaseInlineLinkPreview>
+		<a v-else :href="isString(item.link) ? withBase(item.link) : '#'">{{ item.text }}</a>
 	  </details>
 	</div>
 </template>
