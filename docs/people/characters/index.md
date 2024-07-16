@@ -32,7 +32,7 @@ tags:
     { text: '泥教' },
     { text: '廣州唐門' },
     { text: '千燈樓' },
-    { text: '天選之人' },
+    { text: '孤雲山派' },
     { text: '杏花林' },
     { text: '其他' }
   ]">
@@ -331,23 +331,23 @@ tags:
 </tr>
 <tr>
 <td>[瑞笙](special999)</td>
-<td>天選之人</td>
+<td>孤雲山派</td>
 </tr>
 <tr>
 <td>孟仙謠</td>
-<td>天選之人</td>
+<td>孤雲山派</td>
 </tr>
 <tr>
 <td>[夏靈犀](special825)</td>
-<td>天選之人</td>
+<td>孤雲山派</td>
 </tr>
 <tr>
 <td>南溪</td>
-<td>天選之人</td>
+<td>孤雲山派</td>
 </tr>
 <tr>
 <td>梁有詩</td>
-<td>天選之人</td>
+<td>孤雲山派</td>
 </tr>
 <tr>
 <td>[瑞杏](girl1)</td>
