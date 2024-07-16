@@ -184,11 +184,12 @@ th {
     .sticky-header{
         display:flex;
         flex-direction: column;
-        max-height: calc(90vh - var(--vp-nav-height));
+        max-height: calc(100vh - var(--vp-nav-height));
     }
 
     .sticky-header table {
         overflow-y: auto;
+        padding-bottom: 100px;
     }
   table.horizontal {
     display: grid;
