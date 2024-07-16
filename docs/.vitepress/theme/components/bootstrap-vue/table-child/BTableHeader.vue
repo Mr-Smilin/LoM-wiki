@@ -39,4 +39,21 @@ function handleSort(header) {
   top: -1px;
   z-index: 1;
 }
+@media screen and (min-width: 768px) {
+    table.horizontal tr {
+        display: grid;
+        grid-template-rows: auto 1fr;
+    }
+
+    table.horizontal th{
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-weight: bold;
+        justify-content: center;
+    }
+}
 </style>
