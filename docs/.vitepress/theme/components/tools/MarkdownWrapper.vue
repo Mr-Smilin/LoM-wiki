@@ -8,7 +8,7 @@
 </template>
 
 <script setup>
-import { ref, watchEffect, getCurrentInstance, render } from 'vue';
+import { ref, watchEffect, getCurrentInstance, render, h } from 'vue';
 import { marked } from 'marked';
 
 const props = defineProps({
@@ -77,7 +77,11 @@ watchEffect(() => {
                 return node.children;
             } else if (node.type === Symbol.for('v-txt')) {
                 return node.children;
+            } else if (import.meta.env.SSR) {
+                // 服務器端渲染
+                return h('div', node).children;
             } else {
+                // 客戶端渲染
                 const el = document.createElement('div');
                 render(node, el);
                 return el.innerHTML;
@@ -85,10 +89,7 @@ watchEffect(() => {
         }).join('').trim() : '';
       }
 
-      let rawHtml = marked(content, markedOptions);
-      rawHtml = removePTags(rawHtml);
-      rawHtml = processHighlights(rawHtml);
-      compiledParts.value = processContent(rawHtml);
+      // ... 其餘代碼保持不變
     } catch (error) {
       console.error('Markdown parsing error:', error);
       compiledParts.value = ['Error parsing markdown'];
