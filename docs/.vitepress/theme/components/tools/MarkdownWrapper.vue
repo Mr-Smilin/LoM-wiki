@@ -8,7 +8,7 @@
 </template>
 
 <script setup>
-import { ref, watchEffect, getCurrentInstance } from 'vue';
+import { ref, watchEffect, getCurrentInstance, render } from 'vue';
 import { marked } from 'marked';
 
 const props = defineProps({
@@ -73,10 +73,15 @@ watchEffect(() => {
         content = props.content;
       } else {
         content = slots.default ? slots.default().map(node => { 
-          if(node?.type === 'br')
-            return '<br>'
-          else
-            return node.children
+            if (typeof node.children === 'string') {
+                return node.children;
+            } else if (node.type === Symbol.for('v-txt')) {
+                return node.children;
+            } else {
+                const el = document.createElement('div');
+                render(node, el);
+                return el.innerHTML;
+            }
         }).join('').trim() : '';
       }
 
