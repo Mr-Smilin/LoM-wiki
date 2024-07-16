@@ -69,8 +69,7 @@ export default {
         "zh-TW": {
           popup: {
             loading: "加載中...",
-            loadingAriaLabel: "加載中",
-            iframeAriaLabel: "連結預覽",
+            openInCurrentPage: "在完整頁面中打開",
           },
         },
       },
