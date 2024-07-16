@@ -26,7 +26,7 @@ const markedOptions = {
   breaks: true,
   gfm: true,
   headerIds: false,
-  mangle: false,
+  mangle: false
 };
 
 function removePTags(html) {
@@ -72,7 +72,12 @@ watchEffect(() => {
       if (props.content !== null) {
         content = props.content;
       } else {
-        content = slots.default ? slots.default().map(node => node.children).join('').trim() : '';
+        content = slots.default ? slots.default().map(node => { 
+          if(node?.type === 'br')
+            return '<br>'
+          else
+            return node.children
+        }).join('').trim() : '';
       }
 
       let rawHtml = marked(content, markedOptions);
