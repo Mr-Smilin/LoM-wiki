@@ -1,13 +1,13 @@
 <template>
-    <VPNolebaseInlineLinkPreview v-if="needLink" :href="getItemPageUrl(no, typeAttr.type, typeAttr.prefix)" class="inline">
+    <VPNolebaseInlineLinkPreview v-if="needLink" :href="getItemPageUrl(no, type, getPrefixByType())" class="inline">
         <!--  using span to show item background -->
         <span :class=getIconBackgroundSizeClass(size) :style="getIconBackgroundSource()">
-            <div :class=getIconSizeClass(size) :style="getLinkedIconSourceStyle(no, typeAttr.type)" ></div>
+            <div :class=getIconSizeClass(size) :style="getLinkedIconSourceStyle(no, type)" ></div>
         </span><slot></slot>
     </VPNolebaseInlineLinkPreview>
     <span v-else class="inline">
         <span :class=getIconBackgroundSizeClass(size) :style="getIconBackgroundSource()">
-            <img :class=getIconSizeClass(size)  :src="getIconSource(no, typeAttr.type)">
+            <img :class=getIconSizeClass(size)  :src="getIconSource(no, type)">
         </span>
         <slot></slot>
     </span>
@@ -15,14 +15,6 @@
 
 <script>
 import {withBase} from "vitepress";
-
-const typeMap = {
-    'book': {
-        type: 'book',
-        prefix: '/system',
-    }
-}
-
 export default {
     props: {
         size: {
@@ -70,11 +62,6 @@ export default {
             //     ].indexOf(value) !== -1
             // },
             default: 'book',
-        }
-    },
-    computed: {
-        typeAttr(){
-            return typeMap[this.type] || { type: this.type, prefix: '' };
         }
     },
     methods: {
@@ -137,6 +124,13 @@ export default {
             return {
                 backgroundImage: `url('${this.getIconSource(no, type)}')`
             };
+        },
+        getPrefixByType(){
+            const prefixMap = {
+                'book': '/system'
+            };
+
+            return prefixMap.hasOwnProperty(this.type) ? prefixMap[this.type] : '';
         }
     }
 };
