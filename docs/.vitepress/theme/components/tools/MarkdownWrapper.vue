@@ -8,7 +8,7 @@
 </template>
 
 <script setup>
-import { ref, watchEffect, getCurrentInstance, render, h } from 'vue';
+import { ref, watchEffect, getCurrentInstance, render,onMounted } from 'vue';
 import { marked } from 'marked';
 
 const props = defineProps({
@@ -66,38 +66,36 @@ function processContent(html) {
   return parts;
 }
 
-watchEffect(() => {
-    try {
-      let content;
-      if (props.content !== null) {
-        content = props.content;
-      } else {
-        content = slots.default ? slots.default().map(node => { 
-            if (typeof node.children === 'string') {
-                return node.children;
-            } else if (node.type === Symbol.for('v-txt')) {
-                return node.children;
-            } else if (import.meta.env.SSR) {
-                // 服務器端渲染
-                return h('div', node).children;
+onMounted(() => {
+    watchEffect(() => {
+        try {
+            let content;
+            if (props.content !== null) {
+                content = props.content;
             } else {
-                // 客戶端渲染
-                const el = document.createElement('div');
-                render(node, el);
-                return el.innerHTML;
+                content = slots.default ? slots.default().map(node => { 
+                    if (typeof node.children === 'string') {
+                        return node.children;
+                    } else if (node.type === Symbol.for('v-txt')) {
+                        return node.children;
+                    } else {
+                        const el = document.createElement('div');
+                        render(node, el);
+                        return el.innerHTML;
+                    }
+                }).join('').trim() : '';
             }
-        }).join('').trim() : '';
-      }
 
-      let rawHtml = marked(content, markedOptions);
-      rawHtml = removePTags(rawHtml);
-      rawHtml = processHighlights(rawHtml);
-      compiledParts.value = processContent(rawHtml);
-    } catch (error) {
-      console.error('Markdown parsing error:', error);
-      compiledParts.value = ['Error parsing markdown'];
-    }
-});
+            let rawHtml = marked(content, markedOptions);
+            rawHtml = removePTags(rawHtml);
+            rawHtml = processHighlights(rawHtml);
+            compiledParts.value = processContent(rawHtml);
+        } catch (error) {
+            console.error('Markdown parsing error:', error);
+            compiledParts.value = ['Error parsing markdown'];
+        }
+    });
+})
 </script>
 
 
