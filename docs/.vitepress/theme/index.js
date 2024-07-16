@@ -63,8 +63,8 @@ export default {
     // import 連結預覽
     app.use(NolebaseInlineLinkPreviewPlugin);
     app.provide(InjectionKey, {
-      popupWidth: 500,
-      popupHeight: 470,
+      popupWidth: 600,
+      popupHeight: 400,
       locales: {
         "zh-TW": {
           popup: {
