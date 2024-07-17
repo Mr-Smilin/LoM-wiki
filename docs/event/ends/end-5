@@ -1,0 +1,15 @@
+---
+title: 汗青書5：獨善其身
+description: 汗青書5：獨善其身
+aside: true
+outline: [2, 3]
+sidebar: true
+borderless: false
+tags:
+    - ends
+    - 汗青書
+    - 結局
+    - 獨善其身
+---
+
+# {{ $frontmatter.title }}
