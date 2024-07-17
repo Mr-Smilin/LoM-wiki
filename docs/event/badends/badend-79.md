@@ -16,17 +16,17 @@ tags:
 
 <table align=left>
     <tr>
-        <td style="height:900px">
+        <td style="height:650px">
           <span style="writing-mode: tb-rl; webkit-writing-mode: vertical-rl; writing-mode: vertical-rl;">
             <font size="7" color="#f94241"><strong>天地無聲</strong></font>
             <br>
             <br>
-            <font size="5" color="#ef4747">
+            <font size="5" color="#822729">
             <strong>
             軟弱的正義發不出任何聲響，<br>
             你的控訴被喧囂掩沒，身埋塵埃之下．<br>
-            就算他腳趾甲跟你無關，你也不能這麼自私博取關注啊！<br>
-            你沒能戰勝內心的恐懼，任由那不真實的幻影無邊無際擴<br>
+            <br>
+            <br>
             </strong>
             </font>
           </span>
