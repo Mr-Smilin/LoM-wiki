@@ -11,13 +11,6 @@ tags:
 
 # {{ $frontmatter.title }}
 
-## wikiLinks
-
-[[測試用頁面]]  
-[[測試用頁面|還是測試用頁面]]  
-[[測試用頁面#vitepress-原生摺疊組件|還是測試用頁面但指定了錨點]]  
-[[測試用頁面|還是測試用頁面但有~~Markdown語法~~跟<span style='color: red;'>HTML語法</span>]]
-
 ## table
 
 <table>
@@ -149,6 +142,24 @@ tags:
         <span>123</span>
     </MarkdownWrapper>
 </div>
+```
+
+:::
+
+## wikiLink
+
+[[測試用頁面]]  
+[[測試用頁面|還是測試用頁面]]  
+[[測試用頁面#vitepress-原生摺疊組件|還是測試用頁面但指定了錨點]]  
+[[測試用頁面|還是測試用頁面但有~~Markdown語法~~跟<span style='color: red;'>HTML語法</span>]]
+
+::: details 原始碼
+
+```markdown
+[[測試用頁面]]  
+[[測試用頁面|還是測試用頁面]]  
+[[測試用頁面#vitepress-原生摺疊組件|還是測試用頁面但指定了錨點]]  
+[[測試用頁面|還是測試用頁面但有~~Markdown語法~~跟<span style='color: red;'>HTML語法</span>]]
 ```
 
 :::
