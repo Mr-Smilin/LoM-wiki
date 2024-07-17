@@ -16,7 +16,7 @@ tags:
 
 <table align=left>
     <tr>
-        <td style="height:650px">
+        <td style="height:650px; text-align: left;">
           <span style="writing-mode: tb-rl; webkit-writing-mode: vertical-rl; writing-mode: vertical-rl;">
             <font size="7" color="#f94241"><strong>天地無聲</strong></font>
             <br>
@@ -25,7 +25,7 @@ tags:
             <strong>
             軟弱的正義發不出任何聲響，<br>
             你的控訴被喧囂掩沒，身埋塵埃之下．<br>
-            就算他腳趾甲跟你無關，你也不能這麼自私博取關注啊！<br>
+            <br>
             <br>
             </strong>
             </font>
@@ -40,12 +40,12 @@ tags:
 <b>流程：</b><br>
 武林大會選擇**📖「支持錦香宮」**，⚔️團戰輸贏不重要，後續🗡️決鬥敗給上官隼或南宮深．
 
-### 武林大會支持錦香宮條件：
+## 武林大會支持錦香宮條件：
 
-#### 龍湘入唐門
+### 龍湘入唐門
 <Girl8Icon :size="`small`">龍湘</Girl8Icon>好感≧30在武林大會會來投靠唐門時，選擇**📖「不顧旁人冷眼收留龍湘」**，會強制只能選擇**📖「支持錦香宮」**．
 
-#### 龍湘未入唐門
+### 龍湘未入唐門
 
 1. 前往武林大會路上前往錦香宮作客(目前版本必發生)
 2. 錦香宮行沒被趕出來(在錦香宮溫夫人第二次找時，第二次的選項選擇**📖「狗屁不通」**(需要修養＜40：暴躁or瘋狂、性情＞60：勇敢or莽夫)，後面選擇**📖「好漢不吃眼前虧，走」**，就會被趕出來)
