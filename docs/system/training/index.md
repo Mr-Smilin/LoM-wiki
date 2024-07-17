@@ -1020,8 +1020,7 @@ tags:
 		<td>開啟商店<br />現在買賣後能順便飲食（僅能飲食，無法摺紙）</td>
 	</tr>
 	<tr>
-		<td>-</td>
-		<td colspan="8">外出</td>
+		<td colspan="9" style="text-align: center">**外出**</td>
 	</tr>
 	<tr>
 		<td>-</td>
@@ -1814,8 +1813,7 @@ tags:
 		<td>初遇劇情要先觸發才會有，可利用sl刷嘯天好感</td>
 	</tr>
 	<tr>
-		<td>-</td>
-		<td colspan="8">崆峒設施</td>
+		<td colspan="9" style="text-align: center">**崆峒設施**</td>
 	</tr>
 	<tr>
 		<td>-</td>
@@ -2362,8 +2360,7 @@ tags:
 		<td>-</td>
 	</tr>
 	<tr>
-		<td>-</td>
-		<td colspan="8">江陵圍城</td>
+		<td colspan="9" style="text-align: center">**江陵圍城**</td>
 	</tr>
 	<tr>
 		<td>-</td>
@@ -2495,8 +2492,7 @@ tags:
 		<td>像你這種軟腳蝦決鬥者就交給南宮淺對付&lt;40<br />武學進展有限</td>
 	</tr>
 	<tr>
-		<td>-</td>
-		<td colspan="8">離家出走</td>
+		<td colspan="9" style="text-align: center">**離家出走**</td>
 	</tr>
 	<tr>
 		<td>-</td>
