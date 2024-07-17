@@ -40,7 +40,6 @@
     }
     
     function getComponent(item) {
-        console.log(item);
         if (item.type === 'br') return 'br';
         if (typeof item.type === 'string') return item.type;
         if (typeof item.type === 'object') return item.type;

@@ -3,12 +3,14 @@
     <VPNolebaseInlineLinkPreview v-if="part?.type === 'link'" 
       :href="part.href" 
     >{{ part.text }}</VPNolebaseInlineLinkPreview>
+    <WikiLink v-else-if="part?.type === 'wikilink'" :text="part.text" />
     <span v-else v-html="part"></span>
   </template>
 </template>
 
 <script setup>
 import { ref, watchEffect, getCurrentInstance, render,onMounted } from 'vue';
+import { withBase } from 'vitepress';
 import { marked } from 'marked';
 
 const props = defineProps({
@@ -43,6 +45,7 @@ function processHighlights(html) {
 
 function processContent(html) {
   const linkRegex = /<a\s+(?:[^>]*?\s+)?href="([^"]*)"[^>]*>(.*?)<\/a>/gi;
+  const wikiLinkRegex = /\[\[([^\]]+)\]\]/g;
   const parts = [];
   let lastIndex = 0;
   let match;
@@ -53,10 +56,21 @@ function processContent(html) {
     }
     parts.push({
       type: 'link',
-      href: match[1],
+      href: withBase(match[1]),
       text: match[2]
     });
     lastIndex = linkRegex.lastIndex;
+  }
+
+  while((match = wikiLinkRegex.exec(html)) !== null) {
+    if (match.index > lastIndex) {
+      parts.push(html.slice(lastIndex, match.index));
+    }
+    parts.push({
+      type: 'wikilink',
+      text: match[1]
+    });
+    lastIndex = wikiLinkRegex.lastIndex;
   }
 
   if (lastIndex < html.length) {

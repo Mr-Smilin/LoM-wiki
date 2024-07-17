@@ -276,24 +276,27 @@ export default defineConfig({
 			inlineTags: [],
 		},
 		config: (md) => {
-			// const defaultRender =
-			// 	md.renderer.rules.html_block ||
-			// 	function (tokens, idx, options, env, self) {
-			// 		return self.renderToken(tokens, idx, options);
-			// 	};
-			// md.renderer.rules.html_block = function (
-			// 	tokens,
-			// 	idx,
-			// 	options,
-			// 	env,
-			// 	self
-			// ) {
-			// 	const content = tokens[idx].content;
-			// 	if (content.includes("<MarkdownWrapper")) {
-			// 		return content;
-			// 	}
-			// 	return defaultRender(tokens, idx, options, env, self);
-			// };
+			// wikilinks
+			md.inline.ruler.before("link", "wikilink", (state, silent) => {
+				const regex = /\[\[(.*?)\]\]/;
+				const match = regex.exec(state.src.slice(state.pos));
+				if (!match) return false;
+
+				if (!silent) {
+					const [fullMatch, linkText] = match;
+					const token = state.push("wikilink", "", 0);
+					token.content = linkText;
+					token.meta = { fullMatch };
+				}
+
+				state.pos += match[0].length;
+				return true;
+			});
+
+			md.renderer.rules.wikilink = (tokens, idx) => {
+				const token = tokens[idx];
+				return `<WikiLink text="${token.content}" />`;
+			};
 			// 連結預覽
 			md.use(InlineLinkPreviewElementTransform);
 		},
