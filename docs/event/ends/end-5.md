@@ -44,9 +44,11 @@ tags:
 3. 選擇**📖「成交！」**，道德＞50則進入結局(道德不夠會被退貨)．
 <span style="color: red;">※如果有人在正常劇情中到達此結局，請留言告知流程．</span>
 
-### 進入無藥可救的故事方式：
-1. 第一年六月上旬，序章結束的吐血事件，選擇**📖「能不能不要努力就變厲害(已經無可救藥的故事)」**，進入已經無可救藥的故事．
-2. 第三年五月上旬，<Girl0Icon>小師妹</Girl0Icon>比武招親當晚，[金烏上人](/people/characters/special207)來襲，<Girl0Icon>小師妹</Girl0Icon>沒跟下山（需要心上人不是<Girl0Icon>小師妹</Girl0Icon>），被[金烏上人](/people/characters/special207)偷襲敲暈後讓<Girl1Icon :size="`small`">瑞杏</Girl1Icon>續命(流程條件待補充)，進入已經無可救藥的故事．
+### 進入無藥可救的故事方式一：正式版新增方式
+第一年六月上旬，序章結束的吐血事件，選擇**📖「能不能不要努力就變厲害(已經無可救藥的故事)」**，進入已經無可救藥的故事．
+
+### 進入無藥可救的故事方式二：原Demo版劇情發展
+第三年五月上旬，<Girl0Icon>小師妹</Girl0Icon>比武招親當晚，[金烏上人](/people/characters/special207)來襲，<Girl0Icon>小師妹</Girl0Icon>沒跟下山（需要心上人不是<Girl0Icon>小師妹</Girl0Icon>），被[金烏上人](/people/characters/special207)偷襲敲暈後讓<Girl1Icon :size="`small`">瑞杏</Girl1Icon>續命(流程條件待補充)，進入已經無可救藥的故事．
 
 ## 分歧與變化
 無發現
