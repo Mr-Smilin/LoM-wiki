@@ -43,7 +43,7 @@ export default defineConfig({
 					{ text: "秘笈列表", link: "/system/books" },
 					{ text: "技能效果(尚未編輯)", link: "no-page" },
 					{ text: "道具列表(尚未編輯)", link: "/system/items" },
-					{ text: "養成指令", link: "/system/develop" },
+					{ text: "養成指令", link: "/system/training" },
 				],
 				activeMatch: "/system/",
 			},
