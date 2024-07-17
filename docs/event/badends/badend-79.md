@@ -14,14 +14,14 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<table align=left>
+<table align=left vertical-align=top>
     <tr>
-        <td style="height:650px; text-align: left;">
+        <td style="height:650px; vertical-align: top;">
           <span style="writing-mode: tb-rl; webkit-writing-mode: vertical-rl; writing-mode: vertical-rl;">
             <font size="7" color="#f94241"><strong>天地無聲</strong></font>
             <br>
             <br>
-            <font size="5" color="#822729">
+            <font size="5" color="#ef4747">
             <strong>
             軟弱的正義發不出任何聲響，<br>
             你的控訴被喧囂掩沒，身埋塵埃之下．<br>
