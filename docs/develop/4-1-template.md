@@ -127,14 +127,22 @@ tags:
 ### 超連結
 
 ```markdown
-[超連結顯示文字](超連結網址)
+wikilink  
+[[龍湘]]  
+內部連結  
+[龍湘](/people/characters/girl8)  
+外部連結  
+[https://www.google.com](https://www.google.com)
 ```
 
 **效果：**
 
-[超連結顯示文字](https://www.google.com)
-
-注：若使用本地檔案，請使用相對路徑。
+wikilink  
+[[龍湘]]  
+內部連結  
+[龍湘](/people/characters/girl8)  
+外部連結  
+[https://www.google.com](https://www.google.com)
 
 ### 標題
 
