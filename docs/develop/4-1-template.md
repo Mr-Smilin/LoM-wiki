@@ -144,6 +144,8 @@ wikilink
 外部連結  
 [https://www.google.com](https://www.google.com)
 
+註解：[關於 wikilink](https://en.wikipedia.org/wiki/Help:Link)
+
 ### 標題
 
 標題只會使用兩種 ##, ###, 依序表示 H2, H3 等級標題。  
