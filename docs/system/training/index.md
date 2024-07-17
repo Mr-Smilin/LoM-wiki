@@ -8,18 +8,18 @@ tags:
     - 事件
 ---
 
-# 養成指令
+# {{ $frontmatter.title }}
 
-<table>
+<BTable>
     <tr>
-        <td>道德</td>
-        <td>事件名稱</td>
-        <td>貢獻</td>
-        <td>心相</td>
-        <td>綠臉(心相:33~65)</td>
-        <td>黃臉(心相&gt;=65)額外特效</td>
-        <td>藍臉(心相:0~32)</td>
-        <td>備註</td>
+        <td :unsortable=true>道德</td>
+        <td :unsortable=true>事件名稱</td>
+        <td :unsortable=true>貢獻</td>
+        <td :unsortable=true>心相</td>
+        <td :unsortable=true>綠臉(心相:33~65)</td>
+        <td :unsortable=true>黃臉(心相&gt;=65)額外特效</td>
+        <td :unsortable=true>藍臉(心相:0~32)</td>
+        <td :unsortable=true>備註</td>
     </tr>
     <tr>
         <td>正心堂焚香</td>
@@ -32,7 +32,7 @@ tags:
         <td>P_失敗_001</td>
     </tr>
     <tr>
-        <td></td>
+        <td>正心堂焚香</td>
         <td>工作輕鬆</td>
         <td>11</td>
         <td>-12</td>
@@ -42,7 +42,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>正心堂焚香</td>
         <td>偷懶馬虎</td>
         <td>11</td>
         <td>18</td>
@@ -52,7 +52,7 @@ tags:
         <td>P_失敗_003</td>
     </tr>
     <tr>
-        <td></td>
+        <td>正心堂焚香</td>
         <td>打壞家具</td>
         <td>11</td>
         <td>-12</td>
@@ -62,7 +62,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>正心堂焚香</td>
         <td>引發火災</td>
         <td>11</td>
         <td>-32</td>
@@ -72,7 +72,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>正心堂焚香</td>
         <td>一根甘蔗</td>
         <td>11</td>
         <td>3</td>
@@ -82,7 +82,7 @@ tags:
         <td>甘蔗飲食可回50心相</td>
     </tr>
     <tr>
-        <td></td>
+        <td>正心堂焚香</td>
         <td>談論古今</td>
         <td>11</td>
         <td>-12</td>
@@ -102,7 +102,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>正心堂冥想</td>
         <td>有點長進</td>
         <td></td>
         <td>-8</td>
@@ -112,7 +112,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>正心堂冥想</td>
         <td>頗有感悟</td>
         <td></td>
         <td>-10</td>
@@ -122,7 +122,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>正心堂冥想</td>
         <td>清心靜坐</td>
         <td></td>
         <td>-10</td>
@@ -132,7 +132,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>正心堂冥想</td>
         <td>回想初心</td>
         <td></td>
         <td>-10</td>
@@ -142,7 +142,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>正心堂冥想</td>
         <td>師弟玩火</td>
         <td></td>
         <td>-60</td>
@@ -162,7 +162,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>後山砍柴</td>
         <td>扭傷腳</td>
         <td>13</td>
         <td>-31</td>
@@ -172,7 +172,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>後山砍柴</td>
         <td>維修棧道</td>
         <td>13+5</td>
         <td>-20</td>
@@ -182,7 +182,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>後山砍柴</td>
         <td>路人俠</td>
         <td>13</td>
         <td>-10</td>
@@ -192,7 +192,7 @@ tags:
         <td>勝利：武學2、名聲1<br>▲選項1「放過」<br>道德2、名聲1<br>▲選項2「推下山谷」<br>道德--<br>敗北：死法「搞失蹤」</td>
     </tr>
     <tr>
-        <td></td>
+        <td>後山砍柴</td>
         <td>抄捷徑</td>
         <td>13</td>
         <td>-10</td>
@@ -202,7 +202,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>後山砍柴</td>
         <td>穩健幹活</td>
         <td>13</td>
         <td>-20</td>
@@ -212,7 +212,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>後山砍柴</td>
         <td>挖礦</td>
         <td>13</td>
         <td>-20</td>
@@ -222,7 +222,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>後山砍柴</td>
         <td>誤踩陷阱</td>
         <td>13</td>
         <td>-20</td>
@@ -232,7 +232,7 @@ tags:
         <td>葉氏兄妹加入隨機觸發</td>
     </tr>
     <tr>
-        <td></td>
+        <td>後山砍柴</td>
         <td>利用陷阱</td>
         <td>13</td>
         <td>-20</td>
@@ -242,7 +242,7 @@ tags:
         <td>葉氏兄妹入住期間<br>葉雲裳好感+1</td>
     </tr>
     <tr>
-        <td></td>
+        <td>後山砍柴</td>
         <td>一起挑柴</td>
         <td>13+10</td>
         <td>-20</td>
@@ -252,7 +252,7 @@ tags:
         <td>🎲葉雲裳的衝擊：葉雲裳好感正向補正<br>【&lt;70】衝向葉雲舟<br>【≧70】衝向你（體力≧30葉雲裳好感+，否則生死簿8「我在唐門谷底」）</td>
     </tr>
     <tr>
-        <td></td>
+        <td>後山砍柴</td>
         <td>採藥</td>
         <td>13+10</td>
         <td>-10</td>
@@ -262,7 +262,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>後山砍柴</td>
         <td>燈崖眺望</td>
         <td></td>
         <td></td>
@@ -272,7 +272,7 @@ tags:
         <td>第一年五月下旬以前<br>(不論選哪個都只會觸發1次)</td>
     </tr>
     <tr>
-        <td></td>
+        <td>後山砍柴</td>
         <td>打獵</td>
         <td></td>
         <td></td>
@@ -282,7 +282,7 @@ tags:
         <td>友情的紙船</td>
     </tr>
     <tr>
-        <td></td>
+        <td>後山砍柴</td>
         <td>龍湘練劍</td>
         <td>13</td>
         <td>-20</td>
@@ -312,7 +312,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>鍛治場打鐵</td>
         <td>心有雜念</td>
         <td>10</td>
         <td>-66</td>
@@ -322,7 +322,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>鍛治場打鐵</td>
         <td>品質良好</td>
         <td>10</td>
         <td>-16</td>
@@ -332,7 +332,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>鍛治場打鐵</td>
         <td>頭暈腦脹</td>
         <td>10</td>
         <td>-25</td>
@@ -342,7 +342,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>鍛治場打鐵</td>
         <td>留學生想偷窺秘方</td>
         <td>10</td>
         <td>-26</td>
@@ -352,7 +352,7 @@ tags:
         <td>第二年二月下旬以後<br>且<br>第二年八月下旬以前</td>
     </tr>
     <tr>
-        <td></td>
+        <td>鍛治場打鐵</td>
         <td>留學生尊重</td>
         <td>10</td>
         <td>-6</td>
@@ -372,7 +372,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>講經堂庶務</td>
         <td>大有學問</td>
         <td>12</td>
         <td>-16</td>
@@ -382,7 +382,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>講經堂庶務</td>
         <td>心煩意亂</td>
         <td>12+5</td>
         <td>-16</td>
@@ -402,7 +402,7 @@ tags:
         <td>此事件未發生<br>且<br>小梅在唐門<br>且<br>第二年十二月下旬以前</td>
     </tr>
     <tr>
-        <td></td>
+        <td>煉丹房煉丹</td>
         <td>苦命葉雲舟</td>
         <td>10</td>
         <td>-16</td>
@@ -412,7 +412,7 @@ tags:
         <td>唐錚在唐門<br>且<br>葉雲舟在唐門</td>
     </tr>
     <tr>
-        <td></td>
+        <td>煉丹房煉丹</td>
         <td>滿意成果</td>
         <td>10</td>
         <td>-16</td>
@@ -422,7 +422,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>煉丹房煉丹</td>
         <td>觸類旁通</td>
         <td>10</td>
         <td>4</td>
@@ -432,7 +432,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>煉丹房煉丹</td>
         <td>狗血淋頭</td>
         <td>10</td>
         <td>-22</td>
@@ -442,7 +442,7 @@ tags:
         <td>唐錚在唐門</td>
     </tr>
     <tr>
-        <td></td>
+        <td>煉丹房煉丹</td>
         <td>全神貫注</td>
         <td>10</td>
         <td>-20</td>
@@ -452,7 +452,7 @@ tags:
         <td>唐錚在唐門</td>
     </tr>
     <tr>
-        <td></td>
+        <td>煉丹房煉丹</td>
         <td>簡化配方</td>
         <td>10</td>
         <td>-16</td>
@@ -462,7 +462,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>煉丹房煉丹</td>
         <td>異想天開</td>
         <td>10</td>
         <td>-16</td>
@@ -472,7 +472,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>煉丹房煉丹</td>
         <td>留學生壞壞</td>
         <td>10</td>
         <td>-21</td>
@@ -482,7 +482,7 @@ tags:
         <td>第二年二月下旬以後<br>且<br>第二年八月下旬以前</td>
     </tr>
     <tr>
-        <td></td>
+        <td>煉丹房煉丹</td>
         <td>留學生友好</td>
         <td>10</td>
         <td>-6</td>
@@ -502,7 +502,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>伙房掌廚</td>
         <td>胡椒粉</td>
         <td>13</td>
         <td>-9</td>
@@ -512,7 +512,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>伙房掌廚</td>
         <td>師妹代班</td>
         <td>8</td>
         <td>-4</td>
@@ -522,7 +522,7 @@ tags:
         <td>小師妹出嫁後似乎會變成-24心向跟不同圖片</td>
     </tr>
     <tr>
-        <td></td>
+        <td>伙房掌廚</td>
         <td>小師妹愛吃的菜</td>
         <td>13</td>
         <td>-24</td>
@@ -532,7 +532,7 @@ tags:
         <td>小師妹不在唐門</td>
     </tr>
     <tr>
-        <td></td>
+        <td>伙房掌廚</td>
         <td>預算合理</td>
         <td>13</td>
         <td>-9</td>
@@ -542,7 +542,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>伙房掌廚</td>
         <td>心血來潮</td>
         <td>13</td>
         <td>-9</td>
@@ -552,7 +552,7 @@ tags:
         <td>銀兩０也會觸發</td>
     </tr>
     <tr>
-        <td></td>
+        <td>伙房掌廚</td>
         <td>掌門健康</td>
         <td>13</td>
         <td>-9</td>
@@ -562,7 +562,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>伙房掌廚</td>
         <td>茶肆果子</td>
         <td>13</td>
         <td>-9</td>
@@ -572,7 +572,7 @@ tags:
         <td>小梅在唐門<br>且<br>第二年十二月下旬以前</td>
     </tr>
     <tr>
-        <td></td>
+        <td>伙房掌廚</td>
         <td>晁和假請客</td>
         <td></td>
         <td></td>
@@ -582,7 +582,7 @@ tags:
         <td>晁和在唐門<br>且<br>第二年十二月下旬以前</td>
     </tr>
     <tr>
-        <td></td>
+        <td>伙房掌廚</td>
         <td>貪吃龍湘</td>
         <td>13</td>
         <td>-7</td>
@@ -602,7 +602,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場掃除</td>
         <td>揮灑汗水</td>
         <td>12</td>
         <td>-10</td>
@@ -612,7 +612,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場掃除</td>
         <td>枯燥工作</td>
         <td>12</td>
         <td>-10</td>
@@ -622,7 +622,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場掃除</td>
         <td>洗刷污漬</td>
         <td>12</td>
         <td>-10</td>
@@ -632,7 +632,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場掃除</td>
         <td>收拾善後</td>
         <td>12</td>
         <td>-23</td>
@@ -652,7 +652,7 @@ tags:
         <td>唐中翎在唐門<br>※不能動，算不在</td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>流彈誤傷</td>
         <td>0</td>
         <td>-66</td>
@@ -662,7 +662,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>大師兄</td>
         <td>0</td>
         <td>-10</td>
@@ -672,7 +672,7 @@ tags:
         <td>大師兄在唐門</td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>二師兄</td>
         <td>0</td>
         <td>-16</td>
@@ -682,7 +682,7 @@ tags:
         <td>二師兄在唐門</td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>三師兄1</td>
         <td>0</td>
         <td>-16</td>
@@ -692,7 +692,7 @@ tags:
         <td>三師兄在唐門</td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>三師兄2</td>
         <td>0</td>
         <td>-16</td>
@@ -702,7 +702,7 @@ tags:
         <td>小師妹在唐門<br>且<br>三師兄在唐門</td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>三師兄3</td>
         <td>0</td>
         <td>-18</td>
@@ -712,7 +712,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>四師兄</td>
         <td>0</td>
         <td>-10</td>
@@ -722,7 +722,7 @@ tags:
         <td>四師兄在唐門</td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>鞠僦</td>
         <td>0</td>
         <td>-16</td>
@@ -732,7 +732,7 @@ tags:
         <td>大師兄在唐門<br>且<br>小師妹在唐門</td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>留學弟子<br>擅自練功</td>
         <td>0</td>
         <td>-21</td>
@@ -742,7 +742,7 @@ tags:
         <td>留學事件後可觸發<br>第二年二月下旬以後<br>且<br>第二年八月下旬以前</td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>留學弟子推擠</td>
         <td>0</td>
         <td>-16</td>
@@ -752,7 +752,7 @@ tags:
         <td>第二年二月下旬以後<br>且<br>第二年八月下旬以前</td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>留學弟子超團結</td>
         <td>0</td>
         <td>-16</td>
@@ -762,7 +762,7 @@ tags:
         <td>第二年二月下旬以後<br>且<br>第二年八月下旬以前</td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>切磋</td>
         <td>0</td>
         <td>-16</td>
@@ -772,7 +772,7 @@ tags:
         <td>小梅在唐門<br>且<br>第二年十二月下旬以前</td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>趙活</td>
         <td>10</td>
         <td>-26</td>
@@ -782,7 +782,7 @@ tags:
         <td>大師兄不在唐門<br>且<br>二師兄不在唐門<br>且<br>三師兄代唐門</td>
     </tr>
     <tr>
-        <td></td>
+        <td>練功場團練</td>
         <td>趙活<br>奇葩師弟敷衍</td>
         <td>10</td>
         <td>-36</td>
@@ -802,7 +802,7 @@ tags:
         <td>有機率死亡（死法：摔死）</td>
     </tr>
     <tr>
-        <td></td>
+        <td>女弟子房</td>
         <td>守護小師妹（被發現）</td>
         <td></td>
         <td>-20</td>
@@ -822,7 +822,7 @@ tags:
         <td>有機率死亡</td>
     </tr>
     <tr>
-        <td></td>
+        <td>女弟子房折紙鶴<br>(小師妹出嫁後)</td>
         <td>緬懷過往</td>
         <td>0</td>
         <td>80</td>
@@ -842,7 +842,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>男弟子房</td>
         <td>休息（學大師兄）</td>
         <td></td>
         <td>50</td>
@@ -852,7 +852,7 @@ tags:
         <td>武林盟回家後</td>
     </tr>
     <tr>
-        <td></td>
+        <td>男弟子房</td>
         <td>畏懼人間</td>
         <td></td>
         <td>-15</td>
@@ -862,7 +862,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td></td>
+        <td>男弟子房</td>
         <td></td>
         <td></td>
         <td>30</td>
@@ -872,7 +872,7 @@ tags:
         <td>遭遇福蘊後</td>
     </tr>
     <tr>
-        <td></td>
+        <td>男弟子房</td>
         <td></td>
         <td></td>
         <td>20</td>
@@ -882,7 +882,7 @@ tags:
         <td>遭遇福蘊後</td>
     </tr>
     <tr>
-        <td></td>
+        <td>男弟子房</td>
         <td>四師兄</td>
         <td>0</td>
         <td>0</td>
@@ -891,14 +891,11 @@ tags:
         <td></td>
         <td>開啟商店<br>現在買賣後能順便飲食（僅能飲食，無法摺紙）</td>
     </tr>
-    </table>
-    <br>
-    <table>
     <tr>
         <td colspan="8">外出</td>
     </tr>
     <tr>
-        <td> 行商</td>
+        <td>行商</td>
         <td>(正常行商)<br>賺的不多不少</td>
         <td>16</td>
         <td>-15</td>
@@ -908,7 +905,7 @@ tags:
         <td>現在版本外出行商的行動次數消耗改為0<br>現僅 -1行動點</td>
     </tr>
     <tr>
-        <td></td>
+        <td>行商</td>
         <td>(成功行商)<br>誇大藥效爭相搶購</td>
         <td>16</td>
         <td>-15</td>
@@ -918,7 +915,7 @@ tags:
         <td>現在版本外出行商的行動次數消耗改為0<br>現僅 -1行動點</td>
     </tr>
     <tr>
-        <td></td>
+        <td>行商</td>
         <td>(行商大成功)<br>毫不留情<br>巧取豪奪</td>
         <td>16</td>
         <td>-15</td>
@@ -928,7 +925,7 @@ tags:
         <td>現在版本外出行商的行動次數消耗改為0<br>現僅 -1行動點</td>
     </tr>
     <tr>
-        <td></td>
+        <td>行商</td>
         <td>(行商大成功)<br>遠距離行商<br>賺的是正財</td>
         <td>16</td>
         <td>-15</td>
@@ -938,7 +935,7 @@ tags:
         <td>現在版本外出行商的行動次數消耗改為0,<br>觸發條件改為行動次數&gt;=2<br>所以現在共消耗 2 行動點</td>
     </tr>
     <tr>
-        <td></td>
+        <td>行商</td>
         <td>(行商失敗)<br>四師兄上茅廁<br>被盜</td>
         <td>-10</td>
         <td>-30</td>
@@ -948,7 +945,7 @@ tags:
         <td>現在版本外出行商的行動次數消耗改為0<br>現僅 -1行動點<br>四師兄在唐門</td>
     </tr>
     <tr>
-        <td></td>
+        <td>行商</td>
         <td>(行商大失敗)<br>行商失敗去當肥羊</td>
         <td>14</td>
         <td>-65</td>
@@ -1567,9 +1564,9 @@ tags:
         <td></td>
         <td>初遇劇情要先觸發才會有，可利用sl刷嘯天好感</td>
     </tr>
-    </table>
+    </BTable>
     <br>
-    <table>
+    <BTable>
     <tr>
         <td colspan="8">崆峒設施</td>
     </tr>
@@ -2053,9 +2050,9 @@ tags:
         <td></td>
         <td></td>
     </tr>
-    </table>
+    </BTable>
     <br>
-    <table>
+    <BTable>
     <tr>
         <td colspan="8">江陵圍城</td>
     </tr>
@@ -2279,4 +2276,4 @@ tags:
         <td></td>
         <td></td>
     </tr>
-</table>
+</BTable>
