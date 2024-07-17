@@ -48,6 +48,7 @@ import MoodIcon from "./components/icon-family/MoodIcon.vue";
 import Tabs from "./components/tab/Tabs.vue";
 import Tab from "./components/tab/Tab.vue";
 import MarkdownWrapper from "./components/tools/MarkdownWrapper.vue";
+import WikiLink from "./components/tools/WikiLink.vue";
 import InfoList from "./components/info/InfoList.vue";
 import Info from "./components/info/Info.vue";
 
@@ -140,6 +141,7 @@ export default {
     app.component("Tabs", Tabs);
     app.component("Tab", Tab);
     app.component("MarkdownWrapper", MarkdownWrapper);
+    app.component("WikiLink", WikiLink);
     app.component("InfoList", InfoList);
     app.component("Info", Info);
   },
