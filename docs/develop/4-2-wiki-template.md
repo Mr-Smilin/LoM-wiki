@@ -93,6 +93,9 @@ tags:
 
 small(小型)圖案為 32 px _ 32 px,  
 medium(中型) 圖案 100 px _ 100 px。
+汗青書的尺寸為例外：
+small(小型)圖案為 38 px _ 44 px,  
+medium(中型) 圖案 76 px _ 88 px。
 
 <br>
 
@@ -345,7 +348,6 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
     icon: '🅰️'
   }
 ]">
-
   <tr>
     <td>age</td>
     <td>first_name</td>
