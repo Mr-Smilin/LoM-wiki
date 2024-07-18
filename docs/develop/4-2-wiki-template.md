@@ -18,30 +18,6 @@ tags:
 
 # {{ $frontmatter.title }}
 
-## wikilink
-
-使用 `[[]]` 包起來的連結，參照對象為 `title`
-
-<br>
-
-[[測試用頁面]]  
-[[測試用頁面|還是測試用頁面]]  
-[[測試用頁面#vitepress-原生摺疊組件|還是測試用頁面但指定了錨點]]  
-[[測試用頁面|還是測試用頁面但有~~Markdown語法~~跟<span style='color: red;'>HTML語法</span>]]
-
-<br>
-
-::: details 原始碼
-
-```markdown
-[[測試用頁面]]  
-[[測試用頁面|還是測試用頁面]]  
-[[測試用頁面#vitepress-原生摺疊組件|還是測試用頁面但指定了錨點]]  
-[[測試用頁面|還是測試用頁面但有~~Markdown語法~~跟<span style='color: red;'>HTML語法</span>]]
-```
-
-:::
-
 ## Tab 分頁組件
 
 `Tabs` 提供屬性如以下：
@@ -555,6 +531,30 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
   </Info>
 </InfoList>
 我是測試文字*n
+```
+
+:::
+
+## wikilink
+
+使用 `[[]]` 包起來的連結，參照對象為 `title`
+
+<br>
+
+[[LoM-wiki 公開組件]]  
+[[LoM-wiki 公開組件|自訂文字]]  
+[[LoM-wiki 公開組件#wikilink|指定錨點]]  
+[[LoM-wiki 公開組件|可以在自訂文字寫~~Markdown語法~~跟<span style='color: red;'>HTML語法</span>]]
+
+<br>
+
+::: details 原始碼
+
+```markdown
+[[LoM-wiki 公開組件]]  
+[[LoM-wiki 公開組件|自訂文字]]  
+[[LoM-wiki 公開組件#wikilink|指定錨點]]  
+[[LoM-wiki 公開組件|可以在自訂文字寫~~Markdown語法~~跟<span style='color: red;'>HTML語法</span>]]
 ```
 
 :::
