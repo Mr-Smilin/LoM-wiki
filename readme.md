@@ -81,6 +81,7 @@ npm run dev
 │         │         └── json
 │         └── system
 │                   ├── books
+│                   ├── training
 │                   └── items
 ├── node_modules
 └── tools
@@ -106,6 +107,7 @@ npm run dev
 
 `./docs/people/characters` 存放人物列表及人物頁面。  
 `./docs/system/books` 存放武學列表及武學頁面。  
+`./docs/system/training` 存放養成指令頁面。  
 `./docs/system/items` 存放道具列表資料。  
 `./docs/event/achivements` 風雲史資料。  
 `./docs/event/badends` 生死簿資料。  

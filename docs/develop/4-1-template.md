@@ -115,26 +115,55 @@ tags:
 在一個句子最後打上兩個空白，即為 markdown 換行效果。  
 (萬一不行, 可考慮 html 換行效果：`<br>`)
 
+<br>
+
+這是第一行  
+這是第二行
+
+<br>
+
+::: details 原始碼
+
 ```markdown
 這是第一行  
 這是第二行
 ```
 
-效果：  
-這是第一行  
-這是第二行
+:::
+
+---
 
 ### 超連結
 
+<br>
+
+wikilink  
+[[龍湘]]  
+內部連結  
+[龍湘](/people/characters/girl8)  
+外部連結  
+[https://www.google.com](https://www.google.com)
+
+<br>
+
+::: details 原始碼
+
 ```markdown
-[超連結顯示文字](超連結網址)
+wikilink  
+[[龍湘]]  
+內部連結  
+[龍湘](/people/characters/girl8)  
+外部連結  
+[https://www.google.com](https://www.google.com)
 ```
 
-**效果：**
+:::
 
-[超連結顯示文字](https://www.google.com)
+<br>
 
-注：若使用本地檔案，請使用相對路徑。
+註解：[關於 wikilink](https://en.wikipedia.org/wiki/Help:Link)
+
+---
 
 ### 標題
 
@@ -147,13 +176,7 @@ tags:
 ### 三級標題
 ```
 
-**效果：**
-
-## 二級標題
-
-### 三級標題
-
-<br>
+---
 
 ### 純文字塊(內建可複製)
 
@@ -161,37 +184,61 @@ tags:
 其中可複製的文字塊，會在頭尾加上 3 個反引號(\`\`\`)，方便複製。  
 `markdown`用來提示開發者，現在使用的是 md 檔案，建議加上。
 
-<pre><code>```markdown
-  純文字塊(內建可複製)
-```</code></pre>
-
-**效果：**
+<br>
 
 ```markdown
 純文字塊(內建可複製)
 ```
 
-使用時請去掉反斜線
+<br>
+
+::: details 原始碼
+
+````markdown
+<pre><code>```markdown
+  純文字塊(內建可複製)
+```</code></pre>
+````
+
+:::
+
+---
 
 ### 行內純文字塊(無內建複製)
+
+<br>
+
+hello `行內純文字塊`test
+
+<br>
+
+::: details 原始碼
 
 ```markdown
 `行內純文字塊`
 ```
 
-效果(行內):  
-hello `行內純文字塊`test
+:::
+
+---
 
 ### 圖片
+
+<br>
+
+![趙活的圖片,完整路徑](https://i.imgur.com/WlPuE8U.png)
+![龍湘大頭貼, 相對路徑](/images/characters/girl_8/icon_girl8.png)
+
+<br>
+
+::: details 原始碼
 
 ```markdown
 ![趙活的圖片,完整路徑](https://i.imgur.com/WlPuE8U.png)
 ![龍湘大頭貼, 相對路徑](/images/characters/girl_8/icon_girl8.png)
 ```
 
-**效果：**  
-![趙活的圖片,完整路徑](https://i.imgur.com/WlPuE8U.png)
-![龍湘大頭貼, 相對路徑](/images/characters/girl_8/icon_girl8.png)
+:::
 
 ::: tip
 注：本地圖片放在`docs/public`下時，網址請使用相對路徑。  
@@ -202,7 +249,28 @@ hello `行內純文字塊`test
 請給出上傳目標位置的圖片路徑，確認是否有上傳成功後再發問。
 :::
 
+---
+
 ### 表格
+
+<br>
+
+<table>
+    <tr>
+        <td>ID</td>
+        <td>姓名</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>微笑A</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>微笑B</td>
+    </tr>
+</table>
+
+::: details 原始碼
 
 我們可以在 `.md` 檔中使用 `HTML5` 的語法  
 比如說， `Markdown` 的表格是長這樣的
@@ -233,22 +301,7 @@ hello `行內純文字塊`test
 </table>
 ```
 
-**效果：**
-
-<table>
-    <tr>
-        <td>ID</td>
-        <td>姓名</td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>微笑A</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>微笑B</td>
-    </tr>
-</table>
+:::
 
 當資料量增加時，  
 相比起 `Markdown` 原本的表格，`HTML` 的表格格式更易於維護。

@@ -35,7 +35,7 @@ export default {
     methods: {
         getItemPageUrl(no){
             // this requires the same format for ItemPages
-            return withBase(`/event/achievement#風雲史-No.${no}`);
+            return withBase(`/event/achievements#風雲史-No.${no}`);
         },
         getIconSource(no) {
             // this requires the same image path format

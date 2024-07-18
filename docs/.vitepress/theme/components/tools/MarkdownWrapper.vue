@@ -3,12 +3,14 @@
     <VPNolebaseInlineLinkPreview v-if="part?.type === 'link'" 
       :href="part.href" 
     >{{ part.text }}</VPNolebaseInlineLinkPreview>
+    <WikiLink v-else-if="part?.type === 'wikilink'" :text="part.text" />
     <span v-else v-html="part"></span>
   </template>
 </template>
 
 <script setup>
-import { ref, watchEffect, getCurrentInstance } from 'vue';
+import { ref, watchEffect, getCurrentInstance, render,onMounted } from 'vue';
+import { withBase } from 'vitepress';
 import { marked } from 'marked';
 
 const props = defineProps({
@@ -43,6 +45,7 @@ function processHighlights(html) {
 
 function processContent(html) {
   const linkRegex = /<a\s+(?:[^>]*?\s+)?href="([^"]*)"[^>]*>(.*?)<\/a>/gi;
+  const wikiLinkRegex = /\[\[([^\]]+)\]\]/g;
   const parts = [];
   let lastIndex = 0;
   let match;
@@ -51,12 +54,27 @@ function processContent(html) {
     if (match.index > lastIndex) {
       parts.push(html.slice(lastIndex, match.index));
     }
+    let href = !!match[1] ? match[1] : '#';
+    href = href.endsWith('.md') ? href.slice(0, -3) : href;
+    href = href.endsWith('.html') ? href.slice(0, -5) : href;
+    href = href.startsWith('/LoM-wiki') ? href : withBase(href)
     parts.push({
       type: 'link',
-      href: match[1],
+      href: href,
       text: match[2]
     });
     lastIndex = linkRegex.lastIndex;
+  }
+
+  while((match = wikiLinkRegex.exec(html)) !== null) {
+    if (match.index > lastIndex) {
+      parts.push(html.slice(lastIndex, match.index));
+    }
+    parts.push({
+      type: 'wikilink',
+      text: match[1]
+    });
+    lastIndex = wikiLinkRegex.lastIndex;
   }
 
   if (lastIndex < html.length) {
@@ -66,29 +84,36 @@ function processContent(html) {
   return parts;
 }
 
-watchEffect(() => {
-    try {
-      let content;
-      if (props.content !== null) {
-        content = props.content;
-      } else {
-        content = slots.default ? slots.default().map(node => { 
-          if(node?.type === 'br')
-            return '<br>'
-          else
-            return node.children
-        }).join('').trim() : '';
-      }
+onMounted(() => {
+    watchEffect(() => {
+        try {
+            let content;
+            if (props.content !== null) {
+                content = props.content;
+            } else {
+                content = slots.default ? slots.default().map(node => { 
+                    if (typeof node.children === 'string') {
+                        return node.children;
+                    } else if (node.type === Symbol.for('v-txt')) {
+                        return node.children;
+                    } else {
+                        const el = document.createElement('div');
+                        render(node, el);
+                        return el.innerHTML;
+                    }
+                }).join('').trim() : '';
+            }
 
-      let rawHtml = marked(content, markedOptions);
-      rawHtml = removePTags(rawHtml);
-      rawHtml = processHighlights(rawHtml);
-      compiledParts.value = processContent(rawHtml);
-    } catch (error) {
-      console.error('Markdown parsing error:', error);
-      compiledParts.value = ['Error parsing markdown'];
-    }
-});
+            let rawHtml = marked(content, markedOptions);
+            rawHtml = removePTags(rawHtml);
+            rawHtml = processHighlights(rawHtml);
+            compiledParts.value = processContent(rawHtml);
+        } catch (error) {
+            console.error('Markdown parsing error:', error);
+            compiledParts.value = ['Error parsing markdown'];
+        }
+    });
+})
 </script>
 
 

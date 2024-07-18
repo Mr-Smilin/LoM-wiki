@@ -9,9 +9,9 @@ import {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-	title: "Legend of Mortal Wiki", // 站點名稱
+	title: "活俠傳wiki", // 站點名稱
 	// titleTemplate: "", title | titleTemplate
-	description: "活俠傳wiki", // 站點敘述
+	description: "Legend of Mortal Wiki", // 站點敘述
 	lang: "zh-TW", // 站點語系
 	base: "/LoM-wiki/", // 站點子目錄
 	sitemap: {
@@ -43,7 +43,7 @@ export default defineConfig({
 					{ text: "秘笈列表", link: "/system/books" },
 					{ text: "技能效果(尚未編輯)", link: "no-page" },
 					{ text: "道具列表(尚未編輯)", link: "/system/items" },
-					{ text: "養成指令", link: "/system/develop" },
+					{ text: "養成指令", link: "/system/training" },
 				],
 				activeMatch: "/system/",
 			},
@@ -276,24 +276,30 @@ export default defineConfig({
 			inlineTags: [],
 		},
 		config: (md) => {
-			// const defaultRender =
-			// 	md.renderer.rules.html_block ||
-			// 	function (tokens, idx, options, env, self) {
-			// 		return self.renderToken(tokens, idx, options);
-			// 	};
-			// md.renderer.rules.html_block = function (
-			// 	tokens,
-			// 	idx,
-			// 	options,
-			// 	env,
-			// 	self
-			// ) {
-			// 	const content = tokens[idx].content;
-			// 	if (content.includes("<MarkdownWrapper")) {
-			// 		return content;
-			// 	}
-			// 	return defaultRender(tokens, idx, options, env, self);
-			// };
+			// wikilinks
+			md.inline.ruler.before("link", "wikilink", (state, silent) => {
+				if (state.src.charAt(state.pos) === "<") {
+					return false;
+				}
+				const regex = /\[\[(.*?)\]\]/;
+				const match = regex.exec(state.src.slice(state.pos));
+				if (!match) return false;
+
+				if (!silent) {
+					const [fullMatch, linkText] = match;
+					const token = state.push("wikilink", "", 0);
+					token.content = linkText;
+					token.meta = { fullMatch };
+				}
+
+				state.pos += match[0].length;
+				return true;
+			});
+
+			md.renderer.rules.wikilink = (tokens, idx) => {
+				const token = tokens[idx];
+				return `<WikiLink text="${token.content}" />`;
+			};
 			// 連結預覽
 			md.use(InlineLinkPreviewElementTransform);
 		},

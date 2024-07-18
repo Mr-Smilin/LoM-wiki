@@ -118,3 +118,4 @@ tags:
 -   多年的雜務生活下，趙活其實很有能力，什麼都會，去哪都吃得開。但前提是不心繫江湖...
 -   趙活這張臉其實是說相聲的料
 -   根據瑞杏的自言自語，趙活似乎和皇室有點淵源
+-   在「Digital Taipei2021線上展覽」時稱作「武林敗類」巨八，[FB影片連結](https://www.facebook.com/watch/?mibextid=WC7FNe&v=1233034187106961&rdid=8LJ4hVfrxRlPIdcJ)
