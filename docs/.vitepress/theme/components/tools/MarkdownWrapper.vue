@@ -56,6 +56,7 @@ function processContent(html) {
     }
     let href = !!match[1] ? match[1] : '#';
     href = href.endsWith('.md') ? href.slice(0, -3) : href;
+    href = href.endsWith('.html') ? href.slice(0, -5) : href;
     href = href.startsWith('/LoM-wiki') ? href : withBase(href)
     parts.push({
       type: 'link',
