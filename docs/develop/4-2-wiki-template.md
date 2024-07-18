@@ -134,6 +134,8 @@ medium(中型) 圖案 100 px _ 100 px。
 ### 目前已可用組件：
 
 -   `<BadendIcon>` : <BadendIcon>生死簿 (飲茶躺)</BadendIcon>, 預設點擊會跳到生死簿。
+-   `<EndIcon>` : <EndIcon>汗青書</EndIcon>, 不給no, 預設點擊會跳到汗青書列表。
+-   `<EndIcon no="49">` : <EndIcon no="49">汗青書49：喪家之犬</EndIcon>, 新增no會跳到指定編號的汗青書。
 
 以下人物頭像預設會跳到人物列傳頁面：
 
