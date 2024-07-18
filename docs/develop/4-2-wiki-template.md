@@ -18,6 +18,30 @@ tags:
 
 # {{ $frontmatter.title }}
 
+## wikilink
+
+使用 `[[]]` 包起來的連結，參照對象為 `title`
+
+<br>
+
+[[測試用頁面]]  
+[[測試用頁面|還是測試用頁面]]  
+[[測試用頁面#vitepress-原生摺疊組件|還是測試用頁面但指定了錨點]]  
+[[測試用頁面|還是測試用頁面但有~~Markdown語法~~跟<span style='color: red;'>HTML語法</span>]]
+
+<br>
+
+::: details 原始碼
+
+```markdown
+[[測試用頁面]]  
+[[測試用頁面|還是測試用頁面]]  
+[[測試用頁面#vitepress-原生摺疊組件|還是測試用頁面但指定了錨點]]  
+[[測試用頁面|還是測試用頁面但有~~Markdown語法~~跟<span style='color: red;'>HTML語法</span>]]
+```
+
+:::
+
 ## Tab 分頁組件
 
 `Tabs` 提供屬性如以下：
@@ -31,7 +55,23 @@ tags:
 
 1.  `title` <Badge type="danger" text="必填" /> ：設定分頁籤的文字
 
-```Markdown
+<br>
+
+<Tabs>
+    <Tab title="分頁1">
+        我是分頁1的內容
+    </Tab>
+    <Tab title="分頁2">
+        我是分頁2的內容<br>
+        我會換行
+    </Tab>
+</Tabs>
+
+<br>
+
+::: details 原始碼
+
+```markdown
 <Tabs>
     <Tab title="分頁1">
         我是分頁1的內容
@@ -43,53 +83,58 @@ tags:
 </Tabs>
 ```
 
-**效果：**
-
-<Tabs>
-    <Tab title="分頁1">
-        我是分頁1的內容
-    </Tab>
-    <Tab title="分頁2">
-        我是分頁2的內容<br>
-        我會換行
-    </Tab>
-</Tabs>
+:::
 
 ## 人物 Icon 懶人組件
 
 目前提供少部分 Icon 與語法示例如下
 
-```
-<BadendIcon :size='`medium`'>我是文字1</BadendIcon>
-<BadendIcon :size='`small`'>我是文字2</BadendIcon>
-<BadendIcon>我是文字3</BadendIcon>
-<BadendIcon :no="30">生死簿30『清理門戶』</BadendIcon>
-```
-
 `<BadendIcon>`連結預設會跳入生死簿, 可用 :no 指定跳入編號。
 
-**效果：**  
+<br>
+
 <BadendIcon :size='`medium`'>我是文字 1</BadendIcon>  
 <BadendIcon :size='`small`'>我是文字 2</BadendIcon>  
 <BadendIcon>我是文字 3</BadendIcon>
 <BadendIcon :no="30">生死簿 30『清理門戶』</BadendIcon>
 
+<br>
+
+::: details 原始碼
+
+```markdown
+<BadendIcon :size='`medium`'>我是文字 1</BadendIcon>
+<BadendIcon :size='`small`'>我是文字 2</BadendIcon>
+<BadendIcon>我是文字 3</BadendIcon>
+<BadendIcon :no="30">生死簿 30『清理門戶』</BadendIcon>
+```
+
+:::
+
 ---
 
 `<Girl[0-8]Icon>`連結預設會跳入人物列傳頁面，詳情參考[夢境心上人](/people/dream-sweetheart.html)
 
-```
-<Girl0Icon :size='`medium`'>我是文字4</Girl0Icon>
-<Girl0Icon :size='`small`'>我是文字5</Girl0Icon>
-<Girl0Icon>我是文字6</Girl0Icon>
-```
-
 small(小型)圖案為 32 px _ 32 px,  
 medium(中型) 圖案 100 px _ 100 px。
-**效果：**  
+
+<br>
+
 <Girl0Icon :size='`medium`'>我是文字 4</Girl0Icon>  
 <Girl0Icon :size='`small`'>我是文字 5</Girl0Icon>  
 <Girl0Icon>我是文字 6</Girl0Icon>
+
+<br>
+
+::: details 原始碼
+
+```markdown
+<Girl0Icon :size='`medium`'>我是文字 4</Girl0Icon>
+<Girl0Icon :size='`small`'>我是文字 5</Girl0Icon>
+<Girl0Icon>我是文字 6</Girl0Icon>
+```
+
+:::
 
 ---
 
@@ -133,12 +178,6 @@ medium(中型) 圖案 100 px _ 100 px。
 與人物 Icon 的差別在於多了一個背景，  
 此外，此組件使用的圖片有對應`特定位置擺放`。
 
-```
-<BookItemIcon :no="6001">我是文字</BookItemIcon>
-<BookItemIcon :needLink="false" :no="6001">我是文字1</BookItemIcon>
-<BookItemIcon :size="`medium`" :no="6001">我是文字2</BookItemIcon>
-```
-
 `<BookItemIcon>`預設有連結, 點擊會跳入對應資訊頁面,  
 此外, 預設圖案為 small(小型, 100 px _ 100 px);  
 medium 為中型(200 px _ 200 px);  
@@ -146,10 +185,23 @@ medium 為中型(200 px _ 200 px);
 若 needLink = false 時, 點擊圖片則會啟用圖片放大。  
 僅有`no`為必填值。
 
-**效果：**  
+<br>
+
 <BookItemIcon :no="6001">我是文字</BookItemIcon>
 <BookItemIcon :needLink="false" :no="6001">我是文字 1</BookItemIcon>
 <BookItemIcon :size="`medium`" :no="6001">我是文字 2</BookItemIcon>
+
+<br>
+
+::: details 原始碼
+
+```markdown
+<BookItemIcon :no="6001">我是文字</BookItemIcon>
+<BookItemIcon :needLink="false" :no="6001">我是文字 1</BookItemIcon>
+<BookItemIcon :size="`medium`" :no="6001">我是文字 2</BookItemIcon>
+```
+
+:::
 
 ### 可用屬性寫法
 
@@ -188,18 +240,6 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 
 ## 心相 Icon 懶人組件
 
-```
-<MoodIcon :mood="`high`">我是文字</MoodIcon>
-<MoodIcon :mood="`good`">我是文字1/MoodIcon>
-<MoodIcon >我是文字2</MoodIcon>
-<MoodIcon :mood="`normal`">我是文字3</MoodIcon>
-<MoodIcon :mood="`low`">我是文字4</MoodIcon>
-<MoodIcon :mood="`bad`">我是文字5</MoodIcon>
-<MoodIcon :mood="`bad`" :size="`medium`">我是文字6</MoodIcon>
-<MoodIcon :mood="`bad`" :size="`small`">我是文字7</MoodIcon>
-```
-
-**效果：**  
 <MoodIcon :mood="`high`">我是文字</MoodIcon>  
 <MoodIcon :mood="`good`">我是文字 1</MoodIcon>  
 <MoodIcon >我是文字 2</MoodIcon>  
@@ -208,6 +248,23 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 <MoodIcon :mood="`bad`">我是文字 5</MoodIcon>  
 <MoodIcon :mood="`bad`" :size="`medium`">我是文字 6</MoodIcon>  
 <MoodIcon :mood="`bad`" :size="`small`">我是文字 7</MoodIcon>
+
+<br>
+
+::: details 原始碼
+
+```markdown
+<MoodIcon :mood="`high`">我是文字</MoodIcon>
+<MoodIcon :mood="`good`">我是文字 1/MoodIcon>
+<MoodIcon >我是文字 2</MoodIcon>
+<MoodIcon :mood="`normal`">我是文字 3</MoodIcon>
+<MoodIcon :mood="`low`">我是文字 4</MoodIcon>
+<MoodIcon :mood="`bad`">我是文字 5</MoodIcon>
+<MoodIcon :mood="`bad`" :size="`medium`">我是文字 6</MoodIcon>
+<MoodIcon :mood="`bad`" :size="`small`">我是文字 7</MoodIcon>
+```
+
+:::
 
 ### 可用屬性寫法
 
@@ -220,6 +277,26 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 
 用來主動解析被 html 包住的內容  
 除了換行還是只能使用 `<br>` 以外，其他的 Markdown 都可以使用
+
+<br>
+
+<div>
+    ~~我是純HTML格式~~
+</div>
+<div>
+    <MarkdownWrapper>
+        ~~我是在HTML中，使用MarkdownWrapper框起來的格式~~
+    </MarkdownWrapper>
+</div>
+<div>
+    <MarkdownWrapper>
+        ||我還支援防劇透文字||
+    </MarkdownWrapper>
+</div>
+
+<br>
+
+::: details 原始碼
 
 ```Markdown
 <div>
@@ -237,21 +314,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 </div>
 ```
 
-**效果：**
-
-<div>
-    ~~我是純HTML格式~~
-</div>
-<div>
-    <MarkdownWrapper>
-        ~~我是在HTML中，使用MarkdownWrapper框起來的格式~~
-    </MarkdownWrapper>
-</div>
-<div>
-    <MarkdownWrapper>
-        ||我還支援防劇透文字||
-    </MarkdownWrapper>
-</div>
+:::
 
 ## BTable 排序表格
 
@@ -293,40 +356,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
     -   `true`：關閉排序
     -   `false` <Badge type="warning" text="默認值" /> ：開啟排序
 
-```Markdown
-<BTable :tags="[
-  {
-    text: '21',
-  },
-  {
-    text: 'Shaw',
-    icon: '🅰️'
-  }
-]">
-  <tr>
-    <td>age</td>
-    <td>first_name</td>
-    <td :unsortable=true>last_name</td> // 此行不排序
-  </tr>
-  <tr>
-    <td>40</td>
-    <td>Dickerson</td>
-    <td>Macdonald</td>
-  </tr>
-  <tr>
-    <td>21</td>
-    <td>Larsen</td>
-    <td>Shaw</td>
-  </tr>
-  <tr>
-    <td>89</td>
-    <td>Geneva</td>
-    <td>Shaw</td>
-  </tr>
-</BTable>
-```
-
-**效果：**
+<br>
 
 <BTable :tags="[
   {
@@ -362,7 +392,65 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 
 <br>
 
+::: details 原始碼
+
+```Markdown
+<BTable :tags="[
+  {
+    text: '21',
+  },
+  {
+    text: 'Shaw',
+    icon: '🅰️'
+  }
+]">
+  <tr>
+    <td>age</td>
+    <td>first_name</td>
+    <td :unsortable=true>last_name</td> // 此行不排序
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>Dickerson</td>
+    <td>Macdonald</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>Larsen</td>
+    <td>Shaw</td>
+  </tr>
+  <tr>
+    <td>89</td>
+    <td>Geneva</td>
+    <td>Shaw</td>
+  </tr>
+</BTable>
+```
+
+:::
+
+<br>
+
 `BTable` 內的 `<tr>` `<td>` 屬性皆會保留
+
+<br>
+
+<BTable :unsearch=true>
+  <tr>
+    <td>age</td>
+    <td :unsortable=true>first_name</td>
+    <td>last_name</td>
+  </tr>
+  <tr style='background-color: #f0f0f0; color: black;'>
+    <td>40</td>
+    <td style='color: red;'>Dickerson</td>
+    <td>Macdonald</td>
+  </tr>
+</BTable>
+
+<br>
+
+::: details 原始碼
 
 ```Markdown
 <BTable :unsearch=true>
@@ -379,20 +467,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 </BTable>
 ```
 
-**效果：**
-
-<BTable :unsearch=true>
-  <tr>
-    <td>age</td>
-    <td :unsortable=true>first_name</td>
-    <td>last_name</td>
-  </tr>
-  <tr style='background-color: #f0f0f0; color: black;'>
-    <td>40</td>
-    <td style='color: red;'>Dickerson</td>
-    <td>Macdonald</td>
-  </tr>
-</BTable>
+:::
 
 ## InfoList 詳細資料組件
 
@@ -412,28 +487,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 1.  `title` <Badge type="danger" text="必填" /> ：設定詳細內容的標題文字
 2.  `open`：預設是否展開
 
-```Markdown
-<InfoList position="left">
-  <Info title="列傳一" open=true>
-      師承錦香宮，劍法精絕的清麗佳人。<br>
-      踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。<br>
-      雖然如此，由於不諳世事，意外地容易受騙上當。
-  </Info>
-  <Info title="列傳二">
-    對父親的記憶，如今很稀薄了。<br>
-    遙遠記憶裡那一日，他摸摸她小腦袋瓜，<br>
-    一笑出門去，便再也不曾回來。<br>
-    後來錦香宮溫夫人才接了她去，收入門牆。<br><br>
-    輾轉聽人傳聞，才知道父親是武林傳奇，<br>
-    既悲傷又驕傲，沿著父親的足跡，造訪故人，<br>
-    想蒐集更多已故生父的故事，憑此懷念。<br><br>
-    一身劍法皆得於家傳秘笈，龍淵七訣中，尤擅劍法，<br>
-    自小便以雞腿為劍，悟出人劍合一的奧義而渾不自覺，<br>
-    至今也不太清楚自己究竟算不算高手。
-  </Info>
-</InfoList>
-我是測試文字*n
-```
+<br>
 
 <div style=" display: flex; width: 100%; height: 100%">
 <InfoList position="left">
@@ -475,3 +529,32 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 我是測試文字<br> 
 我是測試文字<br> 
 </div>
+
+<br>
+
+::: details 原始碼
+
+```Markdown
+<InfoList position="left">
+  <Info title="列傳一" open=true>
+      師承錦香宮，劍法精絕的清麗佳人。<br>
+      踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。<br>
+      雖然如此，由於不諳世事，意外地容易受騙上當。
+  </Info>
+  <Info title="列傳二">
+    對父親的記憶，如今很稀薄了。<br>
+    遙遠記憶裡那一日，他摸摸她小腦袋瓜，<br>
+    一笑出門去，便再也不曾回來。<br>
+    後來錦香宮溫夫人才接了她去，收入門牆。<br><br>
+    輾轉聽人傳聞，才知道父親是武林傳奇，<br>
+    既悲傷又驕傲，沿著父親的足跡，造訪故人，<br>
+    想蒐集更多已故生父的故事，憑此懷念。<br><br>
+    一身劍法皆得於家傳秘笈，龍淵七訣中，尤擅劍法，<br>
+    自小便以雞腿為劍，悟出人劍合一的奧義而渾不自覺，<br>
+    至今也不太清楚自己究竟算不算高手。
+  </Info>
+</InfoList>
+我是測試文字*n
+```
+
+:::

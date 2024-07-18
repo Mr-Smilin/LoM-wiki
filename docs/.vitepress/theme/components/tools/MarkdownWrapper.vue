@@ -54,9 +54,12 @@ function processContent(html) {
     if (match.index > lastIndex) {
       parts.push(html.slice(lastIndex, match.index));
     }
+    let href = !!match[1] ? match[1] : '#';
+    href = href.endsWith('.md') ? href.slice(0, -3) : href;
+    href = href.startsWith('/LoM-wiki') ? href : withBase(href)
     parts.push({
       type: 'link',
-      href: withBase(match[1]),
+      href: href,
       text: match[2]
     });
     lastIndex = linkRegex.lastIndex;

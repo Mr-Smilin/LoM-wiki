@@ -8,7 +8,7 @@ tags:
     - branch
 ---
 
-# 主支線年表
+# {{ $frontmatter.title }}
 
 <div class="timeline-container">
 
