@@ -9,9 +9,9 @@ import {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-	title: "Legend of Mortal Wiki", // 站點名稱
+	title: "活俠傳wiki", // 站點名稱
 	// titleTemplate: "", title | titleTemplate
-	description: "活俠傳wiki", // 站點敘述
+	description: "Legend of Mortal Wiki", // 站點敘述
 	lang: "zh-TW", // 站點語系
 	base: "/LoM-wiki/", // 站點子目錄
 	sitemap: {
