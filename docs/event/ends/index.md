@@ -715,7 +715,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            [武林傳奇](end-48)
+            <EndIcon no="48">武林傳奇</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -729,7 +729,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            [喪家之犬](end-49)
+            [喪家之犬](./end-49)
         </td>
         <td>
             <!-- 結局概要 -->
@@ -771,7 +771,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青書-No.1">
-            <BadendIcon :no="1">汗青書 No.1</BadendIcon>
+            <EndIcon no="1">汗青書 No.1</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -796,7 +796,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青書-No.2">
-            <BadendIcon :no="1">汗青書 No.2</BadendIcon>
+            <EndIcon no="2">汗青書 No.2</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -821,7 +821,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.3">
-            <BadendIcon :no="1">汗青書 No.3</BadendIcon>
+            <EndIcon no="3">汗青書 No.3</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->  
@@ -846,7 +846,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.4">
-            <BadendIcon :no="1">汗青書 No.4</BadendIcon>
+            <EndIcon no="4">汗青書 No.4</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -873,7 +873,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.5">
-            <BadendIcon :no="1">汗青書 No.5</BadendIcon>
+            <EndIcon no="5">汗青書 No.5</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -907,7 +907,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.6">
-            <BadendIcon :no="1">汗青書 No.6</BadendIcon>
+            <EndIcon no="6">汗青書 No.6</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -936,7 +936,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.7">
-            <BadendIcon :no="1">汗青書 No.7</BadendIcon>
+            <EndIcon no="7">汗青書 No.7</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -964,7 +964,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.8">
-            <BadendIcon :no="1">汗青書 No.8</BadendIcon>
+            <EndIcon no="8">汗青書 No.8</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -994,7 +994,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.9">
-            <BadendIcon :no="1">汗青書 No.9</BadendIcon>
+            <EndIcon no="9">汗青書 No.9</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1026,7 +1026,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.10">
-            <BadendIcon :no="1">汗青書 No.10</BadendIcon>
+            <EndIcon no="10">汗青書 No.10</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1085,7 +1085,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青書-No.11">
-            <BadendIcon :no="1">汗青書 No.11</BadendIcon>
+            <EndIcon no="11">汗青書 No.11</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1113,7 +1113,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青書-No.12">
-            <BadendIcon :no="1">汗青書 No.12</BadendIcon>
+            <EndIcon no="12">汗青書 No.12</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1138,7 +1138,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.13">
-            <BadendIcon :no="1">汗青書 No.13</BadendIcon>
+            <EndIcon no="13">汗青書 No.13</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->  
@@ -1163,7 +1163,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.14">
-            <BadendIcon :no="1">汗青書 No.14</BadendIcon>
+            <EndIcon no="14">汗青書 No.14</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1188,7 +1188,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.15">
-            <BadendIcon :no="1">汗青書 No.15</BadendIcon>
+            <EndIcon no="15">汗青書 No.15</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1212,7 +1212,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.16">
-            <BadendIcon :no="1">汗青書 No.16</BadendIcon>
+            <EndIcon no="16">汗青書 No.16</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1237,7 +1237,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.17">
-            <BadendIcon :no="1">汗青書 No.17</BadendIcon>
+            <EndIcon no="17">汗青書 No.17</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1262,7 +1262,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.18">
-            <BadendIcon :no="1">汗青書 No.18</BadendIcon>
+            <EndIcon no="18">汗青書 No.18</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1287,7 +1287,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.19">
-            <BadendIcon :no="1">汗青書 No.19</BadendIcon>
+            <EndIcon no="19">汗青書 No.19</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1312,7 +1312,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.20">
-            <BadendIcon :no="1">汗青書 No.20</BadendIcon>
+            <EndIcon no="20">汗青書 No.20</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1362,7 +1362,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青書-No.21">
-            <BadendIcon :no="1">汗青書 No.21</BadendIcon>
+            <EndIcon no="21">汗青書 No.21</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1387,7 +1387,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青書-No.22">
-            <BadendIcon :no="1">汗青書 No.22</BadendIcon>
+            <EndIcon no="22">汗青書 No.22</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1412,7 +1412,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.23">
-            <BadendIcon :no="1">汗青書 No.23</BadendIcon>
+            <EndIcon no="23">汗青書 No.23</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->   
@@ -1437,7 +1437,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.24">
-            <BadendIcon :no="1">汗青書 No.24</BadendIcon>
+            <EndIcon no="24">汗青書 No.24</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1461,7 +1461,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.25">
-            <BadendIcon :no="1">汗青書 No.25</BadendIcon>
+            <EndIcon no="25">汗青書 No.25</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1486,7 +1486,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.26">
-            <BadendIcon :no="1">汗青書 No.26</BadendIcon>
+            <EndIcon no="26">汗青書 No.26</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1510,7 +1510,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.27">
-            <BadendIcon :no="1">汗青書 No.27</BadendIcon>
+            <EndIcon no="27">汗青書 No.27</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1534,7 +1534,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.28">
-            <BadendIcon :no="1">汗青書 No.28</BadendIcon>
+            <EndIcon no="28">汗青書 No.28</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1558,7 +1558,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.29">
-            <BadendIcon :no="1">汗青書 No.29</BadendIcon>
+            <EndIcon no="29">汗青書 No.29</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1582,7 +1582,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.30">
-            <BadendIcon :no="1">汗青書 No.30</BadendIcon>
+            <EndIcon no="30">汗青書 No.30</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1632,7 +1632,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青書-No.31">
-            <BadendIcon :no="1">汗青書 No.31</BadendIcon>
+            <EndIcon no="31">汗青書 No.31</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1657,7 +1657,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青書-No.32">
-            <BadendIcon :no="1">汗青書 No.32</BadendIcon>
+            <EndIcon no="32">汗青書 No.32</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1688,7 +1688,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.33">
-            <BadendIcon :no="1">汗青書 No.33</BadendIcon>
+            <EndIcon no="33">汗青書 No.33</EndIcon>
         </td>
         <td>
             <!-- 名稱 --> 
@@ -1713,7 +1713,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.34">
-            <BadendIcon :no="1">汗青書 No.34</BadendIcon>
+            <EndIcon no="34">汗青書 No.34</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1738,7 +1738,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.35">
-            <BadendIcon :no="1">汗青書 No.35</BadendIcon>
+            <EndIcon no="35">汗青書 No.35</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1763,7 +1763,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.36">
-            <BadendIcon :no="1">汗青書 No.36</BadendIcon>
+            <EndIcon no="36">汗青書 No.36</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1788,7 +1788,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.37">
-            <BadendIcon :no="1">汗青書 No.37</BadendIcon>
+            <EndIcon no="37">汗青書 No.37</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1813,7 +1813,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.38">
-            <BadendIcon :no="1">汗青書 No.38</BadendIcon>
+            <EndIcon no="38">汗青書 No.38</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1838,7 +1838,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.39">
-            <BadendIcon :no="1">汗青書 No.39</BadendIcon>
+            <EndIcon no="39">汗青書 No.39</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1863,7 +1863,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.40">
-            <BadendIcon :no="1">汗青書 No.40</BadendIcon>
+            <EndIcon no="40">汗青書 No.40</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1913,7 +1913,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青書-No.41">
-            <BadendIcon :no="1">汗青書 No.41</BadendIcon>
+            <EndIcon no="41">汗青書 No.41</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1938,7 +1938,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青書-No.42">
-            <BadendIcon :no="1">汗青書 No.42</BadendIcon>
+            <EndIcon no="42">汗青書 No.42</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1963,7 +1963,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.43">
-            <BadendIcon :no="1">汗青書 No.43</BadendIcon>
+            <EndIcon no="43">汗青書 No.43</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -1988,7 +1988,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.44">
-            <BadendIcon :no="1">汗青書 No.44</BadendIcon>
+            <EndIcon no="44">汗青書 No.44</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -2013,7 +2013,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.45">
-            <BadendIcon :no="1">汗青書 No.45</BadendIcon>
+            <EndIcon no="45">汗青書 No.45</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -2038,7 +2038,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.46">
-            <BadendIcon :no="1">汗青書 No.46</BadendIcon>
+            <EndIcon no="46">汗青書 No.46</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -2063,7 +2063,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.47">
-            <BadendIcon :no="1">汗青書 No.47</BadendIcon>
+            <EndIcon no="47">汗青書 No.47</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -2087,7 +2087,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.48">
-            <BadendIcon :no="1">汗青書 No.48</BadendIcon>
+            <EndIcon no="48">汗青書 No.48</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->
@@ -2134,7 +2134,7 @@ tags:
     </tr>
     <tr>
         <td id="汗青簿-No.49">
-            <BadendIcon :no="1">汗青書 No.49</BadendIcon>
+            <EndIcon no="49">汗青書 No.49</EndIcon>
         </td>
         <td>
             <!-- 名稱 -->

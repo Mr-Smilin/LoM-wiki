@@ -32,7 +32,8 @@ export default {
     },
     methods: {
         getIconSource(character) {
-            const CHAR_BADEND = 'badend';
+            const CHAR_BADEND  = 'badend';
+            const CHAR_END     = 'end';
             const CHAR_GIRL_0  = 'girl0';
             const CHAR_GIRL_1  = 'girl1';
             const CHAR_GIRL_2  = 'girl2';
@@ -45,6 +46,7 @@ export default {
 
             const SOURCE_MAP = {
                 [CHAR_BADEND]: `url('${withBase(`/images/generic/icon_badend.jpg`)}')`,
+                [CHAR_END]   : `url('${withBase(`/images/generic/pic_book_cover_01.png`)}')`,
                 [CHAR_GIRL_0]: `url('${withBase(`/images/characters/girl_0/icon_girl0.png`)}')`,
                 [CHAR_GIRL_1]: `url('${withBase(`/images/characters/girl_1/icon_girl1.png`)}')`,
                 [CHAR_GIRL_2]: `url('${withBase(`/images/characters/girl_2/icon_girl2.png`)}')`,

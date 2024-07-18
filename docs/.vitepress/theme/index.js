@@ -24,6 +24,7 @@ import ChineseStyleTd from "./components/tdStyles/ChineseStyleTd.vue";
 // import Icon Group
 import Icon from "./components/icon-family/Icon.vue";
 import BadendIcon from "./components/icon-family/icons/BadendIcon.vue";
+import EndIcon from "./components/icon-family/icons/EndIcon.vue";
 import Girl0Icon from "./components/icon-family/icons/Girl0Icon.vue";
 import Girl1Icon from "./components/icon-family/icons/Girl1Icon.vue";
 import Girl2Icon from "./components/icon-family/icons/Girl2Icon.vue";
@@ -132,6 +133,7 @@ export default {
     app.component("NewspaperItemIcon", NewspaperItemIcon);
     app.component("TeaItemIcon", TeaItemIcon);
     app.component("WineItemIcon", WineItemIcon);
+    app.component("EndIcon", EndIcon);
     // AchievementIcon component
     app.component("AchievementIcon", AchievementIcon);
     // MoodIcon component
