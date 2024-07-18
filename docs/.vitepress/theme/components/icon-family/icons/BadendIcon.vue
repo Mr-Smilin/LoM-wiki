@@ -39,7 +39,7 @@ export default defineComponent({
         }
     },
     setup(props) {
-        const { size, no } = toRefs(props)
+        const { size, no,  } = toRefs(props)
         const CHARACTER = 'badend';
         // if given href, use it directly
         if (no.value !== 0){
