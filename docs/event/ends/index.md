@@ -99,7 +99,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            [獨善其身](end-5)
+            <EndIcon no="5">獨善其身</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -113,7 +113,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            [睡死](end-6)
+            <EndIcon no="6">睡死</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -127,7 +127,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            [孤獨死](end-7)
+            <EndIcon no="7">孤獨死</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -141,7 +141,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            [被煮的狗](end-8)
+            <EndIcon no="8">被煮的狗</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -155,7 +155,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            [竹之城](end-9)
+            <EndIcon no="9">竹之城</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -169,7 +169,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            [退隱江湖](end-10)
+            <EndIcon no="10">退隱江湖</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -183,7 +183,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            [魂歸故里](end-11)
+            <EndIcon no="11">魂歸故里</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -197,7 +197,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            孤獨終老
+            <EndIcon no="12">孤獨終老</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -211,7 +211,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            西遊記
+            <EndIcon no="13">西遊記</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -225,7 +225,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            天下寂寥事，與君闊別時
+            <EndIcon no="14">天下寂寥事，與君闊別時</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -701,7 +701,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            [君所願兮江湖行](end-47)
+            <EndIcon no="47">君所願兮江湖行</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -729,7 +729,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            [喪家之犬](./end-49)
+            <EndIcon no="49">喪家之犬</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
