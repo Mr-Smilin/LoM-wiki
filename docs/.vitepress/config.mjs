@@ -278,6 +278,9 @@ export default defineConfig({
 		config: (md) => {
 			// wikilinks
 			md.inline.ruler.before("link", "wikilink", (state, silent) => {
+				if (state.src.charAt(state.pos) === "<") {
+					return false;
+				}
 				const regex = /\[\[(.*?)\]\]/;
 				const match = regex.exec(state.src.slice(state.pos));
 				if (!match) return false;
