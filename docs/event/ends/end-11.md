@@ -42,7 +42,7 @@ tags:
 1. 第二年二月上旬，唐門會議選擇**📖「留學：崆峒派」**．
 2. 第二年十月下旬，<Girl3Icon :size="`small`">虞小梅</Girl3Icon>加入唐門(需要<Girl3Icon :size="`small`">虞小梅</Girl3Icon>好感度≧20)．
 4. 第三年一月中旬，不隨[大師兄](/people/characters/brother1)下山．
-5. 第三年一月下旬，[大師兄](/people/characters/brother1)重傷歸來，選擇治療大師兄(開啟選項醫術≧5或總毒藥點數≧250)．
+5. 第三年一月下旬，[大師兄](/people/characters/brother1)重傷歸來，選擇治療大師兄(開啟選項需要醫術≧5或總毒藥點數≧250)．
 6. <Girl3Icon :size="`small`">虞小梅</Girl3Icon>出場後的選項選擇**📖「收功」**．
 7. 心上人不為<Girl6Icon :size="`small`">郁竹</Girl6Icon>或<Girl6Icon :size="`small`">郁竹</Girl6Icon>好感度＜45，進入結局．
 
