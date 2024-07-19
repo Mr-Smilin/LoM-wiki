@@ -24,7 +24,7 @@ tags:
             <font size="5" color="000000">
             <strong>
             &emsp;&emsp;終於輪你當主角，你的謝幕可歌可泣，世<br>
-            &emsp;&emsp;上無人在坎看輕你．<br>
+            &emsp;&emsp;上無人再敢看輕你．<br>
             &emsp;&emsp;<br>
             &emsp;&emsp;<br>
             <br>
