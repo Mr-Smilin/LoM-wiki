@@ -254,7 +254,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            猿鶴重沙
+            <EndIcon no="16">猿鶴重沙</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -268,7 +268,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            盲劍客
+            <EndIcon no="17">盲劍客</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
