@@ -55,6 +55,14 @@ tags:
         <td>2500</td>
     </tr>
     <tr>
+        <td><BookItemIcon :no="`2004`">鴛鴦拳劍譜</BookItemIcon></td>
+        <td>刀劍5<br>拳掌3<br>變心+</td>
+        <td>25</td>
+        <td></td>
+        <td>二年十二月下旬－下山召集門人中，戰勝異宗戀唐門女弟子獲得<br>(天命骰名聲補正，需≦19)</td>
+        <td></td>
+    </tr>
+    <tr>
         <td><BookItemIcon :no="`2005`">斬天黑翼雙龍劍</BookItemIcon></td>
         <td>刀劍2<br>嘴力3<br>性情+3<br>處世+3</td>
         <td>15</td>
