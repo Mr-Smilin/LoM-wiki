@@ -13,7 +13,7 @@ export default defineComponent({
     props: {
         character: {
             type: String,
-            default: 'badend'
+            default: 'end'
         },
         size: {
             type: String,
