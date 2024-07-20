@@ -9,7 +9,7 @@ tags:
 
 <BTable :stickyHeader=true searchMode="or"
   :tags="[
-    { text: '四川唐門'},
+    { text: '蜀中唐門'},
     { text: '飛石幫' },
     { text: '點蒼派' },
     { text: '丐幫'},
@@ -43,47 +43,47 @@ tags:
 </tr>
 <tr>
 <td>[趙活](player)</td>
-<td>四川唐門</td>
+<td>蜀中唐門</td>
 </tr>
 <tr>
 <td>[唐中翎](master)</td>
-<td>四川唐門</td>
+<td>蜀中唐門</td>
 </tr>
 <tr>
 <td>[唐布衣](brother1)</td>
-<td>四川唐門</td>
+<td>蜀中唐門</td>
 </tr>
 <tr>
 <td>[唐錚](brother2)</td>
-<td>四川唐門</td>
+<td>蜀中唐門</td>
 </tr>
 <tr>
 <td>[唐陞](brother3)</td>
-<td>四川唐門</td>
+<td>蜀中唐門</td>
 </tr>
 <tr>
 <td>[唐惟元](brother4)</td>
-<td>四川唐門</td>
+<td>蜀中唐門</td>
 </tr>
 <tr>
 <td>[唐默鈴](girl0)</td>
-<td>四川唐門</td>
+<td>蜀中唐門</td>
 </tr>
 <tr>
 <td>[唐小樓](aunt2)</td>
-<td>四川唐門</td>
+<td>蜀中唐門</td>
 </tr>
 <tr>
 <td>[唐嬌嬌](big_trainee_girl_1)</td>
-<td>四川唐門</td>
+<td>蜀中唐門</td>
 </tr>
 <tr>
 <td>[許大鯨](big_shock1)</td>
-<td>四川唐門</td>
+<td>蜀中唐門</td>
 </tr>
 <tr>
 <td>[晁和](special208)</td>
-<td>四川唐門</td>
+<td>蜀中唐門</td>
 </tr>
 <tr>
 <td>[石公遠](special7)</td>
