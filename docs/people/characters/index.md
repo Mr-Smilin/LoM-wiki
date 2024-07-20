@@ -374,7 +374,7 @@ tags:
 <td>其他</td>
 </tr>
 <tr>
-<td>譚霸刀</td>
+<td>[譚霸刀](special801)</td>
 <td>其他</td>
 </tr>
 <tr>
