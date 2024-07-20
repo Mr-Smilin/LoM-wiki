@@ -23,7 +23,9 @@ tags:
 		<tr>
 			<td>四月</td>
 			<td>
-				<li>遊戲開局</li>
+				<MarkdownWrapper>
+                [遊戲開局](/event/detailed_description/遊戲開局)<br> 
+				</MarkdownWrapper>
 				<li>男弟子房：照鏡子</li>
 				<li>男弟子房：初遇大師兄</li>
 				<li>廚房：驚嚇</li>
