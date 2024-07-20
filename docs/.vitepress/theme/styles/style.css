@@ -7,6 +7,10 @@
     --scrollbar-color: #ced4d9;
   }
 
+  html {
+    scroll-behavior: smooth;
+  }
+
   .vp-doc p{
     margin: 0;
   }
@@ -17,10 +21,6 @@
 
   .vp-doc table tbody tr:hover {
     background-color: var(--vp-code-block-bg);
-  }
-
-  .vp-doc h2{
-    z-index: -1;
   }
 
   .main .vp-doc table {

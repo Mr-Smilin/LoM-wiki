@@ -23,6 +23,7 @@ defineProps({
   max-height: 500px;
   overflow: hidden;
   overflow-y: auto;
+  z-index: 1;
 }
 
 
