@@ -230,6 +230,10 @@ tags:
 <td>峨嵋派</td>
 </tr>
 <tr>
+<td>[狄傲](big_trainee_girl_1)</td>
+<td>峨嵋派</td>
+</tr>
+<tr>
 <td>[龍湘](girl8)</td>
 <td>錦香宮</td>
 </tr>

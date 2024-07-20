@@ -7,6 +7,7 @@ borderless: false
 tags:
     - 人物
     - 唐門
+    - 峨嵋派
 ---
 
 # {{ $frontmatter.title }}
@@ -41,7 +42,7 @@ tags:
       </ChTr>
       <ChTr>
         <ChTd position='center'>
-          趙活 (師兄)
+          趙活 ~~(丈夫)~~(師兄)
         </ChTd>
       </ChTr>
     </ChTable>
@@ -59,11 +60,13 @@ tags:
 
 > 「是我！狄傲噠！」
 
-原名狄傲，拜入唐門後改宗姓唐，順便改名為嬌嬌的狄傲噠！
+原名狄傲，峨嵋弟子，修練狄家波紋氣功。在峨眉身分意外的高，連[[向無憂|向掌門]]都對她十分客氣。
 <br><br>
-現版本(v1.0.3131)似乎只有無可救藥線才有機會遇到，來比武招親吧！
+二年時來唐門留學，對唐門的拳腳功夫感到不滿，若滿足她就可以<EndIcon no="50">成親</EndIcon>，或讓她拜入唐門改宗姓唐。
 
 ## 備註
 
--   捏他《JoJo 的奇妙冒險》的迪奧
--   WRYYYYYYYYYYYYYYYYYYYYYYYYYYY!!!
+- 捏他《JoJo 的奇妙冒險》的迪奧
+- v1.0.3200後開放比武招親，之前只有無可救藥線才遇得到
+- ~~收下這[[柴刀八斬法|秘笈]]，我們就是一家人了！~~
+- ~~WRYYYYYYYYYYYYYYYYYYYYYYYYYYY!!!~~
