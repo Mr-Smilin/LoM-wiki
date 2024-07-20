@@ -23,10 +23,6 @@
     background-color: var(--vp-code-block-bg);
   }
 
-  .vp-doc h2{
-    z-index: -1;
-  }
-
   .main .vp-doc table {
     /* display: table; */
     width: 100%;
