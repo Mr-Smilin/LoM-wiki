@@ -322,11 +322,11 @@ tags:
 <td>泥教</td>
 </tr>
 <tr>
-<td>唐守鴻</td>
+<td>[唐守鴻](special812)</td>
 <td>廣州唐門</td>
 </tr>
 <tr>
-<td>唐衫</td>
+<td>[唐衫](special811)</td>
 <td>廣州唐門</td>
 </tr>
 <tr>
