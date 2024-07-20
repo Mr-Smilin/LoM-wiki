@@ -286,7 +286,7 @@ tags:
 <td>大宋</td>
 </tr>
 <tr>
-<td>完顏珣</td>
+<td>[完顏珣](special819)</td>
 <td>大金</td>
 </tr>
 <tr>
