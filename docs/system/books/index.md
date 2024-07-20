@@ -80,10 +80,10 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2007`">柴刀八斬法</BookItemIcon></td>
-        <td>無法修練<br>(v1.0.3200)</td>
+        <td><span style="color: red;">無法修練<br>(v1.0.3200)</span></td>
         <td>0</td>
         <td></td>
-        <td>二年不留學－五月下旬前團練累積兩次，五月上旬至下旬團練打贏[[唐嬌嬌|狄傲]]</td>
+        <td>二年不留學－二月上旬至五月下旬團練累積兩次後，五月上旬至下旬團練打贏[[唐嬌嬌|狄傲]]</td>
         <td></td>
     </tr>
     <tr>
