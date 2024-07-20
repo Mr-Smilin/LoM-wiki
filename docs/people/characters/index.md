@@ -222,7 +222,7 @@ tags:
 <td>青城派</td>
 </tr>
 <tr>
-<td>向無憂</td>
+<td>[向無憂](special408)</td>
 <td>峨嵋派</td>
 </tr>
 <tr>
