@@ -7,6 +7,10 @@
     --scrollbar-color: #ced4d9;
   }
 
+  html {
+    scroll-behavior: smooth;
+  }
+
   .vp-doc p{
     margin: 0;
   }
