@@ -25,8 +25,8 @@ tags:
 			<td>
 				<MarkdownWrapper>
                 [遊戲開局](/event/detailed_description/遊戲開局)<br> 
+				[第一晚：男弟子房](/event/detailed_description/男弟子房1)<br> 
 				</MarkdownWrapper>
-				<li>男弟子房：照鏡子</li>
 				<li>男弟子房：初遇大師兄</li>
 				<li>廚房：驚嚇</li>
 				<li>練功場：小師妹</li>
