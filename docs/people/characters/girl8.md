@@ -77,13 +77,14 @@ borderless: false
       nameZh='吃雞腿'
       nameEn='Chī jītuǐ'/>
   </ChTab>
-  <ChTab title="大笑">
+  <ChTab title="debug">
     <ChBg src='/images/characters/girl_8/laugh2.png'
-          position='right'
+          position='left'
           :animation=true />
     <ChName 
-      nameZh='Laugh heartily'
-      nameEn='大笑'/>
+      nameZh='小師妹'
+      nameEn='唐默鈴'
+      position='classic'/>
   </ChTab>
   <ChTab title="戰鬥">
     <ChBg src='/images/characters/girl_8/angry3.png'

@@ -315,4 +315,13 @@ export default defineConfig({
 			noExternal: ["@nolebase/*"],
 		},
 	},
+	head: [
+		[
+			"link",
+			{
+				href: "https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap",
+				rel: "stylesheet",
+			},
+		],
+	],
 });
