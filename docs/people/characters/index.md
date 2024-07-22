@@ -334,7 +334,7 @@ tags:
 <td>孤雲山派</td>
 </tr>
 <tr>
-<td>孟仙謠</td>
+<td>[孟仙謠](special831)</td>
 <td>孤雲山派</td>
 </tr>
 <tr>
@@ -342,11 +342,11 @@ tags:
 <td>孤雲山派</td>
 </tr>
 <tr>
-<td>南溪</td>
+<td>[南溪](special829)</td>
 <td>孤雲山派</td>
 </tr>
 <tr>
-<td>梁有詩</td>
+<td>[梁有詩](special830)</td>
 <td>孤雲山派</td>
 </tr>
 <tr>
