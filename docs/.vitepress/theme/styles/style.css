@@ -5,6 +5,12 @@
     --vp-nav-logo-height: 90px;
     /* 滾動條顏色 */
     --scrollbar-color: #ced4d9;
+    /* 亮色介面 hover 深度 */
+    --vp-c-bg-alt: #d6d6d6;
+  }
+
+  .dark{
+    --vp-c-bg-alt: #0a0a0a;
   }
 
   html {
