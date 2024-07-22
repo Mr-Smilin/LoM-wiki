@@ -1,5 +1,8 @@
 <template>
-    <div :class="['background-image', imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': imagePosition }"></div>
+    <div :class="['human', imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': imagePosition }"></div>
+    <div :class="['layer-1',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': imagePosition }"></div>
+    <div :class="['layer-2',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': imagePosition }"></div>
+    <div :class="['background',imageAnima,imagePosition]"></div>
   </template>
   
   <script>
@@ -49,7 +52,7 @@
   </script>
   
   <style scoped>
-  .background-image {
+  .human {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -61,8 +64,51 @@
     background-position: var(--background-position);
     z-index: -2;
   }
+
+  .layer-1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    mask-size: auto 58vh;
+    mask-repeat: no-repeat;
+    mask-image: var(--background-image);
+    mask-position: var(--background-position);
+    background-color: azure;
+    opacity: 0.6;
+    z-index: -3;
+  }
+
+  .layer-2 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    mask-size: auto 58vh;
+    mask-repeat: no-repeat;
+    mask-image: var(--background-image);
+    mask-position: var(--background-position);
+    background-color: gray;
+    opacity: 0.3;
+    z-index: -3;
+  }
+
+  .background.anima.left{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-30%) translateX(-50%);
+    width: 100%;
+    height: 100%;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-image: url(/images/generic/background/back_intro.png);
+    z-index: -9;
+  }
   
-  .background-image.anima::before {
+  .human.anima::before {
     content: '';
     position: absolute;
     width: 100%;
@@ -77,6 +123,14 @@
     animation: reveal 1s forwards;
     z-index: -1;
   }
+
+  .layer-1.anima {
+    animation: moveLeft 1s ease-out 0.8s forwards;
+  }
+
+  .layer-2.anima {
+    animation: moveLeft2 3s ease-out 0.7s forwards;
+  }
   
   @keyframes reveal {
     0% {
@@ -89,5 +143,25 @@
       background-color: rgba(227, 227, 227, 0);
     }
   }
+
+  @keyframes moveLeft {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-10px); 
+  }
+}
+@keyframes moveLeft2 {
+  0% {
+    transform: translateX(0);
+  }
+  20%{
+    transform: translateX(-10px);
+  }
+  100% {
+    transform: translateX(-30px); 
+  }
+}
   </style>
   
