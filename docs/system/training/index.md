@@ -10,17 +10,42 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<BTable :stickyHeader="true">
+<BTable :stickyHeader="true" :tags="[
+  {
+    text: '道德+',
+  },
+  {
+    text: '道德-',
+  },
+  {
+    text: '名聲+',
+  },
+  {
+    text: '名聲-',
+  },
+  {
+    text: '性情+',
+  },
+  {
+    text: '性情-',
+  },
+  {
+    text: '修養+',
+  },
+  {
+    text: '修養-',
+  },
+]">
 	<tr>
 		<td :unsortable="true">圖片</td>
-		<td :unsortable="true">道德</td>
+		<td :unsortable="true">行動名稱</td>
 		<td :unsortable="true">事件名稱</td>
-		<td :unsortable="true">貢獻</td>
-		<td :unsortable="true">心相</td>
-		<td :unsortable="true">綠臉(心相:33~65)</td>
-		<td :unsortable="true">黃臉(心相&gt;=65)額外特效</td>
-		<td :unsortable="true">藍臉(心相:0~32)</td>
-		<td :unsortable="true">備註</td>
+		<td :unsortable="true">貢獻變化</td>
+		<td :unsortable="true">心相變化</td>
+		<td :unsortable="true"><MoodIcon :mood="`normal`">(心相:33~65)</MoodIcon></td>
+		<td :unsortable="true"><MoodIcon :mood="`high`">(心相&gt;=65)額外特效</MoodIcon></td>
+		<td :unsortable="true"><MoodIcon :mood="`bad`">(心相:0~32)</MoodIcon></td>
+		<td :unsortable="true">前置條件／補充說明</td>
 	</tr>
 	<tr>
 		<td>-</td>
@@ -30,8 +55,8 @@ tags:
 		<td>-12</td>
 		<td>學問+2<br />處世-1<br />向心-1</td>
 		<td>武學+2<br />鍛造+2<br />煉丹+2<br /></td>
-		<td>-</td>
-		<td>P_失敗_001</td>
+		<td>無</td>
+		<td>無</td>
 	</tr>
 	<tr>
 		<td>-</td>
@@ -41,8 +66,8 @@ tags:
 		<td>-12</td>
 		<td>修養+1<br />處世-1<br />向心-1<br />掌門好感+1</td>
 		<td>修養+1<br />處世+1</td>
-		<td>-</td>
-		<td>-</td>
+		<td>無</td>
+		<td>無</td>
 	</tr>
 	<tr>
 		<td>-</td>
@@ -53,7 +78,7 @@ tags:
 		<td>嘴力+1<br />處世+1<br />性情+1<br />道德-1<br />向心-1</td>
 		<td>無</td>
 		<td>-</td>
-		<td>P_失敗_003</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>-</td>
@@ -2495,15 +2520,15 @@ tags:
 		<td colspan="9" style="text-align: center">**離家出走**</td>
 	</tr>
 	<tr>
-		<td>-</td>
-		<td>釣魚</td>
-		<td>收穫豐富</td>
-		<td>-</td>
-		<td>10</td>
-		<td>銀兩+200</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">**釣魚**</td>
+		<td style="text-align: center">收穫豐富</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">10</td>
+		<td style="text-align: center">銀兩+200</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">-</td>
 	</tr>
 	<tr>
 		<td>-</td>
@@ -2603,5 +2628,98 @@ tags:
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
+	</tr>
+</BTable>
+
+
+以下是測試用區塊
+<BTable :stickyHeader="true" :unsearch=true>
+	<colgroup>
+		<col style="width:30%" />
+		<col style="width:70%" />
+	</colgroup>
+	<tr>
+		<td bgcolor="#C4E1FF" colspan="11" style="text-align: center">**離家出走**</td>
+	</tr>
+ <tr>
+		<td :unsortable="true" :unsortable=true style="text-align: center">行動</td>
+		<td :unsortable="true" :unsortable=true style="text-align: center">事件結果</td>
+		<td :unsortable="true" style="text-align: center">貢獻</td>
+		<td :unsortable="true" style="text-align: center">心相</td>
+		<td :unsortable="true" style="text-align: center">武學</td>
+		<td :unsortable="true" style="text-align: center">銀兩</td>
+		<td :unsortable="true" style="text-align: center">好感度</td>
+     	<td :unsortable="true" style="text-align: center">道德</td>
+     	<td :unsortable="true" style="text-align: center">名聲</td>
+     	<td :unsortable="true" style="text-align: center">修養</td>
+		<td :unsortable="true" style="text-align: center">前置條件／補充說明</td>
+	</tr>
+	<tr>
+		<td rowspan="5" style="text-align: center">**釣魚**</td>
+		<td style="text-align: center">收穫豐富</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">10</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">200</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">-</td>
+        <td style="text-align: center">-</td>
+        <td style="text-align: center">-</td>
+        <td style="text-align: center">-</td>
+	</tr>
+	<tr>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">沒什麼收穫</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">20</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">-</td>
+        <td style="text-align: center">-</td>
+        <td style="text-align: center">1</td>
+        <td style="text-align: center">-</td>
+	</tr>
+	<tr>
+		<td>-</td>
+		<td rowspan="2">女式衣裙</td>
+		<td>-</td>
+		<td>30</td>
+		<td rowspan="2">贏</td>
+        <td style="text-align: center">真的不是我：武學+2道德+1修養+1處世-1黃酒+1</td>
+		<td style="text-align: center">2</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">1</td>
+        <td style="text-align: center">-</td>
+        <td style="text-align: center">1</td>
+        <td style="text-align: center">可以利用此事件刷黃酒</td>
+	</tr>
+	<tr>
+		<td>-</td>
+		<td>女式衣裙</td>
+		<td>-</td>
+		<td>30</td>
+		<td>贏</td>
+        <td style="text-align: center">扔水</td>
+		<td style="text-align: center">2</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">-1</td>
+        <td style="text-align: center">-</td>
+        <td style="text-align: center">-1</td>
+        <td style="text-align: center">-</td>
+	</tr>
+	<tr>
+		<td>-</td>
+		<td>女式衣裙</td>
+		<td>-</td>
+		<td>30</td>
+		<td>輸</td>
+        <td style="text-align: center">-</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">-</td>
+		<td style="text-align: center">-</td>
+        <td style="text-align: center">-</td>
+        <td style="text-align: center">-</td>
+        <td style="text-align: center">-</td>
 	</tr>
 </BTable>
