@@ -52,16 +52,16 @@ tags:
 
 ## 第一年
 
-<table class="timeline-table">
+<BTable class="timeline-table">
     <tr class="timeline-header">
-        <th>類別</th>
-        <th>特定觸發地點</th>
-        <th>年</th>
-        <th>月</th>
-        <th>旬</th>
-        <th>事件內容</th>
-        <th>觸發條件</th>
-        <th>備註</th>
+        <td :unsortable=true>類別</td>
+        <td :unsortable=true>特定觸發地點</td>
+        <td :unsortable=true>年</td>
+        <td :unsortable=true>月</td>
+        <td :unsortable=true>旬</td>
+        <td :unsortable=true>事件內容</td>
+        <td :unsortable=true>觸發條件</td>
+        <td :unsortable=true>備註</td>
     </tr>
     <tr>
         <td>主線</td>
@@ -522,7 +522,7 @@ tags:
         <td>-</td>
         <td>-</td>
     </tr>
-</table>
+</BTable>
 </div>
 
 ::: warning
