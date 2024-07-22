@@ -25,8 +25,10 @@ tags:
 			<td>
 				<MarkdownWrapper>
                 [遊戲開局](/event/detailed_description/遊戲開局)<br> 
-				[第一晚：男弟子房](/event/detailed_description/男弟子房1)<br> 
+				[男弟子房：第一晚](/event/detailed_description/男弟子房1)<br> 
 				[伙房：初遇大師兄](/event/detailed_description/初識唐布衣)<br>
+				[煉丹房：初遇二師兄](/event/detailed_description/初識唐錚)<br>
+				[男弟子房：初遇四師兄](/event/detailed_description/初識唐惟元)<br>
 				</MarkdownWrapper>
 				<li>男弟子房：初遇大師兄</li>
 				<li>練功場：小師妹</li>
