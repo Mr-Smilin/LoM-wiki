@@ -46,7 +46,7 @@ td{
 }
 .label{
     flex: 1;
-    background-color: var(--vp-c-bg-alt);
+    background-color: var(--vp-c-bg-soft);
 }
 .value{
     flex: 2;

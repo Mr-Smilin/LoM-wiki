@@ -131,7 +131,8 @@ onMounted(() => {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: black;
+  background-color: var(--vp-c-gray-2);
+  border-radius: 5px;
   transition: opacity 0.3s ease;
 }
 
