@@ -163,3 +163,91 @@ tags:
 ```
 
 :::
+
+<ChTabs position="bottom">
+  <ChTab title="龍湘">
+    <ChBg
+      src='/images/characters/girl_8/normal.png' 
+      position='right'/>
+    <ChName nameZh='龍湘' nameEn='Long Xiang' position='right' />
+    <ChTable>
+      <ChTr>
+        <ChTd isTitle=true>
+          性別
+        </ChTd>
+        <ChTd>
+          女
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd isTitle=true>
+          年齡
+        </ChTd>
+        <ChTd>
+          不明，可能18上下
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd isTitle=true position='center'>
+          稱號
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd position='center'>
+          湘姊、||錦香宮殺人魔||、||雞腿俠||、||丐幫的行走錢包||
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd isTitle=true position='center'>
+          關係
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd position='center'>
+          龍淵(父親)
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd position='center'>  
+            溫夫人(師傅)
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd position='center'>
+          畫中仙(師姐)
+        </ChTd>
+      </ChTr>
+      <ChTr>
+        <ChTd position='center'>
+          趙活(臭弟)
+        </ChTd>
+      </ChTr>
+    </ChTable>
+  </ChTab>
+  <ChTab title="吃雞腿">
+    <ChBg 
+      src='/images/characters/girl_8/girl8_drumstick.png' 
+      position='right'
+      :animation=true />
+    <ChName
+      nameZh='吃雞腿'
+      nameEn='Chī jītuǐ'/>
+  </ChTab>
+  <ChTab title="debug">
+    <ChBg src='/images/characters/girl_8/laugh2.png'
+          position='left'
+          :animation=true />
+    <ChName 
+      nameZh='小師妹'
+      nameEn='唐默鈴'
+      position='classic'/>
+  </ChTab>
+  <ChTab title="戰鬥">
+    <ChBg src='/images/characters/girl_8/angry3.png'
+          position='right'
+          :animation=true />
+    <ChName 
+      nameZh='戰鬥'
+      nameEn='Fight'/>
+  </ChTab>
+</ChTabs>
