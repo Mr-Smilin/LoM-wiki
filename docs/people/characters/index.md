@@ -294,7 +294,7 @@ tags:
 <td>蒙古</td>
 </tr>
 <tr>
-<td>李仁友</td>
+<td>[李仁友](other7)</td>
 <td>極樂教</td>
 </tr>
 <tr>
@@ -326,7 +326,7 @@ tags:
 <td>廣州唐門</td>
 </tr>
 <tr>
-<td>千面人魔</td>
+<td>[千面人魔](other8)</td>
 <td>千燈樓</td>
 </tr>
 <tr>
