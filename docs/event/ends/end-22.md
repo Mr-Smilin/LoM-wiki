@@ -38,7 +38,7 @@ tags:
 
 ## 條件與流程
 
-<strong>條件：</strong>留學崆峒派，拜師<Girl5Icon :size="`small`">夏侯蘭</Girl5Icon><br>
+<strong>條件：</strong>留學崆峒派，拜師<Girl5Icon>夏侯蘭</Girl5Icon><br>
 **流程：**<br>
 1. 第二年二月上旬，直接選擇**📜「我想去崆峒派留學」**．
 2. 第二年三月上旬，進行門派抽籤，
