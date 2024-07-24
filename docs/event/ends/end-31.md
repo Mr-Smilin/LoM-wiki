@@ -71,7 +71,7 @@ tags:
      + 骰出**🧾【≧80】戰他娘親**：退隱江湖＋１票．
 4. 退隱江湖票數較多或票數相等與🗡️[[唐陞|三師兄]]決鬥勝利，決定遣散唐門．
 5. 前往大門，與<Girl5Icon>夏侯蘭</Girl5Icon>結緣、道德≧60【好人、俠客】，沒與優先度更高的角色結緣，進入結局．
-   + ※遣散唐門結局結緣優先度：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon :size="`medium`">上官瑩</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+   + ※遣散唐門結局結緣優先度(v1.0.3200.2)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon :size="`medium`">上官瑩</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
 ### ※四師兄歸來
 1. 第三年八月上旬唐門會議，選擇**📜「四師兄的遠行」**．再選擇**📖「故意提出一些難辦的要求」**．
