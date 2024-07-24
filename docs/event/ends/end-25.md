@@ -75,7 +75,7 @@ tags:
 出大門前有前往的地點，會加入傳奇文本．部分地點的內容會隨結緣對象、心上人與加入唐門成員有差異．
 
 ### 結緣對象
-結緣對象不同，結局劇情會不同，不影響傳奇文本．
+結緣對象不同，結局劇情會不同，不影響傳奇文本．<br>
 ※遣散唐門結局結緣優先度(v1.0.3200.2)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官瑩</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
 ### 四師兄歸來
