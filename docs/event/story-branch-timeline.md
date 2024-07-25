@@ -541,9 +541,7 @@ tags:
         </details>
         </td>
         <td>-</td>
-        <td>
-            <li>自動觸發</li>
-        </td>
+        <td>自動觸發</td>
         <td>-</td>
     </tr>
 </BTable>
