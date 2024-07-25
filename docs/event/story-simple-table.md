@@ -35,9 +35,15 @@ tags:
 				</MarkdownWrapper>
 			</td>
 			<td>
-				<li>被霸凌事件</li>
+				<MarkdownWrapper>
+				[蒙面人開導](/event/detailed_description/蒙面人開導)<br>
+				</MarkdownWrapper>
 			</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[初遇葉氏兄妹](/event/detailed_description/初遇葉氏兄妹)<br>
+				</MarkdownWrapper>
+			</td>
 		</tr>
 		<tr>
 			<td>五月</td>
@@ -78,7 +84,7 @@ tags:
 			</td>
 			<td>-</td>
 			<td>
-				<li>假趙活登場</li>
+				<li>假趙活登場(需要門派規模2)</li>
 			</td>
 		</tr>
 		<tr>
@@ -537,9 +543,12 @@ tags:
 	</table>
 </div>
 
-## 第四年 ``` 注：若條件無法成立西武林盟, 決戰於一月中旬發生,
+## 第四年 
 
-第三年年底不會成立西武林、出使別派事件 ```
+::: tip 成立西武林盟叉分 
+若條件無法成立西武林盟, 決戰於一月中旬發生,  
+第三年年底不會成立西武林、出使別派事件
+:::
 
 <div class="table-container">
 	<table>

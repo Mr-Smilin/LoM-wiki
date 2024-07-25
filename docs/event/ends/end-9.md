@@ -10,6 +10,9 @@ tags:
     - 汗青書
     - 結局
     - 竹之城
+    - 結婚
+    - 成親
+    - 郁竹
 ---
 
 # {{ $frontmatter.title }}
@@ -37,20 +40,20 @@ tags:
 
 ## 條件與流程
 
-<b>條件：</b>留學崆峒派，<Girl3Icon :size="`small`">虞小梅</Girl3Icon>加入唐門，心上人<Girl6Icon :size="`small`">郁竹</Girl6Icon>、<Girl6Icon :size="`small`">郁竹</Girl6Icon>好感度≧45<br>
+<b>條件：</b>留學崆峒派，<Girl3Icon>虞小梅</Girl3Icon>加入唐門，心上人<Girl6Icon>郁竹</Girl6Icon>、<Girl6Icon>郁竹</Girl6Icon>好感度≧45<br>
 <b>流程：</b><br>
-1. 第二年二月上旬，唐門會議選擇**📖「留學：崆峒派」**．
+1. 第二年二月上旬唐門會議，選擇**📜「我想去崆峒派留學」**．
 2. 第二年十月下旬，<Girl3Icon :size="`small`">虞小梅</Girl3Icon>加入唐門(需要<Girl3Icon :size="`small`">虞小梅</Girl3Icon>好感度≧20)．
 3. 第三年一月中旬，不隨[大師兄](/people/characters/brother1)下山．
-   + 🎲**需要多帶幫手嗎？....**(上限60、➕加值：[唐布衣](/people/characters/brother1)好感度）：骰出**🧾【＜80】不需要**．
-   + 🎲**需要多帶幫手嗎？....**(上限60、➕加值：[唐布衣](/people/characters/brother1)好感度）：骰出**🧾【≧80】不需要，我和趙活就夠了．**，後續選擇**📖「我才不要去咧(激烈抵抗)」**．
+   + 🎲**天命：需要多帶幫手嗎？....**(上限60、➕加值：[唐布衣](/people/characters/brother1)好感度）：骰出**🧾【＜80】不需要**．
+   + 🎲**天命：需要多帶幫手嗎？....**(上限60、➕加值：[唐布衣](/people/characters/brother1)好感度）：骰出**🧾【≧80】不需要，我和趙活就夠了．**，後續選擇**📖「我才不要去咧(激烈抵抗)」**．
 4. 第三年一月下旬，[大師兄](/people/characters/brother1)重傷歸來，選擇治療大師兄(開啟選項需要醫術≧5或總毒藥點數≧250)．
    + 選擇**📖「決意」**．
    + **📖「遲疑」**→**📖「大師兄不能死」**→**📖「決意」**．
    + **📖「遲疑」**→**📖「大師兄不能死」**→**📖「遲疑」**→**📖「大師兄不能死」**→**📖「決意」**．
    + **📖「遲疑」**→**📖「大師兄不能死」**→**📖「遲疑」**→**📖「大師兄不能死」**→**📖「遲疑」**．
-5. <Girl3Icon :size="`small`">虞小梅</Girl3Icon>出場後的選項選擇**📖「收功」**．
-6. 心上人<Girl6Icon :size="`small`">郁竹</Girl6Icon>，<Girl6Icon :size="`small`">郁竹</Girl6Icon>好感度≧45，選擇**📖「沒有」**進入結局．
+5. <Girl3Icon>虞小梅</Girl3Icon>出場後的選項選擇**📖「收功」**．
+6. 心上人<Girl6Icon>郁竹</Girl6Icon>，<Girl6Icon>郁竹</Girl6Icon>好感度≧45，選擇**📖「沒有」**，進入結局．
 
 ## 分歧與變化
 

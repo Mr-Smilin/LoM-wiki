@@ -13,11 +13,11 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-  <ChTab title="唐嬌嬌">
+  <ChTab title="狄傲">
     <ChBg
-      src='/images/characters/big_trainee_girl_1/normal.png' 
+      src='/images/characters/big_trainee_girl_1/normal2.png' 
       position='right'/>
-    <ChName nameZh='唐嬌嬌' nameEn='Tang Jiao Jiao' position='right' />
+    <ChName nameZh='狄傲' nameEn='Di Ao' position='right' />
     <ChTable>
       <ChTr>
         <ChTd isTitle=true>
@@ -28,30 +28,37 @@ tags:
         </ChTd>
       </ChTr>
       <ChTr>
-        <ChTd isTitle=true>
-          年齡
-        </ChTd>
-        <ChTd>
-          不明
-        </ChTd>
-      </ChTr>
-      <ChTr>
         <ChTd isTitle=true position='center'>
           關係
         </ChTd>
       </ChTr>
       <ChTr>
         <ChTd position='center'>
-          趙活 ~~(丈夫)~~(師兄)
+          趙活 ~~(丈夫)~~(獵物)
         </ChTd>
       </ChTr>
     </ChTable>
   </ChTab>
   <ChTab title="JOJO立">
     <ChBg 
+      src='/images/characters/big_trainee_girl_1/jojo2.png' 
+      position='right' />
+    <ChName
+      nameZh='JOJO立'
+      nameEn='Jojo Pose'/>
+  </ChTab>
+  <ChTab title="唐嬌嬌">
+    <ChBg 
+      src='/images/characters/big_trainee_girl_1/normal.png' 
+      position='right' />
+    <ChName
+      nameZh='唐嬌嬌'
+      nameEn='Tang Jiao Jiao'/>
+  </ChTab>
+  <ChTab title="JOJO立2">
+    <ChBg 
       src='/images/characters/big_trainee_girl_1/jojo.png' 
-      position='right'
-      :animation=true />
+      position='right' />
     <ChName
       nameZh='JOJO立'
       nameEn='Jojo Pose'/>
