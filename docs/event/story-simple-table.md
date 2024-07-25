@@ -35,9 +35,15 @@ tags:
 				</MarkdownWrapper>
 			</td>
 			<td>
-				<li>被霸凌事件</li>
+				<MarkdownWrapper>
+				[蒙面人開導](/event/detailed_description/蒙面人開導)<br>
+				</MarkdownWrapper>
 			</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[初遇葉氏兄妹](/event/detailed_description/初遇葉氏兄妹)<br>
+				</MarkdownWrapper>
+			</td>
 		</tr>
 		<tr>
 			<td>五月</td>
