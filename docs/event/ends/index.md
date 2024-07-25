@@ -103,7 +103,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: deeppink;">【結緣？】</span><br>
+            <span style="color: #FF1493;">【結緣？】</span><br>
             Demo版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪火．
         </td>
     </tr>
@@ -160,7 +160,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: FireBrick;">【小梅綁架】</span><span style="color: #FF2D51;">【虞小梅】</span><span style="color: #70AA39;">【郁竹】</span><span style="color: deeppink;">【結緣？】</span><br>
+            <span style="color: #B22222;">【小梅綁架】</span><span style="color: #FF2D51;">【虞小梅】</span><span style="color: #70AA39;">【郁竹】</span><span style="color: #FF1493;">【結緣？】</span><br>
             在治療大師兄時被虞小梅威脅中途收功，後被虞小梅軟禁世外桃源，不敢跟郁竹告白僅能成為鄰居，在世外桃源度過餘生．
         </td>
     </tr>
@@ -175,7 +175,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: FireBrick;">【小梅綁架】</span><span style="color: #FF2D51;">【虞小梅】</span><span style="color: #70AA39;">【郁竹】</span><span style="color: deeppink;">【結緣？】</span><br>
+            <span style="color: #B22222;">【小梅綁架】</span><span style="color: #FF2D51;">【虞小梅】</span><span style="color: #70AA39;">【郁竹】</span><span style="color: #FF1493;">【結緣？】</span><br>
             在治療大師兄時被虞小梅威脅中途收功，後被虞小梅軟禁世外桃源，跟郁竹結為夫妻，在世外桃源共度一生．
         </td>
     </tr>
@@ -190,7 +190,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: FireBrick;">【小梅綁架】</span><span style="color: #FF2D51;">【虞小梅】</span><span style="color: #70AA39;"><br>
+            <span style="color: #B22222;">【小梅綁架】</span><span style="color: #FF2D51;">【虞小梅】</span><span style="color: #70AA39;"><br>
             在治療大師兄時被虞小梅威脅中途收功，後被虞小梅軟禁世外桃源，一生只想著再次回到唐門．
         </td>
     </tr>
@@ -372,7 +372,7 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
-            <span style="color: Blue;">【夏侯蘭】</span><span style="color: Gold;">【魏菊】</span><span style="color: DeepPink;">【結緣？】</span><br>
+            <span style="color: Blue;">【夏侯蘭】</span><span style="color: Gold;">【魏菊】</span><span style="color: #FF1493;">【結緣？】</span><br>
             拜師夏侯蘭，與被夏侯蘭抓來的魏菊成親，在魏菊憂鬱而死後，離開江湖加入官場，成為與過去不同的人．
         </td>
     </tr>
