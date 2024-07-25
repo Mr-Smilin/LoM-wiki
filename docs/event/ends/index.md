@@ -103,6 +103,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: deeppink;">【結緣？】</span><br>
             Demo版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪火．
         </td>
     </tr>
@@ -159,7 +160,8 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            在治療大師兄時被虞小梅威脅中途收功，後被虞小梅軟禁世外桃源，跟郁竹成為鄰居，在世外桃源度過餘生．
+            <span style="color: FireBrick;">【小梅綁架】</span><span style="color: #FF2D51;">【虞小梅】</span><span style="color: #70AA39;">【郁竹】</span><span style="color: deeppink;">【結緣？】</span><br>
+            在治療大師兄時被虞小梅威脅中途收功，後被虞小梅軟禁世外桃源，不敢跟郁竹告白僅能成為鄰居，在世外桃源度過餘生．
         </td>
     </tr>
     <tr>
@@ -173,6 +175,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: FireBrick;">【小梅綁架】</span><span style="color: #FF2D51;">【虞小梅】</span><span style="color: #70AA39;">【郁竹】</span><span style="color: deeppink;">【結緣？】</span><br>
             在治療大師兄時被虞小梅威脅中途收功，後被虞小梅軟禁世外桃源，跟郁竹結為夫妻，在世外桃源共度一生．
         </td>
     </tr>
@@ -187,6 +190,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: FireBrick;">【小梅綁架】</span><span style="color: #FF2D51;">【虞小梅】</span><span style="color: #70AA39;"><br>
             在治療大師兄時被虞小梅威脅中途收功，後被虞小梅軟禁世外桃源，一生只想著再次回到唐門．
         </td>
     </tr>
@@ -201,6 +205,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: Blue;">【隨四師兄行商】</span><br>
             隨四師兄一同離開唐門，貿易行商．
         </td>
     </tr>
@@ -215,6 +220,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: Blue;">【隨四師兄行商】</span><span style="color: #E34234;">【唐默鈴】</span><br>
             依約與對感情含矇未懂的小師妹告別，隨四師兄一同離開唐門，貿易行商．
         </td>
     </tr>
@@ -229,6 +235,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: Blue;">【隨四師兄行商】</span><span style="color: #E34234;">【唐默鈴】</span><br>
             依約與淚流滿面的小師妹告別，隨四師兄一同離開唐門，貿易行商．
         </td>
     </tr>
@@ -244,6 +251,7 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
+            <span style="color: Blue;">【隨四師兄行商】</span><span style="color: #B0DCD5;">【葉雲裳】</span><br>
             心上人葉雲裳且高好感，隨四師兄一同離開唐門，貿易行商．
         </td>
     </tr>
@@ -272,6 +280,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: White;">【龍湘】</span><br>
             在破廟為龍湘擋下石灰卻因此失明，在龍湘劍術指導之下成為盲眼劍客．
         </td>
     </tr>
@@ -301,6 +310,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: Gray;">【離開唐門】</span><br>
             不留學，負氣離開唐門，送小師妹(或加上葉雲裳)回唐門後，依然選擇永遠離開唐門，浪跡天涯．
         </td>
     </tr>
@@ -316,6 +326,7 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
+            <span style="color: Gray;">【離開唐門】</span><br>
             不留學，負氣離開唐門，送小師妹(或加上葉雲裳)回唐門後，依然選擇永遠離開唐門，改投他派，因為精通道學被青城派收留．
         </td>
     </tr>
@@ -330,6 +341,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: Gray;">【離開唐門】</span><br>
             不留學，負氣離開唐門，送小師妹(或加上葉雲裳)回唐門後，依然選擇永遠離開唐門，退隱江湖．
         </td>
     </tr>
@@ -344,6 +356,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: Blue;">【夏侯蘭】</span><br>
             拜師夏侯蘭，在小師妹比武招親，金烏上人來襲的夜晚．不講武德進行圍毆還輸掉成為武林笑話，在恩師帶領下殺上崆峒派結清恩仇．
         </td>
     </tr>
@@ -359,6 +372,7 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
+            <span style="color: Blue;">【夏侯蘭】</span><span style="color: Gold;">【魏菊】</span><span style="color: DeepPink;">【結緣？】</span><br>
             拜師夏侯蘭，與被夏侯蘭抓來的魏菊成親，在魏菊憂鬱而死後，離開江湖加入官場，成為與過去不同的人．
         </td>
     </tr>
@@ -373,7 +387,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            即使已經與其他對象結緣，仍在在解散唐門時與龍湘告白，迫使龍湘投崖自盡．
+            即使已經有了紅粉知己，仍在在解散唐門時與龍湘告白，迫使龍湘投崖自盡．
         </td>
     </tr>
     <tr>
