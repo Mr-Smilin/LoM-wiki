@@ -540,6 +540,7 @@ tags:
                 </details>
             </details>
         </td>
+        <td>-</td>
         <td>自動觸發</td>
         <td>-</td>
     </tr>
