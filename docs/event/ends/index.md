@@ -212,7 +212,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: Blue;">【隨四師兄行商】</span><br>
+            <span style="color: #EEE8AA;">【隨四師兄行商】</span><br>
             隨四師兄一同離開唐門，貿易行商．
         </td>
     </tr>
@@ -227,7 +227,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: Blue;">【隨四師兄行商】</span>
+            <span style="color: #EEE8AA;">【隨四師兄行商】</span>
             <span style="color: #E34234;">【唐默鈴】</span><br>
             依約與對感情含矇未懂的小師妹告別，隨四師兄一同離開唐門，貿易行商．
         </td>
@@ -243,7 +243,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: Blue;">【隨四師兄行商】</span>
+            <span style="color: #EEE8AA;">【隨四師兄行商】</span>
             <span style="color: #E34234;">【唐默鈴】</span><br>
             依約與淚流滿面的小師妹告別，隨四師兄一同離開唐門，貿易行商．
         </td>
@@ -260,7 +260,7 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
-            <span style="color: Blue;">【隨四師兄行商】</span>
+            <span style="color: #EEE8AA;">【隨四師兄行商】</span>
             <span style="color: #B0DCD5;">【葉雲裳】</span><br>
             心上人葉雲裳且高好感，隨四師兄一同離開唐門，貿易行商．
         </td>
@@ -366,7 +366,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: Blue;">【夏侯蘭】</span><br>
+            <span style="color: #00BFFF;">【夏侯蘭】</span><br>
             拜師夏侯蘭，在小師妹比武招親，金烏上人來襲的夜晚．不講武德進行圍毆還輸掉成為武林笑話，在恩師帶領下殺上崆峒派結清恩仇．
         </td>
     </tr>
@@ -382,7 +382,7 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
-            <span style="color: Blue;">【夏侯蘭】</span>
+            <span style="color: #00BFFF;">【夏侯蘭】</span>
             <span style="color: Gold;">【魏菊】</span>
             <span style="color: #FF1493;">【結緣？】</span><br>
             拜師夏侯蘭，與被夏侯蘭抓來的魏菊成親，在魏菊憂鬱而死後，離開江湖加入官場，成為與過去不同的人．
@@ -399,6 +399,9 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: #0b2d64;">【解散唐門】</span>
+            <span style="color: White;">【龍湘】</span>
+            <span style="color: #FF1493;">【結緣？】</span><br>
             即使已經有了紅粉知己，仍在在解散唐門時與龍湘告白，迫使龍湘投崖自盡．
         </td>
     </tr>
