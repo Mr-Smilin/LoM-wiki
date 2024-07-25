@@ -174,8 +174,7 @@ tags:
             <EndIcon no="10">退隱江湖</EndIcon>
         </td>
         <td>
-            <!-- 結局概要 -->
-            <span style="color: #B22222;">【小梅綁架】</span><span style="color: #FF2D51;">【虞小梅】</span><span style="color: #70AA39;">【郁竹】</span><span style="color: #FF1493;">【結緣？】</span><br>
+            <!-- 結局概要 -->      
             在治療大師兄時被虞小梅威脅中途收功，後被虞小梅軟禁世外桃源，跟郁竹結為夫妻，在世外桃源共度一生．
         </td>
     </tr>
