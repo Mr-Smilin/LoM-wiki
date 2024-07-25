@@ -395,11 +395,11 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            趕海人
+            <EndIcon no="24">趕海人</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: #0b2d64;">【解散唐門】</span>
+            <span style="color: #006F86;">【解散唐門】</span>
             <span style="color: White;">【龍湘】</span>
             <span style="color: #FF1493;">【結緣？】</span><br>
             即使已經有了紅粉知己，仍在在解散唐門時與龍湘告白，迫使龍湘投崖自盡．
@@ -412,10 +412,11 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            退隱江湖
+            <EndIcon no="25">退隱江湖</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: #006F86;">【解散唐門】</span><br>
             解散唐門，退隱江湖．
         </td>
     </tr>
@@ -431,6 +432,9 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
+            <span style="color: #006F86;">【解散唐門】</span>
+            <span style="color: #FF2D51;">【虞小梅】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
             與虞小梅結緣的低道德解散唐門結局．
         </td>
     </tr>
@@ -446,6 +450,9 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
+            <span style="color: #006F86;">【解散唐門】</span>
+            <span style="color: #FF2D51;">【虞小梅】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
             與虞小梅結緣的高道德解散唐門結局．
         </td>
     </tr>
@@ -461,6 +468,9 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
+            <span style="color: #006F86;">【解散唐門】</span>
+            <span style="color: #70AA39;">【郁竹】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
             與郁竹結緣的低道德解散唐門結局．
         </td>
     </tr>
@@ -476,6 +486,9 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
+            <span style="color: #006F86;">【解散唐門】</span>
+            <span style="color: #70AA39;">【郁竹】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
             與郁竹結緣的高道德解散唐門結局．
         </td>
     </tr>
@@ -491,6 +504,9 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
+            <span style="color: #006F86;">【解散唐門】</span>
+            <span style="color: Gold;">【魏菊】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
             與魏菊結緣的解散唐門結局．
         </td>
     </tr>
@@ -501,7 +517,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            傳說之人
+            <EndIcon no="31">傳說之人</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -519,6 +535,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: #AA0000;">【戰死】</span><br>
             為了貫徹自己意志戰死．
         </td>
     </tr>
@@ -533,6 +550,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: Yellow;">【西武林盟】</span><br>
             東西武林教戰，在防守外堡的戰役中全軍覆沒．
         </td>
     </tr>
@@ -547,6 +565,8 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: #00BFFF;">【夏侯蘭】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
             在唐門滅門危機時，聽從夏侯蘭師令逃離唐門．
         </td>
     </tr>
@@ -561,6 +581,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: #AA0000;">【戰死】</span><br>
             在防守唐門大院的戰鬥中戰死．
         </td>
     </tr>
@@ -575,6 +596,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: #DC0000;">【唐門毀滅】</span>
             唐門滅門戰中，下山突圍到武林盟主前，敗給武林盟主．
         </td>
     </tr>
@@ -589,7 +611,10 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            與小師妹結緣，唐門滅門戰中下山突圍到武林盟主前，戰勝武林盟主．
+            <span style="color: #DC0000;">【唐門毀滅】</span>
+            <span style="color: #E34234;">【唐默鈴】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
+            與小師妹心心相印締結婚約後，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主．
         </td>
     </tr>
     <tr>
@@ -604,6 +629,9 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
+            <span style="color: #DC0000;">【唐門毀滅】</span>
+            <span style="color: #B0DCD5;">【葉雲裳】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
             與葉雲裳結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主．
         </td>
     </tr>
@@ -619,6 +647,9 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
+            <span style="color: #DC0000;">【唐門毀滅】</span>
+            <span style="color: MediumOrchid;">【上官螢】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
             與上官瑩結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主．
         </td>
     </tr>
@@ -634,6 +665,9 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
+            <span style="color: #DC0000;">【唐門毀滅】</span>
+            <span style="color: #FF2D51;">【虞小梅】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
             與虞小梅結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主．
         </td>
     </tr>
@@ -649,6 +683,9 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
+            <span style="color: #DC0000;">【唐門毀滅】</span>
+            <span style="color: #70AA39;">【郁竹】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
             與郁竹結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主．
         </td>
     </tr>
@@ -664,6 +701,9 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
+            <span style="color: #DC0000;">【唐門毀滅】</span>
+            <span style="color: Gold;">【魏菊】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
             與魏菊結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主．
         </td>
     </tr>
@@ -678,7 +718,10 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            與夏侯蘭結緣，唐門滅門戰中下山突圍到武林盟主前，戰勝武林盟主．
+            <span style="color: #DC0000;">【唐門毀滅】</span>
+            <span style="color: #00BFFF;">【夏侯蘭】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
+            身為欺師滅組的畜生，娶了恩師夏侯蘭後，唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主．
         </td>
     </tr>
     <tr>
@@ -692,7 +735,10 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            與龍湘結緣，唐門滅門戰中下山突圍到武林盟主前，戰勝武林盟主．
+            <span style="color: #DC0000;">【唐門毀滅】</span>
+            <span style="color: White;">【龍湘】</span>
+            <span style="color: #FF1493;">【結緣】</span><br>
+            化解龍湘的心魔與龍湘於後山拜堂，唐門滅門戰中下山突圍到武林盟主前，戰勝武林盟主．
         </td>
     </tr>
     <tr>
@@ -706,7 +752,8 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            無結緣，大師兄未存活，唐門滅門戰中下山突圍到武林盟主前，戰勝武林盟主．
+            <span style="color: #DC0000;">【唐門毀滅】</span><br>
+            唐門滅門戰中，下山突圍，最終孤身殺到武林盟主前，戰勝武林盟主，成為唐門最後一人．
         </td>
     </tr>
     <tr>
@@ -720,7 +767,8 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            無結緣，大師兄存活，唐門滅門戰中下山突圍到武林盟主前，戰勝武林盟主．
+            <span style="color: #DC0000;">【唐門毀滅】</span><br>
+            唐門滅門戰中，下山突圍，最終孤身殺到武林盟主前，戰勝武林盟主．與詐死歸來的大師兄相聲一生．
         </td>
     </tr>
     <tr>
@@ -734,6 +782,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: Yellow;">【西武林盟】</span><br>
             西武林盟成立後，在眉山決戰輸給武林盟主．
         </td>
     </tr>
@@ -748,6 +797,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: Yellow;">【西武林盟】</span><br>
             西武林盟成立後，在眉山決戰擊敗武林盟主．
         </td>
     </tr>
@@ -762,6 +812,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: Yellow;">【西武林盟】</span><br>
             東西武林盟交戰時敗給南宮深後，被南宮深救出．
         </td>
     </tr>
@@ -776,6 +827,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
+            <span style="color: #FF1493;">【結緣？】</span><br>
             打贏來唐門留學的唐嬌嬌，與唐嬌嬌成親加入峨嵋派．
         </td>
     </tr>
