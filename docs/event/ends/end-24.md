@@ -64,7 +64,7 @@ tags:
 6. 若已經有其他角色結緣，🗡️<Girl8Icon>龍湘</Girl8Icon>會發起決鬥，勝利後選擇**📖「我是不會放妳走的．」**，進入結局．
 
 ### ※金烏上人死亡
-::: details 
+::: details
 1. 第二年二月上旬唐門會議，
    + 選擇**📜「我想去崆峒派留學」**．第二年十月下旬，<Girl3Icon>虞小梅</Girl3Icon>好感度≧20：<Girl3Icon>虞小梅</Girl3Icon>加入唐門
    + 未滿足前項條件：<Girl3Icon>虞小梅</Girl3Icon>未加入唐門．
