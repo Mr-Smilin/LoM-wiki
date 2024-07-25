@@ -521,7 +521,6 @@ tags:
         <td>-</td>
         <td>-</td>
         <td>-</td>
-    </tr>
 </BTable>
 </div>
 
