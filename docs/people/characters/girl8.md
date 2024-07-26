@@ -28,7 +28,7 @@ borderless: false
           年齡
         </ChTd>
         <ChTd>
-          不明，可能18上下
+          推測18上下
         </ChTd>
       </ChTr>
       <ChTr>
@@ -38,7 +38,7 @@ borderless: false
       </ChTr>
       <ChTr>
         <ChTd position='center'>
-          湘姊、||錦香宮殺人魔||、||雞腿俠||、||丐幫的行走錢包||
+          錦香宮殺人魔<br>雞腿俠<br>丐幫的行走錢莊
         </ChTd>
       </ChTr>
       <ChTr>
@@ -48,22 +48,22 @@ borderless: false
       </ChTr>
       <ChTr>
         <ChTd position='center'>
-          龍淵(父親)
+          龍淵 (父親)
         </ChTd>
       </ChTr>
       <ChTr>
         <ChTd position='center'>  
-            溫夫人(師傅)
+            溫夫人 (師傅)
         </ChTd>
       </ChTr>
       <ChTr>
         <ChTd position='center'>
-          畫中仙(師姐)
+          畫中仙 (師姐)
         </ChTd>
       </ChTr>
       <ChTr>
         <ChTd position='center'>
-          趙活(臭弟)
+          趙活 (臭弟)
         </ChTd>
       </ChTr>
     </ChTable>
@@ -71,24 +71,29 @@ borderless: false
   <ChTab title="吃雞腿">
     <ChBg 
       src='/images/characters/girl_8/girl8_drumstick.png' 
-      position='right'
-      :animation=true />
+      position='right'/>
     <ChName
       nameZh='吃雞腿'
-      nameEn='Chī jītuǐ'/>
+      nameEn='Eat Drumstick'/>
+  </ChTab>
+  <ChTab title="雞腿劍">
+    <ChBg 
+      src='/images/characters/girl_8/drumstick_sword.png' 
+      position='right'/>
+    <ChName
+      nameZh='雞腿劍'
+      nameEn='Drumstick Sword'/>
   </ChTab>
   <ChTab title="大笑">
     <ChBg src='/images/characters/girl_8/laugh2.png'
-          position='right'
-          :animation=true />
+          position='right'/>
     <ChName 
-      nameZh='Laugh heartily'
-      nameEn='大笑'/>
+      nameZh='大笑'
+      nameEn='Laugh heartily'/>
   </ChTab>
   <ChTab title="戰鬥">
     <ChBg src='/images/characters/girl_8/angry3.png'
-          position='right'
-          :animation=true />
+          position='right'/>
     <ChName 
       nameZh='戰鬥'
       nameEn='Fight'/>
@@ -100,16 +105,14 @@ borderless: false
 > 「縱死俠骨香，不慚世上英。誰人書閣下，白首太玄雞。」
 
 <MarkdownWrapper>||想搶我雞腿，就算是詩仙也絕不原諒！||</MarkdownWrapper>
-
 <br><br>
-
 錦香宮弟子，劍術高超，英姿颯爽。沿著生父的足跡遊歷江湖，並遵奉師命行俠仗義，見《惜花令》的風流惡棍便一劍除掉。
-
+<br><br>
 可是收了劍後，卻是呆頭呆腦。烤隻雞不拔毛，錢包總是被割，生活一團糟。
+<br><br>
+熱愛雞腿，願餐餐都有雞腿吃。
 
-酷愛雞腿，願餐餐都有雞腿吃。
-
-<br clear="all">
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
@@ -160,3 +163,15 @@ borderless: false
     你最好別對這人心懷期待。
   </Tab>
 </Tabs>
+
+## 稱號
+
+錦香宮殺人魔，[[唐布衣]]亂取的稱號，後來人盡皆知。
+<br><br>
+雞腿俠，用一根雞腿就能收買她殺人。衡陽雁城十盜，便是窮苦百姓用雞腿買兇殺光的。那雁城十盜心狠手辣，武功高強，聽說劫來的財富，堪比一城之主。只可惜死於雞腿，真是令人感到委屈。
+<br><br>
+羊牯中的羊牯，丐幫認證移動錢莊。此人雖然貌美如花，劍法通神，但極其愚蠢，毫無學習能力可言，丐幫弟子碰到了，無不見獵心喜。《江湖鬼蜮錄》中，每一種伎倆她都中過！屢試不爽，可謂奇人。但若有人想迷暈了她施以輕薄的話，她會在夢中拿劍反擊。而且劍招比醒時還狠，從來不留活口。
+
+## 備註
+
+- 害龍湘掉入雞腿坑的罪魁禍首，[[王二壯]]親手烤的叫化雞，黃泥撥開，荷葉撥開，那個香～根本不是凡人能擋！
