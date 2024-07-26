@@ -50,6 +50,10 @@ tags:
 <td>蜀中唐門</td>
 </tr>
 <tr>
+<td>[唐鹿](other10)</td>
+<td>蜀中唐門</td>
+</tr>
+<tr>
 <td>[唐布衣](brother1)</td>
 <td>蜀中唐門</td>
 </tr>
@@ -303,6 +307,10 @@ tags:
 </tr>
 <tr>
 <td>[荊紅](special824)</td>
+<td>極樂教</td>
+</tr>
+<tr>
+<td>[袁乘風](other11)</td>
 <td>極樂教</td>
 </tr>
 <tr>
