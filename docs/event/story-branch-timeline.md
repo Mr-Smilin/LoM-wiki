@@ -522,6 +522,28 @@ tags:
         <td>-</td>
         <td>-</td>
     </tr>
+    <tr>
+        <td>定期</td>
+        <td>-</td>
+        <td>一</td>
+        <td>五</td>
+        <td>上</td>
+        <td>
+        <details>
+            <summary>貢獻評點(首次)(貢獻-50)</summary>
+            貢獻≧0：心相+15、向心+10<br>
+            <details>
+                <summary> 貢獻<0：心相-20、向心-5、唐中翎好感-1 </summary>
+                選項1：「狡辯」道德-1、處世-2、嘴力+1<br>
+                選項2：「講點好聽的話安慰他」(修養+1、唐陞+1)<br>
+                選項3「好啦好啦都我啦又我啦！」(道德<40)(<BadendIcon :no="10">生死簿 No.10「小師妹的制裁」</BadendIcon>)<br>
+             </details>
+        </details>
+        </td>
+        <td>-</td>
+        <td>自動觸發</td>
+        <td>-</td>
+    </tr>
 </BTable>
 </div>
 

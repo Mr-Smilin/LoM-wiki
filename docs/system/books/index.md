@@ -80,10 +80,10 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2007`">柴刀八斬法</BookItemIcon></td>
-        <td><span style="color: red;">無法修練<br>(v1.0.3200)</span></td>
-        <td>0</td>
+        <td>體力8<br>刀劍5</td>
+        <td>25</td>
         <td></td>
-        <td>二年不留學－二月上旬至五月下旬團練累積兩次後，五月上旬至下旬團練打贏[[唐嬌嬌|狄傲]]</td>
+        <td><s>二年不留學－二月上旬至五月下旬團練累積兩次後，五月上旬至下旬團練打贏狄傲</s><br>v1.0.3201：「唐嬌嬌加入唐門的觸發時間，改為在主任務劇情之後」，詳細待補</td>
         <td></td>
     </tr>
     <tr>
@@ -181,7 +181,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`4003`">蛇兔鷹猿搏</BookItemIcon></td>
-        <td>輕功15<br>拳掌15<br>爆發10<br>難知如陰<br>戰術LV1</td>
+        <td>輕功15<br>拳掌15<br>爆發10<br>難知如陰<br>形意拳LV1<br>戰術LV1</td>
         <td>50</td>
         <td>形意拳LV1</td>
         <td>拜師夏侯蘭，先取得《很是用力踢》，三年招親去後山練功拜祭。</td>
@@ -201,6 +201,14 @@ tags:
         <td>80</td>
         <td>佛學LV1</td>
         <td>參加武林大會路上遇到嵩山和尚拜師獲得(福韞好感4★)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`4006`">雷神腳</BookItemIcon></td>
+        <td>拳掌15<br>輕功10<br>形意拳LV2<br>神雷1</td>
+        <td>待補</td>
+        <td>形意拳LV1</td>
+        <td><MarkdownWrapper>[[唐嬌嬌]]、[[唐杉]]</MarkdownWrapper>加入唐門，唐杉隨大師兄下山，<br>西武林線派唐杉去說服峨嵋派，回來後與唐杉比試教他忘形篇</td>
         <td></td>
     </tr>
     <tr>
@@ -272,7 +280,7 @@ tags:
         <td>拳掌+5<br>輕功+3<br>形意拳LV1</td>
         <td>25</td>
         <td></td>
-        <td>二年留學點穴事件－防禦成功，第二戰不要贏，選平輩禮</td>
+        <td>二年留學點穴事件－防禦成功，第二戰不要贏，選平輩禮<br>四師兄販賣(第二年十月~第三年三月)</td>
         <td></td>
     </tr>
     <tr>

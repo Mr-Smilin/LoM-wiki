@@ -48,18 +48,23 @@ tags:
 		<tr>
 			<td>五月</td>
 			<td>
-				<li>檢查貢獻</li>
+				<MarkdownWrapper>
+				[貢獻評點](/event/detailed_description/貢獻評點)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>
-				<li>段考</li>
-			</td>
+				<MarkdownWrapper>
+				[初次段考](/event/detailed_description/初次段考)<br>
+				</MarkdownWrapper></td>
 		</tr>
 		<tr>
 			<td>六月</td>
 			<td>
-				<li>檢查貢獻</li>
-				<li>掌門談繼承人事件</li>
+				<MarkdownWrapper>
+				[貢獻評點](/event/detailed_description/貢獻評點)<br>
+				[掌門的安排](/event/detailed_description/掌門的安排)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>-</td>
