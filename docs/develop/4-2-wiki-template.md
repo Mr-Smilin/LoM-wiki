@@ -576,6 +576,20 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 大餅就能騙得你團團轉，可真划算．
 </EndBackground>
 
+```markdown
+<EndBackground no=0 title="沒有對應圖片的情況">
+沒有對應圖片的情況<br>
+沒有對應圖片的情況<br>
+沒有對應圖片的情況
+</EndBackground>
+```
+
+<EndBackground no=-1 title="沒有對應圖片的情況">
+沒有對應圖片的情況<br>
+沒有對應圖片的情況<br>
+沒有對應圖片的情況
+</EndBackground>
+
 ### 可用屬性寫法
 
 | 屬性名稱  | 值    | default | require |
