@@ -36,7 +36,7 @@ export default {
                 9: '',
                 10: '',
                 11: '',
-                12: '',
+                12: '/images/generic/background/pic_girlroom_free_002.png',
                 13: '',
                 14: '',
                 15: '',
@@ -77,8 +77,8 @@ export default {
                 50: '',
             };
             let cover = coverMapping[no] ? coverMapping[no] : '';
-            console.log("no:" + no + " type:" + typeof (no));
-            console.log("cover:" + cover)
+            //                backgroundImage: 'radial-gradient(30px 130px ellipse, transparent 90px, rgba(255, 222, 173, 0.9) 100px), url(' + withBase(cover) + ')'
+
             return {
                 backgroundImage: `url('${withBase(cover)}')`
             }
