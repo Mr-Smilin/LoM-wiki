@@ -41,6 +41,7 @@ try {
                 "  - 新聞\n" +
                 "  - 遊戲更新\n" +
                 "  - 更新\n" +
+                "gitChangelog: false\n" +
                 "---\n" +
                 "\n" +
                 "# {{ $frontmatter.title }}\n" +
