@@ -74,7 +74,7 @@ tags:
    + 票數相等且主角選擇退隱江湖，與🗡️[[唐陞|三師兄]]決鬥勝利。
    + 票數相等且[[唐陞|三師兄]]選擇退隱江湖，與🗡️[[唐陞|三師兄]]決鬥敗戰。
 5. 前往大門，與<Girl5Icon>夏侯蘭</Girl5Icon>結緣、道德≧60【好人、俠客】，沒與優先度更高的角色結緣，進入結局。
-   + ※遣散唐門結局結緣優先度(v1.0.3200.2)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官瑩</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+   + ※遣散唐門結局結緣優先度(v1.0.3200.2)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
 ### ※金烏上人死亡(未達成就存活)
 ::: details
