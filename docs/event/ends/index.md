@@ -39,7 +39,7 @@ tags:
     { text: '【離開唐門】' },
     { text: '【戰死】' },
     { text: '【遣散唐門】' },
-    { text: '【頑抗到底】' },
+    { text: '【唐門覆滅】' },
     { text: '【西武林盟】' }
     ]">
     <tr>
@@ -615,7 +615,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: #DC0000;">【頑抗到底】</span>
+            <span style="color: #DC0000;">【唐門覆滅】</span>
             唐門滅門戰中，下山突圍到武林盟主前，敗給武林盟主。
         </td>
     </tr>
@@ -630,7 +630,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: #DC0000;">【頑抗到底】</span>
+            <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: #E34234;">【唐默鈴】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
             與小師妹心心相印締結婚約後，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主。
@@ -648,7 +648,7 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
-            <span style="color: #DC0000;">【頑抗到底】</span>
+            <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: #B0DCD5;">【葉雲裳】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
             與葉雲裳結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主。
@@ -666,7 +666,7 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
-            <span style="color: #DC0000;">【頑抗到底】</span>
+            <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: MediumOrchid;">【上官螢】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
             與上官瑩結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主。
@@ -684,7 +684,7 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
-            <span style="color: #DC0000;">【頑抗到底】</span>
+            <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: #FF2D51;">【虞小梅】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
             與虞小梅結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主。
@@ -702,7 +702,7 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
-            <span style="color: #DC0000;">【頑抗到底】</span>
+            <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: #70AA39;">【郁竹】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
             與郁竹結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主。
@@ -720,7 +720,7 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
-            <span style="color: #DC0000;">【頑抗到底】</span>
+            <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: Gold;">【魏菊】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
             與魏菊結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主。
@@ -737,7 +737,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: #DC0000;">【頑抗到底】</span>
+            <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: #00BFFF;">【夏侯蘭】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
             身為欺師滅組的畜生，娶了恩師夏侯蘭後，唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主。
@@ -754,7 +754,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: #DC0000;">【頑抗到底】</span>
+            <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: White;">【龍湘】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
             化解龍湘的心魔與龍湘於後山拜堂，唐門滅門戰中下山突圍到武林盟主前，戰勝武林盟主。
@@ -771,7 +771,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: #DC0000;">【頑抗到底】</span><br>
+            <span style="color: #DC0000;">【唐門覆滅】</span><br>
             唐門滅門戰中，下山突圍，最終孤身殺到武林盟主前，戰勝武林盟主，成為唐門最後一人。
         </td>
     </tr>
@@ -786,7 +786,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: #DC0000;">【頑抗到底】</span><br>
+            <span style="color: #DC0000;">【唐門覆滅】</span><br>
             唐門滅門戰中，下山突圍，最終孤身殺到武林盟主前，戰勝武林盟主。與詐死歸來的大師兄相聲一生。
         </td>
     </tr>
