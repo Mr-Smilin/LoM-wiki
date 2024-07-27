@@ -122,6 +122,7 @@ export default {
     width: 192px;
     height: 280px;
     border-radius: 50px;
+    mask-image: radial-gradient(circle, rgba(0, 0, 0, 1) 70%, rgba(0, 0, 0, 0) 100%);
 }
 
 .bookcover:after {
