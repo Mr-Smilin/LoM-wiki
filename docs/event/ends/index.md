@@ -580,7 +580,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            行屍走肉
+            <EndIcon no="34">行屍走肉</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -626,7 +626,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            唐門薪火
+            <EndIcon no="37">唐門薪火</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -733,7 +733,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            失寵
+            <EndIcon no="43">失寵</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -767,7 +767,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            最後的唐門弟子
+            <EndIcon no="45">最後的唐門弟子</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -782,7 +782,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            相聲二人組
+            <EndIcon no="46">相聲二人組</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
