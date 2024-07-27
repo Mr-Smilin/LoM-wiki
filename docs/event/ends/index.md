@@ -611,11 +611,11 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            唐門的暗器
+            <EndIcon no="36">唐門的暗器</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: #DC0000;">【唐門覆滅】</span>
+            <span style="color: #DC0000;">【唐門覆滅】</span><br>
             唐門滅門戰中，下山突圍到武林盟主前，敗給武林盟主。
         </td>
     </tr>
