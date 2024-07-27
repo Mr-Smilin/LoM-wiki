@@ -30,7 +30,7 @@ tags:
 <strong>條件：</strong>與<Girl0Icon>小師妹</Girl0Icon>結緣，進入頑抗到底劇情線．<br>
 **流程：**<br>
 
-### ※與小師妹結緣
+### 一、與小師妹結緣
 1. 第三年五月上旬動作前，比武招親當晚，[[金烏上人]]來襲。
 2. 心上人為<Girl0Icon>唐默鈴</Girl0Icon>且<Girl0Icon>唐默鈴</Girl0Icon>好感度≧50，<Girl0Icon>小師妹</Girl0Icon>會同行下山。
 3. 🗡️跟[[金烏上人]]決鬥勝利(<Girl0Icon>小師妹</Girl0Icon>同行下山時，敗戰不會有第二次挑戰機會)。
