@@ -65,7 +65,7 @@ tags:
      + **📖選項「全力突圍」**：⚔️混戰，勝負不影響．
      + **📖選項「片甲不留」**：⚔️混戰，需勝利→⚔️混戰，勝負不影響．
 6. 🗡️與武林盟主-[[瑞笙]]決鬥，勝利後，沒與優先度更高的角色結緣，進入結局。
-   + ※唐門覆滅結局結緣優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官瑩</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Gir
+   + ※唐門覆滅結局結緣優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官瑩</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 
 ## 分歧與變化
 
