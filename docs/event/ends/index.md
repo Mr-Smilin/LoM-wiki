@@ -38,7 +38,7 @@ tags:
     { text: '【隨四師兄行商】' },
     { text: '【離開唐門】' },
     { text: '【戰死】' },
-    { text: '【解散唐門】' },
+    { text: '【遣散唐門】' },
     { text: '【頑抗到底】' },
     { text: '【西武林盟】' }
     ]">
@@ -418,10 +418,10 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: #006F86;">【解散唐門】</span>
+            <span style="color: #006F86;">【遣散唐門】</span>
             <span style="color: White;">【龍湘】</span>
             <span style="color: #FF1493;">【結緣？】</span><br>
-            即使已經有了紅粉知己，仍在在解散唐門時與龍湘告白，迫使龍湘投崖自盡．
+            即使已經有了紅粉知己，仍在在遣散唐門時與龍湘告白，迫使龍湘投崖自盡．
         </td>
     </tr>
     <tr>
@@ -435,8 +435,8 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: #006F86;">【解散唐門】</span><br>
-            解散唐門，退隱江湖．
+            <span style="color: #006F86;">【遣散唐門】</span><br>
+            遣散唐門，退隱江湖．
         </td>
     </tr>
     <tr>
@@ -451,10 +451,10 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
-            <span style="color: #006F86;">【解散唐門】</span>
+            <span style="color: #006F86;">【遣散唐門】</span>
             <span style="color: #FF2D51;">【虞小梅】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            與虞小梅結緣的低道德解散唐門結局．
+            與虞小梅結緣的低道德遣散唐門結局．
         </td>
     </tr>
     <tr>
@@ -469,10 +469,10 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
-            <span style="color: #006F86;">【解散唐門】</span>
+            <span style="color: #006F86;">【遣散唐門】</span>
             <span style="color: #FF2D51;">【虞小梅】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            與虞小梅結緣的高道德解散唐門結局．
+            與虞小梅結緣的高道德遣散唐門結局．
         </td>
     </tr>
     <tr>
@@ -487,10 +487,10 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
-            <span style="color: #006F86;">【解散唐門】</span>
+            <span style="color: #006F86;">【遣散唐門】</span>
             <span style="color: #70AA39;">【郁竹】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            與郁竹結緣的低道德解散唐門結局．
+            與郁竹結緣的低道德遣散唐門結局．
         </td>
     </tr>
     <tr>
@@ -505,10 +505,10 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
-            <span style="color: #006F86;">【解散唐門】</span>
+            <span style="color: #006F86;">【遣散唐門】</span>
             <span style="color: #70AA39;">【郁竹】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            與郁竹結緣的高道德解散唐門結局．
+            與郁竹結緣的高道德遣散唐門結局．
         </td>
     </tr>
     <tr>
@@ -523,10 +523,10 @@ tags:
         <td>
             <!-- 結局概要 -->
             <span style="color: red;">【目前版本無法達成】</span><br>
-            <span style="color: #006F86;">【解散唐門】</span>
+            <span style="color: #006F86;">【遣散唐門】</span>
             <span style="color: Gold;">【魏菊】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            與魏菊結緣的解散唐門結局．
+            與魏菊結緣的遣散唐門結局．
         </td>
     </tr>
     <tr>
@@ -540,7 +540,7 @@ tags:
         </td>
         <td>
             <!-- 結局概要 -->
-            與夏後蘭結緣的高道德解散唐門結局．
+            與夏後蘭結緣的高道德遣散唐門結局．
         </td>
     </tr>
     <tr>
@@ -750,7 +750,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            雞腿大亨
+            <EndIcon no="44">雞腿大亨</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
