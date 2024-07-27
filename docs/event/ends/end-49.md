@@ -77,7 +77,8 @@ tags:
 
 ## 分歧與變化
 ### 結緣對象
-若有結緣對象，不同的結緣對象，結局劇情跟傳奇文本會有差異。(優先度待確認)
+若有結緣對象，不同的結緣對象，結局劇情跟傳奇文本會有差異。
 + <Girl0Icon>唐默鈴</Girl0Icon>：逃往東海
 + <Girl5Icon>夏侯蘭</Girl5Icon>：回大雪山
 + <Girl8Icon>龍湘</Girl8Icon>：逃往金國
+※喪家之犬結緣優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
