@@ -566,8 +566,8 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 ## 結局組件
 ```markdown
 <EndBackground no=8 title="被煮的狗">
-兔死狗烹，你這走狗已經沒有用了．用張<br>
-大餅就能騙得你團團轉，可真划算．<br>
+兔死狗烹，你這走狗已經沒有用了。用張<br>
+大餅就能騙得你團團轉，可真划算。<br>
 </EndBackground>
 ```
 
