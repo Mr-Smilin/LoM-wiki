@@ -56,6 +56,12 @@ import Info from "./components/info/Info.vue";
 import "./styles/style.css";
 import "./styles/borderless.css";
 import "./styles/twikoo.css";
+// import EndBackground
+import EndBackground from "./components/background/EndBackground.vue";
+import EndTitle from "./components/background/EndTitle.vue";
+import EndContext from "./components/background/EndContext.vue";
+import EndBook from "./components/background/EndBook.vue";
+
 
 export default {
   extends: DefaultTheme,
@@ -146,5 +152,11 @@ export default {
     app.component("WikiLink", WikiLink);
     app.component("InfoList", InfoList);
     app.component("Info", Info);
+
+    // EndBackground component
+    app.component("EndBackground", EndBackground);
+    app.component("EndTitle", EndTitle);
+    app.component("EndContext", EndContext);
+    app.component("EndBook", EndBook);
   },
 };

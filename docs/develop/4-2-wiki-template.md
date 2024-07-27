@@ -562,3 +562,42 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 ```
 
 :::
+
+## 結局組件
+```markdown
+<EndBackground no=8 title="被煮的狗">
+兔死狗烹，你這走狗已經沒有用了。用張<br>
+大餅就能騙得你團團轉，可真划算。<br>
+</EndBackground>
+```
+
+<EndBackground no=8 title="被煮的狗">
+兔死狗烹，你這走狗已經沒有用了．用張<br>
+大餅就能騙得你團團轉，可真划算．
+</EndBackground>
+
+```markdown
+<EndBackground no=0 title="沒有對應圖片的情況">
+沒有對應圖片的情況<br>
+沒有對應圖片的情況<br>
+沒有對應圖片的情況
+</EndBackground>
+```
+
+<EndBackground no=-1 title="沒有對應圖片的情況">
+沒有對應圖片的情況<br>
+沒有對應圖片的情況<br>
+沒有對應圖片的情況
+</EndBackground>
+
+### 可用屬性寫法
+
+| 屬性名稱  | 值    | default | require |
+|:------|:-----|:--------| :------ |
+| no    | 0~50 | x       | x       |
+| title | 一般文字 | x       | x       |
+
+註： 
+1. 結局描述直接放在標記符中即可，如以上範例 `兔死狗烹，...可真划算．`此段文字的位置。
+2. 部分結局可能會有圖片共用、與目前圖片缺漏情形，待補。
+3. 此部分顯示自動分為行動裝置版本與一般版本、若有編輯上異常請於discord反饋，將於之後有機會再次改進。
