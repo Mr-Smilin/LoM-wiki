@@ -14,26 +14,10 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<table style="text-align:center;">
-    <tr>
-        <td WIDTH=565 BGCOLOR="#dacbb2">
-            <hr><br>
-            <font size="7" color="#a83232"><strong>&emsp;&emsp;被煮的狗</strong></font>
-            <br>
-            <br>
-            <font size="5" color="000000">
-            <strong>
-            &emsp;&emsp;兔死狗烹，你這走狗已經沒有用了．用張<br>
-            &emsp;&emsp;大餅就能騙得你團團轉，可真划算．<br>
-            &emsp;&emsp;<br>
-            &emsp;&emsp;<br>
-            <br>
-            </strong>
-            </font>
-            <hr>
-        </td>
-    </tr>
-</table>
+<EndBackground no=8 title="被煮的狗">
+兔死狗烹，你這走狗已經沒有用了．用張<br>
+大餅就能騙得你團團轉，可真划算．<br>
+</EndBackground>
 
 ## 條件與流程
 
