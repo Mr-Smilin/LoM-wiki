@@ -30,22 +30,22 @@ export default {
                 3: '',
                 4: '',
                 5: '',
-                6: '',
-                7: '',
+                6: '/images/generic/background/pic_sleep_000.png',
+                7: '/images/generic/background/pic_treehouse_000.png',
                 8: '/images/generic/background/pic_end_0000.png',
                 9: '',
                 10: '',
-                11: '',
+                11: '/images/generic/background/pic_girlroom_free_002.png',
                 12: '/images/generic/background/pic_girlroom_free_002.png',
                 13: '',
                 14: '',
                 15: '',
                 16: '',
-                17: '',
+                17: '/images/generic/background/pic_spa_002.png',
                 18: '',
-                19: '',
+                19: '/images/generic/background/pic_walk_001.png',
                 20: '',
-                21: '',
+                21: '/images/generic/background/pic_inn_000.png',
                 22: '',
                 23: '',
                 24: '',
@@ -58,26 +58,25 @@ export default {
                 31: '',
                 32: '/images/generic/background/pic_backmountain_work_002.png',
                 33: '',
-                34: '',
-                35: '',
-                36: '',
-                37: '',
+                34: '/images/generic/background/pic_door_work_003.png',
+                35: '/images/generic/background/pic_end_0000.png',
+                36: '/images/generic/background/pic_fortress_002.png',
+                37: '/images/generic/background/pic_sunset_000.png',
                 38: '',
                 39: '',
                 40: '',
                 41: '',
                 42: '',
-                43: '',
-                44: '',
-                45: '',
-                46: '',
-                47: '',
-                48: '',
+                43: '/images/generic/background/pic_girl_002.png',
+                44: '/images/generic/background/pic_girl_walk_001.png',
+                45: '/images/generic/background/pic_room_free_002.png',
+                46: '/images/generic/background/pic_study_001.png',
+                47: '/images/generic/background/pic_end_0000.png',
+                48: '/images/generic/background/pic_end_0000.png',
                 49: '',
                 50: '',
             };
             let cover = coverMapping[no] ? coverMapping[no] : '';
-            //                backgroundImage: 'radial-gradient(30px 130px ellipse, transparent 90px, rgba(255, 222, 173, 0.9) 100px), url(' + withBase(cover) + ')'
 
             return {
                 backgroundImage: `url('${withBase(cover)}')`
@@ -122,7 +121,7 @@ export default {
     width: 192px;
     height: 280px;
     border-radius: 50px;
-    mask-image: radial-gradient(circle, rgba(0, 0, 0, 1) 70%, rgba(0, 0, 0, 0) 100%);
+    mask-image: radial-gradient(100px 220px ellipse, rgba(0, 0, 0, 1) 70%, rgba(0, 0, 0, 0) 100%);
 }
 
 .bookcover:after {
