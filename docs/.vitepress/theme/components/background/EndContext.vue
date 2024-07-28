@@ -20,9 +20,27 @@ export default {
 
 <style scoped>
 .context {
-    padding: 0px 0px 60px 40px;
+    padding: 0px 0px 60px 13%;
     font-size: 16px;
     color: #000000;
     font-family: inherit;
+}
+@media screen and (max-width: 768px) and (min-width: 500px){
+    .context {
+        margin: 0 auto;
+        max-width: 400px;
+        padding: 0px 0px 60px 0px;
+        font-size: 16px;
+        color: #000000;
+        font-family: inherit;
+    }
+}
+@media screen and (min-width: 768px){
+    .context {
+        padding: 0px 0px 60px 40px;
+        font-size: 16px;
+        color: #000000;
+        font-family: inherit;
+    }
 }
 </style>
