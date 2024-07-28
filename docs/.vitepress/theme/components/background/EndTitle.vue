@@ -22,7 +22,7 @@ export default {
 .title {
     position: relative;
     padding: 10px 0px 15px 0px;
-    mergin: 0 auto;
+    margin: 0 auto;
     text-align: center;
     font-size: 26px;
     color: #a83232;
