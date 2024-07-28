@@ -15,6 +15,12 @@ tags:
 
 # {{ $frontmatter.title }}
 
+<EndBackground no=22 title="恩仇的盡頭">
+你的怒火將天邊的雲霞都燒得通紅。報了<br>
+恩，也報了仇。恩怨皆成灰，席捲上天，<br>
+隨風遠去。
+</EndBackground>
+
 <table style="text-align:center;">
     <tr>
         <td WIDTH=565 BGCOLOR="#dacbb2">

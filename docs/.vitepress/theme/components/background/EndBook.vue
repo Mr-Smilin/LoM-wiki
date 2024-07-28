@@ -46,10 +46,10 @@ export default {
                 19: '/images/generic/background/pic_walk_001.png',
                 20: '',
                 21: '/images/generic/background/pic_inn_000.png',
-                22: '',
+                22: '/images/generic/background/pic_fortress_002.png',
                 23: '',
                 24: '',
-                25: '',
+                25: '/images/generic/background/pic_farm_001.png',
                 26: '',
                 27: '',
                 28: '',
@@ -120,7 +120,7 @@ export default {
     padding: 5px;
     width: 192px;
     height: 280px;
-    border-radius: 50px;
+    border-radius: 40px;
     mask-image: radial-gradient(100px 220px ellipse, rgba(0, 0, 0, 1) 70%, rgba(0, 0, 0, 0) 100%);
 }
 
