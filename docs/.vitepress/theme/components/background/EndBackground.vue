@@ -87,8 +87,23 @@ export default {
     display: none;
 }
 
+@media screen and (max-width: 768px) and (min-width: 500px){
+    .mobile-background {
+        display: block;
+        align-items: center;
+        justify-content: center;
+        background-repeat: no-repeat;
+        z-index: -1;
+        background-size: 100% 150%;
+        background-position: 50% 40%;
+        max-width: 500px;
+        margin: 0 auto;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .background {
+        max-width: 500px;
         width: 100%;
         height: 100%;
         display: none;
