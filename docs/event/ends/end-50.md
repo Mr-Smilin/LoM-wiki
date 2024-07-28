@@ -17,6 +17,11 @@ tags:
 
 # {{ $frontmatter.title }}
 
+<EndBackground no=50 title="峨嵋弟子">
+你成為峨嵋弟子，享受和旁人一樣的待遇<br>
+與義務。以武林一員的身分參與了幾件武<br>
+林大事，無功無過，老了退隱。<br>
+</EndBackground>
 <table style="text-align:center;">
     <tr>
         <td WIDTH=565 BGCOLOR="#dacbb2">
