@@ -29,6 +29,7 @@ export default {
     .context {
         margin: 0 auto;
         max-width: 400px;
+        padding-bottom: 60px;
         font-size: 16px;
         color: #000000;
         font-family: inherit;
