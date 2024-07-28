@@ -22,26 +22,6 @@ tags:
 與義務。以武林一員的身分參與了幾件武<br>
 林大事，無功無過，老了退隱。<br>
 </EndBackground>
-<table style="text-align:center;">
-    <tr>
-        <td WIDTH=565 BGCOLOR="#dacbb2">
-            <hr><br>
-            <font size="7" color="#a83232"><strong>&emsp;&emsp;峨嵋弟子</strong></font>
-            <br>
-            <br>
-            <font size="5" color="000000">
-            <strong>
-            &emsp;&emsp;你成為峨嵋弟子，享受和旁人一樣的待遇<br>
-            &emsp;&emsp;與義務。以武林一員的身分參與了幾件武<br>
-            &emsp;&emsp;林大事，無功無過，老了退隱。<br>
-            &emsp;&emsp;<br>
-            <br>
-            </strong>
-            </font>
-            <hr>
-        </td>
-    </tr>
-</table>
 
 ## 條件與流程
 
