@@ -10,7 +10,7 @@ tags:
     - 汗青書
     - 結局
     - 殉志而死
-    = 戰死
+    - 戰死
 ---
 
 # {{ $frontmatter.title }}
