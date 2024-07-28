@@ -15,26 +15,12 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<table style="text-align:center;">
-    <tr>
-        <td WIDTH=565 BGCOLOR="#dacbb2">
-            <hr><br>
-            <font size="7" color="#a83232"><strong>&emsp;&emsp;退隱江湖</strong></font>
-            <br>
-            <br>
-            <font size="5" color="000000">
-            <strong>
-            &emsp;&emsp;你退隱之後，江湖故事再也不聞不問。波<br>
-            &emsp;&emsp;瀾都在頭先廿載，餘生不受盛名所牽。你<br>
-            &emsp;&emsp;來過，你走了，也許沒人在意，可是你自<br>
-            &emsp;&emsp;己曉得。<br>
-            <br>
-            </strong>
-            </font>
-            <hr>
-        </td>
-    </tr>
-</table>
+<EndBackground no=25 title="退隱江湖">
+你退隱之後，江湖故事再也不聞不問。波<br>
+瀾都在頭先廿載，餘生不受盛名所牽。你<br>
+來過，你走了，也許沒人在意，可是你自<br>
+己曉得。<br>
+</EndBackground>
 
 ## 條件與流程
 

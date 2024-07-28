@@ -15,26 +15,11 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<table style="text-align:center;">
-    <tr>
-        <td WIDTH=565 BGCOLOR="#dacbb2">
-            <hr><br>
-            <font size="7" color="#a83232"><strong>&emsp;&emsp;恩仇的盡頭</strong></font>
-            <br>
-            <br>
-            <font size="5" color="000000">
-            <strong>
-            &emsp;&emsp;你的怒火將天邊的雲霞都燒得通紅。報了<br>
-            &emsp;&emsp;恩，也報了仇。恩怨皆成灰，席捲上天，<br>
-            &emsp;&emsp;隨風遠去。<br>
-            &emsp;&emsp;<br>
-            <br>
-            </strong>
-            </font>
-            <hr>
-        </td>
-    </tr>
-</table>
+<EndBackground no=22 title="恩仇的盡頭">
+你的怒火將天邊的雲霞都燒得通紅。報了<br>
+恩，也報了仇。恩怨皆成灰，席捲上天，<br>
+隨風遠去。
+</EndBackground>
 
 ## 條件與流程
 
