@@ -54,7 +54,7 @@ tags:
 ### 結緣對象
 根據結緣對象有不同結局，影響傳奇文本．
 + <Girl8Icon>龍湘</Girl8Icon>：與主角雙雙戰死．
-+ <Girl0Icon>唐默鈴</Girl0Icon>：<Girl0Icon>小師妹</Girl0Icon>獨活．
++ <Girl0Icon>唐默鈴</Girl0Icon>：超級虐心的<Girl0Icon>小師妹</Girl0Icon>獨活．
 + <Girl5Icon>夏侯蘭</Girl5Icon>：帶主角屍體回到雪山安葬，守墓一生．
 ※慷慨就義結局結緣優先度(v1.0.3201.1)：<Girl8Icon>龍湘</Girl8Icon>＞<Girl4Icon>上官瑩</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
