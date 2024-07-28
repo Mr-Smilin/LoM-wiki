@@ -549,8 +549,8 @@ tags:
             結局32
         </td>
         <td style="color: #a83232;">
-            <!-- 結局名稱 -->
-            殉志而死
+            <!-- 結局名稱 -->            
+            <EndIcon no="32">殉志而死</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -596,7 +596,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            慷慨就義
+            <EndIcon no="35">慷慨就義</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
