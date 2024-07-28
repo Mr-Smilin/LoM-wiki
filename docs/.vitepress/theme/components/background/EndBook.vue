@@ -74,7 +74,7 @@ export default {
                 47: '/images/generic/background/pic_end_0000.png',
                 48: '/images/generic/background/pic_end_0000.png',
                 49: '',
-                50: '',
+                50: '/images/generic/background/pic_treehouse_000.png',
             };
             let cover = coverMapping[no] ? coverMapping[no] : '';
 
