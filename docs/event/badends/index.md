@@ -642,7 +642,7 @@ tags:
         </td>
         <td>
             有機會骰到被馬踩死一定要試一試，<br>
-            因為後來繼承、能力點高了就骰不到了。
+            <MoodIcon mood="high">高心相無法觸發</MoodIcon>
         </td>
     </tr>
     <tr>
