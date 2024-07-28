@@ -51,13 +51,13 @@ export default {
             return ['word-flex'];
         },
         getMobileDivClass() {
-            return ['mobile-div mobile-background'];
+            return ['mobile-div', 'mobile-background'];
         },
         getMobileFlexClass() {
             return ['mobile-flex'];
         },
         getMobileBookDivClass(){
-            return ['mobile-div mobile-book']
+            return ['mobile-div', 'mobile-book']
         }
     }
 };
