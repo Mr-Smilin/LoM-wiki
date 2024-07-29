@@ -17,26 +17,12 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<table style="text-align:center;">
-    <tr>
-        <td WIDTH=565 BGCOLOR="#dacbb2">
-            <hr><br>
-            <font size="7" color="#a83232"><strong>&emsp;&emsp;趕海人</strong></font>
-            <br>
-            <br>
-            <font size="5" color="000000">
-            <strong>
-            &emsp;&emsp;你一相情願認為她被溪水沖走了，循著岷<br>
-            &emsp;&emsp;江穿流一路向東，直到海邊，可是那裡也<br>
-            &emsp;&emsp;沒有她的身影。你每日都看著海，日漸蒼<br>
-            &emsp;&emsp;老，悔不當初。<br>
-            <br>
-            </strong>
-            </font>
-            <hr>
-        </td>
-    </tr>
-</table>
+<EndBackground no=24 title="趕海人">
+你一相情願認為她被溪水沖走了，循著岷<br>
+江穿流一路向東，直到海邊，可是那裡也<br>
+沒有她的身影。你每日都看著海，日漸蒼<br>
+老，悔不當初。<br>
+</EndBackground>
 
 ## 條件與流程
 

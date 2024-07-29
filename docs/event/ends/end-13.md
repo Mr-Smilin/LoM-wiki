@@ -16,26 +16,12 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<table style="text-align:center;">
-    <tr>
-        <td WIDTH=565 BGCOLOR="#dacbb2">
-            <hr><br>
-            <font size="7" color="#a83232"><strong>&emsp;&emsp;西遊記</strong></font>
-            <br>
-            <br>
-            <font size="5" color="000000">
-            <strong>
-            &emsp;&emsp;你遠赴西域，尋了穩妥營生，學當地的語<br>
-            &emsp;&emsp;言與風尚禮節，花錢買了妻子，到老沒生<br>
-            &emsp;&emsp;大病，臨終亦有兒女侍疾，該算是美滿才<br>
-            &emsp;&emsp;對啊……。<br>
-            <br>
-            </strong>
-            </font>
-            <hr>
-        </td>
-    </tr>
-</table>
+<EndBackground no=13 title="西遊記">
+你遠赴西域，尋了穩妥營生，學當地的語<br>
+言與風尚禮節，花錢買了妻子，到老沒生<br>
+大病，臨終亦有兒女侍疾，該算是美滿才<br>
+對啊……。
+</EndBackground>
 
 ## 條件與流程
 

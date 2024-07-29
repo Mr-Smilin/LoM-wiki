@@ -17,26 +17,13 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<table style="text-align:center;">
-    <tr>
-        <td WIDTH=565 BGCOLOR="#dacbb2">
-            <hr><br>
-            <font size="7" color="#a83232"><strong>&emsp;&emsp;竹之城</strong></font>
-            <br>
-            <br>
-            <font size="5" color="000000">
-            <strong>
-            &emsp;&emsp;你託人弄來了竹苗，在島上種了一片竹林<br>
-            &emsp;&emsp;，自稱城主，在竹林圍繞之下享天年而終<br>
-            &emsp;&emsp;。<br>
-            &emsp;&emsp;<br>
-            <br>
-            </strong>
-            </font>
-            <hr>
-        </td>
-    </tr>
-</table>
+<EndBackground no=9 title="竹之城">
+你託人弄來了竹苗，在島上種了一片竹林<br>
+，自稱城主，在竹林圍繞之下享天年而終<br>
+。<br>
+<br>
+<!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
+</EndBackground>
 
 ## 條件與流程
 
