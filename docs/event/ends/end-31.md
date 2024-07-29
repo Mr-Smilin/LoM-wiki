@@ -19,26 +19,13 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<table style="text-align:center;">
-    <tr>
-        <td WIDTH=565 BGCOLOR="#dacbb2">
-            <hr><br>
-            <font size="7" color="#a83232"><strong>&emsp;&emsp;傳說之人</strong></font>
-            <br>
-            <br>
-            <font size="5" color="000000">
-            <strong>
-            &emsp;&emsp;世人眾說紛紜，都想知道那位頭戴人皮面<br>
-            &emsp;&emsp;具的前輩高人是何方神聖，然後，你那天<br>
-            &emsp;&emsp;根本沒戴面具。<br>
-            &emsp;&emsp;<br>
-            <br>
-            </strong>
-            </font>
-            <hr>
-        </td>
-    </tr>
-</table>
+<EndBackground no=31 title="傳說之人">
+世人眾說紛紜，都想知道那位頭戴人皮面<br>
+具的前輩高人是何方神聖，然後，你那天<br>
+根本沒戴面具。<br>
+<br>
+<!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
+</EndBackground>
 
 ## 條件與流程
 

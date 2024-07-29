@@ -17,26 +17,12 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<table style="text-align:center;">
-    <tr>
-        <td WIDTH=565 BGCOLOR="#dacbb2">
-            <hr><br>
-            <font size="7" color="#a83232"><strong>&emsp;&emsp;退隱江湖</strong></font>
-            <br>
-            <br>
-            <font size="5" color="000000">
-            <strong>
-            &emsp;&emsp;離江湖紛擾，悠悠隔世，往後餘生有如筆<br>
-            &emsp;&emsp;墨在紙上寫下的日記，平淡無奇，日復一<br>
-            &emsp;&emsp;日，但每一天都不是虛度。你真實的活過<br>
-            &emsp;&emsp;，你自己記得。<br>
-            <br>
-            </strong>
-            </font>
-            <hr>
-        </td>
-    </tr>
-</table>
+<EndBackground no=10 title="退隱江湖">
+離江湖紛擾，悠悠隔世，往後餘生有如筆<br>
+墨在紙上寫下的日記，平淡無奇，日復一<br>
+日，但每一天都不是虛度。你真實的活過<br>
+，你自己記得。
+</EndBackground>
 
 ## 條件與流程
 
