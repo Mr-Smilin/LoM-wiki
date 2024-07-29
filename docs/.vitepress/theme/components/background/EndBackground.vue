@@ -67,8 +67,9 @@ export default {
 @font-face
 {
     font-family: SourceHanSerifTC-BOLD;
-    src: url('/font/SourceHanSerifTC-VF.ttf.woff2'),
-    url('/font/SourceHanSerifTC-VF.otf'); /* IE9 */
+    src: url('/font/SourceHanSerifTW-SemiBold.otf'),
+        url('/font/SourceHanSerifTC-VF.ttf.woff2'),
+        url('/font/SourceHanSerifTC-VF.otf');
 }
 .background-image{
     display: flex;
