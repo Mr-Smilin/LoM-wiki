@@ -16,26 +16,12 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<table style="text-align:center;">
-    <tr>
-        <td WIDTH=565 BGCOLOR="#dacbb2">
-            <hr><br>
-            <font size="7" color="#a83232"><strong>天下寂寥事，與君闊別時</strong></font>
-            <br>
-            <br>
-            <font size="5" color="000000">
-            <strong>
-            &emsp;&emsp;仗劍天涯之遠，慣看寂寞顏色。天下之大<br>
-            &emsp;&emsp;，誰也換不了她開顏淺笑。活該一生煎熬<br>
-            &emsp;&emsp;，來贖她眼淚。<br>
-            &emsp;&emsp;<br>
-            <br>
-            </strong>
-            </font>
-            <hr>
-        </td>
-    </tr>
-</table>
+<EndBackground no=14 title="天下寂寥事，與君闊別時">
+仗劍天涯之遠，慣看寂寞顏色。天下之大<br>
+，誰也換不了她開顏淺笑。活該一生煎熬<br>
+，來贖她眼淚。<br>
+<!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
+</EndBackground>
 
 ## 條件與流程
 

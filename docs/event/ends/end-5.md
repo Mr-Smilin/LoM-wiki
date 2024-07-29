@@ -16,26 +16,13 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<table style="text-align:center;">
-    <tr>
-        <td WIDTH=565 BGCOLOR="#dacbb2">
-            <hr><br>
-            <font size="7" color="#a83232"><strong>&emsp;&emsp;獨善其身</strong></font>
-            <br>
-            <br>
-            <font size="5" color="000000">
-            <strong>
-            &emsp;&emsp;比起師門，你選擇保全自身，轉身逃跑了<br>
-            &emsp;&emsp;。縱使無可厚非，你卻到老也難以釋懷，<br>
-            &emsp;&emsp;時時夢見舊事，便熱淚盈眶。<br>
-            &emsp;&emsp;<br>
-            <br>
-            </strong>
-            </font>
-            <hr>
-        </td>
-    </tr>
-</table>
+<EndBackground no=5 title="獨善其身">
+比起師門，你選擇保全自身，轉身逃跑了<br>
+。縱使無可厚非，你卻到老也難以釋懷，<br>
+時時夢見舊事，便熱淚盈眶。<br>
+<br>
+<!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
+</EndBackground>
 
 ## 條件與流程
 

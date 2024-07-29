@@ -15,26 +15,13 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<table style="text-align:center;">
-    <tr>
-        <td WIDTH=565 BGCOLOR="#dacbb2">
-            <hr><br>
-            <font size="7" color="#a83232"><strong>&emsp;&emsp;喪家之犬&emsp;&emsp;</strong></font>
-            <br>
-            <br>
-            <font size="5" color="000000">
-            <strong>
-            &emsp;&emsp;你有一間房子可以遮風避雨，但已沒有故<br>
-            &emsp;&emsp;鄉能夠回去。<br>
-            <br>
-            <br>
-            <br>
-            </strong>
-            </font>
-            <hr>
-        </td>
-    </tr>
-</table>
+<EndBackground no=49 title="喪家之犬">
+你有一間房子可以遮風避雨，但已沒有故<br>
+鄉能夠回去。<br>
+<br>
+<br>
+<!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
+</EndBackground>
 
 ## 條件與流程
 <b>條件：</b>舉辦西武林大會，[[南宮深]]好感度≧20。<br>

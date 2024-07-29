@@ -14,26 +14,13 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<table style="text-align:center;">
-    <tr>
-        <td WIDTH=565 BGCOLOR="#dacbb2">
-            <hr><br>
-            <font size="7" color="#a83232"><strong>&emsp;&emsp;猿鶴蟲沙</strong></font>
-            <br>
-            <br>
-            <font size="5" color="000000">
-            <strong>
-            &emsp;&emsp;《抱朴子》日：「周穆王南征，一軍盡化<br>
-            &emsp;&emsp;，君子為猿為鶴，小人為蟲為沙。」死後<br>
-            &emsp;&emsp;盡歸黃士。<br>
-            &emsp;&emsp;<br>
-            <br>
-            </strong>
-            </font>
-            <hr>
-        </td>
-    </tr>
-</table>
+<EndBackground no=16 title="猿鶴蟲沙">
+《抱朴子》日：「周穆王南征，一軍盡化<br>
+，君子為猿為鶴，小人為蟲為沙。」死後<br>
+盡歸黃士。<br>
+<br>
+<!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
+</EndBackground>
 
 ## 條件與流程
 
