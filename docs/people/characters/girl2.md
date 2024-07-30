@@ -7,14 +7,52 @@ tags:
 aside: false
 ---
 
-# 點蒼明珠 葉雲裳
+# {{ $frontmatter.title }}
 
 ::: info
 這個角色的劇情尚未完成，無法正常攻略！
 :::
 
-葉雲舟的胞妹。  
+<ChTabs position="bottom">
+	<ChTab title="葉雲裳">
+		<Ch src='/images/characters/girl_2/normal.png' position='right'/>
+		<ChName nameZh='葉雲裳' nameEn='Ye Yun Chang' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					女
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					點蒼明珠<br>混世魔王
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[葉雲舟]] (哥哥)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
+
+[[葉雲舟]]的胞妹。  
 縱是盛夏，貂裘亦不離身。雖是個俏皮愛搗蛋的美貌姑娘，卻總鬧不消半天便會發燒倒下。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
