@@ -6,10 +6,63 @@ tags:
 aside: false
 ---
 
-# 王二壯
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="王二壯">
+		<Ch src='/images/characters/special401/normal.png' position='right'/>
+		<ChName nameZh='王二壯' nameEn='Wang Er Zhuang' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					丐幫幫主<br>定遠郎
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[李富貴]] (義子)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮遠]] (舊友)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[溫夫人]] (舊友)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[上官隼]] (舊友)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
 
 天下第一大幫，丐幫的幫主。  
 一就任即雷厲風行，提拔新派弟子，架空舊派長老，以俠義精神誆騙幫中子弟重拾尊嚴，令他們相信當乞丐是種選擇。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
