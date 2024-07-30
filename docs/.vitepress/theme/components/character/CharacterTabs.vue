@@ -17,6 +17,9 @@
       <div :class="['particle-basic',tabsPosition]">
         <div class="particle-container"></div>
       </div>
+      <div class="preload-container">
+      <img v-for="(src, index) in preloadImages" :key="index" :src="src" class="preload-image" alt="preload" />
+    </div>
   </div>
   </template>
   
@@ -34,6 +37,7 @@
     setup(props) {
       const selectedIndex = ref(0);
       const tabs = ref([]);
+      const preloadImages = ref([]);
   
       function registerTab(tab) {
         tabs.value.push(tab);
@@ -43,9 +47,16 @@
       function selectTab(index) {
         selectedIndex.value = index;
       }
+
+      function preloadImage(src) {
+      if (!preloadImages.value.includes(src)) {
+        preloadImages.value.push(src);
+      }
+    }
   
       provide('registerTab', registerTab);
       provide('selectedIndex', selectedIndex);
+      provide('preloadImage', preloadImage);
 
       onMounted(() => {
         const containers = document.querySelectorAll('.particle-container');
@@ -83,7 +94,8 @@
         tabs,
         selectedIndex,
         selectTab,
-        tabsPosition: computed(() => props.position === 'bottom' ? 'tabs-bottom' : 'tabs-top')
+        tabsPosition: computed(() => props.position === 'bottom' ? 'tabs-bottom' : 'tabs-top'),
+        preloadImages
       };
     }
   };
@@ -188,4 +200,17 @@
           opacity: 0;
       }
   }
-  </style>
+
+  .preload-container {
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+  }
+
+  .preload-image {
+    width: 1px;
+    height: 1px;
+    opacity: 0.01;
+  }
+</style>
