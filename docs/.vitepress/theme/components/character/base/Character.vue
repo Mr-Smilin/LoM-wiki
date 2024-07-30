@@ -4,7 +4,7 @@
 
 <script>
 import { withBase } from 'vitepress';
-import { computed } from 'vue';
+import { inject, computed, onMounted } from 'vue';
 
 export default {
   name: 'CharacterBackground',
@@ -26,6 +26,7 @@ export default {
     }
   },
   setup(props) {
+    const preloadImage = inject('preloadImage');
     const imageSrc = computed(() => withBase(props.src));
     const imagePosition = computed(() => {
       switch (props.position) {
@@ -38,6 +39,12 @@ export default {
       }
     });
     const imageAnima = computed(() => (props.animation ? 'anima' : ''));
+
+    onMounted(() => {
+      if (preloadImage && props.src) {
+        preloadImage(props.src);
+      }
+    });
 
     return {
       imageSrc,
