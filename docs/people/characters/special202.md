@@ -13,7 +13,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="觀雲客">
-		<ChBg src='/images/characters/special202/normal.png' position='right'/>
+		<Ch src='/images/characters/special202/normal.png' position='right'/>
 		<ChName nameZh='觀雲客' nameEn='Guan Yun Ke' position='right' />
 		<ChTable>
 			<ChTr>
@@ -55,7 +55,7 @@ tags:
 		</ChTable>
 	</ChTab>
 	<ChTab title="聽海生">
-		<ChBg src='/images/characters/special203/normal.png' position='right'/>
+		<Ch src='/images/characters/special203/normal.png' position='right'/>
 		<ChName nameZh='聽海生' nameEn='Ting Hai Sheng' position='right' />
 		<ChTable>
 			<ChTr>

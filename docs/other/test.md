@@ -166,7 +166,7 @@ tags:
 
 <ChTabs position="bottom">
   <ChTab title="龍湘">
-    <ChBg
+    <Ch
       src='/images/characters/girl_8/normal.png' 
       position='right'/>
     <ChName nameZh='龍湘' nameEn='Long Xiang' position='right' />
@@ -231,7 +231,7 @@ tags:
       :animation=true />
   </ChTab>
   <ChTab title="debug">
-    <ChBg src='/images/characters/girl_8/laugh2.png'
+    <Ch src='/images/characters/girl_8/laugh2.png'
           position='left'
           :animation=true />
     <ChName 
@@ -240,7 +240,7 @@ tags:
       position='classic'/>
   </ChTab>
   <ChTab title="戰鬥">
-    <ChBg src='/images/characters/girl_8/angry3.png'
+    <Ch src='/images/characters/girl_8/angry3.png'
           position='right'
           :animation=true />
     <ChName 

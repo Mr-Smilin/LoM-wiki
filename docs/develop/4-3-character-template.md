@@ -78,9 +78,9 @@ tags:
 
 <br>
 
-#### ChBg 背景圖片
+#### Ch 背景人物
 
-`ChBg` 提供屬性如以下：
+`Ch` 提供屬性如以下：
 
 1.  `src` <Badge type="danger" text="必填" /> ：設定做為背景圖片檔的 url
 2.  `position`：設定組件位置
@@ -94,12 +94,12 @@ tags:
 ```Markdown
 <ChTabs>
     <ChTab title="我是第一頁">
-        <ChBg
+        <Ch
         src='/images/characters/girl_8/normal.png'
         position='right'/>
     </ChTab>
     <ChTab title="切換我的圖片有動畫載入">
-        <ChBg
+        <Ch
         src='/images/characters/girl_8/girl8_drumstick.png'
         position='center'
         :animation=true />
@@ -111,12 +111,12 @@ tags:
 
 <ChTabs>
     <ChTab title="我是第一頁">
-        <ChBg
+        <Ch
         src='/images/characters/girl_8/normal.png'
         position='right'/>
     </ChTab>
     <ChTab title="切換我的圖片有動畫載入">
-        <ChBg
+        <Ch
         src='/images/characters/girl_8/girl8_drumstick.png'
         position='center'
         :animation=true />
@@ -256,7 +256,7 @@ tags:
         nameZh='龍湘'
         nameEn='Long Xiang'
         position='right'/>
-        <ChBg
+        <Ch
         src='/images/characters/girl_8/normal.png'
         position='right'/>
         <ChTable
@@ -276,7 +276,7 @@ tags:
         ]"/>
     </ChTab>
     <ChTab title="吃雞腿">
-        <ChBg
+        <Ch
         src='/images/characters/girl_8/girl8_drumstick.png'
         position='center'
         :animation=true />
@@ -292,7 +292,7 @@ tags:
         nameZh='龍湘'
         nameEn='Long Xiang'
         position='right'/>
-        <ChBg
+        <Ch
         src='/images/characters/girl_8/normal.png'
         position='right'/>
         <ChTable
@@ -312,7 +312,7 @@ tags:
         ]"/>
     </ChTab>
     <ChTab title="吃雞腿">
-        <ChBg
+        <Ch
         src='/images/characters/girl_8/girl8_drumstick.png'
         position='center'
         :animation=true />

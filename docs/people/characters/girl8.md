@@ -10,7 +10,7 @@ borderless: false
 
 <ChTabs position="bottom">
   <ChTab title="龍湘">
-    <ChBg
+    <Ch
       src='/images/characters/girl_8/normal.png' 
       position='right'/>
     <ChName nameZh='龍湘' nameEn='Long Xiang' position='right' />
@@ -69,7 +69,7 @@ borderless: false
     </ChTable>
   </ChTab>
   <ChTab title="吃雞腿">
-    <ChBg 
+    <Ch 
       src='/images/characters/girl_8/girl8_drumstick.png' 
       position='right'/>
     <ChName
@@ -77,7 +77,7 @@ borderless: false
       nameEn='Eat Drumstick'/>
   </ChTab>
   <ChTab title="雞腿劍">
-    <ChBg 
+    <Ch 
       src='/images/characters/girl_8/drumstick_sword.png' 
       position='right'/>
     <ChName
@@ -85,14 +85,14 @@ borderless: false
       nameEn='Drumstick Sword'/>
   </ChTab>
   <ChTab title="大笑">
-    <ChBg src='/images/characters/girl_8/laugh2.png'
+    <Ch src='/images/characters/girl_8/laugh2.png'
           position='right'/>
     <ChName 
       nameZh='大笑'
       nameEn='Laugh heartily'/>
   </ChTab>
   <ChTab title="戰鬥">
-    <ChBg src='/images/characters/girl_8/angry3.png'
+    <Ch src='/images/characters/girl_8/angry3.png'
           position='right'/>
     <ChName 
       nameZh='戰鬥'
@@ -174,4 +174,4 @@ borderless: false
 
 ## 備註
 
-- 害龍湘掉入雞腿坑的罪魁禍首，[[王二壯]]親手烤的叫化雞，黃泥撥開，荷葉撥開，那個香～根本不是凡人能擋！
+-   害龍湘掉入雞腿坑的罪魁禍首，[[王二壯]]親手烤的叫化雞，黃泥撥開，荷葉撥開，那個香～根本不是凡人能擋！
