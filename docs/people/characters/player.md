@@ -12,84 +12,89 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-  <ChTab title="趙活">
-    <Ch
-      src='/images/characters/player/normal.png' 
-      position='right'/>
-    <ChName nameZh='趙活' nameEn='Zhao Huo' position='right' />
-    <ChTable>
-      <ChTr>
-        <ChTd isTitle=true>
-          性別
-        </ChTd>
-        <ChTd>
-          男
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd isTitle=true>
-          年齡
-        </ChTd>
-        <ChTd>
-          20多歲
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd isTitle=true>
-          稱號
-        </ChTd>
-        <ChTd>
-          唐門雜魚
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd isTitle=true position='center'>
-          關係
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd position='center'>
-          唐中翎 (掌門)
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd position='center'>  
-          唐布衣 (大師兄)
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd position='center'>  
-          唐錚 (二師兄)
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd position='center'>  
-          唐陞 (三師兄)
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd position='center'>  
-          唐惟元 (四師兄)
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd position='center'>
-          唐默鈴 (小師妹)
-        </ChTd>
-      </ChTr>
-    </ChTable>
-  </ChTab>
+    <ChTab title="趙活">
+        <Ch
+            src='/images/characters/player/normal.png' 
+            position='right'/>
+        <ChName nameZh='趙活' nameEn='Zhao Huo' position='right' />
+        <ChTable>
+            <ChTr>
+                <ChTd isTitle=true>
+                    性別
+                </ChTd>
+                <ChTd>
+                    男
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
+                    年齡
+                </ChTd>
+                <ChTd>
+                    20多歲
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
+                    稱號
+                </ChTd>
+                <ChTd>
+                    唐門雜魚
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true position='center'>
+                    關係
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐中翎]] (掌門)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐鹿]] (師娘)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐布衣]] (大師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐錚]] (二師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐陞]] (三師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐惟元]] (四師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐默鈴]] (小師妹)
+                </ChTd>
+            </ChTr>
+        </ChTable>
+    </ChTab>
 </ChTabs>
 
 > 「我從小就明白了，自己沒有被愛這件事。」
 
 本作的主角，唐門最後一位外姓弟子。
 <br><br>
-其貌不揚，奇醜無比。走在路上要不是嚇到人，就是被指著罵邪魔歪道，沒一天好過的。
+其貌不揚，奇醜無比。走在路上要不是嚇到人，就是被指著罵妖魔鬼怪，沒一天好過的。
 <br><br>
 死活不肯離開唐門，不知多少年仍不得入室，只能繼續做雜務，被當下人使喚。
 <br><br>
-喜歡小師妹，遠遠望一眼就能滿足過一天。
+喜歡[[唐默鈴|小師妹]]，遠遠望一眼就能滿足過一天。
 
 ## 童年
 
@@ -99,17 +104,17 @@ tags:
 <br><br>
 父親只給他準備了四顆雞蛋作拜師禮，一路從綿陽赤腳走到唐門的他，餓得頭昏眼花，把一顆雞蛋吃了。多年來不時後悔，如果當時忍耐不吃那顆雞蛋，也許唐門的師長就不會那麼看輕他，早就轉正入室了。
 <br><br>
-殊不知他的父親一路暗中保護他，到唐門的那一夜，拎著兩隻雞向掌門磕頭，說他沒盡父親職責，直到趙活離家才捨不得。不求功成名就，衣錦還鄉，只求不與人爭，無災無病，要求掌門發誓唐門終生不會收趙活為徒，授其武藝。
+殊不知他的父親一路暗中保護他，到唐門的那一夜，拎著兩隻雞向[[唐中翎|掌門]]磕頭，說他沒盡父親職責，直到趙活離家才捨不得。不求功成名就，衣錦還鄉，只求不與人爭，無災無病，要求掌門發誓唐門終生不會收趙活為徒，授其武藝。
 
 ## 唐門歲月
 
 從唐門盛世到沒落，待了十幾年，外姓弟子都走光了，只留他一個，仍不得入室。本來住在山腰唐門外堡最靠近茅廁的房間，但因為門派規模萎縮嚴重，賣掉外堡後得以住進大院。做為唯一的外姓弟子加上長相因素，經常被其他弟子使喚來去。打掃、做飯、挑柴等等樣樣都幹，儼然一副下人模樣。
 <br><br>
-受師娘囑託，照顧小師妹從小到大，每次小師妹迷路時，總是第一個發現她。交情說不上親但也有些跳脫了師兄妹關係，因此時常遭其他弟子紅眼，但某方面也是自作自受，誰叫趙活不時躲在窗外暗中「守護」她。
+受[[唐鹿|師娘]]囑託，照顧[[唐默鈴|小師妹]]從小到大，每次小師妹迷路時，總是第一個發現她。交情說不上親但也有些跳脫了師兄妹關係，因此時常遭其他弟子紅眼，但某方面也是自作自受，誰叫趙活不時躲在窗外暗中「守護」她。
 <br><br>
 要不是外姓，論輩份可能相當於第五師兄。嘴巴上說是因為小師妹才不離開唐門，但生來這張臉，被趕出家門的他恐怕也沒其他去處。其實他的努力和堅持，掌門和師兄們都看在眼裡，雖然礙於身分不能直接出手，但私底下還是多少給點好處。
 <br><br>
-暗器總綱的《忘形篇》背得滾瓜爛熟，卻因門規不得點撥外姓弟子，至今武功依然雜魚。直到[黑衣人](brother1)點撥，豁然開朗，將各派武功東練練西練練，揉合成了大雜燴才有一戰之力。所學之雜，連丐幫幫主王二壯都感嘆不已。<br><br>
+暗器總綱的《忘形篇》背得滾瓜爛熟，卻因門規不得點撥外姓弟子，至今武功依然雜魚。直到[[唐布衣|黑衣人]]點撥，豁然開朗，將各派武功東練練西練練，揉合成了大雜燴才有一戰之力。所學之雜，連丐幫幫主[[王二壯]]都感嘆不已。<br><br>
 唐門正於山雨欲來之際，根據你的選擇，將有不同的結局。
 
 ## 備註
@@ -117,5 +122,5 @@ tags:
 -   趙活記不清楚是幾歲到唐門，和三師兄氣話時說十一、二歲，對掌門卻說約莫七、八歲
 -   多年的雜務生活下，趙活其實很有能力，什麼都會，去哪都吃得開。但前提是不心繫江湖...
 -   趙活這張臉其實是說相聲的料
--   根據瑞杏的自言自語，趙活似乎和皇室有點淵源
+-   根據[[瑞杏]]的自言自語，趙活似乎和皇室有點淵源
 -   在「Digital Taipei2021 線上展覽」時稱作「武林敗類」巨八，[FB 影片連結](https://www.facebook.com/watch/?mibextid=WC7FNe&v=1233034187106961&rdid=8LJ4hVfrxRlPIdcJ)

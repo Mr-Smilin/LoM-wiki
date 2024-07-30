@@ -6,13 +6,81 @@ tags:
 aside: false
 ---
 
-![唐陞](/images/characters/faction/icon_brother3.png)
+# {{ $frontmatter.title }}
 
-# 三師兄 唐陞
+<ChTabs position="bottom">
+    <ChTab title="唐陞">
+        <Ch
+            src='/images/characters/brother3/normal.png' 
+            position='right'/>
+        <ChName nameZh='唐陞' nameEn='Tang Sheng' position='right' />
+        <ChTable>
+            <ChTr>
+                <ChTd isTitle=true>
+                    性別
+                </ChTd>
+                <ChTd>
+                    男
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
+                    稱號
+                </ChTd>
+                <ChTd>
+                    三師兄
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true position='center'>
+                    關係
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐中翎]] (掌門)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐鹿]] (師娘)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐布衣]] (大師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐錚]] (二師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐惟元]] (四師弟)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐默鈴]] (小師妹)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[趙活]] (師弟)
+                </ChTd>
+            </ChTr>
+        </ChTable>
+    </ChTab>
+</ChTabs>
+<br><br>
 
 單名一字陞，唐門掌門第三親傳弟子。  
 帶藝投師，因此年紀較二位師兄為長，從前是志向遠大的讀書人，只因開罪權貴，遠避江湖。  
 興趣是說書，教化英才，笑談天下事。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
