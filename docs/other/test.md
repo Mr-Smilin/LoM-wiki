@@ -224,14 +224,11 @@ tags:
       </ChTr>
     </ChTable>
   </ChTab>
-  <ChTab title="吃雞腿">
-    <ChBg 
+  <ChTab title="debug">
+    <ChC 
       src='/images/characters/girl_8/girl8_drumstick.png' 
       position='right'
       :animation=true />
-    <ChName
-      nameZh='吃雞腿'
-      nameEn='Chī jītuǐ'/>
   </ChTab>
   <ChTab title="debug">
     <ChBg src='/images/characters/girl_8/laugh2.png'
