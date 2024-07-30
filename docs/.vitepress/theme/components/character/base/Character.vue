@@ -41,8 +41,8 @@ export default {
     const imageAnima = computed(() => (props.animation ? 'anima' : ''));
 
     onMounted(() => {
-      if (preloadImage && props.src) {
-        preloadImage(props.src);
+      if (preloadImage && imageSrc) {
+        preloadImage(imageSrc);
       }
     });
 
