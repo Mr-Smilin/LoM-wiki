@@ -13,56 +13,66 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-  <ChTab title="狄傲">
-    <Ch
-      src='/images/characters/big_trainee_girl_1/normal2.png' 
-      position='right'/>
-    <ChName nameZh='狄傲' nameEn='Di Ao' position='right' />
-    <ChTable>
-      <ChTr>
-        <ChTd isTitle=true>
-          性別
-        </ChTd>
-        <ChTd>
-          女
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd isTitle=true position='center'>
-          關係
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd position='center'>
-          趙活 ~~(丈夫)~~(獵物)
-        </ChTd>
-      </ChTr>
-    </ChTable>
-  </ChTab>
-  <ChTab title="JOJO立">
-    <Ch 
-      src='/images/characters/big_trainee_girl_1/jojo2.png' 
-      position='right' />
-    <ChName
-      nameZh='JOJO立'
-      nameEn='Jojo Pose'/>
-  </ChTab>
-  <ChTab title="唐嬌嬌">
-    <Ch 
-      src='/images/characters/big_trainee_girl_1/normal.png' 
-      position='right' />
-    <ChName
-      nameZh='唐嬌嬌'
-      nameEn='Tang Jiao Jiao'/>
-  </ChTab>
-  <ChTab title="JOJO立2">
-    <Ch 
-      src='/images/characters/big_trainee_girl_1/jojo.png' 
-      position='right' />
-    <ChName
-      nameZh='JOJO立'
-      nameEn='Jojo Pose'/>
-  </ChTab>
+    <ChTab title="狄傲">
+        <Ch
+            src='/images/characters/big_trainee_girl_1/normal2.png' 
+            position='right'/>
+        <ChName nameZh='狄傲' nameEn='Di Ao' position='right' />
+        <ChTable>
+            <ChTr>
+                <ChTd isTitle=true>
+                    性別
+                </ChTd>
+                <ChTd>
+                    女
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true position='center'>
+                    關係
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[向無憂]] (掌門)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[解無塵]] (同門)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[趙活]] ~~(丈夫)~~(獵物)
+                </ChTd>
+            </ChTr>
+        </ChTable>
+    </ChTab>
+    <ChTab title="JOJO立">
+        <Ch 
+            src='/images/characters/big_trainee_girl_1/jojo2.png' 
+            position='right' />
+        <ChName
+            nameZh='JOJO立'
+            nameEn='Jojo Pose'/>
+    </ChTab>
+    <ChTab title="唐嬌嬌">
+        <Ch 
+            src='/images/characters/big_trainee_girl_1/normal.png' 
+            position='right' />
+        <ChName
+            nameZh='唐嬌嬌'
+            nameEn='Tang Jiao Jiao'/>
+    </ChTab>
+    <ChTab title="JOJO立2">
+        <Ch 
+            src='/images/characters/big_trainee_girl_1/jojo.png' 
+            position='right' />
+        <ChName
+            nameZh='JOJO立'
+            nameEn='Jojo Pose'/>
+    </ChTab>
 </ChTabs>
 
 > 「是我！狄傲噠！」
