@@ -15,11 +15,12 @@ import "@nolebase/vitepress-plugin-git-changelog/client/style.css";
 // import CharacterTab Group
 import CharacterTabs from "./components/character/CharacterTabs.vue";
 import CharacterTab from "./components/character/CharacterTab.vue";
-import CharacterBackground from "./components/character/CharacterBackground.vue";
-import CharacterName from "./components/character/CharacterName.vue";
-import CharacterTable from "./components/character/CharacterTable.vue";
-import CharacterTr from "./components/character/CharacterTr.vue";
-import CharacterTd from "./components/character/CharacterTd.vue";
+import CharacterBackground from "./components/character/base/CharacterBackground.vue";
+import CharacterName from "./components/character/base/CharacterName.vue";
+import CharacterTable from "./components/character/base/CharacterTable.vue";
+import CharacterTr from "./components/character/base/CharacterTr.vue";
+import CharacterTd from "./components/character/base/CharacterTd.vue";
+import CharacterClassic from "./components/character/type/CharacterClassic.vue";
 import ChineseStyleTd from "./components/tdStyles/ChineseStyleTd.vue";
 // import Icon Group
 import Icon from "./components/icon-family/Icon.vue";
@@ -61,7 +62,6 @@ import EndBackground from "./components/background/EndBackground.vue";
 import EndTitle from "./components/background/EndTitle.vue";
 import EndContext from "./components/background/EndContext.vue";
 import EndBook from "./components/background/EndBook.vue";
-
 
 export default {
   extends: DefaultTheme,
@@ -111,6 +111,7 @@ export default {
     app.component("ChTr", CharacterTr);
     app.component("ChTd", CharacterTd);
     app.component("CnTd", ChineseStyleTd);
+    app.component("ChC", CharacterClassic);
 
     // Icon component group
     app.component("Icon", Icon);

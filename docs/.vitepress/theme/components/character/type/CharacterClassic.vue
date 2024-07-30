@@ -1,8 +1,8 @@
 <template>
-    <div :class="['human', imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': imagePosition }"></div>
-    <div :class="['layer-1',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': imagePosition }"></div>
-    <div :class="['layer-2',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': imagePosition }"></div>
-    <div :class="['background',imageAnima,imagePosition]"></div>
+    <div :class="['human', imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
+    <div :class="['layer-1',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
+    <div :class="['layer-2',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
+    <div :class="['background',imageAnima,'left bottom']"></div>
   </template>
   
   <script>
@@ -16,11 +16,15 @@
         type: String,
         required: true
       },
-      position: {
+      nameTitle: {
         type: String,
         required: false,
-        default: 'left', // 'left' or 'center' or 'right'
-        validator: value => ['left', 'center', 'right'].includes(value)
+        default: ''
+      },
+      nameMain:{
+        type: String,
+        required: false,
+        default: ''
       },
       animation: {
         type: Boolean,
@@ -30,21 +34,10 @@
     },
     setup(props) {
       const imageSrc = computed(() => withBase(props.src));
-      const imagePosition = computed(() => {
-        switch (props.position) {
-          case 'left':
-            return 'left bottom';
-          case 'right':
-            return 'right bottom';
-          default:
-            return 'center bottom';
-        }
-      });
       const imageAnima = computed(() => (props.animation ? 'anima' : ''));
   
       return {
         imageSrc,
-        imagePosition,
         imageAnima
       };
     }
