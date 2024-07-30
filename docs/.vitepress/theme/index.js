@@ -15,7 +15,7 @@ import "@nolebase/vitepress-plugin-git-changelog/client/style.css";
 // import CharacterTab Group
 import CharacterTabs from "./components/character/CharacterTabs.vue";
 import CharacterTab from "./components/character/CharacterTab.vue";
-import CharacterBackground from "./components/character/base/CharacterBackground.vue";
+import Character from "./components/character/base/Character.vue";
 import CharacterName from "./components/character/base/CharacterName.vue";
 import CharacterTable from "./components/character/base/CharacterTable.vue";
 import CharacterTr from "./components/character/base/CharacterTr.vue";
@@ -105,7 +105,7 @@ export default {
     // import CharacterTab Group
     app.component("ChTabs", CharacterTabs);
     app.component("ChTab", CharacterTab);
-    app.component("ChBg", CharacterBackground);
+    app.component("Ch", Character);
     app.component("ChName", CharacterName);
     app.component("ChTable", CharacterTable);
     app.component("ChTr", CharacterTr);

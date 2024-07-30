@@ -36,7 +36,7 @@ tags:
 
 <ChTabs position="bottom">
     <ChTab title="分頁1">
-        <!-- <ChBg
+        <!-- <Ch
         src='圖片Url' 
         position='right'
         :animation=true /> -->
