@@ -269,7 +269,7 @@ export default defineConfig({
 		},
 		image: {
 			// 圖片懶加載
-			lazyLoading: false,
+			lazyLoading: true,
 		},
 		component: {
 			blockTags: [],
