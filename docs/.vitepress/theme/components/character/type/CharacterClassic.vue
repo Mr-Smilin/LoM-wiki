@@ -1,8 +1,9 @@
 <template>
-    <div :class="['human', imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
-    <div :class="['layer-1',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
-    <div :class="['layer-2',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
-    <div :class="['background',imageAnima,'left bottom']"></div>
+    <div :class="['background',imageAnima]">
+      <div :class="['human', imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
+      <div :class="['layer-1',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
+      <div :class="['layer-2',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
+    </div>
   </template>
   
   <script>
@@ -45,12 +46,17 @@
   </script>
   
   <style scoped>
-  .human {
+  .human,
+  .layer-1,
+  .layer-2{
     position: absolute;
     bottom: 0;
-    left: 0;
+    left: 5%;
     width: 100%;
     height: 100%;
+  }
+
+  .human {
     background-size: auto 58vh;
     background-repeat: no-repeat;
     background-image: var(--background-image);
@@ -58,45 +64,35 @@
     z-index: -2;
   }
 
-  .layer-1 {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+  .layer-1,
+  .layer-2 {
     mask-size: auto 58vh;
     mask-repeat: no-repeat;
+  }
+
+  .layer-1 {
     mask-image: var(--background-image);
     mask-position: var(--background-position);
-    background-color: azure;
-    opacity: 0.6;
+    background-color: #C8ABA2;
+    opacity: 0.8;
     z-index: -3;
   }
 
   .layer-2 {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    mask-size: auto 58vh;
-    mask-repeat: no-repeat;
     mask-image: var(--background-image);
     mask-position: var(--background-position);
-    background-color: gray;
-    opacity: 0.3;
+    background-color: #d55757;
+    opacity: 0.2;
     z-index: -3;
   }
 
-  .background.anima.left{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translateY(-30%) translateX(-50%);
+  .background{
+    position: relative;
     width: 100%;
     height: 100%;
-    background-size: 100% auto;
+    background-size: 90% auto;
     background-repeat: no-repeat;
+    background-position: center center;
     background-image: url(/images/generic/background/back_intro.png);
     z-index: -9;
   }

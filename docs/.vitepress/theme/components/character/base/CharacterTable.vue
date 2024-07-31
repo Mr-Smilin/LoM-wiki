@@ -93,18 +93,6 @@ export default {
   min-width: 300px;
 }
 
-/* .attributes-table::before {
-  content: '';
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  background-color: var(--vp-c-gray-1);
-  opacity: 0.5;
-  z-index: -1;
-} */
-
 .toggle-button {
   position: absolute;
   top: -30px;

@@ -1,30 +1,33 @@
 <template>
-    <div class="tabs-container">
-      <div :class="['tabs', tabsPosition]">
-        <div
-          v-for="(tab, index) in tabs"
-          :key="index"
-          :class="{ active: selectedIndex === index }"
-          @click="selectTab(index)"
-          class="tab-title"
-        >
-          {{ tab.title }}
-        </div>
+  <div class="tabs-container">
+    <div :class="['tabs', tabsPosition]">
+      <div
+        v-for="(tab, index) in tabs"
+        :key="index"
+        :class="{ active: selectedIndex === index }"
+        @click="selectTab(index)"
+        class="tab-title"
+      >
+        {{ tab.title }}
       </div>
-      <div class="tab-contents">
-        <slot></slot>
-      </div>
-      <div :class="['particle-basic',tabsPosition]">
-        <div class="particle-container"></div>
-      </div>
-      <div class="preload-container">
+    </div>
+    <div class="tab-contents">
+      <slot></slot>
+    </div>
+    <div :class="['particle-basic',tabsPosition]">
+      <div class="particle-container"></div>
+    </div>
+    <div class="preload-container">
       <img v-for="(src, index) in preloadImages" :key="index" :src="src" class="preload-image" alt="preload" />
     </div>
   </div>
-  </template>
+  <div v-if="isMobile" class="mobile-tables">
+    <slot name="tables"></slot>
+  </div>
+</template>
   
   <script>
-  import { ref, provide, computed, onMounted } from 'vue';
+  import { ref, provide, computed, onMounted, onUnmounted  } from 'vue';
   
   export default {
     props: {
@@ -38,6 +41,7 @@
       const selectedIndex = ref(0);
       const tabs = ref([]);
       const preloadImages = ref([]);
+      const isMobile = ref(false);
   
       function registerTab(tab) {
         tabs.value.push(tab);
@@ -49,14 +53,19 @@
       }
 
       function preloadImage(src) {
-      if (!preloadImages.value.includes(src)) {
-        preloadImages.value.push(src);
+        if (!preloadImages.value.includes(src)) {
+          preloadImages.value.push(src);
+        }
       }
-    }
+      
+      const checkMobile = () => {
+        isMobile.value = window.innerWidth <= 768; 
+      };
   
       provide('registerTab', registerTab);
       provide('selectedIndex', selectedIndex);
       provide('preloadImage', preloadImage);
+      provide('isMobile', isMobile);
 
       onMounted(() => {
         const containers = document.querySelectorAll('.particle-container');
@@ -88,14 +97,22 @@
             container.appendChild(particle); // 添加到容器中
           }
         })
+
+        checkMobile();
+        window.addEventListener('resize', checkMobile);
       })
+
+      onUnmounted(() => {
+        window.removeEventListener('resize', checkMobile);
+      });
   
       return {
         tabs,
         selectedIndex,
         selectTab,
         tabsPosition: computed(() => props.position === 'bottom' ? 'tabs-bottom' : 'tabs-top'),
-        preloadImages
+        preloadImages,
+        isMobile
       };
     }
   };
@@ -189,17 +206,7 @@
       opacity: 0.8;
       animation: riseAndFade 2s linear infinite;
   }
-
-  @keyframes riseAndFade {
-      0% {
-          transform: translateY(100%);
-          opacity: 0.8;
-      }
-      100%{
-          transform: translateY(-2000%);
-          opacity: 0;
-      }
-  }
+  
 
   .preload-container {
     position: absolute;
@@ -212,5 +219,23 @@
     width: 1px;
     height: 1px;
     opacity: 0.01;
+  }
+
+  @media (max-width: 768px) {
+    .mobile-tables {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }
+
+  @keyframes riseAndFade {
+      0% {
+          transform: translateY(100%);
+          opacity: 0.8;
+      }
+      100%{
+          transform: translateY(-2000%);
+          opacity: 0;
+      }
   }
 </style>
