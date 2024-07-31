@@ -6,11 +6,45 @@ tags:
 aside: false
 ---
 
-# 福韞
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="福韞">
+		<Ch src='/images/characters/special206/normal.png' position='right'/>
+		<ChName nameZh='福韞' nameEn='Fu Yun' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[覺慧]] (方丈)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[釋明]] (師兄)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
 
 > 「蛤也一樣。施主，你問過魚和蝦的意願嗎？我猜沒有，你只想到你自己。」
 
 嵩山派的年輕弟子，雲遊大宋，弘揚佛法，籌措善款以期修繕敗破的嵩山寺。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
@@ -20,4 +54,7 @@ aside: false
   </Tab>
 </Tabs>
 
+## 備註
+
 - 全遊戲嘴力最高的人之一
+- 西武林線若好感度≧2★，會找十八銅人來助陣
