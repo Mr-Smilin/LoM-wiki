@@ -31,12 +31,12 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[覺慧]] (師兄)
+					[[覺慧]] (同門)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[福韞]] (師弟)
+					[[福韞]] (同門)
 				</ChTd>
 			</ChTr>
 			<ChTr>

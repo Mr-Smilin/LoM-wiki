@@ -33,7 +33,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[釋明]] (師兄)
+					[[釋明]] (同門)
 				</ChTd>
 			</ChTr>
 		</ChTable>
