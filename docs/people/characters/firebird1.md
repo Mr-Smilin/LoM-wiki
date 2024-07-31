@@ -12,6 +12,35 @@ tags:
 
 # {{ $frontmatter.title }}
 
+<ChTabs position="bottom">
+	<ChTab title="火閃電">
+		<Ch src='/images/characters/firebird1/normal.png' position='right'/>
+		<ChName nameZh='火閃電' nameEn='Huo Shan Dian' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					不明
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[虞小梅]] (飼主)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+
 > 「嘎——！」
 
-崆峒派飛天門[小梅](girl3)養的仙鶴，叫聲極為難聽。不時被小梅抓住[練拳](/system/books/book_6003)練舞，真不知上輩子不知造了什麼孽才落到她手裡。
+崆峒派飛天門[[虞小梅]]養的仙鶴，叫聲極為難聽。
+<br><br>
+不時被小梅抓住[[仙鶴迷蹤拳|練拳]]練舞，真不知上輩子不知造了什麼孽才落到她手裡。
