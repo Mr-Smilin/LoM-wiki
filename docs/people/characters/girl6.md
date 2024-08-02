@@ -8,7 +8,57 @@ tags:
 aside: false
 ---
 
-# 裂骨魔 郁竹
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="郁竹">
+		<Ch src='/images/characters/girl_6/normal.png' position='right'/>
+		<ChName nameZh='郁竹' nameEn='Yu Zhu' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					女
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					裂骨魔
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[雷謙]] (掌門)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[虞小梅]] (崆峒四姝)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[夏侯蘭]] (崆峒四姝)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[魏菊]] (崆峒四姝)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
 
 ::: info
 這個角色的劇情尚未完成，無法正常攻略！
@@ -17,6 +67,8 @@ aside: false
 崆峒派．鐵拳門當代的嫡傳女弟子。  
 身材嬌小，眼神兇惡的綠衣少女。  
 因為鍛冶手藝高明，頗負盛名，傳聞她力大無窮，能徒手掐碎旁人手骨，故而江湖人稱「裂骨魔」。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
@@ -71,3 +123,11 @@ aside: false
 	只是怕玩壞，所以不敢擁有。
   </Tab>
 </Tabs>
+
+## 備註
+
+- 看好了，這是一枚銅錢。(捏)
+- 曾把崆峒四秀的[[孟瞋]]的拳骨捏爛
+- 因為被生父濫賭而賣到崆峒，非常討厭賭博，見[[趙活]]嗜賭會生氣
+- 孩提時代曾送給前掌門按摩券作壽禮，而後傳給[[雷謙]]，兩人都不敢用…
+- 因結局兒女成群，一拳殺了老虎做虎鞭酒還不夠，「竹球隊」一詞不脛而走
