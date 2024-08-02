@@ -8,14 +8,72 @@ tags:
 aside: false
 ---
 
-# 玄功掌門 魏菊
+#  魏菊
 
 ::: info
 這個角色的劇情尚未完成，無法正常攻略！
 :::
 
+<ChTabs position="bottom">
+	<ChTab title="魏菊">
+		<Ch src='/images/characters/girl_7/normal.png' position='right'/>
+		<ChName nameZh='魏菊' nameEn='Wei Ju' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					女
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					玄功掌門
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[上官螢]] (朋友)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[呼延菊]] (已故遠親)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[虞小梅]] (崆峒四姝)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[夏侯蘭]] (崆峒四姝)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[郁竹]] (崆峒四姝)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
+
 崆峒派．玄功門當代的嫡傳女弟子，兼任當代掌門。  
 儀態端莊，知書達禮，文靜而秀麗脫俗，與崆峒派格格不入的奇女子。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
@@ -71,3 +129,13 @@ aside: false
 	能不發脾氣都算是她魏菊修養絕佳。
   </Tab>
 </Tabs>
+
+## 備註
+
+- ~~色情額頭~~
+- 活俠傳的作者，魏菊什麼都知道！
+- 因為二創的活躍，~~逐漸朝龍陽讀書齋靠齊~~
+- ~~禮樂崩壞，不知廉恥。浸豬籠！浸豬籠！浸豬籠！~~
+- [[唐陞|三師兄]]說魏大才女在讀書人中如雷貫耳，簡直像易安居士李清照一樣
+- 魏菊的詩作、畫作全都失佚，如今千金難求。若收下[[宋詞選集]]，[[上官螢]]會抓狂用錢砸你
+- 一身深厚內力為前掌門傳的[[鐵琵琶功]]，除此之外沒有練過任何武功
