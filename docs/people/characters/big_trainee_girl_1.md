@@ -44,7 +44,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [[趙活]] ~~(丈夫)~~(獵物)
+                    [[趙活]] (獵物)
                 </ChTd>
             </ChTr>
         </ChTable>

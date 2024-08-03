@@ -45,6 +45,11 @@ tags:
 					[[金烏上人]] (扶植對象)
 				</ChTd>
 			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[鄒博]] (仇人)
+				</ChTd>
+			</ChTr>
 		</ChTable>
 	</ChTab>
 </ChTabs>

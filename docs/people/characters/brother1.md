@@ -71,6 +71,11 @@ aside: false
                     [[趙活]] (師弟)
                 </ChTd>
             </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[解無塵]] (被當勁敵)
+                </ChTd>
+            </ChTr>
         </ChTable>
     </ChTab>
 </ChTabs>
