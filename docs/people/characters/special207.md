@@ -49,7 +49,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[虞小梅]] (下層人員)
+					[[虞小梅]] (手下)
 				</ChTd>
 			</ChTr>
 		</ChTable>
