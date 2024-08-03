@@ -49,7 +49,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[龍湘]] (同門)
+					[[龍湘]] (師妹)
 				</ChTd>
 			</ChTr>
 			<ChTr>

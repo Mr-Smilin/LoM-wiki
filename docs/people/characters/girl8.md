@@ -53,6 +53,11 @@ borderless: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
+					[[盛雪]] (師姐)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
 					[[王二壯]] (叔叔)
 				</ChTd>
 			</ChTr>
