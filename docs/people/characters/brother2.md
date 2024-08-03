@@ -71,6 +71,11 @@ aside: false
                     [[趙活]] (師弟)
                 </ChTd>
             </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[畫中仙]] (間諜)
+                </ChTd>
+            </ChTr>
         </ChTable>
     </ChTab>
 </ChTabs>
