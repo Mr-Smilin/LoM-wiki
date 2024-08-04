@@ -6,10 +6,73 @@ tags:
 aside: false
 ---
 
-# 縞衣劍少 瑞笙
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="瑞笙">
+		<Ch src='/images/characters/special999/normal.png' position='right'/>
+		<ChName nameZh='瑞笙' nameEn='Rui Sheng' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					縞衣劍少
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[萬里鵬程]] (前輩)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[瑞杏]] (族妹)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[夏靈犀]] (後宮)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南溪]] (後宮)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[梁有詩]] (後宮)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[孟仙謠]] (後宮)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
 
 初出茅廬，近來名聲漸響的年輕劍客。  
 英俊瀟灑，磊落君子，處世溫文爾雅，胸中亦藏豪情萬丈，仗劍行俠，快意恩仇，緊要關頭就會出現的傢伙。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
@@ -23,3 +86,9 @@ aside: false
 	也被下令不准引誘魏菊，非常委屈。
   </Tab>
 </Tabs>
+
+## 備註
+
+- [[萬里鵬程]]稱瑞笙「瑞小友」，不確定兩者關係
+- 如果唐門沒有收留葉家兄妹，[[梁有詩]]就會從瑞笙後宮團消失
+- [[唐默鈴|小師妹]]如果沒和[[趙活]]結緣，會下嫁成為瑞笙後宮之一
