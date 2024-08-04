@@ -565,7 +565,7 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            全軍覆沒
+            <EndIcon no="33">全軍覆沒</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
@@ -852,6 +852,3 @@ tags:
     </tr>
 </BTable>
 
-::: warning
-這個頁面還在施工中，敬請期待！
-:::
