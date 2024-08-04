@@ -18,9 +18,9 @@ tags:
 本列表頁具有嚴重劇透，若在意遊戲體驗被破壞者，請速速離開。
 :::
 
-## 防劇透唐嬌嬌鎮樓
+## 有請作者魏夫子本人親自出場防劇透
 
-<img height="300" width="300" src="/images/characters/big_trainee_girl_1/jojo.png">
+<img height="300" width="300" src="/images/characters/girl_7/special.png">
 
 <BTable :stickyHeader=true searchMode="or"
     :tags="[
@@ -633,7 +633,7 @@ tags:
             <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: #E34234;">【唐默鈴】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            與小師妹心心相印締結婚約後，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主。
+            與小師妹心心相印締結婚約後，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
         </td>
     </tr>
     <tr>
@@ -651,7 +651,7 @@ tags:
             <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: #B0DCD5;">【葉雲裳】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            與葉雲裳結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主。
+            與葉雲裳結緣，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
         </td>
     </tr>
     <tr>
@@ -669,7 +669,7 @@ tags:
             <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: MediumOrchid;">【上官螢】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            與上官瑩結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主。
+            與上官瑩結緣，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
         </td>
     </tr>
     <tr>
@@ -687,7 +687,7 @@ tags:
             <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: #FF2D51;">【虞小梅】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            與虞小梅結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主。
+            與虞小梅結緣，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
         </td>
     </tr>
     <tr>
@@ -705,7 +705,7 @@ tags:
             <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: #70AA39;">【郁竹】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            與郁竹結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主。
+            與郁竹結緣，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
         </td>
     </tr>
     <tr>
@@ -723,7 +723,7 @@ tags:
             <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: Gold;">【魏菊】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            與魏菊結緣，唐門滅門戰中，下山突圍衝到武林盟主前，戰勝武林盟主。
+            與魏菊結緣，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
         </td>
     </tr>
     <tr>
@@ -740,7 +740,7 @@ tags:
             <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: #00BFFF;">【夏侯蘭】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            身為欺師滅組的畜生，娶了恩師夏侯蘭後，唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主。
+            身為欺師滅組的畜生，娶了恩師夏侯蘭後，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
         </td>
     </tr>
     <tr>
@@ -757,7 +757,7 @@ tags:
             <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: White;">【龍湘】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            化解龍湘的心魔與龍湘於後山拜堂，唐門滅門戰中下山突圍到武林盟主前，戰勝武林盟主。
+            從弟弟到夫婿，化解了龍湘的心魔於後山拜堂後，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
         </td>
     </tr>
     <tr>
