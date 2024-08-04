@@ -551,8 +551,8 @@ tags:
         <td>五</td>
         <td>下</td>
         <td>
-        <details>
             唐門段考(不扣行動)<br>
+        <details>
             <summary>🎲主考官：</summary><br>
             1. 【>90】掌門(難度降低，勝：唐中翎好感+1)
             2. 【>50】三師兄(勝：唐陞好感+1)<br>
