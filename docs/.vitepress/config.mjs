@@ -60,7 +60,7 @@ export default defineConfig({
 					},
 					{ text: "風雲史(成就)", link: "/event/achievements" },
 					{ text: "生死簿", link: "/event/badends" },
-					{ text: "汗青書(編輯中)", link: "/event/ends" },
+					{ text: "汗青書", link: "/event/ends" },
 				],
 				activeMatch: "/event/",
 			},
