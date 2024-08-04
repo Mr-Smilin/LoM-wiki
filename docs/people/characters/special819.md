@@ -11,6 +11,52 @@ tags:
 
 # {{ $frontmatter.title }}
 
+<ChTabs position="bottom">
+	<ChTab title="完顏珣">
+		<Ch src='/images/characters/special819/normal.png' position='right'/>
+		<ChName nameZh='完顏珣' nameEn='Wan Yan Xun' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					大金皇帝<br>翼王
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[龍淵]] (義弟)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[龍湘]] (姪女)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[僕散安貞]] (官員)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
+
 金國的翼王殿下，在位的金國皇帝。
 <br><br>
 年輕時勵精圖治，是有為之人，獨排眾議，要與大宋交好，因此素為章宗完顏永濟所不喜，數度貶嫡、囚禁，連累他親爹被廢為庶民，更受朝臣排擠，派人伏殺。[[龍淵]]深感佩服，出手救了他，二人傾蓋相交，一見如故，忘懷了彼此身世。八個響頭之後，結拜為兄弟，相約同生共死。

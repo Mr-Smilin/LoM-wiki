@@ -41,7 +41,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[完顏珣]] (結拜兄弟)
+					[[完顏珣]] (義兄)
 				</ChTd>
 			</ChTr>
 			<ChTr>

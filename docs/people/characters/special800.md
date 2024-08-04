@@ -6,11 +6,49 @@ tags:
 aside: false
 ---
 
-# 宋悲
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="宋悲">
+		<Ch src='/images/characters/special800/normal.png' position='right'/>
+		<ChName nameZh='宋悲' nameEn='Song Bei' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					神捕
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[丹霞子]] (戰友)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
 
 大宋神捕，御賜銀魚袋、御前帶刀。  
 天下捕役總指揮使，可以越州拿緝人犯。  
 行於江湖之間，算是半個武林人。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
