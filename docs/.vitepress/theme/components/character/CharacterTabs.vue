@@ -1,30 +1,38 @@
 <template>
-    <div class="tabs-container">
-      <div :class="['tabs', tabsPosition]">
-        <div
-          v-for="(tab, index) in tabs"
-          :key="index"
-          :class="{ active: selectedIndex === index }"
-          @click="selectTab(index)"
-          class="tab-title"
-        >
-          {{ tab.title }}
-        </div>
+  <div class="tabs-container">
+    <div :class="['tabs', tabsPosition]">
+      <div
+        v-for="(tab, index) in tabs"
+        :key="index"
+        :class="{ active: selectedIndex === index }"
+        @click="selectTab(index)"
+        class="tab-title"
+      >
+        {{ tab.title }}
       </div>
-      <div class="tab-contents">
-        <slot></slot>
-      </div>
-      <div :class="['particle-basic',tabsPosition]">
-        <div class="particle-container"></div>
-      </div>
-      <div class="preload-container">
+    </div>
+    <div class="tab-contents">
+      <slot></slot>
+    </div>
+    <div :class="['particle-basic',tabsPosition]">
+      <div class="particle-container"></div>
+    </div>
+    <div class="preload-container">
       <img v-for="(src, index) in preloadImages" :key="index" :src="src" class="preload-image" alt="preload" />
     </div>
   </div>
-  </template>
+  <div v-if="isMobile" class="mobile-content">
+    <component
+      v-for="(item, index) in mobileItems"
+      :key="index"
+      :is="item.component"
+      v-bind="item.props"
+    />
+  </div>
+</template>
   
   <script>
-  import { ref, provide, computed, onMounted } from 'vue';
+  import { ref, provide, computed, onMounted, onUnmounted  } from 'vue';
   
   export default {
     props: {
@@ -38,6 +46,8 @@
       const selectedIndex = ref(0);
       const tabs = ref([]);
       const preloadImages = ref([]);
+      const isMobile = ref(false);
+      const mobileItems = ref([]);
   
       function registerTab(tab) {
         tabs.value.push(tab);
@@ -49,14 +59,24 @@
       }
 
       function preloadImage(src) {
-      if (!preloadImages.value.includes(src)) {
-        preloadImages.value.push(src);
+        if (!preloadImages.value.includes(src)) {
+          preloadImages.value.push(src);
+        }
       }
-    }
+
+      const addMobileItem = (component, props) => {
+        mobileItems.value.push({ component, props });
+      };
+      
+      const checkMobile = () => {
+        isMobile.value = window.innerWidth <= 768; 
+      };
   
       provide('registerTab', registerTab);
       provide('selectedIndex', selectedIndex);
       provide('preloadImage', preloadImage);
+      provide('isMobile', isMobile);
+      provide('addMobileItem', addMobileItem);
 
       onMounted(() => {
         const containers = document.querySelectorAll('.particle-container');
@@ -88,14 +108,23 @@
             container.appendChild(particle); // 添加到容器中
           }
         })
+
+        checkMobile();
+        window.addEventListener('resize', checkMobile);
       })
+
+      onUnmounted(() => {
+        window.removeEventListener('resize', checkMobile);
+      });
   
       return {
         tabs,
         selectedIndex,
         selectTab,
         tabsPosition: computed(() => props.position === 'bottom' ? 'tabs-bottom' : 'tabs-top'),
-        preloadImages
+        preloadImages,
+        isMobile,
+        mobileItems
       };
     }
   };
@@ -156,9 +185,26 @@
     position: relative;
     /* height: 100%; */
   }
-  </style>
-  
-  <style>
+  .preload-container {
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+  }
+
+  .preload-image {
+    width: 1px;
+    height: 1px;
+    opacity: 0.01;
+  }
+
+  .mobile-content {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+</style>
+
+<style>
   .particle-basic{
     position: absolute;
     bottom: 0;
@@ -189,6 +235,15 @@
       opacity: 0.8;
       animation: riseAndFade 2s linear infinite;
   }
+  
+
+
+  @media (max-width: 768px) {
+    .mobile-tables {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }
 
   @keyframes riseAndFade {
       0% {
@@ -199,18 +254,5 @@
           transform: translateY(-2000%);
           opacity: 0;
       }
-  }
-
-  .preload-container {
-    position: absolute;
-    width: 0;
-    height: 0;
-    overflow: hidden;
-  }
-
-  .preload-image {
-    width: 1px;
-    height: 1px;
-    opacity: 0.01;
   }
 </style>

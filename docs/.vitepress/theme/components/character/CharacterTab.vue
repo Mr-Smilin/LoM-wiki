@@ -18,13 +18,15 @@ export default {
   setup(props) {
     const registerTab = inject('registerTab');
     const selectedIndex = inject('selectedIndex');
+    const isMobile = inject('isMobile');
 
     const index = registerTab({ title: props.title });
 
     const isActive = computed(() => index === selectedIndex.value);
 
     return {
-      isActive
+      isActive,
+      isMobile
     };
   }
 };
