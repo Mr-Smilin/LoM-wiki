@@ -18,7 +18,6 @@
 import { inject, ref , computed} from 'vue';
 import CharacterTr from './CharacterTr.vue';
 import CharacterTd from './CharacterTd.vue';
-import MobileWrapper from '../../tools/MobileWrapper.vue';
 
 export default {
   name: 'CharacterTable',
@@ -35,8 +34,7 @@ export default {
   },
   components: {
     CharacterTr,
-    CharacterTd,
-    MobileWrapper
+    CharacterTd
   },
   setup(props) {
     const isMobile = inject('isMobile');
@@ -108,6 +106,7 @@ export default {
   overflow-y: unset;
   height: 100%;
   min-width: unset;
+  max-height: unset;
 }
 
 .toggle-button {
