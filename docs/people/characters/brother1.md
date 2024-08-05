@@ -6,12 +6,85 @@ tags:
 aside: false
 ---
 
-![唐布衣](/images/characters/faction/icon_brother1.png)
+# {{ $frontmatter.title }}
 
-# 飛俠 唐布衣
+<ChTabs position="bottom">
+    <ChTab title="唐布衣">
+        <Ch
+            src='/images/characters/brother1/normal.png' 
+            position='right'/>
+        <ChName nameZh='唐布衣' nameEn='Tang Bu Yi' position='right' />
+        <ChTable>
+            <ChTr>
+                <ChTd isTitle=true>
+                    性別
+                </ChTd>
+                <ChTd>
+                    男
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
+                    稱號
+                </ChTd>
+                <ChTd>
+                    飛俠<br>大師兄
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true position='center'>
+                    關係
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐中翎]] (掌門)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐鹿]] (師娘)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐錚]] (二師弟)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐陞]] (三師弟)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐惟元]] (四師弟)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐默鈴]] (小師妹)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[趙活]] (師弟)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[解無塵]] (被當勁敵)
+                </ChTd>
+            </ChTr>
+        </ChTable>
+    </ChTab>
+</ChTabs>
+<br><br>
 
 名喚布衣，掌門座下第一大弟子。  
 天資聰穎，爽朗不羈，江湖人稱「飛俠」，暗器、輕功造詣俱臻當世第一流境界。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">

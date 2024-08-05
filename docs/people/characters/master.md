@@ -6,15 +6,84 @@ tags:
 aside: false
 ---
 
-![唐中翎](/images/characters/faction/icon_master.png)
+# {{ $frontmatter.title }}
 
-# 唐門掌門 唐中翎
+<ChTabs position="bottom">
+    <ChTab title="唐中翎">
+        <Ch
+            src='/images/characters/master/normal.png' 
+            position='right'/>
+        <ChName nameZh='唐中翎' nameEn='Tang Zhong Ling' position='right' />
+        <ChTable>
+            <ChTr>
+                <ChTd isTitle=true>
+                    性別
+                </ChTd>
+                <ChTd>
+                    男
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
+                    稱號
+                </ChTd>
+                <ChTd>
+                    唐門掌門<br>唐老魔
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true position='center'>
+                    關係
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐鹿]] (妻子)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐默鈴]] (女兒)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐布衣]] (大弟子)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐錚]] (二弟子)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐陞]] (三弟子)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐惟元]] (四弟子)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[趙活]] (外姓弟子)
+                </ChTd>
+            </ChTr>
+        </ChTable>
+    </ChTab>
+</ChTabs>
+
+> 「我本山中布衣，不服王化，從來離經叛道，最是偭規越矩。心血來潮，一快披襟。自忖不負俠義，無愧良心。正邪存乎在我，聲名留問諸君。」
 
 本名唐中翎，當任唐門掌門人。
 <br><br>
 性情剛烈，嫉惡如仇，曾列名武林十大高手的傳奇人物，可惜中年過後，身體已然大不如前，飛燕流星翎成為絕響。
 <br><br>
 於[極樂教一役](/event/stories/決戰極樂教)，不惜吞服毒藥強行催谷功力，以飛燕流星翎誅殺右護法，只是從此落下病根。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">

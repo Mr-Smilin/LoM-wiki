@@ -6,13 +6,86 @@ tags:
 aside: false
 ---
 
-![唐錚](/images/characters/faction/icon_brother2.png)
+# {{ $frontmatter.title }}
 
-# 二師兄 唐錚
+<ChTabs position="bottom">
+    <ChTab title="唐錚">
+        <Ch
+            src='/images/characters/brother2/normal.png' 
+            position='right'/>
+        <ChName nameZh='唐錚' nameEn='Tang Zheng' position='right' />
+        <ChTable>
+            <ChTr>
+                <ChTd isTitle=true>
+                    性別
+                </ChTd>
+                <ChTd>
+                    男
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
+                    稱號
+                </ChTd>
+                <ChTd>
+                    二師兄<br>辣手相公
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true position='center'>
+                    關係
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐中翎]] (掌門)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐鹿]] (母親)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐布衣]] (大師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐陞]] (三師弟)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐惟元]] (四師弟)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐默鈴]] (異父妹妹)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[趙活]] (師弟)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[畫中仙]] (間諜)
+                </ChTd>
+            </ChTr>
+        </ChTable>
+    </ChTab>
+</ChTabs>
+<br><br>
 
 單名一字錚，唐門掌門座下第二弟子。  
 善使毒藥，於藥毒之術的鑽研尤勝業師，心思縝密，孤僻深沉，  
 鮮少下山走動，故而名聲遠不及師兄，向有「辣手相公」、「辣手公子」之稱，人人敬而遠之。
+
+## 列傳
 
 <Tabs>
 <Tab title="列傳一">
@@ -43,3 +116,9 @@ aside: false
 	和小師妹默鈴是同母的兄妹關係，即使說話刻薄，卻十分寵溺這個異父妹妹。
 </Tab>
 </Tabs>
+
+## 備註
+
+- 二師兄從不開玩笑，別說自己想找死
+- 刀子嘴豆腐心，好感度越高，越常罵[[趙活]]，但好感卻又提升
+- 三面間諜：「我受錦香宮指示，潛伏在唐門；受千燈樓指示，潛伏在錦香宮；受唐門指示，潛伏在千燈樓。」

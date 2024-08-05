@@ -6,12 +6,80 @@ tags:
 aside: false
 ---
 
-![唐惟元](/images/characters/faction/icon_brother4.png)
+# {{ $frontmatter.title }}
 
-# 四師兄 唐惟元
+<ChTabs position="bottom">
+    <ChTab title="唐惟元">
+        <Ch
+            src='/images/characters/brother4/normal.png' 
+            position='right'/>
+        <ChName nameZh='唐惟元' nameEn='Tang Wei Yuan' position='right' />
+        <ChTable>
+            <ChTr>
+                <ChTd isTitle=true>
+                    性別
+                </ChTd>
+                <ChTd>
+                    男
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
+                    稱號
+                </ChTd>
+                <ChTd>
+                    四師兄<br>無孔不入
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true position='center'>
+                    關係
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐中翎]] (掌門)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐鹿]] (師娘)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐布衣]] (大師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐錚]] (二師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐陞]] (三師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐默鈴]] (小師妹)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[趙活]] (師弟)
+                </ChTd>
+            </ChTr>
+        </ChTable>
+    </ChTab>
+</ChTabs>
+<br><br>
 
 本名惟元，唐門掌門的關門弟子。  
 被委以往返山下兜售藥品、採購生活用品的任務，樂此不疲，經常鑽門規的空子，夾帶私貨抬價賣給同門師兄弟賺取差價。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">

@@ -8,101 +8,99 @@ aside: false
 borderless: false
 ---
 
-<ChTabs position="bottom">
-  <ChTab title="龍湘">
-    <Ch
-      src='/images/characters/girl_8/normal.png' 
-      position='right'/>
-    <ChName nameZh='龍湘' nameEn='Long Xiang' position='right' />
-    <MobileWrapper>
-      <ChTable>
-        <ChTr>
-          <ChTd isTitle=true>
-            性別
-          </ChTd>
-          <ChTd>
-            女
-          </ChTd>
-        </ChTr>
-        <ChTr>
-          <ChTd isTitle=true>
-            年齡
-          </ChTd>
-          <ChTd>
-            推測18上下
-          </ChTd>
-        </ChTr>
-        <ChTr>
-          <ChTd isTitle=true position='center'>
-            稱號
-          </ChTd>
-        </ChTr>
-        <ChTr>
-          <ChTd position='center'>
-            錦香宮殺人魔<br>雞腿俠<br>丐幫的行走錢莊
-          </ChTd>
-        </ChTr>
-        <ChTr>
-          <ChTd isTitle=true position='center'>
-            關係
-          </ChTd>
-        </ChTr>
-        <ChTr>
-          <ChTd position='center'>
-            龍淵 (父親)
-          </ChTd>
-        </ChTr>
-        <ChTr>
-          <ChTd position='center'>  
-              溫夫人 (師傅)
-          </ChTd>
-        </ChTr>
-        <ChTr>
-          <ChTd position='center'>
-            畫中仙 (師姐)
-          </ChTd>
-        </ChTr>
-        <ChTr>
-          <ChTd position='center'>
-            趙活 (臭弟)
-          </ChTd>
-        </ChTr>
-      </ChTable>
-    </MobileWrapper>
-  </ChTab>
-  <ChTab title="吃雞腿">
-    <Ch 
-      src='/images/characters/girl_8/girl8_drumstick.png' 
-      position='right'/>
-    <ChName
-      nameZh='吃雞腿'
-      nameEn='Eat Drumstick'/>
-  </ChTab>
-  <ChTab title="雞腿劍">
-    <Ch 
-      src='/images/characters/girl_8/drumstick_sword.png' 
-      position='right'/>
-    <ChName
-      nameZh='雞腿劍'
-      nameEn='Drumstick Sword'/>
-  </ChTab>
-  <ChTab title="大笑">
-    <Ch src='/images/characters/girl_8/laugh2.png'
-          position='right'/>
-    <ChName 
-      nameZh='大笑'
-      nameEn='Laugh heartily'/>
-  </ChTab>
-  <ChTab title="戰鬥">
-    <Ch src='/images/characters/girl_8/angry3.png'
-          position='right'/>
-    <ChName 
-      nameZh='戰鬥'
-      nameEn='Fight'/>
-  </ChTab>
-</ChTabs>
+# {{ $frontmatter.title }}
 
-<!-- # 龍湘 -->
+<ChTabs position="bottom">
+	<ChTab title="龍湘">
+		<Ch src='/images/characters/girl_8/normal.png' position='right'/>
+		<ChName nameZh='龍湘' nameEn='Long Xiang' position='right' />
+		<MobileWrapper>
+			<ChTable>
+				<ChTr>
+					<ChTd isTitle=true>
+						性別
+					</ChTd>
+					<ChTd>
+						女
+					</ChTd>
+				</ChTr>
+				<ChTr>
+					<ChTd isTitle=true>
+						稱號
+					</ChTd>
+					<ChTd>
+						湘姊<br>錦香宮殺人魔<br>雞腿刺客<br>丐幫認證移動錢莊<br>白衣菩薩<br>拿劍的菩薩
+					</ChTd>
+				</ChTr>
+				<ChTr>
+					<ChTd isTitle=true position='center'>
+						關係
+					</ChTd>
+				</ChTr>
+				<ChTr>
+					<ChTd position='center'>
+						[[龍淵]] (父親)
+					</ChTd>
+				</ChTr>
+				<ChTr>
+					<ChTd position='center'>  
+						[[溫夫人]] (師傅)
+					</ChTd>
+				</ChTr>
+				<ChTr>
+					<ChTd position='center'>
+						[[畫中仙]] (師姐)
+					</ChTd>
+				</ChTr>
+				<ChTr>
+					<ChTd position='center'>
+						[[盛雪]] (師姐)
+					</ChTd>
+				</ChTr>
+				<ChTr>
+					<ChTd position='center'>
+						[[王二壯]] (叔叔)
+					</ChTd>
+				</ChTr>
+				<ChTr>
+					<ChTd position='center'>
+						[[趙活]] (臭弟)
+					</ChTd>
+				</ChTr>
+			</ChTable>
+		</MobileWrapper>
+	</ChTab>
+	<ChTab title="吃雞腿">
+		<Ch 
+			src='/images/characters/girl_8/girl8_drumstick.png' 
+			position='right'/>
+		<ChName
+			nameZh='吃雞腿'
+			nameEn='Eat Drumstick'/>
+	</ChTab>
+	<ChTab title="雞腿劍">
+		<Ch 
+			src='/images/characters/girl_8/drumstick_sword.png' 
+			position='right'/>
+		<ChName
+			nameZh='雞腿劍'
+			nameEn='Drumstick Sword'/>
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch src='/images/characters/girl_8/laugh2.png'
+			position='right'/>
+		<ChName 
+			nameZh='大笑'
+			nameEn='Laugh heartily'/>
+	</ChTab>
+	<ChTab title="戰鬥">
+		<Ch src='/images/characters/girl_8/angry3.png'
+			position='right'/>
+		<ChName 
+			nameZh='戰鬥'
+			nameEn='Fight'/>
+	</ChTab>
+</ChTabs>
 
 > 「縱死俠骨香，不慚世上英。誰人書閣下，白首太玄雞。」
 

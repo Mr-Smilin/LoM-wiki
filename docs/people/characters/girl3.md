@@ -9,16 +9,89 @@ tags:
 aside: false
 ---
 
-# 飛天嫡傳女弟子 虞小梅
+# {{ $frontmatter.title }}
 
 ::: info
 這個角色的劇情尚未完成，無法正常攻略！
 :::
 
+<ChTabs position="bottom">
+	<ChTab title="虞小梅">
+		<Ch src='/images/characters/girl_3/normal.png' position='right'/>
+		<ChName nameZh='虞小梅' nameEn='Yu Xiao Mei' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					女
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					飛天嫡傳女弟子<br>阿鶴俠<br>~~樓梯俠~~
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[火龍真君]] (師父)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[金烏上人]] (教頭)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[千金叟]] (監視者)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[夏侯蘭]] (崆峒四姝)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[郁竹]] (崆峒四姝)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[魏菊]] (崆峒四姝)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[阿鶴俠]] (右手)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[火閃電]] (寵物)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+
 > 「有！小梅來了！汪汪！喵喵！哞哞！」
 
-崆峒派‧飛天門當代的嫡傳女弟子，天真爛漫，活潑開朗的妙齡少女。  
+崆峒派‧飛天門當代的嫡傳女弟子，天真爛漫，活潑開朗的妙齡少女。
+<br><br>
 江湖名聲不響，在崆峒派卻是四門嫡傳女弟子之中呼聲最高的一位，第一掌派夫人之位，勢在必得。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
@@ -63,4 +136,6 @@ aside: false
   </Tab>
 </Tabs>
 
-- ~~樓梯俠~~
+## 備註
+
+- 本人宣稱右手寄宿了[[阿鶴俠]]的魂魄，信不信由你！

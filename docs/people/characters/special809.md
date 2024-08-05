@@ -6,11 +6,46 @@ tags:
 aside: false
 ---
 
-# 李富貴
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="李富貴">
+		<Ch src='/images/characters/special809/normal.png' position='right'/>
+		<ChName nameZh='李富貴' nameEn='Li Fu Gui' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[王二壯]] (義父)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[樊嘯天]] (同門)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
 
 丐幫後起新秀，明明是乞丐，卻被取名為富貴。  
-既是丐幫老派長老千金叟的遺孤，也是丐幫新派領袖兼幫主王二壯的義子。  
+既是丐幫老派長老千金叟的遺孤，也是丐幫新派領袖兼幫主[[王二壯]]的義子。  
 講話口吃，其實人不算笨。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">

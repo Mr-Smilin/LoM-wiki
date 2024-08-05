@@ -7,12 +7,80 @@ tags:
 aside: false
 ---
 
-![唐默鈴](/images/characters/girl_0/icon_girl0.png)
+# {{ $frontmatter.title }}
 
-# 小師妹 唐默鈴
+<ChTabs position="bottom">
+    <ChTab title="唐默鈴">
+        <Ch
+            src='/images/characters/girl_0/normal.png' 
+            position='right'/>
+        <ChName nameZh='唐默鈴' nameEn='Tang Mo Ling' position='right' />
+        <ChTable>
+            <ChTr>
+                <ChTd isTitle=true>
+                    性別
+                </ChTd>
+                <ChTd>
+                    女
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
+                    稱號
+                </ChTd>
+                <ChTd>
+                    小師妹<br>狂暴小綿羊
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true position='center'>
+                    關係
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐中翎]] (父親)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐鹿]] (母親)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐布衣]] (大師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐錚]] (異父哥哥)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐陞]] (三師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐惟元]] (四師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[趙活]] (師兄)
+                </ChTd>
+            </ChTr>
+        </ChTable>
+    </ChTab>
+</ChTabs>
+<br><br>
 
 芳名默鈴，[[唐中翎|掌門]]獨生愛女，宛如森林小動物般的少女，性情淡漠，身繫七串從來不響的鈴鐺。  
 興趣是摺紙。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
