@@ -47,7 +47,6 @@ function processHighlights(html) {
 }
 
 function processContent(content) {
-  console.log(content);
   if (typeof content === 'string') {
     const html = marked(content, markedOptions);
     const cleanHtml = removePTags(processHighlights(html));

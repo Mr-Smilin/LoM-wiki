@@ -104,7 +104,6 @@ function getContentType(content) {
 }
 
 const processedHeaders = computed(() => {
-  console.log('wss',headers);
   return headers.value.map(td => ({
     type: td.type,
     props: td.props,
