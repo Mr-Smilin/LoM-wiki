@@ -228,6 +228,7 @@ tags:
     <ChC 
       src='/images/characters/girl_8/girl8_drumstick.png' 
       position='right'
+      desc='aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
       :animation=true />
   </ChTab>
   <ChTab title="debug">
@@ -248,3 +249,20 @@ tags:
       nameEn='Fight'/>
   </ChTab>
 </ChTabs>
+
+<button @click="visible = !visible" class="name-button">aaaaa</button>
+<TCT 
+  :visible="visible"
+  label="testtesttesttesttest"
+  :enter="(i) => ({
+    delay: i * 5,
+  })"
+  :leave="(i) => ({
+    delay: i * 5,
+  })"
+  />
+
+<script setup>
+import { ref } from "vue";
+const visible = ref(true);
+</script>

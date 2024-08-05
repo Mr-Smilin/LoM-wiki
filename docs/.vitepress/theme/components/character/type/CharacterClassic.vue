@@ -3,6 +3,9 @@
       <div :class="['human', imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
       <div :class="['layer-1',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
       <div :class="['layer-2',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
+      <div :class="['desc',imageAnima]" >
+        {{ desc }}
+      </div>
     </div>
   </template>
   
@@ -23,6 +26,11 @@
         default: ''
       },
       nameMain:{
+        type: String,
+        required: false,
+        default: ''
+      },
+      desc:{
         type: String,
         required: false,
         default: ''
@@ -86,6 +94,21 @@
     z-index: -3;
   }
 
+  .desc{
+    position: absolute;
+    top: 52%;
+    right: 8%;
+    width: 58%;
+    max-height: 6em;
+    overflow: hidden;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    line-height: 1.5em;
+    color: white;
+    /* background-color: rgba(144, 114, 92,0.1); */
+  }
+
   .background{
     position: relative;
     width: 100%;
@@ -120,6 +143,17 @@
   .layer-2.anima {
     animation: moveLeft2 3s ease-out 0.7s forwards;
   }
+
+  .desc.anima {
+    clip-path: inset(0 100% 0 0);
+    animation: revealText 0.5s ease-out 0.7s forwards;
+  }
+
+  @media screen and (max-width: 768px){
+    .desc{
+      display: none;
+    }
+  }
   
   @keyframes reveal {
     0% {
@@ -141,6 +175,7 @@
     transform: translateX(-10px); 
   }
 }
+
 @keyframes moveLeft2 {
   0% {
     transform: translateX(0);
@@ -150,6 +185,14 @@
   }
   100% {
     transform: translateX(-30px); 
+  }
+}
+@keyframes revealText {
+  0% {
+    clip-path: inset(0 100% 0 0);
+  }
+  100% {
+    clip-path: inset(0 0 0 0);
   }
 }
   </style>
