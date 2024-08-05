@@ -107,7 +107,7 @@ export default {
   overflow-x: unset;
   overflow-y: unset;
   height: 100%;
-  min-width: none;
+  min-width: unset;
 }
 
 .toggle-button {
