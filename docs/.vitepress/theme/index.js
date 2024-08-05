@@ -17,7 +17,8 @@ import CharacterTabs from "./components/character/CharacterTabs.vue";
 import CharacterTab from "./components/character/CharacterTab.vue";
 import Character from "./components/character/base/Character.vue";
 import CharacterName from "./components/character/base/CharacterName.vue";
-import CharacterTable from "./components/character/base/CharacterTable.vue";
+// import CharacterTable from "./components/character/base/CharacterTable.vue";
+import MarkCharacterTable from "./components/character/base/MarkCharacterTable.vue";
 import CharacterTr from "./components/character/base/CharacterTr.vue";
 import CharacterTd from "./components/character/base/CharacterTd.vue";
 import CharacterClassic from "./components/character/type/CharacterClassic.vue";
@@ -108,7 +109,7 @@ export default {
     app.component("ChTab", CharacterTab);
     app.component("Ch", Character);
     app.component("ChName", CharacterName);
-    app.component("ChTable", CharacterTable);
+    app.component("ChTable", MarkCharacterTable);
     app.component("ChTr", CharacterTr);
     app.component("ChTd", CharacterTd);
     app.component("CnTd", ChineseStyleTd);
