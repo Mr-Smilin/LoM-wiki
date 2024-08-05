@@ -59,6 +59,11 @@ aside: false
 					[[書蓉]] (前丫鬟)
 				</ChTd>
 			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[樂屏]] (情敵)
+				</ChTd>
+			</ChTr>
 		</ChTable>
 	</ChTab>
 </ChTabs>
