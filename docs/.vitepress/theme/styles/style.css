@@ -1,3 +1,12 @@
+  @font-face {
+    font-family: 'SourceHanSerifTC-BOLD';
+    src: url('/font/SourceHanSerifTC-VF.ttf.woff2') format('woff2'),
+        url('/font/SourceHanSerifTC-VF.otf') format('opentype');
+    /* font-weight: normal;
+    font-style: normal; */
+    font-display: swap;
+  }
+  
   :root{
     /* 導航欄高度 */
     --vp-nav-height: 96px;
@@ -7,6 +16,7 @@
     --scrollbar-color: #ced4d9;
     /* 亮色介面 hover 深度 */
     --vp-c-bg-alt: #d6d6d6;
+    /* --vp-font-family-base: 'SourceHanSerifTC-BOLD', sans-serif; */
   }
 
   .dark{

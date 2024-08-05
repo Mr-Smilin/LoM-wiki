@@ -58,6 +58,10 @@
   </script>
   
   <style scoped>
+  div{
+      font-family: 'SourceHanSerifTC-BOLD', sans-serif;
+  }
+
   .human,
   .layer-1,
   .layer-2{
@@ -98,25 +102,15 @@
     z-index: -3;
   }
 
-  .desc{
-    position: absolute;
-    top: 52%;
-    right: 8%;
-    width: 58%;
-    max-height: 6em;
-    overflow: hidden;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    white-space: normal;
-    line-height: 1.5em;
-    color: white;
-    /* background-color: rgba(144, 114, 92,0.1); */
-  }
-
   .name{
     position: absolute;
     top:38%;
     right: 40%;
+    line-height: 1.5em;
+  }
+
+  .name p{
+    margin-bottom: 3px;
   }
 
   .name span{
@@ -136,6 +130,21 @@
     background-image: url(/images/generic/background/icon_brush_1.png);
     background-size: 100% 100%;
     z-index: -1;
+  }
+
+  .desc{
+    position: absolute;
+    top: 52%;
+    right: 8%;
+    width: 58%;
+    max-height: 6em;
+    overflow: hidden;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    line-height: 1.5em;
+    color: white;
+    /* background-color: rgba(144, 114, 92,0.1); */
   }
 
   .background{
@@ -171,6 +180,11 @@
 
   .layer-2.anima {
     animation: moveLeft2 3s ease-out 0.7s forwards;
+  }
+
+  .name.anima {
+    clip-path: inset(0 100% 0 0);
+    animation: revealName 0.5s ease-out 0.6s forwards;
   }
 
   .desc.anima {
@@ -214,6 +228,14 @@
   }
   100% {
     transform: translateX(-30px); 
+  }
+}
+@keyframes revealName {
+  0% {
+    clip-path: inset(0 100% 0 -50%);
+  }
+  100% {
+    clip-path: inset(0 -50% 0 -50%);
   }
 }
 @keyframes revealText {

@@ -2,7 +2,7 @@
     <thead :class="{ 'sticky': sticky }">
         <tr>
             <th v-for="header in headers" :key="header.key" @click="handleSort(header)">
-                <span>{{ header.label }}</span>
+                <MarkdownWrapper :content="header.content" />
                 <BTableSortIcon 
                 v-if="!header.unsortable"
                 :sort-key="sortKey"

@@ -4,12 +4,15 @@
       :href="part.href" 
     >{{ part.text }}</VPNolebaseInlineLinkPreview>
     <WikiLink v-else-if="part?.type === 'wikilink'" :text="part.text" />
+    <component v-else-if="part?.type === 'component'" :is="part.component" v-bind="part.props">
+      <MarkdownWrapper :content="part.children" />
+    </component>
     <span v-else v-html="part"></span>
   </template>
 </template>
 
 <script setup>
-import { ref, watchEffect, getCurrentInstance, render,onMounted } from 'vue';
+import { ref, watchEffect, getCurrentInstance,onMounted } from 'vue';
 import { withBase } from 'vitepress';
 import { marked } from 'marked';
 
@@ -43,7 +46,30 @@ function processHighlights(html) {
   });
 }
 
-function processContent(html) {
+function processContent(content) {
+  console.log(content);
+  if (typeof content === 'string') {
+    const html = marked(content, markedOptions);
+    const cleanHtml = removePTags(processHighlights(html));
+    return processLinks(cleanHtml);
+  } else if (Array.isArray(content)) {
+    return content.map(item => processContent(item)).flat();
+  } else if (typeof content === 'object' && content !== null) {
+    if (content.type && typeof content.type !== 'symbol') {
+      return [{
+        type: 'component',
+        component: content.type,
+        props: content.props || {},
+        children: content.children
+      }];
+    } else if (content.children) {
+      return processContent(content.children);
+    }
+  }
+  return [content];
+}
+
+function processLinks(html) {
   const linkRegex = /<a\s+(?:[^>]*?\s+)?href="([^"]*)"[^>]*>(.*?)<\/a>/gi;
   const wikiLinkRegex = /\[\[([^\]]+)\]\]/g;
   const parts = [];
@@ -91,26 +117,13 @@ onMounted(() => {
             if (props.content !== null) {
                 content = props.content;
             } else {
-                content = slots.default ? slots.default().map(node => { 
-                    if (typeof node.children === 'string') {
-                        return node.children;
-                    } else if (node.type === Symbol.for('v-txt')) {
-                        return node.children;
-                    } else {
-                        const el = document.createElement('div');
-                        render(node, el);
-                        return el.innerHTML;
-                    }
-                }).join('').trim() : '';
+                content = slots.default ? slots.default() : '';
             }
 
-            let rawHtml = marked(content, markedOptions);
-            rawHtml = removePTags(rawHtml);
-            rawHtml = processHighlights(rawHtml);
-            compiledParts.value = processContent(rawHtml);
+            compiledParts.value = processContent(content);
         } catch (error) {
-            console.error('Markdown parsing error:', error);
-            compiledParts.value = ['Error parsing markdown'];
+            console.error('Content parsing error:', error);
+            compiledParts.value = ['Error parsing content'];
         }
     });
 })
