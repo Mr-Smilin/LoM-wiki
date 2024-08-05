@@ -14,59 +14,61 @@ borderless: false
       src='/images/characters/girl_8/normal.png' 
       position='right'/>
     <ChName nameZh='龍湘' nameEn='Long Xiang' position='right' />
-    <ChTable>
-      <ChTr>
-        <ChTd isTitle=true>
-          性別
-        </ChTd>
-        <ChTd>
-          女
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd isTitle=true>
-          年齡
-        </ChTd>
-        <ChTd>
-          推測18上下
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd isTitle=true position='center'>
-          稱號
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd position='center'>
-          錦香宮殺人魔<br>雞腿俠<br>丐幫的行走錢莊
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd isTitle=true position='center'>
-          關係
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd position='center'>
-          龍淵 (父親)
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd position='center'>  
-            溫夫人 (師傅)
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd position='center'>
-          畫中仙 (師姐)
-        </ChTd>
-      </ChTr>
-      <ChTr>
-        <ChTd position='center'>
-          趙活 (臭弟)
-        </ChTd>
-      </ChTr>
-    </ChTable>
+    <MobileWrapper>
+      <ChTable>
+        <ChTr>
+          <ChTd isTitle=true>
+            性別
+          </ChTd>
+          <ChTd>
+            女
+          </ChTd>
+        </ChTr>
+        <ChTr>
+          <ChTd isTitle=true>
+            年齡
+          </ChTd>
+          <ChTd>
+            推測18上下
+          </ChTd>
+        </ChTr>
+        <ChTr>
+          <ChTd isTitle=true position='center'>
+            稱號
+          </ChTd>
+        </ChTr>
+        <ChTr>
+          <ChTd position='center'>
+            錦香宮殺人魔<br>雞腿俠<br>丐幫的行走錢莊
+          </ChTd>
+        </ChTr>
+        <ChTr>
+          <ChTd isTitle=true position='center'>
+            關係
+          </ChTd>
+        </ChTr>
+        <ChTr>
+          <ChTd position='center'>
+            龍淵 (父親)
+          </ChTd>
+        </ChTr>
+        <ChTr>
+          <ChTd position='center'>  
+              溫夫人 (師傅)
+          </ChTd>
+        </ChTr>
+        <ChTr>
+          <ChTd position='center'>
+            畫中仙 (師姐)
+          </ChTd>
+        </ChTr>
+        <ChTr>
+          <ChTd position='center'>
+            趙活 (臭弟)
+          </ChTd>
+        </ChTr>
+      </ChTable>
+    </MobileWrapper>
   </ChTab>
   <ChTab title="吃雞腿">
     <Ch 

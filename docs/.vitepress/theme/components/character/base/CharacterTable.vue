@@ -1,5 +1,5 @@
 <template>
-  <div class="attributes-table-container" :class="attributesPosition" :style="{ transform: tableTransform }">
+  <div class="attributes-table-container" :class="[attributesPosition,{'mobile':isMobile}]" :style="{ transform: tableTransform }">
     <button @click="toggleTable" class="toggle-button">摺疊</button>
     <table v-if="haveData" class="attributes-table">
       <CharacterTr v-for="(trData,trIndex) in table" :key="trIndex">
@@ -15,9 +15,10 @@
 </template>
 
 <script>
-import { ref , computed} from 'vue';
+import { inject, ref , computed} from 'vue';
 import CharacterTr from './CharacterTr.vue';
 import CharacterTd from './CharacterTd.vue';
+import MobileWrapper from '../../tools/MobileWrapper.vue';
 
 export default {
   name: 'CharacterTable',
@@ -34,9 +35,12 @@ export default {
   },
   components: {
     CharacterTr,
-    CharacterTd
+    CharacterTd,
+    MobileWrapper
   },
   setup(props) {
+    const isMobile = inject('isMobile');
+
     const tableVisible = ref(true);
 
     const attributesPosition = computed(() => props.position || 'left');
@@ -53,6 +57,7 @@ export default {
       tableTransform,
       toggleTable,
       haveData,
+      isMobile,
     };
   }
 };
@@ -80,6 +85,11 @@ export default {
   right: 5px;
 }
 
+.attributes-table-container.mobile {
+  display: contents;
+  width: 100%;
+}
+
 .attributes-table {
   border-collapse: separate;
   display: flex;
@@ -91,6 +101,13 @@ export default {
   padding: 0;
   margin: 0;
   min-width: 300px;
+}
+
+.mobile .attributes-table{
+  overflow-x: unset;
+  overflow-y: unset;
+  height: 100%;
+  min-width: none;
 }
 
 .toggle-button {
@@ -105,5 +122,9 @@ export default {
   text-align: center;
   padding: 0;
   border-radius: 25px 25px 0 0;
+}
+
+.mobile .toggle-button {
+  display: none;
 }
 </style>
