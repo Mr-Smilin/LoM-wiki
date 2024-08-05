@@ -228,6 +228,8 @@ tags:
     <ChC 
       src='/images/characters/girl_8/girl8_drumstick.png' 
       position='right'
+      nameTitle='小師妹'
+      nameMain='唐默鈴'
       desc='aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
       :animation=true />
   </ChTab>
