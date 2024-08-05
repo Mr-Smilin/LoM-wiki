@@ -228,6 +228,7 @@ tags:
     <ChC 
       src='/images/characters/girl_8/girl8_drumstick.png' 
       position='right'
+      desc='aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
       :animation=true />
   </ChTab>
   <ChTab title="debug">
