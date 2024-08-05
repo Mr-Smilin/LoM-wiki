@@ -56,6 +56,9 @@ import WikiLink from "./components/tools/WikiLink.vue";
 import InfoList from "./components/info/InfoList.vue";
 import Info from "./components/info/Info.vue";
 
+// big tools
+import TextCharactersTransition from "./components/tools/text-characters-transition/TextCharactersTransition.vue";
+
 import "./styles/style.css";
 import "./styles/borderless.css";
 import "./styles/twikoo.css";
@@ -156,6 +159,9 @@ export default {
     app.component("WikiLink", WikiLink);
     app.component("InfoList", InfoList);
     app.component("Info", Info);
+
+    // big tools
+    app.component("TCT", TextCharactersTransition);
 
     // EndBackground component
     app.component("EndBackground", EndBackground);
