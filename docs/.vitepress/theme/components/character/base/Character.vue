@@ -85,6 +85,16 @@ export default {
   z-index: -1;
 }
 
+@media screen and (max-width: 768px){
+  .background-image{
+    background-position: 'center bottom';
+  }
+
+  .background-image.anima::before{
+    mask-position: 'center bottom';
+  }
+}
+
 @keyframes reveal {
   0% {
     background-color: black;

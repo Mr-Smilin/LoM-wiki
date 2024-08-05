@@ -3,7 +3,11 @@
       <div :class="['human', imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
       <div :class="['layer-1',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
       <div :class="['layer-2',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
-      <div :class="['desc',imageAnima]" >
+      <div v-if="nameMain" :class="['name',imageAnima]">
+        <p>{{ nameTitle }}</p>
+        <span>{{ nameMain }}</span>
+      </div>
+      <div v-if="desc" :class="['desc',imageAnima]" >
         {{ desc }}
       </div>
     </div>
@@ -107,6 +111,31 @@
     line-height: 1.5em;
     color: white;
     /* background-color: rgba(144, 114, 92,0.1); */
+  }
+
+  .name{
+    position: absolute;
+    top:38%;
+    right: 40%;
+  }
+
+  .name span{
+    position: relative;
+  }
+
+  .name span::before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 200%;
+    height: 200%;
+    transform: translate(-50%, -50%);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url(/images/generic/background/icon_brush_1.png);
+    background-size: 100% 100%;
+    z-index: -1;
   }
 
   .background{
