@@ -64,12 +64,10 @@ export default {
 </script>
 
 <style scoped>
-@font-face
-{
-    font-family: SourceHanSerifTC-BOLD;
-    src: url('/font/SourceHanSerifTC-VF.ttf.woff2'),
-        url('/font/SourceHanSerifTC-VF.otf');
+div{
+    font-family: 'SourceHanSerifTC-BOLD', sans-serif;
 }
+
 .background-image{
     display: flex;
     align-items: center;

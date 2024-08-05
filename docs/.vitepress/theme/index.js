@@ -1,5 +1,6 @@
 // .vitepress/theme/index.js
 import DefaultTheme from "vitepress/theme";
+// import DefaultTheme from "vitepress/theme-without-fonts";
 import MyLayout from "./components/MyLayout.vue";
 // import mock Bootstrap-vue
 import BTable from "./components/bootstrap-vue/BTable.vue";
