@@ -235,7 +235,7 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
       mask-position: center bottom;
     }
     .background{
-      display: none;
+      background-size: 0%;
     }
   }
   
