@@ -6,11 +6,59 @@ tags:
 aside: false
 ---
 
-# 南宮淺
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="南宮淺">
+		<Ch src='/images/characters/special103/normal.png' position='right'/>
+		<ChName nameZh='南宮淺' nameEn='Nan Gong Qian' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					南宮二公子
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮橫]] (爺爺)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮遠]] (父親)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮深]] (哥哥)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
 
 南宮世家的庶子。  
-他的出生並非人所期望，他娘親更為南宮遠所深惡痛絕。  
+他的出生並非人所期望，他娘親更為[[南宮遠]]所深惡痛絕。  
 連帶南宮淺也不受人待見，雖是二公子，在家待遇卻還不如家丁下人。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">

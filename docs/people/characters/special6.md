@@ -7,11 +7,59 @@ tags:
 aside: false
 ---
 
-# 鷹人 萬里鵬程
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="萬里鵬程">
+		<Ch src='/images/characters/special6/normal.png' position='right'/>
+		<ChName nameZh='萬里鵬程' nameEn='Wan Li Peng Cheng' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					鷹人<br>覺空禪師
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[瑞杏]] (主人)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[瑞笙]] (小友)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[無名]] (同伴)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
 
 身披鷹羽破簑衣的精悍老者。
 <br><br>
 雖然形貌怪異，其武功路數卻博大精深，氣度非凡，顯是名家風範。卻不知為何到了這把年紀仍是名不見經傳。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">

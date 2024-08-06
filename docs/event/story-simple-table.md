@@ -492,7 +492,9 @@ tags:
 		<tr>
 			<td>八月</td>
 			<td>
-				唐門例會：[[四師兄遠遊經商|四師兄辭別]]
+                <MarkdownWrapper>
+				唐門例會：[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)
+                </MarkdownWrapper>
 			</td>
 			<td>
 				<li>武林大會請帖</li>
@@ -536,7 +538,9 @@ tags:
 			<td>十二月</td>
 			<td>
 				<li>唐門例會：收到檄文</li>
-				[[眾人的決策]]
+				<MarkdownWrapper>
+                    [[眾人的決策]]
+                </MarkdownWrapper>
 				<li>唐門立繪：成立西武林盟(需李富貴好感2星或學問、戰術要求)</li>
 				<li>龍湘線-後山挑柴：決鬥 (攻略最晚觸發時間為一月下旬前)</li>
 			</td>
@@ -571,7 +575,9 @@ tags:
 			</td>
 			<td>
 				<li>三師兄歸來</li>
-                [[唐門圍攻戰]](戰他娘親-頑抗到底線)
+                <MarkdownWrapper>
+                [唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)【戰你娘親-頑抗到底線】
+                </MarkdownWrapper>
 			</td>
 			<td>
 				<li>各門派答覆</li>
@@ -582,8 +588,10 @@ tags:
 			<td>二月</td>
 			<td>-</td>
 			<td>
-				[[東西武林盟會戰|西武林大會]](西武林盟線)<br>
-                [[唐門圍攻戰]](成立西武林-頑抗到底線)
+                <MarkdownWrapper>
+				[西武林大會](/event/detailed_description/4-02-2-東西武林盟會戰)<br>
+                [唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)【成立西武林-頑抗到底線】
+                </MarkdownWrapper>
 			</td>
 			<td>-</td>
 		</tr>

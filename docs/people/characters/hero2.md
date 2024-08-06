@@ -10,6 +10,32 @@ tags:
 
 # {{ $frontmatter.title }}
 
+<ChTabs position="bottom">
+	<ChTab title="齊壬">
+		<Ch src='/images/characters/hero2/normal.png' position='right'/>
+		<ChName nameZh='齊壬' nameEn='Qi Ren' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					斬天黑翼雙龍劍
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
+
 > 「哼，有趣，膽敢忤逆我的女人，妳是第一個。妳成功引起了我的注意。」
 
 來自洪洲，人稱『[[斬天黑翼雙龍劍]]』，非常中二，句句都是名台詞。身持雙劍，絕招與外號同名。
