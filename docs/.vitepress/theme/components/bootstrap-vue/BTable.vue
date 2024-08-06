@@ -10,7 +10,7 @@
     />
     <table :class="{ 'horizontal': horizontal }">
       <BTableHeader 
-        :headers="processedHeaders" 
+        :headers="headers" 
         :sort-key="sortKey"
         :sort-order="sortOrder"
         :sticky="stickyHeader"
@@ -79,6 +79,11 @@ function initializeFromSlots() {
 
   headers.value = trElements[0].children
     .filter(node => node.type === 'td')
+    .map(td => ({
+      key: td.children,
+      label: td.children,
+      unsortable: !!td.props?.unsortable,
+    }))
 
   rows.value = trElements.slice(1).map(tr => ({
     _attributes: tr.props || {},
@@ -102,15 +107,6 @@ function getContentType(content) {
   if (typeof content.type === 'string' || typeof content.type === 'object') return 'component';
   return 'unknown';
 }
-
-const processedHeaders = computed(() => {
-  return headers.value.map(td => ({
-    type: td.type,
-    props: td.props,
-    content: td.children,
-    unsortable: !!td.props?.unsortable
-  }))
-})
 //#endregion
 
 //#region 排序
