@@ -19,7 +19,7 @@
 import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
   
   export default {
-    name: 'CharacterBackground',
+    name: 'CharacterMeet',
     props: {
       src:{
         type: String,
