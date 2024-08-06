@@ -105,7 +105,7 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
 
   .name{
     position: absolute;
-    top:36%;
+    top:35.5%;
     right: 26%;
     line-height: 1.5em;
     font-size: calc(1vw + 0.4em);
@@ -177,7 +177,7 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     position: relative;
     width: 100%;
     height: 100%;
-    background-size: 90% auto;
+    background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: center center;
     background-image: url(/images/generic/background/back_intro.png);
@@ -219,9 +219,19 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
   }
 
   @media screen and (max-width: 768px){
+    .name{
+      display: none;
+    }
     .desc{
       display: none;
       /* width: 38%; */
+    }
+    .human{
+      background-position: center bottom;
+    }
+    .layer-1,
+    .layer-2{
+      mask-position: center bottom;
     }
   }
   
