@@ -8,7 +8,7 @@
         <span>{{ nameMain }}</span>
       </div>
       <div v-if="desc" :class="['desc',imageAnima]" >
-        {{ desc }}
+        <MarkdownWrapper :content="desc" />
       </div>
     </div>
   </template>
@@ -16,6 +16,7 @@
   <script>
   import { withBase } from 'vitepress';
   import { computed } from 'vue';
+import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
   
   export default {
     name: 'CharacterBackground',
@@ -104,31 +105,53 @@
 
   .name{
     position: absolute;
-    top:38%;
-    right: 40%;
+    top:36%;
+    right: 26%;
     line-height: 1.5em;
+    font-size: calc(1vw + 0.4em);
+    letter-spacing: 0.3em;
+    width: 20%;
   }
 
   .name p{
-    margin-bottom: 3px;
+    background-image: linear-gradient(to bottom right, #937445, #fcd59f);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-stroke: 0.4px rgb(53, 52, 52);
+    height: calc(1vh + 1.2em);
+    font-size: calc(1vw + 0.1em);
+    margin-bottom: 0.2em;
   }
 
   .name span{
+    color: white;
+    display: block;
     position: relative;
+    text-shadow: 
+    1px 1px 0 #D37370,
+    -1px 1px 0 #D37370,
+    1px -1px 0 #D37370,
+    -1px -1px 0 #D37370,
+    2px 2px 0 #D37370,
+    -2px 2px 0 #D37370,
+    2px -2px 0 #D37370,
+    -2px -2px 0 #D37370;
   }
 
   .name span::before{
     content: '';
     position: absolute;
     top: 50%;
-    left: 50%;
-    width: 200%;
+    left: 20%;
+    width: 9vw;
     height: 200%;
     transform: translate(-50%, -50%);
     background-repeat: no-repeat;
     background-position: center center;
     background-image: url(/images/generic/background/icon_brush_1.png);
-    background-size: 100% 100%;
+    background-size: 100% 65%;
+    opacity: 0.8;
     z-index: -1;
   }
 
@@ -136,14 +159,17 @@
     position: absolute;
     top: 52%;
     right: 8%;
-    width: 58%;
-    max-height: 6em;
+    width: 38%;
+    max-height: 30vh;
     overflow: hidden;
     word-wrap: break-word;
     overflow-wrap: break-word;
     white-space: normal;
     line-height: 1.5em;
     color: white;
+    font-size: calc(0.8vw + 0.1em);
+    font-family: cursive;
+    z-index: -4;
     /* background-color: rgba(144, 114, 92,0.1); */
   }
 
@@ -195,6 +221,7 @@
   @media screen and (max-width: 768px){
     .desc{
       display: none;
+      /* width: 38%; */
     }
   }
   

@@ -12,8 +12,14 @@ borderless: false
 
 <ChTabs position="bottom">
 	<ChTab title="龍湘">
-		<Ch src='/images/characters/girl_8/normal.png' position='right'/>
-		<ChName nameZh='龍湘' nameEn='Long Xiang' position='right' />
+		<!-- <Ch src='/images/characters/girl_8/normal.png' position='right'/>
+		<ChName nameZh='龍湘' nameEn='Long Xiang' position='right' /> -->	
+		<ChC 
+			src='/images/characters/girl_8/normal.png' 
+			nameMain='龍湘'
+			desc='師承錦香宮，劍法精絕的清麗佳人。<br>踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。'
+			:animation=true
+		/>
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
