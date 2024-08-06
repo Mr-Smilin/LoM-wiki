@@ -105,7 +105,7 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
 
   .name{
     position: absolute;
-    top:35.5%;
+    top:34%;
     right: 26%;
     line-height: 1.5em;
     font-size: calc(1vw + 0.4em);
