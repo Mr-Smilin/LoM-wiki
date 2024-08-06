@@ -20,6 +20,14 @@ borderless: false
 			desc='師承錦香宮，劍法精絕的清麗佳人。<br>踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。'
 			:animation=true
 		/>
+	</ChTab>
+	<ChTab title="吃雞腿">
+		<Ch 
+			src='/images/characters/girl_8/girl8_drumstick.png' 
+			position='right'/>
+		<ChName
+			nameZh='吃雞腿'
+			nameEn='Eat Drumstick'/>
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -73,14 +81,6 @@ borderless: false
 				</ChTd>
 			</ChTr>
 		</ChTable>
-	</ChTab>
-	<ChTab title="吃雞腿">
-		<Ch 
-			src='/images/characters/girl_8/girl8_drumstick.png' 
-			position='right'/>
-		<ChName
-			nameZh='吃雞腿'
-			nameEn='Eat Drumstick'/>
 	</ChTab>
 	<ChTab title="雞腿劍">
 		<Ch 
