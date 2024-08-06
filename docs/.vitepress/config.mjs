@@ -322,17 +322,7 @@ export default defineConfig({
 			"link",
 			{
 				rel: "preload",
-				href: `${baseUrl}font/SourceHanSerifTC-VF.ttf.woff2`,
-				as: "font",
-				type: "font/woff2",
-				crossorigin: "",
-			},
-		],
-		[
-			"link",
-			{
-				rel: "preload",
-				href: `${baseUrl}font/SourceHanSerifTC-VF.otf`,
+				href: `${baseUrl}font/SourceHanSerifTW-Bold.otf`,
 				as: "font",
 				type: "font/otf",
 				crossorigin: "",

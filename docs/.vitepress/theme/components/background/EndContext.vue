@@ -24,7 +24,6 @@ export default {
     font-size: 16px;
     color: #000000;
     font-weight: 800;
-    font-family: SourceHanSerifTC-BOLD;
 }
 @media screen and (max-width: 768px) and (min-width: 500px){
     .context {
@@ -34,7 +33,6 @@ export default {
         font-size: 16px;
         color: #000000;
         font-weight: 800;
-        font-family: SourceHanSerifTC-BOLD;
     }
 }
 @media screen and (min-width: 768px){
@@ -43,7 +41,6 @@ export default {
         font-size: 16px;
         color: #000000;
         font-weight: 800;
-        font-family: SourceHanSerifTC-BOLD;
     }
 }
 </style>

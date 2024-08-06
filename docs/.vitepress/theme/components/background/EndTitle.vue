@@ -27,6 +27,5 @@ export default {
     font-size: 26px;
     color: #a83232;
     font-weight: bold;
-    font-family: SourceHanSerifTC-BOLD;
 }
 </style>
