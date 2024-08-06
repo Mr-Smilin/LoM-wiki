@@ -229,6 +229,7 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     .human{
       background-position: center bottom;
     }
+    .human.anima::before,
     .layer-1,
     .layer-2{
       mask-position: center bottom;
