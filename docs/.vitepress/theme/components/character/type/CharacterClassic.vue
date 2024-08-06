@@ -232,10 +232,10 @@
 }
 @keyframes revealName {
   0% {
-    clip-path: inset(0 100% 0 -50%);
+    clip-path: inset(-50% 100% -50% -50%);
   }
   100% {
-    clip-path: inset(0 -50% 0 -50%);
+    clip-path: inset(-50% -50% -50% -50%);
   }
 }
 @keyframes revealText {

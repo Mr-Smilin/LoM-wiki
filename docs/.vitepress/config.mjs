@@ -17,7 +17,7 @@ export default defineConfig({
 	lang: "zh-TW", // 站點語系
 	base: baseUrl, // 站點子目錄
 	sitemap: {
-		hostname: "https://smilin.net/LoM-wiki/",
+		hostname: `https://smilin.net${baseUrl}`,
 	},
 	appearance: "dark", // 默認深色主題
 	lastUpdated: true, // 是否使用 Git 获取每个页面的最后更新时间戳
