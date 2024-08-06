@@ -7,13 +7,15 @@ import {
 	GitChangelogMarkdownSection,
 } from "@nolebase/vitepress-plugin-git-changelog/vite";
 
+const baseUrl = "/LoM-wiki/";
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 	title: "活俠傳wiki", // 站點名稱
 	// titleTemplate: "", title | titleTemplate
 	description: "Legend of Mortal Wiki", // 站點敘述
 	lang: "zh-TW", // 站點語系
-	base: "/LoM-wiki/", // 站點子目錄
+	base: baseUrl, // 站點子目錄
 	sitemap: {
 		hostname: "https://smilin.net/LoM-wiki/",
 	},
@@ -319,8 +321,21 @@ export default defineConfig({
 		[
 			"link",
 			{
-				href: "https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap",
-				rel: "stylesheet",
+				rel: "preload",
+				href: `${baseUrl}font/SourceHanSerifTC-VF.ttf.woff2`,
+				as: "font",
+				type: "font/woff2",
+				crossorigin: "",
+			},
+		],
+		[
+			"link",
+			{
+				rel: "preload",
+				href: `${baseUrl}font/SourceHanSerifTC-VF.otf`,
+				as: "font",
+				type: "font/otf",
+				crossorigin: "",
 			},
 		],
 	],
