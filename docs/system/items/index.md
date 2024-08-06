@@ -12,6 +12,8 @@ tags:
     - buy
     - 四師兄
 ---
+# 道具列表
+
 資料來源：https://docs.google.com/spreadsheets/u/0/?authuser=0&usp=sheets_web
 
 <table>
@@ -145,7 +147,7 @@ tags:
     </tr>
     <tr>
         <td>龍湘的碎銀</td>
-        <td>5000<br>(賣價)</td>
+        <td>賣價<br>5000</td>
         <td></td>
         <td></td>
         <td>事件道具</td>
