@@ -328,5 +328,25 @@ export default defineConfig({
 				crossorigin: "",
 			},
 		],
+		[
+			"link",
+			{
+				rel: "preload",
+				href: `${baseUrl}font/SourceHanSerifTW-Regular.otf`,
+				as: "font",
+				type: "font/otf",
+				crossorigin: "",
+			},
+		],
+		[
+			"link",
+			{
+				rel: "preload",
+				href: `${baseUrl}font/DFXingShuStd-W5.otf`,
+				as: "font",
+				type: "font/otf",
+				crossorigin: "",
+			},
+		],
 	],
 });

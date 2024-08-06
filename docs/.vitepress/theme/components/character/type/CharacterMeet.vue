@@ -59,9 +59,6 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
   </script>
   
   <style scoped>
-  div{
-    font-family: 'SourceHanSerifTW-Bold', sans-serif;
-  }
 
   .human,
   .layer-1,
@@ -108,26 +105,29 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     top:34%;
     right: 26%;
     line-height: 1.5em;
+    font-family: 'DFT_S5', 'cursive', sans-serif;
     font-size: calc(1vw + 0.4em);
-    letter-spacing: 0.3em;
     width: 20%;
   }
 
   .name p{
-    background-image: linear-gradient(to bottom right, #937445, #fcd59f);
+    /* background-image: linear-gradient(to bottom right, #937445, #fcd59f); */
+    background-image: linear-gradient(to bottom right, #b4915e, #fcd59f);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
-    -webkit-text-stroke: 0.4px rgb(53, 52, 52);
+    -webkit-text-stroke: 0.4px #353434;
     height: calc(1vh + 1.2em);
-    font-size: calc(1vw + 0.1em);
-    margin-bottom: 0.2em;
+    font-size: calc(1vw + 0.3em);
+    margin-bottom: 0.1em;
+    transform: translate(-10px,0.3em);
   }
 
   .name span{
     color: white;
     display: block;
     position: relative;
+    letter-spacing: 0.3em;
     text-shadow: 
     1px 1px 0 #D37370,
     -1px 1px 0 #D37370,
@@ -143,7 +143,7 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     content: '';
     position: absolute;
     top: 50%;
-    left: 20%;
+    left: 24%;
     width: 9vw;
     height: 200%;
     transform: translate(-50%, -50%);
@@ -166,9 +166,10 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     overflow-wrap: break-word;
     white-space: normal;
     line-height: 1.5em;
-    color: white;
+    color: rgb(225, 225, 225);
+    font-family: 'SourceHanSerifTW-Regular', 'cursive', sans-serif;
     font-size: calc(0.8vw + 0.1em);
-    font-family: cursive;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
     z-index: -4;
     /* background-color: rgba(144, 114, 92,0.1); */
   }

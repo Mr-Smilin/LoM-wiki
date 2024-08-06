@@ -1,9 +1,16 @@
   @font-face {
     font-family: 'SourceHanSerifTW-Bold';
     src: url('/font/SourceHanSerifTW-Bold.otf') format('opentype');
-    /* font-weight: normal;
-    font-style: normal; */
-    font-display: swap;
+  }
+
+  @font-face{
+    font-family: 'SourceHanSerifTW-Regular';
+    src: url('/font/SourceHanSerifTW-Regular.otf') format('opentype');
+  }
+
+  @font-face{
+    font-family: 'DFT_S5';
+    src: url('/font/DFXingShuStd-W5.otf') format('opentype');
   }
   
   :root{
@@ -16,6 +23,7 @@
     /* 亮色介面 hover 深度 */
     --vp-c-bg-alt: #d6d6d6;
     /* --vp-font-family-base: 'SourceHanSerifTW-Bold', sans-serif; */
+    font-display: swap;
   }
 
   .dark{
