@@ -87,11 +87,11 @@ export default {
 
 @media screen and (max-width: 768px){
   .background-image{
-    background-position: 'center bottom';
+    background-position: center bottom;
   }
 
   .background-image.anima::before{
-    mask-position: 'center bottom';
+    mask-position: center bottom;
   }
 }
 
