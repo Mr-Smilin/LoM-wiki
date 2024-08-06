@@ -300,7 +300,9 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 ## BTable 排序表格
 
 替表格加上排序效果  
-將外層的 `<table>` 換成 `<BTable>` 即可
+將外層的 `<table>` 換成 `<BTable>` 即可  
+第一行 `<td>` 做為標題，可傳入 `字串`、`Markdown`、`HTML`  
+其他行 `<td>` 做為表格，可傳入 `字串`、`Markdown`、`HTML`、`Component`
 
 <br>
 
