@@ -24,24 +24,24 @@ tags:
 			<td>四月</td>
 			<td>
 				<MarkdownWrapper>
-                [遊戲開局](/event/detailed_description/遊戲開局)<br> 
-				[第一晚](/event/detailed_description/第一晚)<br> 
-				[初遇大師兄](/event/detailed_description/初識唐布衣)<br>
-				[初遇二師兄](/event/detailed_description/初識唐錚)<br>
-				[初遇四師兄](/event/detailed_description/初識唐惟元)<br>
-				[小師妹練操](/event/detailed_description/小師妹練操)<br>
-				[大師兄找樂子](/event/detailed_description/大師兄找樂子)<br>
-				[後山推人](/event/detailed_description/後山推人)<br>
+                [遊戲開局](/event/detailed_description/1-04-1-遊戲開局)<br> 
+				[第一晚](/event/detailed_description/1-04-1-第一晚)<br> 
+				[初遇大師兄](/event/detailed_description/1-04-1-初識唐布衣)<br>
+				[初遇二師兄](/event/detailed_description/1-04-1-初識唐錚)<br>
+				[初遇四師兄](/event/detailed_description/1-04-1-初識唐惟元)<br>
+				[小師妹練操](/event/detailed_description/1-04-1-小師妹練操)<br>
+				[大師兄找樂子](/event/detailed_description/1-04-1-大師兄找樂子)<br>
+				[後山推人](/event/detailed_description/1-04-1-後山推人)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[蒙面人開導](/event/detailed_description/蒙面人開導)<br>
+				[蒙面人開導](/event/detailed_description/1-04-2-蒙面人開導)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[初遇葉氏兄妹](/event/detailed_description/初遇葉氏兄妹)<br>
+				[初遇葉氏兄妹](/event/detailed_description/1-04-3-初遇葉氏兄妹)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -49,21 +49,21 @@ tags:
 			<td>五月</td>
 			<td>
 				<MarkdownWrapper>
-				[貢獻評點](/event/detailed_description/貢獻評點)<br>
+				[貢獻評點](/event/detailed_description/1-05-1-貢獻評點)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>
 				<MarkdownWrapper>
-				[初次段考](/event/detailed_description/初次段考)<br>
+				[初次段考](/event/detailed_description/1-05-3-初次段考)<br>
 				</MarkdownWrapper></td>
 		</tr>
 		<tr>
 			<td>六月</td>
 			<td>
 				<MarkdownWrapper>
-				[貢獻評點](/event/detailed_description/貢獻評點)<br>
-				[掌門的安排](/event/detailed_description/掌門的安排)<br>
+				[貢獻評點](/event/detailed_description/1-06-1-貢獻評點)<br>
+				[掌門的安排](/event/detailed_description/1-06-1-掌門的安排)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -72,8 +72,11 @@ tags:
 		<tr>
 			<td>七月</td>
 			<td>
-				<li>唐門例會</li>
-				<li>呂員外上門討債事件</li>
+				<MarkdownWrapper>
+				[初次唐門例會](/event/detailed_description/1-07-1-初次唐門例會)<br>
+				[廣州軼聞](/event/detailed_description/1-07-1-廣州軼聞)<br>
+				[呂翁討債](/event/detailed_description/1-07-1-呂翁討債)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>
@@ -84,8 +87,10 @@ tags:
 			<td>八月</td>
 			<td>
 				<li>唐門例會</li>
-				<li>購買月報？：談論葉雲舟</li>
-				<li>下山：初遇葉雲舟</li>
+				<MarkdownWrapper>
+				[談論武穆王寶藏](/event/detailed_description/1-08-1-談論武穆王寶藏)<br>
+				[葉氏行蹤風波](/event/detailed_description/1-08-1-葉氏行蹤風波)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>
