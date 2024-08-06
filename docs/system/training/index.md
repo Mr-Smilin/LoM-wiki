@@ -46,13 +46,13 @@ text: '修養-',
 		<td :unsortable="true">貢獻變化</td>
 		<td :unsortable="true">心相變化</td>
 		<td :unsortable="true">
-			(心相:33~65)
+			<MoodIcon :mood="`normal`" />(心相:33~65)
 		</td>
 		<td :unsortable="true">
-			(心相:=65)額外特效
+			<MoodIcon :mood="`high`" />(心相＞=65)額外特效
 		</td>
 		<td :unsortable="true">
-			(心相:0~32)
+			<MoodIcon :mood="`bad`" />(心相:0~32)
 		</td>
 		<td :unsortable="true">前置條件／補充說明</td>
 	</tr>
