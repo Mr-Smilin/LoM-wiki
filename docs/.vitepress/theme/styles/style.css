@@ -1,7 +1,6 @@
   @font-face {
-    font-family: 'SourceHanSerifTC-BOLD';
-    src: url('/font/SourceHanSerifTC-VF.ttf.woff2') format('woff2'),
-        url('/font/SourceHanSerifTC-VF.otf') format('opentype');
+    font-family: 'SourceHanSerifTW-Bold';
+    src: url('/font/SourceHanSerifTW-Bold.otf') format('opentype');
     /* font-weight: normal;
     font-style: normal; */
     font-display: swap;
@@ -16,7 +15,7 @@
     --scrollbar-color: #ced4d9;
     /* 亮色介面 hover 深度 */
     --vp-c-bg-alt: #d6d6d6;
-    /* --vp-font-family-base: 'SourceHanSerifTC-BOLD', sans-serif; */
+    /* --vp-font-family-base: 'SourceHanSerifTW-Bold', sans-serif; */
   }
 
   .dark{

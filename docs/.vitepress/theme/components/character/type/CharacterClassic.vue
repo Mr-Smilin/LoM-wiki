@@ -59,7 +59,7 @@
   
   <style scoped>
   div{
-      font-family: 'SourceHanSerifTC-BOLD', sans-serif;
+    font-family: 'SourceHanSerifTW-Bold', sans-serif;
   }
 
   .human,
