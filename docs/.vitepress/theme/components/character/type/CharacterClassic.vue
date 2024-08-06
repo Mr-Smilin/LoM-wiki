@@ -234,6 +234,9 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     .layer-2{
       mask-position: center bottom;
     }
+    .background{
+      display: none;
+    }
   }
   
   @keyframes reveal {
