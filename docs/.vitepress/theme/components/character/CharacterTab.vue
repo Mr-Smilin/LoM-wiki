@@ -37,6 +37,8 @@ export default {
 .tab-content {
   position: relative;
   height: 60vh;
+  max-height: 500px;
+  min-height: 400px;
   display: flex;
   justify-content: flex-end;
   align-items: center;

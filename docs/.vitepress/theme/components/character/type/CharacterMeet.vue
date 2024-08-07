@@ -71,7 +71,8 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
   }
 
   .human {
-    background-size: auto 58vh;
+    /* background-size: auto 58vh; */
+    background-size: auto 100%;
     background-repeat: no-repeat;
     background-image: var(--background-image);
     background-position: var(--background-position);
@@ -80,7 +81,8 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
 
   .layer-1,
   .layer-2 {
-    mask-size: auto 58vh;
+    /* mask-size: auto 58vh; */
+    mask-size: auto 100%;
     mask-repeat: no-repeat;
   }
 
@@ -105,9 +107,10 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     top:34%;
     right: 26%;
     line-height: 1.5em;
-    font-family: 'DFT_S5', 'cursive', sans-serif;
-    font-size: calc(1vw + 0.4em);
+    /* font-size: calc(1vw + 0.4em); */
+    font-size: 24px;
     width: 20%;
+    font-family: 'DFT_S5', 'cursive', sans-serif;
   }
 
   .name p{
@@ -118,8 +121,8 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     color: transparent;
     -webkit-text-stroke: 0.4px #353434;
     height: calc(1vh + 1.2em);
-    font-size: calc(1vw + 0.3em);
-    margin-bottom: 0.1em;
+    /* font-size: calc(1vw + 0.3em); */
+    margin-bottom: 0.1vh;
     transform: translate(-10px,0.3em);
   }
 
@@ -168,7 +171,8 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     line-height: 1.5em;
     color: rgb(225, 225, 225);
     font-family: 'SourceHanSerifTW-Regular', 'cursive', sans-serif;
-    font-size: calc(0.8vw + 0.1em);
+    /* font-size: calc(0.8vw + 0.1em); */
+    font-size: 16px;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
     z-index: -4;
     /* background-color: rgba(144, 114, 92,0.1); */
@@ -193,7 +197,8 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     top: 0;
     left: 0;
     background-color: black;
-    mask-size: auto 58vh;
+    /* mask-size: auto 58vh; */
+    mask-size: auto 100%;
     mask-repeat: no-repeat;
     mask-image: var(--background-image);
     mask-position: var(--background-position);
@@ -233,7 +238,7 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     .human.anima::before,
     .layer-1,
     .layer-2{
-      mask-position: center bottom;
+      mask-size: 0%;
     }
     .background{
       background-size: 0%;
