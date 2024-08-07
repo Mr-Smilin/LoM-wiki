@@ -137,8 +137,8 @@ medium(中型) 圖案 76 px _ 88 px。
 ### 目前已可用組件：
 
 -   `<BadendIcon>` : <BadendIcon>生死簿 (飲茶躺)</BadendIcon>, 預設點擊會跳到生死簿。
--   `<EndIcon>` : <EndIcon>汗青書</EndIcon>, 不給no, 預設點擊會跳到汗青書列表。
--   `<EndIcon no="49">` : <EndIcon no="49">汗青書49：喪家之犬</EndIcon>, 新增no會跳到指定編號的汗青書。
+-   `<EndIcon>` : <EndIcon>汗青書</EndIcon>, 不給 no, 預設點擊會跳到汗青書列表。
+-   `<EndIcon no="49">` : <EndIcon no="49">汗青書 49：喪家之犬</EndIcon>, 新增 no 會跳到指定編號的汗青書。
 
 以下人物頭像預設會跳到人物列傳頁面：
 
@@ -350,6 +350,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
     icon: '🅰️'
   }
 ]">
+
   <tr>
     <td>age</td>
     <td>first_name</td>
@@ -467,13 +468,13 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 `Info` 提供屬性如以下：
 
 1.  `title` <Badge type="danger" text="必填" /> ：設定詳細內容的標題文字
-2.  `open`：預設是否展開
+2.  `:open`：預設是否展開
 
 <br>
 
 <div style=" display: flex; width: 100%; height: 100%">
 <InfoList position="left">
-  <Info title="列傳一" open=true>
+  <Info title="列傳一" :open=true>
       師承錦香宮，劍法精絕的清麗佳人。<br>
       踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。<br>
       雖然如此，由於不諳世事，意外地容易受騙上當。
@@ -518,7 +519,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 
 ```Markdown
 <InfoList position="left">
-  <Info title="列傳一" open=true>
+  <Info title="列傳一" :open=true>
       師承錦香宮，劍法精絕的清麗佳人。<br>
       踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。<br>
       雖然如此，由於不諳世事，意外地容易受騙上當。
@@ -566,6 +567,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 :::
 
 ## 結局組件
+
 ```markdown
 <EndBackground no=8 title="被煮的狗">
 兔死狗烹，你這走狗已經沒有用了．用張<br>
@@ -602,17 +604,18 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 
 ### 可用屬性寫法
 
-| 屬性名稱  | 值    | default | require |
-|:------|:-----|:--------| :------ |
-| no    | 1~50 | x       | x       |
-| title | 一般文字 | x       | x       |
+| 屬性名稱 | 值       | default | require |
+| :------- | :------- | :------ | :------ |
+| no       | 1~50     | x       | x       |
+| title    | 一般文字 | x       | x       |
 
-註： 
+註：
+
 1. 結局描述直接放在標記符中即可，如以上範例 `兔死狗烹，...可真划算．`此段文字的位置。
 2. 部分結局可能會有圖片共用。
-3. 此部分顯示自動分為行動裝置版本與一般版本、若有編輯上異常請於discord反饋。
+3. 此部分顯示自動分為行動裝置版本與一般版本、若有編輯上異常請於 discord 反饋。
 4. 目前已經將排版調整過, 大部分的情況都能與遊戲的畫面相符，  
-僅有少部分由於排版限制(或遊戲本身排版限制)，可能會有些許差異，  
-應屬誤差範圍，將於之後有機會再次改進。
+   僅有少部分由於排版限制(或遊戲本身排版限制)，可能會有些許差異，  
+   應屬誤差範圍，將於之後有機會再次改進。
 5. 若有文字方塊區不足長寬問題，請自行補充`<br>`換行符號或`　`全形空格。  
-並於補充文字末尾加註`<!-- 此處因排版, 放入部分空行、全形空格, 無理由請勿移除 -->`
+   並於補充文字末尾加註`<!-- 此處因排版, 放入部分空行、全形空格, 無理由請勿移除 -->`
