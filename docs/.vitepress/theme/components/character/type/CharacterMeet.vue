@@ -130,7 +130,7 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     color: white;
     display: block;
     position: relative;
-    letter-spacing: 0.3em;
+    letter-spacing: 0.1em;
     text-shadow: 
     1px 1px 0 #D37370,
     -1px 1px 0 #D37370,
@@ -147,8 +147,8 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     position: absolute;
     top: 50%;
     left: 24%;
-    width: 9vw;
-    height: 200%;
+    width: 150px;
+    height: 60px;
     transform: translate(-50%, -50%);
     background-repeat: no-repeat;
     background-position: center center;
