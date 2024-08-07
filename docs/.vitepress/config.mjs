@@ -181,7 +181,7 @@ export default defineConfig({
 					],
 				},
 			],
-			"/guide/": [
+			"/other/guide/": [
 				{
 					text: "遊戲指南",
 					items: [
