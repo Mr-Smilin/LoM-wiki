@@ -62,7 +62,8 @@ export default {
   left: 0;
   width: 100%;
   height: 100%;
-  background-size: auto 58vh;
+  /* background-size: auto 58vh; */
+  background-size: auto 100%;
   background-repeat: no-repeat;
   background-image: var(--background-image);
   background-position: var(--background-position);
@@ -77,7 +78,8 @@ export default {
   top: 0;
   left: 0;
   background-color: black;
-  mask-size: auto 58vh;
+  /* mask-size: auto 58vh; */
+  mask-size: auto 100%;
   mask-repeat: no-repeat;
   mask-image: var(--background-image);
   mask-position: var(--background-position);
