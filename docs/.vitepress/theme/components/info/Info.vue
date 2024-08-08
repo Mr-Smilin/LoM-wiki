@@ -101,4 +101,9 @@ updateHeight();
   border-top: none;
   background-color: var(--vp-c-gray-1);
 }
+
+.content table{
+    margin-top: 0;
+    margin-bottom: 0;
+}
 </style>
