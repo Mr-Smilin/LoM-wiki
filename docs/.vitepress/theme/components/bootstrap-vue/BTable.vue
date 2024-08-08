@@ -25,6 +25,7 @@
 
 <script setup>
 import { ref, computed, useSlots, onMounted, shallowRef, watchEffect } from 'vue'
+import { getContentType } from '../../script/componentUtils.js'
 import BTableHeader from './table-child/BTableHeader.vue'
 import BTableBody from './table-child/BTableBody.vue'
 import BTableSearch from './table-child/BTableSearch.vue'
@@ -95,17 +96,6 @@ function initializeFromSlots() {
         type: getContentType(td.children)
       }))
   }))
-}
-//#endregion
-
-//#region 解析資料
-function getContentType(content) {
-  if (Array.isArray(content)) return 'array';
-  if (!content || typeof content !== 'object') return 'text';
-  if (content.type === 'br') return 'br';
-  if (typeof content.type === 'symbol' && content.type.description === 'v-txt') return 'text';
-  if (typeof content.type === 'string' || typeof content.type === 'object') return 'component';
-  return 'unknown';
 }
 //#endregion
 

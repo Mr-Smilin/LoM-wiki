@@ -470,9 +470,12 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 1.  `title` <Badge type="danger" text="必填" /> ：設定詳細內容的標題文字
 2.  `:open`：預設是否展開
 
+知識科普：  
+當漂浮元素太長，跟滿版物件搶空間，  
+可以使用 `<div style="clear:both;"></div>` 限制。
+
 <br>
 
-<div style=" display: flex; width: 100%; height: 100%">
 <InfoList position="left">
   <Info title="列傳一" :open=true>
       師承錦香宮，劍法精絕的清麗佳人。<br>
@@ -511,8 +514,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
 我是測試文字<br> 
 我是測試文字<br> 
 我是測試文字<br> 
-</div>
-
+<div style="clear:both;"></div>
 <br>
 
 ::: details 原始碼
@@ -538,6 +540,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.png
   </Info>
 </InfoList>
 我是測試文字*n
+<div style="clear:both;"></div>
 ```
 
 :::

@@ -28,7 +28,34 @@ borderless: false
 		<ChName
 			nameZh='吃雞腿'
 			nameEn='Eat Drumstick'/>
-		<ChTable>
+	</ChTab>
+	<ChTab title="雞腿劍">
+		<Ch 
+			src='/images/characters/girl_8/drumstick_sword.png' 
+			position='right'/>
+		<ChName
+			nameZh='雞腿劍'
+			nameEn='Drumstick Sword'/>
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch src='/images/characters/girl_8/laugh2.png'
+			position='right'/>
+		<ChName 
+			nameZh='大笑'
+			nameEn='Laugh heartily'/>
+	</ChTab>
+	<ChTab title="戰鬥">
+		<Ch src='/images/characters/girl_8/angry3.png'
+			position='right'/>
+		<ChName 
+			nameZh='戰鬥'
+			nameEn='Fight'/>
+	</ChTab>
+</ChTabs>
+
+<InfoList position="right">
+	<Info title="角色資料" :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -80,31 +107,9 @@ borderless: false
 					[[趙活]] (臭弟)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-	<ChTab title="雞腿劍">
-		<Ch 
-			src='/images/characters/girl_8/drumstick_sword.png' 
-			position='right'/>
-		<ChName
-			nameZh='雞腿劍'
-			nameEn='Drumstick Sword'/>
-	</ChTab>
-	<ChTab title="大笑">
-		<Ch src='/images/characters/girl_8/laugh2.png'
-			position='right'/>
-		<ChName 
-			nameZh='大笑'
-			nameEn='Laugh heartily'/>
-	</ChTab>
-	<ChTab title="戰鬥">
-		<Ch src='/images/characters/girl_8/angry3.png'
-			position='right'/>
-		<ChName 
-			nameZh='戰鬥'
-			nameEn='Fight'/>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
 
 > 「縱死俠骨香，不慚世上英。誰人書閣下，白首太玄雞。」
 
@@ -115,6 +120,8 @@ borderless: false
 可是收了劍後，卻是呆頭呆腦。烤隻雞不拔毛，錢包總是被割，生活一團糟。
 <br><br>
 熱愛雞腿，願餐餐都有雞腿吃。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 

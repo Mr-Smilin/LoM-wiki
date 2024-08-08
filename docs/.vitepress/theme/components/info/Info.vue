@@ -6,14 +6,16 @@
     </div>
     <div class="content-wrapper" :style="{ height: contentHeight }">
       <div ref="content" class="content">
-          <MarkdownWrapper>{{ slotContent }}</MarkdownWrapper>
+        <div v-for="(cell, cellIndex) in processedContent" :key="cellIndex">
+          <ComponentWrapper :cell="cell" />
+        </div>
       </div>
     </div>
   </div>
 </template>
   
 <script setup>
-import { ref, watch, nextTick, useSlots } from 'vue';
+import { computed, ref, watch, nextTick, useSlots } from 'vue';
 
 const props = defineProps({
   open: Boolean,
@@ -24,16 +26,15 @@ const props = defineProps({
 });
 
 const slots = useSlots();
-const slotContent = ref('');
 
-if (slots.default) {
-slotContent.value = slots.default().map(node => { 
-      if(node?.type === 'br')
-          return '<br>'
-      else
-          return node.children}
-  ).join('').trim();
-}
+const processedContent = computed(() => {
+  if (!slots.default) return '';
+
+  return slots.default().map(node => {
+    if (!node) return '';
+    return node;
+  });
+});
 
 const isOpen = ref(props.open);
 const content = ref(null);
