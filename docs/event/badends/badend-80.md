@@ -16,39 +16,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<font size="7" color="#f94241"><strong>被人借刀殺死</strong></font><br>
-<br>
-<br>
-<font size="5" color="#ef4747">
-<strong>
-你死在南宮淺手裡，南宮淺死在唐門手裡，<br>
-唐門毀在南宮世家手裡，冤冤相報何時了？<br>
-<br>
-<br>
-</strong>
-</font>
-<br>
-<br>
-<br>
-<table align=left vertical-align=top>
-    <tr>
-        <td style="height:650px; vertical-align: top;">
-          <span style="writing-mode: tb-rl; webkit-writing-mode: vertical-rl; writing-mode: vertical-rl;">
-            <font size="7" color="#f94241"><strong>被人借刀殺死</strong></font>
-            <br>
-            <br>
-            <font size="5" color="#ef4747">
-            <strong>
-            你死在南宮淺手裡，南宮淺死在唐門手裡，<br>
-            唐門毀在南宮世家手裡，冤冤相報何時了？<br>
-            <br>
-            <br>
-            </strong>
-            </font>
-          </span>
-        </td>
-    </tr>
-</table>
+<img width="720" src="/images/badends/badend80.png">
 
 ## 條件與流程
 
