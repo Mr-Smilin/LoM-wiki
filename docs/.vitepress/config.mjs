@@ -35,6 +35,7 @@ export default defineConfig({
 					{ text: "人物列表", link: "/people/characters/" },
 					{ text: "夢境心上人", link: "/people/dream-sweetheart" },
 					{ text: "稱號列表", link: "/people/title-list" },
+					{ text: "陣營列表(編輯中)", link: "/people/factions/" },
 				],
 				activeMatch: "/people/",
 			},
