@@ -12,8 +12,6 @@ borderless: false
 
 <ChTabs position="bottom">
 	<ChTab title="龍湘">
-		<!-- <Ch src='/images/characters/girl_8/normal.png' position='right'/>
-		<ChName nameZh='龍湘' nameEn='Long Xiang' position='right' /> -->	
 		<ChMeet 
 			src='/images/characters/girl_8/normal.png' 
 			nameMain='龍湘'
@@ -193,5 +191,5 @@ borderless: false
 
 ## 備註
 
-- 害龍湘掉入雞腿坑的罪魁禍首，[[王二壯]]親手烤的叫化雞，黃泥撥開，荷葉撥開，那個香～根本不是凡人能擋！
-- 根據訪談，身高174，在南宋根本是巨人。~~也難怪殺人魔一詞不脛而走~~
+-   害龍湘掉入雞腿坑的罪魁禍首，[[王二壯]]親手烤的叫化雞，黃泥撥開，荷葉撥開，那個香～根本不是凡人能擋！
+-   根據訪談，身高 174，在南宋根本是巨人。~~也難怪殺人魔一詞不脛而走~~

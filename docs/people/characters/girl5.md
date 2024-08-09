@@ -13,9 +13,20 @@ aside: false
 
 <ChTabs position="bottom">
 	<ChTab title="夏侯蘭">
-		<Ch src='/images/characters/girl_5/normal.png' position='right'/>
-		<ChName nameZh='夏侯蘭' nameEn='Xia Hou Lan' position='right' />
-		<ChTable>
+		<ChMeet 
+			src='/images/characters/girl_5/normal.png' 
+			nameTitle='奪魂幽蘭'
+			nameMain='夏侯蘭'
+			desc='崆峒派‧奪魄門當代的嫡傳女弟子，江湖人稱奪魄幽蘭，惡名昭彰的女魔頭，行事作風狠辣乖戾，幽居在不見天日的奪魄森林中，生人勿近。'
+			:animation=true
+		/>
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -77,12 +88,15 @@ aside: false
 					[[解無塵]] (前旅伴)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
-<br><br>
+		</table>
+	</Info>
+</InfoList>
+
+<br>
 
 崆峒派‧奪魄門當代的嫡傳女弟子，江湖人稱奪魄幽蘭，惡名昭彰的女魔頭，行事作風狠辣乖戾，幽居在不見天日的奪魄森林中，生人勿近。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
@@ -131,9 +145,9 @@ aside: false
 
 ## 備註
 
-- 江湖第一美人，~~能同時成為你師父、母親、妻子的女人~~
-- ~~口桀口桀，我要妻師魅祖啊！~~
-- 攻略時建議學[[龍吟功]]，西武林線有驚喜
-- 曾和[[唐布衣]]、[[解無塵]]和其他兩人一起旅行，圍毆擊敗極樂左使
-- 若與[[趙活]]成婚，婚後產下一男一女，子女都像娘親，極度寵溺
-- 為了孩子教育，某日，出門捉了[[魏菊]]擔任夫子
+-   江湖第一美人，~~能同時成為你師父、母親、妻子的女人~~
+-   ~~口桀口桀，我要妻師魅祖啊！~~
+-   攻略時建議學[[龍吟功]]，西武林線有驚喜
+-   曾和[[唐布衣]]、[[解無塵]]和其他兩人一起旅行，圍毆擊敗極樂左使
+-   若與[[趙活]]成婚，婚後產下一男一女，子女都像娘親，極度寵溺
+-   為了孩子教育，某日，出門捉了[[魏菊]]擔任夫子

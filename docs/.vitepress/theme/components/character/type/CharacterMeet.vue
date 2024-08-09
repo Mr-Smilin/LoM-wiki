@@ -105,11 +105,11 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
   .name{
     position: absolute;
     top:34%;
-    right: 26%;
+    right: 5%;
     line-height: 1.5em;
     /* font-size: calc(1vw + 0.4em); */
     font-size: 24px;
-    width: 20%;
+    width: 40%;
     font-family: 'DFT_S5', 'cursive', sans-serif;
   }
 
@@ -119,7 +119,7 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
-    -webkit-text-stroke: 0.4px #353434;
+    -webkit-text-stroke: 0.5px #161616;
     height: calc(1vh + 1.2em);
     /* font-size: calc(1vw + 0.3em); */
     margin-bottom: 0.1vh;
@@ -146,7 +146,7 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     content: '';
     position: absolute;
     top: 50%;
-    left: 24%;
+    left: 14%;
     width: 150px;
     height: 60px;
     transform: translate(-50%, -50%);
@@ -170,6 +170,7 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     white-space: normal;
     word-break: break-all;
     line-height: 1.5em;
+    /* letter-spacing: 0.1em; */
     color: rgb(225, 225, 225);
     font-family: 'SourceHanSerifTW-Regular', 'cursive', sans-serif;
     /* font-size: calc(0.8vw + 0.1em); */

@@ -1,11 +1,11 @@
 ---
 title: 虞小梅
 tags:
- - 人物
- - 可攻略女角
- - 崆峒派
- - 飛天門
- - 千燈樓
+    - 人物
+    - 可攻略女角
+    - 崆峒派
+    - 飛天門
+    - 千燈樓
 aside: false
 ---
 
@@ -17,9 +17,19 @@ aside: false
 
 <ChTabs position="bottom">
 	<ChTab title="虞小梅">
-		<Ch src='/images/characters/girl_3/normal.png' position='right'/>
-		<ChName nameZh='虞小梅' nameEn='Yu Xiao Mei' position='right' />
-		<ChTable>
+		<ChMeet 
+			src='/images/characters/girl_3/normal.png' 
+			nameTitle='飛天嫡傳女弟子'
+			nameMain='虞小梅'
+			desc='崆峒派‧飛天門當代的嫡傳女弟子，天真爛漫，活潑開朗的妙齡少女。<br>江湖名聲不響，在崆峒派卻是四門嫡傳女弟子之中呼聲最高的一位，第一掌派夫人之位，勢在必得。'
+			:animation=true
+		/>
+	</ChTab>
+</ChTabs>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -81,15 +91,17 @@ aside: false
 					[[火閃電]] (寵物)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
 
 > 「有！小梅來了！汪汪！喵喵！哞哞！」
 
 崆峒派‧飛天門當代的嫡傳女弟子，天真爛漫，活潑開朗的妙齡少女。
 <br><br>
 江湖名聲不響，在崆峒派卻是四門嫡傳女弟子之中呼聲最高的一位，第一掌派夫人之位，勢在必得。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
@@ -138,4 +150,4 @@ aside: false
 
 ## 備註
 
-- 本人宣稱右手寄宿了[[阿鶴俠]]的魂魄，信不信由你！
+-   本人宣稱右手寄宿了[[阿鶴俠]]的魂魄，信不信由你！

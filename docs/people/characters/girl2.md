@@ -1,9 +1,9 @@
 ---
 title: 葉雲裳
 tags:
- - 人物
- - 可攻略女角
- - 點蒼派
+    - 人物
+    - 可攻略女角
+    - 點蒼派
 aside: false
 ---
 
@@ -15,9 +15,20 @@ aside: false
 
 <ChTabs position="bottom">
 	<ChTab title="葉雲裳">
-		<Ch src='/images/characters/girl_2/normal.png' position='right'/>
-		<ChName nameZh='葉雲裳' nameEn='Ye Yun Chang' position='right' />
-		<ChTable>
+		<ChMeet 
+			src='/images/characters/girl_2/normal.png' 
+			nameTitle='點蒼明珠'
+			nameMain='葉雲裳'
+			desc='葉雲舟的胞妹。<br>縱是盛夏，貂裘亦不離身。雖是個俏皮愛搗蛋的美貌姑娘，卻總鬧不消半天便會發燒倒下。'
+			:animation=true
+		/>
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -52,13 +63,16 @@ aside: false
 					[[葉雲舟]] (哥哥)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
-<br><br>
+		</table>
+	</Info>
+</InfoList>
+
+<br>
 
 [[葉雲舟]]的胞妹。  
 縱是盛夏，貂裘亦不離身。雖是個俏皮愛搗蛋的美貌姑娘，卻總鬧不消半天便會發燒倒下。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 

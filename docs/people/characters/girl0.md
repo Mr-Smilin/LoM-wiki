@@ -18,10 +18,6 @@ aside: false
 			desc='芳名默鈴，唐門掌門獨生愛女，宛如森林小動物般的少女，性情淡漠，身繫七串從來不響的鈴噹。<br>興趣是摺紙。'
 			:animation=true
 		/>
-        <!-- <Ch
-            src='/images/characters/girl_0/normal.png' 
-            position='right'/>
-        <ChName nameZh='唐默鈴' nameEn='Tang Mo Ling' position='right' /> -->
     </ChTab>
 </ChTabs>
 <br>

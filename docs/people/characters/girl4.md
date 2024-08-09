@@ -1,9 +1,9 @@
 ---
 title: 上官螢
 tags:
- - 人物
- - 可攻略女角
- - 上官世家
+    - 人物
+    - 可攻略女角
+    - 上官世家
 aside: false
 ---
 
@@ -15,9 +15,20 @@ aside: false
 
 <ChTabs position="bottom">
 	<ChTab title="上官螢">
-		<Ch src='/images/characters/girl_4/normal.png' position='right'/>
-		<ChName nameZh='上官螢' nameEn='Shang Guan Ying' position='right' />
-		<ChTable>
+		<ChMeet 
+			src='/images/characters/girl_4/normal.png' 
+			nameTitle='上官千金'
+			nameMain='上官螢'
+			desc='武林三大世家，世居福州的上官家獨女，方今武林知名的美人。<br>個性驕傲好強，雖是千金名媛，卻不甘養於深閨，年紀輕輕便代父操持上官家業。<br>巾幗不讓鬚眉，手腕高明，將偌大家業經營得好生興旺。'
+			:animation=true
+		/>
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -64,14 +75,17 @@ aside: false
 					[[樂屏]] (情敵)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
-<br><br>
+		</table>
+	</Info>
+</InfoList>
+
+<br>
 
 武林三大世家，世居福州的上官家獨女，方今武林知名的美人。  
 個性驕傲好強，雖是千金名媛，卻不甘養於深閨，年紀輕輕便代父操持上官家業。  
 巾幗不讓鬚眉，手腕高明，將偌大家業經營得好生興旺。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
@@ -92,4 +106,4 @@ aside: false
 
 ## 備註
 
-- 與[[魏菊]]、[[南宮深]]為耕陽讀書齋的同窗好友
+-   與[[魏菊]]、[[南宮深]]為耕陽讀書齋的同窗好友
