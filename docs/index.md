@@ -46,7 +46,7 @@ onMounted(() => {
 
   const character = document.createElement('img');
   character.id = 'character';
-  character.src = withBase('/images/characters/girl_3/special.png');
+  character.src = withBase('/images/characters/special805/special.png');
   character.alt = 'Character';
   
   const characterRun = document.createElement('img');
