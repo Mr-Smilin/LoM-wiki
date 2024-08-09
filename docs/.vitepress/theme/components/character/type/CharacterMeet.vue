@@ -115,7 +115,7 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
 
   .name p{
     /* background-image: linear-gradient(to bottom right, #937445, #fcd59f); */
-    background-image: linear-gradient(to bottom right, #b4915e, #fcd59f);
+    background-image: linear-gradient(to bottom right, #b4915e, 10%, #fcd59f);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
