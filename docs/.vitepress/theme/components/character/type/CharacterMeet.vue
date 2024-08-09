@@ -136,14 +136,14 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     font-size: 30px;
     margin-left: -15px;
     text-shadow:
-    1px 1px 0 #D37370,
-    -1px 1px 0 #D37370,
-    1px -1px 0 #D37370,
-    -1px -1px 0 #D37370,
-    1px 1px 0 #D37370,
-    -1px 1px 0 #D37370,
-    1px -1px 0 #D37370,
-    -1px -1px 0 #D37370;
+    1px 1px 0.06em #E3907F,
+    -1px 1px 0.06em #E3907F,
+    1px -1px 0.06em #E3907F,
+    -1px -1px 0.06em #E3907F,
+    1px 1px 0.06em #E3907F,
+    -1px 1px 0.06em #E3907F,
+    1px -1px 0.06em #E3907F,
+    -1px -1px 0.06em #E3907F;
   }
 
   .name span::before{
