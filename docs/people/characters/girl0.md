@@ -11,11 +11,24 @@ aside: false
 
 <ChTabs position="bottom">
     <ChTab title="唐默鈴">
-        <Ch
+        <ChMeet 
+			src='/images/characters/girl_0/normal.png' 
+			nameTitle='小師妹'
+			nameMain='唐默鈴'
+			desc='芳名默鈴，唐門掌門獨生愛女，宛如森林小動物般的少女，性情淡漠，身繫七串從來不響的鈴噹。<br>興趣是摺紙。'
+			:animation=true
+		/>
+        <!-- <Ch
             src='/images/characters/girl_0/normal.png' 
             position='right'/>
-        <ChName nameZh='唐默鈴' nameEn='Tang Mo Ling' position='right' />
-        <ChTable>
+        <ChName nameZh='唐默鈴' nameEn='Tang Mo Ling' position='right' /> -->
+    </ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+    <Info title="角色資料" :open=true>
+        <table>
             <ChTr>
                 <ChTd isTitle=true>
                     性別
@@ -80,13 +93,16 @@ aside: false
                     [[趙活]] (師兄)
                 </ChTd>
             </ChTr>
-        </ChTable>
-    </ChTab>
-</ChTabs>
-<br><br>
+        </table>
+    </Info>
+</InfoList>
+
+<br>
 
 芳名默鈴，[[唐中翎|掌門]]獨生愛女，宛如森林小動物般的少女，性情淡漠，身繫七串從來不響的鈴鐺。  
 興趣是摺紙。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
@@ -131,7 +147,7 @@ aside: false
 
 ## 備註
 
-- 熊設計的第一個女主角
-- 滅門線被[[夏靈犀]]稱為小綿羊，而西武林線[[唐惟元|四師兄]]見其一身血衣，更稱之「狂暴小綿羊」
-- 西武林線當[[趙活]]對上[[譚霸刀]]時，小師妹亂入，三招解決霸刀，毫無還手之力。霸刀遺言「唐門當代最強者，原來不是[[唐布衣]]嗎...」
-- 練武場大師兄蹴踘時，小師妹一參戰，他便輸掉。可見小師妹武功不下大師兄，只是心太靜不出手
+-   熊設計的第一個女主角
+-   滅門線被[[夏靈犀]]稱為小綿羊，而西武林線[[唐惟元|四師兄]]見其一身血衣，更稱之「狂暴小綿羊」
+-   西武林線當[[趙活]]對上[[譚霸刀]]時，小師妹亂入，三招解決霸刀，毫無還手之力。霸刀遺言「唐門當代最強者，原來不是[[唐布衣]]嗎...」
+-   練武場大師兄蹴踘時，小師妹一參戰，他便輸掉。可見小師妹武功不下大師兄，只是心太靜不出手

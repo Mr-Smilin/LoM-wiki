@@ -65,7 +65,7 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
   .layer-2{
     position: absolute;
     bottom: 0;
-    left: 5%;
+    left: 9%;
     width: 100%;
     height: 100%;
   }
@@ -161,18 +161,19 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
   .desc{
     position: absolute;
     top: 52%;
-    right: 8%;
-    width: 38%;
+    right: 3%;
+    width: 43%;
     max-height: 30vh;
     overflow: hidden;
     word-wrap: break-word;
     overflow-wrap: break-word;
     white-space: normal;
+    word-break: break-all;
     line-height: 1.5em;
     color: rgb(225, 225, 225);
     font-family: 'SourceHanSerifTW-Regular', 'cursive', sans-serif;
     /* font-size: calc(0.8vw + 0.1em); */
-    font-size: 16px;
+    font-size: 12px;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
     z-index: -4;
     /* background-color: rgba(144, 114, 92,0.1); */
