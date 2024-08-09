@@ -46,12 +46,12 @@ onMounted(() => {
 
   const character = document.createElement('img');
   character.id = 'character';
-  character.src = withBase('/images/generic/plum_hand.png');
+  character.src = withBase('/images/characters/special805/special.png');
   character.alt = 'Character';
   
   const characterRun = document.createElement('img');
   characterRun.id = 'character-run';
-  characterRun.src = withBase('/images/generic/plum_happy_01.png');
+  characterRun.src = withBase('/images/characters/girl_3/laugh3.png');
   characterRun.alt = 'Character Running';
   characterRun.style.display = 'none';
   
