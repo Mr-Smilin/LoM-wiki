@@ -142,13 +142,13 @@
   
   .tabs {
     display: flex;
-    justify-content: flex-start;
+    justify-content:flex-start;
     flex-wrap: wrap;
     margin-bottom: 1rem;
     box-sizing: border-box;
     /* height: 46px; */
     margin: 0;
-    gap: 10px;
+    /* gap: 10px; */
     border-radius: 20px;
     background-color: var(--vp-c-gray-3);
   }
@@ -166,10 +166,11 @@
     padding: 10px 20px;
     cursor: pointer;
     text-align: center;
-    transition: background-color 0.3s;
+    transition: background-color 0.3s, border 0.3s;
     border-radius: 20px;
     background-color: var(--vp-c-gray-3);
     white-space: nowrap;
+    border: 2px solid transparent;
   }
   
   .tab-title.active {
@@ -187,6 +188,7 @@
   
   .tab-title:hover {
     background-color: var(--vp-c-gray-3);
+    border: 2px solid #42b983;
   }
   
   .tab-content {
@@ -248,6 +250,9 @@
 
 
   @media (max-width: 768px) {
+    .tab-title {
+      flex: 1;
+    }
     .mobile-tables {
       width: 100%;
       margin-bottom: 20px;
