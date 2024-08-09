@@ -234,17 +234,16 @@ tags:
   </ChTab>
   <ChTab title="debug">
     <ChMeet 
-      src='/images/characters/girl_8/normal.png' 
+      src='/images/characters/special6/normal.png' 
       nameMain='龍湘'
       desc='師承錦香宮，劍法精絕的清麗佳人。<br>踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。'
       :animation=false />
   </ChTab>
   <ChTab title="戰鬥">
-    <Ch src='/images/characters/girl_8/angry3.png'
-          position='right'
-          :animation=true />
-    <ChName 
-      nameZh='戰鬥'
-      nameEn='Fight'/>
+    <ChMeet 
+      src='/images/characters/brother1/normal.png' 
+      nameMain='龍湘'
+      desc='師承錦香宮，劍法精絕的清麗佳人。<br>踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。'
+      :animation=false />
   </ChTab>
 </ChTabs>

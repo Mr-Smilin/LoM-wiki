@@ -1,8 +1,8 @@
 <template>
     <div :class="['background',imageAnima]">
-      <div :class="['human', imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
-      <div :class="['layer-1',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
-      <div :class="['layer-2',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'left bottom' }"></div>
+      <div :class="['human', imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'center bottom' }"></div>
+      <div :class="['layer-1',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'center bottom' }"></div>
+      <div :class="['layer-2',imageAnima]" :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'center bottom' }"></div>
       <div v-if="nameMain" :class="['name',imageAnima]">
         <p>{{ nameTitle }}</p>
         <span>{{ nameMain }}</span>
@@ -65,9 +65,10 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
   .layer-2{
     position: absolute;
     bottom: 0;
-    left: 9%;
+    left: 28%;
     width: 100%;
     height: 100%;
+    margin-left: -50%;
   }
 
   .human {
