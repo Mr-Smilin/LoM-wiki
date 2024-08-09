@@ -29,6 +29,14 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
+					年齡
+				</ChTd>
+				<ChTd>
+					23 (遊戲第三年)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
 					稱號
 				</ChTd>
 				<ChTd>
