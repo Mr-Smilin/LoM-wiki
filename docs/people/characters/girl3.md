@@ -25,6 +25,86 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
+	<ChTab title="大笑">
+		<Ch 
+			src='/images/characters/girl_3/laugh2.png' 
+			position='right'/>
+		<ChName
+			nameZh='大笑'
+			nameEn='Laugh heartily'/>
+	</ChTab>
+	<ChTab title="Kira">
+		<Ch 
+			src='/images/characters/girl_3/laugh3.png' 
+			position='right'/>
+		<ChName
+			nameZh='（<ゝω·）☆'
+			nameEn='Kira'/>
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch 
+			src='/images/characters/girl_3/nervous2.png' 
+			position='right'/>
+		<ChName
+			nameZh='尷尬'
+			nameEn='Ah...'/>
+	</ChTab>
+	<ChTab title="驚嚇">
+		<Ch 
+			src='/images/characters/girl_3/nervous3.png' 
+			position='right'/>
+		<ChName
+			nameZh='驚嚇'
+			nameEn='Ah!'/>
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch 
+			src='/images/characters/girl_3/angry1.png' 
+			position='right'/>
+		<ChName
+			nameZh='生氣'
+			nameEn='Angry'/>
+	</ChTab>
+	<ChTab title="很生氣">
+		<Ch 
+			src='/images/characters/girl_3/angry2.png' 
+			position='right'/>
+		<ChName
+			nameZh='生氣'
+			nameEn='Angry'/>
+	</ChTab>
+	<ChTab title="殺掉">
+		<Ch 
+			src='/images/characters/girl_3/angry3.png' 
+			position='right'/>
+		<ChName
+			nameZh='塊陶啊'
+			nameEn='Run!!'/>
+	</ChTab>
+	<ChTab title="害羞">
+		<Ch 
+			src='/images/characters/girl_3/shy3.png' 
+			position='right'/>
+		<ChName
+			nameZh='害羞'
+			nameEn='Shy'/>
+	</ChTab>
+	<ChTab title="害羞...?">
+		<Ch 
+			src='/images/characters/girl_3/shy4.png' 
+			position='right'/>
+		<ChName
+			nameZh='害羞'
+			nameEn='Shy'/>
+	</ChTab>
+	<ChTab title="敗北">
+		<Ch 
+			src='/images/characters/girl_3/hurt.png' 
+			position='right'/>
+		<ChName
+			nameZh='敗北'
+			nameEn='Lose'/>
+	</ChTab>
 </ChTabs>
 
 <InfoList>
