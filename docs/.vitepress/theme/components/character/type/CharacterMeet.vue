@@ -107,11 +107,12 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     position: absolute;
     top:34%;
     right: 5%;
-    line-height: 1.5em;
+    line-height: 1em;
     /* font-size: calc(1vw + 0.4em); */
-    font-size: 24px;
+    font-size: 22px;
     width: 40%;
     font-family: 'DFT_S5', 'cursive', sans-serif;
+    margin-top: 16px;
   }
 
   .name p{
@@ -123,7 +124,8 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     -webkit-text-stroke: 0.5px #161616;
     height: calc(1vh + 1.2em);
     /* font-size: calc(1vw + 0.3em); */
-    margin-bottom: 0.1vh;
+    margin-bottom: 0.05vh;
+    margin-left: -5px;
     transform: translate(-10px,0.3em);
   }
 
@@ -131,16 +133,17 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
     color: white;
     display: block;
     position: relative;
-    letter-spacing: 0.1em;
-    text-shadow: 
+    font-size: 30px;
+    margin-left: -15px;
+    text-shadow:
     1px 1px 0 #D37370,
     -1px 1px 0 #D37370,
     1px -1px 0 #D37370,
     -1px -1px 0 #D37370,
-    2px 2px 0 #D37370,
-    -2px 2px 0 #D37370,
-    2px -2px 0 #D37370,
-    -2px -2px 0 #D37370;
+    1px 1px 0 #D37370,
+    -1px 1px 0 #D37370,
+    1px -1px 0 #D37370,
+    -1px -1px 0 #D37370;
   }
 
   .name span::before{
