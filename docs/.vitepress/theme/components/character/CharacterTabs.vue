@@ -143,9 +143,10 @@
   .tabs {
     display: flex;
     justify-content: flex-start;
+    flex-wrap: wrap;
     margin-bottom: 1rem;
     box-sizing: border-box;
-    height: 46px;
+    /* height: 46px; */
     margin: 0;
     gap: 10px;
     border-radius: 20px;
