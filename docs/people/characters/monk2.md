@@ -31,7 +31,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[釋明]] (同門)
+					[[釋明]] (師弟)
 				</ChTd>
 			</ChTr>
 		</ChTable>
