@@ -236,7 +236,9 @@ import MarkdownWrapper from '../../tools/MarkdownWrapper.vue';
       /* width: 38%; */
     }
     .human{
-      background-position: center bottom;
+        left:0;
+        margin-left: 0;
+        background-position: center bottom;
     }
     .human.anima::before,
     .layer-1,
