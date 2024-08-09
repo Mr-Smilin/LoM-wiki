@@ -9,12 +9,21 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="唐布衣">
-        <Ch
-            src='/images/characters/brother1/normal.png' 
-            position='right'/>
-        <ChName nameZh='唐布衣' nameEn='Tang Bu Yi' position='right' />
-        <ChTable>
+    <ChTab title="初識">
+        <ChMeet 
+			src='/images/characters/brother1/normal.png' 
+			nameTitle='飛俠'
+			nameMain='唐布衣'
+			desc='名喚布衣，掌門座下第一大弟子。<br>天資聰穎，爽朗不羈，江湖人稱「飛俠」，暗器、輕功造詣俱臻當世第一流境界。'
+			:animation=true
+		/>
+    </ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+    <Info title='角色資料' :open=true>
+        <table>
             <ChTr>
                 <ChTd isTitle=true>
                     性別
@@ -76,13 +85,16 @@ aside: false
                     [[解無塵]] (被當勁敵)
                 </ChTd>
             </ChTr>
-        </ChTable>
-    </ChTab>
-</ChTabs>
-<br><br>
+        </table>
+    </Info>
+</InfoList>
+
+<br>
 
 名喚布衣，掌門座下第一大弟子。  
 天資聰穎，爽朗不羈，江湖人稱「飛俠」，暗器、輕功造詣俱臻當世第一流境界。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 

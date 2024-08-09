@@ -9,12 +9,21 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="唐陞">
-        <Ch
-            src='/images/characters/brother3/normal.png' 
-            position='right'/>
-        <ChName nameZh='唐陞' nameEn='Tang Sheng' position='right' />
-        <ChTable>
+    <ChTab title="初識">
+		<ChMeet 
+			src='/images/characters/brother3/normal.png' 
+            nameTitle='三師兄'
+			nameMain='唐陞'
+			desc='單名一字陞，唐門掌門第三親傳弟子。<br>帶藝投師，因此年紀較二位師兄為長，從前是志向遠大的讀書人，只因開罪權貴，遠避江湖。興趣是說書，教化英才，笑談天下事。'
+			:animation=true
+		/>
+    </ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+    <Info title='角色資料' :open=true>
+        <table>
             <ChTr>
                 <ChTd isTitle=true>
                     性別
@@ -71,14 +80,17 @@ aside: false
                     [[趙活]] (師弟)
                 </ChTd>
             </ChTr>
-        </ChTable>
-    </ChTab>
-</ChTabs>
-<br><br>
+        </table>
+    </Info>
+</InfoList>
+
+<br>
 
 單名一字陞，唐門掌門第三親傳弟子。  
 帶藝投師，因此年紀較二位師兄為長，從前是志向遠大的讀書人，只因開罪權貴，遠避江湖。  
 興趣是說書，教化英才，笑談天下事。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 

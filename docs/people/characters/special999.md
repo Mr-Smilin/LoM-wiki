@@ -1,18 +1,29 @@
 ---
 title: 瑞笙
 tags:
- - 人物
- - 孤雲山派
+    - 人物
+    - 孤雲山派
 aside: false
 ---
 
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="瑞笙">
-		<Ch src='/images/characters/special999/normal.png' position='right'/>
-		<ChName nameZh='瑞笙' nameEn='Rui Sheng' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet 
+			src='/images/characters/special999/normal.png' 
+            nameTitle='縞衣劍少'
+			nameMain='瑞笙'
+			desc='初出茅廬，近來名聲漸響的年輕劍客。<br>英俊瀟灑，磊落君子，處世溫文爾雅，胸中亦藏豪情萬丈，仗劍行俠，快意恩仇，緊要關頭就會出現的傢伙。'
+			:animation=true
+		/>
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -64,13 +75,16 @@ aside: false
 					[[孟仙謠]] (後宮)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
-<br><br>
+		</table>
+	</Info>
+</InfoList>
+
+<br>
 
 初出茅廬，近來名聲漸響的年輕劍客。  
 英俊瀟灑，磊落君子，處世溫文爾雅，胸中亦藏豪情萬丈，仗劍行俠，快意恩仇，緊要關頭就會出現的傢伙。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
@@ -89,6 +103,6 @@ aside: false
 
 ## 備註
 
-- [[萬里鵬程]]稱瑞笙「瑞小友」，不確定兩者關係
-- 如果唐門沒有收留葉家兄妹，[[梁有詩]]就會從瑞笙後宮團消失
-- [[唐默鈴|小師妹]]如果沒和[[趙活]]結緣，會下嫁成為瑞笙後宮之一
+-   [[萬里鵬程]]稱瑞笙「瑞小友」，不確定兩者關係
+-   如果唐門沒有收留葉家兄妹，[[梁有詩]]就會從瑞笙後宮團消失
+-   [[唐默鈴|小師妹]]如果沒和[[趙活]]結緣，會下嫁成為瑞笙後宮之一

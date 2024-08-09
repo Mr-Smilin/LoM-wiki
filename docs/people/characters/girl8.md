@@ -11,7 +11,7 @@ borderless: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="龍湘">
+	<ChTab title="初識">
 		<ChMeet 
 			src='/images/characters/girl_8/normal.png' 
 			nameMain='龍湘'

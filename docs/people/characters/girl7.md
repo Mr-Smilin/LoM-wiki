@@ -15,7 +15,7 @@ aside: false
 :::
 
 <ChTabs position="bottom">
-	<ChTab title="魏菊">
+	<ChTab title="初識">
 		<ChMeet 
 			src='/images/characters/girl_7/normal.png' 
 			nameTitle='玄功掌門'

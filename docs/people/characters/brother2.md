@@ -9,12 +9,21 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="唐錚">
-        <Ch
-            src='/images/characters/brother2/normal.png' 
-            position='right'/>
-        <ChName nameZh='唐錚' nameEn='Tang Zheng' position='right' />
-        <ChTable>
+    <ChTab title="初識">
+		<ChMeet 
+			src='/images/characters/brother2/normal.png' 
+            nameTitle='二師兄'
+			nameMain='唐錚'
+			desc='單名一字錚，唐門掌門座下第二弟子。<br>善使毒藥，於藥毒之術的鑽研尤勝業師，心思縝密，孤僻深沉，鮮少下山走動，故而名聲遠不及師兄，向有「辣手相公」、「辣手公子」之稱，人人敬而遠之。'
+			:animation=true
+		/>
+    </ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+    <Info title='角色資料' :open=true>
+        <table>
             <ChTr>
                 <ChTd isTitle=true>
                     性別
@@ -76,14 +85,17 @@ aside: false
                     [[畫中仙]] (間諜)
                 </ChTd>
             </ChTr>
-        </ChTable>
-    </ChTab>
-</ChTabs>
-<br><br>
+        </table>
+    </Info>
+</InfoList>
+
+<br>
 
 單名一字錚，唐門掌門座下第二弟子。  
 善使毒藥，於藥毒之術的鑽研尤勝業師，心思縝密，孤僻深沉，  
 鮮少下山走動，故而名聲遠不及師兄，向有「辣手相公」、「辣手公子」之稱，人人敬而遠之。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
@@ -119,6 +131,6 @@ aside: false
 
 ## 備註
 
-- 二師兄從不開玩笑，別說自己想找死
-- 刀子嘴豆腐心，好感度越高，越常罵[[趙活]]，但好感卻又提升
-- 三面間諜：「我受錦香宮指示，潛伏在唐門；受千燈樓指示，潛伏在錦香宮；受唐門指示，潛伏在千燈樓。」
+-   二師兄從不開玩笑，別說自己想找死
+-   刀子嘴豆腐心，好感度越高，越常罵[[趙活]]，但好感卻又提升
+-   三面間諜：「我受錦香宮指示，潛伏在唐門；受千燈樓指示，潛伏在錦香宮；受唐門指示，潛伏在千燈樓。」

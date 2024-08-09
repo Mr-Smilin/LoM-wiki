@@ -621,7 +621,7 @@ tags:
 1. `src` <Badge type="danger" text="必填" /> ：設定人物立繪的 url
 2. `nameTitle` ：設定人物的稱謂
 3. `nameMain` <Badge type="danger" text="必填" /> ：設定人物名稱
-4. `desc` ：設定簡介，通常是列傳一文本
+4. `desc` ：設定簡介/初識文本
 5. `:animation` ：切換時是否啟用動畫
 
 <ChTabs position="bottom">

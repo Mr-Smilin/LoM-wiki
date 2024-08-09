@@ -12,7 +12,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="夏侯蘭">
+	<ChTab title="初識">
 		<ChMeet 
 			src='/images/characters/girl_5/normal.png' 
 			nameTitle='奪魂幽蘭'

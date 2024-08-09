@@ -14,7 +14,7 @@ aside: false
 :::
 
 <ChTabs position="bottom">
-	<ChTab title="上官螢">
+	<ChTab title="初識">
 		<ChMeet 
 			src='/images/characters/girl_4/normal.png' 
 			nameTitle='上官千金'
