@@ -28,6 +28,14 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
+					身高
+				</ChTd>
+				<ChTd>
+					152
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
 					稱號
 				</ChTd>
 				<ChTd>
