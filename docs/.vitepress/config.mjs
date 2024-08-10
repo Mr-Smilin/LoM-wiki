@@ -70,7 +70,7 @@ export default defineConfig({
 			{
 				text: "其他",
 				items: [
-					{ text: "官方更新", link: "/other/news" },
+					{ text: "江湖快報(官方更新)", link: "/other/news" },
 					{ text: "遊戲指南(施工中)", link: "/other/guide/1-game-objective" },
 					{
 						text: "拆包資料",
@@ -111,7 +111,7 @@ export default defineConfig({
 								link: "/develop/4-3-character-template.md",
 							},
 							{
-								text: "官方更新頁面模塊說明",
+								text: "江湖快報(官方更新)頁面模塊說明",
 								link: "/develop/4-4-news-template.md",
 							},
 						],
@@ -161,7 +161,7 @@ export default defineConfig({
 									link: "/develop/4-3-character-template.md",
 								},
 								{
-									text: "官方更新頁面模塊說明",
+									text: "江湖快報(官方更新)頁面模塊說明",
 									link: "/develop/4-4-news-template.md",
 								},
 							],
