@@ -138,14 +138,14 @@ export default {
     position: relative;
     font-size: 30px;
     margin-left: -15px;
-    text-shadow: 1px 1px 0.06em #E3907F,
-    -1px 1px 0.06em #E3907F,
-    1px -1px 0.06em #E3907F,
-    -1px -1px 0.06em #E3907F,
-    1px 1px 0.06em #E3907F,
-    -1px 1px 0.06em #E3907F,
-    1px -1px 0.06em #E3907F,
-    -1px -1px 0.06em #E3907F;
+    text-shadow: 1px 1px 0.06em #DB8278,
+    -1px 1px 0.06em #DB8278,
+    1px -1px 0.06em #DB8278,
+    -1px -1px 0.06em #DB8278,
+    1px 1px 0.06em #DB8278,
+    -1px 1px 0.06em #DB8278,
+    1px -1px 0.06em #DB8278,
+    -1px -1px 0.06em #DB8278;
 }
 
 .name span::before {
