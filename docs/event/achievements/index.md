@@ -50,9 +50,9 @@ tags:
         <td>你從此刻脫胎換骨，像你從前望著大師兄，師弟妹們也信賴你。</td>
         <td>
             1. 唐門後期會議選 舉辦段考 骰自己監考 (目前未確認) <br>
-            2. 在小師妹比武招親事件中擊殺金烏上人，下面有兩種辦法可以觸發擊殺金烏的劇情： <br>
+            2. 在<Girl0Icon>小師妹</Girl0Icon>比武招親事件中擊殺金烏上人，下面有兩種辦法可以觸發擊殺金烏的劇情： <br>
             a. 與大師兄一起下山並觸發金烏假死偷襲劇情。<br>
-            b. 不與大師兄下山，不能與小梅有高好感，並且醫術達五級，在救大師兄時會有人偷襲，選停止醫治，並在後續戰鬥中獲勝(包括金烏上人)。
+            b. 不與大師兄下山，不能與<Girl3Icon>小梅</Girl3Icon>有高好感，並且醫術達五級，在救大師兄時會有人偷襲，選停止醫治，並在後續戰鬥中獲勝(包括金烏上人)。
         </td>
         <td></td>
         <td></td>
@@ -68,7 +68,7 @@ tags:
     <tr>
         <td id="風雲史-No.03">03</td>
         <td><AchievementIcon :size="`medium`" :no="`03`">懦夫救星</AchievementIcon></td>
-        <td>誰不想成為命運寵兒，出手先番天地，回家妻妾群。但你還得活著，必須清醒。</td>
+        <td>誰不想成為命運寵兒，出手掀番天地，回家妻妾成群。但你還得活著，必須清醒。</td>
         <td>與大師兄一起下山，在之後的戰鬥中對上金烏上人，獲勝後被金烏打暈自動觸發取得。</td>
         <td></td>
         <td></td>
@@ -142,7 +142,7 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`10`">這是我家</AchievementIcon></td>
         <td>我哪裡都不去。</td>
         <td>
-            未達成西武林萌路線，<br>
+            未達成西武林盟路線，<br>
             且在第四年一月下旬第一場戰鬥戰敗(含三師兄陣亡)
         </td>
         <td></td>
@@ -152,14 +152,14 @@ tags:
         <td id="風雲史-No.11">11</td>
         <td><AchievementIcon :size="`medium`" :no="`11`">分身</AchievementIcon></td>
         <td>你曾經那麼受歡迎過，應該死而無憾了吧？</td>
-        <td>在龍湘互稱姊弟且好感度4星、小梅好感2星以上加入唐門後，嘴力>=40且體力＜60，在大師兄下山回程時骰到「兩人都不放手」。</td>
+        <td>在<Girl8Icon>龍湘</Girl8Icon>互稱姊弟且好感度4星、<Girl3Icon>小梅</Girl3Icon>好感2星以上加入唐門後，嘴力>=40且體力＜60，在大師兄下山回程時骰到「兩人都不放手」。</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td id="風雲史-No.12">12</td>
         <td><AchievementIcon :size="`medium`" :no="`12`">雪山派大弟子</AchievementIcon></td>
-        <td>兼，掌門伴侶。</td>
+        <td>兼，<Girl5Icon>掌門</Girl5Icon>伴侶。</td>
         <td>
             第二年好感度四星以上(建議五星)<br>
             抵抗<Girl5Icon>夏侯蘭</Girl5Icon>傳功後，<br>
@@ -182,7 +182,7 @@ tags:
     <tr>
         <td id="風雲史-No.14">14</td>
         <td><AchievementIcon :size="`medium`" :no="`14`">忘憂俠侶</AchievementIcon></td>
-        <td>走遍四方，行俠仗義，她愛煞了你的英雄氣概。</td>
+        <td>走遍四方，行俠仗義，<Girl8Icon>她</Girl8Icon>愛煞了你的英雄氣概。</td>
         <td>
             第二年好感度四星以上(建議五星)<br>
             觸發飛鴿傳書事件後，<br>
