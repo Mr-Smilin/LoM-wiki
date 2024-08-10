@@ -62,7 +62,7 @@ export default defineConfig({
 						link: "/event/story-simple-table",
 					},
 					{ text: "風雲史(成就)", link: "/event/achievements" },
-					{ text: "生死簿(壞結局)", link: "/event/badends" },
+					{ text: "生死簿(驟死結局)", link: "/event/badends" },
 					{ text: "汗青書(結局)", link: "/event/ends" },
 				],
 				activeMatch: "/event/",
