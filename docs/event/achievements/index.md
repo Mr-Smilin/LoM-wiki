@@ -68,7 +68,7 @@ tags:
     <tr>
         <td id="風雲史-No.03">03</td>
         <td><AchievementIcon :size="`medium`" :no="`03`">懦夫救星</AchievementIcon></td>
-        <td>誰不想成為命運寵兒，出手先番天地，回家妻妾群。但你還得活著，必須清醒。</td>
+        <td>誰不想成為命運寵兒，出手掀番天地，回家妻妾成群。但你還得活著，必須清醒。</td>
         <td>與大師兄一起下山，在之後的戰鬥中對上金烏上人，獲勝後被金烏打暈自動觸發取得。</td>
         <td></td>
         <td></td>
@@ -159,7 +159,7 @@ tags:
     <tr>
         <td id="風雲史-No.12">12</td>
         <td><AchievementIcon :size="`medium`" :no="`12`">雪山派大弟子</AchievementIcon></td>
-        <td>兼，掌門伴侶。</td>
+        <td>兼，<Girl5Icon>掌門</Girl5Icon>伴侶。</td>
         <td>
             第二年好感度四星以上(建議五星)<br>
             抵抗<Girl5Icon>夏侯蘭</Girl5Icon>傳功後，<br>
@@ -182,7 +182,7 @@ tags:
     <tr>
         <td id="風雲史-No.14">14</td>
         <td><AchievementIcon :size="`medium`" :no="`14`">忘憂俠侶</AchievementIcon></td>
-        <td>走遍四方，行俠仗義，她愛煞了你的英雄氣概。</td>
+        <td>走遍四方，行俠仗義，<Girl8Icon>她</Girl8Icon>愛煞了你的英雄氣概。</td>
         <td>
             第二年好感度四星以上(建議五星)<br>
             觸發飛鴿傳書事件後，<br>
