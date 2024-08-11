@@ -35,3 +35,7 @@ tags:
 
 選項選擇與心上人背道而馳的選項，會增加變心值(這是一個隱藏屬性)  
 當變心值累積 10 點，會觸發一次變心之夢，夢中允許趙活變更心上人。<MarkdownWrapper>||同時變心次數+1||</MarkdownWrapper>
+
+---
+
+<!--@include: @/people/dream-sweetheart.md-->
