@@ -89,12 +89,17 @@
     opacity: 1;
   }
 
+  body::-webkit-scrollbar,
   div::-webkit-scrollbar,
   aside::-webkit-scrollbar,
   table::-webkit-scrollbar {
     width: 8px;
     height: 1px;
   }
+  aside::-webkit-scrollbar{
+    background-color: transparent;
+  }
+  body::-webkit-scrollbar-thumb,
   div::-webkit-scrollbar-thumb,
   aside::-webkit-scrollbar-thumb,
   table::-webkit-scrollbar-thumb {
@@ -102,6 +107,11 @@
       box-shadow: inset 0 0 5px rgba(187, 156, 147, 0.2);
       background: var(--scrollbar-color);
   }
+  aside::-webkit-scrollbar-thumb{
+    box-shadow: none;
+    background-color: transparent;
+  }
+  body::-webkit-scrollbar-track,
   div::-webkit-scrollbar-track,
   aside::-webkit-scrollbar-track,
   table::-webkit-scrollbar-track {
