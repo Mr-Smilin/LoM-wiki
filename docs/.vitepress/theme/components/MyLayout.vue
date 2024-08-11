@@ -26,6 +26,11 @@ const NotFound = defineAsyncComponent(() => import("./default/NotFound.vue"));
 				<Twikoo></Twikoo>
 			</div>
 		</template>
+		<template #doc-before>
+			<p class="post-visitor">
+				瀏覽數：<span id="twikoo_visitors">0</span>
+			</p>
+		</template>
 		<template #doc-after>
 			<Twikoo></Twikoo>
 			<Borderless></Borderless>

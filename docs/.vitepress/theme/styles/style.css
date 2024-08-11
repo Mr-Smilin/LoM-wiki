@@ -89,6 +89,11 @@
     opacity: 1;
   }
 
+  .post-visitor{
+    font-size: 10px;
+    color: var(--vp-c-text-3);
+  }
+
   body::-webkit-scrollbar,
   div::-webkit-scrollbar,
   aside::-webkit-scrollbar,
