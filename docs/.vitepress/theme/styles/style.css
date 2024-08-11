@@ -109,3 +109,21 @@
       border-radius: 4px;
       background: transparent;
   }
+
+  @media screen and (min-width: 960px) {
+    .VPSidebar .curtain{
+      display: none;
+    }
+    .VPNavBarTitle.has-sidebar{
+      background-color:var(--vp-sidebar-bg-color) ;
+    }
+    .Layout .VPSidebar{
+      /* overflow-y: auto; */
+      /* margin-top: 96px; */
+      /* padding-top: 0; */
+      padding-bottom: 20px;
+    }
+    .VPSidebar .nav .group .item{
+        z-index: 1;
+    }
+  }
