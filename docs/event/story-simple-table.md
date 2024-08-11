@@ -91,12 +91,15 @@ tags:
 				[談論武穆王寶藏](/event/simple/1-08-1-談論武穆王寶藏)<br>
 				[葉氏行蹤風波](/event/simple/1-08-1-葉氏行蹤風波)<br>
 				[葉雲裳衝擊](/event/simple/1-08-1-葉雲裳衝擊)<br>
+				[唐門財務改善](/event/simple/1-08-1-唐門財務改善)<br>
+				</MarkdownWrapper>
+			</td>
+			<td>
+				<MarkdownWrapper>
+				[假趙活登場](/event/simple/1-08-2-假趙活登場)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
-			<td>
-				<li>假趙活登場(需要門派規模2)</li>
-			</td>
 		</tr>
 		<tr>
 			<td>九月</td>
