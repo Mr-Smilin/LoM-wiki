@@ -195,16 +195,20 @@ export default defineConfig({
 							link: "/other/guide/2-how-to-start",
 						},
 						{
-							text: "關於心上人",
-							link: "/people/dream-sweetheart",
-						},
-						{
-							text: "關於投降",
-							link: "/other/guide/mechanism/surrender",
+							text: "關於行動點",
+							link: "/other/guide/mechanism/action-point",
 						},
 						{
 							text: "關於心相",
 							link: "/other/guide/mechanism/mood",
+						},
+						{
+							text: "關於心上人",
+							link: "/other/guide/mechanism/dream-sweetheart",
+						},
+						{
+							text: "關於投降",
+							link: "/other/guide/mechanism/surrender",
 						},
 					],
 				},
