@@ -20,7 +20,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=22 title="宦海浮沉">
+<EndBackground no=23 title="宦海浮沉">
 你學會官場交際，對上逢銀拍馬，對下蠻<br>
 橫無情．就是面目醜惡，只要權勢夠大，<br>
 一樣沒人敢說你閒話．只是那些噤若寒蟬<br>
