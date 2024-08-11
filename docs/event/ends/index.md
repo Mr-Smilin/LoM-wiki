@@ -396,15 +396,14 @@ tags:
         </td>
         <td style="color: #a83232;">
             <!-- 結局名稱 -->
-            宦海浮沉
+            <EndIcon no="23">宦海浮沉</EndIcon>
         </td>
         <td>
             <!-- 結局概要 -->
-            <span style="color: red;">【目前版本無法達成】</span><br>
             <span style="color: #00BFFF;">【夏侯蘭】</span>
             <span style="color: Gold;">【魏菊】</span>
             <span style="color: #FF1493;">【結緣？】</span><br>
-            拜師夏侯蘭，與被夏侯蘭抓來的魏菊成親，在魏菊憂鬱而死後，離開江湖加入官場，成為與過去不同的人。
+            拜師夏侯蘭，因為練功分心被強逼跟惡霸綁來的村姑互換鴛盟，離開江湖加入官場，忘記自己的模樣成為另一個人。
         </td>
     </tr>
     <tr>
