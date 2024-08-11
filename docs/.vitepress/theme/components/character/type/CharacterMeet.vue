@@ -182,7 +182,7 @@ export default {
     /* font-size: calc(0.8vw + 0.1em); */
     font-size: 13px;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
-    z-index: -4;
+    /* z-index: -4; */
     /* background-color: rgba(144, 114, 92,0.1); */
 }
 
