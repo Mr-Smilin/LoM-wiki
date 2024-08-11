@@ -26,7 +26,7 @@ aside: false
 					稱號
 				</ChTd>
 				<ChTd>
-					蒼松劍客
+					蒼松劍客<br>點蒼第一快劍手
 				</ChTd>
 			</ChTr>
 			<ChTr>
