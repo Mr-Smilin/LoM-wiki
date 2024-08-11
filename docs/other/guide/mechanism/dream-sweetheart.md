@@ -22,7 +22,7 @@ tags:
 
 <img class='guide-img' src='/images/guide/dream-sweetheart.jpg' alt='心上人'>
 
-## 關於心上人
+## {{ $frontmatter.title }}
 
 主角心繫的對象，開局固定為[[唐默鈴|小師妹]]  
 遊戲中一共有九位女性角色可以選定為心上人

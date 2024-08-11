@@ -20,7 +20,7 @@ tags:
 
 <img class='guide-img' src='/images/guide/hui1.jpg' alt='左上角UI'>
 
-## 關於心相
+## {{ $frontmatter.title }}
 
 心相可以解釋為：清醒度、心理強健度、心理健康度、快樂度或情緒度。  
 心相分為三種狀態， 由心相值來判斷。  

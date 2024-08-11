@@ -1,5 +1,5 @@
 ---
-title: 風雲史 (成就)
+title: 風雲史
 description: 列出所有成就相關資訊。
 aside: false
 outline: [2, 3]

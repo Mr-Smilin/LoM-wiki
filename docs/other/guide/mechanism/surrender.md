@@ -20,7 +20,7 @@ tags:
 
 <img class='guide-img' src='/images/guide/surrender.jpg' alt='投降'>
 
-## 關於投降
+## {{ $frontmatter.title }}
 
 活俠傳中投降分為兩種
 

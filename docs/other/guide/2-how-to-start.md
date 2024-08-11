@@ -16,7 +16,7 @@ tags:
 
 <img class='guide-img' src='/images/guide/2-how-to-start.jpg' alt='唐門'>
 
-## 一開始應該做些甚麼？
+## {{ $frontmatter.title }}
 
 除了後山、正心堂、講經堂、大門  
 其他建築都有角色初遇事件，游標移動到建築上可以互動

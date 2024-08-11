@@ -19,7 +19,7 @@ tags:
 
 <img class='guide-img' src='/images/guide/hui1.jpg' alt='左上角UI'>
 
-## 關於行動點
+## {{ $frontmatter.title }}
 
 行動點代表可以互動的次數  
 初始是三點，達成特定成就可以增加  

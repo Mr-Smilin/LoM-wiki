@@ -71,7 +71,7 @@ export default defineConfig({
 				text: "其他",
 				items: [
 					{ text: "江湖快報(官方更新)", link: "/other/news" },
-					{ text: "遊戲指南(施工中)", link: "/other/guide/1-game-objective" },
+					{ text: "遊戲指南", link: "/other/guide/1-game-objective" },
 					{
 						text: "拆包資料",
 						items: [
@@ -203,12 +203,24 @@ export default defineConfig({
 							link: "/other/guide/mechanism/mood",
 						},
 						{
+							text: "關於貢獻度",
+							link: "/other/guide/mechanism/contribution",
+						},
+						{
+							text: "關於能力值",
+							link: "/other/guide/mechanism/attribute",
+						},
+						{
 							text: "關於心上人",
 							link: "/other/guide/mechanism/dream-sweetheart",
 						},
 						{
 							text: "關於投降",
 							link: "/other/guide/mechanism/surrender",
+						},
+						{
+							text: "關於命運",
+							link: "/other/guide/mechanism/destiny",
 						},
 					],
 				},
