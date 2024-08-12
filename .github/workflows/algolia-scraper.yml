@@ -11,9 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Get the content of algolia.json as config
-        id: algolia_config
-        run: echo "config=$(cat algolia.json | jq -r tostring)" >> $GITHUB_OUTPUT
+      - name: Prepare Algolia DocSearch config
+        run: |
+          echo '${{ secrets.ALGOLIA_CONFIG }}' > config.json
 
       - name: Run DocSearch Scraper
         env:
@@ -23,5 +23,5 @@ jobs:
           docker run \
             -e APPLICATION_ID=$APPLICATION_ID \
             -e API_KEY=$API_KEY \
-            -e CONFIG="${{ steps.algolia_config.outputs.config }}" \
+            -e CONFIG="$(cat config.json)" \
             algolia/docsearch-scraper
