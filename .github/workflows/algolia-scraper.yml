@@ -1,7 +1,7 @@
 name: Algolia DocSearch Scraper
 on:
   push:
-    branches: [main] # 根據需要調整分支名稱
+    branches: [release-algolia] # 根據需要調整分支名稱
   schedule:
     - cron: "0 0 * * *" # 每天午夜運行
 
