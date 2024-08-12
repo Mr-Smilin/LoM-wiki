@@ -279,7 +279,7 @@ export default defineConfig({
 				},
 				appId: "VKL8ERL4SG",
 				apiKey: "58ff8369479da3b9a19d85f1d3249c6a",
-				indexName: "lom_wiki",
+				indexName: baseUrl,
 			},
 		},
 
