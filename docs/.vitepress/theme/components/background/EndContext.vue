@@ -23,8 +23,7 @@ export default {
     padding: 0px 0px 60px 13%;
     font-size: 16px;
     color: #000000;
-    font-weight: bold;
-    font-family: SourceHanSerifTC-BOLD;
+    font-weight: 800;
 }
 @media screen and (max-width: 768px) and (min-width: 500px){
     .context {
@@ -33,8 +32,7 @@ export default {
         padding-bottom: 60px;
         font-size: 16px;
         color: #000000;
-        font-weight: bold;
-        font-family: SourceHanSerifTC-BOLD;
+        font-weight: 800;
     }
 }
 @media screen and (min-width: 768px){
@@ -42,8 +40,7 @@ export default {
         padding: 0px 0px 60px 40px;
         font-size: 16px;
         color: #000000;
-        font-weight: bold;
-        font-family: SourceHanSerifTC-BOLD;
+        font-weight: 800;
     }
 }
 </style>

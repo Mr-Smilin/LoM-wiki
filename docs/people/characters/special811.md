@@ -12,6 +12,41 @@ tags:
 
 # {{ $frontmatter.title }}
 
+<ChTabs position="bottom">
+	<ChTab title="唐衫">
+		<Ch src='/images/characters/special811/normal.png' position='right'/>
+		<ChName nameZh='唐衫' nameEn='Tang Shan' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					小旋風
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[唐守鴻]] (師父)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+
 > 「我想拜的不是別派，就是唐門！甘受唐門戒律，到宗祠前領罰懺悔，入毒沙缸、走草地，絕無怨言。」
 
 廣州唐門弟子，為師[[唐守鴻]]。外號「小旋風」，在廣州一帶行俠仗義，是有名的後起之秀。自小聽說唐門威名，心生嚮往，早有投師學藝之心。恰逢唐守鴻旅居廣州，便去拜師，不知其非唐門正宗。

@@ -12,6 +12,37 @@ tags:
 
 # {{ $frontmatter.title }}
 
-崆峒派鐵拳掌門，為人熱心爽朗，門人都稱他雷大哥。閒來沒事便愛說鬼故事嚇唬年輕弟子，是以鐵拳門人無一不信世上真有魑魅魍魎，尤以小竹為最。
+<ChTabs position="bottom">
+	<ChTab title="雷謙">
+		<Ch src='/images/characters/special804/normal.png' position='right'/>
+		<ChName nameZh='雷謙' nameEn='Lei Qian' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[郁竹]] (嫡傳女弟子)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
 <br><br>
-<BookItemIcon :size="`small`" :no="8004">十八種奇兵鍛法雜記</BookItemIcon>的作者。
+
+崆峒派鐵拳掌門，自稱洒家，為人熱心爽朗，門人都稱他雷大哥。
+<br><br>
+閒來沒事便愛說鬼故事嚇唬年輕弟子，是以鐵拳門人無一不信世上真有魑魅魍魎，尤以[[郁竹|小竹]]為最。
+
+## 備註
+- [[十八種奇兵鍛法雜記]]的作者

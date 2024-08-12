@@ -6,10 +6,53 @@ tags:
 aside: false
 ---
 
-# 蒼松劍客 葉雲舟
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="葉雲舟">
+		<Ch src='/images/characters/special3/normal.png' position='right'/>
+		<ChName nameZh='葉雲舟' nameEn='Ye Yun Zhou' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					蒼松劍客
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[點蒼雙尊|觀雲客]] (掌門)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[葉雲裳]] (妹妹)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
 
 身穿點蒼派服飾的年輕劍客。  
-好像在哪兒聽過這個名字，不過你記不得了。不知為何要以斗笠掩藏面目，觀其面目俊美，似乎也不像江洋大盜
+好像在哪兒聽過這個名字，不過你記不得了。不知為何要以斗笠掩藏面目，觀其面目俊美，似乎也不像江洋大盜。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">

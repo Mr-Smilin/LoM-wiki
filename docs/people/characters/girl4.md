@@ -7,15 +7,73 @@ tags:
 aside: false
 ---
 
-# 上官千金 上官螢
+# {{ $frontmatter.title }}
 
 ::: info
 這個角色的劇情尚未完成，無法正常攻略！
 :::
 
+<ChTabs position="bottom">
+	<ChTab title="上官螢">
+		<Ch src='/images/characters/girl_4/normal.png' position='right'/>
+		<ChName nameZh='上官螢' nameEn='Shang Guan Ying' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					女
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					上官千金
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[上官隼]] (父親)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮深]] (婚約)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[魏菊]] (同學)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[書蓉]] (前丫鬟)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[樂屏]] (情敵)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
+
 武林三大世家，世居福州的上官家獨女，方今武林知名的美人。  
 個性驕傲好強，雖是千金名媛，卻不甘養於深閨，年紀輕輕便代父操持上官家業。  
 巾幗不讓鬚眉，手腕高明，將偌大家業經營得好生興旺。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
@@ -31,3 +89,7 @@ aside: false
 	將自家御貢的茶葉送給對方，二人均對傳說中的杏花仙抱持著敬畏的心情。
   </Tab>
 </Tabs>
+
+## 備註
+
+- 與[[魏菊]]、[[南宮深]]為耕陽讀書齋的同窗好友

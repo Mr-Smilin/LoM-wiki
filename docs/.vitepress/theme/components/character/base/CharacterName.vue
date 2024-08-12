@@ -37,7 +37,7 @@ export default {
 <style scoped>
 .character-details {
   position: absolute;
-  bottom: 5px;
+  top: 5px;
   text-align: center;
   padding: 20px;
 }

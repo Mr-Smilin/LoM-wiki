@@ -21,8 +21,13 @@
       <img v-for="(src, index) in preloadImages" :key="index" :src="src" class="preload-image" alt="preload" />
     </div>
   </div>
-  <div v-if="isMobile" class="mobile-tables">
-    <slot name="tables"></slot>
+  <div v-if="isMobile" class="mobile-content">
+    <component
+      v-for="(item, index) in mobileItems"
+      :key="index"
+      :is="item.component"
+      v-bind="item.props"
+    />
   </div>
 </template>
   
@@ -42,6 +47,7 @@
       const tabs = ref([]);
       const preloadImages = ref([]);
       const isMobile = ref(false);
+      const mobileItems = ref([]);
   
       function registerTab(tab) {
         tabs.value.push(tab);
@@ -57,6 +63,10 @@
           preloadImages.value.push(src);
         }
       }
+
+      const addMobileItem = (component, props) => {
+        mobileItems.value.push({ component, props });
+      };
       
       const checkMobile = () => {
         isMobile.value = window.innerWidth <= 768; 
@@ -66,6 +76,7 @@
       provide('selectedIndex', selectedIndex);
       provide('preloadImage', preloadImage);
       provide('isMobile', isMobile);
+      provide('addMobileItem', addMobileItem);
 
       onMounted(() => {
         const containers = document.querySelectorAll('.particle-container');
@@ -112,7 +123,8 @@
         selectTab,
         tabsPosition: computed(() => props.position === 'bottom' ? 'tabs-bottom' : 'tabs-top'),
         preloadImages,
-        isMobile
+        isMobile,
+        mobileItems
       };
     }
   };
@@ -173,9 +185,27 @@
     position: relative;
     /* height: 100%; */
   }
-  </style>
-  
-  <style>
+  .preload-container {
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+  }
+
+  .preload-image {
+    width: 1px;
+    height: 1px;
+    opacity: 0.01;
+  }
+
+  .mobile-content {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+</style>
+
+<style>
   .particle-basic{
     position: absolute;
     bottom: 0;
@@ -208,18 +238,6 @@
   }
   
 
-  .preload-container {
-    position: absolute;
-    width: 0;
-    height: 0;
-    overflow: hidden;
-  }
-
-  .preload-image {
-    width: 1px;
-    height: 1px;
-    opacity: 0.01;
-  }
 
   @media (max-width: 768px) {
     .mobile-tables {

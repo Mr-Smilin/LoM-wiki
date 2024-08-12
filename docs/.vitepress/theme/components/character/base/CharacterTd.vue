@@ -20,7 +20,7 @@ export default {
         }
 	},
 	setup(props){
-        const slots = useSlots()
+        const slots = useSlots();
         const slotContent = ref('');
         if (slots.default) {
             slotContent.value = slots.default().map(node => { 

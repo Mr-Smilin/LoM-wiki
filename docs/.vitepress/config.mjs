@@ -7,15 +7,17 @@ import {
 	GitChangelogMarkdownSection,
 } from "@nolebase/vitepress-plugin-git-changelog/vite";
 
+const baseUrl = "/LoM-wiki/";
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 	title: "活俠傳wiki", // 站點名稱
 	// titleTemplate: "", title | titleTemplate
 	description: "Legend of Mortal Wiki", // 站點敘述
 	lang: "zh-TW", // 站點語系
-	base: "/LoM-wiki/", // 站點子目錄
+	base: baseUrl, // 站點子目錄
 	sitemap: {
-		hostname: "https://smilin.net/LoM-wiki/",
+		hostname: `https://smilin.net${baseUrl}`,
 	},
 	appearance: "dark", // 默認深色主題
 	lastUpdated: true, // 是否使用 Git 获取每个页面的最后更新时间戳
@@ -60,7 +62,7 @@ export default defineConfig({
 					},
 					{ text: "風雲史(成就)", link: "/event/achievements" },
 					{ text: "生死簿", link: "/event/badends" },
-					{ text: "汗青書(編輯中)", link: "/event/ends" },
+					{ text: "汗青書", link: "/event/ends" },
 				],
 				activeMatch: "/event/",
 			},
@@ -319,8 +321,11 @@ export default defineConfig({
 		[
 			"link",
 			{
-				href: "https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap",
-				rel: "stylesheet",
+				rel: "preload",
+				href: `${baseUrl}font/SourceHanSerifTW-Bold.otf`,
+				as: "font",
+				type: "font/otf",
+				crossorigin: "",
 			},
 		],
 	],

@@ -3,7 +3,7 @@
 	<div class="not-found-container">
 		<div class="not-found-content">
             <div class="img-container">
-                <img :src="content.image">
+                <img :src="content.image" :style="{marginTop: content.marginTop? content.marginTop + '%' : '0%'}">
             </div>
             <p>{{ content.name }}結緣機率：{{ showProbability }} % </p>
 			<p>{{ content.mainMessage }}</p>
@@ -24,6 +24,18 @@ export default {
             content: {},
             contents: [
                 {
+                    name: '小師妹',
+                    image: withBase(`/images/characters/girl_0/normal.png`),
+                    mainMessage: "抱歉，小師妹找不到回唐門的路。",
+                    subMessage: "啊⋯⋯，師兄可以揹我回唐門嗎？",
+                    customButton: {
+                        text: "你發現前方頁面壞了，只好去鍛冶場借工具修理。",
+                        link: withBase(`/develop/1-start`)
+                    },
+                    marginTop: -40, // 圖片偏移值, 負數表向上移動
+                    checkValue: 1000000 * 0.2122  //檢定值
+                },
+                {
                     name: '葉小妹',
                     image: withBase(`/images/characters/girl_2/gloomy2.png`),
                     mainMessage: "抱歉，葉小妹找不到你要的頁面。",
@@ -32,7 +44,8 @@ export default {
                         text: "經不起挑釁動手做",
                         link: withBase(`/develop/1-start`)
                     },
-                    checkValue: 1000000 * 0.8231  //檢定值
+                    marginTop: -40, // 圖片偏移值, 負數表向上移動
+                    checkValue: 1000000 * 0.7231  //檢定值
                 },
                 {
                     name: '雞腿俠',
@@ -43,6 +56,7 @@ export default {
                         text: "你感到無奈，只好重新做一頁餵她",
                         link: withBase(`/develop/1-start`)
                     },
+                    marginTop: -10, // 圖片偏移值, 負數表向上移動
                     checkValue: 1000000
                 }
             ],// 圖片名稱不可帶空格, #字符, 否則無法顯示。
@@ -57,7 +71,11 @@ export default {
         this.randomVariable = this.generateRandom(this.SAMPLE_SPACE);
 
         for (let i = 0; i < this.contents.length; i++) {
-            this.appendSampleSpace(this.contents[i].checkValue)
+            let leftValue = 0;
+            if (i > 0){
+                leftValue = this.contents[i-1].checkValue
+            }
+            this.appendSampleSpace(leftValue, this.contents[i].checkValue)
             // Calculate the checkValue of each content
             if (this.checkContentIndex(i)) {
                 this.setContentIndex(i);
@@ -83,13 +101,7 @@ export default {
         setContent() {
             this.content = this.contents[this.contentIndex]
         },
-        appendSampleSpace(rightValue) {
-            let leftValue = 0
-
-            if (this.sampleSpaceValueArray.length !== 0) {
-                leftValue = this.sampleSpaceValueArray[this.sampleSpaceValueArray.length - 1]
-            }
-
+        appendSampleSpace(leftValue, rightValue) {
             this.sampleSpaceValueArray.push(rightValue - leftValue)
         },
         checkContentIndex(index) {
@@ -115,7 +127,7 @@ export default {
             }
 
             // 四捨五入到第二位
-            return (this.getSampleSpaceValue(index) / this.SAMPLE_SPACE).toFixed(4) * 100;
+            return (this.getSampleSpaceValue(index) / this.SAMPLE_SPACE * 100).toFixed(2);
         }
     }
 }

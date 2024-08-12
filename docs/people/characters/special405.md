@@ -3,13 +3,68 @@ title: 申屠龍
 tags:
  - 人物
  - 青城派
+ - 千燈樓
+ - 極樂教
 aside: false
 ---
 
-# 逸塵道子 申屠龍
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="申屠龍">
+		<Ch src='/images/characters/special405/normal.png' position='right'/>
+		<ChName nameZh='申屠龍' nameEn='Shen Tu Long' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					逸塵道子
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[鄒博]] (掌門)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[李仁友]] (前世)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[金烏上人]] (手下)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[虞小梅]] (手下)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
 
 青城派的修真道士，年紀雖輕，輩份卻高，是青城前任掌門的關門弟子。  
 面目清俊，隨和儒雅，不修道法時多在山中閒遊，不太理會江湖事，極少與人爭執，只在青城派自家月考時顯露武功，饒是如此，名聲依然默默的傳開。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
@@ -18,3 +73,8 @@ aside: false
 	要說世上真有什麼稱得上邪惡，那便是人。
   </Tab>
 </Tabs>
+
+## 備註
+
+- 青城道士以降妖除魔為己任，但申屠龍壓根不信世上有妖怪，唯一一次信念動搖，是碰見[[趙活]]的時候，他當時害怕極了
+- 實為極樂教主[[李仁友]]以《九轉輪迴大法》奪舍肉身，轉世重生

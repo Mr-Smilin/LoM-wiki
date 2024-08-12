@@ -6,10 +6,68 @@ tags:
 aside: false
 ---
 
-# 南宮深
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="南宮深">
+		<Ch src='/images/characters/special102/normal.png' position='right'/>
+		<ChName nameZh='南宮深' nameEn='Nan Gong Shen' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					南宮大公子
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮橫]] (爺爺)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮遠]] (父親)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮淺]] (弟弟)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[上官螢]] (婚約)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[魏菊]] (同學)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
 
 南宮世家的嫡長大公子。  
 集萬千矚目於一身，承襲家學，儒雅翩翩，四藝皆全，不止江湖人面廣闊，在文人雅士圈中亦頗有人脈。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
@@ -27,5 +85,8 @@ aside: false
   </Tab>
 </Tabs>
 
+## 備註
+
 - 待人兩極，痛恨無力之人，反之有實力被欣賞態度會完全不一樣
 - 管吃管喝~~管嫖~~
+- 與[[魏菊]]、[[上官螢]]為耕陽讀書齋的同窗好友

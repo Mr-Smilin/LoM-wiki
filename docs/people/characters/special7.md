@@ -6,7 +6,43 @@ tags:
 aside: false
 ---
 
-# 飛石幫主 石公遠
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="石公遠">
+		<Ch src='/images/characters/special7/normal.png' position='right'/>
+		<ChName nameZh='石公遠' nameEn='Shi Gong Yuan' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					飛石幫主
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[石夫人]] (妻子)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
 
 飛石幫主，形貌剽悍的豪傑。  
 起初是落草於茂州的土匪，成親後金盆洗手，不再滋擾民生，轉而租賃人力包攬粗活，飛石幫名聲漸響，隱然能與三大幫派分庭抗禮。

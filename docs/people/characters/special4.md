@@ -6,10 +6,53 @@ tags:
 aside: false
 ---
 
-# 狂犬 樊嘯天
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="樊嘯天">
+		<Ch src='/images/characters/special4/normal.png' position='right'/>
+		<ChName nameZh='樊嘯天' nameEn='Fan Xiao Tian' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					女
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					狂犬
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[王二壯]] (幫主)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[李富貴]] (阿叔)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
 
 來自丐幫的江湖後起新秀。  
 人稱「狂犬」，莫欺他個頭矮小，但凡動起手來就是拼命，不僅外人怕他，就連丐幫中人亦不敢隨意招惹這瘋狂小子。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">

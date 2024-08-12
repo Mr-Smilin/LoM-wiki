@@ -10,6 +10,44 @@ tags:
 
 # {{ $frontmatter.title }}
 
+<ChTabs position="bottom">
+	<ChTab title="袁無憲">
+		<Ch src='/images/characters/special823/normal.png' position='right'/>
+		<ChName nameZh='袁無憲' nameEn='Yuan Wu Xian' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[袁乘風]] (父親)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[荊紅]] (同伴)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮淺]] (仇人)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
+
 極樂七仙之一，「風中奇猿」[[袁乘風]]之子。
 <br><br>
 母親被袁乘風毀容後，懷著身孕逃往錦香宮去避難，途中把袁無憲產在河裡沖走，他被山中猴兒撿去養活，又被獵人捉，輾轉流落到金國，和猴子關在一個籠裡沿街雜耍，總算沒餓死。

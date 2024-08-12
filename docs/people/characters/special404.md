@@ -7,10 +7,53 @@ tags:
 aside: false
 ---
 
-# 道法將軍 丹霞子
+# {{ $frontmatter.title }}
 
-崆峒派·飛天門掌門火龍仙君座下的大弟子。  
+<ChTabs position="bottom">
+	<ChTab title="丹霞子">
+		<Ch src='/images/characters/special404/normal.png' position='right'/>
+		<ChName nameZh='丹霞子' nameEn='Dan Xia Zi' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					道法將軍
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[火龍仙君]] (師父)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[趙方]] (戰友)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
+
+崆峒派·飛天門掌門[[火龍仙君]]座下的大弟子。  
 亦是襄陽戰場聲名赫赫的「道法將軍」，百戰不殆，為宋國軍民仰仗，為金國兵馬忌憚。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">

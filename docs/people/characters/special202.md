@@ -26,20 +26,10 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
-					年齡
-				</ChTd>
-				<ChTd>
-					不明
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd isTitle=true position='center'>
 					稱號
 				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					點蒼雙尊
+				<ChTd>
+					點蒼掌門<br>點蒼雙尊
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -68,19 +58,9 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
-					年齡
-				</ChTd>
-				<ChTd>
-					不明
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd isTitle=true position='center'>
 					稱號
 				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
+				<ChTd>
 					點蒼雙尊
 				</ChTd>
 			</ChTr>
@@ -102,4 +82,4 @@ tags:
 
 點蒼掌門觀雲客，還有他師弟聽海生，並稱點蒼雙尊。
 <br><br>
-二人練的是聯擊之術《陰陽雙劍》，又稱黑白劍。單一人並非敵手，但雙劍合璧卻非同小可，當年點蒼劍聖都嚐過敗績，饒是峨嵋掌門[向無憂](special408)亦不敢攖其鋒芒。
+二人練的是聯擊之術《陰陽雙劍》，又稱黑白劍。單一人並非敵手，但雙劍合璧卻非同小可，當年[[無名|點蒼劍聖]]都嚐過敗績，饒是峨嵋掌門[向無憂](special408)亦不敢攖其鋒芒。

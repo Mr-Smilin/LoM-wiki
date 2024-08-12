@@ -227,17 +227,17 @@ tags:
   <ChTab title="debug">
     <ChC 
       src='/images/characters/girl_8/girl8_drumstick.png' 
-      position='right'
+      nameTitle='小師妹'
+      nameMain='唐默鈴'
+      desc='aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
       :animation=true />
   </ChTab>
   <ChTab title="debug">
-    <Ch src='/images/characters/girl_8/laugh2.png'
-          position='left'
-          :animation=true />
-    <ChName 
-      nameZh='小師妹'
-      nameEn='唐默鈴'
-      position='classic'/>
+    <ChC 
+      src='/images/characters/girl_8/normal.png' 
+      nameMain='龍湘'
+      desc='師承錦香宮，劍法精絕的清麗佳人。<br>踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。'
+      :animation=false />
   </ChTab>
   <ChTab title="戰鬥">
     <Ch src='/images/characters/girl_8/angry3.png'

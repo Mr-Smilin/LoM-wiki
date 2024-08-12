@@ -9,11 +9,82 @@ tags:
 aside: false
 ---
 
-![夏侯蘭](/images/characters/girl_5/icon_girl5.png)
+# {{ $frontmatter.title }}
 
-# 奪魄幽蘭 夏侯蘭
+<ChTabs position="bottom">
+	<ChTab title="夏侯蘭">
+		<Ch src='/images/characters/girl_5/normal.png' position='right'/>
+		<ChName nameZh='夏侯蘭' nameEn='Xia Hou Lan' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					女
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					奪魄幽蘭
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[勾魂叟]] (代理掌門)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[第三香]] (前夫)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[呼延菊]] (故友)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[虞小梅]] (崆峒四姝)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[郁竹]] (崆峒四姝)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[魏菊]] (崆峒四姝)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[唐布衣]] (前旅伴)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[解無塵]] (前旅伴)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
 
 崆峒派‧奪魄門當代的嫡傳女弟子，江湖人稱奪魄幽蘭，惡名昭彰的女魔頭，行事作風狠辣乖戾，幽居在不見天日的奪魄森林中，生人勿近。
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
@@ -58,5 +129,11 @@ aside: false
   </Tab>
 </Tabs>
 
--   ~~能同時成為你師父、母親、妻子的女人。~~
--   ~~口桀口桀，我要妻師魅祖啊！~~
+## 備註
+
+- 江湖第一美人，~~能同時成為你師父、母親、妻子的女人~~
+- ~~口桀口桀，我要妻師魅祖啊！~~
+- 攻略時建議學[[龍吟功]]，西武林線有驚喜
+- 曾和[[唐布衣]]、[[解無塵]]和其他兩人一起旅行，圍毆擊敗極樂左使
+- 若與[[趙活]]成婚，婚後產下一男一女，子女都像娘親，極度寵溺
+- 為了孩子教育，某日，出門捉了[[魏菊]]擔任夫子

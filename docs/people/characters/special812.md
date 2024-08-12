@@ -11,6 +11,52 @@ tags:
 
 # {{ $frontmatter.title }}
 
+<ChTabs position="bottom">
+	<ChTab title="唐守鴻">
+		<Ch src='/images/characters/special812/normal.png' position='right'/>
+		<ChName nameZh='唐守鴻' nameEn='Tang Shou Hong' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					佛手香
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[唐中翎]] (師弟)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[唐衫]] (弟子)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[釋明]] (合作)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
+
 外號「佛手香」，[[唐中翎]]的師兄。昔年唐門有難，罔顧恩義，叛逃下山獨善其身的叛徒。
 <br><br>
 下山後旅居廣州，將[[唐衫]]收入門牆，創廣州唐門。見蜀中唐門沒落，與[[釋明]]、上官世家合作，想篡位唐門，被擊敗後行蹤不明。
