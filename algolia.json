@@ -12,24 +12,11 @@
       },
       "lvl1": ".content h1",
       "lvl2": ".content h2",
-      "lvl3": ".content h3",
-      "lvl4": ".content h4",
-      "lvl5": ".content h5",
-      "content": ".content div, .content p, .content li, .content span, .content td, .content th, .content code, .content pre",
+      "content": ".content p, .content li, .content span, .content td, .content th, .content code, .content pre",
       "lang": {
         "selector": "/html/@lang",
         "type": "xpath",
         "global": true
-      },
-      "image_url": {
-        "selector": ".content img",
-        "type": "css",
-        "attribute": "src"
-      },
-      "image_alt": {
-        "selector": ".content img",
-        "type": "css",
-        "attribute": "alt"
       }
     },
     "custom_settings": {
@@ -38,11 +25,10 @@
         "hierarchy",
         "content",
         "anchor",
-        "url",
-        "image_url",
-        "image_alt"
+        "url"
       ],
-      "attributesToSnippet": ["content:10"]
+      "attributesToSnippet": ["content:10"],
+      "attributesToHighlight": ["content"]
     },
     "strip_chars": " .,;:#",
     "scrape_start_urls": false
