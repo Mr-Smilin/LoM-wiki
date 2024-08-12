@@ -282,6 +282,8 @@ export default defineConfig({
 						},
 						searchParameters: {
 							distinct: true,
+							analytics: true,
+							clickAnalytics: true,
 						},
 					},
 				},
