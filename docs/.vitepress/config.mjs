@@ -237,27 +237,49 @@ export default defineConfig({
 		},
 
 		search: {
-			provider: "local",
+			// provider: "local",
+			provider: "algolia",
 			options: {
 				locales: {
 					root: {
 						translations: {
 							button: {
 								buttonText: "搜索",
-								// buttonAriaLabel: "搜索文檔",
+								buttonAriaLabel: "搜索文檔",
 							},
 							modal: {
-								noResultsText: "無法找到相關結果",
-								resetButtonTitle: "清除查詢條件",
+								// noResultsText: "無法找到相關結果",
+								// resetButtonTitle: "清除查詢條件",
+								searchBox: {
+									resetButtonTitle: "重新來過啦~",
+									resetButtonAriaLabel: "重新來過啦~",
+									cancelButtonText: "不要了啦",
+									cancelButtonAriaLabel: "不要了啦",
+								},
+								startScreen: {
+									recentSearchesTitle: "最近找過的喔",
+									noRecentSearchesText: "還沒找過東西喔 (>_<)",
+									saveRecentSearchButtonTitle: "記住這個~",
+									removeRecentSearchButtonTitle: "忘記這個~",
+									favoriteSearchesTitle: "最喜歡的搜尋",
+									removeFavoriteSearchButtonTitle: "不喜歡了啦",
+								},
+								errorScreen: {
+									titleText: "啊咧咧~搜尋結果跑哪去了? (・・?)",
+									helpText: "要不要檢查一下網路連接,或是再試一次呢? ヾ(･ω･*)ﾉ",
+								},
 								footer: {
-									selectText: "選擇",
-									navigateText: "切換",
-									closeText: "關閉",
+									selectText: "選好了",
+									navigateText: "換一個",
+									closeText: "掰掰~",
 								},
 							},
 						},
 					},
 				},
+				appId: "VKL8ERL4SG",
+				apiKey: "58ff8369479da3b9a19d85f1d3249c6a",
+				indexName: "docsearch",
 			},
 		},
 
