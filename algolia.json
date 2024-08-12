@@ -15,7 +15,7 @@
       "lvl3": ".content h3",
       "lvl4": ".content h4",
       "lvl5": ".content h5",
-      "content": ".content p, .content li, .content span, .content td, .content th, .content code, .content pre",
+      "content": ".content div, .content p, .content li, .content span, .content td, .content th, .content code, .content pre",
       "lang": {
         "selector": "/html/@lang",
         "type": "xpath",
@@ -24,33 +24,26 @@
       "image_url": {
         "selector": ".content img",
         "type": "css",
-        "global": false,
         "attribute": "src"
       },
       "image_alt": {
         "selector": ".content img",
         "type": "css",
-        "global": false,
         "attribute": "alt"
       }
     },
     "custom_settings": {
-      "attributesForFaceting": ["lang", "tags"],
+      "attributesForFaceting": ["lang"],
       "attributesToRetrieve": [
         "hierarchy",
         "content",
         "anchor",
         "url",
-        "url_without_anchor",
-        "type",
         "image_url",
         "image_alt"
       ],
       "attributesToSnippet": ["content:10"]
     },
     "strip_chars": " .,;:#",
-    "conversation_id": ["1651623801"],
-    "nb_hits": 10000,
-    "scrape_start_urls": false,
-    "debug": true
+    "scrape_start_urls": false
   }
