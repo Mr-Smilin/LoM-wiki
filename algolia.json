@@ -21,9 +21,17 @@
         "type": "xpath",
         "global": true
       },
-      "image": {
+      "image_url": {
         "selector": ".content img",
-        "type": "img"
+        "type": "css",
+        "global": false,
+        "attribute": "src"
+      },
+      "image_alt": {
+        "selector": ".content img",
+        "type": "css",
+        "global": false,
+        "attribute": "alt"
       }
     },
     "custom_settings": {
@@ -35,7 +43,8 @@
         "url",
         "url_without_anchor",
         "type",
-        "image"
+        "image_url",
+        "image_alt"
       ],
       "attributesToSnippet": ["content:10"]
     },
