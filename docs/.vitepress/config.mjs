@@ -1,3 +1,4 @@
+import "dotenv/config";
 import { defineConfig } from "vitepress";
 // 連結預覽
 import { InlineLinkPreviewElementTransform } from "@nolebase/vitepress-plugin-inline-link-preview/markdown-it";
