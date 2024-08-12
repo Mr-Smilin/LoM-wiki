@@ -362,6 +362,8 @@ export default defineConfig({
 			"link",
 			{
 				// rel: "preload",
+				// rel: "stylesheet",
+				rel: "prefetch",
 				href: `${baseUrl}font/SourceHanSerifTW-Bold.otf`,
 				as: "font",
 				type: "font/otf",
@@ -372,6 +374,8 @@ export default defineConfig({
 			"link",
 			{
 				// rel: "preload",
+				// rel: "stylesheet",
+				rel: "prefetch",
 				href: `${baseUrl}font/SourceHanSerifTW-Regular.otf`,
 				as: "font",
 				type: "font/otf",
@@ -382,6 +386,8 @@ export default defineConfig({
 			"link",
 			{
 				// rel: "preload",
+				// rel: "stylesheet",
+				rel: "prefetch",
 				href: `${baseUrl}font/DFXingShuStd-W5.otf`,
 				as: "font",
 				type: "font/otf",
