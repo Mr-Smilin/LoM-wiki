@@ -8,6 +8,7 @@
 .temp
 .vite_opt_cache
 .vscode
+.env
 dist
 cache
 temp

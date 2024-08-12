@@ -280,7 +280,7 @@ export default defineConfig({
 				},
 				appId: process.env.ALGOLIA_ID,
 				apiKey: process.env.ALGOLIA_KEY,
-				indexName: baseUrl,
+				indexName: "LoM_wiki",
 			},
 		},
 
