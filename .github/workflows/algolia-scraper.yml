@@ -1,0 +1,23 @@
+name: Algolia DocSearch Scraper
+on:
+  push:
+    branches: [main] # 根據需要調整分支名稱
+  schedule:
+    - cron: "0 0 * * *" # 每天午夜運行
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Get the content of algolia.json as config
+        id: algolia_config
+        run: echo "::set-output name=config::$(cat algolia.json | jq -r tostring)"
+
+      - name: Run algolia/docsearch-scraper
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_ID }}
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_KEY }}
+          CONFIG: ${{ steps.algolia_config.outputs.config }}
+        uses: algolia/docsearch-scraper-action@v1
