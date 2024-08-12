@@ -2,7 +2,7 @@
 import { ref, onMounted } from "vue";
 import { useRouter } from "vitepress";
 
-const envId = "https://twikoo-db.netlify.app/.netlify/functions/twikoo";
+const envId = "https://mr-smilin-twikoo-api.hf.space";
 const twikooJs = ref(null);
 const router = useRouter();
 
