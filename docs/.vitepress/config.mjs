@@ -280,6 +280,9 @@ export default defineConfig({
 								},
 							},
 						},
+						searchParameters: {
+							distinct: true,
+						},
 					},
 				},
 				appId: process.env.ALGOLIA_ID,
