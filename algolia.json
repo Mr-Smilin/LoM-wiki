@@ -15,16 +15,29 @@
       "lvl3": ".content h3",
       "lvl4": ".content h4",
       "lvl5": ".content h5",
-      "text": ".content p, .content li, .content sapn, .content div",
-      "content": ".content p, .content li, .content sapn, .content div",
+      "text": ".content p, .content li, .content span, .content div",
+      "content": ".content p, .content li, .content span, .content div",
       "lang": {
         "selector": "/html/@lang",
         "type": "xpath",
         "global": true
+      },
+      "image": {
+        "selector": ".content img",
+        "type": "img"
       }
     },
     "custom_settings": {
-      "attributesForFaceting": ["lang", "tags"]
+      "attributesForFaceting": ["lang", "tags"],
+      "attributesToRetrieve": [
+        "hierarchy",
+        "content",
+        "anchor",
+        "url",
+        "url_without_anchor",
+        "type",
+        "image"
+      ]
     },
     "strip_chars": " .,;:#",
     "conversation_id": ["1651623801"],
