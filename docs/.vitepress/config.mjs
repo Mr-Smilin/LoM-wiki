@@ -244,11 +244,11 @@ export default defineConfig({
 					root: {
 						placeholder: "在這輸入喔",
 						translations: {
+							button: {
+								buttonText: "搜索喔",
+								buttonAriaLabel: "搜索喔",
+							},
 							modal: {
-								button: {
-									buttonText: "點這裡搜索喔",
-									buttonAriaLabel: "開始尋寶囉~",
-								},
 								searchBox: {
 									resetButtonTitle: "重新來過啦~",
 									resetButtonAriaLabel: "重新來過啦~",
