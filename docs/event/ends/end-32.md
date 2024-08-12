@@ -91,6 +91,7 @@ tags:
   + 守[[唐陞|三師兄]]：寡不敵眾被點穴活捉．(排除在結緣優先度外)
 + <Girl5Icon>夏侯蘭</Girl5Icon>：帶著主角的屍體回到雪山燒盡一切自盡．
   + (若[[樊嘯天]]拜師<Girl5Icon>夏侯蘭</Girl5Icon>可能有差異，待未來開放確認)
+
 ※殉志而死結局結緣優先度(v1.0.3201.1)：<Girl3Icon>虞小梅</Girl3Icon>＞<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl4Icon>上官瑩</Girl4Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
 ### 排除在結緣優先度外
