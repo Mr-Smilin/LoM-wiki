@@ -15,8 +15,7 @@
       "lvl3": ".content h3",
       "lvl4": ".content h4",
       "lvl5": ".content h5",
-      "text": ".content p, .content li, .content span, .content div",
-      "content": ".content p, .content li, .content span, .content div",
+      "text": ".content p, .content li, .content span, .content div, .content td, .content th, .content code, .content pre",
       "lang": {
         "selector": "/html/@lang",
         "type": "xpath",
@@ -37,10 +36,12 @@
         "url_without_anchor",
         "type",
         "image"
-      ]
+      ],
+      "attributesToSnippet": ["content:10"]
     },
     "strip_chars": " .,;:#",
     "conversation_id": ["1651623801"],
     "nb_hits": 10000,
-    "scrape_start_urls": false
+    "scrape_start_urls": false,
+    "debug": true
   }
