@@ -98,6 +98,7 @@ tags:
 + <Girl5Icon>夏侯蘭</Girl5Icon>：根據[[樊嘯天]]是否拜師<Girl5Icon>夏侯蘭</Girl5Icon>有兩種劇情，影響傳奇文本．
   + [[樊嘯天]]拜師<Girl5Icon>夏侯蘭</Girl5Icon>：帶主角屍體回到雪山安葬，待[[樊嘯天|樊咲嫣]]出嫁後失蹤．
   + 未滿足前項條件：帶主角屍體回到雪山安葬，，守墓一生．
+
 <br>※慷慨就義結局結緣優先度(v1.0.3201.1)：<Girl8Icon>龍湘</Girl8Icon>＞<Girl4Icon>上官瑩</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
 ### 心繫對象
