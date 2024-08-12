@@ -238,7 +238,6 @@ export default defineConfig({
 		},
 
 		search: {
-			// provider: "local",
 			provider: "algolia",
 			options: {
 				locales: {
@@ -246,8 +245,6 @@ export default defineConfig({
 						placeholder: "在這輸入喔",
 						translations: {
 							modal: {
-								// noResultsText: "無法找到相關結果",
-								// resetButtonTitle: "清除查詢條件",
 								searchBox: {
 									resetButtonTitle: "重新來過啦~",
 									resetButtonAriaLabel: "重新來過啦~",
