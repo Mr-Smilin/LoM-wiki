@@ -8,12 +8,14 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    environment: github-pages
     steps:
       - uses: actions/checkout@v2
 
       - name: Prepare Algolia DocSearch config
         run: |
           echo '${{ secrets.ALGOLIA_CONFIG }}' > config.json
+          cat config.json  # 檢查配置檔案內容
 
       - name: Run DocSearch Scraper
         env:
@@ -23,5 +25,5 @@ jobs:
           docker run \
             -e APPLICATION_ID=$APPLICATION_ID \
             -e API_KEY=$API_KEY \
-            -e CONFIG="$(cat config.json)" \
+            -e CONFIG="$(cat config.json | jq -c .)" \
             algolia/docsearch-scraper
