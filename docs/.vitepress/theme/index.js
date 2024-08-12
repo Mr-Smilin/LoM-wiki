@@ -59,6 +59,7 @@ import InfoList from "./components/info/InfoList.vue";
 import Info from "./components/info/Info.vue";
 
 import "./styles/style.css";
+import "./styles/theme-transition.css";
 import "./styles/custom.css";
 import "./styles/borderless.css";
 import "./styles/twikoo.css";
