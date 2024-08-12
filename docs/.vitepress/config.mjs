@@ -243,11 +243,8 @@ export default defineConfig({
 			options: {
 				locales: {
 					root: {
+						placeholder: "在這輸入喔",
 						translations: {
-							button: {
-								buttonText: "搜索",
-								buttonAriaLabel: "搜索文檔",
-							},
 							modal: {
 								// noResultsText: "無法找到相關結果",
 								// resetButtonTitle: "清除查詢條件",
@@ -273,6 +270,12 @@ export default defineConfig({
 									selectText: "選好了",
 									navigateText: "換一個",
 									closeText: "掰掰~",
+								},
+								noResultsScreen: {
+									noResultsText: "晤...找不到啦 (;´･ω･)",
+									suggestedQueryText: "要不要試試這個呢?",
+									reportMissingResultsText: "咦?應該要有結果嗎?",
+									reportMissingResultsLinkText: "告訴人家吧!",
 								},
 							},
 						},
