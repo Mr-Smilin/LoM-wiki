@@ -44,26 +44,12 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Install dependencies
         run: npm ci # 或 pnpm install / yarn install / bun install
-      - name: Verify Secrets
-        run: |
-          echo "ALGOLIA_ID length: ${#ALGOLIA_ID}"
-          echo "ALGOLIA_KEY length: ${#ALGOLIA_KEY}"
-          if [ -z "$ALGOLIA_ID" ]; then
-            echo "ALGOLIA_ID is empty"
-            exit 1
-          fi
-          if [ -z "$ALGOLIA_KEY" ]; then
-            echo "ALGOLIA_KEY is empty"
-            exit 1
-          fi
-        env:
-          ALGOLIA_ID: ${{ secrets.ALGOLIA_ID }}
-          ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
       - name: Build with VitePress
         run: npm run docs:build # 或 pnpm docs:build / yarn docs:build / bun run docs:build
         env:
           ALGOLIA_ID: ${{ secrets.ALGOLIA_ID }}
           ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
+          GOOGLE_ANALYTICS: ${{ secrets.GOOGLE_ANALYTICS }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
