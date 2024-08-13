@@ -108,9 +108,9 @@ export default {
 
 .name {
     position: absolute;
-    top: 34%;
+    top: 30%;
     right: 5%;
-    line-height: 1em;
+    line-height: 1.2em;
     /* font-size: calc(1vw + 0.4em); */
     font-size: 22px;
     width: 40%;
