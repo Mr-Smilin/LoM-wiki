@@ -99,7 +99,13 @@ tags:
 				[假趙活登場](/event/simple/1-08-2-假趙活登場)<br>
 				</MarkdownWrapper>
 			</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[晁和入門](/event/simple/1-08-3-晁和入門)<br>
+				[晁和搞鬼事件集](/event/simple/1-08-3-晁和搞鬼事件集)<br>
+				[丐幫與嵩山打架](/event/simple/1-08-3-丐幫與嵩山打架)<br>
+				</MarkdownWrapper>
+			</td>
 		</tr>
 		<tr>
 			<td>九月</td>
