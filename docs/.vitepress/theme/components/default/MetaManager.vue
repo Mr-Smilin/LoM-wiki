@@ -11,6 +11,13 @@ onMounted(() => {
   origin.value = window.location.origin
 })
 
+function cleanUrl(...parts) {
+  return parts
+    .join('/')
+    .replace(/([^:]\/)\/+/g, '$1')
+    .replace(/\/$/,'')
+}
+
 function updateMetaTags() {
   if (typeof window === 'undefined') return
 
@@ -25,8 +32,8 @@ function updateMetaTags() {
   const locale = site.value.lang
   const tags = page.value.frontmatter.tags || []
   
-  const url = `${origin.value}${site.value.base}${page.value.relativePath}`
-  const image = `${origin.value}${site.value.base}${theme.value.logo.light}`
+  const url = cleanUrl(origin.value, site.value.base, page.value.relativePath)
+  const image = cleanUrl(origin.value, site.value.base, theme.value.logo.light)
 
 
   const ogTags = [
