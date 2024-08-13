@@ -189,7 +189,7 @@ export default {
 .background {
     position: relative;
     width: 100%;
-    height: 400px;
+    height: 100%;
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: center center;
