@@ -7,6 +7,7 @@ on:
 
 jobs:
   scrape:
+    if: github.repository == 'Mr-Smilin/LoM-wiki'
     runs-on: ubuntu-latest
     environment: github-pages
     steps:
