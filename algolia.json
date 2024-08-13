@@ -3,7 +3,7 @@
     "start_urls": ["https://smilin.net/LoM-wiki/"],
     "sitemap_urls": ["https://smilin.net/LoM-wiki/sitemap.xml"],
     "sitemap_alternate_links": true,
-    "stop_urls": [],
+    "stop_urls": ["https://smilin.net/LoM-wiki/develop.*"],
     "selectors": {
       "lvl0": {
         "selector": ".sidebar-heading.active, .VPNavBarMenuLink.active, .VPNavBarMenuGroup .VPNavBarMenuGroupButton.active",
