@@ -1,12 +1,19 @@
 <template></template>
 
 <script setup>
-import { onMounted, watch } from 'vue'
+import { onMounted, watch, ref } from 'vue'
 import { useData } from 'vitepress'
 
 const { site, theme, page } = useData()
+const origin = ref('')
+
+onMounted(() => {
+  origin.value = window.location.origin
+})
 
 function updateMetaTags() {
+  if (typeof window === 'undefined') return
+
   const head = document.head
   const existingOGTags = head.querySelectorAll('meta[property^="og:"], meta[property^="article:"]')
   existingOGTags.forEach(tag => tag.remove())
@@ -15,10 +22,11 @@ function updateMetaTags() {
   const description = page.value.frontmatter.description || site.value.description
   const siteName = site.value.title
   const type = "article"
-  const url = `${site.value.base}${page.value.relativePath}`
   const locale = site.value.lang
-  const image = theme.value.logo.light
   const tags = page.value.frontmatter.tags || []
+  
+  const url = `${origin.value}${site.value.base}${page.value.relativePath}`
+  const image = `${origin.value}${site.value.base}${theme.value.logo.light}`
 
 
   const ogTags = [
