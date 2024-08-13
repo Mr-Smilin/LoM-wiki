@@ -34,6 +34,14 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd isTitle=true>
+                    年齡
+                </ChTd>
+                <ChTd>
+                    推測25~27<br>(第一年)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
                     稱號
                 </ChTd>
                 <ChTd>
@@ -133,3 +141,8 @@ aside: false
 	那一日後，唐布衣洗心革面，決心為天下女子撐腰。
   </Tab>
 </Tabs>
+
+## 備註
+
+- 唐門飛俠、[[唐錚|辣手相公]]不到十歲就劫法場
+- 假設法場時兩人7~9歲，[[唐惟元]]是隔年大雪天撿到的，故可推論年齡約為25~27左右

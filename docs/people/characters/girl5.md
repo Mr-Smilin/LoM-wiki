@@ -40,7 +40,7 @@ aside: false
 					年齡
 				</ChTd>
 				<ChTd>
-					26~27 (第三年)
+					26 (第三年)
 				</ChTd>
 			</ChTr>
 			<ChTr>

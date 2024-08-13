@@ -34,6 +34,14 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd isTitle=true>
+                    年齡
+                </ChTd>
+                <ChTd>
+                    推測48<br>(第一年)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
                     稱號
                 </ChTd>
                 <ChTd>
@@ -130,3 +138,7 @@ aside: false
 	唐中翎如是道，那番話語深刻在心底，至今難忘。
   </Tab>
 </Tabs>
+
+## 備註
+
+- 年過而立才拜師，依[[唐惟元|四師兄]]撿到的日子算劫法場是約18年前，故推測48歲

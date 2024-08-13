@@ -39,6 +39,14 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
+					年齡
+				</ChTd>
+				<ChTd>
+					15 (第一年)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
 					身高
 				</ChTd>
 				<ChTd>
@@ -133,4 +141,5 @@ aside: false
 
 ## 備註
 
-- [[葉雲裳]]天資聰穎，僅靠小時候偷溜進去劍廬的片刻，便創了劍聖[[雲裳劍法|第四式]]
+- 與[[唐默鈴|小師妹]]年齡相仿，故推測十五歲
+- 天資聰穎，僅靠小時候偷溜進去劍廬的片刻，便創了劍聖[[雲裳劍法|第四式]]

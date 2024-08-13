@@ -43,7 +43,7 @@ aside: false
 					年齡
 				</ChTd>
 				<ChTd>
-					23 (遊戲第三年)
+					23 (第三年)
 				</ChTd>
 			</ChTr>
 			<ChTr>

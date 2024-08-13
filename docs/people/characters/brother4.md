@@ -25,6 +25,14 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd isTitle=true>
+                    年齡
+                </ChTd>
+                <ChTd>
+                    17 (第一年)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
                     稱號
                 </ChTd>
                 <ChTd>
@@ -101,3 +109,7 @@ aside: false
 	他總會在關鍵時候，若無其事出現在按理說不應該出現的地方，兜售你需要的商品，極端可疑。
   </Tab>
 </Tabs>
+
+## 備註
+
+- [[唐中翎|掌門]]曾說「隔年某日大雪天，撿到了惟元；再兩年，我有了鈴兒。」可知四師兄比小師妹大兩歲
