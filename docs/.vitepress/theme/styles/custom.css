@@ -12,7 +12,7 @@
 @media screen and (min-width: 960px) {
     .guide-page .has-sidebar,
     .guide-page .VPSidebar{
-        --vp-sidebar-width: 33.33vw;
+        --vp-sidebar-width: 500px;
     }
 
     .guide-page .VPSidebar .nav .group{
