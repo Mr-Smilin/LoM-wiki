@@ -5,7 +5,7 @@ import DefaultTheme from "vitepress/theme";
 import { defineAsyncComponent, provide } from "vue";
 import Twikoo from "./default/Twikoo.vue";
 import Borderless from "./default/Borderless.vue";
-import Tags from "./default/Tags.vue";
+import MetaManager from "./default/MetaManager.vue";
 
 const { Layout } = DefaultTheme;
 const NotFound = defineAsyncComponent(() => import("./default/NotFound.vue"));
@@ -43,7 +43,7 @@ provide('toggle-appearance', async (event) => {
 			<Borderless></Borderless>
 		</template>
 		<template #layout-bottom>
-			<Tags></Tags>
+			<MetaManager></MetaManager>
 		</template>
 	</Layout>
 </template>
