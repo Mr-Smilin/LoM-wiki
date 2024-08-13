@@ -7,7 +7,8 @@ import { useData } from 'vitepress'
 const { page } = useData()
 
 function updateTags() {
-    const existingMeta = document.querySelector('meta[property="article:tag"]')
+  const head = document.head
+  const existingMeta = head.querySelector('meta[property="article:tag"]')
   if (existingMeta) {
     existingMeta.remove()
   }
@@ -17,7 +18,13 @@ function updateTags() {
     const meta = document.createElement('meta')
     meta.setAttribute('property', 'article:tag')
     meta.setAttribute('content', tags.join(', '))
-    document.head.appendChild(meta)
+    
+    const descriptionMeta = head.querySelector('meta[name="description"]')
+    if (descriptionMeta) {
+      descriptionMeta.insertAdjacentElement('afterend', meta)
+    } else {
+      head.insertBefore(meta, head.firstChild)
+    }
   }
 }
 
