@@ -1,6 +1,6 @@
 <template>
     <div :class=getBackgroundClass() :style=getBackgroundUrl()>
-        <EndBook :no=no></EndBook>
+        <EndBook :no=no :imageSource=imageSource></EndBook>
         <div :class=getWordDivClass()>
             <div :class=getWordFlexClass()>
                 <EndTitle :title=title></EndTitle>
@@ -9,7 +9,7 @@
         </div>
     </div>
     <div :class=getMobileBookDivClass()>
-        <EndBook :no=no></EndBook>
+        <EndBook :no=no :imageSource=imageSource></EndBook>
     </div>
     <div :class=getMobileDivClass() :style="getBackgroundUrl()">
         <div :class=getMobileFlexClass()>
@@ -30,7 +30,7 @@ export default {
             type: String,
             default: '',
         },
-        context: {
+        imageSource: {
             type: String,
             default: '',
         }

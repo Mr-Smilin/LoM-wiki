@@ -28,6 +28,7 @@
     "estree-walker": "^2.0.2",
     "focus-trap": "^7.5.4",
     "hookable": "^5.5.3",
+    "html2canvas": "^1.4.1",
     "is-what": "^4.1.16",
     "magic-string": "^0.30.10",
     "mark.js": "^8.11.1",
