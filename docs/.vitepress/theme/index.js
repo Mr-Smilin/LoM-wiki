@@ -73,7 +73,7 @@ export default {
   extends: DefaultTheme,
   // 使用注入插槽的包装组件覆盖 Layout
   Layout: MyLayout,
-  enhanceApp({ app }) {
+  enhanceApp({ app, router, siteData }) {
     // import 連結預覽
     app.use(NolebaseInlineLinkPreviewPlugin);
     app.provide(InjectionKey, {

@@ -35,6 +35,14 @@ features:
     - icon: 🌟
       title: 這樣寫Wiki有甚麼意義嗎？
       details: 要一輩子寫Wiki是不可能的<br>但我還是想和大家寫一輩子Wiki<br>一輩子都不會再分開！
+tags:
+    - 活俠傳
+    - LoM
+    - wiki
+    - 攻略
+    - LegendOfMortal
+    - Legend
+    - Mortal
 ---
 
 <script setup>
