@@ -42,4 +42,12 @@ export default {
   align-items: center;
   overflow: hidden;
 }
+
+@media screen and (max-width: 768px) {
+    .tab-content {
+        height: 60vh;
+        max-height: 500px;
+        min-height: 400px;
+    }
+}
 </style>
