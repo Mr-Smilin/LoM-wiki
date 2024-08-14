@@ -13,9 +13,9 @@
     </div>
     <div class="tab-contents">
       <slot></slot>
-    </div>
-    <div :class="['particle-basic',tabsPosition]">
-      <div class="particle-container"></div>
+      <div :class="['particle-basic',tabsPosition]">
+        <div class="particle-container"></div>
+      </div>
     </div>
     <div class="preload-container">
       <img v-for="(src, index) in preloadImages" :key="index" :src="src" class="preload-image" alt="preload" />
@@ -191,7 +191,7 @@
     border: 2px solid #42b983;
   }
   
-  .tab-content {
+  .tab-contents {
     position: relative;
     /* height: 100%; */
   }
@@ -222,10 +222,6 @@
     left:0;
     width: 100%;
     z-index: -1;
-  }
-
-  .particle-basic.tabs-bottom{
-    bottom: 46px; 
   }
 
   .particle-container{
