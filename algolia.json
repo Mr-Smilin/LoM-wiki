@@ -14,7 +14,8 @@
       },
       "lvl1": ".content h1",
       "lvl2": ".content h2",
-      "content": ".content p, .content li, .content span, .content td, .content th, .content code, .content pre",
+      "lvl3": ".content h3",
+      "content": ".content p, .content li",
       "lang": {
         "selector": "/html/@lang",
         "type": "xpath",
