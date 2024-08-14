@@ -22,5 +22,6 @@ docs/.vitepress/cache
 docs/.vitepress/dist
 docs/other/news.md
 docs/public/json/contributors.json
+docs/public/json/badend_list.json
 docs/.vitepress/theme/script/wikiLinkIndex.js
 /docs/.vitepress/theme/components/private/text-characters-transition
