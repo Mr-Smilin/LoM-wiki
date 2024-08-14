@@ -17,7 +17,7 @@
       "lvl3": ".VPContent h3",
       "lvl4": ".VPContent h4",
       "lvl5": ".VPContent h5",
-      "content": ".VPContent p, .VPContent li, .VPContent span, .VPContent td, .VPContent th, .VPContent code, .VPContent pre",
+      "content": ".VPContent p, .VPContent li",
       "lang": {
         "selector": "/html/@lang",
         "type": "xpath",
