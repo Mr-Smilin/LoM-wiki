@@ -5,7 +5,7 @@
 <script>
 import {defineComponent, toRefs} from 'vue'
 import {withBase} from "vitepress";
-
+import json from "../../../../../../docs/public/json/badend_list.json"
 export default defineComponent({
     props: {
         size: {
@@ -43,6 +43,16 @@ export default defineComponent({
         const CHARACTER = 'badend';
         // if given href, use it directly
         if (no.value !== 0){
+
+            if (json.includes(no.value)){
+                console.log("json.includes(no.value):" + json.includes(no.value));
+                return {
+                    size: size.value,
+                    href: withBase(`/event/badends/badend-${no.value}`),
+                    character: CHARACTER
+                }
+            }
+
             return {
                 size: size.value,
                 href: withBase(`/event/badends/index#生死簿-No.${no.value}`),
