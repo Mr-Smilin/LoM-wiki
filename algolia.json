@@ -12,10 +12,12 @@
         "global": true,
         "default_value": "Documentation"
       },
-      "lvl1": ".content h1",
-      "lvl2": ".content h2",
-      "lvl3": ".content h3",
-      "content": ".content p, .content li",
+      "lvl1": ".VPContent h1",
+      "lvl2": ".VPContent h2",
+      "lvl3": ".VPContent h3",
+      "lvl4": ".VPContent h4",
+      "lvl5": ".VPContent h5",
+      "content": ".VPContent p, .VPContent li, .VPContent span, .VPContent td, .VPContent th, .VPContent code, .VPContent pre",
       "lang": {
         "selector": "/html/@lang",
         "type": "xpath",
