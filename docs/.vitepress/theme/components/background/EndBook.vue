@@ -1,7 +1,7 @@
 <template>
         <div :class=getBookClass() :style=getBookUrl()>
             <div :class=getBookName() :style=getBookNameUrl()></div>
-            <div :class=getBookCoverClass()  :style=getBookCoverUrl(no)></div>
+            <div :class=getBookCoverClass()  :style="getBookCoverUrl(no, imageSource)"></div>
         </div>
 </template>
 
@@ -12,6 +12,10 @@ export default {
         no: {
             type: Number
         },
+        imageSource: {
+            type: String,
+            default: ""
+        }
     },
     methods: {
         getBookUrl() {
@@ -22,7 +26,7 @@ export default {
         getBookClass() {
             return ['book-image', 'book'];
         },
-        getBookCoverUrl(no) {
+        getBookCoverUrl(no, imageSource) {
             let coverMapping = {
                 1: '/images/generic/background/pic_alchemy_event_001.png',
                 2: '/images/generic/background/pic_fortress_002.png',
@@ -75,6 +79,11 @@ export default {
                 49: '/images/generic/background/pic_treehouse_000.png',
                 50: '/images/generic/background/pic_treehouse_000.png',
             };
+            if (imageSource !== ""){
+                return {
+                    backgroundImage: `url('${withBase(imageSource)}')`
+                }
+            }
             let cover = coverMapping[no] ? coverMapping[no] : '';
 
             return {
@@ -99,6 +108,7 @@ export default {
 <style scoped>
 .book-image {
     display: inline-block;
+    position: relative;
     vertical-align: middle;
     align-content: center;
     justify-content: center;
@@ -133,8 +143,8 @@ export default {
 
 .bookname {
     position: absolute;
-    margin-top: 33px;
-    margin-left: 21px;
+    top: 33px;
+    left: 21px;
     z-index: 2;
     width: 40px;
     height: 96px;
@@ -144,8 +154,8 @@ export default {
 @media screen and (max-width: 768px) {
     .bookname {
         position: absolute;
-        margin-top: 48px;
-        margin-left: 24px;
+        top: 48px;
+        left: 24px;
         z-index: 2;
         width: 35px;
         height: 80px;
