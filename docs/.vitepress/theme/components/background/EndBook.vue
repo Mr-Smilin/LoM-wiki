@@ -108,6 +108,7 @@ export default {
 <style scoped>
 .book-image {
     display: inline-block;
+    position: relative;
     vertical-align: middle;
     align-content: center;
     justify-content: center;
@@ -142,8 +143,8 @@ export default {
 
 .bookname {
     position: absolute;
-    margin-top: 33px;
-    margin-left: 21px;
+    top: 33px;
+    left: 21px;
     z-index: 2;
     width: 40px;
     height: 96px;
@@ -153,8 +154,8 @@ export default {
 @media screen and (max-width: 768px) {
     .bookname {
         position: absolute;
-        margin-top: 48px;
-        margin-left: 24px;
+        top: 48px;
+        left: 24px;
         z-index: 2;
         width: 35px;
         height: 80px;

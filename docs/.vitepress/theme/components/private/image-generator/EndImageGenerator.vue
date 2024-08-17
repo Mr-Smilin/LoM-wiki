@@ -39,7 +39,7 @@
     </div>
 </template>
 <script>
-    import html2canvas from 'html2canvas';
+    import domtoimage from 'dom-to-image';
     export default {
         data(){
             return {
@@ -66,14 +66,18 @@
             generateImage(){
                 let image_div = document.querySelector("#image-generator")
                 image_div.style.backgroundColor = '#111';
-                html2canvas(image_div).then(canvas => {
-                    let canvasChild = document.body.appendChild(canvas)
-                    const a = document.createElement("a");
-                    a.href = canvas.toDataURL("image/jpeg");
-                    a.download = this.getDownloadFileName();
-                    a.click();
-                    canvasChild.remove();
+
+                domtoimage.toJpeg(image_div)
+                .then((dataUrl) => {
+                    const link = document.createElement('a');
+                    link.download = this.getDownloadFileName();
+                    link.href = dataUrl;
+                    link.click();
+                })
+                .catch((error) => {
+                    console.error('oops, something went wrong!', error);
                 });
+                
                 return true;
             },
             clearData(){
