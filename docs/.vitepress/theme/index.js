@@ -68,8 +68,6 @@ import EndBackground from "./components/background/EndBackground.vue";
 import EndTitle from "./components/background/EndTitle.vue";
 import EndContext from "./components/background/EndContext.vue";
 import EndBook from "./components/background/EndBook.vue";
-// import ImageGenerator
-import EndImageGenerator from "./components/image-generator/EndImageGenerator.vue";
 
 export default {
     extends: DefaultTheme,
@@ -169,8 +167,5 @@ export default {
         app.component("EndTitle", EndTitle);
         app.component("EndContext", EndContext);
         app.component("EndBook", EndBook);
-
-        // ImageGenerator component
-        app.component("EndImageGenerator", EndImageGenerator);
     },
 };

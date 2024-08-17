@@ -39,10 +39,8 @@
     </div>
 </template>
 <script>
-    import MarkdownWrapper from "../tools/MarkdownWrapper.vue";
     import html2canvas from 'html2canvas';
     export default {
-        components: {MarkdownWrapper},
         data(){
             return {
                 imageSource: "",
