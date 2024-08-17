@@ -27,7 +27,8 @@
     </div>
     <MarkdownWrapper>---</MarkdownWrapper>
     <div>
-        請點選匯入圖片:
+        請點選匯入圖片: <br>
+        建議使用尺寸為 480 * 700 的圖片。
         <input type="file" id="file-upload" class="file-input" @change="handleImageUpload()">
     </div>
 </template>
@@ -59,7 +60,9 @@
                 return string;
             },
             generateImage(){
-                html2canvas(document.querySelector("#image-generator")).then(canvas => {
+                let image_div = document.querySelector("#image-generator")
+                image_div.style.backgroundColor = '#111';
+                html2canvas(image_div).then(canvas => {
                     let canvasChild = document.body.appendChild(canvas)
                     const a = document.createElement("a");
                     a.href = canvas.toDataURL("image/jpeg");
@@ -80,6 +83,7 @@
                 this.context = "終於輪你當主角，你的謝幕可歌可泣，世<br>" +
                     "上無人再敢看輕你。<br>" +
                     "<br>";
+                this.imageSource = "/images/generic/background/pic_end_0000.png";
                 document.getElementById("auto-line-break").checked = true;
                 return true;
             },
