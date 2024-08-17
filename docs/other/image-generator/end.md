@@ -1,6 +1,6 @@
 ---
-title: 汗青書圖片產生器
-description: 汗青書圖片產生器
+title: 汗青書(結局)圖片產生器
+description: 汗青書(結局)圖片產生器
 aside: false
 outline: [2, 3]
 sidebar: true

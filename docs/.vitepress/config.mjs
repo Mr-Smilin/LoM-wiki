@@ -82,7 +82,15 @@ export default defineConfig({
 							},
 						],
 					},
-					{ text: "圖片產生器", link: "/other/image-generator/end" },
+					{
+						text: "圖片產生器",
+						items: [
+							{
+								text: "汗青書(結局) 圖片產生器",
+								link: "/other/image-generator/end",
+							},
+						],
+					},
 					{ text: "唐門圖書館(google sheet)", link: "/other/lom-sheet" },
 				],
 				activeMatch: "/guide/",
