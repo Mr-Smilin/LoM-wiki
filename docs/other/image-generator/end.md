@@ -15,7 +15,9 @@ tags:
 
 ## {{ $frontmatter.title }}
 
-<EndImageGenerator></EndImageGenerator>
+<ClientOnly>
+    <EndImageGenerator></EndImageGenerator>
+</ClientOnly>
 
 <script setup>
 import EndImageGenerator from '/.vitepress/theme/components/private/image-generator/EndImageGenerator.vue'
