@@ -6,6 +6,11 @@
     </div>
     <MarkdownWrapper>---</MarkdownWrapper>
     <div>
+        註：本圖片產生器僅供推廣 活俠傳 (League of Mortal) 使用，<br>
+        請勿使用於商業用途。
+    </div>
+    <MarkdownWrapper>---</MarkdownWrapper>
+    <div>
         <div type="button" class="btn" @click="generateImage()">產生圖片</div>
         <div type="button" class="btn" @click="clearData()">清除全部資料</div>
         <div type="button" class="btn" @click="showExampleData()">帶入範本</div>
@@ -28,7 +33,8 @@
     <MarkdownWrapper>---</MarkdownWrapper>
     <div>
         請點選匯入圖片: <br>
-        建議使用尺寸為 480 * 700 的圖片。
+        建議使用尺寸為 480 * 700 的圖片。<br>
+        建議使用 PNG 格式的圖片, 透明背景的圖片效果會更好。<br>
         <input type="file" id="file-upload" class="file-input" @change="handleImageUpload()">
     </div>
 </template>
