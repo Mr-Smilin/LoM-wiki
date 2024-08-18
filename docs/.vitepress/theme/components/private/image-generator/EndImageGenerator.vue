@@ -1,7 +1,7 @@
 <template>
     <div id="image-generator">
         <EndBackground :imageSource="imageSource" :title="title">
-            {{ autoLineBreak(context) }}
+            {{ autoLineBreak(autoLineBreakTagReplace(context)) }}
         </EndBackground>
     </div>
     <MarkdownWrapper>---</MarkdownWrapper>
@@ -27,15 +27,18 @@
         <br>
         <textarea name="context-input" type="text" class="content-input" placeholder="請在此輸入內容" v-model="context"></textarea>
         <br>
-        <input type="checkbox" id="auto-line-break">
+        <input type="checkbox" id="auto-line-break" checked @change="triggerAutoLineBreak()">
         <label for="auto-line-break">內容自動換行</label>
+        <br>
+        <input type="checkbox" id="auto-line-break-tag-replace" @change="triggerAutoLineBreak()">
+        <label for="auto-line-break-tag-replace">&lt;br&gt;、&lt;/br&gt;自動取代</label>
     </div>
     <MarkdownWrapper>---</MarkdownWrapper>
     <div>
-        請點選匯入圖片: <br>
+        請點選匯入圖片:
+        <input type="file" id="file-upload" class="file-input" @change="handleImageUpload()"><br>
         建議使用尺寸為 480 * 700 的圖片。<br>
         建議使用 PNG 格式的圖片, 透明背景的圖片效果會更好。<br>
-        <input type="file" id="file-upload" class="file-input" @change="handleImageUpload()">
     </div>
 </template>
 <script>
@@ -57,9 +60,22 @@
                 this.imageSource = URL.createObjectURL(file);
                 return true;
             },
+            autoLineBreakTagReplace(string){
+                if (document.getElementById("auto-line-break-tag-replace")?.checked) {
+                    this.context = this.context.replace(/<br>|<\/br>/g, "\n");
+                    return string.replace(/<br>|<\/br>/g, "\n");
+                }
+                return string;
+            },
             autoLineBreak(string){
                 if (document.getElementById("auto-line-break")?.checked) {
-                    return string.replace(/<br>/g, "\n");
+                    let showString = string;
+                    let lineLength = 18;
+
+                    for (let i = 0, shift = 0; i < string.length + shift ; i = i + lineLength, shift++) {
+                        showString = showString.slice(0, i + shift+ lineLength) + "\n" + showString.slice(i + lineLength);
+                    }
+                    return showString;
                 }
                 return string;
             },
@@ -88,9 +104,8 @@
             },
             showExampleData(){
                 this.title = "君所願兮江湖行";
-                this.context = "終於輪你當主角，你的謝幕可歌可泣，世<br>" +
-                    "上無人再敢看輕你。<br>" +
-                    "<br>";
+                this.context = "終於輪你當主角，你的謝幕可歌可泣，世" +
+                    "上無人再敢看輕你。</br>";
                 this.imageSource = "/images/generic/background/pic_end_0000.png";
                 document.getElementById("auto-line-break").checked = true;
                 return true;
@@ -99,6 +114,11 @@
                 const d = new Date();
                 let text = d.toISOString();
                 return "LoM-"+ text +".jpeg";
+            },
+            triggerAutoLineBreak(){
+                this.context = this.context + " ";
+                this.context = this.context.substring(0, this.context.length - 1);
+                return true;
             }
         }
     };
