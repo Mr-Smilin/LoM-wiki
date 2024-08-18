@@ -27,10 +27,10 @@
         <br>
         <textarea name="context-input" type="text" class="content-input" placeholder="請在此輸入內容" v-model="context"></textarea>
         <br>
-        <input type="checkbox" id="auto-line-break" checked>
+        <input type="checkbox" id="auto-line-break" checked @change="triggerAutoLineBreak()">
         <label for="auto-line-break">內容自動換行</label>
         <br>
-        <input type="checkbox" id="auto-line-break-tag-replace" @change="changeAutoLineBreakTagReplace()">
+        <input type="checkbox" id="auto-line-break-tag-replace" @change="triggerAutoLineBreak()">
         <label for="auto-line-break-tag-replace">&lt;br&gt;、&lt;/br&gt;自動取代</label>
     </div>
     <MarkdownWrapper>---</MarkdownWrapper>
@@ -68,15 +68,13 @@
                 return string;
             },
             autoLineBreak(string){
-                // console.log("autoLineBreak start length:" + this.chineseLength(string))
                 if (document.getElementById("auto-line-break")?.checked) {
                     let showString = string;
                     let lineLength = 18;
 
                     for (let i = 0, shift = 0; i < string.length + shift ; i = i + lineLength, shift++) {
-                        showString = showString.slice(0, i + lineLength) + "\n" + showString.slice(i + lineLength);
+                        showString = showString.slice(0, i + shift+ lineLength) + "\n" + showString.slice(i + lineLength);
                     }
-                    // console.log("autoLineBreak end length:" + this.chineseLength(showString));
                     return showString;
                 }
                 return string;
@@ -117,13 +115,10 @@
                 let text = d.toISOString();
                 return "LoM-"+ text +".jpeg";
             },
-            changeAutoLineBreakTagReplace(){
+            triggerAutoLineBreak(){
                 this.context = this.context + " ";
                 this.context = this.context.substring(0, this.context.length - 1);
                 return true;
-            },
-            chineseLength(str){
-                return str.replace(/[^\x00-\xff]/g,"xx").length;
             }
         }
     };
