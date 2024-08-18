@@ -110,20 +110,20 @@ tags:
 		<tr>
 			<td>九月</td>
 			<td>
-				<li>捉山雞事件 & 可能遭遇龍湘</li>
-				<li>大師姑歸來</li>
-				<li>唐門例會</li>
-				<li>下山：遭遇大師姑</li>
+				<MarkdownWrapper>
+				[初識龍湘](/event/simple/1-09-1-初識龍湘)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>
-				<li>出公差事件(大師兄與龍湘打架)</li>
+				<MarkdownWrapper>
+				[四師兄抓公差](/event/simple/1-09-2-四師兄抓公差)<br>
+				[初識李富貴、樊嘯天](/event/simple/1-09-2-初識李富貴、樊嘯天)<br>
+				[初識福韞](/event/simple/1-09-2-初識福韞)<br>
+				</MarkdownWrapper>
 				<li>下山：龍湘被偷錢事件</li>
 			</td>
 			<td>
 				<li>段考</li>
-				<li>男弟子房：丐幫嵩山群架事件</li>
-				<li>下山：遭遇李富貴</li>
-				<li>下山：遭遇福蘊法師、許大鯨</li>
 			</td>
 		</tr>
 		<tr>
