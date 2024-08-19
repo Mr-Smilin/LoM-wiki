@@ -68,7 +68,7 @@ tags:
     <tr>
         <td id="風雲史-No.03">03</td>
         <td><AchievementIcon :size="`medium`" :no="`03`">懦夫救星</AchievementIcon></td>
-        <td>誰不想成為命運寵兒，出手掀番天地，回家妻妾成群。但你還得活著，必須清醒。</td>
+        <td>誰不想成為命運寵兒，出手掀翻天地，回家妻妾成群。但你還得活著，必須清醒。</td>
         <td>與大師兄一起下山，在之後的戰鬥中對上金烏上人，獲勝後被金烏打暈自動觸發取得。</td>
         <td></td>
         <td></td>
@@ -152,7 +152,7 @@ tags:
         <td id="風雲史-No.11">11</td>
         <td><AchievementIcon :size="`medium`" :no="`11`">分身</AchievementIcon></td>
         <td>你曾經那麼受歡迎過，應該死而無憾了吧？</td>
-        <td>在<Girl8Icon>龍湘</Girl8Icon>互稱姊弟且好感度4星、<Girl3Icon>小梅</Girl3Icon>好感2星以上加入唐門後，嘴力>=40且體力＜60，在大師兄下山回程時骰到「兩人都不放手」。</td>
+        <td>與<Girl8Icon>龍湘</Girl8Icon>互稱姊弟且好感度4星、且<Girl3Icon>小梅</Girl3Icon>好感2星以上加入唐門後，嘴力>=40且體力＜60，在大師兄下山回程時骰到「兩人都不放手」。</td>
         <td></td>
         <td></td>
     </tr>
@@ -194,7 +194,7 @@ tags:
     <tr>
         <td id="風雲史-No.15">15</td>
         <td><AchievementIcon :size="`medium`" :no="`15`">最後的暗器</AchievementIcon></td>
-        <td>不可防禦，無法迴避，直憾心靈。</td>
+        <td>不可防禦，無法迴避，直撼心靈。</td>
         <td>
             未組建西武林盟，第四年一月下旬第一場戰鬥勝利(不可三師兄陣亡)，<br>
             且成功與武林盟主決鬥(無關勝負)，即可取得。
@@ -214,7 +214,7 @@ tags:
         <td id="風雲史-No.17">17</td>
         <td><AchievementIcon :size="`medium`" :no="`17`">飛俠歸來</AchievementIcon></td>
         <td>他固有他的機緣，但若無你，飛俠歸來便遙遙無期。</td>
-        <td>在大師兄死後復活大師兄。</td>
+        <td>在大師兄死後復活大師兄。(多存個10命運點來用吧, 10命運點最簡單)</td>
         <td>下旬+1</td>
         <td>下旬+1 = 每月下旬行動次數+1</td>
     </tr>
