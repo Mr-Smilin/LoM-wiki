@@ -410,10 +410,10 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7010`">雪山心法</BookItemIcon></td>
-        <td>內力10<br>體力10<br>雪山心法LV5</td>
+        <td>內力12<br>體力10<br>雪山心法LV5</td>
         <td>50</td>
         <td></td>
-        <td>待確認途徑</td>
+        <td>崆峒留學－夏侯蘭支線去睡樹屋(夏侯蘭好感≧35，或選「我不要啦！」)給予</td>
         <td></td>
     </tr>
     <tr>
