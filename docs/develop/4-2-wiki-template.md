@@ -65,7 +65,10 @@ tags:
 
 目前提供少部分 Icon 與語法示例如下
 
-`<BadendIcon>`連結預設會跳入生死簿, 可用 :no 指定跳入編號。
+`<BadendIcon>`連結預設會跳入生死簿, 可用 :no 指定跳入編號。  
+目前部分會跳到生死簿的詳細頁面, 隨著釋出的頁面越多,  
+BadendIcon將會自動導入越來越多的詳細頁面。
+
 
 <br>
 
@@ -119,13 +122,13 @@ medium(中型) 圖案 76 px _ 88 px。
 
 ### 人物 Icon 懶人組件使用示例
 
-|                           語法                           | 效果                                                    |                        說明                         |
-| :------------------------------------------------------: | :------------------------------------------------------ | :-------------------------------------------------: |
-| `` <BadendIcon :size="`medium`">我是文字</BadendIcon> `` | <BadendIcon :size="`medium`">我是文字</BadendIcon>      |                    顯示中型 Icon                    |
-| `` <BadendIcon :size="`small`">我是文字</BadendIcon> ``  | <BadendIcon :size="`small`">我是文字</BadendIcon>       |                    顯示小型 Icon                    |
-|           `<BadendIcon>我是文字</BadendIcon>`            | <BadendIcon>我是文字</BadendIcon>                       |           採用預設大小, 預設為"\`small\`"           |
-|               `<BadendIcon></BadendIcon>`                | <BadendIcon></BadendIcon>                               |    不寫任何文字，採用預設大小, 預設為"\`small\`"    |
-| `<BadendIcon :no="30">生死簿30『清理門戶』</BadendIcon>` | <BadendIcon :no="30">生死簿 30『清理門戶』</BadendIcon> | no 用來連結生死簿的編號, 不使用則會跳到該頁最上面。 |
+|                           語法                           | 效果                                                    |              說明               |
+| :------------------------------------------------------: | :------------------------------------------------------ |:-----------------------------:|
+| `` <BadendIcon :size="`medium`">我是文字</BadendIcon> `` | <BadendIcon :size="`medium`">我是文字</BadendIcon>      |           顯示中型 Icon           |
+| `` <BadendIcon :size="`small`">我是文字</BadendIcon> ``  | <BadendIcon :size="`small`">我是文字</BadendIcon>       |           顯示小型 Icon           |
+|           `<BadendIcon>我是文字</BadendIcon>`            | <BadendIcon>我是文字</BadendIcon>                       |    採用預設大小, 預設為"\`small\`"     |
+|               `<BadendIcon></BadendIcon>`                | <BadendIcon></BadendIcon>                               | 不寫任何文字，採用預設大小, 預設為"\`small\`" |
+| `<BadendIcon :no="30">生死簿30『清理門戶』</BadendIcon>` | <BadendIcon :no="30">生死簿 30『清理門戶』</BadendIcon> | no 用來連結生死簿的編號, 不使用則會跳到生死簿最上面。 |
 
 ### 可用屬性寫法
 
@@ -134,9 +137,9 @@ medium(中型) 圖案 76 px _ 88 px。
 | size     | "\`medium\`" \| "\`small\`" | "\`small\`" |
 | no       | 0 <= no <= 90               | 0           |
 
-### 目前已可用組件：
+### 目前可用組件
 
--   `<BadendIcon>` : <BadendIcon>生死簿 (飲茶躺)</BadendIcon>, 預設點擊會跳到生死簿。
+-   `<BadendIcon>` : <BadendIcon>生死簿 (飲茶躺)</BadendIcon>, 部分預設點擊會跳到生死簿主頁對應位置，部分會跳到詳細頁面。
 -   `<EndIcon>` : <EndIcon>汗青書</EndIcon>, 不給 no, 預設點擊會跳到汗青書列表。
 -   `<EndIcon no="49">` : <EndIcon no="49">汗青書 49：喪家之犬</EndIcon>, 新增 no 會跳到指定編號的汗青書。
 
