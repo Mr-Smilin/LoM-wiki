@@ -25,6 +25,9 @@ hero:
         - theme: alt
           text: 協作Wiki
           link: /develop/1-start
+        - theme: alt
+          text: 汗青書(結局) 圖片產生器
+          link: /other/image-generator/end.html
 features:
     - icon: ❓
       title: 為什麼要製作 LoM-Wiki？
