@@ -71,11 +71,13 @@
                 if (document.getElementById("auto-line-break")?.checked) {
                     let showString = string;
                     let lineLength = 18;
+                    let lines = [];
 
-                    for (let i = 0, shift = 0; i < string.length + shift ; i = i + lineLength, shift++) {
-                        showString = showString.slice(0, i + shift+ lineLength) + "\n" + showString.slice(i + lineLength);
+                    for (let i = 0; i < string.length; i += lineLength) {
+                        lines.push(string.slice(i, i + lineLength));
                     }
-                    return showString;
+
+                    return lines.join('\n');
                 }
                 return string;
             },
