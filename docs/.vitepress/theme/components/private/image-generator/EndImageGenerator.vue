@@ -11,7 +11,7 @@
     </div>
     <MarkdownWrapper>---</MarkdownWrapper>
     <div>
-        <div type="button" class="btn" @click="generateImage()">產生圖片</div>
+        <div type="button" class="btn download-bnt" @click="generateImage()">產生圖片</div>
         <div type="button" class="btn" @click="clearData()">清除全部資料</div>
         <div type="button" class="btn" @click="showExampleData()">帶入範本</div>
     </div>
@@ -43,6 +43,7 @@
 </template>
 <script>
     import domtoimage from 'dom-to-image';
+    import { saveAs } from 'file-saver';
     export default {
         data(){
             return {
@@ -83,18 +84,16 @@
             generateImage(){
                 let image_div = document.querySelector("#image-generator")
                 image_div.style.backgroundColor = '#111';
+                let filename = this.getDownloadFileName();
 
-                domtoimage.toJpeg(image_div)
-                .then((dataUrl) => {
-                    const link = document.createElement('a');
-                    link.download = this.getDownloadFileName();
-                    link.href = dataUrl;
-                    link.click();
-                })
-                .catch((error) => {
+                domtoimage.toBlob(image_div)
+                    .then(function (blob) {
+                        window.saveAs(blob, filename);
+                    })
+                    .catch((error) => {
                     console.error('oops, something went wrong!', error);
                 });
-                
+
                 return true;
             },
             clearData(){
@@ -140,6 +139,14 @@
 
 .btn:hover {
     background-color: #0056b3;
+}
+
+.download-bnt{
+    background-color: #05af56;
+}
+
+.download-bnt:hover{
+    background-color: #047c45;
 }
 
 .title-input{
