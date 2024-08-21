@@ -27,6 +27,7 @@
     "entities": "^4.5.0",
     "esbuild": "^0.21.5",
     "estree-walker": "^2.0.2",
+    "file-saver": "^2.0.5",
     "focus-trap": "^7.5.4",
     "hookable": "^5.5.3",
     "is-what": "^4.1.16",
