@@ -149,6 +149,13 @@
     background-color: #047c45;
 }
 
+@media screen and (max-width: 768px){
+    .download-bnt{
+        background-color: #05af56;
+        display: none;
+    }
+}
+
 .title-input{
     margin: 10px;
     padding: 10px;
