@@ -11,6 +11,7 @@
     </div>
     <MarkdownWrapper>---</MarkdownWrapper>
     <div>
+        產生圖片功能暫不支援Safari瀏覽器與部分行動裝置<br>
         <div type="button" class="btn download-bnt" @click="generateImage()">產生圖片</div>
         <div type="button" class="btn" @click="clearData()">清除全部資料</div>
         <div type="button" class="btn" @click="showExampleData()">帶入範本</div>
@@ -147,13 +148,6 @@
 
 .download-bnt:hover{
     background-color: #047c45;
-}
-
-@media screen and (max-width: 768px){
-    .download-bnt{
-        background-color: #05af56;
-        display: none;
-    }
 }
 
 .title-input{
