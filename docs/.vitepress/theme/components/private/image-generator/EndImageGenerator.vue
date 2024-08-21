@@ -69,7 +69,6 @@
             },
             autoLineBreak(string){
                 if (document.getElementById("auto-line-break")?.checked) {
-                    let showString = string;
                     let lineLength = 18;
                     let lines = [];
 
