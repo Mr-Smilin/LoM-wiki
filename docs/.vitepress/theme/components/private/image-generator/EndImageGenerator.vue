@@ -44,6 +44,7 @@
 </template>
 <script>
     import domtoimage from 'dom-to-image';
+    // saveAs 有使用到, 請勿移除。
     import { saveAs } from 'file-saver';
     export default {
         data(){
