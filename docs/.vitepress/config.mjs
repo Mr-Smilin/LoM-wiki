@@ -232,6 +232,10 @@ export default defineConfig({
 							text: "關於命運",
 							link: "/other/guide/mechanism/destiny",
 						},
+						{
+							text: "關於四師兄商店",
+							link: "/other/guide/mechanism/brother4-selling",
+						},
 					],
 				},
 			],
