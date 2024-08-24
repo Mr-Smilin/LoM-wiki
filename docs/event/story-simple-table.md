@@ -119,8 +119,9 @@ tags:
 				[四師兄抓公差](/event/simple/1-09-2-四師兄抓公差)<br>
 				[初識李富貴、樊嘯天](/event/simple/1-09-2-初識李富貴、樊嘯天)<br>
 				[初識福韞](/event/simple/1-09-2-初識福韞)<br>
+				[佛法教育](/event/simple/1-09-2-佛法教育)<br>
+				[龍湘遭竊](/event/simple/1-09-2-龍湘遭竊)<br>
 				</MarkdownWrapper>
-				<li>下山：龍湘被偷錢事件</li>
 			</td>
 			<td>
 				<li>段考</li>
@@ -129,12 +130,14 @@ tags:
 		<tr>
 			<td>十月</td>
 			<td>
-				<li>唐門例會</li>
-				<li>二師兄煉藥事件(選擇二師兄禮物)</li>
+				<MarkdownWrapper>
+				[壽宴準備](/event/simple/1-10-1-壽宴準備)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>
-				<li>煉丹房爆炸</li>
-				<li>刺殺潭霸刀(選擇大師兄禮物)</li>
+				<MarkdownWrapper>
+				[出發夔州](/event/simple/1-10-2-出發夔州)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 		</tr>
