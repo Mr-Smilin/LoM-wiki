@@ -88,7 +88,15 @@
                 image_div.style.backgroundColor = '#111';
                 let filename = this.getDownloadFileName();
 
-                domtoimage.toBlob(image_div)
+                var scale = 2;
+
+                domtoimage.toBlob(image_div, {
+                    width: image_div.clientWidth * scale,
+                    height: image_div.clientHeight * scale,
+                    style: {
+                        transform: 'scale('+scale+')',
+                        transformOrigin: 'top left'
+                    }})
                     .then(function (blob) {
                         window.saveAs(blob, filename);
                     })
