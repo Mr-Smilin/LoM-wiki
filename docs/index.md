@@ -11,7 +11,7 @@ hero:
         alt: LoM-wiki
     actions:
         - theme: brand
-          text: 瀏覽 Wikia
+          text: 瀏覽 Wiki
           link: /wiki-list
         - theme: alt
           text: 遊戲指南
