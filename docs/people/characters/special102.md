@@ -61,6 +61,14 @@ aside: false
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="鳳凰寶衣1">
+		<Ch src='/images/characters/special102/special1.png' position='center'/>
+		<ChName nameZh='鳳凰寶衣' nameEn='Phoenix Armor' position='right' />
+	</ChTab>
+		<ChTab title="鳳凰寶衣2">
+		<Ch src='/images/characters/special102/special2.png' position='center'/>
+		<ChName nameZh='鳳凰寶衣' nameEn='Phoenix Armor' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
