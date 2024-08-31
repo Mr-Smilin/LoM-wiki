@@ -144,9 +144,11 @@ tags:
 		<tr>
 			<td>十一月</td>
 			<td>
-				<li>地圖：江陵前往燮州(大師兄禮物)</li>
-				<li>出行：遭遇書生後遭遇某人，之後解鎖打工</li>
-				<li>前往南宮家(二/三師兄禮物)</li>
+				<MarkdownWrapper>
+				[捉拿譚霸刀](/event/simple/1-11-1-捉拿譚霸刀)<br>
+				[初到江陵](/event/simple/1-11-1-初到江陵)<br>
+				[初到江陵](/event/simple/1-11-1-啟程赴壽宴)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>-</td>
@@ -154,7 +156,9 @@ tags:
 		<tr>
 			<td>十二月</td>
 			<td>
-				<li>南宮家宴</li>
+				<MarkdownWrapper>
+				[南宮壽宴](/event/simple/1-12-1-南宮壽宴)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>
