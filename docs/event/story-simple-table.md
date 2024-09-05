@@ -161,11 +161,7 @@ tags:
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
-			<td>
-				<li>回到唐門</li>
-				<li>機率：假趙活被罵</li>
-				<li>伙房機率：假趙活請客</li>
-			</td>
+			<td>-</td>
 		</tr>
 	</table>
 </div>
@@ -183,9 +179,7 @@ tags:
 		<tr>
 			<td>一月</td>
 			<td>-</td>
-			<td>
-				<li>機率：假趙活搶功</li>
-			</td>
+			<td>-</td>
 			<td>
 				<li>段考</li>
 			</td>
@@ -193,7 +187,9 @@ tags:
 		<tr>
 			<td>二月</td>
 			<td>
-				<li>唐門例會：崆峒派留學</li>
+				<MarkdownWrapper>
+				[留學討論](/event/simple/2-02-1-留學討論)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>-</td>
@@ -201,6 +197,9 @@ tags:
 		<tr>
 			<td>三月</td>
 			<td>
+				<MarkdownWrapper>
+				[留學生來訪](/event/simple/2-03-1-留學生來訪)<br>
+				</MarkdownWrapper>
 				<li>唐門例會</li>
 			</td>
 			<td>-</td>
@@ -304,9 +303,7 @@ tags:
 		<tr>
 			<td>一月</td>
 			<td>-</td>
-			<td>
-				<li>機率：假趙活搶功</li>
-			</td>
+			<td>-</td>
 			<td>
 				<li>段考</li>
 			</td>
@@ -314,7 +311,9 @@ tags:
 		<tr>
 			<td>二月</td>
 			<td>
-				<li>唐門例會：崆峒派留學</li>
+				<MarkdownWrapper>
+				[留學討論](/event/simple/2-02-1-留學討論)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>-</td>
@@ -322,9 +321,10 @@ tags:
 		<tr>
 			<td>三月</td>
 			<td>
-				<li>崆峒派留學：四選一</li>
-				<li>鐵拳巷：結識郁竹</li>
-				<li>鐵拳巷：解鎖鍛造</li>
+				<MarkdownWrapper>
+				[崆峒留學](/event/simple/2-03-1-崆峒留學)<br>
+				[初入鐵拳巷](/event/simple/2-03-1-初入鐵拳巷)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>
 				<li>結識小梅</li>
