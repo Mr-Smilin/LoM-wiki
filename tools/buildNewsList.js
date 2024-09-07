@@ -7,7 +7,7 @@ const GENERATE_SUFFIX = "-->";
 // using news1.md to exp.
 const SAVE_MARKDOWN_PATH = "./docs/other/news.md";
 const MONTH_HEAD_TEMPLATE = "# 江湖快報 {year}年 {month}月號";
-const LINE_BREAK = "\n---\n</br>\n";
+const LINE_BREAK = "\n---\n<br>\n";
 
 try {
     fs.readdir(TARGET_NEWS_PATH, (err, files) => {
@@ -59,7 +59,7 @@ try {
                 "  - 新聞\n" +
                 "  - 遊戲更新\n" +
                 "  - 更新\n" +
-                "outline: [1, 2, 3]\n" +
+                "outline: [2, 3]\n" +
                 "gitChangelog: false\n";
 
             // write data to replace the md file
