@@ -147,3 +147,5 @@ tags:
 - 肉包妖怪 by 鳥熊
 - 星座是天馬座，~~燃燒小宇宙吧~~
 - 已破棄的謎之舞步，[連結](https://www.facebook.com/watch/?mibextid=oFDknk&v=1481577332312805&rdid=g1lRgORuhzdrbpQu) [連結](https://www.facebook.com/watch/?mibextid=oFDknk&v=1134896317435222&rdid=wGNDPFXDQ4Ny0hIM)
+- 由於不留學線[[唐中翎|掌門]]會給唐門傳承小劍，~~此劍常出現在龍陽讀書齋的文中~~
+- 鬼畫圖字畫被[[耕陽讀書齋]]以為可能是杜甫的手筆，買回去研究
