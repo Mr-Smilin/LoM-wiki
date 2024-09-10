@@ -84,6 +84,96 @@ tags:
             </ChTr>
         </ChTable>
     </ChTab>
+    <ChTab title="自戀">
+        <Ch
+            src='/images/characters/player/normal2.png' 
+            position='right'/>
+        <ChName nameZh='自戀' nameEn='Narcissist' position='right' />
+    </ChTab>
+    <ChTab title="生氣">
+        <Ch
+            src='/images/characters/player/angry2.png' 
+            position='right'/>
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="計畫通">
+        <Ch
+            src='/images/characters/player/gloomy2.png' 
+            position='right'/>
+        <ChName nameZh='計畫通' nameEn='As Planned' position='right' />
+    </ChTab>
+    <ChTab title="鼻青臉腫">
+        <Ch
+            src='/images/characters/player/hurt.png' 
+            position='right'/>
+        <ChName nameZh='鼻青臉腫' nameEn='Black and Blue' position='right' />
+    </ChTab>
+    <ChTab title="奄奄一息">
+        <Ch
+            src='/images/characters/player/hurt2.png' 
+            position='right'/>
+        <ChName nameZh='奄奄一息' nameEn='Dying' position='right' />
+    </ChTab>
+    <ChTab title="大笑">
+        <Ch
+            src='/images/characters/player/laugh2.png' 
+            position='right'/>
+        <ChName nameZh='大笑' nameEn='Laugh' position='right' />
+    </ChTab>
+    <ChTab title="緊張">
+        <Ch
+            src='/images/characters/player/nervous2.png' 
+            position='right'/>
+        <ChName nameZh='緊張' nameEn='Nervous' position='right' />
+    </ChTab>
+    <ChTab title="想入非非">
+        <Ch
+            src='/images/characters/player/revel.png' 
+            position='right'/>
+        <ChName nameZh='想入非非' nameEn='Revel' position='right' />
+    </ChTab>
+    <ChTab title="悲傷">
+        <Ch
+            src='/images/characters/player/sad1.png' 
+            position='right'/>
+        <ChName nameZh='悲傷' nameEn='Sad' position='right' />
+    </ChTab>
+    <ChTab title="驚嚇">
+        <Ch
+            src='/images/characters/player/shock.png' 
+            position='right'/>
+        <ChName nameZh='驚嚇' nameEn='Shock' position='right' />
+    </ChTab>
+    <ChTab title="使徒">
+        <Ch
+            src='/images/characters/player/special1.png' 
+            position='right'/>
+        <ChName nameZh='使徒' nameEn='Angel' position='right' />
+    </ChTab>
+    <ChTab title="城之內">
+        <Ch
+            src='/images/characters/player/suck1.png' 
+            position='right'/>
+        <ChName nameZh='城之內' nameEn='Jonouchi' position='right' />
+    </ChTab>
+    <ChTab title="舔刀">
+        <Ch
+            src='/images/characters/player/suck3.png' 
+            position='right'/>
+        <ChName nameZh='舔刀' nameEn='Lick Knife' position='right' />
+    </ChTab>
+    <ChTab title="趙傲天">
+        <Ch
+            src='/images/characters/player/normal3.png' 
+            position='right'/>
+        <ChName nameZh='趙傲天' nameEn='Zhao Proud Sky' position='right' />
+    </ChTab>
+    <ChTab title="百萬趙活">
+        <Ch
+            src='/images/characters/player/mega_player.png' 
+            position='right'/>
+        <ChName nameZh='百萬趙活' nameEn='Mega Zhao Huo' position='right' />
+    </ChTab>
 </ChTabs>
 
 > 「我從小就明白了，自己沒有被愛這件事。」
