@@ -12,9 +12,9 @@
 </template>
 
 <script setup>
-import { ref, watchEffect, getCurrentInstance,onMounted } from 'vue';
+import { ref, watchEffect, getCurrentInstance, onMounted } from 'vue';
 import { withBase } from 'vitepress';
-import { marked } from 'marked';
+import MarkdownIt from 'markdown-it';
 
 const props = defineProps({
   content: {
@@ -27,18 +27,18 @@ const instance = getCurrentInstance();
 const slots = instance.slots;
 const compiledParts = ref([]);
 
-const markedOptions = {
+const md = new MarkdownIt({
   breaks: true,
-  gfm: true,
-  headerIds: false,
-  mangle: false
-};
+  html: true,
+  linkify: true
+});
 
 function removePTags(html) {
   html = html.replace(/^<p>/, '');
   html = html.replace(/<\/p>\s*$/, '');
   return html;
 }
+
 
 function processHighlights(html) {
   return html.replace(/\|\|(.*?)\|\|/g, (match, p1) => {
@@ -48,7 +48,7 @@ function processHighlights(html) {
 
 function processContent(content) {
   if (typeof content === 'string') {
-    const html = marked(content, markedOptions);
+    const html = md.renderInline(content);
     const cleanHtml = removePTags(processHighlights(html));
     return processLinks(cleanHtml);
   } else if (Array.isArray(content)) {
@@ -110,24 +110,23 @@ function processLinks(html) {
 }
 
 onMounted(() => {
-    watchEffect(() => {
-        try {
-            let content;
-            if (props.content !== null) {
-                content = props.content;
-            } else {
-                content = slots.default ? slots.default() : '';
-            }
+  watchEffect(() => {
+    try {
+      let content;
+      if (props.content !== null) {
+        content = props.content;
+      } else {
+        content = slots.default ? slots.default() : '';
+      }
 
-            compiledParts.value = processContent(content);
-        } catch (error) {
-            console.error('Content parsing error:', error);
-            compiledParts.value = ['Error parsing content'];
-        }
-    });
+      compiledParts.value = processContent(content);
+    } catch (error) {
+      console.error('Content parsing error:', error);
+      compiledParts.value = ['Error parsing content'];
+    }
+  });
 })
 </script>
-
 
 <style>
 .shary {

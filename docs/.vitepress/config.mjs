@@ -7,6 +7,8 @@ import {
 	GitChangelog,
 	GitChangelogMarkdownSection,
 } from "@nolebase/vitepress-plugin-git-changelog/vite";
+// 註腳
+import footnote from "markdown-it-footnote";
 
 const baseUrl = "/LoM-wiki/";
 
@@ -386,8 +388,12 @@ export default defineConfig({
 				const token = tokens[idx];
 				return `<WikiLink text="${token.content}" />`;
 			};
+
 			// 連結預覽
 			md.use(InlineLinkPreviewElementTransform);
+
+			// 註腳
+			md.use(footnote);
 		},
 	},
 	vite: {
