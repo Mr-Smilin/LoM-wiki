@@ -189,16 +189,23 @@ borderless: false
 
 ## 備註
 
-- ~~錦香宮哈士奇~~，[來源](https://www.ptt.cc/bbs/C_Chat/M.1722945563.A.D40.html)
-- 鳥熊公認的遜炮擔當
+- ~~錦香宮哈士奇~~[^1]
+- 鳥熊公認的遜炮擔當[^2]
 - <MarkdownWrapper>||想搶我雞腿，就算是詩仙也絕不原諒！||</MarkdownWrapper>
 - 害龍湘掉入雞腿坑的罪魁禍首，[[王二壯]]親手烤的叫化雞，黃泥撥開，荷葉撥開，那個香～根本不是凡人能擋！
-- 根據訪談，身高 174，在南宋根本是巨人。~~也難怪殺人魔一詞不脛而走~~
+- 身高 174，在南宋根本是巨人。[^3]~~也難怪殺人魔一詞不脛而走~~
 - 母親是金國先帝完顏允恭所出，沂國公主完顏夢
 - 母親在世之時所配之劍，名曰嗔嵐。後日由[[龍淵]]交給她
-- 會下棋，但棋力很爛，[來源](https://www.ptt.cc/bbs/C_Chat/M.1725358722.A.1A8.html)
-- 住外堡期間衣服是自己洗的，列傳洗爛[[趙活]]衣衫是因為他那件本來就很破爛，~~所以湘姊不全然是生活白癡~~，[來源](https://www.ptt.cc/bbs/C_Chat/M.1725417369.A.6F8.html)
-- 會算數，打工算帳沒問題。廚房煮菜會鬧火災，~~但廚房本來就是用火的，不小心燒起來也不用大驚小怪~~，[來源](https://www.ptt.cc/bbs/C_Chat/M.1725531255.A.803.html)
-- 長相思令・詠雞腿
+- 會下棋，但棋力很爛[^4]
+- 住外堡期間衣服是自己洗的，列傳洗爛[[趙活]]衣衫是因為他那件本來就很破爛，~~所以湘姊不全然是生活白癡~~[^5]
+- 會算數，打工算帳沒問題。廚房煮菜會鬧火災，~~但廚房本來就是用火的，不小心燒起來也不用大驚小怪~~[^6]
+- 《長相思令・詠雞腿》[圖片](https://www.facebook.com/photo.php?fbid=181922514361132&id=100076301525150&set=a.165167019370015)
 > 醃雞腿。烤雞腿，烤到微焦色最美。腹鳴如打雷。<br>
 > 你是誰。他是誰。聞香下馬皆忘歸。好吃到流淚。
+
+[^1]: PTT C洽 - [\[活俠\] 龍湘就是哈士奇](https://www.ptt.cc/bbs/C_Chat/M.1722945563.A.D40.html)
+[^2]: 鳥熊FB，瑞笙介紹的[留言](https://www.facebook.com/obbstudio/posts/pfbid02gCxcNbx2fkaEZKNHnr9Wdph1y5BKppCJammvDELEC4dDnwoGGjyQVUz3rvAv5SLyl?comment_id=319038924213779&reply_comment_id=1762313354199156)
+[^3]: 2024/8/5的[直播訪談影片](https://www.youtube.com/watch?v=JkSfhSi3P8w)、[整理文](https://www.ptt.cc/bbs/C_Chat/M.1722863467.A.4F8.html)
+[^4]: 鳥熊FB對話，PTT C洽 - [\[活俠\] 錦香宮相關小知識](https://www.ptt.cc/bbs/C_Chat/M.1725358722.A.1A8.html)
+[^5]: 鳥熊FB對話，PTT C洽 - [Re: \[活俠\] 錦香宮相關小知識](https://www.ptt.cc/bbs/C_Chat/M.1725417369.A.6F8.html)
+[^6]: 鳥熊FB對話，PTT C洽 - [Re: \[活俠\] 錦香宮相關小知識](https://www.ptt.cc/bbs/C_Chat/M.1725531255.A.803.html)
