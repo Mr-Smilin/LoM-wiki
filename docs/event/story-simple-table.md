@@ -327,17 +327,22 @@ tags:
 				</MarkdownWrapper>
 			</td>
 			<td>
-				<li>結識小梅</li>
-				<li>崆峒戰隊找碴</li>
+				<MarkdownWrapper>
+				[鶴手出遊](/event/simple/2-03-2-鶴手出遊)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 		</tr>
 		<tr>
 			<td>四月</td>
 			<td>
-				<li>偷衣服事件(須入奪魄門)</li>
-				<li>拜師夏侯蘭後解鎖 奪魄森林：夏侯蘭指點</li>
-				<li>宣布季試</li>
+				<MarkdownWrapper>
+				[衣服遭竊](/event/simple/2-04-1-衣服遭竊)<br>
+				[奪魄森林事件集](/event/simple/2-04-1-奪魄森林事件集)<br>
+				[練功分心](/event/simple/2-04-1-練功分心)<br>
+				[崆峒搶劫](/event/simple/2-04-1-崆峒搶劫)<br>
+				[窩居衝突](/event/simple/2-04-1-窩居衝突)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>-</td>
