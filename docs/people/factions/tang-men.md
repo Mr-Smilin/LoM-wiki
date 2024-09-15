@@ -187,3 +187,4 @@ tags:
 ## 備註
 
 - 除了毒藥外，<BadendIcon :no="7">唐門瀉藥</BadendIcon>也是靈驗如神
+- 唐門有按時繳稅
