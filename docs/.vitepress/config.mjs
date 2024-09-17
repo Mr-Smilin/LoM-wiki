@@ -46,7 +46,7 @@ export default defineConfig({
 				text: "系統",
 				items: [
 					{ text: "門派設施", link: "/system/facility" },
-					{ text: "秘笈列表", link: "/system/books" },
+					{ text: "秘笈列表", link: "/system/books/" },
 					{ text: "技能效果(尚未編輯)", link: "no-page" },
 					{ text: "道具列表(編輯中)", link: "/system/items" },
 					{ text: "養成指令", link: "/system/training" },
