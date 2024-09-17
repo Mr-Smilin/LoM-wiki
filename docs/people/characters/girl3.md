@@ -25,6 +25,14 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch 
+			src='/images/characters/girl_3/shy2.png' 
+			position='right'/>
+		<ChName
+			nameZh='微笑'
+			nameEn='Smile'/>
+	</ChTab>
 	<ChTab title="大笑">
 		<Ch 
 			src='/images/characters/girl_3/laugh2.png' 
