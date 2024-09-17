@@ -143,7 +143,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[千金叟]] (監視者)
+					[[勾魂叟]] (監視者)
 				</ChTd>
 			</ChTr>
 			<ChTr>
