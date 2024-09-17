@@ -39,7 +39,6 @@ aside: false
 		</ChTable>
 	</ChTab>
 </ChTabs>
-<br><br>
 
 > 「武林盟那那那群傢伙，一定想不到我們會從城鎮夾夾夾，夾夾～夾──他媽的！」
 

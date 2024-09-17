@@ -82,7 +82,6 @@ aside: false
         </ChTable>
     </ChTab>
 </ChTabs>
-<br><br>
 
 > 「我的天，師弟你的臉真醜，配不上你的靈魂。」
 
