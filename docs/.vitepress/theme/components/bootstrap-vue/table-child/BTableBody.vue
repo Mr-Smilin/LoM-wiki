@@ -75,7 +75,8 @@
     }
 </script>
 
-<style scoped>
+<!-- 因為需要影響到子層樣式，不能用 scope -->
+<style>
     @media screen and (min-width: 768px) {
         table.horizontal tr {
             display: grid;
@@ -89,6 +90,12 @@
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        table.horizontal span {
+            display: contents;
         }
     }
 </style>
