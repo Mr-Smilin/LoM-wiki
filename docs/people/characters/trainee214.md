@@ -1,5 +1,5 @@
 ---
-title: 余麟
+title: 童大蟲
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -7,15 +7,15 @@ borderless: false
 tags:
     - 人物
     - 崆峒派
-    - 奪魄門
+    - 鐵拳門
 ---
 
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="余麟">
-		<Ch src='/images/characters/other3/normal.png' position='right'/>
-		<ChName nameZh='余麟' nameEn='Yu Lin' position='right' />
+	<ChTab title="童大蟲">
+		<Ch src='/images/characters/trainee214/normal.png' position='right'/>
+		<ChName nameZh='童大蟲' nameEn='Tong Da Chong' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -30,7 +30,7 @@ tags:
 					稱號
 				</ChTd>
 				<ChTd>
-					波幻銀魚
+					鐵脊山君
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -40,12 +40,12 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[勾魂叟]] (代理掌門)
+					[[雷謙]] (掌門)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[夏侯蘭]] (同門)
+					[[郁竹]] (師妹)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -53,6 +53,10 @@ tags:
 </ChTabs>
 <br><br>
 
-「波幻銀魚」余麟，崆峒派的水護法，有望角逐掌派人之位。
+「鐵脊山君」童大蟲，崆峒派的地護法。
 <br><br>
-[夏侯蘭](girl5)對他的實力不以為然，比不上[第三香](special820)。
+年輕時曾為了生計，幹過收屍入殮的苦差事。
+
+## 備註
+
+- 招親事件如果[[金烏上人]]逃走，會由他斷定該肉衣是真人血肉無誤
