@@ -222,16 +222,14 @@ tags:
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
-			<td>
-				<MarkdownWrapper>
-				[崆峒季試](/event/simple/2-05-3-崆峒季試)<br>
-				</MarkdownWrapper>
-			</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>六月</td>
 			<td>
-				<li>破防離開唐門</li>
+				<MarkdownWrapper>
+				[離家出走](/event/simple/2-06-1-離家出走)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>-</td>
@@ -245,11 +243,15 @@ tags:
 		<tr>
 			<td>八月</td>
 			<td>
-				<li>得知江南圍城</li>
+				<MarkdownWrapper>
+				[江陵傳聞](/event/simple/2-08-1-江陵傳聞)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>
-				<li>遭遇龍淵</li>
+				<MarkdownWrapper>
+				[巧遇龍淵](/event/simple/2-08-3-巧遇龍淵)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
@@ -357,7 +359,9 @@ tags:
 			<td>-</td>
 			<td>-</td>
 			<td>
-				<li>崆峒派季試</li>
+				<MarkdownWrapper>
+				[崆峒季試](/event/simple/2-05-3-崆峒季試)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
@@ -375,8 +379,9 @@ tags:
 		<tr>
 			<td>八月</td>
 			<td>
-				<li>得知江陵圍城</li>
-				<li>出發</li>
+				<MarkdownWrapper>
+				[馳援南宮](/event/simple/2-08-1-馳援南宮)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>-</td>
