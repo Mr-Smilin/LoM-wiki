@@ -32,5 +32,9 @@ tags:
 - 親姊拜入[[唐門]]時，是上一輩收的徒，所以對唐芳而言是小師姑[^1]
 - 平常又忙又常遲到，跟[[趙活]]很少交集，所以是路線限定角色[^1]
 - [[唐布衣|大師兄]]、[[唐錚|二師兄]]曾經暗戀過她姊[^1]
+- 對趙活而言是師姐[^2]
+- 罵她遲到，她會用難掩不耐煩的語氣陪笑說：「好啦好啦不然下次我請你喝飲子啦。」[^3]
 
 [^1]: 鳥熊FB對話，來自百度貼吧 - [新女角色突擊](https://tieba.baidu.com/p/9205413054?pn=1)17F (對話公開日2024/10/5)，[圖片1](/images/reference/ref3_1.jpg)、[圖片2](/images/reference/ref3_2.jpg)
+[^2]: 鳥熊FB留言，[連結](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=1234364757878397&reply_comment_id=516592081152453&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)
+[^3]: 鳥熊FB留言，[連結](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=2027078384407281&reply_comment_id=1334218897540686&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)
