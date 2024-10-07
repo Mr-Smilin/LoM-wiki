@@ -56,7 +56,7 @@ tags:
 
 ### 心上人
 + 心上人<Girl2Icon>葉雲裳</Girl2Icon>：在詢問近況時多出詢問<Girl2Icon>葉雲裳</Girl2Icon>近況，不影響傳奇文本。
-+ 心上人<Girl4Icon>上官瑩</Girl4Icon>：在詢問近況時多出詢問<Girl4Icon>上官瑩</Girl4Icon>近況，不影響傳奇文本。
++ 心上人<Girl4Icon>上官螢</Girl4Icon>：在詢問近況時多出詢問<Girl4Icon>上官螢</Girl4Icon>近況，不影響傳奇文本。
 
 ### 結局選項
 + **📖「處刑」**：<Girl3Icon>虞小梅</Girl3Icon>死亡，影響結局敘述與傳奇文本。

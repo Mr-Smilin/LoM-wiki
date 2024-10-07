@@ -84,4 +84,4 @@ tags:
 ### 心上人
 不影響傳奇文本。
 + <Girl0Icon>唐默鈴</Girl0Icon>：影響邀請事件部分對話，結局前會追加跟<Girl0Icon>小師妹</Girl0Icon>道別的場景，若第二年二月上旬有與<Girl0Icon>小師妹</Girl0Icon>約定離開時會先告知的事件(需要<Girl0Icon>唐默鈴</Girl0Icon>好感度≧40)，道別時會多一句台詞。
-+ <Girl4Icon>上官瑩</Girl4Icon>：影響邀請事件部分對話。
++ <Girl4Icon>上官螢</Girl4Icon>：影響邀請事件部分對話。

@@ -83,7 +83,7 @@ tags:
      - <span style='color: Red;'>待確認</span>：青城派支援西武林盟、與[[虞小梅]]結緣．
         + **🧾【＜30】唐門大勢已去**或**🧾【＜65】戰況激烈**：
           + 與<Girl5Icon>夏侯蘭</Girl5Icon>或<Girl8Icon>龍湘</Girl8Icon>結緣：**🆚決鬥：[[南宮深]]決鬥**，戰敗後未滿足[[飛俠歸來]]且[[南宮深]]好感度＜20，進入結局．
-          + 未滿足以上條件：**🎲天命：你的對手......**(上限99，➕加值：[[南宮深]]好感度、➖減值：<Girl4Icon>上官瑩</Girl4Icon>好感度)：
+          + 未滿足以上條件：**🎲天命：你的對手......**(上限99，➕加值：[[南宮深]]好感度、➖減值：<Girl4Icon>上官螢</Girl4Icon>好感度)：
             1. **🧾【＜70】南宮深（鳳凰肩甲）**
             2. **🆚決鬥：[[南宮深]]**，戰敗後未滿足[[飛俠歸來]]且[[南宮深]]好感度＜20，進入結局．
         + **🧾【≧65】來的及時**：⚔️戰役，一敗塗地且滿足[[南宮深]]好感度＜20，進入結局．
@@ -99,19 +99,19 @@ tags:
   + [[樊嘯天]]拜師<Girl5Icon>夏侯蘭</Girl5Icon>：帶主角屍體回到雪山安葬，待[[樊嘯天|樊咲嫣]]出嫁後失蹤．
   + 未滿足前項條件：帶主角屍體回到雪山安葬，，守墓一生．
 
-<br>※慷慨就義結局結緣優先度(v1.0.3201.1)：<Girl8Icon>龍湘</Girl8Icon>＞<Girl4Icon>上官瑩</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+<br>※慷慨就義結局結緣優先度(v1.0.3201.1)：<Girl8Icon>龍湘</Girl8Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
 ### 心繫對象
 如果沒有結緣對象，在死前會想見心繫對象，不影響傳奇文本．
 
 ### 加入唐門成員
 + [[葉雲舟]]：待確認
-+ [[樊嘯天]]：需要未跟<Girl8Icon>龍湘</Girl8Icon>、<Girl4Icon>上官瑩</Girl4Icon>、<Girl3Icon>虞小梅</Girl3Icon>、<Girl6Icon>郁竹</Girl6Icon>結緣，且[[樊嘯天]]未拜<Girl5Icon>夏侯蘭</Girl5Icon>為師，多出戰死劇情，不影響傳奇文本．
++ [[樊嘯天]]：需要未跟<Girl8Icon>龍湘</Girl8Icon>、<Girl4Icon>上官螢</Girl4Icon>、<Girl3Icon>虞小梅</Girl3Icon>、<Girl6Icon>郁竹</Girl6Icon>結緣，且[[樊嘯天]]未拜<Girl5Icon>夏侯蘭</Girl5Icon>為師，多出戰死劇情，不影響傳奇文本．
 
 ### 點蒼劍鬼
 (推論)<Girl2Icon>葉雲裳</Girl2Icon>未離開唐門但死亡，化為點蒼劍鬼的[[葉雲舟]]會到達且戰死．
-※需要未跟<Girl8Icon>龍湘</Girl8Icon>、<Girl4Icon>上官瑩</Girl4Icon>、<Girl3Icon>虞小梅</Girl3Icon>、<Girl6Icon>郁竹</Girl6Icon>結緣
+※需要未跟<Girl8Icon>龍湘</Girl8Icon>、<Girl4Icon>上官螢</Girl4Icon>、<Girl3Icon>虞小梅</Girl3Icon>、<Girl6Icon>郁竹</Girl6Icon>結緣
 
 ### 未與飛石幫和解
 待確認詳細<br>
-※需要未跟<Girl8Icon>龍湘</Girl8Icon>、<Girl4Icon>上官瑩</Girl4Icon>、<Girl3Icon>虞小梅</Girl3Icon>、<Girl6Icon>郁竹</Girl6Icon>結緣
+※需要未跟<Girl8Icon>龍湘</Girl8Icon>、<Girl4Icon>上官螢</Girl4Icon>、<Girl3Icon>虞小梅</Girl3Icon>、<Girl6Icon>郁竹</Girl6Icon>結緣

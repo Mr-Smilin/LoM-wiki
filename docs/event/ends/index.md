@@ -668,7 +668,7 @@ tags:
             <span style="color: #DC0000;">【唐門覆滅】</span>
             <span style="color: MediumOrchid;">【上官螢】</span>
             <span style="color: #FF1493;">【結緣】</span><br>
-            與上官瑩結緣，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
+            與上官螢結緣，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
         </td>
     </tr>
     <tr>

@@ -22,7 +22,7 @@ tags:
         <td :unsortable=true>屬性3</td>
     </tr>
     <tr>
-        <td><Girl4Icon :size="`medium`">上官瑩</Girl4Icon></td>
+        <td><Girl4Icon :size="`medium`">上官螢</Girl4Icon></td>
         <td>4</td>
         <td>高挑窈窕</td>
         <td>坦率開朗</td>

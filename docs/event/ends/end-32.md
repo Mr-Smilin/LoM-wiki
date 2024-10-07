@@ -55,7 +55,7 @@ tags:
      1. 決定同行對象：依照以下優先度：
         1. 與<Girl3Icon>虞小梅</Girl3Icon>結緣：待未來開放．
         2. 與<Girl0Icon>小師妹</Girl0Icon>結緣：後兩場決鬥，<Girl0Icon>唐默鈴</Girl0Icon>《極怒無定飛梭》成為我方決鬥幫手．
-        3. 與與<Girl4Icon>上官瑩</Girl4Icon>結緣：待未來開放．
+        3. 與與<Girl4Icon>上官螢</Girl4Icon>結緣：待未來開放．
      2. 🆚與第一位刺客或第二位刺客決鬥敗戰後進入結局．
         + 若<Girl0Icon>小師妹</Girl0Icon>同行，第一位刺客是[[譚霸刀|想待罪立功的罪犯]]時直接獲勝．
    + **📜議題：戰役：唐門出擊**：
@@ -73,7 +73,7 @@ tags:
                - 待補：青城派支援西武林盟、與[[虞小梅]]結緣．
           2. **🧾【＜30】唐門大勢已去**或**🧾【＜65】戰況激烈**
           3. 未與<Girl5Icon>夏侯蘭</Girl5Icon>或<Girl8Icon>龍湘</Girl8Icon>結緣
-          4. **🎲天命：你的對手......**(上限99，➕加值：[[南宮深]]好感度、➖減值：<Girl4Icon>上官瑩</Girl4Icon>好感度)
+          4. **🎲天命：你的對手......**(上限99，➕加值：[[南宮深]]好感度、➖減值：<Girl4Icon>上官螢</Girl4Icon>好感度)
           5.  **🧾【≧70】上官隼（金背龍王刀）**
           6.  **🆚決鬥：[[上官隼]]**，敗戰後未滿足[[飛俠歸來]]，進入結局．
 
@@ -92,7 +92,7 @@ tags:
 + <Girl5Icon>夏侯蘭</Girl5Icon>：帶著主角的屍體回到雪山燒盡一切自盡．
   + (若[[樊嘯天]]拜師<Girl5Icon>夏侯蘭</Girl5Icon>可能有差異，待未來開放確認)
 
-※殉志而死結局結緣優先度(v1.0.3201.1)：<Girl3Icon>虞小梅</Girl3Icon>＞<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl4Icon>上官瑩</Girl4Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+※殉志而死結局結緣優先度(v1.0.3201.1)：<Girl3Icon>虞小梅</Girl3Icon>＞<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
 ### 排除在結緣優先度外
 + <Girl2Icon>葉雲裳</Girl2Icon>在唐門：保護[[唐陞|三師兄]]被一掌拍死

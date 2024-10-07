@@ -149,7 +149,7 @@ medium(中型) 圖案 76 px _ 88 px。
 -   `<Girl1Icon>` : <Girl1Icon>瑞杏頭像</Girl1Icon>
 -   `<Girl2Icon>` : <Girl2Icon>葉雲裳頭像</Girl2Icon>
 -   `<Girl3Icon>` : <Girl3Icon>虞小梅頭像</Girl3Icon>
--   `<Girl4Icon>` : <Girl4Icon>上官瑩頭像</Girl4Icon>
+-   `<Girl4Icon>` : <Girl4Icon>上官螢頭像</Girl4Icon>
 -   `<Girl5Icon>` : <Girl5Icon>夏侯蘭頭像</Girl5Icon>
 -   `<Girl6Icon>` : <Girl6Icon>郁竹頭像</Girl6Icon>
 -   `<Girl7Icon>` : <Girl7Icon>魏菊頭像</Girl7Icon>
