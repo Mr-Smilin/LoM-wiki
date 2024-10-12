@@ -389,7 +389,10 @@ tags:
 		<tr>
 			<td>九月</td>
 			<td>
-				<li>與四師兄匯合</li>
+				<MarkdownWrapper>
+				[四師兄會合](/event/simple/2-09-1-四師兄會合)<br>
+				[江陵圍城](/event/simple/2-09-1-江陵圍城)<br>
+				</MarkdownWrapper>
 				<li>官兵與丐幫之戰</li>
 				<li>駐紮南宮家</li>
 				<li>乘涼：南宮遠尹志平棋局</li>
