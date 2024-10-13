@@ -97,3 +97,6 @@ aside: false
 - 原姓氏「花」 by 鳥熊，[來源](https://www.plurk.com/p/3g8q4p1s38)
 - 若[[葉雲裳]]死亡，會變成點蒼劍鬼，狂劍客葉雲舟
 - 由於點破雲關太有名了，~~在二創的形象也被受影響~~
+- 對欠[[趙活]]錢卻由朋友替他還掉一事，沒感到愧疚，但會一直用別的方式默默報恩。[^1]
+
+[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/ref4_1.jpg)、[圖片2](/images/reference/ref4_2.jpg)、[圖片3](/images/reference/ref4_3.jpg)、[圖片4](/images/reference/ref4_4.jpg)

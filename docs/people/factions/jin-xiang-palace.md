@@ -124,5 +124,7 @@ tags:
 
 ## 備註
 
-- 宮人額頭的妝應該是花鈿妝
+- 宮人額頭的妝應該是花鈿妝。沒代表什麼意義，單純是流行、好看、好玩。[^1]
 - 若西武林線[[唐門]]拒收留錦香宮，[[畫中仙]]會帶領宮人離開中土，定居在人煙罕至的瀘沽湖，永不復返中原
+
+[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/ref4_1.jpg)、[圖片2](/images/reference/ref4_2.jpg)、[圖片3](/images/reference/ref4_3.jpg)、[圖片4](/images/reference/ref4_4.jpg)

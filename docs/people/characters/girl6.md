@@ -152,3 +152,6 @@ aside: false
 - 但是她可能會因為善意不小心把[[趙活]]的肋骨弄斷
 - 和[[虞小梅|小梅]]曾是好友，但因為當年被騙吃靈藥的關係，小竹仍在氣她
 - 根據<EndIcon no="11">結局11</EndIcon>的對話，若無結緣，最後會收養一個孤兒，與[[虞小梅|小梅]]和好
+- 技藝高超，打的寶劍連[[點蒼派]]都想求。[^1]
+
+[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/ref4_1.jpg)、[圖片2](/images/reference/ref4_2.jpg)、[圖片3](/images/reference/ref4_3.jpg)、[圖片4](/images/reference/ref4_4.jpg)

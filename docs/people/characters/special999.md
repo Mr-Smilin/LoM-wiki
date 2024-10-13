@@ -112,5 +112,8 @@ aside: false
 - ~~疑似姊控~~，常挑戰高難度目標，先是族妹[[瑞杏]]，後是[[畫中仙]]，再之後是[[夏侯蘭]]，被打了一巴掌
 - 如果唐門沒有收留葉家兄妹，[[梁有詩]]就會從瑞笙後宮團消失
 - [[唐默鈴|小師妹]]如果沒和[[趙活]]結緣，會下嫁成為瑞笙後宮之一
+- 後宮還有一個老婆方獨弱未登場(v3206)。[^1]
 - <MarkdownWrapper>||跟據解包，有與趙活成為好友的笙活雙俠線，v3206尚未推出||</MarkdownWrapper>
 - <MarkdownWrapper>||初版西武林與趙活打成平手，但因鋪成不夠遭到玩家不滿，此結局目前被刪除||</MarkdownWrapper>
+
+[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/ref4_1.jpg)、[圖片2](/images/reference/ref4_2.jpg)、[圖片3](/images/reference/ref4_3.jpg)、[圖片4](/images/reference/ref4_4.jpg)
