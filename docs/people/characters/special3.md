@@ -99,4 +99,4 @@ aside: false
 - 由於點破雲關太有名了，~~在二創的形象也被受影響~~
 - 對欠[[趙活]]錢卻由朋友替他還掉一事，沒感到愧疚，但會一直用別的方式默默報恩。[^1]
 
-[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/ref4_1.jpg)、[圖片2](/images/reference/ref4_2.jpg)、[圖片3](/images/reference/ref4_3.jpg)、[圖片4](/images/reference/ref4_4.jpg)
+[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/20241013_1_1.jpg)、[圖片2](/images/reference/20241013_1_2.jpg)、[圖片3](/images/reference/20241013_1_3.jpg)、[圖片4](/images/reference/20241013_1_4.jpg)

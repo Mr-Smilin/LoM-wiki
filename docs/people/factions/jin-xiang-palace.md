@@ -130,7 +130,7 @@ tags:
 - 在部分劇情分支中，錦香宮會移居至唐門外堡。[^2]
 - 照理來說[[玄燭心經]]可讓宮人冷靜思考，但大家都學藝不精，白費了[[溫夫人]]的苦心。[^4]
 
-[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/ref4_1.jpg)、[圖片2](/images/reference/ref4_2.jpg)、[圖片3](/images/reference/ref4_3.jpg)、[圖片4](/images/reference/ref4_4.jpg)
+[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/20241013_1_1.jpg)、[圖片2](/images/reference/20241013_1_2.jpg)、[圖片3](/images/reference/20241013_1_3.jpg)、[圖片4](/images/reference/20241013_1_4.jpg)
 [^2]: 鳥熊FB對話，由雞腿幫提供：[圖片1](/images/reference/20241014_1_1.png)、[圖片2](/images/reference/20241014_1_2.png)
 [^3]: 鳥熊FB對話，由雞腿幫提供：[圖片1](/images/reference/20241014_2_1.png)、[圖片2](/images/reference/20241014_2_2.png)
 [^4]: 鳥熊FB對話，由雞腿幫提供：[圖片](/images/reference/20241014_3.png)

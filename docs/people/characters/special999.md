@@ -116,4 +116,4 @@ aside: false
 - <MarkdownWrapper>||跟據解包，有與趙活成為好友的笙活雙俠線，v3206尚未推出||</MarkdownWrapper>
 - <MarkdownWrapper>||初版西武林與趙活打成平手，但因鋪成不夠遭到玩家不滿，此結局目前被刪除||</MarkdownWrapper>
 
-[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/ref4_1.jpg)、[圖片2](/images/reference/ref4_2.jpg)、[圖片3](/images/reference/ref4_3.jpg)、[圖片4](/images/reference/ref4_4.jpg)
+[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/20241013_1_1.jpg)、[圖片2](/images/reference/20241013_1_2.jpg)、[圖片3](/images/reference/20241013_1_3.jpg)、[圖片4](/images/reference/20241013_1_4.jpg)

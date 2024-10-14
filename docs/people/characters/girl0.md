@@ -191,4 +191,4 @@ aside: false
 > 她的強大來自於她的手速，還有異常冷酷近乎沒有一絲雜質的純粹殺意，以及手邊的洋芋片。
 - 若無結緣，則會嫁給[[瑞笙]]，若西武林線[[瑞笙]]死亡，則會回到[[唐門]]
 
-[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/ref4_1.jpg)、[圖片2](/images/reference/ref4_2.jpg)、[圖片3](/images/reference/ref4_3.jpg)、[圖片4](/images/reference/ref4_4.jpg)
+[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/20241013_1_1.jpg)、[圖片2](/images/reference/20241013_1_2.jpg)、[圖片3](/images/reference/20241013_1_3.jpg)、[圖片4](/images/reference/20241013_1_4.jpg)

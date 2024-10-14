@@ -118,4 +118,4 @@ aside: false
 - 愛吃油條
 - 是有野心的人，在他眼裡有錢了女人也自然就有。至於像[[上官螢]]那種很會賺錢的女子，只會把人家當競爭對手。[^1]
 
-[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/ref3_1.jpg)、[圖片2](/images/reference/ref3_2.jpg)
+[^1]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/20241008_1_1.jpg)、[圖片2](/images/reference/20241008_1_2.jpg)
