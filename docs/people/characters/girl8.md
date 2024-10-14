@@ -239,6 +239,12 @@ borderless: false
 - 相當會吃，燃料費很高，但基礎代謝和運動量也大，沒人管也會維持身材。[^10]
 - 中等屁股。[^10]
 - 蠻喜歡吃辣的，頗能吃辣。[^10]
+- 在飛俠落地後暫居[[唐門]]的一個月，對全門上下切磋揍了一頓，出手威勢驚人，差點嚇死唐門弟子。[^11]
+- 平時可幫忙掃地拖地砍柴，但不能期待她心細。[^11]
+- 想挑戰烹飪但沒有天賦，切個菜會把砧板一刀兩斷。但煮的菜再爛都不會浪費，會負責吃掉。[^11]
+- 戰鬥的技能面板空白是因為尚未實裝(v3206)。[^11]
+- 攻擊時影子有條龍，[圖片](/images/characters/girl_8/attack.jpg)。
+
 
 [^1]: PTT C洽 - [\[活俠\] 龍湘就是哈士奇](https://www.ptt.cc/bbs/C_Chat/M.1722945563.A.D40.html)
 [^2]: 鳥熊FB，瑞笙介紹的[留言](https://www.facebook.com/obbstudio/posts/pfbid02gCxcNbx2fkaEZKNHnr9Wdph1y5BKppCJammvDELEC4dDnwoGGjyQVUz3rvAv5SLyl?comment_id=319038924213779&reply_comment_id=1762313354199156)
@@ -250,3 +256,4 @@ borderless: false
 [^8]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/ref3_1.jpg)、[圖片2](/images/reference/ref3_2.jpg)
 [^9]: 鳥熊FB對話，由雞腿幫提供：[圖片](/images/reference/long-xiang/ref1.png)
 [^10]: 鳥熊FB對話，由專吃雞腿提供：[圖片1](/images/reference/ref4_1.jpg)、[圖片2](/images/reference/ref4_2.jpg)、[圖片3](/images/reference/ref4_3.jpg)、[圖片4](/images/reference/ref4_4.jpg)
+[^11]: 鳥熊FB對話，由雞腿幫提供：[圖片1](/images/reference/20241014_1_1.png)、[圖片2](/images/reference/20241014_1_2.png)
