@@ -16,7 +16,6 @@ tags:
     - sweetheart
     - 心上人
     - 愛人
-    - NTR
     - 變心
 ---
 
@@ -29,7 +28,7 @@ tags:
 
 ## 變更心上人的方法
 
-<img class='guide-img' src='/images/guide/ntr.jpg' alt='心上人'>
+<img class='guide-img' src='/images/guide/change-heart.jpg' alt='心上人'>
 
 <br>
 
