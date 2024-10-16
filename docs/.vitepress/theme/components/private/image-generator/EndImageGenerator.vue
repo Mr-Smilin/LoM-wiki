@@ -4,25 +4,25 @@
             {{ autoLineBreak(autoLineBreakTagReplace(context)) }}
         </EndBackground>
     </div>
-    <MarkdownWrapper>---</MarkdownWrapper>
+    <hr>
     <div>
         註：本圖片產生器僅供推廣 活俠傳 (League of Mortal) 使用，<br>
         請勿使用於商業用途。
     </div>
-    <MarkdownWrapper>---</MarkdownWrapper>
+    <hr>
     <div>
         產生圖片功能暫不支援Safari瀏覽器與部分行動裝置<br>
         <div type="button" class="btn download-bnt" @click="generateImage()">產生圖片</div>
         <div type="button" class="btn" @click="clearData()">清除全部資料</div>
         <div type="button" class="btn" @click="showExampleData()">帶入範本</div>
     </div>
-    <MarkdownWrapper>---</MarkdownWrapper>
+    <hr>
     <div>
         請在這裡輸入標題：
         <br>
         <input name="title-input" type="text" class="title-input" v-model="title">
     </div>
-    <MarkdownWrapper>---</MarkdownWrapper>
+    <hr>
     <div>
         請在這裡輸入內容：
         <br>
@@ -34,7 +34,7 @@
         <input type="checkbox" id="auto-line-break-tag-replace" @change="triggerAutoLineBreak()">
         <label for="auto-line-break-tag-replace">&lt;br&gt;、&lt;/br&gt;自動取代</label>
     </div>
-    <MarkdownWrapper>---</MarkdownWrapper>
+    <hr>
     <div>
         請點選匯入圖片:
         <input type="file" id="file-upload" class="file-input" @change="handleImageUpload()"><br>
