@@ -41,7 +41,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[李富貴]] (阿叔)
+					[[李富貴]] (同門)
 				</ChTd>
 			</ChTr>
 		</ChTable>
