@@ -75,6 +75,7 @@ export default defineConfig({
 				items: [
 					{ text: "江湖快報(官方更新)", link: "/other/news" },
 					{ text: "遊戲指南", link: "/other/guide/1-game-objective" },
+					{ text: "鳥熊問答集", link: "/other/qna" },
 					{
 						text: "拆包資料",
 						items: [
