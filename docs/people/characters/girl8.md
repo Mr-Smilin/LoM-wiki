@@ -100,6 +100,11 @@ borderless: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
+					[[明玉]] (師姐)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
 					[[盛雪]] (師姐)
 				</ChTd>
 			</ChTr>

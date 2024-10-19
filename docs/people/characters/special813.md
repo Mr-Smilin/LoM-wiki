@@ -35,13 +35,18 @@ tags:
 				</ChTd>
 			</ChTr>
 			<ChTr>
+				<ChTd position='center'>
+					[[明玉]] (同門)
+				</ChTd>
+			</ChTr>
+			<ChTr>
 				<ChTd position='center'>  
 					[[龍湘]] (師妹)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[盛雪]] (同門)
+					[[盛雪]] (師妹)
 				</ChTd>
 			</ChTr>
 			<ChTr>

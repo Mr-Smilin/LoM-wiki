@@ -44,7 +44,12 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[畫中仙]] (同門)
+					[[畫中仙]] (師姐)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[明玉]] (師姐)
 				</ChTd>
 			</ChTr>
 			<ChTr>
