@@ -257,7 +257,7 @@ borderless: false
 
 - 拳腳功夫還過得去，不是強項，但會用劍使拳腳功夫。[^9]
 - 西武林決戰，若遇上[[上官隼]]或[[向無憂]]，會覺醒雙劍，踏入絕世
-- 只要龍湘的手上有雞腿，<BadendIcon :no="32">誰都殺不死她</BadendIcon>
+- 只要龍湘的手上有雞腿，誰都殺不死她。<BadendIcon :no="32">生死簿 No.32</BadendIcon>
 - 戰鬥的技能面板空白是因為尚未實裝(v3206)。[^11]
 - 攻擊時影子有條龍，[圖片](/images/characters/girl_8/attack.jpg)。
 
