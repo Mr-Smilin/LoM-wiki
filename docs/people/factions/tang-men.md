@@ -201,5 +201,8 @@ tags:
 - 唐門暗器歌訣：『天下無指，器無可以謂器。非指者，天下無器，可謂指乎？指器者器之，天下無不器。』
 - 唐門穿搭並沒有統一，他們其實隨性的很，而且窮，哪裏破了就會胡亂縫補改造[^1]
 - 唐門弟子被江湖稱為藍色混蛋，只有[[李富貴]]堅持是青色混蛋。
+- 唐門用的胡椒粉其實不是我們所熟知的胡椒粉，是一種唐門獨門毒藥。[^2]
+- 外堡的租客，有些會在外堡做生意，有些單純當成廉租房住著，在別地方討生活。[^2]
 
 [^1]: 鳥熊FB留言：[連結](https://www.facebook.com/obbstudio/posts/pfbid02L46daXzHEiFkoy7P5x12wQxsEJcSq7pHfWU1w4yhQrKqng41YxrnFfeqEDDfdj9ul?comment_id=551506827278389&reply_comment_id=1257010531997433&__cft__[0]=AZVFmmH03sRwObM1816cY6XYfcZoOXMr5C9Bwns7PlNV32HQYCVOy7FldBqv6Lq38CmUkJfxZ-FiQi3HOdnmYH7f1S0Vs9GvI9pKLBEm9SMcDRt0bFdeZlAPr-DTo56y5YCVV__o1xoHpKImseDJJKgyrNWh3AwZM1OvmTaA01COWw&__tn__=R]-R)
+[^2]: [[問答集2024年10月#_2024-10-19|問答集2024-10-19]]
