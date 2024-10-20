@@ -307,9 +307,9 @@ borderless: false
 [^1]: PTT C洽 - [\[活俠\] 龍湘就是哈士奇](https://www.ptt.cc/bbs/C_Chat/M.1722945563.A.D40.html)
 [^2]: 鳥熊FB，瑞笙介紹的[留言](https://www.facebook.com/obbstudio/posts/pfbid02gCxcNbx2fkaEZKNHnr9Wdph1y5BKppCJammvDELEC4dDnwoGGjyQVUz3rvAv5SLyl?comment_id=319038924213779&reply_comment_id=1762313354199156)
 [^3]: 2024/8/5的[直播訪談影片](https://www.youtube.com/watch?v=JkSfhSi3P8w)、[整理文](https://www.ptt.cc/bbs/C_Chat/M.1722863467.A.4F8.html)
-[^4]: 鳥熊FB對話，PTT C洽 - [\[活俠\] 錦香宮相關小知識](https://www.ptt.cc/bbs/C_Chat/M.1725358722.A.1A8.html)
-[^5]: 鳥熊FB對話，PTT C洽 - [Re: \[活俠\] 錦香宮相關小知識](https://www.ptt.cc/bbs/C_Chat/M.1725417369.A.6F8.html)
-[^6]: 鳥熊FB對話，PTT C洽 - [Re: \[活俠\] 錦香宮相關小知識](https://www.ptt.cc/bbs/C_Chat/M.1725531255.A.803.html)
+[^4]: PTT C洽 - [\[活俠\] 錦香宮相關小知識](https://www.ptt.cc/bbs/C_Chat/M.1725358722.A.1A8.html)
+[^5]: PTT C洽 - [Re: \[活俠\] 錦香宮相關小知識](https://www.ptt.cc/bbs/C_Chat/M.1725417369.A.6F8.html)
+[^6]: PTT C洽 - [Re: \[活俠\] 錦香宮相關小知識](https://www.ptt.cc/bbs/C_Chat/M.1725531255.A.803.html)
 [^7]: [[問答集2024年9月#_2024-09-24|問答集2024-09-24]]
 [^8]: [[問答集2024年10月#_2024-10-08|問答集2024-10-08]]
 [^9]: PTT C洽－[\[活俠\] 龍湘小知識二則](https://www.ptt.cc/bbs/C_Chat/M.1728751231.A.9F7.html)
