@@ -117,5 +117,5 @@ aside: false
 - <MarkdownWrapper>||跟據解包，有與趙活成為好友的笙活雙俠線，v3206尚未推出||</MarkdownWrapper>
 - <MarkdownWrapper>||初版西武林與趙活打成平手，但因鋪成不夠遭到玩家不滿，此結局目前被刪除||</MarkdownWrapper>
 
-[^1]: [[問答集2024年10月#_2024-10-13|問答集2024-10-13]]，Part1。
-[^2]: [[問答集2024年10月#_2024-10-19|問答集2024-10-19]]
+[^1]: 巴哈姆特－[【情報】關於龍湘屁股大小的答案+私聊鳥熊的對話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
+[^2]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)

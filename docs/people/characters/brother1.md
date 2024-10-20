@@ -168,4 +168,4 @@ aside: false
 - 為了[[趙活]]的兩顆餃子會放棄和其他女孩的約定。 (來源待補，疑似來自FB問答)
 
 [^1]: 鳥熊Facebook對話，來自[噗浪偷偷說](https://www.plurk.com/p/3gbkphmebg)
-[^2]: [[問答集2024年10月#_2024-10-14|問答集2024-10-14]]，Part1。
+[^2]: PTT C洽－[\[活俠\] 龍湘+綜合小知識數則](https://www.ptt.cc/bbs/C_Chat/M.1728840738.A.3D7.html)
