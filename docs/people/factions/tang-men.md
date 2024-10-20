@@ -202,7 +202,14 @@ tags:
 - 唐門穿搭並沒有統一，他們其實隨性的很，而且窮，哪裏破了就會胡亂縫補改造[^1]
 - 唐門弟子被江湖稱為藍色混蛋，只有[[李富貴]]堅持是青色混蛋。
 - 唐門用的胡椒粉其實不是我們所熟知的胡椒粉，是一種唐門獨門毒藥。[^2]
+- 外堡的房價很便宜，而且根本沒個準，甚至可以拿鹹菜抵房租。[^3]
 - 外堡的租客，有些會在外堡做生意，有些單純當成廉租房住著，在別地方討生活。[^2]
+- 西武林戰前會疏散外堡居民，[[唐惟元|四師兄]]在的話會騙他們去遊山玩水，息了眾怒還倒賺一筆錢財。
+- 外堡居民對於西武林戰後的一片狼藉，多少有點心理準備。他們也是一直受唐門庇蔭的，知道這一天在所難免。[^3]
+- 被唐門暫時收留的人及嫁入唐門的媳婦，無法修習唐門武功或技術，但可以吃毒膳改善體質。[^3]
+- 毒膳通常吃起來又麻又辣，很好吃，吃不慣也不勉強。[^3]
+- 伙房裡面坐不了很多人，如果不是特別的情況，大家會很隨性的坐外面吃。[^3]
 
 [^1]: 鳥熊FB留言：[連結](https://www.facebook.com/obbstudio/posts/pfbid02L46daXzHEiFkoy7P5x12wQxsEJcSq7pHfWU1w4yhQrKqng41YxrnFfeqEDDfdj9ul?comment_id=551506827278389&reply_comment_id=1257010531997433&__cft__[0]=AZVFmmH03sRwObM1816cY6XYfcZoOXMr5C9Bwns7PlNV32HQYCVOy7FldBqv6Lq38CmUkJfxZ-FiQi3HOdnmYH7f1S0Vs9GvI9pKLBEm9SMcDRt0bFdeZlAPr-DTo56y5YCVV__o1xoHpKImseDJJKgyrNWh3AwZM1OvmTaA01COWw&__tn__=R]-R)
 [^2]: [[問答集2024年10月#_2024-10-19|問答集2024-10-19]]
+[^3]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
