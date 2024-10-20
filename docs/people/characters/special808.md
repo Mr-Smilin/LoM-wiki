@@ -11,7 +11,7 @@ aside: false
 <ChTabs position="bottom">
 	<ChTab title="解無塵">
 		<Ch src='/images/characters/special808/normal.png' position='right'/>
-		<ChName nameZh='解無塵' nameEn='Jie Wu Chen' position='right' />
+		<ChName nameZh='解無塵' nameEn='Xie Wu Chen' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
