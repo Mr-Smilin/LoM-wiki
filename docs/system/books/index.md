@@ -296,7 +296,7 @@ tags:
         <td>輕功3<br>拳掌3</td>
         <td>25</td>
         <td></td>
-        <td>二年留學拜師[[夏侯蘭]]，奪魄森林聊天選大師兄取得</td>
+        <td>二年留學拜師<MarkdownWrapper>[[夏侯蘭]]</MarkdownWrapper>，在奪魄森林修練，師父累積兩次不耐煩後會提到<MarkdownWrapper>[[唐布衣|大師兄]]</MarkdownWrapper>，<br>再次進森林，聊天議題選大師兄後取得。</td>
         <td></td>
     </tr>
     <tr>
