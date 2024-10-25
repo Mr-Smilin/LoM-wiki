@@ -38,7 +38,7 @@ aside: false
                     年齡
                 </ChTd>
                 <ChTd>
-                    15 (第一年)
+                    推測15 (第一年)
                 </ChTd>
             </ChTr>
             <ChTr>
