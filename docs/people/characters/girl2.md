@@ -148,7 +148,7 @@ aside: false
 - 天資聰穎，僅靠小時候偷溜進去劍廬的片刻，便創了劍聖[[雲裳劍法|第四式]]。
 - 疑似喜好龍陽之癖，撞見[[趙活]]為了貼藥布脫[[唐布衣|大師兄]]衣服，第一反應：哦……帶勁兒。
 - 身高還有一點成長空間，但要先調養好身體。[^1]
-- <MarkdownWrapper>對哥哥嫂子的需求：寵她。不能太聰明，必須是會被外貌蒙蔽的那種。然後，屁股不能太大。</MarkdownWrapper>
+- <MarkdownWrapper>||對哥哥嫂子的需求：寵她。不能太聰明，必須是會被外貌蒙蔽的那種。然後，屁股不能太大。||</MarkdownWrapper>
 - <MarkdownWrapper>||會暈船，若沒暈船藥，葉哥只得抱他下船步行。||</MarkdownWrapper>
 - <MarkdownWrapper>||結局15，子夜寄君書的真意。||</MarkdownWrapper>
 
