@@ -229,8 +229,11 @@ tags:
 - 伙房裡面坐不了很多人，如果不是特別的情況，大家會很隨性的坐外面吃。[^3]
 - 相較於[[錦香宮]]，比較不強迫學武強身，但必須老實工作。[^4]
 - 現版本除了練功塔外，沒有其他未出現的設施了。[^4]
+- 雖然人們會過節慶，但唐門則屬於想慶祝也有心無力的財務狀況。[^5]
+- 伙房或雜務有班表、課表輪值，比大學的課表還要靈活一點，蹺課不會有人罰，找到人替補也可以自由換班。[[趙活]]雖然更不受管束，但他經常被拗。[^5]
 
 [^1]: 鳥熊FB留言：[連結](https://www.facebook.com/obbstudio/posts/pfbid02L46daXzHEiFkoy7P5x12wQxsEJcSq7pHfWU1w4yhQrKqng41YxrnFfeqEDDfdj9ul?comment_id=551506827278389&reply_comment_id=1257010531997433&__cft__[0]=AZVFmmH03sRwObM1816cY6XYfcZoOXMr5C9Bwns7PlNV32HQYCVOy7FldBqv6Lq38CmUkJfxZ-FiQi3HOdnmYH7f1S0Vs9GvI9pKLBEm9SMcDRt0bFdeZlAPr-DTo56y5YCVV__o1xoHpKImseDJJKgyrNWh3AwZM1OvmTaA01COWw&__tn__=R]-R)
 [^2]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^3]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
 [^4]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
+[^5]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新11/2第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

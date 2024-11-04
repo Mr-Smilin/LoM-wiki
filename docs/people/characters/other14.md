@@ -39,6 +39,7 @@ tags:
 - 屁股比普通人稍微大一點。[^5]
 - [[唐錚|二師兄]]雖然暗戀過她姊，但還是對唐芳挺嚴格的。[^6]
 - 遮一隻眼睛的髮型是學[[唐錚|二師兄]]的，她覺得這樣很酷。[^6]
+- 醫術頗有本事，遼闊中原，要找到比她還高明的大夫，不大容易。[^8]
 
 [^1]: 百度貼吧 - [新女角色突擊](https://tieba.baidu.com/p/9205413054?pn=1)17F (對話公開日2024/10/5)
 [^2]: 鳥熊FB留言，[連結](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=1234364757878397&reply_comment_id=516592081152453&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)
@@ -47,3 +48,4 @@ tags:
 [^5]: [[問答集2024年10月#_2024-10-07|問答集2024-10-07]]，Part2。
 [^6]: [[問答集2024年10月#_2024-10-08|問答集2024-10-08]]
 [^7]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
+[^8]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新11/2第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

@@ -175,6 +175,7 @@ aside: false
 - 滅門線被[[夏靈犀]]稱為小綿羊，而西武林線[[唐惟元|四師兄]]見其一身血衣，更稱之「狂暴小綿羊」。
 - 會怕冷。[^3]
 - 似乎不太會畫圖，被[[劉顎]]笑要找人刻成壁畫，假裝是上古遺跡。
+- 唱歌大走音。[^4]
 
 ### 趙活
 
@@ -221,3 +222,4 @@ aside: false
 [^1]: 巴哈姆特－[【情報】關於龍湘屁股大小的答案+私聊鳥熊的對話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
 [^2]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
 [^3]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
+[^4]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新11/2第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

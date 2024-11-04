@@ -184,7 +184,9 @@ aside: false
 - 一個人住在奪魄森林時的飲食問題，會謀殺森林小動物、走出森林擅自拔鐵拳門人種的菜，偶爾也會上街買。[^2]
 - 少女時溫柔而含蓄，富有愛心，會保護弱者，對抗不公。比起武力更傾向對話。[^2]
 - 喜歡吃火鍋。[^2]
+- 歌喉普遍佳。[^4]
 
 [^1]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
 [^2]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^3]: 原始鳥熊FB留言：[連結](https://www.facebook.com/photo/?fbid=173139081750945&set=a.117318193999701&comment_id=1060353941273585&reply_comment_id=358661379586054)
+[^4]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新11/2第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
