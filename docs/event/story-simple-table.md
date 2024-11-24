@@ -290,7 +290,7 @@ tags:
 			</td>
 			<td>
 				<li>掌門討論繼承人</li>
-				<li>唐衫、佛手香打上山</li>
+				<li>唐衫、佛手柑打上山</li>
 				<li>二師兄叛逃</li>
 			</td>
 		</tr>
@@ -398,12 +398,17 @@ tags:
 			</td>
 			<td>-</td>
 			<td>
-				<li>大師兄去金國前告別(需要夜遊不被擊暈)</li>
+				<MarkdownWrapper>
+				[大師兄刺金](/event/simple/2-09-3-大師兄刺金)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
 			<td>十月</td>
 			<td>
+				<MarkdownWrapper>
+				[江陵決戰準備](/event/simple/2-10-1-江陵決戰準備)<br>
+				</MarkdownWrapper>
 				<li>南宮橫釣魚(夜遊事件不追黑衣人)</li>
 				<li>圍城戰尾聲</li>
 				<li>睡前決定</li>
@@ -435,7 +440,7 @@ tags:
 			</td>
 			<td>
 				<li>掌門討論繼承人</li>
-				<li>唐衫、佛手香打上山</li>
+				<li>唐衫、佛手柑打上山</li>
 				<li>二師兄叛逃</li>
 			</td>
 		</tr>
