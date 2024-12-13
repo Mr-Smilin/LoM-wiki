@@ -408,6 +408,8 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[江陵決戰準備](/event/simple/2-10-1-江陵決戰準備)<br>
+				[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)<br>
+				[江陵決戰](/event/simple/2-10-1-江陵決戰)<br>
 				</MarkdownWrapper>
 				<li>南宮橫釣魚(夜遊事件不追黑衣人)</li>
 				<li>圍城戰尾聲</li>
