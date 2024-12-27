@@ -263,7 +263,9 @@ tags:
 		<tr>
 			<td>十月</td>
 			<td>
-				<li>客棧養傷</li>
+				<MarkdownWrapper>
+				[回歸唐門](/event/simple/2-10-1-回歸唐門)<br>
+				</MarkdownWrapper>
 				<li>送小師妹和葉雲裳上山</li>
 				<li>獲贈唐門傳承小劍</li>
 			</td>
@@ -410,11 +412,9 @@ tags:
 				[江陵決戰準備](/event/simple/2-10-1-江陵決戰準備)<br>
 				[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)<br>
 				[江陵決戰](/event/simple/2-10-1-江陵決戰)<br>
+				[南宮訃音](/event/simple/2-10-1-南宮訃音)<br>
+				[返回唐門](/event/simple/2-10-1-返回唐門)<br>
 				</MarkdownWrapper>
-				<li>南宮橫釣魚(夜遊事件不追黑衣人)</li>
-				<li>圍城戰尾聲</li>
-				<li>睡前決定</li>
-				<li>圍城大戰</li>
 			</td>
 			<td>
 				<li>回到唐門</li>
