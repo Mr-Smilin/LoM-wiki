@@ -266,12 +266,8 @@ tags:
 				<MarkdownWrapper>
 				[回歸唐門](/event/simple/2-10-1-回歸唐門)<br>
 				</MarkdownWrapper>
-				<li>送小師妹和葉雲裳上山</li>
-				<li>獲贈唐門傳承小劍</li>
 			</td>
-			<td>
-				<li>回歸唐門 / 結局分歧</li>
-			</td>
+			<td>-</td>
 			<td>-</td>
 		</tr>
 		<tr>
@@ -288,9 +284,15 @@ tags:
 				<li>唐門例會</li>
 			</td>
 			<td>
-				<li>事件：全面開戰</li>
+				<MarkdownWrapper>
+				[門派宣戰](/event/simple/2-12-2-門派宣戰)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>
+				<MarkdownWrapper>
+				[掌門議事](/event/simple/2-12-3-掌門議事)<br>
+				[唐門內戰](/event/simple/2-12-3-唐門內戰)<br>
+				</MarkdownWrapper>
 				<li>掌門討論繼承人</li>
 				<li>唐衫、佛手柑打上山</li>
 				<li>二師兄叛逃</li>
@@ -416,12 +418,11 @@ tags:
 				[返回唐門](/event/simple/2-10-1-返回唐門)<br>
 				</MarkdownWrapper>
 			</td>
+			<td>-</td>
 			<td>
-				<li>回到唐門</li>
-				<li>二師兄與小師妹有事</li>
-			</td>
-			<td>
-				<li>小梅上門(需要二星好感)</li>
+				<MarkdownWrapper>
+				[小梅上門](/event/simple/2-10-3-小梅上門)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
@@ -438,7 +439,9 @@ tags:
 				<li>唐門例會</li>
 			</td>
 			<td>
-				<li>事件：全面開戰</li>
+				<MarkdownWrapper>
+				[門派宣戰](/event/simple/2-12-2-門派宣戰)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>
 				<li>掌門討論繼承人</li>
