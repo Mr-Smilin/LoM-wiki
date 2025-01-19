@@ -121,6 +121,20 @@ aside: false
 <br><br>
 由於是路痴，綁鈴鐺有一部分是防走丟。
 
+## 結緣信物
+
+<SpecialItemIcon :size="`medium`" :needLink="false" :no="1000" />
+
+小師妹的香囊
+
+<br>
+
+小師妹隨身配戴的香囊，有她喜歡的香料。
+
+<br>
+
+可以驅蟲、驅蛇，但聞久會中毒。
+
 ## 列傳
 
 <Tabs>

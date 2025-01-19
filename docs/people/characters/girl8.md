@@ -132,6 +132,20 @@ borderless: false
 
 <div style="clear:both;"></div>
 
+## 結緣信物
+
+<SpecialItemIcon :size="`medium`" :needLink="false" :no="1004" />
+
+龍湘的髮簪
+
+<br>
+
+龍湘的玉髓髮髻，共有兩對，來自大宋進貢給金國的一尊玉龍像。
+
+<br>
+
+她爹龍淵少年時引以為恥，憤而折斷龍角逃亡，後來做成髮簪，留贈女兒。
+
 ## 列傳
 
 <Tabs>
