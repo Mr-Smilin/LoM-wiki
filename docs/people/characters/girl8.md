@@ -334,6 +334,23 @@ borderless: false
 
 - 鳥熊沒打算出在金國當國王的結局。[^10]
 
+## 畫廊
+
+<div style="display: flex; flex-wrap: wrap;">
+    <div>
+        <img src="/images/collab/20241220_toranoana/photo_22.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+    </div>
+	<div>
+        <img src="/images/collab/20241220_toranoana/photo_16.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+    </div>
+	<div>
+        <img src="/images/collab/20241220_toranoana/photo_20.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+    </div>
+	<div>
+        <img src="/images/collab/20241220_toranoana/photo_21.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+    </div>
+</div>
+
 [^1]: PTT C洽 - [\[活俠\] 龍湘就是哈士奇](https://www.ptt.cc/bbs/C_Chat/M.1722945563.A.D40.html)
 [^2]: 鳥熊FB，瑞笙介紹的[留言](https://www.facebook.com/obbstudio/posts/pfbid02gCxcNbx2fkaEZKNHnr9Wdph1y5BKppCJammvDELEC4dDnwoGGjyQVUz3rvAv5SLyl?comment_id=319038924213779&reply_comment_id=1762313354199156)
 [^3]: 2024/8/5的[直播訪談影片](https://www.youtube.com/watch?v=JkSfhSi3P8w)、[整理文](https://www.ptt.cc/bbs/C_Chat/M.1722863467.A.4F8.html)

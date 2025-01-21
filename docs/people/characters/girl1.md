@@ -105,4 +105,12 @@ aside: false
 - 瑞家遺世獨立，自稱山中無歲月，所以瑞杏穿著類似前朝的襦裙服。布料都是西域來的透氣料子，沒有繡花，看似樸素，實則相當名貴
 - 不愛梳髻簪花，嫌浪費時間。髮飾通常都是[[書蓉]]拿準她想事出神的時候，趁機幫她戴上的
 
+## 畫廊
+
+<div style="display: flex; flex-wrap: wrap;">
+    <div>
+        <img src="/images/collab/20241220_toranoana/photo_18.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+    </div>
+</div>
+
 [^1]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)

@@ -247,3 +247,14 @@ aside: false
 - 廚藝高超，能將[[趙活]]大失敗的菜改成佳餚，發明的糕點鄉親熱烈好評。
 - 根據<EndIcon no="11">結局11</EndIcon>的對話，若無結緣，最後會成為千燈樓主
 - <MarkdownWrapper>||其實初版下場很慘，和金烏生六個，但被炎上後馬上修掉了||</MarkdownWrapper>
+
+## 畫廊
+
+<div style="display: flex; flex-wrap: wrap;">
+    <div>
+        <img src="/images/collab/20241220_toranoana/photo_14.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+    </div>
+	<div>
+        <img src="/images/collab/20241220_toranoana/photo_15.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+    </div>
+</div>

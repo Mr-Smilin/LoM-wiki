@@ -94,3 +94,11 @@ tags:
 - 承字輩的大前輩幾乎死絕或是被廢武功，少數活著的都閉關學佛了。[^1]
 
 [^1]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+
+## 畫廊
+
+<div style="display: flex; flex-wrap: wrap;">
+    <div>
+        <img src="/images/collab/20241220_toranoana/photo_02.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+    </div>
+</div>

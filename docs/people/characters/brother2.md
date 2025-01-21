@@ -164,3 +164,14 @@ aside: false
 - 曾和[[唐布衣|大師兄]]一起暗戀過一位小師姑，是[[唐芳]]姊姊。當大師兄和[[趙活]]聊到這段時，二師兄反應超大，突然暴怒嚇到[[唐默鈴|小師妹]]。
 
 [^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新11/2第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
+
+## 畫廊
+
+<div style="display: flex; flex-wrap: wrap;">
+    <div>
+        <img src="/images/collab/20241220_toranoana/photo_09.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+    </div>
+    <div>
+        <img src="/images/collab/20241220_toranoana/photo_21.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+    </div>
+</div>
