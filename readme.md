@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="120" height="120" src="docs/public/images/index/logo.png" alt=""><br>
+    <img width="120" height="120" src="docs/public/images/index/logo.webp" alt=""><br>
     LoM-wiki
 </h1>
 
