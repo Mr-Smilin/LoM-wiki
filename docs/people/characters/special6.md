@@ -1,9 +1,9 @@
 ---
 title: 萬里鵬程
 tags:
- - 人物
- - 嵩山派
- - 杏花林
+    - 人物
+    - 嵩山派
+    - 杏花林
 aside: false
 ---
 
@@ -11,7 +11,7 @@ aside: false
 
 <ChTabs position="bottom">
 	<ChTab title="萬里鵬程">
-		<Ch src='/images/characters/special6/normal.png' position='right'/>
+		<Ch src='/images/characters/special6/normal.webp' position='right'/>
 		<ChName nameZh='萬里鵬程' nameEn='Wan Li Peng Cheng' position='right' />
 		<ChTable>
 			<ChTr>
@@ -94,4 +94,4 @@ aside: false
 
 ## 備註
 
-- 被[[瑞杏]]稱為萬里老爺子，與絕跡江湖的[[無名|點蒼劍聖]]一起當她的轎夫
+-   被[[瑞杏]]稱為萬里老爺子，與絕跡江湖的[[無名|點蒼劍聖]]一起當她的轎夫

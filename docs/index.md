@@ -7,7 +7,7 @@ hero:
     text: "Legend of Mortal Wiki"
     tagline: 不負俠義，不忘初心
     image:
-        src: /images/index/logo.png
+        src: /images/index/logo.webp
         alt: LoM-wiki
     actions:
         - theme: brand
@@ -57,18 +57,18 @@ onMounted(() => {
 
   const character = document.createElement('img');
   character.id = 'character';
-  character.src = withBase('/images/characters/special805/special.png');
+  character.src = withBase('/images/characters/special805/special.webp');
   character.alt = 'Character';
   
   const characterRun = document.createElement('img');
   characterRun.id = 'character-run';
-  characterRun.src = withBase('/images/characters/girl_3/laugh3.png');
+  characterRun.src = withBase('/images/characters/girl_3/laugh3.webp');
   characterRun.alt = 'Character Running';
   characterRun.style.display = 'none';
   
   const characterFade = document.createElement('img');
   characterFade.id = 'character-fade';
-  characterFade.src = withBase('/images/index/logo.png');
+  characterFade.src = withBase('/images/index/logo.webp');
   characterFade.alt = 'Logo';
   characterFade.style.display = 'none';
 

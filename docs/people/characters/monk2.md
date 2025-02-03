@@ -13,7 +13,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="覺慧">
-		<Ch src='/images/characters/monk2/normal.png' position='right'/>
+		<Ch src='/images/characters/monk2/normal.webp' position='right'/>
 		<ChName nameZh='覺慧' nameEn='Jue Hui' position='right' />
 		<ChTable>
 			<ChTr>
@@ -52,4 +52,4 @@ tags:
 
 ## 備註
 
-- 贈送[[那由它劫指]]的覺醒法師使用同一立繪
+-   贈送[[那由它劫指]]的覺醒法師使用同一立繪

@@ -1,8 +1,8 @@
 ---
 title: 南宮深
 tags:
- - 人物
- - 南宮世家
+    - 人物
+    - 南宮世家
 aside: false
 ---
 
@@ -10,7 +10,7 @@ aside: false
 
 <ChTabs position="bottom">
 	<ChTab title="南宮深">
-		<Ch src='/images/characters/special102/normal.png' position='right'/>
+		<Ch src='/images/characters/special102/normal.webp' position='right'/>
 		<ChName nameZh='南宮深' nameEn='Nan Gong Shen' position='right' />
 		<ChTable>
 			<ChTr>
@@ -62,11 +62,11 @@ aside: false
 		</ChTable>
 	</ChTab>
 	<ChTab title="鳳凰寶衣1">
-		<Ch src='/images/characters/special102/special1.png' position='center'/>
+		<Ch src='/images/characters/special102/special1.webp' position='center'/>
 		<ChName nameZh='鳳凰寶衣' nameEn='Phoenix Armor' position='right' />
 	</ChTab>
 		<ChTab title="鳳凰寶衣2">
-		<Ch src='/images/characters/special102/special2.png' position='center'/>
+		<Ch src='/images/characters/special102/special2.webp' position='center'/>
 		<ChName nameZh='鳳凰寶衣' nameEn='Phoenix Armor' position='right' />
 	</ChTab>
 </ChTabs>
@@ -95,22 +95,22 @@ aside: false
 
 ## 備註
 
-- 待人兩極，痛恨無力之人，反之有實力被欣賞態度會完全不一樣
-- 管吃管喝~~管嫖~~
-- 作者認證最大胸，~~不愧是深V俠~~
-- 非常恐懼[[唐布衣]]，不只一次因為花心多情被蒙面人毆打，私下設局報復還被打得更慘
-- 與[[魏菊]]、[[上官螢]]為耕陽讀書齋的同窗好友
-- 與[[上官螢]]有婚約，但江陵之戰後因為把[[樂屏]]肚子搞大，辭退婚約
-- [[魏菊]]對他難以恭維，敬而遠之，以下是原句：
-> 「與文人結交，卻又自矜武林家世；胸有城府卻不深不淺；<br>
-> 　琴棋書畫皆沾卻不求甚解，又佯作高深莫測，附庸風雅罷了；<br>
-> 　好逸而惡勞，追捧有才名的士人，居高臨下使喚工民，卻輕賤農商。<br>
-> 　造的詩都庸俗不堪入耳，寫的字稱有劍氣實則張牙舞爪；<br>
-> 　明明有上官娘子這樣好的未婚妻子，卻還自命風流拈花惹草。」
-- 傳奇文本對南宮深的敘述特別辛辣，疑似是魏菊在偷臭
-- 全力防禦時，可謂是守得滴水不漏，強如[[畫中仙]]一時亦奈何不了他
-- 西武林線有機會對上穿著鳳凰寶衣的超級南宮深
-- 與靜江九縣小盟主[[方震天]]、火炎山總鍛長[[段純青]]、斬天黑翼雙龍劍的[[齊壬]]是好友
-- 母親活著，但不住南宮家，很多年前就回娘家去了，跟[[南宮世家]]沒什麼聯絡。[^1]
+-   待人兩極，痛恨無力之人，反之有實力被欣賞態度會完全不一樣
+-   管吃管喝~~管嫖~~
+-   作者認證最大胸，~~不愧是深 V 俠~~
+-   非常恐懼[[唐布衣]]，不只一次因為花心多情被蒙面人毆打，私下設局報復還被打得更慘
+-   與[[魏菊]]、[[上官螢]]為耕陽讀書齋的同窗好友
+-   與[[上官螢]]有婚約，但江陵之戰後因為把[[樂屏]]肚子搞大，辭退婚約
+-   [[魏菊]]對他難以恭維，敬而遠之，以下是原句：
+    > 「與文人結交，卻又自矜武林家世；胸有城府卻不深不淺；<br>
+    > 　琴棋書畫皆沾卻不求甚解，又佯作高深莫測，附庸風雅罷了；<br>
+    > 　好逸而惡勞，追捧有才名的士人，居高臨下使喚工民，卻輕賤農商。<br>
+    > 　造的詩都庸俗不堪入耳，寫的字稱有劍氣實則張牙舞爪；<br>
+    > 　明明有上官娘子這樣好的未婚妻子，卻還自命風流拈花惹草。」
+-   傳奇文本對南宮深的敘述特別辛辣，疑似是魏菊在偷臭
+-   全力防禦時，可謂是守得滴水不漏，強如[[畫中仙]]一時亦奈何不了他
+-   西武林線有機會對上穿著鳳凰寶衣的超級南宮深
+-   與靜江九縣小盟主[[方震天]]、火炎山總鍛長[[段純青]]、斬天黑翼雙龍劍的[[齊壬]]是好友
+-   母親活著，但不住南宮家，很多年前就回娘家去了，跟[[南宮世家]]沒什麼聯絡。[^1]
 
-[^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新11/2第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
+[^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

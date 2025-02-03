@@ -12,7 +12,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="譚霸刀">
-		<Ch src='/images/characters/special801/normal.png' position='right'/>
+		<Ch src='/images/characters/special801/normal.webp' position='right'/>
 		<ChName nameZh='譚霸刀' nameEn='Tan Ba Dao' position='right' />
 		<ChTable>
 			<ChTr>
@@ -36,5 +36,5 @@ tags:
 
 ## 備註
 
-- ~~又名王八刀~~
-- 如果壽宴上沒有揭穿他，會因貪杯好色，某次借酒裝瘋欺辱了良家女子被[[宋悲]]懸賞，聲名狼藉
+-   ~~又名王八刀~~
+-   如果壽宴上沒有揭穿他，會因貪杯好色，某次借酒裝瘋欺辱了良家女子被[[宋悲]]懸賞，聲名狼藉

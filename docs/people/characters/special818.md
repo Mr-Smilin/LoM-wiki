@@ -14,7 +14,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="書蓉">
-		<Ch src='/images/characters/special818/normal.png' position='right'/>
+		<Ch src='/images/characters/special818/normal.webp' position='right'/>
 		<ChName nameZh='書蓉' nameEn='Shu Rong' position='right' />
 		<ChTable>
 			<ChTr>
@@ -57,6 +57,6 @@ tags:
 
 ## 備註
 
-- 鳥熊Facebook的介紹，[連結](https://www.facebook.com/photo.php?fbid=340029288550453&id=100076301525150&set=a.165167019370015)
-- 原本豆蔻之年是寫「舞勺之年」，後來鳥熊說不小心暴雷改掉，難道書蓉性別是...！？
-- 原本是可攻略對象，但因為開發壓力刪除
+-   鳥熊 Facebook 的介紹，[連結](https://www.facebook.com/photo.php?fbid=340029288550453&id=100076301525150&set=a.165167019370015)
+-   原本豆蔻之年是寫「舞勺之年」，後來鳥熊說不小心暴雷改掉，難道書蓉性別是...！？
+-   原本是可攻略對象，但因為開發壓力刪除

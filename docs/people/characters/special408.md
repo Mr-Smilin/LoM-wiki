@@ -13,7 +13,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="向無憂">
-		<Ch src='/images/characters/special408/normal.png' position='right'/>
+		<Ch src='/images/characters/special408/normal.webp' position='right'/>
 		<ChName nameZh='向無憂' nameEn='Xiang Wu You' position='right' />
 		<ChTable>
 			<ChTr>
@@ -60,11 +60,11 @@ tags:
 
 ## 備註
 
-- 掌門是臨危受命當的。
-- 雖不想當掌門屬實，但也不會把掌門之位給[[解無塵]]，因為他超不可靠。[^1]
-- 會峨嵋奧義，[[雷神腳]]。
-- 西武林線[[夏侯蘭]]會找他指教，接幾招後互相佩服，直到他說與[[第三香]]有舊，而後被追殺。
-- [[第三香]]是江湖社交場合認識的。[^2]
+-   掌門是臨危受命當的。
+-   雖不想當掌門屬實，但也不會把掌門之位給[[解無塵]]，因為他超不可靠。[^1]
+-   會峨嵋奧義，[[雷神腳]]。
+-   西武林線[[夏侯蘭]]會找他指教，接幾招後互相佩服，直到他說與[[第三香]]有舊，而後被追殺。
+-   [[第三香]]是江湖社交場合認識的。[^2]
 
-[^1]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
-[^2]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新11/2第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
+[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^2]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

@@ -15,7 +15,7 @@ tags:
 <ChTabs position="bottom">
     <ChTab title="狄傲">
         <Ch
-            src='/images/characters/big_trainee_girl_1/normal2.png' 
+            src='/images/characters/big_trainee_girl_1/normal2.webp' 
             position='right'/>
         <ChName nameZh='狄傲' nameEn='Di Ao' position='right' />
         <ChTable>
@@ -51,7 +51,7 @@ tags:
     </ChTab>
     <ChTab title="JOJO立">
         <Ch 
-            src='/images/characters/big_trainee_girl_1/jojo2.png' 
+            src='/images/characters/big_trainee_girl_1/jojo2.webp' 
             position='right' />
         <ChName
             nameZh='JOJO立'
@@ -59,7 +59,7 @@ tags:
     </ChTab>
     <ChTab title="唐嬌嬌">
         <Ch 
-            src='/images/characters/big_trainee_girl_1/normal.png' 
+            src='/images/characters/big_trainee_girl_1/normal.webp' 
             position='right' />
         <ChName
             nameZh='唐嬌嬌'
@@ -67,7 +67,7 @@ tags:
     </ChTab>
     <ChTab title="JOJO立2">
         <Ch 
-            src='/images/characters/big_trainee_girl_1/jojo.png' 
+            src='/images/characters/big_trainee_girl_1/jojo.webp' 
             position='right' />
         <ChName
             nameZh='JOJO立'

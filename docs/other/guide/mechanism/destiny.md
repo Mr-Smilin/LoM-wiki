@@ -16,7 +16,7 @@ tags:
     - destiny
 ---
 
-<img class='guide-img' src='/images/guide/destiny.jpg' alt='命運'>
+<img class='guide-img' src='/images/guide/destiny.webp' alt='命運'>
 
 ## {{ $frontmatter.title }}
 

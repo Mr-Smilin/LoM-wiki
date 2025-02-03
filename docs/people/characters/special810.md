@@ -12,7 +12,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="樂屏">
-		<Ch src='/images/characters/special810/normal.png' position='right'/>
+		<Ch src='/images/characters/special810/normal.webp' position='right'/>
 		<ChName nameZh='樂屏' nameEn='Yue Ping' position='right' />
 		<ChTable>
 			<ChTr>
@@ -51,4 +51,4 @@ tags:
 
 ## 備註
 
-- 圖片是樂女共用立繪，[[譚霸刀]]的劇情也有用到。~~不是特殊立繪讓不少玩家感到惋惜~~
+-   圖片是樂女共用立繪，[[譚霸刀]]的劇情也有用到。~~不是特殊立繪讓不少玩家感到惋惜~~

@@ -41,7 +41,7 @@ tags:
 請依您的需求放入對應的資料夾(若不清楚請參考 `/readme.md` 資料夾結構說明)  
 除了 `/docs/event` 底下可能有部分事件用英文取名稍嫌困難，  
 可以用 `中文名稱.md` 的格式命名外,  
-其餘檔名務必是純英文、半形數字跟 `-` 組成,   
+其餘檔名務必是純英文、半形數字跟 `-` 組成,  
 例如
 
 ```
@@ -230,7 +230,7 @@ hello `行內純文字塊`test
 <br>
 
 ![趙活的圖片,完整路徑](https://i.imgur.com/WlPuE8U.png)
-![龍湘大頭貼, 相對路徑](/images/characters/girl_8/icon_girl8.png)
+![龍湘大頭貼, 相對路徑](/images/characters/girl_8/icon_girl8.webp)
 
 <br>
 
@@ -238,7 +238,7 @@ hello `行內純文字塊`test
 
 ```markdown
 ![趙活的圖片,完整路徑](https://i.imgur.com/WlPuE8U.png)
-![龍湘大頭貼, 相對路徑](/images/characters/girl_8/icon_girl8.png)
+![龍湘大頭貼, 相對路徑](/images/characters/girl_8/icon_girl8.webp)
 ```
 
 :::

@@ -21,7 +21,7 @@ tags:
 <br><br>
 
 <div style="text-align: center;">
-  <img src="/images/characters/girl_8/icon_drumstick.png" style="display: block; margin: 0 auto;" />
+  <img src="/images/characters/girl_8/icon_drumstick.webp" style="display: block; margin: 0 auto;" />
   <p>感謝龍湘擔任本頁展示用模特</p>
 </div>
 
@@ -100,12 +100,12 @@ tags:
 <ChTabs>
     <ChTab title="我是第一頁">
         <Ch
-        src='/images/characters/girl_8/normal.png'
+        src='/images/characters/girl_8/normal.webp'
         position='right'/>
     </ChTab>
     <ChTab title="切換我的圖片有動畫載入">
         <Ch
-        src='/images/characters/girl_8/girl8_drumstick.png'
+        src='/images/characters/girl_8/girl8_drumstick.webp'
         position='center'
         :animation=true />
     </ChTab>
@@ -117,12 +117,12 @@ tags:
 <ChTabs>
     <ChTab title="我是第一頁">
         <Ch
-        src='/images/characters/girl_8/normal.png'
+        src='/images/characters/girl_8/normal.webp'
         position='right'/>
     </ChTab>
     <ChTab title="切換我的圖片有動畫載入">
         <Ch
-        src='/images/characters/girl_8/girl8_drumstick.png'
+        src='/images/characters/girl_8/girl8_drumstick.webp'
         position='center'
         :animation=true />
     </ChTab>
@@ -274,7 +274,7 @@ tags:
         nameEn='Long Xiang'
         position='right'/>
         <Ch
-        src='/images/characters/girl_8/normal.png'
+        src='/images/characters/girl_8/normal.webp'
         position='right'/>
         <ChTable
         :table="[
@@ -294,7 +294,7 @@ tags:
     </ChTab>
     <ChTab title="吃雞腿">
         <Ch
-        src='/images/characters/girl_8/girl8_drumstick.png'
+        src='/images/characters/girl_8/girl8_drumstick.webp'
         position='center'
         :animation=true />
     </ChTab>
@@ -310,7 +310,7 @@ tags:
         nameEn='Long Xiang'
         position='right'/>
         <Ch
-        src='/images/characters/girl_8/normal.png'
+        src='/images/characters/girl_8/normal.webp'
         position='right'/>
         <ChTable
         :table="[
@@ -330,7 +330,7 @@ tags:
     </ChTab>
     <ChTab title="吃雞腿">
         <Ch
-        src='/images/characters/girl_8/girl8_drumstick.png'
+        src='/images/characters/girl_8/girl8_drumstick.webp'
         position='center'
         :animation=true />
     </ChTab>
@@ -627,7 +627,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="龍湘">
         <ChMeet 
-			src='/images/characters/girl_8/normal.png' 
+			src='/images/characters/girl_8/normal.webp' 
 			nameMain='龍湘'
 			desc='師承錦香宮，劍法精絕的清麗佳人。<br>踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。'
 			:animation=true
@@ -635,7 +635,7 @@ tags:
     </ChTab>
 	<ChTab title="無動畫版">
         <ChMeet 
-			src='/images/characters/girl_0/normal.png' 
+			src='/images/characters/girl_0/normal.webp' 
 			nameTitle='小師妹'
 			nameMain='唐默鈴'
 			desc='芳名默鈴，唐門掌門獨生愛女，宛如森林小動物般的少女，性情淡漠，身繫七串從來不響的鈴噹。<br>興趣是摺紙。'
@@ -651,7 +651,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="龍湘">
         <ChMeet
-			src='/images/characters/girl_8/normal.png'
+			src='/images/characters/girl_8/normal.webp'
 			nameMain='龍湘'
 			desc='師承錦香宮，劍法精絕的清麗佳人。<br>踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。'
 			:animation=true
@@ -659,7 +659,7 @@ tags:
     </ChTab>
 	<ChTab title="無動畫版">
         <ChMeet
-			src='/images/characters/girl_0/normal.png'
+			src='/images/characters/girl_0/normal.webp'
 			nameTitle='小師妹'
 			nameMain='唐默鈴'
 			desc='芳名默鈴，唐門掌門獨生愛女，宛如森林小動物般的少女，性情淡漠，身繫七串從來不響的鈴噹。<br>興趣是摺紙。'

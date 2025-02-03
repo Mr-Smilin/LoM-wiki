@@ -47,14 +47,14 @@ npm run dev
 ### <菜雞版說明>
 
 (1)點擊右上角圖案進入 github 頁面  
-![](/images/develop/3-run-local/菜雞預覽教學01.jpg)  
+![](/images/develop/3-run-local/菜雞預覽教學01.webp)  
 (2)把 source code 下載到電腦中隨便找個地方解壓縮  
-![](/images/develop/3-run-local/菜雞預覽教學02.jpg)  
+![](/images/develop/3-run-local/菜雞預覽教學02.webp)  
 (3)下載並安裝[NPM](https://nodejs.org/dist/v18.18.1/node-v18.18.1-x64.msi)與[GIT](https://git-scm.com/downloads)  
 (4)於 source code 資料夾路徑輸入 CMD，會跳出該路徑的命令提示字元  
-![](/images/develop/3-run-local/菜雞預覽教學03.jpg)  
+![](/images/develop/3-run-local/菜雞預覽教學03.webp)  
 (5)依序輸入 npm install 與 npm run dev  
-![](/images/develop/3-run-local/菜雞預覽教學04.jpg)  
+![](/images/develop/3-run-local/菜雞預覽教學04.webp)  
 (6)在瀏覽器網址輸入 `localhost:5173/LoM-wiki/`
-![](/images/develop/3-run-local/菜雞預覽教學05.jpg)  
+![](/images/develop/3-run-local/菜雞預覽教學05.webp)  
 (7)完成以上步驟後即可即時預覽儲存後的所有修改結果

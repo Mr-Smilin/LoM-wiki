@@ -14,7 +14,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="唐衫">
-		<Ch src='/images/characters/special811/normal.png' position='right'/>
+		<Ch src='/images/characters/special811/normal.webp' position='right'/>
 		<ChName nameZh='唐衫' nameEn='Tang Shan' position='right' />
 		<ChTable>
 			<ChTr>
@@ -59,10 +59,10 @@ tags:
 
 ## 備註
 
-- v1.0.3200後開放加入，在之前只有內亂事件的戲。
-- ~~屋頂俠~~，最喜歡上屋頂大聲喊話。
-- 若加入且隨[[唐布衣|大師兄]]下山，會在武林大會上為[[唐門]]說好話，與[[飛石幫]]和解。
-- 續上，若[[唐嬌嬌]]有加入唐門，會~~因為輕功太弱甩不掉~~與她兩情相悅，請[[唐陞|三師兄]]賜婚。
-- 從沒燒過菜。[^1]
+-   v1.0.3200 後開放加入，在之前只有內亂事件的戲。
+-   ~~屋頂俠~~，最喜歡上屋頂大聲喊話。
+-   若加入且隨[[唐布衣|大師兄]]下山，會在武林大會上為[[唐門]]說好話，與[[飛石幫]]和解。
+-   續上，若[[唐嬌嬌]]有加入唐門，會~~因為輕功太弱甩不掉~~與她兩情相悅，請[[唐陞|三師兄]]賜婚。
+-   從沒燒過菜。[^1]
 
-[^1]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)

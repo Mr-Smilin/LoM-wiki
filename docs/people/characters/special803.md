@@ -12,7 +12,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="江行老">
-		<Ch src='/images/characters/special803/normal.png' position='right'/>
+		<Ch src='/images/characters/special803/normal.webp' position='right'/>
 		<ChName nameZh='江行老' nameEn='Jiang Hang Lao' position='right' />
 		<ChTable>
 			<ChTr>
@@ -34,4 +34,4 @@ tags:
 
 ## 備註
 
-- 圖片是商人共用立繪
+-   圖片是商人共用立繪

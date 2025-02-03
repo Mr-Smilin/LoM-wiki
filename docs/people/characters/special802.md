@@ -12,7 +12,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="辛儒">
-		<Ch src='/images/characters/special802/normal.png' position='right'/>
+		<Ch src='/images/characters/special802/normal.webp' position='right'/>
 		<ChName nameZh='辛儒' nameEn='Xin Ru' position='right' />
 		<ChTable>
 			<ChTr>
@@ -41,11 +41,11 @@ tags:
 		</ChTable>
 	</ChTab>
     <ChTab title="笑">
-		<Ch src='/images/characters/special802/laugh1.png' position='right'/>
+		<Ch src='/images/characters/special802/laugh1.webp' position='right'/>
 		<ChName nameZh='笑' nameEn='Laugh' position='right' />
 	</ChTab>
     <ChTab title="緊張">
-		<Ch src='/images/characters/special802/nervous.png' position='right'/>
+		<Ch src='/images/characters/special802/nervous.webp' position='right'/>
 		<ChName nameZh='緊張' nameEn='Nervous' position='right' />
 	</ChTab>
 </ChTabs>
@@ -68,5 +68,5 @@ tags:
 
 ## 備註
 
-- 立繪美，又有師姐、人妻屬性，在玩家之間人氣意外頗高(?)
-- 婆婆是南宮家主的親妹子，故夫家是[[南宮世家]]的親家
+-   立繪美，又有師姐、人妻屬性，在玩家之間人氣意外頗高(?)
+-   婆婆是南宮家主的親妹子，故夫家是[[南宮世家]]的親家

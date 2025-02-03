@@ -14,7 +14,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="火龍仙君">
-		<Ch src='/images/characters/special204/normal.png' position='right'/>
+		<Ch src='/images/characters/special204/normal.webp' position='right'/>
 		<ChName nameZh='火龍仙君' nameEn='Huo Long Xian Jun' position='right' />
 		<ChTable>
 			<ChTr>
@@ -63,6 +63,6 @@ tags:
 
 ## 備註
 
-- 仙君很小心眼，一山不容二仙，在飛天門不要吹牛吹過頭哇。<BadendIcon :no="15">生死簿 No.15</BadendIcon>
-- 與[[金烏上人]]以平輩之禮相待
-- 曾拍[[上官隼]]馬屁，說是東海龍王轉世
+-   仙君很小心眼，一山不容二仙，在飛天門不要吹牛吹過頭哇。<BadendIcon :no="15">生死簿 No.15</BadendIcon>
+-   與[[金烏上人]]以平輩之禮相待
+-   曾拍[[上官隼]]馬屁，說是東海龍王轉世

@@ -13,7 +13,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="明玉">
-		<Ch src='/images/characters/other18/normal.png' position='right'/>
+		<Ch src='/images/characters/other18/normal.webp' position='right'/>
 		<ChName nameZh='明玉' nameEn='Ming Yu' position='right' />
 		<ChTable>
 			<ChTr>
@@ -66,8 +66,8 @@ tags:
 
 ## 備註
 
-- 通用立繪
-- 跟隨[[溫夫人]]最久，音律是最好的。[^1]
-- 臨死之際，不稱[[溫夫人]]為宮主，而是小姐。
+-   通用立繪
+-   跟隨[[溫夫人]]最久，音律是最好的。[^1]
+-   臨死之際，不稱[[溫夫人]]為宮主，而是小姐。
 
-[^1]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)

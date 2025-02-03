@@ -13,7 +13,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="盛雪">
-		<Ch src='/images/characters/other12/normal.png' position='right'/>
+		<Ch src='/images/characters/other12/normal.webp' position='right'/>
 		<ChName nameZh='盛雪' nameEn='Cheng Xue' position='right' />
 		<ChTable>
 			<ChTr>
@@ -75,10 +75,10 @@ tags:
 
 ## 備註
 
-- 出場戲份和[[辛儒]]一樣少的配角，但立繪美，在玩家間也意外有人氣(?)
-- 出身平江府，說起話來軟軟糯糯的
-- 遊戲對話名是錦香弟子，鳥熊沒打算改。[^1]
-- 從小就懂燒家常菜。[^2]
+-   出場戲份和[[辛儒]]一樣少的配角，但立繪美，在玩家間也意外有人氣(?)
+-   出身平江府，說起話來軟軟糯糯的
+-   遊戲對話名是錦香弟子，鳥熊沒打算改。[^1]
+-   從小就懂燒家常菜。[^2]
 
 [^1]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
-[^2]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^2]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)

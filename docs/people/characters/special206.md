@@ -1,8 +1,8 @@
 ---
 title: 福韞
 tags:
- - 人物
- - 嵩山派
+    - 人物
+    - 嵩山派
 aside: false
 ---
 
@@ -11,7 +11,7 @@ aside: false
 <ChTabs position="bottom">
     <ChTab title="初識">
 		<ChMeet 
-			src='/images/characters/special206/normal.png' 
+			src='/images/characters/special206/normal.webp' 
             nameTitle=''
 			nameMain='福韞'
 			desc='嵩山派的年輕弟子，雲遊大宋，弘揚佛法，籌措善款以期修繕敗破的嵩山寺。'
@@ -80,13 +80,13 @@ aside: false
 
 ## 備註
 
-- 鳥熊Facebook的介紹，[連結](https://www.facebook.com/photo/?fbid=424312240122157&set=pcb.424312443455470)
-- 靈感來自虛竹，ptt版的
-- 全遊戲嘴力最高的人之一
-- 西武林線若好感度≧2★，會找十八銅人來助陣
-- 據說有歷史人物打底，但因為大人的原因，改了一個字
-- 因[[丐幫]]、[[嵩山派|嵩山]]在外堡打砸心中有愧，在外堡住了下來，協助修復。
-- 住外堡時屬於掛單，遊方僧侶投寺寄住，不用繳房租。[^1]
-- 在嵩山寺中會燒菜。[^1]
+-   鳥熊 Facebook 的介紹，[連結](https://www.facebook.com/photo/?fbid=424312240122157&set=pcb.424312443455470)
+-   靈感來自虛竹，ptt 版的
+-   全遊戲嘴力最高的人之一
+-   西武林線若好感度 ≧2★，會找十八銅人來助陣
+-   據說有歷史人物打底，但因為大人的原因，改了一個字
+-   因[[丐幫]]、[[嵩山派|嵩山]]在外堡打砸心中有愧，在外堡住了下來，協助修復。
+-   住外堡時屬於掛單，遊方僧侶投寺寄住，不用繳房租。[^1]
+-   在嵩山寺中會燒菜。[^1]
 
-[^1]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)

@@ -12,7 +12,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="方震天">
-		<Ch src='/images/characters/other16/normal.png' position='right'/>
+		<Ch src='/images/characters/other16/normal.webp' position='right'/>
 		<ChName nameZh='方震天' nameEn='Fang Zhen Tian' position='right' />
 		<ChTable>
 			<ChTr>
@@ -53,8 +53,5 @@ tags:
 
 ## 備註
 
-- 招式是盤古開天破、刀山火海式
-- 通用立繪
-
-
-
+-   招式是盤古開天破、刀山火海式
+-   通用立繪

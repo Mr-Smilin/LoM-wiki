@@ -14,7 +14,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="顏疆">
-		<Ch src='/images/characters/trainee204/normal.png' position='right'/>
+		<Ch src='/images/characters/trainee204/normal.webp' position='right'/>
 		<ChName nameZh='顏疆' nameEn='Yan Jiang' position='right' />
 		<ChTable>
 			<ChTr>
@@ -73,6 +73,6 @@ tags:
 
 ## 備註
 
-- 在崆峒季試時當主持人
-- 若招親時[[金烏上人]]存活，戰敗後會惱羞成怒殺掉顏疆。若揭開金烏真面目，會對[[趙活]]另眼相看，打包票會幫他向[[火龍仙君]]邀功
-- 在他心目中，有資格角逐掌派人的是[[丹霞子]]，絕不是[[金烏上人]]
+-   在崆峒季試時當主持人
+-   若招親時[[金烏上人]]存活，戰敗後會惱羞成怒殺掉顏疆。若揭開金烏真面目，會對[[趙活]]另眼相看，打包票會幫他向[[火龍仙君]]邀功
+-   在他心目中，有資格角逐掌派人的是[[丹霞子]]，絕不是[[金烏上人]]

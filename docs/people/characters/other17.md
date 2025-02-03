@@ -13,7 +13,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="阿叔">
-		<Ch src='/images/characters/other17/normal.png' position='right'/>
+		<Ch src='/images/characters/other17/normal.webp' position='right'/>
 		<ChName nameZh='阿叔' nameEn='Uncle' position='right' />
 		<ChTable>
 			<ChTr>
@@ -47,6 +47,6 @@ tags:
 
 ## 備註
 
-- 通用立繪
-- 教[[樊嘯天]]名言「狗沒有狗娘養，你卻有！」的本人
-- 若江陵初戰骰到官兵優勢，勝利後抓到五成和狂犬，之後和南宮老太爺一起去釣魚時，會有阿叔帶狂犬回去的一幕。
+-   通用立繪
+-   教[[樊嘯天]]名言「狗沒有狗娘養，你卻有！」的本人
+-   若江陵初戰骰到官兵優勢，勝利後抓到五成和狂犬，之後和南宮老太爺一起去釣魚時，會有阿叔帶狂犬回去的一幕。

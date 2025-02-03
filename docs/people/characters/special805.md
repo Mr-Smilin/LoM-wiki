@@ -14,7 +14,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="阿鶴俠">
-		<Ch src='/images/characters/special805/special.png' position='right'/>
+		<Ch src='/images/characters/special805/special.webp' position='right'/>
 		<ChName nameZh='阿鶴俠' nameEn='A He Xia' position='right' />
 		<ChTable>
 			<ChTr>
@@ -51,7 +51,7 @@ tags:
 		</ChTable>
 	</ChTab>
 	<ChTab title="出來玩！">
-		<Ch src='/images/characters/special805/special2.png' position='right'/>
+		<Ch src='/images/characters/special805/special2.webp' position='right'/>
 		<ChName nameZh='阿鶴俠' nameEn='A He Xia' position='right' />
 	</ChTab>
 </ChTabs>
@@ -64,7 +64,7 @@ tags:
 
 ## 備註
 
-- 系統特別把鶴手與[[虞小梅|小梅]]分兩個不同人名，所以阿鶴俠是真的！~~歹勢，這個小編三不五時就會跑出來~~
-- 會用鶴手型態跟[[火閃電]]交流，火閃電如果不及時回應或者擺出「= =」的表情就會被搧巴掌教訓。[^1]
+-   系統特別把鶴手與[[虞小梅|小梅]]分兩個不同人名，所以阿鶴俠是真的！~~歹勢，這個小編三不五時就會跑出來~~
+-   會用鶴手型態跟[[火閃電]]交流，火閃電如果不及時回應或者擺出「= =」的表情就會被搧巴掌教訓。[^1]
 
-[^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新11/2第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
+[^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

@@ -16,7 +16,7 @@ aside: false
 <ChTabs position="bottom">
 	<ChTab title="初識">
 		<ChMeet 
-			src='/images/characters/girl_2/normal.png' 
+			src='/images/characters/girl_2/normal.webp' 
 			nameTitle='點蒼明珠'
 			nameMain='葉雲裳'
 			desc='葉雲舟的胞妹。<br>縱是盛夏，貂裘亦不離身。雖是個俏皮愛搗蛋的美貌姑娘，卻總鬧不消半天便會發燒倒下。'
@@ -148,38 +148,38 @@ aside: false
 
 ## 備註
 
-塗黑防劇透的部分是解包情報，v3206版本無法正常玩到。
+塗黑防劇透的部分是解包情報，v3206 版本無法正常玩到。
 
-- 鳥熊FB的介紹：[連結](https://www.facebook.com/obbstudio/photos/pb.100076301525150.-2207520000/132329695831884/?type=3)
-- 看我點蒼棒法！聽雲棒！
-- 與[[唐默鈴|小師妹]]年齡相仿，推測十五歲，和她感情非常好。
-- 葉雲裳的本性：[連結](https://www.facebook.com/obbstudio/photos/p.173499981714855/173499981714855/?type=3)
-- 惡作劇時不知輕重，把人弄哭了又會內疚的半吊子。
-- 治不了她時，可向[[葉雲舟]]告狀，會抽爛她屁股。
-- 嫌胡椒餅太辣，咬一口就不吃。
-- 咬[[趙活]]是動真格的咬，全身上下都痛。[[唐默鈴|小師妹]]則是一下一下小口輕啃。
-- 在後山設陷阱抓到上山打獵的[[李富貴]]，害他被從天而降的活鹿撞暈過去。
-- 天資聰穎，僅靠小時候偷溜進去劍廬的片刻，便創了劍聖[[雲裳劍法|第四式]]。
-- 疑似喜好龍陽之癖，撞見[[趙活]]為了貼藥布脫[[唐布衣|大師兄]]衣服，第一反應：哦……帶勁兒。
-- 身高還有一點成長空間，但要先調養好身體。[^1]
-- 雖然重病，但不會每天都吐血。[^2]
-- <MarkdownWrapper>||對哥哥嫂子的需求：寵她。不能太聰明，必須是會被外貌蒙蔽的那種。然後，屁股不能太大。||</MarkdownWrapper>
-- <MarkdownWrapper>||會暈船，若沒暈船藥，葉哥只得抱他下船步行。||</MarkdownWrapper>
-- <MarkdownWrapper>||結局15，子夜寄君書的真意。||</MarkdownWrapper>
+-   鳥熊 FB 的介紹：[連結](https://www.facebook.com/obbstudio/photos/pb.100076301525150.-2207520000/132329695831884/?type=3)
+-   看我點蒼棒法！聽雲棒！
+-   與[[唐默鈴|小師妹]]年齡相仿，推測十五歲，和她感情非常好。
+-   葉雲裳的本性：[連結](https://www.facebook.com/obbstudio/photos/p.173499981714855/173499981714855/?type=3)
+-   惡作劇時不知輕重，把人弄哭了又會內疚的半吊子。
+-   治不了她時，可向[[葉雲舟]]告狀，會抽爛她屁股。
+-   嫌胡椒餅太辣，咬一口就不吃。
+-   咬[[趙活]]是動真格的咬，全身上下都痛。[[唐默鈴|小師妹]]則是一下一下小口輕啃。
+-   在後山設陷阱抓到上山打獵的[[李富貴]]，害他被從天而降的活鹿撞暈過去。
+-   天資聰穎，僅靠小時候偷溜進去劍廬的片刻，便創了劍聖[[雲裳劍法|第四式]]。
+-   疑似喜好龍陽之癖，撞見[[趙活]]為了貼藥布脫[[唐布衣|大師兄]]衣服，第一反應：哦……帶勁兒。
+-   身高還有一點成長空間，但要先調養好身體。[^1]
+-   雖然重病，但不會每天都吐血。[^2]
+-   <MarkdownWrapper>||對哥哥嫂子的需求：寵她。不能太聰明，必須是會被外貌蒙蔽的那種。然後，屁股不能太大。||</MarkdownWrapper>
+-   <MarkdownWrapper>||會暈船，若沒暈船藥，葉哥只得抱他下船步行。||</MarkdownWrapper>
+-   <MarkdownWrapper>||結局 15，子夜寄君書的真意。||</MarkdownWrapper>
 
 [^1]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
-[^2]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新11/2第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
+[^2]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 
 ## 畫廊
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_25.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_25.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
 	<div>
-        <img src="/images/collab/20241220_toranoana/photo_13.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_13.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
 	<div>
-        <img src="/images/collab/20241220_toranoana/photo_20.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_20.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>

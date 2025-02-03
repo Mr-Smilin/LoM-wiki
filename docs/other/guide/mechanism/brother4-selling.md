@@ -17,7 +17,7 @@ tags:
 <ChTabs position="bottom">
     <ChTab title="四師兄">
         <Ch
-            src='/images/characters/brother4/normal.png' 
+            src='/images/characters/brother4/normal.webp' 
             position=''/>
         <ChName nameZh='四師兄' position='right' />
     </ChTab>

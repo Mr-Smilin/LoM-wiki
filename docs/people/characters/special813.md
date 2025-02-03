@@ -13,7 +13,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="畫中仙">
-		<Ch src='/images/characters/special813/normal.png' position='right'/>
+		<Ch src='/images/characters/special813/normal.webp' position='right'/>
 		<ChName nameZh='畫中仙' nameEn='Hua Zhong Xian' position='right' />
 		<ChTable>
 			<ChTr>
@@ -57,11 +57,11 @@ tags:
 		</ChTable>
 	</ChTab>
 	<ChTab title="卸妝">
-		<Ch src='/images/characters/special813/normal2.png' position='right'/>
+		<Ch src='/images/characters/special813/normal2.webp' position='right'/>
 		<ChName nameZh='畫中仙' nameEn='Hua Zhong Xian' position='right' />
 	</ChTab>
 	<ChTab title="華仙兒">
-		<Ch src='/images/characters/special813/normal3.png' position='right'/>
+		<Ch src='/images/characters/special813/normal3.webp' position='right'/>
 		<ChName nameZh='華仙兒' nameEn='Hua Xian Er' position='right' />
 	</ChTab>
 </ChTabs>
@@ -75,13 +75,12 @@ tags:
 
 ## 備註
 
-- 嘴炮無人能敵。
-- [[唐錚|二師兄]]餵[[唐中翎|掌門]]屍心丹後，偷走碧血玉，與畫中仙見面。
-- 初至錦香宮時，[[唐錚|二師兄]]好感越高，越容易骰到她導遊。
-- 風雨山上，[[趙活]]會聞出[[錦香宮]]用的是唐門的彼岸仙香。~~越想越不對勁~~
-- 武功高強，[[趙活]]毫無還手之力，一刀死。
-- <MarkdownWrapper>||第二代千面人魔。||</MarkdownWrapper> (v3206解包情報)
-- 懂吃但懶得學燒菜。[^1]
+-   嘴炮無人能敵。
+-   [[唐錚|二師兄]]餵[[唐中翎|掌門]]屍心丹後，偷走碧血玉，與畫中仙見面。
+-   初至錦香宮時，[[唐錚|二師兄]]好感越高，越容易骰到她導遊。
+-   風雨山上，[[趙活]]會聞出[[錦香宮]]用的是唐門的彼岸仙香。~~越想越不對勁~~
+-   武功高強，[[趙活]]毫無還手之力，一刀死。
+-   <MarkdownWrapper>||第二代千面人魔。||</MarkdownWrapper> (v3206 解包情報)
+-   懂吃但懶得學燒菜。[^1]
 
-[^1]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
-
+[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)

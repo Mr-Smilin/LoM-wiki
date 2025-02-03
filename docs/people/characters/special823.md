@@ -12,7 +12,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="袁無憲">
-		<Ch src='/images/characters/special823/normal.png' position='right'/>
+		<Ch src='/images/characters/special823/normal.webp' position='right'/>
 		<ChName nameZh='袁無憲' nameEn='Yuan Wu Xian' position='right' />
 		<ChTable>
 			<ChTr>
@@ -56,7 +56,7 @@ tags:
 
 ## 備註
 
-- 溫夫人是南宮淺的生母之說，目前只有袁無憲的片面之詞，不確定真假
-- 自稱是峨嵋無字輩，與[[向無憂|向掌門]]同一輩
-- 被[[趙活]]痛罵是個修練成精的山猴子
-- 目前劇情(v1.0.3200)沒有說他是哪方勢力，推測和父親一樣是極樂教
+-   溫夫人是南宮淺的生母之說，目前只有袁無憲的片面之詞，不確定真假
+-   自稱是峨嵋無字輩，與[[向無憂|向掌門]]同一輩
+-   被[[趙活]]痛罵是個修練成精的山猴子
+-   目前劇情(v1.0.3200)沒有說他是哪方勢力，推測和父親一樣是極樂教

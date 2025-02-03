@@ -82,23 +82,23 @@ tags:
 
 ## 秘笈
 
-- [[柴刀八斬法]]
-- [[很是用力踢]]
-- [[蛇兔鷹猿搏]]
-- [[雷神腳]]
-- [[蛇形拳]]
-- [[白猿通臂拳]]
+-   [[柴刀八斬法]]
+-   [[很是用力踢]]
+-   [[蛇兔鷹猿搏]]
+-   [[雷神腳]]
+-   [[蛇形拳]]
+-   [[白猿通臂拳]]
 
 ## 備註
 
-- 承字輩的大前輩幾乎死絕或是被廢武功，少數活著的都閉關學佛了。[^1]
+-   承字輩的大前輩幾乎死絕或是被廢武功，少數活著的都閉關學佛了。[^1]
 
-[^1]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
 
 ## 畫廊
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_02.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_02.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>

@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
     <ChTab title="趙活">
         <Ch
-            src='/images/characters/player/normal.png' 
+            src='/images/characters/player/normal.webp' 
             position='right'/>
         <ChName nameZh='趙活' nameEn='Zhao Huo' position='right' />
         <ChTable>
@@ -86,91 +86,91 @@ tags:
     </ChTab>
     <ChTab title="自戀">
         <Ch
-            src='/images/characters/player/normal2.png' 
+            src='/images/characters/player/normal2.webp' 
             position='right'/>
         <ChName nameZh='自戀' nameEn='Narcissist' position='right' />
     </ChTab>
     <ChTab title="生氣">
         <Ch
-            src='/images/characters/player/angry2.png' 
+            src='/images/characters/player/angry2.webp' 
             position='right'/>
         <ChName nameZh='生氣' nameEn='Angry' position='right' />
     </ChTab>
     <ChTab title="計畫通">
         <Ch
-            src='/images/characters/player/gloomy2.png' 
+            src='/images/characters/player/gloomy2.webp' 
             position='right'/>
         <ChName nameZh='計畫通' nameEn='As Planned' position='right' />
     </ChTab>
     <ChTab title="鼻青臉腫">
         <Ch
-            src='/images/characters/player/hurt.png' 
+            src='/images/characters/player/hurt.webp' 
             position='right'/>
         <ChName nameZh='鼻青臉腫' nameEn='Black and Blue' position='right' />
     </ChTab>
     <ChTab title="奄奄一息">
         <Ch
-            src='/images/characters/player/hurt2.png' 
+            src='/images/characters/player/hurt2.webp' 
             position='right'/>
         <ChName nameZh='奄奄一息' nameEn='Dying' position='right' />
     </ChTab>
     <ChTab title="大笑">
         <Ch
-            src='/images/characters/player/laugh2.png' 
+            src='/images/characters/player/laugh2.webp' 
             position='right'/>
         <ChName nameZh='大笑' nameEn='Laugh' position='right' />
     </ChTab>
     <ChTab title="緊張">
         <Ch
-            src='/images/characters/player/nervous2.png' 
+            src='/images/characters/player/nervous2.webp' 
             position='right'/>
         <ChName nameZh='緊張' nameEn='Nervous' position='right' />
     </ChTab>
     <ChTab title="想入非非">
         <Ch
-            src='/images/characters/player/revel.png' 
+            src='/images/characters/player/revel.webp' 
             position='right'/>
         <ChName nameZh='想入非非' nameEn='Revel' position='right' />
     </ChTab>
     <ChTab title="悲傷">
         <Ch
-            src='/images/characters/player/sad1.png' 
+            src='/images/characters/player/sad1.webp' 
             position='right'/>
         <ChName nameZh='悲傷' nameEn='Sad' position='right' />
     </ChTab>
     <ChTab title="驚嚇">
         <Ch
-            src='/images/characters/player/shock.png' 
+            src='/images/characters/player/shock.webp' 
             position='right'/>
         <ChName nameZh='驚嚇' nameEn='Shock' position='right' />
     </ChTab>
     <ChTab title="使徒">
         <Ch
-            src='/images/characters/player/special1.png' 
+            src='/images/characters/player/special1.webp' 
             position='right'/>
         <ChName nameZh='使徒' nameEn='Angel' position='right' />
     </ChTab>
     <ChTab title="城之內">
         <Ch
-            src='/images/characters/player/suck1.png' 
+            src='/images/characters/player/suck1.webp' 
             position='right'/>
         <ChName nameZh='城之內' nameEn='Jonouchi' position='right' />
     </ChTab>
     <ChTab title="舔刀">
         <Ch
-            src='/images/characters/player/suck3.png' 
+            src='/images/characters/player/suck3.webp' 
             position='right'/>
         <ChName nameZh='舔刀' nameEn='Lick Knife' position='right' />
     </ChTab>
     <ChTab title="趙傲天">
         <Ch
-            src='/images/characters/player/normal3.png' 
+            src='/images/characters/player/normal3.webp' 
             position='right'/>
         <ChName nameZh='趙傲天' nameEn='Zhao Proud Sky' position='right' />
     </ChTab>
     <ChTab title="百萬趙活">
         <Ch
-            src='/images/characters/player/mega_player.png' 
+            src='/images/characters/player/mega_player.webp' 
             position='right'/>
         <ChName nameZh='百萬趙活' nameEn='Mega Zhao Huo' position='right' />
     </ChTab>
@@ -215,28 +215,28 @@ tags:
 
 以下是勤勞版趙活的行程：[^2]
 
-- 清晨起來準備早飯（約凌晨4點）
-- 燒洗面水伺候師長洗漱
-- 來得及就去早課
-- 早課後大家休息趙活收拾洗碗
-- 正式今日工作part1（砍柴、記帳、買菜、醃漬食物等等）
-- 準備午飯
-- 大家午休趙活收拾洗碗
-- 今日工作part2
-- 準備晚飯
-- 趙活收拾洗碗
-- 洗澡
-- 入講經樓協助三師兄整理卷宗
-- 去哄小師妹睡覺
-- 尋夜，大院站夜哨1時辰
-- 回房間睡覺（約晚上12點）
+-   清晨起來準備早飯（約凌晨 4 點）
+-   燒洗面水伺候師長洗漱
+-   來得及就去早課
+-   早課後大家休息趙活收拾洗碗
+-   正式今日工作 part1（砍柴、記帳、買菜、醃漬食物等等）
+-   準備午飯
+-   大家午休趙活收拾洗碗
+-   今日工作 part2
+-   準備晚飯
+-   趙活收拾洗碗
+-   洗澡
+-   入講經樓協助三師兄整理卷宗
+-   去哄小師妹睡覺
+-   尋夜，大院站夜哨 1 時辰
+-   回房間睡覺（約晚上 12 點）
 
 ## 年齡
 
 -   趙活記不清楚是幾歲到唐門，和[[唐陞|三師兄]]氣話時說十一、二歲，對[[唐中翎|掌門]]卻說約莫七、八歲
--   掌門提過趙活是[[唐默鈴|小師妹]]出生後來的，所以第一年應該約22歲(15+7)
--   留學季試，[[夏侯蘭]]的傳奇文本：「夏侯蘭與你雖然師徒相稱，畢竟比你大不了幾歲」，可知第二年時趙活≤25歲
--   若撇開十一、二歲進唐門之說，由以上推論，趙活第一年應為22~24歲之間
+-   掌門提過趙活是[[唐默鈴|小師妹]]出生後來的，所以第一年應該約 22 歲(15+7)
+-   留學季試，[[夏侯蘭]]的傳奇文本：「夏侯蘭與你雖然師徒相稱，畢竟比你大不了幾歲」，可知第二年時趙活 ≤25 歲
+-   若撇開十一、二歲進唐門之說，由以上推論，趙活第一年應為 22~24 歲之間
 
 ## 山歌
 
@@ -254,22 +254,22 @@ tags:
 
 ## 備註
 
-- 鳥熊FB的介紹：[連結](https://www.facebook.com/photo/?fbid=119387857126068&set=pcb.119387933792727)
-- 多年的雜務生活下，趙活其實很有能力，去哪都吃得開，但前提是不心繫江湖。
-- 趙活這張臉其實是說相聲的料。
-- 被[[唐布衣|大師兄]]評價，趙活比臉更賤的，就是他的嘴。
-- 根據[[瑞杏]]的自言自語，趙活似乎和皇室有點淵源。
-- 在「Digital Taipei2021 線上展覽」時稱作「武林敗類」巨八：[影片連結](https://www.facebook.com/watch/?mibextid=WC7FNe&v=1233034187106961&rdid=8LJ4hVfrxRlPIdcJ)
-- 肉包妖怪 by 鳥熊
-- 星座是天馬座。~~燃燒小宇宙吧~~
-- 已破棄的謎之舞步，[連結](https://www.facebook.com/watch/?mibextid=oFDknk&v=1481577332312805&rdid=g1lRgORuhzdrbpQu) [連結](https://www.facebook.com/watch/?mibextid=oFDknk&v=1134896317435222&rdid=wGNDPFXDQ4Ny0hIM)
-- 不留學線[[唐中翎|掌門]]會給唐門傳承小劍。~~此劍常出現在龍陽讀書齋的文中~~
-- 鬼畫圖字畫被[[耕陽讀書齋]]以為可能是杜甫的手筆，買回去研究。
-- 因為年紀稍長的外姓弟子會被勸離[[唐門]]，趙活不想顯老，會定期刮鬍子。[^1]
-- 雖然炒菜有時會失心瘋加一堆胡椒粉，但其實沒特別喜歡胡椒粉。[^1]
-- 百萬趙活的百萬可能是捏他洛克人英文「MEGA MAN」。
-- 百萬趙活的鸚鵡，是致敬軒轅劍機關術。
-- 百萬趙活的動力源是發條、磁力、蓋特線。[^1]
+-   鳥熊 FB 的介紹：[連結](https://www.facebook.com/photo/?fbid=119387857126068&set=pcb.119387933792727)
+-   多年的雜務生活下，趙活其實很有能力，去哪都吃得開，但前提是不心繫江湖。
+-   趙活這張臉其實是說相聲的料。
+-   被[[唐布衣|大師兄]]評價，趙活比臉更賤的，就是他的嘴。
+-   根據[[瑞杏]]的自言自語，趙活似乎和皇室有點淵源。
+-   在「Digital Taipei2021 線上展覽」時稱作「武林敗類」巨八：[影片連結](https://www.facebook.com/watch/?mibextid=WC7FNe&v=1233034187106961&rdid=8LJ4hVfrxRlPIdcJ)
+-   肉包妖怪 by 鳥熊
+-   星座是天馬座。~~燃燒小宇宙吧~~
+-   已破棄的謎之舞步，[連結](https://www.facebook.com/watch/?mibextid=oFDknk&v=1481577332312805&rdid=g1lRgORuhzdrbpQu) [連結](https://www.facebook.com/watch/?mibextid=oFDknk&v=1134896317435222&rdid=wGNDPFXDQ4Ny0hIM)
+-   不留學線[[唐中翎|掌門]]會給唐門傳承小劍。~~此劍常出現在龍陽讀書齋的文中~~
+-   鬼畫圖字畫被[[耕陽讀書齋]]以為可能是杜甫的手筆，買回去研究。
+-   因為年紀稍長的外姓弟子會被勸離[[唐門]]，趙活不想顯老，會定期刮鬍子。[^1]
+-   雖然炒菜有時會失心瘋加一堆胡椒粉，但其實沒特別喜歡胡椒粉。[^1]
+-   百萬趙活的百萬可能是捏他洛克人英文「MEGA MAN」。
+-   百萬趙活的鸚鵡，是致敬軒轅劍機關術。
+-   百萬趙活的動力源是發條、磁力、蓋特線。[^1]
 
 [^1]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^2]: 巴哈姆特－[【心得】看了趙活的日常生活，真的不能說“這我傳”](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2966)
@@ -278,22 +278,21 @@ tags:
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_04.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_04.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_05.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_05.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_06.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_06.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_07.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_07.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_19.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_19.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_18.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_18.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>
-

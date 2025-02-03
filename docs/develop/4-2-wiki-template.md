@@ -67,8 +67,7 @@ tags:
 
 `<BadendIcon>`連結預設會跳入生死簿, 可用 :no 指定跳入編號。  
 目前部分會跳到生死簿的詳細頁面, 隨著釋出的頁面越多,  
-BadendIcon將會自動導入越來越多的詳細頁面。
-
+BadendIcon 將會自動導入越來越多的詳細頁面。
 
 <br>
 
@@ -122,12 +121,12 @@ medium(中型) 圖案 76 px _ 88 px。
 
 ### 人物 Icon 懶人組件使用示例
 
-|                           語法                           | 效果                                                    |              說明               |
-| :------------------------------------------------------: | :------------------------------------------------------ |:-----------------------------:|
-| `` <BadendIcon :size="`medium`">我是文字</BadendIcon> `` | <BadendIcon :size="`medium`">我是文字</BadendIcon>      |           顯示中型 Icon           |
-| `` <BadendIcon :size="`small`">我是文字</BadendIcon> ``  | <BadendIcon :size="`small`">我是文字</BadendIcon>       |           顯示小型 Icon           |
-|           `<BadendIcon>我是文字</BadendIcon>`            | <BadendIcon>我是文字</BadendIcon>                       |    採用預設大小, 預設為"\`small\`"     |
-|               `<BadendIcon></BadendIcon>`                | <BadendIcon></BadendIcon>                               | 不寫任何文字，採用預設大小, 預設為"\`small\`" |
+|                           語法                           | 效果                                                    |                         說明                          |
+| :------------------------------------------------------: | :------------------------------------------------------ | :---------------------------------------------------: |
+| `` <BadendIcon :size="`medium`">我是文字</BadendIcon> `` | <BadendIcon :size="`medium`">我是文字</BadendIcon>      |                     顯示中型 Icon                     |
+| `` <BadendIcon :size="`small`">我是文字</BadendIcon> ``  | <BadendIcon :size="`small`">我是文字</BadendIcon>       |                     顯示小型 Icon                     |
+|           `<BadendIcon>我是文字</BadendIcon>`            | <BadendIcon>我是文字</BadendIcon>                       |            採用預設大小, 預設為"\`small\`"            |
+|               `<BadendIcon></BadendIcon>`                | <BadendIcon></BadendIcon>                               |     不寫任何文字，採用預設大小, 預設為"\`small\`"     |
 | `<BadendIcon :no="30">生死簿30『清理門戶』</BadendIcon>` | <BadendIcon :no="30">生死簿 30『清理門戶』</BadendIcon> | no 用來連結生死簿的編號, 不使用則會跳到生死簿最上面。 |
 
 ### 可用屬性寫法
@@ -208,14 +207,14 @@ medium 為中型(200 px _ 200 px);
 ### 對應擺放路徑格式
 
 ```
-docs/public/images/items/${type}s/item_${type}_${no}.png
+docs/public/images/items/${type}s/item_${type}_${no}.webp
 ```
 
 其中 `${type}` 為物品類型，如 `book`、`food`、`special`、`tea`、`wine`；  
 `${no}` 為物品編號。
 
-舉例而言 武學書籍(book) 編號為 6001, 圖片路徑為 `docs/public/images/items/books/item_book_6001.png`,  
-特殊道具(special) 編號為 2003, 圖片路徑為 `docs/public/images/items/specials/item_special_2003.png`
+舉例而言 武學書籍(book) 編號為 6001, 圖片路徑為 `docs/public/images/items/books/item_book_6001.webp`,  
+特殊道具(special) 編號為 2003, 圖片路徑為 `docs/public/images/items/specials/item_special_2003.webp`
 
 ::: warning
 使用前請先確認是否該圖檔案存在，若不存在，請一並上傳至指定路徑。  

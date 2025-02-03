@@ -13,7 +13,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="唐守鴻">
-		<Ch src='/images/characters/special812/normal.png' position='right'/>
+		<Ch src='/images/characters/special812/normal.webp' position='right'/>
 		<ChName nameZh='唐守鴻' nameEn='Tang Shou Hong' position='right' />
 		<ChTable>
 			<ChTr>
@@ -69,8 +69,8 @@ tags:
 
 ## 備註
 
-- 若是對上[[唐中翎]]，會被飛燕流星翎一招解決，根據掌門病情會負傷而去或削斷手腳筋帶下去
-- 若是[[夏侯蘭]]線，會被她打成重傷帶下去
-- 續上，若[[虞小梅]]在場，會說與[[火龍仙君]]是拜把換帖子的交情，又被踢兩腳
-- 按門規，唐門叛徒未得傳喚，再履唐門故土，要押至宗祠叩頭告解，再發掌刑使按律處罰，結局多半比死還慘
-- 若[[趙活]]是壞人，可以<EndIcon no="8">背叛蜀中唐門</EndIcon>，下場淒涼
+-   若是對上[[唐中翎]]，會被飛燕流星翎一招解決，根據掌門病情會負傷而去或削斷手腳筋帶下去
+-   若是[[夏侯蘭]]線，會被她打成重傷帶下去
+-   續上，若[[虞小梅]]在場，會說與[[火龍仙君]]是拜把換帖子的交情，又被踢兩腳
+-   按門規，唐門叛徒未得傳喚，再履唐門故土，要押至宗祠叩頭告解，再發掌刑使按律處罰，結局多半比死還慘
+-   若[[趙活]]是壞人，可以<EndIcon no="8">背叛蜀中唐門</EndIcon>，下場淒涼

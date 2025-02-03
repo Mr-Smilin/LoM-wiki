@@ -14,7 +14,7 @@ tags:
     - 開始
 ---
 
-<img class='guide-img' src='/images/guide/2-how-to-start.jpg' alt='唐門'>
+<img class='guide-img' src='/images/guide/2-how-to-start.webp' alt='唐門'>
 
 ## {{ $frontmatter.title }}
 

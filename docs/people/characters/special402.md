@@ -15,7 +15,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="溫夫人">
-		<Ch src='/images/characters/special402/normal.png' position='right'/>
+		<Ch src='/images/characters/special402/normal.webp' position='right'/>
 		<ChName nameZh='溫夫人' nameEn='Lady Wen' position='right' />
 		<ChTable>
 			<ChTr>
@@ -100,7 +100,7 @@ tags:
 		</ChTable>
 	</ChTab>
 	<ChTab title="蘇迎香">
-		<Ch src='/images/characters/special402/normal2.png' position='right'/>
+		<Ch src='/images/characters/special402/normal2.webp' position='right'/>
 		<ChName nameZh='蘇迎香' nameEn='Su Ying Xiang' position='right' />
 	</ChTab>
 </ChTabs>
@@ -121,11 +121,11 @@ tags:
 
 ## 備註
 
-- [[明玉]]、[[畫中仙]]或者[[龍湘]]、[[盛雪]]都練就攻守合一的雙人絹法、劍法，是護法不二人選，可惜風雨山之變時被支開，故敗給[[上官隼]]。
-- [[上官隼]]：「蘇迎香。妳把心給[[南宮遠]]，把身給[[溫無畏]]，把二十載的友誼給[[王二壯|王春曉]]，那就把命給我當買官錢吧，這是妳欠我的。」
-- [[上官隼]]說她是罪臣遺孤
-- [[南宮淺]]疑似她與南宮遠下藥生下的孩子，但目前這只是[[袁無憲]]的單方面說詞
-- 若無風雨山之變，解散[[錦香宮]]後，打算向東北遠行，去長白山以西長居養老
-- 會燉蔘雞湯，兩條雞腿都給[[龍湘]]獨享。手藝很好，但[[趙活]]有機會超過她。[^1]
+-   [[明玉]]、[[畫中仙]]或者[[龍湘]]、[[盛雪]]都練就攻守合一的雙人絹法、劍法，是護法不二人選，可惜風雨山之變時被支開，故敗給[[上官隼]]。
+-   [[上官隼]]：「蘇迎香。妳把心給[[南宮遠]]，把身給[[溫無畏]]，把二十載的友誼給[[王二壯|王春曉]]，那就把命給我當買官錢吧，這是妳欠我的。」
+-   [[上官隼]]說她是罪臣遺孤
+-   [[南宮淺]]疑似她與南宮遠下藥生下的孩子，但目前這只是[[袁無憲]]的單方面說詞
+-   若無風雨山之變，解散[[錦香宮]]後，打算向東北遠行，去長白山以西長居養老
+-   會燉蔘雞湯，兩條雞腿都給[[龍湘]]獨享。手藝很好，但[[趙活]]有機會超過她。[^1]
 
-[^1]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)

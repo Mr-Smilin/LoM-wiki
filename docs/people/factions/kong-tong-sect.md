@@ -276,10 +276,11 @@ tags:
 也因此崆峒山上最大的忌諱是什麼？那就是覬覦梅蘭竹菊崆峒四姝！任一男子和崆峒四姝親近，對雙方都不是好事，將來新掌派人聞知此事，恐會懷恨。
 <br><br>
 由於崆峒四門的不和，前幾代四姝的下場都很悲慘，以[[夏侯蘭]]知道的有：(恐怖注意)
-- <MarkdownWrapper>||前三代小梅，被潑毒水毀容，眼珠子都爛到掉出來。||</MarkdownWrapper>
-- <MarkdownWrapper>||前四代的小蘭曾下藥賣到青樓失身，感染梅毒而死。||</MarkdownWrapper>
-- <MarkdownWrapper>||前三代小竹被推進火爐，燒得面目全非，一時沒死，還求人給她痛快。||</MarkdownWrapper>
-- <MarkdownWrapper>||前二、三、四代小菊都是大婚前在同一根梁柱上自縊而亡。||</MarkdownWrapper>
+
+-   <MarkdownWrapper>||前三代小梅，被潑毒水毀容，眼珠子都爛到掉出來。||</MarkdownWrapper>
+-   <MarkdownWrapper>||前四代的小蘭曾下藥賣到青樓失身，感染梅毒而死。||</MarkdownWrapper>
+-   <MarkdownWrapper>||前三代小竹被推進火爐，燒得面目全非，一時沒死，還求人給她痛快。||</MarkdownWrapper>
+-   <MarkdownWrapper>||前二、三、四代小菊都是大婚前在同一根梁柱上自縊而亡。||</MarkdownWrapper>
 
 ### 先代之死
 
@@ -312,24 +313,24 @@ tags:
 
 ## 秘笈
 
-- [[飛天腳]]
-- [[仙鶴迷蹤拳]]
-- [[烈火禪]]
-- [[焚心火印]]
-- [[無影爪]]
-- [[鐵臂神拳]]
-- [[奪魄幽靈爪]]
-- [[雪山飛鴻爪]]
-- [[十八種奇兵鍛法雜記]]
-- [[崆峒玄兵鍛法]]
-- [[鐵琵琶功]]
-- [[宋詞選集]]
-- [[鴛鴦拳劍譜]]
+-   [[飛天腳]]
+-   [[仙鶴迷蹤拳]]
+-   [[烈火禪]]
+-   [[焚心火印]]
+-   [[無影爪]]
+-   [[鐵臂神拳]]
+-   [[奪魄幽靈爪]]
+-   [[雪山飛鴻爪]]
+-   [[十八種奇兵鍛法雜記]]
+-   [[崆峒玄兵鍛法]]
+-   [[鐵琵琶功]]
+-   [[宋詞選集]]
+-   [[鴛鴦拳劍譜]]
 
 ## 畫廊
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_23.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_23.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>

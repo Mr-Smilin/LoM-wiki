@@ -19,7 +19,7 @@ tags:
     - 變心
 ---
 
-<img class='guide-img' src='/images/guide/dream-sweetheart.jpg' alt='心上人'>
+<img class='guide-img' src='/images/guide/dream-sweetheart.webp' alt='心上人'>
 
 ## {{ $frontmatter.title }}
 
@@ -28,7 +28,7 @@ tags:
 
 ## 變更心上人的方法
 
-<img class='guide-img' src='/images/guide/change-heart.jpg' alt='心上人'>
+<img class='guide-img' src='/images/guide/change-heart.webp' alt='心上人'>
 
 <br>
 

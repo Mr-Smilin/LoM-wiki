@@ -126,11 +126,11 @@ tags:
                 <summary>照鏡子選項立繪前後對照</summary>
                     <details>
                         <summary>before</summary>
-                        <img src="/images/story-branch-timeline/before-normal-face.png" alt="before normal face">
+                        <img src="/images/story-branch-timeline/before-normal-face.webp" alt="before normal face">
                     </details>
                     <details>
                         <summary>after</summary>
-                        <img src="/images/story-branch-timeline/after-normal-face.png" alt="after normal face">
+                        <img src="/images/story-branch-timeline/after-normal-face.webp" alt="after normal face">
                     </details>
             </details>
         </td>

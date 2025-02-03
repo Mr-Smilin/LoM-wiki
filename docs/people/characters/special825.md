@@ -1,10 +1,10 @@
 ---
 title: 夏靈犀
 tags:
- - 人物
- - 苗疆
- - 巫靈教
- - 孤雲山派
+    - 人物
+    - 苗疆
+    - 巫靈教
+    - 孤雲山派
 aside: false
 ---
 
@@ -12,7 +12,7 @@ aside: false
 
 <ChTabs position="bottom">
 	<ChTab title="夏靈犀">
-		<Ch src='/images/characters/special825/normal.png' position='right'/>
+		<Ch src='/images/characters/special825/normal.webp' position='right'/>
 		<ChName nameZh='夏靈犀' nameEn='Xia Ling Xi' position='right' />
 		<ChTable>
 			<ChTr>

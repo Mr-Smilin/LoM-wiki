@@ -9,7 +9,7 @@
     "dev": "npm run docs:dev",
     "build": "npm run docs:build",
     "docs:dev": "node ./tools/buildWikiLinkIndex.js && vitepress dev docs",
-    "docs:build": "node ./tools/buildNewsList.js && node ./tools/buildBadendList.js && node ./tools/buildContributors.js && node ./tools/buildWikiLinkIndex.js && vitepress build docs",
+    "docs:build": "node ./tools/buildNewsList.js && node ./tools/buildBadendList.js && node ./tools/buildContributors.js && node ./tools/buildWikiLinkIndex.js && node ./tools/buildConvertToWebp.js && vitepress build docs",
     "docs:preview": "vitepress preview docs --port 4173"
   },
   "dependencies": {
@@ -45,6 +45,7 @@
     "rfdc": "^1.4.1",
     "rollup": "^4.18.0",
     "search-insights": "^2.14.0",
+    "sharp": "^0.33.5",
     "shiki": "^1.10.0",
     "source-map-js": "^1.2.0",
     "speakingurl": "^14.0.1",

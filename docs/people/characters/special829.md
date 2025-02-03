@@ -13,7 +13,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="南溪">
-		<Ch src='/images/characters/special829/normal.png' position='right'/>
+		<Ch src='/images/characters/special829/normal.webp' position='right'/>
 		<ChName nameZh='南溪' nameEn='Nan Xi' position='right' />
 		<ChTable>
 			<ChTr>
@@ -43,5 +43,5 @@ tags:
 
 ## 備註
 
-- 劇情不完全(v1.0.3200)，需等更新
-- 稱[[孟仙謠]]、[[夏靈犀]]、[[梁有詩]]、[[唐默鈴]]為「這群北方女子」，可能來自大理？
+-   劇情不完全(v1.0.3200)，需等更新
+-   稱[[孟仙謠]]、[[夏靈犀]]、[[梁有詩]]、[[唐默鈴]]為「這群北方女子」，可能來自大理？

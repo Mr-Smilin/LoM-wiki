@@ -18,7 +18,7 @@ tags:
     - surrender
 ---
 
-<img class='guide-img' src='/images/guide/surrender.jpg' alt='投降'>
+<img class='guide-img' src='/images/guide/surrender.webp' alt='投降'>
 
 ## {{ $frontmatter.title }}
 

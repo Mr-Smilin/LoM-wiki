@@ -14,7 +14,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="雷謙">
-		<Ch src='/images/characters/special804/normal.png' position='right'/>
+		<Ch src='/images/characters/special804/normal.webp' position='right'/>
 		<ChName nameZh='雷謙' nameEn='Lei Qian' position='right' />
 		<ChTable>
 			<ChTr>
@@ -45,4 +45,5 @@ tags:
 閒來沒事便愛說鬼故事嚇唬年輕弟子，是以鐵拳門人無一不信世上真有魑魅魍魎，尤以[[郁竹|小竹]]為最。
 
 ## 備註
-- [[十八種奇兵鍛法雜記]]的作者
+
+-   [[十八種奇兵鍛法雜記]]的作者

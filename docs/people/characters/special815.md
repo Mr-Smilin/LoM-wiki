@@ -13,7 +13,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="石夫人">
-		<Ch src='/images/characters/special815/normal.png' position='right'/>
+		<Ch src='/images/characters/special815/normal.webp' position='right'/>
 		<ChName nameZh='石夫人' nameEn='Lady Shi' position='right' />
 		<ChTable>
 			<ChTr>
@@ -69,5 +69,5 @@ tags:
 
 ## 備註
 
-- 當[[趙活]]陪大師兄去臥雲岡，若心上人是[[上官螢]]，看到石夫人會覺得兩人很像，只是石夫人年紀大上一截。
-- [[石公遠]]曾言，她兇起來簡直是河東獅，剽悍的要命。
+-   當[[趙活]]陪大師兄去臥雲岡，若心上人是[[上官螢]]，看到石夫人會覺得兩人很像，只是石夫人年紀大上一截。
+-   [[石公遠]]曾言，她兇起來簡直是河東獅，剽悍的要命。

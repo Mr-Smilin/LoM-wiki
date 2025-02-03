@@ -111,19 +111,19 @@ tags:
 
 ## 秘笈
 
-- [[點蒼劍譜]]
-- [[流星劍譜]]
-- [[雲裳劍法]]
-- [[同舟劍譜]] (v1.0.3203未實裝)
+-   [[點蒼劍譜]]
+-   [[流星劍譜]]
+-   [[雲裳劍法]]
+-   [[同舟劍譜]] (v1.0.3203 未實裝)
 
 ## 備註
 
-- [[唐門]]這群藍色混蛋，罵點蒼派為綠龜。
+-   [[唐門]]這群藍色混蛋，罵點蒼派為綠龜。
 
 ## 畫廊
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_03.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_03.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>

@@ -18,7 +18,7 @@ aside: false
 <ChTabs position="bottom">
 	<ChTab title="初識">
 		<ChMeet 
-			src='/images/characters/girl_3/normal.png' 
+			src='/images/characters/girl_3/normal.webp' 
 			nameTitle='飛天嫡傳女弟子'
 			nameMain='虞小梅'
 			desc='崆峒派‧飛天門當代的嫡傳女弟子，天真爛漫，活潑開朗的妙齡少女。<br>江湖名聲不響，在崆峒派卻是四門嫡傳女弟子之中呼聲最高的一位，第一掌派夫人之位，勢在必得。'
@@ -27,7 +27,7 @@ aside: false
 	</ChTab>
 	<ChTab title="微笑">
 		<Ch 
-			src='/images/characters/girl_3/shy2.png' 
+			src='/images/characters/girl_3/shy2.webp' 
 			position='right'/>
 		<ChName
 			nameZh='微笑'
@@ -35,7 +35,7 @@ aside: false
 	</ChTab>
 	<ChTab title="大笑">
 		<Ch 
-			src='/images/characters/girl_3/laugh2.png' 
+			src='/images/characters/girl_3/laugh2.webp' 
 			position='right'/>
 		<ChName
 			nameZh='大笑'
@@ -43,7 +43,7 @@ aside: false
 	</ChTab>
 	<ChTab title="Kira">
 		<Ch 
-			src='/images/characters/girl_3/laugh3.png' 
+			src='/images/characters/girl_3/laugh3.webp' 
 			position='right'/>
 		<ChName
 			nameZh='（<ゝω·）☆'
@@ -51,7 +51,7 @@ aside: false
 	</ChTab>
 	<ChTab title="尷尬">
 		<Ch 
-			src='/images/characters/girl_3/nervous2.png' 
+			src='/images/characters/girl_3/nervous2.webp' 
 			position='right'/>
 		<ChName
 			nameZh='尷尬'
@@ -59,7 +59,7 @@ aside: false
 	</ChTab>
 	<ChTab title="驚嚇">
 		<Ch 
-			src='/images/characters/girl_3/nervous3.png' 
+			src='/images/characters/girl_3/nervous3.webp' 
 			position='right'/>
 		<ChName
 			nameZh='驚嚇'
@@ -67,7 +67,7 @@ aside: false
 	</ChTab>
 	<ChTab title="生氣">
 		<Ch 
-			src='/images/characters/girl_3/angry1.png' 
+			src='/images/characters/girl_3/angry1.webp' 
 			position='right'/>
 		<ChName
 			nameZh='生氣'
@@ -75,7 +75,7 @@ aside: false
 	</ChTab>
 	<ChTab title="很生氣">
 		<Ch 
-			src='/images/characters/girl_3/angry2.png' 
+			src='/images/characters/girl_3/angry2.webp' 
 			position='right'/>
 		<ChName
 			nameZh='生氣'
@@ -83,7 +83,7 @@ aside: false
 	</ChTab>
 	<ChTab title="殺掉">
 		<Ch 
-			src='/images/characters/girl_3/angry3.png' 
+			src='/images/characters/girl_3/angry3.webp' 
 			position='right'/>
 		<ChName
 			nameZh='塊陶啊'
@@ -91,7 +91,7 @@ aside: false
 	</ChTab>
 	<ChTab title="害羞">
 		<Ch 
-			src='/images/characters/girl_3/shy3.png' 
+			src='/images/characters/girl_3/shy3.webp' 
 			position='right'/>
 		<ChName
 			nameZh='害羞'
@@ -99,7 +99,7 @@ aside: false
 	</ChTab>
 	<ChTab title="害羞...?">
 		<Ch 
-			src='/images/characters/girl_3/shy4.png' 
+			src='/images/characters/girl_3/shy4.webp' 
 			position='right'/>
 		<ChName
 			nameZh='害羞'
@@ -107,7 +107,7 @@ aside: false
 	</ChTab>
 	<ChTab title="敗北">
 		<Ch 
-			src='/images/characters/girl_3/hurt.png' 
+			src='/images/characters/girl_3/hurt.webp' 
 			position='right'/>
 		<ChName
 			nameZh='敗北'
@@ -238,23 +238,23 @@ aside: false
 
 ## 備註
 
-- 病嬌
-- 本人宣稱右手寄宿了[[阿鶴俠]]的魂魄，信不信由你！
-- 十歲時曾向[[唐惟元|四師兄]]買毒藥，試圖毒死[[火龍仙君]]和[[金烏上人]]，卻被騙拿到瀉藥，至今仍在記恨他
-- 和[[郁竹|小竹]]曾是好友，但因為當年騙她吃靈藥的關係，[[郁竹|小竹]]仍在氣她。其實很想和她和好，但怕[[千燈樓]]一事牽連她。
-- 非常害怕[[夏侯蘭]]，稱她是蘭姐姐，而對方稱她小瘋子
-- 雖然被[[千燈樓]]指示殺不少人，但實際上沒殺，都暗中送到世外桃源去
-- 廚藝高超，能將[[趙活]]大失敗的菜改成佳餚，發明的糕點鄉親熱烈好評。
-- 根據<EndIcon no="11">結局11</EndIcon>的對話，若無結緣，最後會成為千燈樓主
-- <MarkdownWrapper>||其實初版下場很慘，和金烏生六個，但被炎上後馬上修掉了||</MarkdownWrapper>
+-   病嬌
+-   本人宣稱右手寄宿了[[阿鶴俠]]的魂魄，信不信由你！
+-   十歲時曾向[[唐惟元|四師兄]]買毒藥，試圖毒死[[火龍仙君]]和[[金烏上人]]，卻被騙拿到瀉藥，至今仍在記恨他
+-   和[[郁竹|小竹]]曾是好友，但因為當年騙她吃靈藥的關係，[[郁竹|小竹]]仍在氣她。其實很想和她和好，但怕[[千燈樓]]一事牽連她。
+-   非常害怕[[夏侯蘭]]，稱她是蘭姐姐，而對方稱她小瘋子
+-   雖然被[[千燈樓]]指示殺不少人，但實際上沒殺，都暗中送到世外桃源去
+-   廚藝高超，能將[[趙活]]大失敗的菜改成佳餚，發明的糕點鄉親熱烈好評。
+-   根據<EndIcon no="11">結局 11</EndIcon>的對話，若無結緣，最後會成為千燈樓主
+-   <MarkdownWrapper>||其實初版下場很慘，和金烏生六個，但被炎上後馬上修掉了||</MarkdownWrapper>
 
 ## 畫廊
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_14.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_14.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
 	<div>
-        <img src="/images/collab/20241220_toranoana/photo_15.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_15.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>

@@ -14,7 +14,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="勾魂叟">
-		<Ch src='/images/characters/special806/normal.png' position='right'/>
+		<Ch src='/images/characters/special806/normal.webp' position='right'/>
 		<ChName nameZh='勾魂叟' nameEn='Gou Hun Sou' position='right' />
 		<ChTable>
 			<ChTr>

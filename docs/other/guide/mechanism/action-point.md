@@ -17,7 +17,7 @@ tags:
     - point
 ---
 
-<img class='guide-img' src='/images/guide/hui1.jpg' alt='左上角UI'>
+<img class='guide-img' src='/images/guide/hui1.webp' alt='左上角UI'>
 
 ## {{ $frontmatter.title }}
 

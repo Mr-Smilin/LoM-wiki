@@ -14,7 +14,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="童大蟲">
-		<Ch src='/images/characters/trainee214/normal.png' position='right'/>
+		<Ch src='/images/characters/trainee214/normal.webp' position='right'/>
 		<ChName nameZh='童大蟲' nameEn='Tong Da Chong' position='right' />
 		<ChTable>
 			<ChTr>
@@ -65,4 +65,4 @@ tags:
 
 ## 備註
 
-- 招親事件如果[[金烏上人]]逃走，會由他斷定該肉衣是真人血肉無誤
+-   招親事件如果[[金烏上人]]逃走，會由他斷定該肉衣是真人血肉無誤

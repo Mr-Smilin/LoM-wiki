@@ -12,7 +12,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="呂翁">
-		<Ch src='/images/characters/special807/normal.png' position='right'/>
+		<Ch src='/images/characters/special807/normal.webp' position='right'/>
 		<ChName nameZh='呂翁' nameEn='Lü Weng' position='right' />
 		<ChTable>
 			<ChTr>
@@ -44,5 +44,5 @@ tags:
 
 ## 備註
 
-- 圖片是商人共用立繪
-- 如果見[[唐中翎|掌門]]前，[[趙活]]想起自己燒了字畫且道德低，呂翁來找字畫時有好戲可看
+-   圖片是商人共用立繪
+-   如果見[[唐中翎|掌門]]前，[[趙活]]想起自己燒了字畫且道德低，呂翁來找字畫時有好戲可看

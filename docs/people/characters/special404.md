@@ -1,9 +1,9 @@
 ---
 title: 丹霞子
 tags:
- - 人物
- - 崆峒派
- - 飛天門
+    - 人物
+    - 崆峒派
+    - 飛天門
 aside: false
 ---
 
@@ -12,7 +12,7 @@ aside: false
 <ChTabs position="bottom">
     <ChTab title="初識">
 		<ChMeet 
-			src='/images/characters/special404/normal.png' 
+			src='/images/characters/special404/normal.webp' 
             nameTitle=''
 			nameMain='丹霞子'
 			desc='崆峒派·飛天門掌門火龍仙君座下的大弟子。<br>
@@ -85,6 +85,6 @@ aside: false
 
 ## 備註
 
-- 鳥熊Facebook的介紹，[連結](https://www.facebook.com/photo.php?fbid=443066994913348&id=100076301525150&set=a.165167019370015)
-- 要不是被騙到戰場，他就是[[崆峒派]]掌派人的最有力人選
-- [[魏菊]]對此不滿，認為他不負責任
+-   鳥熊 Facebook 的介紹，[連結](https://www.facebook.com/photo.php?fbid=443066994913348&id=100076301525150&set=a.165167019370015)
+-   要不是被騙到戰場，他就是[[崆峒派]]掌派人的最有力人選
+-   [[魏菊]]對此不滿，認為他不負責任

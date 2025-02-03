@@ -12,7 +12,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="齊壬">
-		<Ch src='/images/characters/hero2/normal.png' position='right'/>
+		<Ch src='/images/characters/hero2/normal.webp' position='right'/>
 		<ChName nameZh='齊壬' nameEn='Qi Ren' position='right' />
 		<ChTable>
 			<ChTr>
@@ -47,10 +47,10 @@ tags:
 
 ## 備註
 
-- 龍傲天™[^1]
-- 捏他《刀劍神域》的桐人。~~星爆氣流斬！！！~~
-- 父母健在，但他對外都聲稱父母雙亡，自己是浪跡天涯的一匹孤狼。[^1]
-- 雙劍課金買的，花他父母的錢。[^1]
-- 有朋友。[^1]
+-   龍傲天 ™[^1]
+-   捏他《刀劍神域》的桐人。~~星爆氣流斬！！！~~
+-   父母健在，但他對外都聲稱父母雙亡，自己是浪跡天涯的一匹孤狼。[^1]
+-   雙劍課金買的，花他父母的錢。[^1]
+-   有朋友。[^1]
 
-[^1]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)

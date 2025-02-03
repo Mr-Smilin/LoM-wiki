@@ -1,8 +1,8 @@
 ---
 title: 宋悲
 tags:
- - 人物
- - 大宋朝廷
+    - 人物
+    - 大宋朝廷
 aside: false
 ---
 
@@ -10,7 +10,7 @@ aside: false
 
 <ChTabs position="bottom">
 	<ChTab title="宋悲">
-		<Ch src='/images/characters/special800/normal.png' position='right'/>
+		<Ch src='/images/characters/special800/normal.webp' position='right'/>
 		<ChName nameZh='宋悲' nameEn='Song Bei' position='right' />
 		<ChTable>
 			<ChTr>

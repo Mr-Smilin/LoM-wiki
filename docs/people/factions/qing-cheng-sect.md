@@ -87,6 +87,6 @@ tags:
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_03.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_03.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>

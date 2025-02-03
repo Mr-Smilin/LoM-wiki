@@ -13,7 +13,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="孟仙謠">
-		<Ch src='/images/characters/special831/normal.png' position='right'/>
+		<Ch src='/images/characters/special831/normal.webp' position='right'/>
 		<ChName nameZh='孟仙謠' nameEn='Meng Xian Yao' position='right' />
 		<ChTable>
 			<ChTr>
@@ -43,5 +43,5 @@ tags:
 
 ## 備註
 
-- 劇情不完全(v1.0.3200)，需等更新。
-- 西武林線，[[夏靈犀]]稱她「縣主大人」，推測和朝廷有關係
+-   劇情不完全(v1.0.3200)，需等更新。
+-   西武林線，[[夏靈犀]]稱她「縣主大人」，推測和朝廷有關係

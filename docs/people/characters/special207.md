@@ -13,7 +13,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="金烏上人">
-		<Ch src='/images/characters/special207/normal.png' position='right'/>
+		<Ch src='/images/characters/special207/normal.webp' position='right'/>
 		<ChName nameZh='金烏上人' nameEn='Jin Wu Shang Ren' position='right' />
 		<ChTable>
 			<ChTr>
@@ -73,4 +73,4 @@ tags:
 
 ## 備註
 
-- 奪魂杵有些文本寫喪魂杵，可能是別名。
+-   奪魂杵有些文本寫喪魂杵，可能是別名。

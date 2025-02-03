@@ -195,7 +195,7 @@ tags:
 <ChTabs position="bottom">
   <ChTab title="龍湘">
     <Ch
-      src='/images/characters/girl_8/normal.png' 
+      src='/images/characters/girl_8/normal.webp' 
       position='right'/>
     <ChName nameZh='龍湘' nameEn='Long Xiang' position='right' />
     <ChTable>
@@ -254,7 +254,7 @@ tags:
   </ChTab>
   <ChTab title="debug">
     <ChMeet 
-      src='/images/characters/girl_8/girl8_drumstick.png' 
+      src='/images/characters/girl_8/girl8_drumstick.webp' 
       nameTitle='小師妹'
       nameMain='唐默鈴'
       desc='aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
@@ -262,14 +262,14 @@ tags:
   </ChTab>
   <ChTab title="debug">
     <ChMeet 
-      src='/images/characters/special6/normal.png' 
+      src='/images/characters/special6/normal.webp' 
       nameMain='龍湘'
       desc='師承錦香宮，劍法精絕的清麗佳人。<br>踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。'
       :animation=false />
   </ChTab>
   <ChTab title="戰鬥">
     <ChMeet 
-      src='/images/characters/brother1/normal.png' 
+      src='/images/characters/brother1/normal.webp' 
       nameMain='龍湘'
       desc='師承錦香宮，劍法精絕的清麗佳人。<br>踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。'
       :animation=false />

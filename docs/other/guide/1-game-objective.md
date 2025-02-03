@@ -14,7 +14,7 @@ tags:
     - 開始
 ---
 
-<img class='guide-img' src='/images/guide/1-game-objective.jpg' alt='遊戲開始'>
+<img class='guide-img' src='/images/guide/1-game-objective.webp' alt='遊戲開始'>
 
 ## {{ $frontmatter.title }}
 

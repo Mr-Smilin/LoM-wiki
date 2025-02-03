@@ -11,7 +11,7 @@ aside: false
 <ChTabs position="bottom">
     <ChTab title="唐中翎">
         <Ch
-            src='/images/characters/master/normal.png' 
+            src='/images/characters/master/normal.webp' 
             position='right'/>
         <ChName nameZh='唐中翎' nameEn='Tang Zhong Ling' position='right' />
         <ChTable>
@@ -116,10 +116,10 @@ aside: false
 
 ## 備註
 
-- 因病腸胃不好，需吃清淡一點，常吃米糊糊
-- ~~病倒後因為BUG，會因為米糊糊驚醒，增加好感度~~
-- 二十年前劫法場的劇情是白髮，單純是因為沒有準備年輕版的立繪。[^1]
-- 年輕時有可能是流氓樣。[^2]
+-   因病腸胃不好，需吃清淡一點，常吃米糊糊
+-   ~~病倒後因為 BUG，會因為米糊糊驚醒，增加好感度~~
+-   二十年前劫法場的劇情是白髮，單純是因為沒有準備年輕版的立繪。[^1]
+-   年輕時有可能是流氓樣。[^2]
 
-[^1]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
 [^2]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)

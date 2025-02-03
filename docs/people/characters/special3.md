@@ -1,8 +1,8 @@
 ---
 title: 葉雲舟
 tags:
- - 人物
- - 點蒼派
+    - 人物
+    - 點蒼派
 aside: false
 ---
 
@@ -10,7 +10,7 @@ aside: false
 
 <ChTabs position="bottom">
 	<ChTab title="葉雲舟">
-		<Ch src='/images/characters/special3/normal.png' position='right'/>
+		<Ch src='/images/characters/special3/normal.webp' position='right'/>
 		<ChName nameZh='葉雲舟' nameEn='Ye Yun Zhou' position='right' />
 		<ChTable>
 			<ChTr>
@@ -110,17 +110,17 @@ aside: false
 
 ## 備註
 
-- ~~長照悲歌~~
-- 鳥熊FB的介紹：[連結](https://www.facebook.com/photo.php?fbid=424312253455489&set=pb.100076301525150.-2207520000&type=3)
-- 原姓氏「花」。[^3]
-- 若[[葉雲裳]]死亡，會變成點蒼劍鬼，狂劍客葉雲舟。
-- 由於點破雲關太有名了，~~在二創的形象也被受影響~~
-- 對欠[[趙活]]錢卻由朋友替他還掉一事，沒感到愧疚，但會一直用別的方式默默報恩。[^1]
-- 續上，他會還錢，他會用各種方式設法還錢。[^4]
-- 住外堡時會擔任外堡守衛抵房租。[^2]
-- 因為[[葉雲裳|妹妹]]嘴叼，也求食譜下苦工鑽研過，但是成就平平。[^2]
+-   ~~長照悲歌~~
+-   鳥熊 FB 的介紹：[連結](https://www.facebook.com/photo.php?fbid=424312253455489&set=pb.100076301525150.-2207520000&type=3)
+-   原姓氏「花」。[^3]
+-   若[[葉雲裳]]死亡，會變成點蒼劍鬼，狂劍客葉雲舟。
+-   由於點破雲關太有名了，~~在二創的形象也被受影響~~
+-   對欠[[趙活]]錢卻由朋友替他還掉一事，沒感到愧疚，但會一直用別的方式默默報恩。[^1]
+-   續上，他會還錢，他會用各種方式設法還錢。[^4]
+-   住外堡時會擔任外堡守衛抵房租。[^2]
+-   因為[[葉雲裳|妹妹]]嘴叼，也求食譜下苦工鑽研過，但是成就平平。[^2]
 
 [^1]: 巴哈姆特－[【情報】關於龍湘屁股大小的答案+私聊鳥熊的對話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
-[^2]: PTT C洽－[\[活俠\] 龍湘與奇怪的小知識P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^2]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
 [^3]: 噗浪偷偷說：[連結](https://www.plurk.com/p/3g8q4p1s38)
 [^4]: [[問答集2024年10月#_2024-10-31|問答集2024-10-31]]

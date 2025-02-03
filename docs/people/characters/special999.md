@@ -11,7 +11,7 @@ aside: false
 <ChTabs position="bottom">
 	<ChTab title="初識">
 		<ChMeet 
-			src='/images/characters/special999/normal.png' 
+			src='/images/characters/special999/normal.webp' 
             nameTitle='縞衣劍少'
 			nameMain='瑞笙'
 			desc='初出茅廬，近來名聲漸響的年輕劍客。<br>英俊瀟灑，磊落君子，處世溫文爾雅，胸中亦藏豪情萬丈，仗劍行俠，快意恩仇，緊要關頭就會出現的傢伙。'
@@ -105,17 +105,17 @@ aside: false
 
 ## 備註
 
-- 鳥熊Facebook的介紹，[連結](https://www.facebook.com/photo/?fbid=340029291883786&set=pcb.340029328550449)
-- 原本浪跡天涯很帥，出門才知道露宿荒郊野外的流浪漢生活一點也不帥。就算睡客棧也不能完全放鬆以免被人偷襲。久而久之，眼影就變重了
-- 討厭花俏的服飾，又愛乾淨，不想太邋遢，所以最後穿著一身素淨的縞衣
-- [[萬里鵬程]]稱瑞笙「瑞小友」，不確定兩者關係
-- 被女生拒絕約3~4次。[^2]
-- ~~疑似姊控~~，常挑戰高難度目標，先是族妹[[瑞杏]]，後是[[畫中仙]]，再之後是[[夏侯蘭]]，被打了一巴掌。
-- 如果唐門沒有收留葉家兄妹，[[梁有詩]]就會從瑞笙後宮團消失
-- [[唐默鈴|小師妹]]如果沒和[[趙活]]結緣，會下嫁成為瑞笙後宮之一
-- 後宮還有一個老婆方獨弱未登場(v3206)。[^1]
-- <MarkdownWrapper>||跟據解包，有與趙活成為好友的笙活雙俠線，v3206尚未推出||</MarkdownWrapper>
-- <MarkdownWrapper>||初版西武林與趙活打成平手，但因鋪成不夠遭到玩家不滿，此結局目前被刪除||</MarkdownWrapper>
+-   鳥熊 Facebook 的介紹，[連結](https://www.facebook.com/photo/?fbid=340029291883786&set=pcb.340029328550449)
+-   原本浪跡天涯很帥，出門才知道露宿荒郊野外的流浪漢生活一點也不帥。就算睡客棧也不能完全放鬆以免被人偷襲。久而久之，眼影就變重了
+-   討厭花俏的服飾，又愛乾淨，不想太邋遢，所以最後穿著一身素淨的縞衣
+-   [[萬里鵬程]]稱瑞笙「瑞小友」，不確定兩者關係
+-   被女生拒絕約 3~4 次。[^2]
+-   ~~疑似姊控~~，常挑戰高難度目標，先是族妹[[瑞杏]]，後是[[畫中仙]]，再之後是[[夏侯蘭]]，被打了一巴掌。
+-   如果唐門沒有收留葉家兄妹，[[梁有詩]]就會從瑞笙後宮團消失
+-   [[唐默鈴|小師妹]]如果沒和[[趙活]]結緣，會下嫁成為瑞笙後宮之一
+-   後宮還有一個老婆方獨弱未登場(v3206)。[^1]
+-   <MarkdownWrapper>||跟據解包，有與趙活成為好友的笙活雙俠線，v3206 尚未推出||</MarkdownWrapper>
+-   <MarkdownWrapper>||初版西武林與趙活打成平手，但因鋪成不夠遭到玩家不滿，此結局目前被刪除||</MarkdownWrapper>
 
 [^1]: 巴哈姆特－[【情報】關於龍湘屁股大小的答案+私聊鳥熊的對話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
 [^2]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
@@ -124,6 +124,6 @@ aside: false
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_23.jpg" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_23.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>

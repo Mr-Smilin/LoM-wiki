@@ -17,7 +17,7 @@ tags:
     - attribute
 ---
 
-<img class='guide-img' src='/images/guide/attribute.jpg' alt='能力值'>
+<img class='guide-img' src='/images/guide/attribute.webp' alt='能力值'>
 
 ## {{ $frontmatter.title }}
 

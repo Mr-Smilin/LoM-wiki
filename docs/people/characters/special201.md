@@ -13,7 +13,7 @@ tags:
 
 <ChTabs position="bottom">
 	<ChTab title="鄒博">
-		<Ch src='/images/characters/special201/normal.png' position='right'/>
+		<Ch src='/images/characters/special201/normal.webp' position='right'/>
 		<ChName nameZh='鄒博' nameEn='Zou Bo' position='right' />
 		<ChTable>
 			<ChTr>
@@ -70,6 +70,6 @@ tags:
 
 ## 備註
 
-- 年輕時又高又帥，曾經有點流氓味，正義感強烈，後來覺得自己不能這麼墮落，就發憤努力，才有今日成果。[^1]
+-   年輕時又高又帥，曾經有點流氓味，正義感強烈，後來覺得自己不能這麼墮落，就發憤努力，才有今日成果。[^1]
 
-[^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新11/2第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
+[^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

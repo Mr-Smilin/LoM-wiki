@@ -1,10 +1,10 @@
 ---
 title: 申屠龍
 tags:
- - 人物
- - 青城派
- - 千燈樓
- - 極樂教
+    - 人物
+    - 青城派
+    - 千燈樓
+    - 極樂教
 aside: false
 ---
 
@@ -13,7 +13,7 @@ aside: false
 <ChTabs position="bottom">
     <ChTab title="初識">
 		<ChMeet 
-			src='/images/characters/special405/normal.png' 
+			src='/images/characters/special405/normal.webp' 
             nameTitle=''
 			nameMain='申屠龍'
 			desc='青城派的修真道士，年紀雖輕，輩份卻高，是青城前任掌門的關門弟子。<br>
@@ -93,6 +93,6 @@ aside: false
 
 ## 備註
 
-- 鳥熊Facebook的介紹，[連結](https://www.facebook.com/photo.php?fbid=443066998246681&id=100076301525150&set=a.165167019370015)
-- 實為極樂教主[[李仁友]]以《九轉輪迴大法》奪舍肉身，轉世重生
-- 由於手上總是停著一隻鳥，~~在玩家之間有鳥才是本體之說~~
+-   鳥熊 Facebook 的介紹，[連結](https://www.facebook.com/photo.php?fbid=443066998246681&id=100076301525150&set=a.165167019370015)
+-   實為極樂教主[[李仁友]]以《九轉輪迴大法》奪舍肉身，轉世重生
+-   由於手上總是停著一隻鳥，~~在玩家之間有鳥才是本體之說~~
