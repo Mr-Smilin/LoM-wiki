@@ -158,7 +158,7 @@ export default {
     transform: translate(-50%, -50%);
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url(/images/generic/background/icon_brush_1.png);
+    background-image: url(/images/generic/background/icon_brush_1.webp);
     background-size: 100% 65%;
     opacity: 0.8;
     z-index: -1;
@@ -193,7 +193,7 @@ export default {
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url(/images/generic/background/back_intro.png);
+    background-image: url(/images/generic/background/back_intro.webp);
     z-index: -9;
 }
 

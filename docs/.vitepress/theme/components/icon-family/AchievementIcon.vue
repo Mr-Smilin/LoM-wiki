@@ -40,7 +40,7 @@ export default {
         getIconSource(no) {
             // this requires the same image path format
             return {
-                backgroundImage: `url('${withBase(`/images/generic/achievement_icon/icon_ach_300${no}.png`)}')`,
+                backgroundImage: `url('${withBase(`/images/generic/achievement_icon/icon_ach_300${no}.webp`)}')`,
             }
         },
         getIconSizeClass(size) {

@@ -71,12 +71,12 @@ export default {
         },
         getIconBackgroundSource() {
             return {
-                backgroundImage: `url('${withBase(`/images/generic/background/icon_item_back_3.png`)}')`
+                backgroundImage: `url('${withBase(`/images/generic/background/icon_item_back_3.webp`)}')`
             };
         },
         getIconSource(no, type) {
             // this requires the same image path format
-            return withBase(`/images/items/${type}s/item_${type}_${no}.png`);
+            return withBase(`/images/items/${type}s/item_${type}_${no}.webp`);
         },
         getIconSizeClass(size) {
             const SIZE_SMALL = 'small';

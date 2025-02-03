@@ -116,7 +116,7 @@
                 this.title = "君所願兮江湖行";
                 this.context = "終於輪你當主角，你的謝幕可歌可泣，世" +
                     "上無人再敢看輕你。</br>";
-                this.imageSource = "/images/generic/background/pic_end_0000.png";
+                this.imageSource = "/images/generic/background/pic_end_0000.webp";
                 document.getElementById("auto-line-break").checked = true;
                 return true;
             },

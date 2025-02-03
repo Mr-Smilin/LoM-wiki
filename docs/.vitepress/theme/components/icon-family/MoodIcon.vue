@@ -47,7 +47,7 @@ export default {
             }
             let face = moodMap[mood];
             return {
-                backgroundImage: `url('${withBase(`/images/generic/mood_icon/icon_face_${face}.png`)}')`,
+                backgroundImage: `url('${withBase(`/images/generic/mood_icon/icon_face_${face}.webp`)}')`,
             }
         },
         getIconSizeClass(size) {

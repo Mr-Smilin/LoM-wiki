@@ -78,7 +78,7 @@ export default defineComponent({
     methods: {
         getIconSource() {
             return {
-                backgroundImage: `url('${withBase(`/images/generic/pic_book_cover_01.png`)}')`
+                backgroundImage: `url('${withBase(`/images/generic/pic_book_cover_01.webp`)}')`
             };
         },
         getIconSizeClass(iconType) {

@@ -38,7 +38,7 @@ export default {
     methods: {
         getBackgroundUrl(){
             return {
-                backgroundImage: `url('${withBase(`/images/generic/background/pic_back_end_game.png`)}')`
+                backgroundImage: `url('${withBase(`/images/generic/background/pic_back_end_game.webp`)}')`
             };
         },
         getBackgroundClass(){
