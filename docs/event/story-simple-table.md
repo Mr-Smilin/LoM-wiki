@@ -293,9 +293,6 @@ tags:
 				[掌門議事](/event/simple/2-12-3-掌門議事)<br>
 				[唐門內戰](/event/simple/2-12-3-唐門內戰)<br>
 				</MarkdownWrapper>
-				<li>掌門討論繼承人</li>
-				<li>唐衫、佛手柑打上山</li>
-				<li>二師兄叛逃</li>
 			</td>
 		</tr>
 	</table>
@@ -444,9 +441,10 @@ tags:
 				</MarkdownWrapper>
 			</td>
 			<td>
-				<li>掌門討論繼承人</li>
-				<li>唐衫、佛手柑打上山</li>
-				<li>二師兄叛逃</li>
+				<MarkdownWrapper>
+				[掌門議事](/event/simple/2-12-3-掌門議事)<br>
+				[唐門內戰](/event/simple/2-12-3-唐門內戰)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 	</table>
@@ -466,15 +464,24 @@ tags:
 			<td>一月</td>
 			<td>
 				<li>唐門例會</li>
-				<li>大師兄從金國歸來</li>
-				<li>煉丹房：大師兄談話</li>
+				<MarkdownWrapper>
+				[唐衫拜門](/event/simple/3-01-1-唐衫拜門)<br>
+				[葉氏兄妹離去](/event/simple/3-01-1-葉氏兄妹離去)<br>
+				[大師兄回歸](/event/simple/3-01-1-大師兄回歸)<br>
+				[大師兄負傷](/event/simple/3-01-1-大師兄負傷)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>
-				<li>檢定：與大師兄出行</li>
+				<MarkdownWrapper>
+				[臥雲崗事件](/event/simple/3-01-2-臥雲崗事件)<br>
+				[臥雲崗留守](/event/simple/3-01-2-臥雲崗留守)<br>
+				[前往臥雲崗](/event/simple/3-01-2-前往臥雲崗)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>
-				<li>對決飛石幫主</li>
-				<li>大師兄之死</li>
+				<MarkdownWrapper>
+				[圍觀臥雲崗](/event/simple/3-01-3-圍觀臥雲崗)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
