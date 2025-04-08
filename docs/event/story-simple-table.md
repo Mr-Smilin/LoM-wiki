@@ -481,6 +481,10 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[圍觀臥雲崗](/event/simple/3-01-3-圍觀臥雲崗)<br>
+				[回程遇刺](/event/simple/3-01-3-回程遇刺)<br>
+				[大師兄重傷](/event/simple/3-01-3-大師兄重傷)<br>
+				[後山安葬](/event/simple/3-01-3-後山安葬)<br>
+				[煉丹解毒](/event/simple/3-01-3-煉丹解毒)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
