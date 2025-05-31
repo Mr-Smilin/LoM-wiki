@@ -109,9 +109,7 @@ function processLinks(html) {
   return parts;
 }
 
-onMounted(() => {
-  console.log(props.content);
-  
+onMounted(() => {  
   watchEffect(() => {
     try {
       let content;
