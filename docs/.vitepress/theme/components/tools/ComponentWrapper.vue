@@ -1,9 +1,5 @@
 <template>
-    <component :is="componentToRender" v-bind="componentProps">
-        <template v-for="(_, name) in $slots" v-slot:[name]="slotData">
-            <slot :name="name" v-bind="slotData"></slot>
-        </template>
-    </component>
+    <component :is="componentToRender" v-bind="componentProps"/>
 </template>
 
 <script setup>

@@ -46,12 +46,12 @@ function processHighlights(html) {
   });
 }
 
-function processContent(content) {
+function processContent(content) {  
   if (typeof content === 'string') {
-    const html = md.renderInline(content);
-    const cleanHtml = removePTags(processHighlights(html));
+    const html = md.renderInline(content.trim());
+    const cleanHtml = removePTags(processHighlights(html));    
     return processLinks(cleanHtml);
-  } else if (Array.isArray(content)) {
+  } else if (Array.isArray(content)) {    
     return content.map(item => processContent(item)).flat();
   } else if (typeof content === 'object' && content !== null) {
     if (content.type && typeof content.type !== 'symbol') {
@@ -109,7 +109,7 @@ function processLinks(html) {
   return parts;
 }
 
-onMounted(() => {
+onMounted(() => {  
   watchEffect(() => {
     try {
       let content;
@@ -117,8 +117,7 @@ onMounted(() => {
         content = props.content;
       } else {
         content = slots.default ? slots.default() : '';
-      }
-
+      }      
       compiledParts.value = processContent(content);
     } catch (error) {
       console.error('Content parsing error:', error);
