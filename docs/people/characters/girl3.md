@@ -128,6 +128,14 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
+				    生日
+				</ChTd>
+				<ChTd>
+				    6月6號
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
 					稱號
 				</ChTd>
 				<ChTd>
