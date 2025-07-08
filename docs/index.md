@@ -34,10 +34,10 @@ features:
       details: 因為活俠傳是一款好遊戲
     - icon: 🙋‍♂️
       title: 我想加入，看協作教學就好嗎？
-      details: 你願意跟我寫一輩子Wiki嗎？👀
+      details: 你願意跟我寫一輩子Wiki嗎？請看右上角協助編輯👀
     - icon: 🌟
-      title: 這樣寫Wiki有甚麼意義嗎？
-      details: 要一輩子寫Wiki是不可能的<br>但我還是想和大家寫一輩子Wiki<br>一輩子都不會再分開！
+      title: 內容有誤，但我不知道怎麼編輯怎麼辦？
+      details: 每個頁面最底下都有留言板<br>在底下留言我們就會看到囉<br>當然也歡迎加入DC與我們聊聊天！
 tags:
     - 活俠傳
     - LoM
