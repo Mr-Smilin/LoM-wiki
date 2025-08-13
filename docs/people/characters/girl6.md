@@ -165,6 +165,8 @@ aside: false
 
 -   鳥熊 FB 的介紹：[連結 1](https://www.facebook.com/photo.php?fbid=170987152121335&id=100076301525150&set=a.165167019370015)、[連結 2](https://www.facebook.com/photo.php?fbid=170987148788002&id=100076301525150&set=a.165167019370015)
 -   看好了，這是一枚銅錢。(捏)
+-   生日是7/10。[^6]
+-   鳥熊強調又短又重。[^5]
 -   曾把崆峒四秀的[[孟瞋]]的拳骨捏爛。
 -   因為生父濫賭而被賣到崆峒，非常討厭賭博，見[[趙活]]嗜賭會生氣。
 -   因為[[雷謙|雷掌門]]愛說鬼故事的關係，她很怕鬼。
@@ -175,6 +177,7 @@ aside: false
 -   可能會因為善意不小心把[[趙活]]的肋骨弄斷。
 -   和[[虞小梅|小梅]]曾是好友，但因為當年被騙吃靈藥的關係，小竹仍在氣她。
 -   技藝高超，打的寶劍連[[點蒼派]]都想求。[^1]
+-   對槌子有講究，握柄必須特製，能承受她的握力。[^4]
 -   溫柔全肯定廢人養成機。[^2]
 -   造的最厲害的武器是虎戰車、火箭飛拳。未開放的內容中有更狠的武器。[^3]
 -   根據<EndIcon no="11">結局 11</EndIcon>的對話，若無結緣，最後會收養一個孤兒，與[[虞小梅|小梅]]和好。
@@ -184,3 +187,6 @@ aside: false
 [^1]: 巴哈姆特－[【情報】關於龍湘屁股大小的答案+私聊鳥熊的對話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
 [^2]: [[問答集2024年10月#_2024-10-15|問答集2024-10-15]]，Part2。
 [^3]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
+[^4]: Facebook－[原始鳥熊2023/6/22](https://www.facebook.com/obbstudio/posts/pfbid0z6pcw86rgZmFoA4oMnu9556bQ93fieMNrpSoXudrAC1k6HUWCGcNiS6H5NTiqWXXl)
+[^5]: Facebook－[原始鳥熊2024/2/5](https://www.facebook.com/obbstudio/posts/pfbid0345ukMDW1MtXHXFDAegFGKnPSZ6Ypq2gcoLq2TgEeskhyHQzGeEuywWRtu4nC5mpTl)
+[^6]: Facebook－[原始鳥熊2025/7/10](https://www.facebook.com/100076301525150/posts/pfbid02BbuAbiZiW8DFWeu9B7Sj6rRLgicFv9NjRodLxZ3TpF4pzmCYHqPhfmLpJHmS5kZol/)
