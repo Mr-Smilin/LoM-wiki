@@ -88,3 +88,6 @@ aside: false
 -   鳥熊 Facebook 的介紹，[連結](https://www.facebook.com/photo.php?fbid=443066994913348&id=100076301525150&set=a.165167019370015)
 -   要不是被騙到戰場，他就是[[崆峒派]]掌派人的最有力人選
 -   [[魏菊]]對此不滿，認為他不負責任
+-   曾在軍中開壇祈雨，然後真的下雨了。[^1]
+
+[^1]: Facebook－[原始鳥熊2024/4/12](https://www.facebook.com/obbstudio/posts/pfbid02Ca1dJRbYBqSjvtiapNhzs2vDRJiwyUsFGjnVSxXzs1AazNokgANFPsgFyMsCLKWwl)
