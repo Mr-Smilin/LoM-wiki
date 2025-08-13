@@ -154,7 +154,8 @@ aside: false
 -   看我點蒼棒法！聽雲棒！
 -   與[[唐默鈴|小師妹]]年齡相仿，推測十五歲，和她感情非常好。
 -   葉雲裳的本性：[連結](https://www.facebook.com/obbstudio/photos/p.173499981714855/173499981714855/?type=3)
--   惡作劇時不知輕重，把人弄哭了又會內疚的半吊子。
+-   原姓氏「花」。[^4]
+-   擅長捉弄人，往死裡整那種。惡作劇時不知輕重，把人弄哭了又會內疚的半吊子。[^5][^6]
 -   治不了她時，可向[[葉雲舟]]告狀，會抽爛她屁股。
 -   嫌胡椒餅太辣，咬一口就不吃。
 -   咬[[趙活]]是動真格的咬，全身上下都痛。[[唐默鈴|小師妹]]則是一下一下小口輕啃。
@@ -163,12 +164,20 @@ aside: false
 -   疑似喜好龍陽之癖，撞見[[趙活]]為了貼藥布脫[[唐布衣|大師兄]]衣服，第一反應：哦……帶勁兒。
 -   身高還有一點成長空間，但要先調養好身體。[^1]
 -   雖然重病，但不會每天都吐血。[^2]
+-   比[[唐默鈴|小師妹]]重，具體不好說，畢竟她健康狀況滿複雜的，隨時可能暴瘦。[^3]
+-   喜歡鬼故事，一點也不怕的那種。[^3]
+-   喜歡蒐集亮晶晶的東西。[^7]
 -   <MarkdownWrapper>||對哥哥嫂子的需求：寵她。不能太聰明，必須是會被外貌蒙蔽的那種。然後，屁股不能太大。||</MarkdownWrapper>
 -   <MarkdownWrapper>||會暈船，若沒暈船藥，葉哥只得抱他下船步行。||</MarkdownWrapper>
 -   <MarkdownWrapper>||結局 15，子夜寄君書的真意。||</MarkdownWrapper>
 
 [^1]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^2]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
+[^3]: 巴哈姆特－[【閒聊】雲裳的體重和葉兄的童年（鳥熊私訊問答）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=3082&bpage=1&ltype=)
+[^4]: 噗浪偷偷說：[連結](https://www.plurk.com/p/3g8q4p1s38)
+[^5]: Facebook－[原始鳥熊2022/8/19](https://www.facebook.com/obbstudio/posts/pfbid02imQvU912mgs5b6XGkmHKY9JAfTaznce44dVB9s4e9mwVdpSa81e9YbWPmLq2TpBRl)
+[^6]: Facebook－[原始鳥熊2023/8/22](https://www.facebook.com/obbstudio/posts/pfbid06P9XSSoB9zaqws972XaHpJ5sXynEpiUkp9i1QS1nDEWdTRXxENnw761tbxKCS16Al)
+[^7]: Facebook－[原始鳥熊2024/6/1](https://www.facebook.com/obbstudio/posts/pfbid02DWHjzPLdRguLBns6wSeWRQUC1DcNr4nRNhgGfytbghiHANhircvTyAGndWyktv5Dl)
 
 ## 畫廊
 
