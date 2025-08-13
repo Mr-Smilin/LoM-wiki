@@ -180,6 +180,7 @@ aside: false
 
 -   鳥熊 FB 的介紹：[連結](https://www.facebook.com/obbstudio/photos/pb.100076301525150.-2207520000/119387850459402/?type=3)
 -   生日是 3/24。
+-   出生那天唐門正在和別派打仗。[^6]
 -   熊設計的第一個女主角，原設計只能攻略她，同時也是熊的本命角。
 -   喜歡吃烤魚，一輩子烤魚！
 -   見到人消沉，會用小手在肩背拍拍，為人打氣。
@@ -190,6 +191,8 @@ aside: false
 -   會怕冷。[^3]
 -   似乎不太會畫圖，被[[劉顎]]笑要找人刻成壁畫，假裝是上古遺跡。
 -   唱歌大走音。小師妹臉皮薄，不太會在生人面前唱歌。又怕被嘲笑，所以[[趙活]]獨享。[^4][^5]
+-   屬於看不出年紀的娃娃臉類型。[^6]
+-   小師妹其實是個比大家想像還難搞定的女生，她要被人獨寵超過一半人生才會漸漸敞開心胸。[^7]
 
 ### 趙活
 
@@ -238,6 +241,8 @@ aside: false
 [^3]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^4]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^5]: 巴哈姆特－[RE:【心得】看了趙活的日常生活，真的不能說“這我傳”](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12057&subbsn=1&bPage=0)
+[^6]: Facebook－[原始鳥熊2023/3/24](https://www.facebook.com/obbstudio/posts/pfbid0RtthSh7drDNiXYqEPRvK9Mvd5ngMuBQJxCVqfE7PyCxKZfy3QqHZTi97TSfMmWeQl)
+[^7]: Facebook－[原始鳥熊2024/2/5](https://www.facebook.com/obbstudio/posts/pfbid0345ukMDW1MtXHXFDAegFGKnPSZ6Ypq2gcoLq2TgEeskhyHQzGeEuywWRtu4nC5mpTl)
 
 ## 畫廊
 
