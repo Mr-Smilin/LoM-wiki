@@ -131,7 +131,7 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`09`">展露頭角</AchievementIcon></td>
         <td>你在崆峒大試大出風頭，要不是臉，說不定老婆都有了。</td>
         <td>
-            第二年留學比武連勝三場或<br>
+            第二年崆峒派留學比武連勝三場或<br>
             第三場被乞丐狂犬之外的人打敗也可以獲得。
         </td>
         <td></td>

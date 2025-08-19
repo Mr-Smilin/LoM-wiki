@@ -232,10 +232,11 @@ tags:
 -   回房間睡覺（約晚上 12 點）
 
 ## 年齡
+
 -   趙活沒有生日設定，他自己不確定自己多少歲，連爹娘都不知道他幾時出生的，恨不得忘了自己生過這個人
 -   趙活記不清楚是幾歲到唐門，和[[唐陞|三師兄]]氣話時說十一、二歲，對[[唐中翎|掌門]]卻說約莫七、八歲
 -   掌門提過趙活是[[唐默鈴|小師妹]]出生後來的，所以第一年應該約 22 歲(15+7)
--   留學季試，[[夏侯蘭]]的傳奇文本：「夏侯蘭與你雖然師徒相稱，畢竟比你大不了幾歲」，可知第二年時趙活 ≤25 歲
+-   崆峒派留學季試，[[夏侯蘭]]的傳奇文本：「夏侯蘭與你雖然師徒相稱，畢竟比你大不了幾歲」，可知第二年時趙活 ≤25 歲
 -   若撇開十一、二歲進唐門之說，由以上推論，趙活第一年應為 22~24 歲之間
 
 ## 山歌
@@ -275,8 +276,8 @@ tags:
 
 [^1]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^2]: 巴哈姆特－[【心得】看了趙活的日常生活，真的不能說“這我傳”](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2966)
-[^3]: Facebook－[原始鳥熊2022/10/11](https://www.facebook.com/obbstudio/posts/pfbid02a1NHfKyTzkMGJeViNPVZ21JP2CQhWDpGGWeEngh7WNrzJ5t9Z7euX9xXAZPyAfFnl)
-[^4]: Facebook－[原始鳥熊2023/4/1](https://www.facebook.com/obbstudio/posts/pfbid0VNvvCPjbVhaF58qbcrBF42j6oFCzFvQnxb4vbqRqBHYDRnWzwoGc6KSk6L81qTsEl)
+[^3]: Facebook－[原始鳥熊 2022/10/11](https://www.facebook.com/obbstudio/posts/pfbid02a1NHfKyTzkMGJeViNPVZ21JP2CQhWDpGGWeEngh7WNrzJ5t9Z7euX9xXAZPyAfFnl)
+[^4]: Facebook－[原始鳥熊 2023/4/1](https://www.facebook.com/obbstudio/posts/pfbid0VNvvCPjbVhaF58qbcrBF42j6oFCzFvQnxb4vbqRqBHYDRnWzwoGc6KSk6L81qTsEl)
 
 ## 畫廊
 

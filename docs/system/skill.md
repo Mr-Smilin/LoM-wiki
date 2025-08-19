@@ -9,7 +9,9 @@ tags:
 ---
 
 # 技能效果
+
 資料來源：https://docs.google.com/spreadsheets/u/0/?authuser=0&usp=sheets_web
+
 <table>
     <tr>
         <td>技能狀態</td>

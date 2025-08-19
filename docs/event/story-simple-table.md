@@ -330,7 +330,7 @@ tags:
 			<td>三月</td>
 			<td>
 				<MarkdownWrapper>
-				[崆峒留學](/event/simple/2-03-1-崆峒留學)<br>
+				[崆峒派留學](/event/simple/2-03-1-崆峒派留學)<br>
 				[初入鐵拳巷](/event/simple/2-03-1-初入鐵拳巷)<br>
 				</MarkdownWrapper>
 			</td>
