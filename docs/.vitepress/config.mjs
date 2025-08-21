@@ -345,7 +345,244 @@ export default defineConfig({
 		en: {
 			label: "English",
 			lang: "en",
-			link: "/en",
+			link: "/en/",
+			themeConfig: {
+				nav: [
+					{
+						text: "People",
+						items: [
+							{ text: "Character List", link: "/en/people/characters/" },
+							{ text: "Dream Sweetheart", link: "/en/people/dream-sweetheart" },
+							{ text: "Title List", link: "/en/people/title-list" },
+							{ text: "Faction List", link: "/en/people/factions/" },
+						],
+						activeMatch: "/en/people/",
+					},
+					{
+						text: "System",
+						items: [
+							{ text: "Faction Facilities", link: "/en/system/facility" },
+							{ text: "Secret Manual", link: "/en/system/books/" },
+							{ text: "Skill", link: "/en/system/skill" },
+							{ text: "Items", link: "/en/system/items" },
+							{ text: "Training", link: "/en/system/training" },
+						],
+						activeMatch: "/en/system/",
+					},
+					{
+						text: "Event",
+						items: [
+							{
+								text: "Main Timeline",
+								link: "/en/event/story-branch-timeline",
+							},
+							{
+								text: "Simple Timeline",
+								link: "/en/event/story-simple-table",
+							},
+							{
+								text: "Chronicles of Glory(Achievement)",
+								link: "/en/event/achievements",
+							},
+							{
+								text: "Book of Life and Death(badend)",
+								link: "/en/event/badends",
+							},
+							{ text: "History Book(End)", link: "/en/event/ends" },
+						],
+						activeMatch: "/en/event/",
+					},
+					{
+						text: "Other",
+						items: [
+							{ text: "NEWS", link: "/en/other/news" },
+							{ text: "Game Guide", link: "/en/other/guide/1-game-objective" },
+							{ text: "Author Q&A", link: "/en/other/qna/" },
+							{
+								text: "Game Data",
+								items: [
+									{
+										text: "v1.0.3130",
+										link: "https://smilin.pse.is/LoM",
+									},
+								],
+							},
+							{
+								text: "Image Generator",
+								items: [
+									{
+										text: "Historical Book (Ending) Image Generator",
+										link: "/en/other/image-generator/end",
+									},
+								],
+							},
+							{ text: "唐門圖書館(google sheet)", link: "/en/other/lom-sheet" },
+						],
+						activeMatch: "/en/guide/",
+					},
+					{
+						text: "Assisted Editor",
+						items: [
+							{
+								text: "How to Start Collaborating on LoM-wiki",
+								link: "/en/develop/1-start",
+							},
+							{
+								text: "Configuration File Description",
+								link: "/en/develop/2-vitepress",
+							},
+							{
+								text: "How to Preview Changes Locally",
+								link: "/en/develop/3-run-local",
+							},
+							{
+								text: "About Markdown Editing",
+								items: [
+									{
+										text: "Markdown Basics",
+										link: "/en/develop/4-example",
+									},
+									{
+										text: "Common Usage of Markdown",
+										link: "/en/develop/4-1-template.md",
+									},
+									{
+										text: "LoM-wiki Public Components",
+										link: "/en/develop/4-2-wiki-template.md",
+									},
+									{
+										text: "Usage of Character Biography Components",
+										link: "/en/develop/4-3-character-template.md",
+									},
+									{
+										text: "Official Update Page Module Description",
+										link: "/en/develop/4-4-news-template.md",
+									},
+								],
+							},
+							{
+								text: "Markdown Template",
+								items: [
+									{
+										text: "Clean Template",
+										link: "/en/develop/clean-template.md",
+									},
+									{
+										text: "Character Page Template",
+										link: "/en/develop/clean-character-template.md",
+									},
+								],
+							},
+						],
+					},
+				],
+				sidebar: {
+					"/en/develop/": [
+						{
+							text: "Assisted Editor",
+							items: [
+								{
+									text: "How to Start Collaborating on LoM-wiki",
+									link: "/en/develop/1-start",
+								},
+								{
+									text: "Configuration File Description",
+									link: "/en/develop/2-vitepress",
+								},
+								{
+									text: "How to Preview Changes Locally",
+									link: "/en/develop/3-run-local",
+								},
+								{
+									text: "About Markdown Editing",
+									items: [
+										{
+											text: "Markdown Basics",
+											link: "/en/develop/4-example",
+										},
+										{
+											text: "Common Usage of Markdown",
+											link: "/en/develop/4-1-template.md",
+										},
+										{
+											text: "LoM-wiki Public Components",
+											link: "/en/develop/4-2-wiki-template.md",
+										},
+										{
+											text: "Usage of Character Biography Components",
+											link: "/en/develop/4-3-character-template.md",
+										},
+										{
+											text: "Official Update Page Module Description",
+											link: "/en/develop/4-4-news-template.md",
+										},
+									],
+								},
+								{
+									text: "Markdown Template",
+									items: [
+										{
+											text: "Clean Template",
+											link: "/en/develop/clean-template.md",
+										},
+										{
+											text: "Character Page Template",
+											link: "/en/develop/clean-character-template.md",
+										},
+									],
+								},
+							],
+						},
+					],
+					"/en/other/guide/": [
+						{
+							text: "Game Guide",
+							items: [
+								{
+									text: "Game Objective",
+									link: "/en/other/guide/1-game-objective",
+								},
+								{
+									text: "What Should I Do at the Beginning?",
+									link: "/en/other/guide/2-how-to-start",
+								},
+								{
+									text: "About Action Points",
+									link: "/en/other/guide/mechanism/action-point",
+								},
+								{
+									text: "About Mood",
+									link: "/en/other/guide/mechanism/mood",
+								},
+								{
+									text: "About Contribution Points",
+									link: "/en/other/guide/mechanism/contribution",
+								},
+								{
+									text: "About Attributes",
+									link: "/en/other/guide/mechanism/attribute",
+								},
+								{
+									text: "About Sweetheart",
+									link: "/en/other/guide/mechanism/dream-sweetheart",
+								},
+								{
+									text: "About Surrender",
+									link: "/en/other/guide/mechanism/surrender",
+								},
+								{
+									text: "About Destiny",
+									link: "/en/other/guide/mechanism/destiny",
+								},
+								{
+									text: "Fourth Brother Shop Mechanism",
+									link: "/en/other/guide/mechanism/brother4-selling",
+								},
+							],
+						},
+					],
+				},
+			},
 		},
 	},
 	markdown: {

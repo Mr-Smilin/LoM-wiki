@@ -12,10 +12,10 @@ hero:
     actions:
         - theme: brand
           text: Browse Wiki
-          link: /wiki-list
+          link: /en/wiki-list
         - theme: alt
           text: Game Guide
-          link: /other/guide/1-game-objective.md
+          link: /en/other/guide/1-game-objective.md
         - theme: alt
           text: Game Download
           link: https://store.steampowered.com/app/1859910/_/
@@ -24,10 +24,10 @@ hero:
           link: https://discord.gg/P4kePy6qmc
         - theme: alt
           text: Collaborative Wiki
-          link: /develop/1-start
+          link: /en/develop/1-start
         - theme: alt
           text: Historical Book (Ending) Image Generator
-          link: /other/image-generator/end.html
+          link: /en/other/image-generator/end.html
 features:
     - icon: ❓
       title: Why create LoM-Wiki?

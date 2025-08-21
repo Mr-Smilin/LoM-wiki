@@ -2,7 +2,7 @@
 title: Character List
 aside: false
 sidebar: false
-borderless: false
+borderless: true
 tags:
     - Characters
 ---

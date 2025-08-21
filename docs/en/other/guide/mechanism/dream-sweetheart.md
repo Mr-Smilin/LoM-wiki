@@ -34,4 +34,4 @@ When the change of heart value reaches 10 points, a dream of changing sweetheart
 
 ---
 
-<!--@include: @/people/dream-sweetheart.md-->
+<!--@include: @/en/people/dream-sweetheart.md-->
