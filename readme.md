@@ -107,9 +107,12 @@ npm run dev
 二級分類同 `navbar` 子分類
 
 `./docs/people/characters` 存放人物列表及人物頁面。  
+`./docs/system/facility` 存放唐門門派設施介紹。  
 `./docs/system/books` 存放武學列表及武學頁面。  
-`./docs/system/training` 存放養成指令頁面。  
+`./docs/system/skill` 存放技能效果。  
+`./docs/system/pills` 存放煉丹效果。  
 `./docs/system/items` 存放道具列表資料。  
+`./docs/system/training` 存放養成指令頁面。  
 `./docs/event/achivements` 風雲史資料。  
 `./docs/event/badends` 生死簿資料。  
 `./docs/event/ends` 汗青書資料。  
