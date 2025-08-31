@@ -9,10 +9,6 @@ aside: false
 
 # {{ $frontmatter.title }}
 
-::: info
-這個角色的劇情尚未完成，無法正常攻略！
-:::
-
 <ChTabs position="bottom">
 	<ChTab title="初識">
 		<ChMeet 
