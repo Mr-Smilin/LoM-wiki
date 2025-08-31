@@ -48,7 +48,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2003`">君子論劍</BookItemIcon></td>
-        <td>刀劍5<br>學問8<br>君子風<br>儒學LV1<br>處世-</td>
+        <td>刀劍5<br>學問8<br>君子風<br>儒學LV1<br>處世置中</td>
         <td>80</td>
         <td>儒學LV3</td>
         <td>三年四月上旬－四師兄買物($2500)</td>
@@ -72,7 +72,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2006`">孔夫子劍</BookItemIcon></td>
-        <td>刀劍10<br>儒學LV1<br>君子風<br>修養+10</td>
+        <td>刀劍10<br>儒學LV1<br>君子風<br>修養+10<br>性情置中<br>處世置中</td>
         <td>80</td>
         <td>儒學LV1</td>
         <td>二年崆峒派留學－玄功門季試勝出(魏菊好感未達2★)<br>二年崆峒派留學－玄功門－季試戰勝兩場，獎勵選擇「武功秘笈」</td>
@@ -84,6 +84,30 @@ tags:
         <td>25</td>
         <td></td>
         <td>二年不留學－二月上旬至五月下旬團練累積兩次後，五月上旬至下旬團練打贏狄傲</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`2008`">八門鎖金刀</BookItemIcon></td>
+        <td>刀劍15<br>學問8<br>戰術LV2</td>
+        <td>80</td>
+        <td></td>
+        <td>二年青城留學開頭，道德壞人，搜房間轉盤【武功秘笈】</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`2009`">三五斬妖劍</BookItemIcon></td>
+        <td>刀劍10<br>內力12</td>
+        <td>15</td>
+        <td></td>
+        <td>二年青城留學，修練3次後觸發排擠事件，轉盤&gt;=50【葉雲裳的恐嚇】(申屠龍好感+)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`2011`">盤古開天破</BookItemIcon></td>
+        <td>刀劍6<br>體力5<br>性情+5<br>處世+5</td>
+        <td>25</td>
+        <td></td>
+        <td>二年青城留學，修練3次後觸發排擠事件，取得點蒼棒法，<br>再修練數次後觸發下一個事件，轉盤&lt;50</td>
         <td></td>
     </tr>
     <tr>
@@ -100,6 +124,22 @@ tags:
         <td>50</td>
         <td>學問20</td>
         <td>三年一月上旬－葉家辭別(葉雲裳好感&gt;5★贈與)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`2303`">點蒼棒法</BookItemIcon></td>
+        <td>刀劍5<br>做人沒有下限LV1<br>戰術LV1<br>難知如陰LV1<br>道德-5</td>
+        <td>50</td>
+        <td>道德&lt;40<br>或<br>點蒼快劍LV1</td>
+        <td>二年青城留學，修練3次後觸發排擠事件，轉盤&lt;50【申屠龍的抵抗】(申屠龍好感+)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`2401`">全真天遁劍法</BookItemIcon></td>
+        <td>內力15<br>刀劍10<br>三教合一LV5<br>修養+10</td>
+        <td>80</td>
+        <td>佛學LV1<br>或<br>儒學LV1<br>或<br>道學LV2</td>
+        <td>四師兄遠行時拜託找仙丹，回來去弟子房閒聊選【以前托你打聽的事】，花兩千金取得</td>
         <td></td>
     </tr>
     <tr>
