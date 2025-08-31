@@ -263,6 +263,14 @@ tags:
         <td>700</td>
     </tr>
     <tr>
+        <td><BookItemIcon :no="`4009`">清峰三十六路</BookItemIcon></td>
+        <td>輕功8<br>道學LV1<br>修養+5</td>
+        <td>50</td>
+        <td>心相>=50</td>
+        <td>青城留學，在上清宮修仙4~6次後，再次選擇上清宮，長老贈送(詳細待驗證)</td>
+        <td></td>
+    </tr>
+    <tr>
         <td><BookItemIcon :no="`4020`">逍遙遊腿法</BookItemIcon></td>
         <td>輕功10<br>體力5<br>學問3<br>疾如風<br>修養+3</td>
         <td>50</td>
@@ -348,6 +356,14 @@ tags:
         <td>80</td>
         <td>輕功50</td>
         <td>三年夏侯蘭線－奪魄門季試第三場敗給瑞笙</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`6012`">八仙指</BookItemIcon></td>
+        <td>拳掌5<br>醫術LV1<br>煉丹37</td>
+        <td>50</td>
+        <td>醫術LV3</td>
+        <td>青城留學，九月上旬，醫術3~4(待驗證)，把脈後唐芳贈送</td>
         <td></td>
     </tr>
 </BTable>
