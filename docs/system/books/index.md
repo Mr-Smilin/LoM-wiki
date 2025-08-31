@@ -133,7 +133,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`3000`">苦惱拳</BookItemIcon></td>
-        <td>拳掌5<br>苦惱拳</td>
+        <td>拳掌5<br>苦惱拳<br>佛學LV1</td>
         <td>25</td>
         <td></td>
         <td>千面人事件－選外門弟子，心相憂鬱限定</td>
@@ -141,7 +141,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`3001`">太祖長拳</BookItemIcon></td>
-        <td>拳掌5<br>體力3</td>
+        <td>拳掌5<br>體力3<br>佛學LV1</td>
         <td>25</td>
         <td></td>
         <td>壽宴事件－禮讓和尚</td>
@@ -165,9 +165,9 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`4001`">金剛腿</BookItemIcon></td>
-        <td>體力10<br>輕功10<br>金剛腿LV5</td>
+        <td>體力10<br>輕功10<br>金剛腿LV5<br>佛學LV1</td>
         <td>50</td>
-        <td>體力20<br> 佛學LV1</td>
+        <td>體力20<br>佛學LV1</td>
         <td>外出－鬧市逛街，福蘊贈送<br>二年三月上旬－四師兄買物($2000)<br>二年崆峒派留學－無色廣場逛街，四師兄買物</td>
         <td>2000</td>
     </tr>
@@ -325,7 +325,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`1030`">金鐘罩</BookItemIcon></td>
-        <td>內力5<br>體力5<br>金鐘罩LV3<br>鐵布衫LV5<br>不壞金身</td>
+        <td>內力5<br>體力5<br>金鐘罩LV3<br>鐵布衫LV5<br>不壞金身<br>佛學LV1</td>
         <td>50</td>
         <td>佛學LV1</td>
         <td>四書事件<br>二年十月中旬－四師兄買物($3500)</td>
