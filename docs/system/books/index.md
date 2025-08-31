@@ -429,7 +429,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7005`">龍吟功</BookItemIcon></td>
-        <td>內力10<br>龍吟功</td>
+        <td>內力10<br>龍吟功<br>道學LV1</td>
         <td>50</td>
         <td>道學LV1</td>
         <td>一年破廟事件，幫公子打贏道士<br>二年三月上旬－四師兄買物($1500)<br>二年崆峒派留學－無色廣場逛街，四師兄買物($1500)</td>
@@ -445,7 +445,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7007`">巫山洞府九寶圖</BookItemIcon></td>
-        <td>體力5<br>內力10<br>防禦10</td>
+        <td>體力5<br>內力10<br>防禦10<br>陰陽置中</td>
         <td>50</td>
         <td></td>
         <td>圍城事件－外出練拳南宮深贈送（處世≧中庸）<br>三年四月上旬－四師兄買物($1500)</td>
@@ -469,7 +469,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7010`">雪山心法</BookItemIcon></td>
-        <td>內力12<br>體力10<br>雪山心法LV5</td>
+        <td>內力12<br>體力10<br>雪山心法LV5<br>陰陽置中2</td>
         <td>50</td>
         <td></td>
         <td>崆峒派留學－夏侯蘭支線去睡樹屋(夏侯蘭好感≧35，或選「我不要啦！」)給予</td>
@@ -477,7 +477,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7011`">玄燭心經</BookItemIcon></td>
-        <td>內力10</td>
+        <td>內力10<br>性情置中<br>處世置中<br>道德置中<br>修養置中</td>
         <td>50</td>
         <td></td>
         <td>待確認途徑<br>這本是錦香宮的，如果可以學應該要測相關事件</td>
@@ -506,6 +506,38 @@ tags:
         <td></td>
         <td>強賣魚鮮事件－幫助許大鯨打贏福韞後，花錢購買($500)，或選「我買不起」強搶贏得</td>
         <td>500</td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`7015`">無為丹法</BookItemIcon></td>
+        <td>內力16<br>煉神還虛LV1<br>煉精化氣LV5</td>
+        <td>80</td>
+        <td>修養40<br>道學LV1</td>
+        <td>青城留學初見申屠龍時，修養>40或者道學>1獲取</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`7016`">虎嘯功</BookItemIcon></td>
+        <td>內力10<br>虎嘯功<br>道學LV1</td>
+        <td>50</td>
+        <td>道學LV1</td>
+        <td>二年青城留學，修練3次後觸發排擠事件，取得三五斬妖劍後，申屠龍好感15以上，修練有機率觸發與他對練贈送</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`7017`">枯榮神功上卷</BookItemIcon></td>
+        <td>內力12<br>體力12<br>枯榮神功</td>
+        <td>50</td>
+        <td>LV2<br>內力&gt;=20<br>陰陽&lt;40<br>LV5<br>內力&gt;=30<br>陰陽&gt;=60<br>LV8<br>內力&gt;=40<br>陰陽&gt;=40<br>陰陽&lt;60</td>
+        <td>青城留學，總煉藥點數>60（不計算天命獲得）（待驗證），11月上旬和段智秀對質時，<br>先選擇【你的目的】或【那封信】後，第一問時選【大宋趙氏宗親（騙）】，之後再選擇【幕後主使】獲得。<br>注意，順序很重要，不可以先點【幕後主使】。</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`7018`">陰陽奪</BookItemIcon></td>
+        <td>內力8<br>拳掌8<br>陰陽奪</td>
+        <td>80</td>
+        <td></td>
+        <td>青城留學，申屠龍好感20，11月下旬離開青城時與地獄道交戰，隨後下山劇情贈送</td>
+        <td></td>
     </tr>
 </BTable>
 
