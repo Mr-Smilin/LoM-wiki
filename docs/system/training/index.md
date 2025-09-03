@@ -49,7 +49,7 @@ text: '修養-',
 			<MoodIcon :mood="`normal`" />(心相:33~65)
 		</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`high`" />(心相＞=65)額外特效
+			<MoodIcon :mood="`high`" />(心相＞=66)額外特效
 		</td>
 		<td :unsortable="true">
 			<MoodIcon :mood="`bad`" />(心相:0~32)
