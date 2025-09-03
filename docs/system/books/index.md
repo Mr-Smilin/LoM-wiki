@@ -246,7 +246,7 @@ tags:
     <tr>
         <td><BookItemIcon :no="`4006`">雷神腳</BookItemIcon></td>
         <td>拳掌15<br>輕功10<br>形意拳LV2<br>神雷1</td>
-        <td>待補</td>
+        <td>80</td>
         <td>形意拳LV1</td>
         <td>需同時符合以下條件：<br>
 - 唐嬌嬌、唐衫加入唐門，唐衫隨大師兄下山，武林大會接納唐衫。<br>
