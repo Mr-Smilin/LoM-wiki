@@ -273,11 +273,13 @@ tags:
 -   百萬趙活的動力源是發條、磁力、蓋特線。[^1]
 -   趙活一家子都是貌不驚人尋常百姓，就他相貌特別精緻。[^3]
 -   傳奇文本對趙活後期武學境界的描述：「論內功、論體魄都不論二、三流水平，但招數千變萬化，已近無招領域的奇葩。深諳攻守進退之道，每招每式都大有玄機，包羅天下武學而又招招出奇不意。」
+-   雖然遊戲中沒有，但趙活設定上有可能學會飛燕流星翎，但一定跟大師兄、跟掌門的都不一樣。因為飛燕流星翎就是一種忘形篇的大成。[^5]
 
 [^1]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^2]: 巴哈姆特－[【心得】看了趙活的日常生活，真的不能說“這我傳”](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2966)
 [^3]: Facebook－[原始鳥熊 2022/10/11](https://www.facebook.com/obbstudio/posts/pfbid02a1NHfKyTzkMGJeViNPVZ21JP2CQhWDpGGWeEngh7WNrzJ5t9Z7euX9xXAZPyAfFnl)
 [^4]: Facebook－[原始鳥熊 2023/4/1](https://www.facebook.com/obbstudio/posts/pfbid0VNvvCPjbVhaF58qbcrBF42j6oFCzFvQnxb4vbqRqBHYDRnWzwoGc6KSk6L81qTsEl)
+[^5]: [[問答集2024年10月#_2024-10-25|問答集2024-10-25]]
 
 ## 畫廊
 
