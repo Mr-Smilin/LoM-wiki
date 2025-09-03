@@ -625,15 +625,15 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8003`">雪球教戰守則</BookItemIcon></td>
-        <td>暗器5<br>戰術LV1<br>道德-</td>
-        <td>待補</td>
+        <td>暗器5<br>戰術LV1<br>道德-5</td>
+        <td>25</td>
         <td></td>
         <td>青城留學九月下旬之前，修練三次後觸發排擠事件，葉雲裳≥35贈送。</td>
         <td></td>
     </tr>
     <tr>
         <td><BookItemIcon :no="`8004`">十八種奇兵鍛法雜記</BookItemIcon></td>
-        <td>鍛造點50<br>修養-5<br>處世+5</td>
+        <td>體力10<br>修養-5<br>處世+5<br>鍛造點50</td>
         <td>50</td>
         <td></td>
         <td>二年崆峒派留學－鐵拳門入門贈送</td>
@@ -649,7 +649,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8006`">江湖鬼域錄．續</BookItemIcon></td>
-        <td>核棗釘<br>性情-</td>
+        <td>核棗釘<br>性情-13<br>心相-10<br></td>
         <td>25</td>
         <td></td>
         <td>二年十月中旬－四師兄買物($900)<br>千面人事件－選外門弟子，聊到龍湘時選擇讓人擔心(已持有江湖鬼域錄)</td>
@@ -657,7 +657,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8007`">戰神語錄</BookItemIcon></td>
-        <td>嘴力20<br>儒學LV2<br>孟子曰</td>
+        <td>嘴力20<br>儒學LV2<br>孟子曰<br>處世-8</td>
         <td>50</td>
         <td>儒學LV2</td>
         <td>一年四月上旬－四師兄買物($1500)</td>
@@ -689,16 +689,16 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8011`">火炎山鍛譜</BookItemIcon></td>
-        <td>學問8<br>鍛造+</td>
-        <td>待補</td>
+        <td>學問8<br>鍛造40</td>
+        <td>50</td>
         <td>學問40</td>
         <td>不留學，破廟線通報唐門，在鍛治場戰鬥後獲得</td>
         <td></td>
     </tr>
     <tr>
         <td><BookItemIcon :no="`8013`">當世詞選</BookItemIcon></td>
-        <td>學問6<br>修養+<br>處世+</td>
-        <td>待補</td>
+        <td>學問6<br>修養+5<br>處世靠中</td>
+        <td>25</td>
         <td>學問25<br>或<br>修養40</td>
         <td>青城留學，在常風觀首次行動獲得</td>
         <td></td>
@@ -754,23 +754,23 @@ tags:
     <tr>
         <td><BookItemIcon :no="`8107`">難經</BookItemIcon></td>
         <td>學問10<br>抗毒8<br>抗麻8<br>醫術LV1</td>
-        <td>待補</td>
+        <td>50</td>
         <td>學問25</td>
         <td>收留葉家兄妹後，唐芳回來，撿行李轉盤轉到【五成】獲得</td>
         <td></td>
     </tr>
     <tr>
         <td><BookItemIcon :no="`8108`">摺紙集</BookItemIcon></td>
-        <td>形意拳1<br>性情-</td>
-        <td>待補</td>
+        <td>形意拳1<br>性情-2</td>
+        <td>20</td>
         <td></td>
         <td>不留學，破廟線通報唐門，在講經堂轉盤【摺紙集】獲得</td>
         <td></td>
     </tr>
     <tr>
         <td><BookItemIcon :no="`8109`">九轉殘篇</BookItemIcon></td>
-        <td>內力15<br>寂滅三摩地<br>修養+<br>性情+</td>
-        <td>待補</td>
+        <td>內力15<br>寂滅三摩地<br>修養+10<br>性情+10</td>
+        <td>100</td>
         <td>佛學LV2<br>心相>=60</td>
         <td>需完成以下所有條件，三年一月上旬，由唐芳贈送：<br>
 1. 青城留學，二年十二月上葉雲舟歸來時，葉雲裳≥30且技能《醫術》≥3，聽說了寂滅三摩地<br>
