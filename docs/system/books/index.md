@@ -48,7 +48,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2003`">君子論劍</BookItemIcon></td>
-        <td>刀劍5<br>學問8<br>君子風<br>儒學LV1<br>處世置中</td>
+        <td>刀劍5<br>學問8<br>君子風<br>儒學LV1<br>處世靠中</td>
         <td>80</td>
         <td>儒學LV3</td>
         <td>三年四月上旬－四師兄買物($2500)</td>
@@ -72,7 +72,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2006`">孔夫子劍</BookItemIcon></td>
-        <td>刀劍10<br>儒學LV1<br>君子風<br>修養+10<br>性情置中<br>處世置中</td>
+        <td>刀劍10<br>儒學LV1<br>君子風<br>修養+10<br>性情靠中<br>處世靠中</td>
         <td>80</td>
         <td>儒學LV1</td>
         <td>二年崆峒派留學－玄功門季試勝出(魏菊好感未達2★)<br>二年崆峒派留學－玄功門－季試戰勝兩場，獎勵選擇「武功秘笈」</td>
@@ -445,7 +445,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7007`">巫山洞府九寶圖</BookItemIcon></td>
-        <td>體力5<br>內力10<br>防禦10<br>陰陽置中</td>
+        <td>體力5<br>內力10<br>防禦10<br>陰陽靠中</td>
         <td>50</td>
         <td></td>
         <td>圍城事件－外出練拳南宮深贈送（處世≧中庸）<br>三年四月上旬－四師兄買物($1500)</td>
@@ -469,7 +469,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7010`">雪山心法</BookItemIcon></td>
-        <td>內力12<br>體力10<br>雪山心法LV5<br>陰陽置中2</td>
+        <td>內力12<br>體力10<br>雪山心法LV5<br>陰陽靠中2</td>
         <td>50</td>
         <td></td>
         <td>崆峒派留學－夏侯蘭支線去睡樹屋(夏侯蘭好感≧35，或選「我不要啦！」)給予</td>
@@ -477,7 +477,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7011`">玄燭心經</BookItemIcon></td>
-        <td>內力10<br>性情置中<br>處世置中<br>道德置中<br>修養置中</td>
+        <td>內力10<br>性情靠中<br>處世靠中<br>道德靠中<br>修養靠中</td>
         <td>50</td>
         <td></td>
         <td>目前無法獲得(ver 1.0.5000.5)</td>
