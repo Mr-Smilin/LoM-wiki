@@ -28,6 +28,7 @@ graph TB
     C[唐門傳承小劍<br>需要：裝備等級10<br>門派規模2]
     D[殺魚刀<br>需要：裝備等級5<br>門派規模2]
     E[玉霄神匕<br>需要：裝備等級10]
+    F[瀝泉小劍<br>需要：裝備等級10<br>門派規模2]
   end
 
   %% 升級箭頭（黃色）+ 文字
@@ -35,22 +36,26 @@ graph TB
   B --> C
   A --> D
   A --> E
+  B --> F
 
   %% 退還箭頭（綠色）+ 文字
   B -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   C -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| B
   D -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   E -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
+  F -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| B
   
   %% 自訂箭頭樣式與文字顏色
   linkStyle 0 stroke:#FFD700,stroke-width:2px
   linkStyle 1 stroke:#FFD700,stroke-width:2px
   linkStyle 2 stroke:#FFD700,stroke-width:2px
   linkStyle 3 stroke:#FFD700,stroke-width:2px
-  linkStyle 4 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 4 stroke:#FFD700,stroke-width:2px
   linkStyle 5 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 6 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 7 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 8 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 9 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
 
   %% 設定節點樣式
   classDef default padding:15px,margin:10px,fill:#000,color:#FFF
@@ -59,6 +64,7 @@ graph TB
   style C stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
   style D stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
   style E stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
+  style F stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
 
 
 ```
@@ -81,6 +87,7 @@ graph TB
     C[護心鏡<br>需要：裝備等級10<br>門派規模2]
     D[密密縫<br>需要：裝備等級10<br>門派規模3]
     E[牛皮制服<br>需要：裝備等級10<br>門派規模2]
+    F[紙甲<br>需要：裝備等級10<br>門派規模3]
   end
 
   %% 升級箭頭（黃色）+ 文字
@@ -88,22 +95,26 @@ graph TB
   A --> C
   A --> D
   A --> E
+  B --> F
 
   %% 退還箭頭（綠色）+ 文字
   B -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   C -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   D -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   E -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
+  F -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| B
   
   %% 自訂箭頭樣式與文字顏色
   linkStyle 0 stroke:#FFD700,stroke-width:2px
   linkStyle 1 stroke:#FFD700,stroke-width:2px
   linkStyle 2 stroke:#FFD700,stroke-width:2px
   linkStyle 3 stroke:#FFD700,stroke-width:2px
-  linkStyle 4 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 4 stroke:#FFD700,stroke-width:2px
   linkStyle 5 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 6 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 7 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 8 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 9 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
 
   %% 設定節點樣式
   classDef default padding:15px,margin:10px,fill:#000,color:#FFF
@@ -112,6 +123,7 @@ graph TB
   style C stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
   style D stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
   style E stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
+  style F stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
 
 ```
 
@@ -222,22 +234,28 @@ graph TB
   subgraph 鍛冶場 - 暗器 - 陷阱
     A[似草針<br>需要：無]
     B[地鳴雷<br>需要：裝備等級10<br>門派規模2]
+    C[猛火油櫃<br>需要：裝備等級10<br>門派規模2]
   end
 
   %% 升級箭頭（黃色）+ 文字
   A --> B
+  A --> C
 
   %% 退還箭頭（綠色）+ 文字
   B -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
+  C -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   
   %% 自訂箭頭樣式與文字顏色
   linkStyle 0 stroke:#FFD700,stroke-width:2px
-  linkStyle 1 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 1 stroke:#FFD700,stroke-width:2px
+  linkStyle 2 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 3 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
 
   %% 設定節點樣式
   classDef default padding:15px,margin:10px,fill:#000,color:#FFF
   style A stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
   style B stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
+  style C stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
 
 ```
 
