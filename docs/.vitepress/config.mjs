@@ -9,11 +9,12 @@ import {
 } from "@nolebase/vitepress-plugin-git-changelog/vite";
 // 註腳
 import footnote from "markdown-it-footnote";
+import { withMermaid } from "vitepress-plugin-mermaid";
 
 const baseUrl = "/LoM-wiki/";
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+const baseConfig = ({
 	title: "活俠傳wiki", // 站點名稱
 	// titleTemplate: "", title | titleTemplate
 	description: "Legend of Mortal Wiki", // 站點敘述
@@ -49,6 +50,7 @@ export default defineConfig({
 					{ text: "秘笈列表", link: "/system/books/" },
 					{ text: "技能效果", link: "/system/skill" },
 					{ text: "煉丹效果", link: "/system/pills" },
+					{ text: "鍛冶場、煉丹房開發路線圖", link: "/system/forge-roadmap" },
 					{ text: "道具列表", link: "/system/items" },
 					{ text: "養成指令", link: "/system/training" },
 				],
@@ -706,4 +708,16 @@ export default defineConfig({
 			  ]
 			: []),
 	],
+});
+
+// Mermaid
+export default withMermaid({
+	...baseConfig,
+	// Mermaid 特定配置
+	mermaid: {
+		theme: 'dark',
+	},
+	mermaidPlugin: {
+		class: "mermaid mermaid-m",
+	}
 });
