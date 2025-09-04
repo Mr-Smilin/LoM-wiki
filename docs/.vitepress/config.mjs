@@ -50,7 +50,7 @@ const baseConfig = ({
 					{ text: "秘笈列表", link: "/system/books/" },
 					{ text: "技能效果", link: "/system/skill" },
 					{ text: "煉丹效果", link: "/system/pills" },
-					{ text: "開發路線圖", link: "/system/forge-roadmap" },
+					{ text: "鍛冶場、煉丹房開發路線圖", link: "/system/forge-roadmap" },
 					{ text: "道具列表", link: "/system/items" },
 					{ text: "養成指令", link: "/system/training" },
 				],
