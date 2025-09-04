@@ -269,7 +269,7 @@ graph TB
 } }%%
 graph TB
   subgraph Alchemy Room - Elixirs
-    A[Nan Chi Yushi Powder (Southern Venom Arsenic Powder)<br>Requires: None]
+    A[Nan Chi Yushi Powder / Southern Venom Arsenic Powder<br>Requires: None]
     B[Heart-Piercing Gentian Decoction<br>Requires: None]
     C[Obedience Water<br>Requires: None]
     D[Pepper Powder Pellet<br>Requires: Sect Scale 2]
