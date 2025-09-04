@@ -309,10 +309,10 @@ graph TB
   B --> D
   A --> E
 
-  B -.->|<font color='#00FF00'>Refunds 90% of spent Forging Points & Currency</font>| A
-  C -.->|<font color='#00FF00'>Refunds 90% of spent Forging Points & Currency</font>| A
-  D -.->|<font color='#00FF00'>Refunds 90% of spent Forging Points & Currency</font>| B
-  E -.->|<font color='#00FF00'>Refunds 90% of spent Forging Points & Currency</font>| A
+  B -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
+  C -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
+  D -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| B
+  E -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
 
   linkStyle 0 stroke:#FFD700,stroke-width:2px
   linkStyle 1 stroke:#FFD700,stroke-width:2px
