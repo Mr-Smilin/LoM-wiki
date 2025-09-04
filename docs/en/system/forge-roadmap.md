@@ -1,6 +1,6 @@
 ---
-title: Forging & Alchemy Development Roadmap
-description: Forging & Alchemy Development Roadmap
+title: Forge & Alchemy Room Development Roadmap
+description: Forge & Alchemy Room Development Roadmap
 aside: true
 outline: [2, 3]
 sidebar: false
