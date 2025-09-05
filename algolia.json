@@ -5,7 +5,8 @@
     "sitemap_alternate_links": true,
     "stop_urls": ["https://smilin.net/LoM-wiki/develop.*",
                   "https://smilin.net/LoM-wiki/other/test$",
-                  "https://smilin.net/LoM-wiki/other/test.html$"],
+                  "https://smilin.net/LoM-wiki/other/test.html$",
+                  "https://smilin.net/LoM-wiki/en/*"],
     "selectors": {
       "lvl0": {
         "selector": ".sidebar-heading.active, .VPNavBarMenuLink.active, .VPNavBarMenuGroup .VPNavBarMenuGroupButton.active",
