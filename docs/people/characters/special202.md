@@ -40,7 +40,11 @@ tags:
 			<ChTr>
 				<ChTd position='center'>
 					聽海生 (師弟)
-                    段智秀 (徒弟)
+                </ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					段智秀 (徒弟)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -73,7 +77,11 @@ tags:
 			<ChTr>
 				<ChTd position='center'>
 					觀雲客 (師兄)
-                    葉雲舟 (徒弟)
+                </ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[葉雲舟]] (徒弟)
 				</ChTd>
 			</ChTr>
 		</ChTable>
