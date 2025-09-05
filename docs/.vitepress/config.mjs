@@ -368,6 +368,7 @@ const baseConfig = ({
 							{ text: "Secret Manual", link: "/en/system/books/" },
 							{ text: "Skill", link: "/en/system/skill" },
 							{ text: "Pills", link: "/system/pills" },
+							{ text: "Forge & Alchemy Room Development Roadmap", link: "/en/system/forge-roadmap" },
 							{ text: "Items", link: "/en/system/items" },
 							{ text: "Training", link: "/en/system/training" },
 						],

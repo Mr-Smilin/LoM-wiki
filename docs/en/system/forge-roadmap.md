@@ -23,12 +23,12 @@ tags:
 } }%%
 graph TB
   subgraph Forge - Equipment - Weapons
-    A[Tang Sect Short Sword<br>Requires: None]
-    B[Tang Sect Elite Short Sword<br>Requires: Equipment Lv 5<br>Sect Scale 2]
-    C[Tang Sect Legacy Short Sword<br>Requires: Equipment Lv 10<br>Sect Scale 2]
-    D[Fish-Slaughtering Knife<br>Requires: Equipment Lv 5<br>Sect Scale 2]
-    E[Yuxiao Divine Dagger<br>Requires: Equipment Lv 10]
-    F[Liquan Small Sword<br>Requirement: Equipment Lv 10<br>Sect Scale 2]
+    A[Tang Sect Short Sword<img src="/LoM-wiki/images/items/swords/icon_sword_01.webp"><br>Requires: None]
+    B[Tang Sect Elite Short Sword<img src="/LoM-wiki/images/items/swords/icon_sword_10.webp"><br>Requires: Equipment Lv 5<br>Sect Scale 2]
+    C[Tang Sect Legacy Short Sword<img src="/LoM-wiki/images/items/swords/icon_sword_20.webp"><br>Requires: Equipment Lv 10<br>Sect Scale 2]
+    D[Fish-Slaughtering Knife<img src="/LoM-wiki/images/items/swords/icon_sword_11.webp"><br>Requires: Equipment Lv 5<br>Sect Scale 2]
+    E[Yuxiao Divine Dagger<img src="/LoM-wiki/images/items/swords/icon_sword_21.webp"><br>Requires: Equipment Lv 10]
+    F[Liquan Small Sword<img src="/LoM-wiki/images/items/swords/icon_sword_22.webp"><br>Requirement: Equipment Lv 10<br>Sect Scale 2]
   end
 
   %% Upgrade Arrows (Yellow) + Text
@@ -81,12 +81,12 @@ graph TB
 } }%%
 graph TB
   subgraph Forge - Equipment - Armor
-    A[Tangmen Uniform<br>Requirement: None]
-    B[Lightweight<br>Requirement: Equipment Level 5<br>Faction Scale 2]
-    C[Heart Protector<br>Requirement: Equipment Level 10<br>Faction Scale 2]
-    D[Dense Stitching<br>Requirement: Equipment Level 10<br>Faction Scale 3]
-    E[Cowhide Uniform<br>Requirement: Equipment Level 10<br>Faction Scale 2]
-    F[Paper Armor<br>Requirement: Equipment Level 10<br>Faction Scale 3]
+    A[Tangmen Uniform<img src="/LoM-wiki/images/items/equips/icon_equip_01.webp"><br>Requirement: None]
+    B[Lightweight<img src="/LoM-wiki/images/items/equips/icon_equip_11.webp"><br>Requirement: Equipment Level 5<br>Faction Scale 2]
+    C[Heart Protector<img src="/LoM-wiki/images/items/equips/icon_equip_10.webp"><br>Requirement: Equipment Level 10<br>Faction Scale 2]
+    D[Dense Stitching<img src="/LoM-wiki/images/items/equips/icon_equip_20.webp"><br>Requirement: Equipment Level 10<br>Faction Scale 3]
+    E[Cowhide Uniform<img src="/LoM-wiki/images/items/equips/icon_equip_22.webp"><br>Requirement: Equipment Level 10<br>Faction Scale 2]
+    F[Paper Armor<img src="/LoM-wiki/images/items/equips/icon_equip_21.webp"><br>Requirement: Equipment Level 10<br>Faction Scale 3]
   end
 
   %% Upgrade Arrows (Yellow) + Text
@@ -139,10 +139,10 @@ graph TB
 } }%%
 graph TB
   subgraph Forge - Hidden Weapons - Straight Throw
-    A[Hand-Released Dart<br>Requires: None]
-    B[Flying Shuttle<br>Requires: Equipment Lv 5<br>Sect Scale 2]
-    C[Invisible Arrow<br>Requires: Equipment Lv 10<br>Sect Scale 3]
-    D[Iron Olive<br>Requires: Equipment Lv 10<br>Sect Scale 2]
+    A[Hand-Released Dart<img src="/LoM-wiki/images/items/knifes/icon_knife_01.webp"><br>Requires: None]
+    B[Flying Shuttle<img src="/LoM-wiki/images/items/knifes/icon_knife_11.webp"><br>Requires: Equipment Lv 5<br>Sect Scale 2]
+    C[Invisible Arrow<img src="/LoM-wiki/images/items/knifes/icon_knife_21.webp"><br>Requires: Equipment Lv 10<br>Sect Scale 3]
+    D[Iron Olive<img src="/LoM-wiki/images/items/knifes/icon_knife_10.webp"><br>Requires: Equipment Lv 10<br>Sect Scale 2]
   end
   
   %% Upgrade Arrows (Yellow) + Text
@@ -185,10 +185,10 @@ graph TB
 } }%%
 graph TB
   subgraph Forge - Hidden Weapons - Lobbed Throw
-    A[Firecracker<br>Requires: None]
-    B[Meteor Arrow<br>Requires: Equipment Lv 5<br>Sect Scale 2]
-    C[Thunderfire Bomb<br>Requires: Equipment Lv 10<br>Sect Scale 3]
-    D[Miracle Orb<br>Requires: Equipment Lv 10<br>Sect Scale 2]
+    A[Firecracker<img src="/LoM-wiki/images/items/balls/icon_ball_01.webp"><br>Requires: None]
+    B[Meteor Arrow<img src="/LoM-wiki/images/items/balls/icon_ball_11.webp"><br>Requires: Equipment Lv 5<br>Sect Scale 2]
+    C[Thunderfire Bomb<img src="/LoM-wiki/images/items/balls/icon_ball_20.webp"><br>Requires: Equipment Lv 10<br>Sect Scale 3]
+    D[Miracle Orb<img src="/LoM-wiki/images/items/balls/icon_ball_10.webp"><br>Requires: Equipment Lv 10<br>Sect Scale 2]
   end
 
   %% Upgrade Arrows (Yellow) + Text
@@ -233,9 +233,9 @@ graph TB
 } }%%
 graph TB
   subgraph Forge - Hidden Weapons - Traps
-    A[Herb-Like Needle<br>Requires: None]
-    B[Ground-Thunder Mine<br>Requires: Equipment Lv 10<br>Sect Scale 2]
-    C[Fierce Fire Oil Tank<br>Requirement: Equipment Lv 10<br>Sect Scale 2]
+    A[Herb-Like Needle<img src="/LoM-wiki/images/items/traps/icon_trap_01.webp"><br>Requires: None]
+    B[Ground-Thunder Mine<img src="/LoM-wiki/images/items/traps/icon_trap_10.webp"><br>Requires: Equipment Lv 10<br>Sect Scale 2]
+    C[Fierce Fire Oil Tank<img src="/LoM-wiki/images/items/traps/icon_trap_11.webp"><br>Requirement: Equipment Lv 10<br>Sect Scale 2]
   end
 
   %% Upgrade Arrows (Yellow) + Text
@@ -272,10 +272,10 @@ graph TB
 } }%%
 graph TB
   subgraph Alchemy Room - Poisons
-    A[Scarlet Smelting Sand<br>Requires: None]
-    B[Black Narcissus<br>Requires: Equipment Lv 5<br>Sect Scale 2]
-    C[Triple-Yin Cordyceps Paste<br>Requires: Equipment Lv 10<br>Sect Scale 2]
-    D[Other Shore Immortal Incense<br>Requires: Equipment Lv 5<br>Sect Scale 2]
+    A[Scarlet Smelting Sand<img src="/LoM-wiki/images/items/poisons/icon_poison_01.webp"><br>Requires: None]
+    B[Black Narcissus<img src="/LoM-wiki/images/items/poisons/icon_poison_10.webp"><br>Requires: Equipment Lv 5<br>Sect Scale 2]
+    C[Triple-Yin Cordyceps Paste<img src="/LoM-wiki/images/items/poisons/icon_poison_11.webp"><br>Requires: Equipment Lv 10<br>Sect Scale 2]
+    D[Other Shore Immortal Incense<img src="/LoM-wiki/images/items/poisons/icon_poison_20.webp"><br>Requires: Equipment Lv 5<br>Sect Scale 2]
   end
 
   %% Upgrade Arrows (Yellow) + Text
@@ -317,11 +317,11 @@ graph TB
 } }%%
 graph TB
   subgraph Alchemy Room - Elixirs
-    A[Nan Chi Yushi Powder / Southern Venom Arsenic Powder<br>Requires: None]
-    B[Heart-Piercing Gentian Decoction<br>Requires: None]
-    C[Obedience Water<br>Requires: None]
-    D[Pepper Powder Pellet<br>Requires: Sect Scale 2]
-    E[Sleep Talisman<br>Requires: None]
+    A[Nan Chi Yushi Powder / Southern Venom Arsenic Powder<img src="/LoM-wiki/images/items/medis/icon_medi_01.webp"><br>Requires: None]
+    B[Heart-Piercing Gentian Decoction<img src="/LoM-wiki/images/items/medis/icon_medi_02.webp"><br>Requires: None]
+    C[Obedience Water<img src="/LoM-wiki/images/items/medis/icon_medi_04.webp"><br>Requires: None]
+    D[Pepper Powder Pellet<img src="/LoM-wiki/images/items/medis/icon_medi_03.webp"><br>Requires: Sect Scale 2]
+    E[Sleep Talisman<img src="/LoM-wiki/images/items/medis/icon_medi_05.webp"><br>Requires: None]
   end
 
   %% Upgrade Arrows (Yellow) + Text
