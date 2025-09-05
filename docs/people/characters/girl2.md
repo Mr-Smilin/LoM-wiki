@@ -69,6 +69,11 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
+					[[葉雲啾]] (偽裝)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
 					[[唐默鈴]] (朋友)
 				</ChTd>
 			</ChTr>
