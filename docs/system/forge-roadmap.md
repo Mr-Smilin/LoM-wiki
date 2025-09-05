@@ -23,12 +23,12 @@ tags:
 } }%%
 graph TB
   subgraph 鍛冶場 - 裝備 - 武器
-    A[唐門小劍<br>需要：無]
-    B[唐門菁英小劍<br>需要：裝備等級5<br>門派規模2]
-    C[唐門傳承小劍<br>需要：裝備等級10<br>門派規模2]
-    D[殺魚刀<br>需要：裝備等級5<br>門派規模2]
-    E[玉霄神匕<br>需要：裝備等級10]
-    F[瀝泉小劍<br>需要：裝備等級10<br>門派規模2]
+    A[唐門小劍<img src="/LoM-wiki/images/items/swords/icon_sword_01.webp"><br>需要：無]
+    B[唐門菁英小劍<img src="/LoM-wiki/images/items/swords/icon_sword_10.webp"><br>需要：裝備等級5<br>門派規模2]
+    C[唐門傳承小劍<img src="/LoM-wiki/images/items/swords/icon_sword_20.webp"><br>需要：裝備等級10<br>門派規模2]
+    D[切魚刀<img src="/LoM-wiki/images/items/swords/icon_sword_11.webp"><br>需要：裝備等級5<br>門派規模2]
+    E[玉霄神匕<img src="/LoM-wiki/images/items/swords/icon_sword_21.webp"><br>需要：裝備等級10]
+    F[瀝泉小劍<img src="/LoM-wiki/images/items/swords/icon_sword_22.webp"><br>需要：裝備等級10<br>門派規模2]
   end
 
   %% 升級箭頭（黃色）+ 文字
@@ -82,12 +82,12 @@ graph TB
 } }%%
 graph TB
   subgraph 鍛冶場 - 裝備 - 防具
-    A[唐門制服<br>需要：無]
-    B[輕量化<br>需要：裝備等級5<br>門派規模2]
-    C[護心鏡<br>需要：裝備等級10<br>門派規模2]
-    D[密密縫<br>需要：裝備等級10<br>門派規模3]
-    E[牛皮制服<br>需要：裝備等級10<br>門派規模2]
-    F[紙甲<br>需要：裝備等級10<br>門派規模3]
+    A[唐門制服<img src="/LoM-wiki/images/items/equips/icon_equip_01.webp"><br>需要：無]
+    B[輕量化<img src="/LoM-wiki/images/items/equips/icon_equip_11.webp"><br>需要：裝備等級5<br>門派規模2]
+    C[護心鏡<img src="/LoM-wiki/images/items/equips/icon_equip_10.webp"><br>需要：裝備等級10<br>門派規模2]
+    D[密密縫<img src="/LoM-wiki/images/items/equips/icon_equip_20.webp"><br>需要：裝備等級10<br>門派規模3]
+    E[牛皮制服<img src="/LoM-wiki/images/items/equips/icon_equip_22.webp"><br>需要：裝備等級10<br>門派規模2]
+    F[紙甲<img src="/LoM-wiki/images/items/equips/icon_equip_21.webp"><br>需要：裝備等級10<br>門派規模3]
   end
 
   %% 升級箭頭（黃色）+ 文字
@@ -140,10 +140,10 @@ graph TB
 } }%%
 graph TB
   subgraph 鍛冶場 - 暗器 - 平射
-    A[脫手鏢<br>需要：無]
-    B[飛梭<br>需要：裝備等級5<br>門派規模2]
-    C[無形箭<br>需要：裝備等級10<br>門派規模3]
-    D[鐵橄欖<br>需要：裝備等級10<br>門派規模2]
+    A[脫手鏢<img src="/LoM-wiki/images/items/knifes/icon_knife_01.webp"><br>需要：無]
+    B[飛梭<img src="/LoM-wiki/images/items/knifes/icon_knife_11.webp"><br>需要：裝備等級5<br>門派規模2]
+    C[無形箭<img src="/LoM-wiki/images/items/knifes/icon_knife_21.webp"><br>需要：裝備等級10<br>門派規模3]
+    D[鐵橄欖<img src="/LoM-wiki/images/items/knifes/icon_knife_10.webp"><br>需要：裝備等級10<br>門派規模2]
   end
 
   %% 升級箭頭（黃色）+ 文字
@@ -186,10 +186,10 @@ graph TB
 } }%%
 graph TB
   subgraph 鍛冶場 - 暗器 - 拋射
-    A[鞭炮<br>需要：無]
-    B[流星箭<br>需要：裝備等級5<br>門派規模2]
-    C[雷火彈<br>需要：裝備等級10<br>門派規模3]
-    D[神奇球<br>需要：裝備等級10<br>門派規模2]
+    A[鞭炮<img src="/LoM-wiki/images/items/balls/icon_ball_01.webp"><br>需要：無]
+    B[流星箭<img src="/LoM-wiki/images/items/balls/icon_ball_11.webp"><br>需要：裝備等級5<br>門派規模2]
+    C[雷火彈<img src="/LoM-wiki/images/items/balls/icon_ball_20.webp"><br>需要：裝備等級10<br>門派規模3]
+    D[神奇球<img src="/LoM-wiki/images/items/balls/icon_ball_10.webp"><br>需要：裝備等級10<br>門派規模2]
   end
 
   %% 升級箭頭（黃色）+ 文字
@@ -232,9 +232,9 @@ graph TB
 } }%%
 graph TB
   subgraph 鍛冶場 - 暗器 - 陷阱
-    A[似草針<br>需要：無]
-    B[地鳴雷<br>需要：裝備等級10<br>門派規模2]
-    C[猛火油櫃<br>需要：裝備等級10<br>門派規模2]
+    A[似草針<img src="/LoM-wiki/images/items/traps/icon_trap_01.webp"><br>需要：無]
+    B[地鳴雷<img src="/LoM-wiki/images/items/traps/icon_trap_10.webp"><br>需要：裝備等級10<br>門派規模2]
+    C[猛火油櫃<img src="/LoM-wiki/images/items/traps/icon_trap_11.webp"><br>需要：裝備等級10<br>門派規模2]
   end
 
   %% 升級箭頭（黃色）+ 文字
@@ -270,10 +270,10 @@ graph TB
 } }%%
 graph TB
   subgraph 煉丹房 - 毒物
-    A[赤煉砂<br>需要：無]
-    B[烏水仙<br>需要：裝備等級5<br>門派規模2]
-    C[三陰蟲草膠<br>需要：裝備等級10<br>門派規模2]
-    D[彼岸仙香<br>需要：裝備等級5<br>門派規模2]
+    A[赤煉砂<img src="/LoM-wiki/images/items/poisons/icon_poison_01.webp"><br>需要：無]
+    B[烏水仙<img src="/LoM-wiki/images/items/poisons/icon_poison_10.webp"><br>需要：裝備等級5<br>門派規模2]
+    C[三陰蟲草膠<img src="/LoM-wiki/images/items/poisons/icon_poison_11.webp"><br>需要：裝備等級10<br>門派規模2]
+    D[彼岸仙香<img src="/LoM-wiki/images/items/poisons/icon_poison_20.webp"><br>需要：裝備等級5<br>門派規模2]
   end
 
   %% 升級箭頭（黃色）+ 文字
@@ -315,11 +315,11 @@ graph TB
 } }%%
 graph TB
   subgraph 煉丹房 - 靈丹
-    A[南螫礜石散<br>需要：無]
-    B[穿心龍膽湯<br>需要：無]
-    C[乖乖水<br>需要：無]
-    D[胡椒粉丸<br>需要：門派規模2]
-    E[睡丹<br>需要：無]
+    A[南螫礜石散<img src="/LoM-wiki/images/items/medis/icon_medi_01.webp"><br>需要：無]
+    B[穿心龍膽湯<img src="/LoM-wiki/images/items/medis/icon_medi_02.webp"><br>需要：無]
+    C[乖乖水<img src="/LoM-wiki/images/items/medis/icon_medi_04.webp"><br>需要：無]
+    D[胡椒粉丸<img src="/LoM-wiki/images/items/medis/icon_medi_03.webp"><br>需要：門派規模2]
+    E[睡丹<img src="/LoM-wiki/images/items/medis/icon_medi_05.webp"><br>需要：無]
   end
 
   A --> B
