@@ -275,7 +275,7 @@ graph TB
     A[Scarlet Smelting Sand<img src="/LoM-wiki/images/items/poisons/icon_poison_01.webp"><br>Requires: None]
     B[Black Narcissus<img src="/LoM-wiki/images/items/poisons/icon_poison_10.webp"><br>Requires: Equipment Lv 5<br>Sect Scale 2]
     C[Triple-Yin Cordyceps Paste<img src="/LoM-wiki/images/items/poisons/icon_poison_11.webp"><br>Requires: Equipment Lv 10<br>Sect Scale 2]
-    D[Other Shore Immortal Incense<img src="/LoM-wiki/images/items/poisons/icon_poison_20.webp"><br>Requires: Equipment Lv 5<br>Sect Scale 2]
+    D[Other Shore Immortal Incense<img src="/LoM-wiki/images/items/poisons/icon_poison_20.webp"><br>Requires: Equipment Lv 10<br>Sect Scale 3]
   end
 
   %% Upgrade Arrows (Yellow) + Text
