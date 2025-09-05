@@ -67,7 +67,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[葉雲裳]] (二兄)
+					[[葉雲裳]] (妹妹)
 				</ChTd>
 			</ChTr>
 		</table>
