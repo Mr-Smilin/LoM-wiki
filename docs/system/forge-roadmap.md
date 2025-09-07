@@ -273,7 +273,7 @@ graph TB
     A[赤煉砂<img src="/LoM-wiki/images/items/poisons/icon_poison_01.webp"><br>需要：無]
     B[烏水仙<img src="/LoM-wiki/images/items/poisons/icon_poison_10.webp"><br>需要：裝備等級5<br>門派規模2]
     C[三陰蟲草膠<img src="/LoM-wiki/images/items/poisons/icon_poison_11.webp"><br>需要：裝備等級10<br>門派規模2]
-    D[彼岸仙香<img src="/LoM-wiki/images/items/poisons/icon_poison_20.webp"><br>需要：裝備等級5<br>門派規模2]
+    D[彼岸仙香<img src="/LoM-wiki/images/items/poisons/icon_poison_20.webp"><br>需要：裝備等級10<br>門派規模3]
   end
 
   %% 升級箭頭（黃色）+ 文字
