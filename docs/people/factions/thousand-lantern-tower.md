@@ -34,6 +34,11 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
+                    [[無相祖師]] (千面人魔)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
                     [[金烏上人]] (教頭)
                 </ChTd>
             </ChTr>
@@ -74,7 +79,7 @@ tags:
 
 <br>
 
-初代千面人魔無念僧，無相祖師，疑似[[嵩山派]]高僧[[覺慧]]，和[[杏花林]]有所勾結。
+初代千面人魔無念僧，[[無相祖師]]。
 
 <br>
 

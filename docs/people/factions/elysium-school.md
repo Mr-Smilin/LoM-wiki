@@ -32,6 +32,11 @@ tags:
                     [[李仁友]] (極樂魔尊)
                 </ChTd>
             </ChTr>
+			<ChTr>
+                <ChTd position='center'>
+                    [[李元棄]] (極樂左使)
+                </ChTd>
+            </ChTr>
             <ChTr>
                 <ChTd position='center'>
                     [[袁乘風]] (極樂七仙)

@@ -77,6 +77,16 @@ aside: false
 					[[唐默鈴]] (朋友)
 				</ChTd>
 			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[段智秀]] (仇人)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[李元棄]] (族叔)
+				</ChTd>
+			</ChTr>
 		</table>
 	</Info>
 </InfoList>

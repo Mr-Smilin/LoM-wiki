@@ -75,6 +75,11 @@ aside: false
 					[[孟仙謠]] (後宮)
 				</ChTd>
 			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[方獨弱]] (後宮)
+				</ChTd>
+			</ChTr>
 		</table>
 	</Info>
 </InfoList>

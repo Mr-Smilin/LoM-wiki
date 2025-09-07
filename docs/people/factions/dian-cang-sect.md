@@ -39,6 +39,11 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>  
+                    [[段智秀]] (清煙劍客)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
                     [[葉雲舟]] (蒼松劍客)
                 </ChTd>
             </ChTr>

@@ -49,6 +49,16 @@ aside: false
 					[[葉雲裳]] (妹妹)
 				</ChTd>
 			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[段智秀]] (仇人)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[李元棄]] (族叔)
+				</ChTd>
+			</ChTr>
 		</ChTable>
 	</ChTab>
 </ChTabs>
