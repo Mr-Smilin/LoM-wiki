@@ -23,8 +23,8 @@ export default defineComponent({
             type: Number,
             default: 0,
             validator: function (value) {
-                // 生死簿的死亡數字為 1-90, 0為引導到該頁面最上面。
-                if (value <= 0 && value <= 90){
+                // 生死簿的死亡數字為 1-105, 0為引導到該頁面最上面。
+                if (value <= 0 && value <= 105){
                     return true;
                 }
                 return false;
