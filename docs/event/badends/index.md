@@ -2191,6 +2191,362 @@ tags:
 </Btable>
 </div>
 
+<div class="table-content">
+
+## 生死簿 No.91 - 生死簿 No.100
+
+<Btable>
+    <tr>
+        <td>
+            結局編號
+        </td>
+        <td>
+            結局名稱
+        </td>
+        <td>
+            結局額外文字描述
+        </td>
+        <td>
+            捏他
+        </td>
+        <td>
+            達成條件
+        </td>
+        <td>
+            備註
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.91">
+            <BadendIcon :no="91">生死簿 No.91</BadendIcon>
+        </td>
+        <td>
+            六親不認的胖子
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            弟子房與四師兄切磋勝利后開放全力切磋選項，選全力切磋戰敗
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.92">
+            <BadendIcon :no="92">生死簿 No.92</BadendIcon>
+        </td>
+        <td>
+            假死變真死
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            破廟線中選我要先考慮一下，然後裝死轉到<50
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.93">
+            <BadendIcon :no="93">生死簿 No.93</BadendIcon>
+        </td>
+        <td>
+            ?????
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.94">
+            <BadendIcon :no="94">生死簿 No.94</BadendIcon>
+        </td>
+        <td>
+            被驚恐的師姐妹失手打死
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            破廟線中直接闖入女弟子房後戰敗
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.95">
+            <BadendIcon :no="95">生死簿 No.95</BadendIcon>
+        </td>
+        <td>
+            ?????
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.96">
+            <BadendIcon :no="96">生死簿 No.96</BadendIcon>
+        </td>
+        <td>
+            降魔不成反被降
+        </td>
+        <td>
+            史書由勝者書寫，贏家說的才算話。<br>你會輸，只因為正義必勝！受死吧邪魔歪道！
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.97">
+            <BadendIcon :no="97">生死簿 No.97</BadendIcon>
+        </td>
+        <td>
+            全家餐
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            破廟綫留學青城，離開青城返回唐門，途中守夜時遇到野狼戰敗
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.98">
+            <BadendIcon :no="98">生死簿 No.98</BadendIcon>
+        </td>
+        <td>
+            敗寇之死
+        </td>
+        <td>
+            贏的才是大俠，死掉的只是屍體。
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            青城留學返回唐門途中被同門勸降，開戰後戰敗
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.99">
+            <BadendIcon :no="99">生死簿 No.99</BadendIcon>
+        </td>
+        <td>
+            ?????
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.100">
+            <BadendIcon :no="100">生死簿 No.100</BadendIcon>
+        </td>
+        <td>
+            手賤而死
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            破廟線，夜襲唐門時間中通報敵襲消息後不參與協防，選擇下山。<br>下山途中 roll 點未遭遇敵人，白天找到逃離的小師妹與葉雲裳，送回山上。<br>（關鍵條件為未參與協防，則不會受傷，不會觸發前往青城留學）。<br>留在唐門協助二師兄審問襲擊者，二師兄要你開藥櫃時手賤開其他的。
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+</Btable>
+</div>
+
+<div class="table-content">
+
+## 生死簿 No.101 - 生死簿 No.105
+
+<Btable>
+    <tr>
+        <td>
+            結局編號
+        </td>
+        <td>
+            結局名稱
+        </td>
+        <td>
+            結局額外文字描述
+        </td>
+        <td>
+            捏他
+        </td>
+        <td>
+            達成條件
+        </td>
+        <td>
+            備註
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.101">
+            <BadendIcon :no="101">生死簿 No.101</BadendIcon>
+        </td>
+        <td>
+            被反震而死
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            路線同 <BadendIcon :no="100">生死簿 No.100</BadendIcon> 夜襲唐門事件中未參戰，後續返回唐門，審問襲擊者時選擇肉體摧殘，開戰後戰敗。
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.102">
+            <BadendIcon :no="102">生死簿 No.102</BadendIcon>
+        </td>
+        <td>
+            ?????
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.103">
+            <BadendIcon :no="103">生死簿 No.103</BadendIcon>
+        </td>
+        <td>
+            護花死者
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            護花使者
+        </td>
+        <td>
+            葉雲裳線，三年五月小師妹出嫁事件，追葉雲裳離開唐門，遭遇段智秀與鐡冠道人。戰勝段智秀后敗於鐡冠道人。<br>注意若敗於段智秀則直接進入劇情，不會與鐡冠道人開戰
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.104">
+            <BadendIcon :no="104">生死簿 No.104</BadendIcon>
+        </td>
+        <td>
+            ?????
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.105">
+            <BadendIcon :no="105">生死簿 No.105</BadendIcon>
+        </td>
+        <td>
+            傳説之下
+        </td>
+        <td>
+            -
+        </td>
+        <td>
+            同名游戲 undertale
+        </td>
+        <td>
+            葉妹結緣線西武林盟，唐門攻防戰，留守在山上護衛三師兄，roll 點抽選敵人時抽到千面人魔戰敗
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
+</Btable>
+</div>
+
 ::: warning
 這是一個正在施工的頁面，敬請期待更多內容。
 :::
