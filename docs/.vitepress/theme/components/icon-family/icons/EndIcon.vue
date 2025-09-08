@@ -30,7 +30,7 @@ export default defineComponent({
             type: Number,
             default: 0,
             validator: function (value) {
-                if (value < 0 && value <= 50){
+                if (value < 0 && value <= 54){
                     return true;
                 }
                 return false;
