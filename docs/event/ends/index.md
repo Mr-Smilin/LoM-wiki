@@ -349,13 +349,13 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 </td>
 <td style="color: #a83232;">
 <!-- 結局名稱 -->
-入無窮之門，遊無極之野
+<EndIcon no="20">入無窮之門，遊無極之野</EndIcon>
 </td>
 <td>
 <!-- 結局概要 -->
-<span style="color: red;">【目前版本無法達成】</span><br>
-<span style="color: Gray;">【離開唐門】</span><br>
-不留學，負氣離開唐門，送小師妹(或加上葉雲裳)回唐門後，依然選擇永遠離開唐門，改投他派，因為精通道學被青城派收留。
+<span style="color: #bfdcb0;">【青城留學】</span><br>
+<span style="color: #B0DCD5;">【葉雲裳】</span>
+第二年九月，青城留學期間，掌門歸來，清真宮觸發，掌門找外說，選擇 好，我要拜入青城習道
 </td>
 </tr>
 <tr>
