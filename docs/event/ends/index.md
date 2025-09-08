@@ -2,7 +2,7 @@
 title: 汗青書
 description: 汗青書
 aside: false
-outline: [2, 3]
+outline: [ 2, 3 ]
 sidebar: false
 borderless: true
 tags:
@@ -23,25 +23,25 @@ tags:
 <img height="300" width="300" src="/images/characters/girl_7/special.webp">
 
 <BTable :stickyHeader=true searchMode="or"
-    :tags="[
-    { text: '【唐默鈴】'},
-    { text: '【葉雲裳】' },
-    { text: '【虞小梅】' },
-    { text: '【上官螢】'},
-    { text: '【夏侯蘭】' },
-    { text: '【郁竹】' },
-    { text: '【魏菊】' },
-    { text: '【龍湘】' },
-    { text: '【結緣】' },
-    { text: '【結緣？】' },
-    { text: '【小梅綁架】' },
-    { text: '【隨四師兄行商】' },
-    { text: '【離開唐門】' },
-    { text: '【戰死】' },
-    { text: '【遣散唐門】' },
-    { text: '【唐門覆滅】' },
-    { text: '【西武林盟】' }
-    ]">
+:tags="[
+{ text: '【唐默鈴】'},
+{ text: '【葉雲裳】' },
+{ text: '【虞小梅】' },
+{ text: '【上官螢】'},
+{ text: '【夏侯蘭】' },
+{ text: '【郁竹】' },
+{ text: '【魏菊】' },
+{ text: '【龍湘】' },
+{ text: '【結緣】' },
+{ text: '【結緣？】' },
+{ text: '【小梅綁架】' },
+{ text: '【隨四師兄行商】' },
+{ text: '【離開唐門】' },
+{ text: '【戰死】' },
+{ text: '【遣散唐門】' },
+{ text: '【唐門覆滅】' },
+{ text: '【西武林盟】' }
+]">
 
 <tr>
 <td>  
@@ -100,6 +100,7 @@ tags:
 <td id="汗青書-No.4">
 <!-- 結局編號 -->
 結局 4
+</td>
 <td style="color: #a83232;">
 <!-- 結局名稱 -->
 <EndIcon no="8">唐門叛徒</EndIcon>
