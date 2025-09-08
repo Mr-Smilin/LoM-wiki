@@ -11,23 +11,53 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<img src="/images/characters/other14/facebook.webp" alt="原始鳥熊FB 2024/10/5公開圖" style="display: block; margin-left: auto; margin-right: auto; width: 70%;">
-
+<ChTabs position="bottom">
+	<ChTab title="唐芳">
+		<Ch src='/images/characters/special832/normal.webp' position='right'/>
+		<ChName nameZh='唐芳' nameEn='Tang Fang' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					女
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[唐錚]] (師兄)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[趙活]] (師弟)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[葉雲裳]] (患者)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
 <br>
 
 跟隨親姊的腳步，拜師[[唐門]]，輩分卻比姊姊矮了一輩。
-
-<br>
-
+<br><br>
 [[唐錚|二師兄]]為女患者施治，為了避嫌，刻意栽培唐芳學習針法。唐芳因此成為當代醫術最高的[[唐門]]女弟子。
-
-<br>
-
+<br><br>
 但她是個遲到大王，慣性遲到，遲到了還不會覺得抱歉那種。
 
 ## 備註
 
--   尚未實裝(v3206)，鳥熊 FB 2024/10/5 公開情報：[連結](https://www.facebook.com/100076301525150/posts/554404723779574)
+-   鳥熊FB 2024/10/5 公開情報：[連結](https://www.facebook.com/100076301525150/posts/554404723779574)
 -   被二師兄指派給[[葉雲裳]]施針的唐門女弟子[^1]
 -   親姊拜入[[唐門]]時，是上一輩收的徒，所以對唐芳而言是小師姑[^1]
 -   平常又忙又常遲到，跟[[趙活]]很少交集，所以是路線限定角色[^1]

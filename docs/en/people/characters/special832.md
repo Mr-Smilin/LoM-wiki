@@ -11,7 +11,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<img src="/images/characters/other14/facebook.webp" alt="Original Niaoxiong FB Public Image on 2024/10/5" style="display: block; margin-left: auto; margin-right: auto; width: 70%;">
+<img src="/images/characters/special832/normal.webp" alt="Original Niaoxiong FB Public Image on 2024/10/5" style="display: block; margin-left: auto; margin-right: auto; width: 70%;">
 
 <br>
 
