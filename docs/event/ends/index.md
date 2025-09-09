@@ -230,10 +230,9 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 結局 15
 </td>
 <td style="color: #a83232;">
-天下寂寥事，與君闊別時
+<EndIcon no="15">天下寂寥事，與君闊別時</EndIcon>
 </td>
 <td>
-<span style="color: red;">【目前版本無法達成】</span><br>
 <span style="color: #EEE8AA;">【隨四師兄行商】</span>
 <span style="color: #B0DCD5;">【葉雲裳】</span><br>
 心上人葉雲裳且高好感，隨四師兄一同離開唐門，貿易行商。
