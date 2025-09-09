@@ -749,5 +749,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 </tr>
 </BTable>
 
-[^1]: 巴哈姆特－[【攻略】v1.05生死簿汗青書整理(有雷)]([https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8](https://forum.gamer.com.tw/C.php?bsn=73317&snA=3647&tnum=3&subbsn=3))
+資料來源：
+
+巴哈姆特－[【攻略】v1.05生死簿汗青書整理(有雷)]([https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8](https://forum.gamer.com.tw/C.php?bsn=73317&snA=3647&tnum=3&subbsn=3))
 
