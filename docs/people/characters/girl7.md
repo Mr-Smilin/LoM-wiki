@@ -191,5 +191,7 @@ aside: false
 -   在<EndIcon no="23">結局 23</EndIcon>會抑鬱而終，但該結局的作者仍舊是她。~~死人在寫作，怕爆！~~
 -   <MarkdownWrapper>||手爐叫做乾坤造化爐，生氣時會轉得通紅發燙。||</MarkdownWrapper>
 -   <MarkdownWrapper>||酒品不好，喝醉了就會性情大變，抨擊時事，借古諷今。||</MarkdownWrapper>
+-   生日是 9/10。[^2]
 
 [^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
+[^2]: Facebook－[原始鳥熊 2025/9/10](https://www.facebook.com/share/169pXAfAAF/)
