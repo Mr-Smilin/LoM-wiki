@@ -54,6 +54,11 @@ aside: false
 					[[釋明]] (師叔祖)
 				</ChTd>
 			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[萬里鵬程]] (師叔祖)
+				</ChTd>
+			</ChTr>
         </table>
     </Info>
 </InfoList>
