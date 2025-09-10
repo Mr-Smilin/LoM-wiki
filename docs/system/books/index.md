@@ -640,7 +640,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`8005`">江湖鬼域錄</BookItemIcon></td>
+        <td><BookItemIcon :no="`8005`">江湖鬼蜮錄</BookItemIcon></td>
         <td>石灰粉<br>性情-5<br>道德-5<br>處世+5</td>
         <td>25</td>
         <td></td>
@@ -648,7 +648,7 @@ tags:
         <td>900</td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`8006`">江湖鬼域錄．續</BookItemIcon></td>
+        <td><BookItemIcon :no="`8006`">江湖鬼蜮錄．續</BookItemIcon></td>
         <td>核棗釘<br>性情-13<br>心相-10<br></td>
         <td>25</td>
         <td></td>
@@ -712,7 +712,7 @@ tags:
         <td>1200</td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`8101`">備急千金藥方</BookItemIcon></td>
+        <td><BookItemIcon :no="`8101`">備急千金要方</BookItemIcon></td>
         <td>學問10<br>徐如林<br>醫術LV1</td>
         <td>50</td>
         <td>學問10</td>
