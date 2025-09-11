@@ -46,4 +46,4 @@ tags:
 -   [[瑞笙]]的青梅竹馬。[^1]
 
 
-[^1]: PTT C_Chat [活俠] 瑞笙設定+龍湘設定+夏侯蘭生日](https://www.ptt.cc/bbs/C_Chat/M.1752927048.A.9E1.html)
+[^1]: PTT C 洽－[\[活俠\] 瑞笙設定+龍湘設定+夏侯蘭生日](https://www.ptt.cc/bbs/C_Chat/M.1752927048.A.9E1.html)
