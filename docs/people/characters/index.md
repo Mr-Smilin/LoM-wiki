@@ -10,6 +10,9 @@ tags:
 ::: warning
 本列表頁與各人物頁皆含劇透，若在意遊戲體驗被破壞者，請速速離開。
 :::
+::: tip
+人物名字的英文拼音是中譯英而來，若發音有錯，歡迎留言指正。
+:::
 
 <BTable :stickyHeader=true searchMode="or"
   :tags="[

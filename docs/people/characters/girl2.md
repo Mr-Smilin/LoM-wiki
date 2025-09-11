@@ -166,7 +166,9 @@ aside: false
 -   ~~色情雪貂~~
 -   鳥熊 FB 的介紹：[連結](https://www.facebook.com/obbstudio/photos/pb.100076301525150.-2207520000/132329695831884/?type=3)
 -   於v1.0.5000開放攻略，更新預告影片：[連結](https://www.youtube.com/watch?v=FRnzV4GRNd0)
+-   雲裳的裳，念ㄕㄤ· (shang)。[^8]
 -   雲裳之名，是指要當雲公的衣裳，為他遮風擋雨。
+-   ~~趙活舍妹趙阿貓~~
 -   看我點蒼棒法！聽雲棒！
 -   與[[唐默鈴|小師妹]]年齡相仿，推測十五歲，和她感情非常好。
 -   葉雲裳的本性：[連結](https://www.facebook.com/obbstudio/photos/p.173499981714855/173499981714855/?type=3)
@@ -196,6 +198,7 @@ aside: false
 [^5]: Facebook－[原始鳥熊2022/8/19](https://www.facebook.com/obbstudio/posts/pfbid02imQvU912mgs5b6XGkmHKY9JAfTaznce44dVB9s4e9mwVdpSa81e9YbWPmLq2TpBRl)
 [^6]: Facebook－[原始鳥熊2023/8/22](https://www.facebook.com/obbstudio/posts/pfbid06P9XSSoB9zaqws972XaHpJ5sXynEpiUkp9i1QS1nDEWdTRXxENnw761tbxKCS16Al)
 [^7]: Facebook－[原始鳥熊2024/6/1](https://www.facebook.com/obbstudio/posts/pfbid02DWHjzPLdRguLBns6wSeWRQUC1DcNr4nRNhgGfytbghiHANhircvTyAGndWyktv5Dl)
+[^8]: PTT－[\[活俠\] 雲裳：我不念ㄔㄤˊ我念ㄕㄤ啦](https://www.ptt.cc/bbs/C_Chat/M.1757573965.A.CC3.html)
 
 ## 畫廊
 
