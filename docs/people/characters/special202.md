@@ -44,7 +44,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					段智秀 (徒弟)
+					[[段智秀]] (徒弟)
 				</ChTd>
 			</ChTr>
 		</ChTable>
