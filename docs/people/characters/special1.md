@@ -40,6 +40,11 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
+					[[車軒轅]] (同教)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
 					[[趙逵]] (同教)
 				</ChTd>
 			</ChTr>

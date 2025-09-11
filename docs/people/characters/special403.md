@@ -41,6 +41,11 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
+					[[車軒轅]] (同教)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
 					[[劉顎]] (同教)
 				</ChTd>
 			</ChTr>
