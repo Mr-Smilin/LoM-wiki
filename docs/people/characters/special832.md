@@ -43,6 +43,11 @@ tags:
 				<ChTd position='center'>
 					[[葉雲裳]] (患者)
 				</ChTd>
+			</ChTr>			
+            <ChTr>
+				<ChTd position='center'>
+					唐芬 (姊姊)
+				</ChTd>
 			</ChTr>
 		</ChTable>
 	</ChTab>
@@ -61,6 +66,7 @@ tags:
 -   被二師兄指派給[[葉雲裳]]施針的唐門女弟子[^1]
 -   親姊拜入[[唐門]]時，是上一輩收的徒，所以對唐芳而言是小師姑[^1]
 -   平常又忙又常遲到，跟[[趙活]]很少交集，所以是路線限定角色[^1]
+-   與[[辛儒]]並稱唐門迷糊大王。一個睡姿差，一個愛遲到。
 -   [[唐布衣|大師兄]]、[[唐錚|二師兄]]曾經暗戀過她姊[^1]
 -   對趙活而言是師姐。[^2]
 -   罵她遲到，她會用難掩不耐煩的語氣陪笑說：「好啦好啦不然下次我請你喝飲子啦。」[^3]
@@ -70,6 +76,7 @@ tags:
 -   [[唐錚|二師兄]]雖然暗戀過她姊，但還是對唐芳挺嚴格的。[^6]
 -   遮一隻眼睛的髮型是學[[唐錚|二師兄]]的，她覺得這樣很酷。[^6]
 -   醫術頗有本事，遼闊中原，要找到比她還高明的大夫，不大容易。[^8]
+-   與[[唐錚|二師兄]]雖名為師兄妹，實則更似師徒。相當尊敬二師兄。撞見叛逃的[[唐錚|二師兄]]與[[畫中仙]]時非但沒有阻止，反欲同行，卻被[[唐錚|二師兄]]以附骨釘封住脈門，廢去武功。
 
 [^1]: 百度貼吧 - [新女角色突擊](https://tieba.baidu.com/p/9205413054?pn=1)17F (對話公開日 2024/10/5)
 [^2]: 鳥熊 FB 留言，[連結](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=1234364757878397&reply_comment_id=516592081152453&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)
