@@ -49,7 +49,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[瑞笙]] (族弟)
+					[[瑞笙]] (族兄)
 				</ChTd>
 			</ChTr>
 			<ChTr>
