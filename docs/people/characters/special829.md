@@ -34,6 +34,26 @@ tags:
 					[[瑞笙]] (郎君)
 				</ChTd>
 			</ChTr>
+			<ChTr>
+                <ChTd position='center'>
+                    [[林志恆]] (師弟)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[阮蛋]] (師弟)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[米歐寬]] (師妹)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[陳倔]] (師弟)
+                </ChTd>
+            </ChTr>
 		</ChTable>
 	</ChTab>
 </ChTabs>
