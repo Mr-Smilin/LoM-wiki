@@ -161,6 +161,16 @@ aside: false
   </Tab>
 </Tabs>
 
+## 結緣信物
+
+<SpecialItemIcon :size="`medium`" :needLink="false" :no="1005" />
+
+葉雲裳的梳子
+<br><br>
+葉雲裳所收藏的第一號寶物，象牙梳子。
+<br><br>
+紋飾為雲與葉，贈你以為結髮之証。
+
 ## 備註
 
 -   ~~色情雪貂~~
