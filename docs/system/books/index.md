@@ -119,6 +119,14 @@ tags:
         <td>2500</td>
     </tr>
     <tr>
+        <td><BookItemIcon :no="`2301`">同舟劍譜</BookItemIcon></td>
+        <td>刀劍15<br>拳掌-6<br>暗器-6<br>輕功10<br>同舟劍法</td>
+        <td>50</td>
+        <td>點破雲關</td>
+        <td>葉家兄妹前往武林大會，葉雲舟代表唐門出戰。<br>三年十二月收到武林盟檄文，詢問葉雲舟意見，選【放馬過來】，戰鬥勝利後獲得。</td>
+        <td></td>
+    </tr>
+    <tr>
         <td><BookItemIcon :no="`2302`">雲裳劍法</BookItemIcon></td>
         <td>刀劍+8<br>點蒼快劍LV2</td>
         <td>50</td>
