@@ -49,6 +49,20 @@ borderless: false
 			nameZh='戰鬥'
 			nameEn='Fight'/>
 	</ChTab>
+	<ChTab title="覺醒">
+		<Ch src='/images/characters/girl_8/angry4.webp'
+			position='right'/>
+		<ChName 
+			nameZh='覺醒'
+			nameEn='Awakening'/>
+	</ChTab>
+	<ChTab title="宮裝">
+		<Ch src='/images/characters/girl_8/dress_shy.webp'
+			position='right'/>
+		<ChName 
+			nameZh='宮裝'
+			nameEn='Dress'/>
+	</ChTab>
 </ChTabs>
 
 <InfoList position="right">
@@ -269,6 +283,7 @@ borderless: false
 
 ### 結緣後
 
+-   穿著宮裝欲彈一曲《琴歌鳳求凰》表達心意，若[[趙活]]聽不明白，會慘遭壁咚。
 -   成親後的龍湘依然是臉皮挺薄的類型，貿然調戲的話，她會羞憤交加，拔出劍來。[^8]
 -   西武林結局後，會和[[趙活]]浪跡天涯，偶爾回去[[唐門]]。[^12]
 -   與[[趙活]]獨處時，會想嘗試撒嬌，但她不得其法。會為伴侶做一些事情，導致廚房失火。[^12]
