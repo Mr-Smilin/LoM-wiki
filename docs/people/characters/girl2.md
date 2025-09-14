@@ -19,6 +19,182 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
+	<ChTab title="嘟嘴">
+		<Ch 
+			src='/images/characters/girl_2/angry1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='嘟嘴'
+			nameEn='Pout'/>
+	</ChTab>
+	<ChTab title="閉眼">
+		<Ch 
+			src='/images/characters/girl_2/close_eye.webp' 
+			position='center'/>
+		<ChName
+			nameZh='閉眼'
+			nameEn='Close Eye'/>
+	</ChTab>
+	<ChTab title="有心事">
+		<Ch 
+			src='/images/characters/girl_2/down_eye.webp' 
+			position='center'/>
+		<ChName
+			nameZh='有心事'
+			nameEn='Pensive'/>
+	</ChTab>
+	<ChTab title="興奮">
+		<Ch 
+			src='/images/characters/girl_2/exciting.webp' 
+			position='center'/>
+		<ChName
+			nameZh='興奮'
+			nameEn='Exciting'/>
+	</ChTab>
+	<ChTab title="決鬥者">
+		<Ch 
+			src='/images/characters/girl_2/gamer.webp' 
+			position='center'/>
+		<ChName
+			nameZh='決鬥者'
+			nameEn='Duel'/>
+	</ChTab>
+	<ChTab title="頑皮">
+		<Ch 
+			src='/images/characters/girl_2/gloomy2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='頑皮'
+			nameEn='Naughty'/>
+	</ChTab>
+	<ChTab title="開心">
+		<Ch 
+			src='/images/characters/girl_2/laugh2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='開心'
+			nameEn='Laugh'/>
+	</ChTab>
+	<ChTab title="欸嘿">
+		<Ch 
+			src='/images/characters/girl_2/laugh3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='欸嘿'
+			nameEn='Hehe'/>
+	</ChTab>
+	<ChTab title="流鼻血">
+		<Ch 
+			src='/images/characters/girl_2/norseblood.webp' 
+			position='center'/>
+		<ChName
+			nameZh='流鼻血'
+			nameEn='Norseblood'/>
+	</ChTab>
+	<ChTab title="驚嚇">
+		<Ch 
+			src='/images/characters/girl_2/nervous2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='驚嚇'
+			nameEn='Fright'/>
+	</ChTab>
+	<ChTab title="錯愕">
+		<Ch 
+			src='/images/characters/girl_2/nervous3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='錯愕'
+			nameEn='Stunned'/>
+	</ChTab>
+	<ChTab title="被抓包">
+		<Ch 
+			src='/images/characters/girl_2/nervous4.webp' 
+			position='center'/>
+		<ChName
+			nameZh='被抓包'
+			nameEn='Caught'/>
+	</ChTab>
+	<ChTab title="祈禱">
+		<Ch 
+			src='/images/characters/girl_2/pray.webp' 
+			position='center'/>
+		<ChName
+			nameZh='祈禱'
+			nameEn='Smile'/>
+	</ChTab>
+	<ChTab title="哭泣">
+		<Ch 
+			src='/images/characters/girl_2/sad1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='哭泣'
+			nameEn='Tearful'/>
+	</ChTab>
+	<ChTab title="大哭">
+		<Ch 
+			src='/images/characters/girl_2/sad2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='大哭'
+			nameEn='Cry'/>
+	</ChTab>
+	<ChTab title="認真">
+		<Ch 
+			src='/images/characters/girl_2/serious.webp' 
+			position='center'/>
+		<ChName
+			nameZh='認真'
+			nameEn='Serious'/>
+	</ChTab>
+	<ChTab title="害羞">
+		<Ch 
+			src='/images/characters/girl_2/shy.webp' 
+			position='center'/>
+		<ChName
+			nameZh='害羞'
+			nameEn='Shy'/>
+	</ChTab>
+	<ChTab title="生病">
+		<Ch 
+			src='/images/characters/girl_2/sick.webp' 
+			position='center'/>
+		<ChName
+			nameZh='生病'
+			nameEn='Sick'/>
+	</ChTab>
+	<ChTab title="無辜">
+		<Ch 
+			src='/images/characters/girl_2/special1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='無辜'
+			nameEn='Innocent'/>
+	</ChTab>
+	<ChTab title="聽雲棒">
+		<Ch 
+			src='/images/characters/girl_2/stick.webp' 
+			position='center'/>
+		<ChName
+			nameZh='聽雲棒'
+			nameEn='Stick'/>
+	</ChTab>
+	<ChTab title="疲倦">
+		<Ch 
+			src='/images/characters/girl_2/tired.webp' 
+			position='center'/>
+		<ChName
+			nameZh='疲倦'
+			nameEn='Tired'/>
+	</ChTab>
+	<ChTab title="童年">
+		<Ch 
+			src='/images/characters/girl_2/childhood_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='童年'
+			nameEn='Childhood'/>
+	</ChTab>
 </ChTabs>
 <br>
 
