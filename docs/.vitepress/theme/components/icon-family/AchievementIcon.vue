@@ -24,7 +24,7 @@ export default {
         no: {
             type: String,
             validator: function (string) {
-                return string.match("/^[0]\d{1}|[1][1-7]$/");
+                return string.match("/^[0-1]\d{1}$/");
             }
         },
         needLink: {
