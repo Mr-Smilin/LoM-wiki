@@ -214,8 +214,30 @@ tags:
         <td id="風雲史-No.17">17</td>
         <td><AchievementIcon :size="`medium`" :no="`17`">飛俠歸來</AchievementIcon></td>
         <td>他固有他的機緣，但若無你，飛俠歸來便遙遙無期。</td>
-        <td>在大師兄死後復活大師兄。(多存個10命運點來用吧, 10命運點最簡單)</td>
+        <td>在大師兄死後復活大師兄。<br>
+            <br>
+            (感謝下方雪山派大師兄留言)<br>
+            方法1：道德80以上且名聲50以上且回程戰鬥是輸給小梅以外的結果（打贏金烏、打輸金烏、打贏小梅、打贏女飛賊都可以）<br>
+            方法2：申屠龍好感≧30<br>
+            方法3：若方法1、2失敗，則在夢裡求瑞杏，需要命運點10點以上</td>
         <td>下旬+1</td>
         <td>下旬+1 = 每月下旬行動次數+1</td>
+    </tr>
+    <tr>
+        <td id="風雲史-No.18">18</td>
+        <td><AchievementIcon :size="`medium`" :no="`18`">魔王的爪牙</AchievementIcon></td>
+        <td>你是她的心腹，她是你心肝。</td>
+        <td>第二年好感度四星以上(建議五星, 待確認)<br>
+            武林傳奇通關時保持心上人為<Girl2Icon>葉雲裳</Girl2Icon>。</td>
+        <td></td>
+        <td>v1.0.5000.0版本後新增</td>
+    </tr>
+    <tr>
+        <td id="風雲史-No.19">19</td>
+        <td><AchievementIcon :size="`medium`" :no="`19`">惡人自有惡人磨</AchievementIcon></td>
+        <td>區區晁和，無恥無腦，哪裡惡得過她？</td>
+        <td>在<Girl2Icon>葉雲裳</Girl2Icon>中，帶<Girl2Icon>葉雲裳</Girl2Icon>去武林大會，且武林大會中反對唐門居多即可。</td>
+        <td></td>
+        <td>v1.0.5000.0版本後新增</td>
     </tr>
 </BTable>
