@@ -21,6 +21,94 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
+	<ChTab title="不悅">
+		<Ch 
+			src='/images/characters/girl_5/angry.webp' 
+			position='center'/>
+		<ChName
+			nameZh='不悅'
+			nameEn='Displeased'/>
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch 
+			src='/images/characters/girl_5/angry2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='生氣'
+			nameEn='Angry'/>
+	</ChTab>
+	<ChTab title="遮臉">
+		<Ch 
+			src='/images/characters/girl_5/block.webp' 
+			position='center'/>
+		<ChName
+			nameZh='遮臉'
+			nameEn='Block'/>
+	</ChTab>
+	<ChTab title="濺血">
+		<Ch 
+			src='/images/characters/girl_5/blood.webp' 
+			position='center'/>
+		<ChName
+			nameZh='濺血'
+			nameEn='Blood'/>
+	</ChTab>
+	<ChTab title="哭泣">
+		<Ch 
+			src='/images/characters/girl_5/cry.webp' 
+			position='center'/>
+		<ChName
+			nameZh='哭泣'
+			nameEn='Cry'/>
+	</ChTab>
+	<ChTab title="不屑">
+		<Ch 
+			src='/images/characters/girl_5/gloomy2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='不屑'
+			nameEn='Disdain'/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch 
+			src='/images/characters/girl_5/laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='微笑'
+			nameEn='Laugh'/>
+	</ChTab>
+	<ChTab title="揉腿">
+		<Ch 
+			src='/images/characters/girl_5/love.webp' 
+			position='center'/>
+		<ChName
+			nameZh='揉腿'
+			nameEn='Love'/>
+	</ChTab>
+	<ChTab title="頓住">
+		<Ch 
+			src='/images/characters/girl_5/nervous.webp' 
+			position='center'/>
+		<ChName
+			nameZh='頓住'
+			nameEn='Nervous'/>
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch 
+			src='/images/characters/girl_5/nervous2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='尷尬'
+			nameEn='Embarrassed'/>
+	</ChTab>
+	<ChTab title="害羞">
+		<Ch 
+			src='/images/characters/girl_5/shy2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='害羞'
+			nameEn='Shy'/>
+	</ChTab>
 </ChTabs>
 <br>
 
