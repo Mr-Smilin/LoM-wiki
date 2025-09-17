@@ -33,6 +33,86 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
+	<ChTab title="瞇眼">
+		<Ch 
+			src='/images/characters/girl_6/angry1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='瞇眼'
+			nameEn='Squint'/>
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch 
+			src='/images/characters/girl_6/angry2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='生氣'
+			nameEn='Angry'/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch 
+			src='/images/characters/girl_6/laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='微笑'
+			nameEn='Smile'/>
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch 
+			src='/images/characters/girl_6/laugh2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='大笑'
+			nameEn='Laugh'/>
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch 
+			src='/images/characters/girl_6/nervous3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='尷尬'
+			nameEn='Embarrassed'/>
+	</ChTab>
+	<ChTab title="驚嚇">
+		<Ch 
+			src='/images/characters/girl_6/nervous2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='驚嚇'
+			nameEn='Frightened'/>
+	</ChTab>
+	<ChTab title="哭泣">
+		<Ch 
+			src='/images/characters/girl_6/sad.webp' 
+			position='center'/>
+		<ChName
+			nameZh='哭泣'
+			nameEn='Cry'/>
+	</ChTab>
+	<ChTab title="得意">
+		<Ch 
+			src='/images/characters/girl_6/shy.webp' 
+			position='center'/>
+		<ChName
+			nameZh='得意'
+			nameEn='Proud'/>
+	</ChTab>
+	<ChTab title="害羞">
+		<Ch 
+			src='/images/characters/girl_6/shy2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='害羞'
+			nameEn='Shy'/>
+	</ChTab>
+	<ChTab title="靉靆">
+		<Ch 
+			src='/images/characters/girl_6/glasses.webp' 
+			position='center'/>
+		<ChName
+			nameZh='靉靆'
+			nameEn='Glasses'/>
+	</ChTab>
 </ChTabs>
 
 <br>
