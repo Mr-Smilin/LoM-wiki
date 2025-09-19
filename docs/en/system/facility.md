@@ -15,7 +15,7 @@
         <td>Contribute 30, Action -1</td>
         <td>Mind +15</td>
         <td></td>
-        <td>Faction Assets 30/month<br>Oral Power +1, Worldly Affairs +1<br>Third Senior Brother's Favorability -1</td>
+        <td>Faction Assets +30 in three parts each month<br>Oral Power +1, Worldly Affairs +1<br>Third Senior Brother's Favorability -1</td>
         <td>Faction Assets -100</td>
         <td>Will have two life and death registers<br>Convince Third Senior Brother without reducing favorability, record shows being straightforward, morally upright, composed, with an Oral Power of 31, reason to be confirmed</td>
     </tr>
@@ -24,7 +24,7 @@
         <td>Contribute 30, Action -1 (requires Medical Skills)</td>
         <td>Work, Ethics +1</td>
         <td></td>
-        <td>Faction Assets 30/month<br>Tang Zheng's Favorability +1</td>
+        <td>Faction Assets +30 in three parts each month<br>Tang Zheng's Favorability +1</td>
         <td>Faction Assets -200</td>
         <td>Redeeming the pharmacy will increase Second Senior Brother's favorability<br>Low consumption of Mind, occasional income, alchemy points, Second Senior Brother's favorability, additional ways to increase Ethics<br>May trigger the sale of the "Tang Clan Medical Encyclopedia" (mid-October of the second year), to be confirmed</td>
     </tr>
@@ -33,7 +33,7 @@
         <td>Contribute 30</td>
         <td>Work, Knowledge +1</td>
         <td></td>
-        <td>Faction Assets 30/month<br>Headmaster's Favorability</td>
+        <td>Faction Assets +30 in three parts each month<br>Headmaster's Favorability</td>
         <td>Faction Assets -100</td>
         <td>Easily triggers a martial arts event, be cautious when dealing with other factions</td>
     </tr>
@@ -51,7 +51,7 @@
         <td>Contribute 30</td>
         <td></td>
         <td></td>
-        <td>Faction Assets 50/month<br>Third Senior Brother's Favorability</td>
+        <td>Faction Assets +50 in three parts each month<br>Third Senior Brother's Favorability</td>
         <td>Faction Assets -200</td>
         <td>An important facility involving the favorability and events of characters such as Long Xiang, Ye Family, Shangguan, Beggar Gang, and Fu Yun, although it will trigger Chao He's entry, still recommended<br>Mind -12, Page Dedication +12</td>
     </tr>
