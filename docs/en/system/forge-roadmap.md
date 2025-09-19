@@ -29,6 +29,7 @@ graph TB
     D[Fish-Slaughtering Knife<img src="/LoM-wiki/images/items/swords/icon_sword_11.webp"><br>Requires: Equipment Lv 5<br>Sect Scale 2]
     E[Yuxiao Divine Dagger<img src="/LoM-wiki/images/items/swords/icon_sword_21.webp"><br>Requires: Equipment Lv 10]
     F[Liquan Small Sword<img src="/LoM-wiki/images/items/swords/icon_sword_22.webp"><br>Requirement: Equipment Lv 10<br>Sect Scale 2]
+    G[Money Sword<img src="/LoM-wiki/images/items/swords/icon_sword_12.webp"><br>Requirement: Equipment Lv 10]
   end
 
   %% Upgrade Arrows (Yellow) + Text
@@ -37,6 +38,7 @@ graph TB
   A --> D
   A --> E
   B --> F
+  A --> G
   
   %% Refund Arrows (Green) + Text
   B -.->|<font color='#00FF00'>Refunds 90% of spent Forging Points & Currency</font>| A
@@ -44,6 +46,7 @@ graph TB
   D -.->|<font color='#00FF00'>Refunds 90% of spent Forging Points & Currency</font>| A
   E -.->|<font color='#00FF00'>Refunds 90% of spent Forging Points & Currency</font>| A
   F -.->|<font color='#00FF00'>Refunds 90% of spent Forging Points & Currency</font>| B
+  G -.->|<font color='#00FF00'>Refunds 90% of spent Forging Points & Currency</font>| A
   
   %% Custom Arrow Styles and Text Colors
   linkStyle 0 stroke:#FFD700,stroke-width:2px
@@ -51,11 +54,13 @@ graph TB
   linkStyle 2 stroke:#FFD700,stroke-width:2px
   linkStyle 3 stroke:#FFD700,stroke-width:2px
   linkStyle 4 stroke:#FFD700,stroke-width:2px
-  linkStyle 5 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 5 stroke:#FFD700,stroke-width:2px
   linkStyle 6 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 7 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 8 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 9 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 10 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 11 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
 
   classDef default padding:15px,margin:10px,fill:#000,color:#FFF
   style A stroke:#FFF,stroke-width:2px,fill:#000,color:#FFF
@@ -64,6 +69,7 @@ graph TB
   style D stroke:#FFF,stroke-width:2px,fill:#000,color:#FFF
   style E stroke:#FFF,stroke-width:2px,fill:#000,color:#FFF
   style F stroke:#FFF,stroke-width:2px,fill:#000,color:#FFF
+  style G stroke:#FFF,stroke-width:2px,fill:#000,color:#FFF
 
 
 ```
