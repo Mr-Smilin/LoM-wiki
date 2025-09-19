@@ -29,6 +29,7 @@ graph TB
     D[切魚刀<img src="/LoM-wiki/images/items/swords/icon_sword_11.webp"><br>需要：裝備等級5<br>門派規模2]
     E[玉霄神匕<img src="/LoM-wiki/images/items/swords/icon_sword_21.webp"><br>需要：裝備等級10]
     F[瀝泉小劍<img src="/LoM-wiki/images/items/swords/icon_sword_22.webp"><br>需要：裝備等級10<br>門派規模2]
+    G[金錢劍<img src="/LoM-wiki/images/items/swords/icon_sword_12.webp"><br>需要：裝備等級10]
   end
 
   %% 升級箭頭（黃色）+ 文字
@@ -37,6 +38,7 @@ graph TB
   A --> D
   A --> E
   B --> F
+  A --> G
 
   %% 退還箭頭（綠色）+ 文字
   B -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
@@ -44,6 +46,8 @@ graph TB
   D -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   E -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   F -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| B
+  G -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
+
   
   %% 自訂箭頭樣式與文字顏色
   linkStyle 0 stroke:#FFD700,stroke-width:2px
@@ -51,11 +55,13 @@ graph TB
   linkStyle 2 stroke:#FFD700,stroke-width:2px
   linkStyle 3 stroke:#FFD700,stroke-width:2px
   linkStyle 4 stroke:#FFD700,stroke-width:2px
-  linkStyle 5 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 5 stroke:#FFD700,stroke-width:2px
   linkStyle 6 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 7 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 8 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 9 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 10 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 11 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
 
   %% 設定節點樣式
   classDef default padding:15px,margin:10px,fill:#000,color:#FFF
@@ -65,6 +71,7 @@ graph TB
   style D stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
   style E stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
   style F stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
+  style G stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
 
 
 ```
