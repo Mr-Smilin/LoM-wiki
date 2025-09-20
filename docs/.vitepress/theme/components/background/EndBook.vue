@@ -78,10 +78,9 @@ export default {
                 48: '/images/generic/background/pic_end_0000.webp',
                 49: '/images/generic/background/pic_treehouse_000.webp',
                 50: '/images/generic/background/pic_treehouse_000.webp',
-                // add a temp picutre for 1.0.5 release
-                51: '/images/generic/background/pic_treehouse_000.webp',
-                52: '/images/generic/background/pic_treehouse_000.webp',
-                53: '/images/generic/background/pic_treehouse_000.webp',
+                51: '/images/generic/background/pic_sleep_000.webp',
+                52: '/images/generic/background/pic_sleep_000.webp',
+                53: '/images/generic/background/pic_sleep_000.webp',
                 54: '/images/generic/background/pic_treehouse_000.webp',
             };
             if (imageSource !== ""){
