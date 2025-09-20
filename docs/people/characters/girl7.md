@@ -24,6 +24,102 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
+	<ChTab title="不悅">
+		<Ch 
+			src='/images/characters/girl_7/angry1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='不悅'
+			nameEn='Displeased'/>
+	</ChTab>
+	<ChTab title="閉眼">
+		<Ch 
+			src='/images/characters/girl_7/close_eye_laugh.webp' 
+			position='center'/>
+		<ChName
+			nameZh='閉眼'
+			nameEn='Close Eye'/>
+	</ChTab>
+	<ChTab title="喝醉">
+		<Ch 
+			src='/images/characters/girl_7/drunk.webp' 
+			position='center'/>
+		<ChName
+			nameZh='喝醉'
+			nameEn='Drunk'/>
+	</ChTab>
+	<ChTab title="算計">
+		<Ch 
+			src='/images/characters/girl_7/gloomy2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='算計'
+			nameEn='Plotting'/>
+	</ChTab>
+	<ChTab title="笑容">
+		<Ch 
+			src='/images/characters/girl_7/laugh2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='笑容'
+			nameEn='Laugh'/>
+	</ChTab>
+	<ChTab title="頓住">
+		<Ch 
+			src='/images/characters/girl_7/nervous1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='頓住'
+			nameEn='Uh...'/>
+	</ChTab>
+	<ChTab title="緊張">
+		<Ch 
+			src='/images/characters/girl_7/nervous2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='緊張'
+			nameEn='Nervous'/>
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch 
+			src='/images/characters/girl_7/nervous3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='尷尬'
+			nameEn='Embarrassed'/>
+	</ChTab>
+	<ChTab title="悲傷">
+		<Ch 
+			src='/images/characters/girl_7/sad.webp' 
+			position='center'/>
+		<ChName
+			nameZh='悲傷'
+			nameEn='Sad'/>
+	</ChTab>
+	<ChTab title="驚嚇">
+		<Ch 
+			src='/images/characters/girl_7/shock.webp' 
+			position='center'/>
+		<ChName
+			nameZh='驚嚇'
+			nameEn='Shock'/>
+	</ChTab>
+	<ChTab title="害羞">
+		<Ch 
+			src='/images/characters/girl_7/shy.webp' 
+			position='center'/>
+		<ChName
+			nameZh='害羞'
+			nameEn='Shy'/>
+	</ChTab>
+	<ChTab title="帷帽">
+		<Ch 
+			src='/images/characters/girl_7/special.webp' 
+			position='center'/>
+		<ChName
+			nameZh='帷帽'
+			nameEn='Weimao'/>
+	</ChTab>
 </ChTabs>
 <br>
 
