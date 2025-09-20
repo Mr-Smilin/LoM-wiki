@@ -530,11 +530,13 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 結局 38
 </td>
 <td style="color: #a83232;">
-<EndIcon no="38">神舟旅人</EndIcon>
+<EndIcon no="38">神州旅人</EndIcon>
 </td>
 <td>
-<span style="color: #B0DCD5;">【葉雲裳】</span><br>
-雲裳線，下山與瑞笙對戰時獲勝。
+<span style="color: #DC0000;">【唐門覆滅】</span>
+<span style="color: #B0DCD5;">【葉雲裳】</span>
+<span style="color: #FF1493;">【結緣】</span><br>
+與葉雲裳結緣，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
 </td>
 </tr>
 <tr>
@@ -747,7 +749,8 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 </tr>
 </BTable>
 
-資料來源：
+## 備註
 
-巴哈姆特－[【攻略】v1.05生死簿汗青書整理(有雷)](https://forum.gamer.com.tw/C.php?bsn=73317&snA=3647&tnum=3&subbsn=3)
+- 資料來源：巴哈姆特－[【攻略】v1.05生死簿汗青書整理(有雷)](https://forum.gamer.com.tw/C.php?bsn=73317&snA=3647&tnum=3&subbsn=3)
+- 滅門線結局，結緣優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 
