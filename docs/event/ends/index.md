@@ -92,10 +92,11 @@ tags:
 結局 4
 </td>
 <td style="color: #a83232;">
-<EndIcon no="8">唐門叛徒</EndIcon>
+<EndIcon no="4">唐門叛徒</EndIcon>
 </td>
 <td>
-第二年不留學，破廟線，2年8月選擇我要他媽的攻打唐門呀（道德要壞人以下）!全部獲勝，被掌門驅逐門派
+<span style="color: Gray;">【離開唐門】</span><br>
+被趕出唐門，最終一事無成，泯於人海。
 </td>
 </tr>
 <tr>
