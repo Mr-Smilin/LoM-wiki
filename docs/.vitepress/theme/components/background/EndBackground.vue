@@ -81,6 +81,13 @@ div{
     width: 720px;
     height: 405px;
 }
+
+.word-div{
+    width: 360px;
+    height: 160px;
+    padding-bottom: 20px
+}
+
 .mobile-div {
     display: none;
 }
@@ -102,6 +109,11 @@ div{
         background-position: 50% 40%;
         max-width: 500px;
         margin: 0 auto;
+    }
+    .word-div{
+        width: 360px;
+        height: 160px;
+        padding-bottom: 20px
     }
 }
 

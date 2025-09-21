@@ -122,19 +122,30 @@ export default {
 }
 
 .book {
-    width: 295px;
-    height: 330px;
+    width: 272px;
+    height: 338px;
+    margin-left: 12%;
+    margin-bottom: 4%;
 }
 
 .bookcover {
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    margin: 35px 30px;
+    margin: 39px 26px;
     padding: 5px;
-    width: 192px;
+    /* 調整寬度以配合新的邊距 */
+    width: 158px; /* 原本是 192px，減少 34px */
     height: 280px;
     border-radius: 40px;
-    mask-image: radial-gradient(100px 220px ellipse, rgba(0, 0, 0, 1) 70%, rgba(0, 0, 0, 0) 100%);
+    mask:
+        /* 調整左邊的透明區域，增加隱藏範圍 */
+        linear-gradient(to right, transparent, transparent 10px, black 50px, black calc(100% - 40px), transparent),
+        linear-gradient(to bottom, transparent, black 20px, black calc(100% - 20px), transparent);
+    -webkit-mask:
+        linear-gradient(to right, transparent, transparent 10px, black 50px, black calc(100% - 40px), transparent),
+        linear-gradient(to bottom, transparent, black 20px, black calc(100% - 20px), transparent);
+    mask-composite: intersect;
+    -webkit-mask-composite: source-in;
 }
 
 .bookcover:after {
