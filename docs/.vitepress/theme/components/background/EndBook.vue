@@ -77,7 +77,7 @@ export default {
                 47: '/images/generic/background/pic_end_0000.webp',
                 48: '/images/generic/background/pic_end_0000.webp',
                 49: '/images/generic/background/pic_treehouse_000.webp',
-                50: '/images/generic/background/pic_treehouse_000.webp',
+                50: '/images/generic/background/pic_end_0000.webp',
                 51: '/images/generic/background/pic_sleep_000.webp',
                 52: '/images/generic/background/pic_sleep_000.webp',
                 53: '/images/generic/background/pic_sleep_000.webp',
@@ -124,7 +124,7 @@ export default {
 .book {
     width: 272px;
     height: 338px;
-    margin-left: 12%;
+    margin-left: 14%;
     margin-bottom: 4%;
 }
 
@@ -133,10 +133,8 @@ export default {
     background-repeat: no-repeat;
     margin: 39px 26px;
     padding: 5px;
-    /* 調整寬度以配合新的邊距 */
-    width: 158px; /* 原本是 192px，減少 34px */
+    width: 170px;
     height: 280px;
-    border-radius: 40px;
     mask:
         /* 調整左邊的透明區域，增加隱藏範圍 */
         linear-gradient(to right, transparent, transparent 10px, black 50px, black calc(100% - 40px), transparent),
