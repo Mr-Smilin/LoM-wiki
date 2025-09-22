@@ -107,5 +107,5 @@ If [[唐惟元|四師兄]] returns to Tangmen, he will appear in the story befor
 
 The following members joining Tangmen will appear in the story before the ending, without affecting the legendary text.
 
--   [[福韞]]： Different dialogues depending on whether she promised to go to Mount Song with [[覺慧]] on the way to the Martial Arts Conference.
+-   [[福韞]]： Different dialogues depending on whether she promised to go to Mount Song with [[覺醒]] on the way to the Martial Arts Conference.
 -   [[樊嘯天]]： Different dialogues depending on whether [[樊嘯天]] apprenticed under <Girl5Icon>Xiahou Lan</Girl5Icon>.

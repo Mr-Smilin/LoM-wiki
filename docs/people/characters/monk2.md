@@ -1,5 +1,5 @@
 ---
-title: 覺慧
+title: 覺醒
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -12,9 +12,9 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="覺慧">
+	<ChTab title="覺醒">
 		<Ch src='/images/characters/monk2/normal.webp' position='right'/>
-		<ChName nameZh='覺慧' nameEn='Jue Hui' position='right' />
+		<ChName nameZh='覺醒' nameEn='Jue Xing' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -31,23 +31,18 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[釋明]] (師弟)
+					[[福韞]] (師姪孫)
 				</ChTd>
 			</ChTr>
 		</ChTable>
 	</ChTab>
 </ChTabs>
 
-> 「蒼生有難則入世，佛法不需修證，修證在人。」
+> 「趙施主，你身於濁世，難得心清如鏡不染塵埃。今朝種善因，來日正心正意，必結善果。老衲欲將此書，贈與施主。」
 
-嵩山本院的高僧，德高望重。避世已久，從來不涉江湖。
+[[嵩山派]]長老，掌管嵩山般若院。
 <br><br>
-於武林大會上出面，自稱風燭殘年，碌碌寡德，擔待不起武林盟主，先行謝過。回山不久就要交卸衣缽，無意沾染凡塵。
+聽福韞說過[[趙活]]的事，在武林大會路上，專程來見他。問若江湖太平，可願來嵩山學法？答應後傳授[[那由它劫指]]。既然見著，心願已了，便獨行回寺，誦經祈禱，祝願天下太平。然而老和尚直到圓寂，也沒能等到趙活前來。
 <br><br>
-實際上已被[[無相祖師]]頂替。
-<br><br>
-若走西武林並飛俠歸來，會有一段和[[申屠龍]]的對話。[[唐布衣]]指出他是初代[[千面人魔]]無念僧，與[[唐錚]]一起攻擊，老和尚死亡。
+被[[無相祖師|無念僧]]暗中易容，加深[[釋明]]心頭魔障。本尊仍活著，似乎不知情。
 
-## 備註
-
--   贈送[[那由它劫指]]的覺醒法師使用同一立繪
