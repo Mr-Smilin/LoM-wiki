@@ -17,7 +17,9 @@ tags:
 <EndBackground no=4 title="唐門叛徒">
 你背叛了唐門。你說，是為了生存，為了榮華富貴<br>
 ，但內心深處，你知道自己背叛了那份比血還濃的<br>
-師徒情。
+師徒情。<br>
+<br>
+<br>
 </EndBackground>
 
 ## 條件

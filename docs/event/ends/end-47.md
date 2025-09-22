@@ -15,8 +15,10 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=47 title="君所願兮江湖行">
-終於輪你當主角，你的謝幕可歌可泣，世<br>
-上無人再敢看輕你。<br>
+終於輪你當主角，你的謝幕可歌可泣，世上無人再<br>
+敢看輕你。<br>
+<br>
+<br>
 <br>
 <!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
 </EndBackground>

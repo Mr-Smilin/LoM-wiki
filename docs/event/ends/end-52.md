@@ -15,7 +15,12 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=52 title="苟且偷生">
-你的骨氣打從骨頭斷掉的那一刻，就煙消雲散了。
+你的骨氣打從骨頭斷掉的那一刻，就煙消雲散了。<br>
+<br>
+<br>
+<br>
+<br>
+<!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
 </EndBackground>
 
 ## 條件

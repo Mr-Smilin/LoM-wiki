@@ -1,5 +1,7 @@
 <template>
-    <div :class=getContextClass()><slot></slot>{{context}}</div>
+    <div :class="getContextContainerClass()">
+        <div :class=getContextClass()><slot></slot>{{context}}</div>
+    </div>
 </template>
 
 <script>
@@ -13,6 +15,9 @@ export default {
     methods: {
         getContextClass() {
             return ['context'];
+        },
+        getContextContainerClass() {
+            return ['context-container'];
         }
     }
 };
@@ -20,11 +25,16 @@ export default {
 
 <style scoped>
 .context {
-    padding: 0px 0px 60px 13%;
+    padding-bottom:60px;
     font-size: 16px;
     color: #000000;
     font-weight: 800;
     white-space: pre-line;
+    line-height: 1.4em;
+}
+.context-container{
+    display: flex;
+    justify-content: center;
 }
 @media screen and (max-width: 768px) and (min-width: 500px){
     .context {
@@ -39,8 +49,8 @@ export default {
 }
 @media screen and (min-width: 768px){
     .context {
-        padding: 0px 0px 60px 40px;
-        font-size: 16px;
+        padding-bottom:60px;
+        font-size: 12px;
         color: #000000;
         font-weight: 800;
         white-space: pre-line;

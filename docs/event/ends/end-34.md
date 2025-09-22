@@ -19,8 +19,10 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=34 title="行屍走肉">
-你活著，卻已死了很久。夏侯蘭後悔那日<br>
-不該綁著你，讓你多受幾十年煎熬。<br>
+你活著，卻已死了很久。<br>
+夏侯蘭後悔那日不該綁著你，讓你多受幾十年煎熬<br>
+。<br>
+<br>
 <br>
 <!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
 </EndBackground>
