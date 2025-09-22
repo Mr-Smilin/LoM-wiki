@@ -15,8 +15,10 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=8 title="被煮的狗">
-兔死狗烹，你這走狗已經沒有用了。用張<br>
-大餅就能騙得你團團轉，可真划算。<br>
+兔死狗烹，你這走狗已經沒有用了。用張大餅就能<br>
+騙得你團團轉，可真划算。<br>
+<br>
+<br>
 <br>
 <!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
 </EndBackground>

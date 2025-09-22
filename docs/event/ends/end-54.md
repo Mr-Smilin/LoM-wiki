@@ -16,7 +16,12 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=54 title="與妳同行">
-無論幾度輪迴，都願為她跋涉冥河，穿越地獄。
+無論幾度輪迴，都願為她跋涉冥河，穿越地獄。<br>
+<br>
+<br>
+<br>
+<br>
+<!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
 </EndBackground>
 
 ## 條件

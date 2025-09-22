@@ -16,8 +16,10 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=35 title="慷慨就義">
-你有路可活，可你非要做那唐門弟子，笑<br>
-看生殺，慷慨赴義。<br>
+你有路可活，可你非要做那唐門弟子，笑看生殺，<br>
+慷慨赴義。<br>
+<br>
+<br>
 <br>
 <!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
 </EndBackground>

@@ -15,7 +15,12 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=51 title="窩囊死">
-被這無情世道以亂拳加身，你的心比身體還要短壽<br>，老早就死了。
+被這無情世道以亂拳加身，你的心比身體還要短壽<br>
+，老早就死了。<br>
+<br>
+<br>
+<br>
+<!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
 </EndBackground>
 
 ## 條件
