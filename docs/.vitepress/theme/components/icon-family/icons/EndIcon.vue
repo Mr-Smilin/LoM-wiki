@@ -30,7 +30,7 @@ export default defineComponent({
             type: Number,
             default: 0,
             validator: function (value) {
-                if (value < 0 && value <= 54){
+                if (value > 0 && value <= 54){
                     return true;
                 }
                 return false;
@@ -39,13 +39,6 @@ export default defineComponent({
         href:{
             type: String,
             default: '',
-        }
-    },
-    data() {
-        return {
-            size: '',
-            character: '',
-            href: ''
         }
     },
     setup(props) {
