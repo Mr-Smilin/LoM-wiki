@@ -20,7 +20,9 @@ tags:
 
 ## 有請作者魏夫子本人親自出場防劇透
 
-<img height="300" width="300" src="/images/characters/girl_7/special.webp" />
+<img height="300" width="300" src="/images/characters/girl_7/special.webp" alt="作者本人" />
+
+<br>
 
 <BTable :stickyHeader=true searchMode="or"
 :tags="[
