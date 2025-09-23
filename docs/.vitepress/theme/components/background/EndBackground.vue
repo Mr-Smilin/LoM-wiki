@@ -132,7 +132,8 @@ div{
     }
     .mobile-flex {
         display: block;
-        padding: 50px 0px;
+        padding-top: 15%;
+        padding-bottom: 11%;
     }
     .mobile-background {
         display: block;
