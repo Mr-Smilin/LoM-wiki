@@ -28,4 +28,15 @@ export default {
     color: #a83232;
     font-weight: bold;
 }
+@media screen and (max-width: 400px){
+    .title {
+        position: relative;
+        padding-bottom: 5%;
+        margin: 0 auto;
+        text-align: center;
+        font-size: 22px;
+        color: #a83232;
+        font-weight: bold;
+    }
+}
 </style>

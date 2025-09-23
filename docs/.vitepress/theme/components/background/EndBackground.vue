@@ -98,7 +98,7 @@ div{
     display: none;
 }
 
-@media screen and (max-width: 768px) and (min-width: 500px){
+@media screen and (max-width: 768px) and (min-width: 400px){
     .mobile-background {
         display: block;
         align-items: center;
@@ -111,13 +111,13 @@ div{
         margin: 0 auto;
     }
     .word-div{
-        width: 360px;
-        height: 160px;
+        width: 392px;
+        height: 188px;
         padding-bottom: 20px
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 400px){
     .background {
         max-width: 500px;
         width: 100%;
@@ -132,8 +132,8 @@ div{
     }
     .mobile-flex {
         display: block;
-        padding-top: 15%;
-        padding-bottom: 11%;
+        padding-top: 22%;
+        padding-bottom: 15%;
     }
     .mobile-background {
         display: block;
