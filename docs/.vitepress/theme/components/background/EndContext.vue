@@ -26,7 +26,7 @@ export default {
 <style scoped>
 .context {
     padding-bottom:60px;
-    font-size: 16px;
+    font-size: 10px;
     color: #000000;
     font-weight: 800;
     white-space: pre-line;
@@ -36,15 +36,16 @@ export default {
     display: flex;
     justify-content: center;
 }
-@media screen and (max-width: 768px) and (min-width: 500px){
+@media screen and (max-width: 768px) and (min-width: 400px){
     .context {
         margin: 0 auto;
         max-width: 400px;
         padding-bottom: 60px;
-        font-size: 16px;
+        font-size: 11px;
         color: #000000;
         font-weight: 800;
         white-space: pre-line;
+        line-height: 1.4em;
     }
 }
 @media screen and (min-width: 768px){
@@ -54,6 +55,7 @@ export default {
         color: #000000;
         font-weight: 800;
         white-space: pre-line;
+        line-height: 1.4em;
     }
 }
 </style>
