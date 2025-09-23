@@ -23,7 +23,7 @@
         render(props) {
             const { cell } = props;
             if (cell.type === 'array') {
-            return cell.content.map((item, index) => renderItem(item, index));
+                return cell.content.map((item, index) => renderItem(item, index));
             }
             return h(MarkdownWrapper, { content: cell.content });
         }
