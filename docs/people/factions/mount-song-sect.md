@@ -29,7 +29,12 @@ tags:
 			</ChTr>
 			<ChTr>
                 <ChTd position='center'>
-                    [[覺慧]] (本院高僧)
+                    [[覺慧]] (本院方丈)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[覺醒]] (本院長老)
                 </ChTd>
             </ChTr>
             <ChTr>

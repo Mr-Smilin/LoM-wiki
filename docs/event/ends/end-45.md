@@ -17,8 +17,10 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=45 title="最後的唐門弟子">
-你打算盡可能活久一點，要是連你都沒了<br>
-，世上就再也沒人記得唐門了。<br>
+你打算盡可能活久一點，要是連你都沒了，世上就<br>
+再也沒人記得唐門了。<br>
+<br>
+<br>
 <br>
 <!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
 </EndBackground>

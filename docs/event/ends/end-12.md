@@ -15,8 +15,10 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=12 title="孤獨終老">
-你身邊的花盛開又謝，來去匆匆，而你始<br>
-終孤獨。<br>
+你身邊的花盛開又謝，來去匆匆，而你始終孤獨。<br>
+<br>
+<br>
+<br>
 <br>
 <!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
 </EndBackground>

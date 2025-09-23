@@ -72,7 +72,7 @@
             },
             autoLineBreak(string){
                 if (document.getElementById("auto-line-break")?.checked) {
-                    let lineLength = 18;
+                    let lineLength = 22;
                     let lines = [];
 
                     for (let i = 0; i < string.length; i += lineLength) {
@@ -114,8 +114,7 @@
             },
             showExampleData(){
                 this.title = "君所願兮江湖行";
-                this.context = "終於輪你當主角，你的謝幕可歌可泣，世" +
-                    "上無人再敢看輕你。</br>";
+                this.context = "終於輪你當主角，你的謝幕可歌可泣，世上無人再敢看輕你。";
                 this.imageSource = "/images/generic/background/pic_end_0000.webp";
                 document.getElementById("auto-line-break").checked = true;
                 return true;

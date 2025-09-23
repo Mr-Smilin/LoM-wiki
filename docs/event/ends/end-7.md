@@ -15,8 +15,10 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=7 title="孤獨死">
-萬籟俱寂，天地無聲，你終於找到了安寧<br>
-。<br>
+萬籟俱寂，天地無聲，你終於找到了安寧。<br>
+<br>
+<br>
+<br>
 <br>
 <!--此處因排版, 放入了全行空白與空行, 無理由請勿移除-->
 </EndBackground>

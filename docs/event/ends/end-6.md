@@ -15,8 +15,10 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=6 title="睡死">
-人生最苦莫過於獨自清醒，願君好夢安息<br>
-。<br>
+人生最苦莫過於獨自清醒，願君好夢安息。
+<br>
+<br>
+<br>
 <br>
 <!--此處因排版, 放入了全行空白與空行, 無理由請勿移除-->
 </EndBackground>
