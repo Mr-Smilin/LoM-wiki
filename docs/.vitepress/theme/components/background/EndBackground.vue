@@ -98,7 +98,7 @@ div{
     display: none;
 }
 
-@media screen and (max-width: 768px) and (min-width: 400px){
+@media screen and (max-width: 768px) and (min-width: 440px){
     .mobile-background {
         display: block;
         align-items: center;
@@ -117,9 +117,9 @@ div{
     }
 }
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 440px){
     .background {
-        max-width: 500px;
+        max-width: 440px;
         width: 100%;
         height: 100%;
         display: none;
