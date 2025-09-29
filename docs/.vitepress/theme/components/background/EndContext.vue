@@ -36,7 +36,7 @@ export default {
     display: flex;
     justify-content: center;
 }
-@media screen and (max-width: 768px) and (min-width: 440px){
+@media screen and (max-width: 768px) and (min-width: 500px){
     .context {
         margin: 0 auto;
         max-width: 400px;
