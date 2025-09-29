@@ -28,7 +28,7 @@ export default {
     color: #a83232;
     font-weight: bold;
 }
-@media screen and (max-width: 440px){
+@media screen and (max-width: 500px){
     .title {
         position: relative;
         padding-bottom: 5%;
