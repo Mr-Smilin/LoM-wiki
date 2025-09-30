@@ -540,21 +540,30 @@ tags:
 			</td>
 			<td>-</td>
 			<td>
-				<li>夏侯蘭來唐門(需要夏侯蘭線)</li>
+				<MarkdownWrapper>
+				[建造樹屋](/event/simple/3-05-3-建造樹屋)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
 			<td>六月</td>
 			<td>
 				<li>唐門例會</li>
-				<li>唐門例會：上雪山(需要夏侯蘭線)</li>
+				<MarkdownWrapper>
+				[雪山行](/event/simple/3-06-1-雪山行)<br>
+				[實力評論](/event/simple/3-06-1-實力評論)<br>
+				</MarkdownWrapper>
 			</td>
-			<td></td>
 			<td>
-				<li>夏侯蘭線：野味選項</li>
-				<li>夏侯蘭線：雪山蓋房子</li>
-				<li>夏侯蘭線：雪山練功</li>
-				<li>夏侯蘭線：雪山閒談</li>
+				<MarkdownWrapper>
+				[夏侯蘭離去](/event/simple/3-06-2-夏侯蘭離去)<br>
+				</MarkdownWrapper>
+			</td>
+			<td>
+				<MarkdownWrapper>
+				[抵達雪山](/event/simple/3-06-3-抵達雪山)<br>
+				[夏侯蘭的回憶](/event/simple/3-06-3-夏侯蘭的回憶)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
@@ -563,8 +572,9 @@ tags:
 				<li>唐門例會</li>
 			</td>
 			<td>
-				<li>夏侯蘭線：決戰第三香</li>
-				<li>夏侯蘭線：傳功事件</li>
+				<MarkdownWrapper>
+				[雪山之約](/event/simple/3-07-2-雪山之約)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 		</tr>
