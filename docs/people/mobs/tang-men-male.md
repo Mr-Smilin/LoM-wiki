@@ -422,13 +422,17 @@ tags:
     </tr>
 </table>
 
-## 其他
+## 出使青城
 
 <img src="/images/mobs/tang-men/male/trainee21_normal.webp" style="width:200px;" />
 <table>
     <tr>
         <td>廣州唐門</td>
         <td>廣州唐門弟子。</td>
+    </tr>
+    <tr>
+        <td>西武林</td>
+        <td>出使青城。<br>說自己是本門最惜命的，不必等到苗頭不對，人家眉頭皺一下就溜了。</td>
     </tr>
 </table>
 
