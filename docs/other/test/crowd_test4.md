@@ -10,7 +10,7 @@ tags:
 
 ## 欺善怕惡三人組
 
-<img src="/images/develop/test/trainee9_normal.webp" style="width:200px;" />
+<img src="/images/mobs/tang-men/male/trainee9_normal.webp" style="width:200px;" />
 <table>
     <tr>
         <td>後山蒙面人</td>
@@ -18,7 +18,7 @@ tags:
     </tr>
 </table>
 
-<img src="/images/develop/test/trainee5_normal.webp" style="width:200px;" />
+<img src="/images/mobs/tang-men/male/trainee5_normal.webp" style="width:200px;" />
 <table>
     <tr>
         <td>後山蒙面人</td>
@@ -30,7 +30,7 @@ tags:
     </tr>
 </table>
 
-<img src="/images/develop/test/trainee6_normal.webp" style="width:200px;" />
+<img src="/images/mobs/tang-men/male/trainee6_normal.webp" style="width:200px;" />
 <table>
     <tr>
         <td>後山蒙面人</td>
@@ -48,7 +48,7 @@ tags:
 
 ## 其他
 
-<img src="/images/develop/test/trainee1_normal.webp" style="width:200px;" />
+<img src="/images/mobs/tang-men/male/trainee1_normal.webp" style="width:200px;" />
 <table>
     <tr>
         <td>贈藥事件</td>

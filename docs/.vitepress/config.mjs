@@ -40,6 +40,7 @@ const baseConfig = {
 					{ text: "夢境心上人", link: "/people/dream-sweetheart" },
 					{ text: "稱號列表", link: "/people/title-list" },
 					{ text: "陣營列表", link: "/people/factions/" },
+					{ text: "江湖眾生相", link: "/people/mobs/" },
 				],
 				activeMatch: "/people/",
 			},

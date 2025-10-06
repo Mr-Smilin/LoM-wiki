@@ -11,14 +11,14 @@ tags:
 ## 欺善怕惡三人組
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/develop/test/trainee9_normal.webp" style="width: 200px; margin-right: 20px;">
+  <img src="/images/mobs/tang-men/male/trainee9_normal.webp" style="width: 200px; margin-right: 20px;">
   <div>
     - 後山蒙面人：資歷比趙活淺。平日作威作福，欺善怕惡。見趙活參與團練，找趙活麻煩。
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/develop/test/trainee5_normal.webp" style="width: 200px; margin-right: 20px;">
+  <img src="/images/mobs/tang-men/male/trainee5_normal.webp" style="width: 200px; margin-right: 20px;">
   <div>
     - 後山蒙面人：資歷比趙活淺。平日作威作福，欺善怕惡。見趙活參與團練，找趙活麻煩。<br><br>
     - 第一次段考：段考對手，打輸他會拿死法小師妹的制裁。
@@ -26,7 +26,7 @@ tags:
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/develop/test/trainee6_normal.webp" style="width: 200px; margin-right: 20px;">
+  <img src="/images/mobs/tang-men/male/trainee6_normal.webp" style="width: 200px; margin-right: 20px;">
   <div>
     - 後山蒙面人：資歷比趙活淺。平日作威作福，欺善怕惡。見趙活參與團練，找趙活麻煩。<br><br>
     - 雲裳默鈴郊遊：那個幫二師兄醃醬瓜茄的幸運兒。「咦？真的假的？我？幫你？醃醬菜？」<br><br>
@@ -37,7 +37,7 @@ tags:
 ## 其他
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/develop/test/trainee1_normal.webp" style="width: 200px; margin-right: 20px;">
+  <img src="/images/mobs/tang-men/male/trainee1_normal.webp" style="width: 200px; margin-right: 20px;">
   <div>
 - 贈藥事件：被四師兄叫來頂替趙活工作，視貢獻值會同情或抱怨趙活。<br><br>
 - 第一次段考：段考後與趙活在弟子房聊天，比趙活資淺，看不慣找趙活麻煩的那些弟子。<br><br>
