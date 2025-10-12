@@ -1,5 +1,5 @@
 ---
-title: 江湖眾生相：江湖勢力
+title: 江湖眾生相：其他門派
 aside: true
 sidebar: false
 borderless: false
@@ -213,28 +213,5 @@ tags:
     <tr>
         <td>青城留學<br>「牛頭馬面」</td>
         <td>地獄道鬼卒，有自己的登場畫面。</td>
-    </tr>
-</table>
-
-## 其他勢力
-
-### 苦行幫
-
-無立繪。
-
-<table>
-    <tr>
-        <td>武林大會<br>「九難頭陀」</td>
-        <td>在溫夫人以解藥要脅武林人時，出聲投誠。</td>
-    </tr>
-</table>
-
-### 天武門
-
-<img src="/images/mobs/artists/artist2_normal.webp" style="width:200px;" />
-<table>
-    <tr>
-        <td>馳援江陵<br>「黃金龍」</td>
-        <td>抵達前夜慫恿同門操練對象天武門的門主。<br>雖是門主，卻說不動性情乖張的門人，權威岌岌可危。</td>
     </tr>
 </table>
