@@ -1,5 +1,5 @@
 ---
-title: 觀雲客
+title: 聽海生
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -12,9 +12,9 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="觀雲客">
-		<Ch src='/images/characters/special202/normal.webp' position='right'/>
-		<ChName nameZh='觀雲客' nameEn='Guan Yun Ke' position='right' />
+	<ChTab title="聽海生">
+		<Ch src='/images/characters/special203/normal.webp' position='right'/>
+		<ChName nameZh='聽海生' nameEn='Ting Hai Sheng' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -29,7 +29,7 @@ tags:
 					稱號
 				</ChTd>
 				<ChTd>
-					點蒼掌門<br>觀雲劍客<br>點蒼雙尊
+					點蒼劍尊<br>聽海劍客<br>點蒼雙尊
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -39,12 +39,12 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[聽海生]] (師弟)
+					[[觀雲客]] (師兄)
                 </ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[段智秀]] (徒弟)
+					[[葉雲舟]] (徒弟)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -52,7 +52,7 @@ tags:
 </ChTabs>
 <br>
 
-[[點蒼派|點蒼]]掌門，年輕時叫「觀雲劍客」，與師弟[[聽海生]]並稱點蒼雙尊。
+[[點蒼派|點蒼]]劍尊，年輕時叫「聽海劍客」，與師兄[[觀雲客]]並稱點蒼雙尊。
 <br><br>
 兩人持有黑白雙劍，以合擊之術《陰陽雙劍》聞名天下。單一人並非敵手，但雙劍合璧卻非同小可，當年[[無名|點蒼劍聖]]都嚐過敗績，饒是峨嵋掌門[[向無憂]]亦不敢攖其鋒芒。
 
