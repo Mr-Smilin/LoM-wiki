@@ -23,6 +23,14 @@ tags:
 					女
 				</ChTd>
 			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					生日
+				</ChTd>
+				<ChTd>
+					11/10
+				</ChTd>
+			</ChTr>
             <ChTr>
 				<ChTd isTitle=true position='center'>
 					關係
@@ -70,7 +78,8 @@ tags:
 
 -   立繪美，又有師姐、人妻屬性，在玩家之間人氣意外頗高(?)
 -   婆婆是南宮家主的親妹子，故夫家是[[南宮世家]]的親家
--   與[[夏侯蘭]]同天生日。因為算命先生說那天的良辰吉時，宋國會降生一位絕世美人，於是辛儒她娘就用力把辛儒生出來了。可能為11月左右。[^1]
+-   與[[夏侯蘭]]同天生日11/10。因為算命先生說那天的良辰吉時，宋國會降生一位絕世美人，於是辛儒她娘就用力把辛儒生出來了。[^1][^2]
 -   與[[唐芳]]並稱唐門迷糊大王。一個睡姿差，一個愛遲到。
 
 [^1]: PTT C 洽－[\[活俠\] 瑞笙設定+龍湘設定+夏侯蘭生日](https://www.ptt.cc/bbs/C_Chat/M.1752927048.A.9E1.html)
+[^2]: 原始鳥熊FB - [2025/11/10生日賀文](https://www.facebook.com/obbstudio/posts/pfbid02t8cCaMxrwWdbiHAfPC6xYiG8nTreNr8CLXBut1eYJh6uQ9HCpUrhXBH1QToEJmgJl)。
