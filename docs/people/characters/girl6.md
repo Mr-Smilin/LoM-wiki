@@ -129,6 +129,14 @@ aside: false
 				</ChTd>
 			</ChTr>
 			<ChTr>
+                <ChTd isTitle=true>
+                    生日
+                </ChTd>
+                <ChTd>
+                    7/10
+                </ChTd>
+            </ChTr>
+			<ChTr>
 				<ChTd isTitle=true>
 					稱號
 				</ChTd>

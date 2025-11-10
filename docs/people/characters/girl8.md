@@ -77,6 +77,14 @@ borderless: false
 				</ChTd>
 			</ChTr>
 			<ChTr>
+                <ChTd isTitle=true>
+                    生日
+                </ChTd>
+                <ChTd>
+                    8/5
+                </ChTd>
+            </ChTr>
+			<ChTr>
 				<ChTd isTitle=true>
 					身高
 				</ChTd>

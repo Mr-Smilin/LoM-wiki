@@ -131,7 +131,7 @@ aside: false
 				    生日
 				</ChTd>
 				<ChTd>
-				    6月6號
+				    6/6
 				</ChTd>
 			</ChTr>
 			<ChTr>

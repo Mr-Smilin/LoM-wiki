@@ -135,6 +135,14 @@ aside: false
 				</ChTd>
 			</ChTr>
 			<ChTr>
+                <ChTd isTitle=true>
+                    生日
+                </ChTd>
+                <ChTd>
+                    9/10
+                </ChTd>
+            </ChTr>
+			<ChTr>
 				<ChTd isTitle=true>
 					年齡
 				</ChTd>

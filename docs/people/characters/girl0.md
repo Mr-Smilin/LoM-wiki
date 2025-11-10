@@ -123,6 +123,14 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd isTitle=true>
+                    生日
+                </ChTd>
+                <ChTd>
+                    3/24
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
                     年齡
                 </ChTd>
                 <ChTd>
