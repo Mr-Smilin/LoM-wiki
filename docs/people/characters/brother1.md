@@ -176,7 +176,7 @@ aside: false
 -   沒人逼迫大師兄的情況，他會沉迷相聲，不進反退直至荒廢武功。[^3]
 -   如果得知[[趙活]]死掉，會設法報仇，視乎情況，手段不一定是殺人。[^3]
 -   據說在嘗試將學武的門檻徹底抹消，讓後世之人，人人都能習武自保。[^3]
--   星座是自由的射手座
+-   星座是自由的射手座。[^8]
 -   有時睡廚房，有時睡樹上，有時睡青樓
 -   雖然立繪看不出來，但若和大師兄切磋，可以從攻擊圖發現腰間有和[[唐錚|二師兄]]一樣的玉珮
 -   玉佩曾經屬於[[唐中翎|掌門]]和[[唐鹿|師娘]]，掌門的給大師兄，師娘的在[[唐錚|二師兄]]手裡，~~定情信物耶~~，[來源](https://www.plurk.com/p/3g9a4xb0oh)
@@ -203,6 +203,7 @@ aside: false
 [^5]: Facebook－[原始鳥熊2024/12/24](https://www.facebook.com/share/p/XSWnPMhuCd97Wpvq/)
 [^6]: Facebook－[原始鳥熊2023/1/20](https://www.facebook.com/obbstudio/posts/pfbid02cNRh5gAd6pEKZiWwywzCTEtaQkWDHVbnx4SG6tcSPJuvXVXJz3WqaAoj6XZTHJ69l)
 [^7]: PTT C 洽－[\[活俠\] 大師兄的身高](https://www.ptt.cc/bbs/C_Chat/M.1726550830.A.273.html)
+[^8]: Facebook－[原始鳥熊2023/3/24](https://www.facebook.com/photo.php?fbid=227827013104015&set=p.227827013104015&type=3)
 
 ## 畫廊
 

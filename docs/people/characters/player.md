@@ -365,7 +365,7 @@ tags:
 -   根據[[瑞杏]]的自言自語，趙活似乎和皇室有點淵源。
 -   在「Digital Taipei2021 線上展覽」時稱作「武林敗類」巨八：[影片連結](https://www.facebook.com/watch/?mibextid=WC7FNe&v=1233034187106961&rdid=8LJ4hVfrxRlPIdcJ)
 -   肉包妖怪 by 鳥熊
--   星座是天馬座。~~燃燒小宇宙吧~~
+-   ~~星座是天馬座，燃燒小宇宙吧！~~[^6]
 -   已破棄的謎之舞步，[連結](https://www.facebook.com/watch/?mibextid=oFDknk&v=1481577332312805&rdid=g1lRgORuhzdrbpQu) [連結](https://www.facebook.com/watch/?mibextid=oFDknk&v=1134896317435222&rdid=wGNDPFXDQ4Ny0hIM)
 -   不留學線[[唐中翎|掌門]]會給唐門傳承小劍。~~此劍常出現在龍陽讀書齋的文中~~
 -   鬼畫圖字畫被[[耕陽讀書齋]]以為可能是杜甫的手筆，買回去研究。
@@ -383,6 +383,7 @@ tags:
 [^3]: Facebook－[原始鳥熊 2022/10/11](https://www.facebook.com/obbstudio/posts/pfbid02a1NHfKyTzkMGJeViNPVZ21JP2CQhWDpGGWeEngh7WNrzJ5t9Z7euX9xXAZPyAfFnl)
 [^4]: Facebook－[原始鳥熊 2023/4/1](https://www.facebook.com/obbstudio/posts/pfbid0VNvvCPjbVhaF58qbcrBF42j6oFCzFvQnxb4vbqRqBHYDRnWzwoGc6KSk6L81qTsEl)
 [^5]: [[問答集2024年10月#_2024-10-25|問答集2024-10-25]]
+[^6]: Facebook－[原始鳥熊2023/3/24](https://www.facebook.com/photo.php?fbid=227827013104015&set=p.227827013104015&type=3)
 
 ## 畫廊
 
