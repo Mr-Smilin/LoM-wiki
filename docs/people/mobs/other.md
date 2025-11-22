@@ -318,6 +318,10 @@ tags:
         <td>客棧線<br>「楊玄奇」</td>
         <td>第三代千面人魔。</td>
     </tr>
+    <tr>
+        <td>破廟線</td>
+        <td>葉雲裳於客棧惡作劇，又稱與趙活兄妹同心，舉凡她犯的錯都算趙活一半。因此拒絕趙活入住。</td>
+    </tr>
 </table>
 
 <img src="/images/mobs/folks/waiter2_normal.webp" style="width:200px;" />
