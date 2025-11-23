@@ -242,3 +242,4 @@ tags:
 
 - [巴哈姆特 - 那些年我做過的配樂案件3..原始鳥熊 Obb studio - 活俠傳](https://forum.gamer.com.tw/C.php?bsn=73317&snA=1488)
 - [Youtube - 「帳中夢守人，感動數萬人」 你不知道的幕後故事，作曲為什麼難以取得生活平衡？](https://www.youtube.com/watch?v=xsuEOoaFWlI)
+- [Youtube - 【活俠傳】完整音樂解析《一呼百諾西武林》，天命難違的趙活，將如何一飛衝天？ ft.幽火](https://youtu.be/frlGGc4KV1o)
