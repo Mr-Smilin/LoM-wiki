@@ -349,7 +349,7 @@ aside: false
 
 ## 備註
 
--   ~~色情雪貂~~
+-   ~~色情雪貂~~「羊是默鈴，我是雪貂。雪貂喜歡鑽人衣袖裡、纏你脖子、咬你……。」
 -   鳥熊 FB 的介紹：[連結](https://www.facebook.com/obbstudio/photos/pb.100076301525150.-2207520000/132329695831884/?type=3)
 -   於v1.0.5000開放攻略，更新預告影片：[連結](https://www.youtube.com/watch?v=FRnzV4GRNd0)
 -   雲裳的裳，念ㄕㄤ· (shang)。[^8]
