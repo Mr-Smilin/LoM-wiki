@@ -153,6 +153,10 @@ tags:
 <img src="/images/mobs/tang-men/female/traineegirl7_normal.webp" style="width:200px;" />
 <table>
     <tr>
+        <td>小師妹出嫁</td>
+        <td>在趙活勸回意圖闖入小師妹比武招親的葉雲裳後端茶給趙活，對趙活說話相當客氣。<br>說趙活因為長相，特別被雲裳關切，替其他人分擔不少壓力，大家都挺感謝他的。</td>
+    </tr>
+    <tr>
         <td>武林大會</td>
         <td>誤會趙活為宋國皇室宗親。<br>資歷較淺沒欺負過趙活，想著如果示好是否可成為趙活妾室。</td>
     </tr>
