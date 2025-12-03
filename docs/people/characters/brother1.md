@@ -34,6 +34,14 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd isTitle=true>
+                    生日
+                </ChTd>
+                <ChTd>
+                    12/4
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
                     年齡
                 </ChTd>
                 <ChTd>
@@ -160,6 +168,7 @@ aside: false
 ## 備註
 
 -   ~~唐門猴俠~~
+-   生日是12/4：[連結](https://www.facebook.com/photo/?fbid=873986568488053&set=a.165167019370015)
 -   鳥熊 FB 的介紹：[連結](https://www.facebook.com/photo/?fbid=119387863792734&set=pcb.119387933792727)
 -   不到十歲就和[[唐中翎|掌門]]、[[唐錚|辣手相公]]一起劫法場
 -   假設法場時兩人 7 ～ 9 歲，[[唐惟元]]是隔年大雪天撿到的，故可推論年齡約為 25 ～ 27 左右
