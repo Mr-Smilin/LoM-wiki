@@ -26,4 +26,4 @@ tags:
 - [[唐中翎|唐老魔]]年輕時，曾千里追殺一名輕薄師娘的登徒貴公子，追到南嵩山寺造成[[釋明]]心魔。
 - 在唐門谷底有機會撿到的傳承小劍為她的遺物。[^1]
 
-[^1]: 巴哈姆特－[【閒聊】(有葉雲裳路線劇透)關於傳承小劍]([https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0](https://forum.gamer.com.tw/C.php?bsn=73317&snA=3449&tnum=4))
+[^1]: 巴哈姆特－[【閒聊】(有葉雲裳路線劇透)關於傳承小劍](https://forum.gamer.com.tw/C.php?bsn=73317&snA=3449&tnum=4)
