@@ -247,29 +247,49 @@ aside: false
   </Tab>
 </Tabs>
 
+## 裂骨魔
+
+-   看好了，這是一枚銅錢。(捏)
+-   曾把崆峒四秀的[[孟瞋]]的拳骨捏爛。
+-   會捏飯糰，但握力太強導致飯糰形成膏狀，吃起來口感挺玄幻的。~~不知為何二創歪成腋飯糰~~
+    -   小竹流秘傳包粽法：[連結](https://www.facebook.com/photo/?fbid=278679134685469&set=a.165167019370015)
+-   孩提時代曾送給前掌門按摩券作壽禮，而後傳給[[雷謙]]，兩人都不敢用。當[[趙活]]贏下季試時便送給他了。
+-   可能會因為善意不小心把[[趙活]]的肋骨弄斷。[^7]
+-   小竹害羞之下的全力反手巴掌萬一打實了，武林中沒有一個不死的。[^9]
+
+## 技藝
+
+-   技藝高超，打的寶劍連[[點蒼派]]都想求。[^1]
+-   造的最厲害的武器是虎戰車、火箭飛拳。未開放的內容中有更狠的武器。[^3]
+-   打造出壯士飛腕，經[[唐惟元|四師兄]]收購後賣給[[葉雲裳]]，後被雲裳用以惡作劇。
+-   小竹的段冶技能是頂尖的，[[趙活]]有巧思，但功底還遠遠比不上。[^10]
+-   愚人節DLC百萬趙活也是小竹開發的。[^8]
+
+## 用品
+
+-   因為崆峒小偷很多，小竹會在所有物上簽名。
+-   對槌子有講究，握柄必須特製，能承受她的握力。[^4]
+-   打扮後所戴著的黑手套是烏蠶絲所織，刀槍不入。戴手套是因為不想被看到傷疤。[^7]
+
+
+## 體型
+
+-   鳥熊強調又短又重。[^5]
+-   小竹只是長不高，但是營養滿好的，該長大的地方有長大。[^10]
+
 ## 備註
 
 塗黑防劇透的部分是解包情報，v3206 版本無法正常玩到。
 
 -   鳥熊 FB 的介紹：[連結 1](https://www.facebook.com/photo.php?fbid=170987152121335&id=100076301525150&set=a.165167019370015)、[連結 2](https://www.facebook.com/photo.php?fbid=170987148788002&id=100076301525150&set=a.165167019370015)
--   看好了，這是一枚銅錢。(捏)
--   生日是7/10。[^6]
 -   [[瑞杏]]為她慶生的影片：[【杏花仙絕無僅有的心血來潮】](https://www.youtube.com/watch?v=ZELq9yk-Z5U)
--   鳥熊強調又短又重。[^5]
--   曾把崆峒四秀的[[孟瞋]]的拳骨捏爛。
+-   是要下莫大決心，才會打扮起來的類型。[^7]
+-   就算生氣也不會揍人，不高興的時候會打鐵宣洩情緒。[^7]
+-   對於自己力氣太大感覺到自卑，雖然有過抱持少女憧憬的時期，不過事到如今也已經放棄掙扎了。[^7]
 -   因為生父濫賭而被賣到崆峒，非常討厭賭博，見[[趙活]]嗜賭會生氣。
 -   因為[[雷謙|雷掌門]]愛說鬼故事的關係，她很怕鬼。
--   會捏飯糰，但握力太強導致飯糰形成膏狀，吃起來口感挺玄幻的。~~不知為何二創歪成腋飯糰~~
--   小竹流秘傳包粽法：[連結](https://www.facebook.com/photo/?fbid=278679134685469&set=a.165167019370015)
--   孩提時代曾送給前掌門按摩券作壽禮，而後傳給[[雷謙]]，兩人都不敢用。
--   對於自己力氣很大這點抱持著自卑感，就算生氣也不會揍人，不高興的時候會打鐵宣洩情緒。
--   可能會因為善意不小心把[[趙活]]的肋骨弄斷。
 -   和[[虞小梅|小梅]]曾是好友，但因為當年被騙吃靈藥的關係，小竹仍在氣她。
--   技藝高超，打的寶劍連[[點蒼派]]都想求。[^1]
--   對槌子有講究，握柄必須特製，能承受她的握力。[^4]
--   因為崆峒小偷很多，小竹會在所有物上簽名。
 -   溫柔全肯定廢人養成機。[^2]
--   造的最厲害的武器是虎戰車、火箭飛拳。未開放的內容中有更狠的武器。[^3]
 -   根據<EndIcon no="11">結局 11</EndIcon>的對話，若無結緣，最後會收養一個孤兒，與[[虞小梅|小梅]]和好。
 -   <MarkdownWrapper>||坐船怕沉，跑去買了羊畏、皮革做成浮環，抱著不肯鬆開。過陣子不怕了，船頭船尾跑來跑去，興奮得不能自已。||</MarkdownWrapper>
 -   <MarkdownWrapper>||因結局兒女成群，一拳殺了老虎做虎鞭酒還不夠，在玩家間「竹球隊」一詞不脛而走。||</MarkdownWrapper>
@@ -280,3 +300,7 @@ aside: false
 [^4]: Facebook－[原始鳥熊2023/6/22](https://www.facebook.com/obbstudio/posts/pfbid0z6pcw86rgZmFoA4oMnu9556bQ93fieMNrpSoXudrAC1k6HUWCGcNiS6H5NTiqWXXl)
 [^5]: Facebook－[原始鳥熊2024/2/5](https://www.facebook.com/obbstudio/posts/pfbid0345ukMDW1MtXHXFDAegFGKnPSZ6Ypq2gcoLq2TgEeskhyHQzGeEuywWRtu4nC5mpTl)
 [^6]: Facebook－[原始鳥熊2025/7/10](https://www.facebook.com/100076301525150/posts/pfbid02BbuAbiZiW8DFWeu9B7Sj6rRLgicFv9NjRodLxZ3TpF4pzmCYHqPhfmLpJHmS5kZol/)
+[^7]: Facebook－[原始鳥熊2022/8/19](https://www.facebook.com/obbstudio/posts/pfbid0246FXbC5B8Lw3bntZRDzFJbzVoFsugNQZDZct2UUuFzDCsC1E3j7qLDhFW891o2B1l)
+[^8]: Facebook－[原始鳥熊2023/4/1](https://www.facebook.com/obbstudio/posts/pfbid02imQvU912mgs5b6XGkmHKY9JAfTaznce44dVB9s4e9mwVdpSa81e9YbWPmLq2TpBRl)
+[^9]: Facebook－[原始鳥熊2023/11/3](https://www.facebook.com/obbstudio/posts/pfbid03362ZA6a9oemB9XKGuTnN7C1JNYAGvwkbEXmF367BzRZ1QbjivdKYeU7oe9NZDSMul)
+[^10]: dcinside.com(https://gall.dcinside.com/mgallery/board/view/?id=legendofmortal&no=91615&search_head=20&page=5)
