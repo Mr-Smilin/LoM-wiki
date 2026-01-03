@@ -244,17 +244,25 @@ aside: false
   </Tab>
 </Tabs>
 
+## 千面人魔
+
+-   喜歡跑步的原因一方面是宣洩壓力，一方面為探勘崆峒環境，以利暗殺行動。[^4]
+-   在崆峒遭受攻擊的時候趁亂逃出，扮作醜女阿花投靠唐門，指控[[趙活]]負心，還與[[畫中仙|唐仙兒]]互相試探了一番，最後才揭曉真容。
+-   雖然被[[千燈樓]]指示殺不少人，但實際上沒殺，都暗中送到世外桃源去。
+-   根據<EndIcon no="11">結局 11</EndIcon>的對話，若無結緣，最後會成為千燈樓主。
+-   即便[[趙活]]老去，小梅仍舊是少女模樣。
+
 ## 備註
 
--   病嬌
+-   疑似病嬌。[^1]
+-   社交能力Lv9。[^2]
 -   本人宣稱右手寄宿了[[阿鶴俠]]的魂魄，信不信由你！
--   十歲時曾向[[唐惟元|四師兄]]買毒藥，試圖毒死[[火龍仙君]]和[[金烏上人]]，卻被騙拿到瀉藥，至今仍在記恨他
+-   小梅對[[火閃電]]既嚴厲又好，特別尊重火閃電的自主性，所以有給牠零用錢。[^3]
+-   十歲時曾向[[唐惟元|四師兄]]買毒藥，試圖毒死[[火龍仙君]]和[[金烏上人]]，卻被騙拿到瀉藥，至今仍在記恨他。
 -   和[[郁竹|小竹]]曾是好友，但因為當年騙她吃靈藥的關係，[[郁竹|小竹]]仍在氣她。其實很想和她和好，但怕[[千燈樓]]一事牽連她。
--   非常害怕[[夏侯蘭]]，稱她是蘭姐姐，而對方稱她小瘋子
--   雖然被[[千燈樓]]指示殺不少人，但實際上沒殺，都暗中送到世外桃源去
+-   非常害怕[[夏侯蘭]]，稱她是蘭姐姐，而對方稱她小瘋子。
 -   廚藝高超，能將[[趙活]]大失敗的菜改成佳餚，發明的糕點鄉親熱烈好評。
--   根據<EndIcon no="11">結局 11</EndIcon>的對話，若無結緣，最後會成為千燈樓主
--   <MarkdownWrapper>||其實初版下場很慘，和金烏生六個，但被炎上後馬上修掉了||</MarkdownWrapper>
+-   <MarkdownWrapper>||其實初版下場很慘，和金烏生六個，但被炎上後馬上修掉了。||</MarkdownWrapper>
 
 ## 畫廊
 
@@ -266,3 +274,8 @@ aside: false
         <img src="/images/collab/20241220_toranoana/photo_15.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>
+
+[^1]: Facebook－[原始鳥熊2023/4/1](https://www.facebook.com/obbstudio/posts/pfbid0VNvvCPjbVhaF58qbcrBF42j6oFCzFvQnxb4vbqRqBHYDRnWzwoGc6KSk6L81qTsEl)
+[^2]: Facebook－[原始鳥熊2023/6/21](https://www.facebook.com/obbstudio/posts/pfbid0QyGcVBYJ2F1qEhXJhYcpsanrkXZQ9Dh3Q3QCRf35gguX39k6chvps8LcAXGAUgxTl)
+[^3]: PTT C 洽－[\[活俠\] 奇怪的小知識](https://www.ptt.cc/bbs/C_Chat/M.1734956470.A.A0C.html)
+[^4]: 巴哈姆特 - [【情報】鳥熊問答集](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=2998&bpage=1&ltype=)
