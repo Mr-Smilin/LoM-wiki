@@ -79,6 +79,10 @@ tags:
 -   出身平江府，說起話來軟軟糯糯的
 -   遊戲對話名是錦香弟子，鳥熊沒打算改。[^1]
 -   從小就懂燒家常菜。[^2]
+-   與[[龍湘]]練就攻守合一的雙人絹法、劍法，能作為[[溫夫人]]護法。
+-   忌妒師妹[[龍湘]]與[[唐布衣]]的關係，願意協助[[趙活]]追龍湘。
+-   盛雪無法克服外貌障礙，無法成為[[趙活]]的結緣角。[^3]
 
 [^1]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^2]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^3]: Facebook - [原始鳥熊2024/10/5](https://www.facebook.com/obbstudio/posts/pfbid0G6Ee3sVMWaUAUGgKWGBMoTofnzDGRLEeDZRUhCCYtVxcUhF3k8aBXwNkhiCZNs5Xl)
