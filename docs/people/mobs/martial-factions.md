@@ -137,6 +137,10 @@ tags:
 <img src="/images/mobs/jin-xiang-palace/trainee1_normal.webp" style="width:200px;" />
 <table>
     <tr>
+        <td>崆峒留學</td>
+        <td>季試第二場骰出「裝備精良兵器的女俠」所遇到的對手。</td>
+    </tr>
+    <tr>
         <td>武林大會<br>「姚某」</td>
         <td>代表錦香宮前來迎接趙活等人，對於趙活的外表感到失望。</td>
     </tr>
