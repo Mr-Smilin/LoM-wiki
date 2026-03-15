@@ -162,12 +162,22 @@ aside: false
 -   續上，他會還錢，他會用各種方式設法還錢。[^4]
 -   版本v1.0.5000.8，他真的還錢了！還特地在更新紀錄列了一項！[連結](https://store.steampowered.com/news/app/1859910/view/501710062213923123?l=tchinese)
 -   住外堡時會擔任外堡守衛抵房租。[^2]
+-   葉雲舟海捕令資料夾周邊文案：[來源](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
+    > 案犯 點蒼劍鬼葉雲舟<br>
+    > 尋仇行兇窮凶極惡<br>
+    > 如揭此榜拿得此人<br>
+    > 赴成都府衙告報給<br>
+    > 賞銀白銀千兩如有<br>
+    > 隱匿知情不報者依<br>
+    > 犯人同罪<br>
+    > 成都府衙
 
 ## 備註
 
 -   鳥熊 FB 的介紹：[連結](https://www.facebook.com/photo.php?fbid=424312253455489&set=pb.100076301525150.-2207520000&type=3)
 -   對醫術有興趣，在某個結局成為混帳庸醫，醫術爛到出名。
 -   被[[畫中仙|唐仙兒]]痛罵是長得英俊卻不懂討人歡心，又不事生產的廢物。太苦了。
+-   
 
 [^1]: 巴哈姆特－[【情報】關於龍湘屁股大小的答案+私聊鳥熊的對話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
 [^2]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
