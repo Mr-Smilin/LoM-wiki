@@ -223,7 +223,7 @@ aside: false
 -   假設法場時兩人 7 ～ 9 歲，[[唐惟元]]是隔年大雪天撿到的，故可推論年齡約為 25 ～ 27 左右。
 -   身高大約172。[^7]
 -   如果得知[[趙活]]死掉，會設法報仇，視乎情況，手段不一定是殺人。[^3]
--   星座是自由的射手座。[^8]
+-   星座是自由的射手座。[^8]生日為12/4。[^9]
 -   有時睡廚房，有時睡樹上，有時睡青樓。
 -   雖然立繪看不出來，但若和大師兄切磋，可以從攻擊圖發現腰間有和[[唐錚|二師兄]]一樣的玉珮。
 -   玉佩曾經屬於[[唐中翎|掌門]]和[[唐鹿|師娘]]，掌門的給大師兄，師娘的在[[唐錚|二師兄]]手裡，~~定情信物耶~~。[來源](https://www.plurk.com/p/3g9a4xb0oh)
@@ -232,6 +232,15 @@ aside: false
 -   曾和[[唐錚|二師兄]]一起暗戀過一位小師姑，是[[唐芳]]姊姊唐芬。當大師兄和[[趙活]]聊到這段時，二師兄反應超大，突然暴怒嚇到[[唐默鈴|小師妹]]。
 -   和[[唐錚|二師兄]]一起長大，交情最久。曾經有過關係非常親近的時候，月考筆試時[[唐錚|二師兄]]會讓大師兄抄自己的答卷，[[唐錚|二師兄]]態度變嚴厲，是少年大師兄藝成逃家闖蕩江湖開始的事。[^5]
 -   大師兄的外號是他當飛賊時，好人[[南宮橫|南宮老太爺]]為了幫他洗刷污名而改字取的。[^4]
+-   大師兄海捕令資料夾周邊文案：[來源](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
+    > 案犯 飛賊唐布衣<br>
+    > 夜入人家行竊汙損<br>
+    > 良家清白如揭此榜<br>
+    > 拿得此人赴成都府<br>
+    > 衙告報給賞銀白銀<br>
+    > 千兩如有隱匿知情<br>
+    > 不報者依人同罪<br>
+    > 成都府衙
 
 [^1]: 鳥熊 Facebook 對話，來自[噗浪偷偷說](https://www.plurk.com/p/3gbkphmebg)
 [^2]: PTT C 洽－[\[活俠\] 龍湘+綜合小知識數則](https://www.ptt.cc/bbs/C_Chat/M.1728840738.A.3D7.html)
@@ -241,6 +250,7 @@ aside: false
 [^6]: Facebook－[原始鳥熊2023/1/20](https://www.facebook.com/obbstudio/posts/pfbid02cNRh5gAd6pEKZiWwywzCTEtaQkWDHVbnx4SG6tcSPJuvXVXJz3WqaAoj6XZTHJ69l)
 [^7]: PTT C 洽－[\[活俠\] 大師兄的身高](https://www.ptt.cc/bbs/C_Chat/M.1726550830.A.273.html)
 [^8]: Facebook－[原始鳥熊2023/3/24](https://www.facebook.com/photo.php?fbid=227827013104015&set=p.227827013104015&type=3)
+[^9]: Facebook－[原始鳥熊2025/12/3](https://www.facebook.com/obbstudio/posts/pfbid0hz9QuD9AvEDmLqtNcLSVSsC3kf8JDoag8oUdyupwkkwYpM1TaTXdBrsavAgzgZ1dl)
 
 ## 畫廊
 
