@@ -322,6 +322,15 @@ aside: false
 -   非常在意髮帶是否對稱。
 -   耳環為雪山派的遺物。
 -   在2025「為心上人送上色紙」投票活動中勝出，官方釋出雪山派後日談影片。雪山派在夏侯蘭的帶領下成為了武林七大門派之一，桃李滿遍天下。[^9]
+-   夏侯蘭海捕令資料夾周邊文案：[來源](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
+    > 案犯 奪魄幽蘭<br>
+    > 心狠手辣殺人如麻<br>
+    > 如揭此榜拿得此人<br>
+    > 赴涼州府衙告報給<br>
+    > 賞白銀千兩如有隱<br>
+    > 匿知情不報者依犯<br>
+    > 人同罪<br>
+    > 涼州府衙
 
 [^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
 [^2]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
