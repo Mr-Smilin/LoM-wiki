@@ -281,7 +281,7 @@ tags:
 <img src="/images/mobs/artists/artist1_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>大宋閒漢趙活</td>
+        <td>街頭賣藝</td>
         <td>見趙活雜技身手了得，深感佩服。起了哪天也去投效唐門的念頭。</td>
     </tr>
     <tr>
