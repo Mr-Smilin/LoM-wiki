@@ -281,6 +281,10 @@ tags:
 <img src="/images/mobs/artists/artist1_normal.webp" style="width:200px;" />
 <table>
     <tr>
+        <td>大宋閒漢趙活</td>
+        <td>見趙活雜技身手了得，深感佩服。起了哪天也去投效唐門的念頭。</td>
+    </tr>
+    <tr>
         <td>青城留學<br>「金光神拳」陳裕光</td>
         <td>申屠龍被女子糾纏事件中，因女子喊趙活非禮而出面。<br>若打輸了會被送去坐牢。</td>
     </tr>
