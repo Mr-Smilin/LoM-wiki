@@ -79,7 +79,7 @@ tags:
     <tr>
         <td><Girl1Icon :size="`medium`">瑞杏</Girl1Icon></td>
         <td>1</td>
-        <td>打開錦袋</td>
+        <td>打開錦囊<br>(需100命運)</td>
         <td></td>
         <td></td>
     </tr>
