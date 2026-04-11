@@ -231,6 +231,7 @@ aside: false
     > ......<br>
     > ........................。<br>
     > 上官螢：然後送光了禮物的這個袋子用來KIDNAP！
+-   在官方的[[唐默鈴|小師妹]]生日影片中，因為小師妹新造型過於可愛而直接將人綁架到福建。結果腦內劇場同樣豐富的[[上官隼|父親]]收養小師妹，直接將她改名唐螢。[^5]
 
 ## 備註
 
@@ -254,3 +255,4 @@ aside: false
 [^2]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
 [^3]: Facebook－[原始鳥熊2023/4/22](https://www.facebook.com/obbstudio/posts/pfbid0Nz42C8exkZ4EWfiGR9FKW1jazjBzxY2BfRT1BhSSBXgLdjrPGVtVDzXTwGJc3aUyl)
 [^4]: Facebook－[原始鳥熊2025/12/24](https://www.facebook.com/obbstudio/posts/pfbid02bjXbvjK5u1ZSfwSgHuni3gbSfoMr7mBf9Xs8YDrk2aaHsp3U6GktVbQgwcE6jZvcl)
+[^5]: Facebook－[原始鳥熊2026/3/24](https://www.facebook.com/obbstudio/posts/pfbid02PJaRUM9gavAht2uhA5WJzPjRptD7sSbK4L3DPKUTx4FeydUmwvx6nASxqn6nxEZal)
