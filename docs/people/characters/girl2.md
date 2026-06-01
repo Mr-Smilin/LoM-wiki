@@ -209,6 +209,14 @@ aside: false
 					女
 				</ChTd>
 			</ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
+                    生日
+                </ChTd>
+                <ChTd>
+                    5/27
+                </ChTd>
+            </ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
 					年齡
