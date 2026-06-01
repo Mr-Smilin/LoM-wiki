@@ -308,6 +308,7 @@ aside: false
 -   西武林線當[[趙活]]對上[[譚霸刀]]時，小師妹亂入，三招解決霸刀，毫無還手之力。霸刀遺言「唐門當代最強者，原來不是[[唐布衣]]嗎……」
 -   練武場[[唐布衣|大師兄]]蹴踘時，小師妹一參戰，他便輸掉。
 -   [[唐布衣|大師兄]]評價她的輕功可排入天下前五，自己沒信心排入前十。據說《天地無聲勢》全力施為時，簡直就像一人三化似的。
+-   小師妹的無定飛梭有滯空、變速的特性，人要後發先至其實不難。[^8]
 
 ## 迷路
 
@@ -354,6 +355,7 @@ aside: false
 [^5]: 巴哈姆特－[RE:【心得】看了趙活的日常生活，真的不能說“這我傳”](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12057&subbsn=1&bPage=0)
 [^6]: Facebook－[原始鳥熊2023/3/24](https://www.facebook.com/obbstudio/posts/pfbid0RtthSh7drDNiXYqEPRvK9Mvd5ngMuBQJxCVqfE7PyCxKZfy3QqHZTi97TSfMmWeQl)
 [^7]: Facebook－[原始鳥熊2024/2/5](https://www.facebook.com/obbstudio/posts/pfbid0345ukMDW1MtXHXFDAegFGKnPSZ6Ypq2gcoLq2TgEeskhyHQzGeEuywWRtu4nC5mpTl)
+[^8]: 巴哈姆特－[【文字專訪】專訪鳥熊鼠蟲~129題超長訪談（施工完畢）（更新至8~9樓）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=4070&bpage=1&ltype=)
 
 ## 畫廊
 
