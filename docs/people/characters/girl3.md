@@ -27,16 +27,24 @@ aside: false
 	</ChTab>
 	<ChTab title="微笑">
 		<Ch 
-			src='/images/characters/girl_3/shy2.webp' 
-			position='right'/>
+			src='/images/characters/girl_3/laugh1.webp' 
+			position='center'/>
 		<ChName
 			nameZh='微笑'
 			nameEn='Smile'/>
 	</ChTab>
+	<ChTab title="露齒笑">
+		<Ch 
+			src='/images/characters/girl_3/shy2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='露齒笑'
+			nameEn='Grin'/>
+	</ChTab>
 	<ChTab title="大笑">
 		<Ch 
 			src='/images/characters/girl_3/laugh2.webp' 
-			position='right'/>
+			position='center'/>
 		<ChName
 			nameZh='大笑'
 			nameEn='Laugh heartily'/>
@@ -44,15 +52,23 @@ aside: false
 	<ChTab title="Kira">
 		<Ch 
 			src='/images/characters/girl_3/laugh3.webp' 
-			position='right'/>
+			position='center'/>
 		<ChName
 			nameZh='（<ゝω·）☆'
 			nameEn='Kira'/>
 	</ChTab>
+	<ChTab title="汗顏">
+		<Ch 
+			src='/images/characters/girl_3/nervous1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='汗顏'
+			nameEn='Ah'/>
+	</ChTab>
 	<ChTab title="尷尬">
 		<Ch 
 			src='/images/characters/girl_3/nervous2.webp' 
-			position='right'/>
+			position='center'/>
 		<ChName
 			nameZh='尷尬'
 			nameEn='Ah...'/>
@@ -60,7 +76,7 @@ aside: false
 	<ChTab title="驚嚇">
 		<Ch 
 			src='/images/characters/girl_3/nervous3.webp' 
-			position='right'/>
+			position='center'/>
 		<ChName
 			nameZh='驚嚇'
 			nameEn='Ah!'/>
@@ -68,7 +84,7 @@ aside: false
 	<ChTab title="生氣">
 		<Ch 
 			src='/images/characters/girl_3/angry1.webp' 
-			position='right'/>
+			position='center'/>
 		<ChName
 			nameZh='生氣'
 			nameEn='Angry'/>
@@ -76,42 +92,66 @@ aside: false
 	<ChTab title="很生氣">
 		<Ch 
 			src='/images/characters/girl_3/angry2.webp' 
-			position='right'/>
+			position='center'/>
 		<ChName
-			nameZh='生氣'
-			nameEn='Angry'/>
+			nameZh='很生氣'
+			nameEn='Very Angry'/>
 	</ChTab>
 	<ChTab title="殺掉">
 		<Ch 
 			src='/images/characters/girl_3/angry3.webp' 
-			position='right'/>
+			position='center'/>
 		<ChName
 			nameZh='塊陶啊'
 			nameEn='Run!!'/>
 	</ChTab>
 	<ChTab title="害羞">
 		<Ch 
-			src='/images/characters/girl_3/shy3.webp' 
-			position='right'/>
+			src='/images/characters/girl_3/shy1.webp' 
+			position='center'/>
 		<ChName
 			nameZh='害羞'
 			nameEn='Shy'/>
+	</ChTab>
+	<ChTab title="害羞(放髮)">
+		<Ch 
+			src='/images/characters/girl_3/shy3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='害羞(放髮)'
+			nameEn='Shy (Hair Down)'/>
 	</ChTab>
 	<ChTab title="害羞...?">
 		<Ch 
 			src='/images/characters/girl_3/shy4.webp' 
-			position='right'/>
+			position='center'/>
 		<ChName
-			nameZh='害羞'
-			nameEn='Shy'/>
+			nameZh='害羞...?'
+			nameEn='Shy...?'/>
+	</ChTab>
+	<ChTab title="悲傷">
+		<Ch 
+			src='/images/characters/girl_3/sad1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='悲傷'
+			nameEn='Sad'/>
 	</ChTab>
 	<ChTab title="敗北">
 		<Ch 
 			src='/images/characters/girl_3/hurt.webp' 
-			position='right'/>
+			position='center'/>
 		<ChName
 			nameZh='敗北'
 			nameEn='Lose'/>
+	</ChTab>
+	<ChTab title="蒙面">
+		<Ch 
+			src='/images/characters/girl_3/special4.webp' 
+			position='center'/>
+		<ChName
+			nameZh='蒙面'
+			nameEn='Masked'/>
 	</ChTab>
 </ChTabs>
 
