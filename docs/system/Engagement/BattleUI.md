@@ -14,6 +14,10 @@ tags:
     - 開始
     - 對戰
     - 介面說明
+    - 戰鬥介面
+    - UI說明
+    - battle_ui
+
 ---
 
 ## {{ $frontmatter.title }}
@@ -32,4 +36,3 @@ tags:
 
 - <font size="4">技能與附加狀態區塊</font>
 <img class='guide-img' src='/images/Engagement/skills-effs.webp' alt='技能與附加狀態'>
-

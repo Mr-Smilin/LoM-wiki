@@ -248,6 +248,53 @@ const baseConfig = {
 					],
 				},
 			],
+			"/system/Engagement/": [
+				{
+					text: "對戰指南",
+					items: [
+						{
+							text: "對戰介面",
+							link: "/system/Engagement/BattleUI",
+						},
+						{
+							text: "一開始應該做些甚麼？",
+							link: "/other/guide/2-how-to-start",
+						},
+						{
+							text: "關於行動點",
+							link: "/other/guide/mechanism/action-point",
+						},
+						{
+							text: "關於心相",
+							link: "/other/guide/mechanism/mood",
+						},
+						{
+							text: "關於貢獻度",
+							link: "/other/guide/mechanism/contribution",
+						},
+						{
+							text: "關於能力值",
+							link: "/other/guide/mechanism/attribute",
+						},
+						{
+							text: "關於心上人",
+							link: "/other/guide/mechanism/dream-sweetheart",
+						},
+						{
+							text: "關於投降",
+							link: "/other/guide/mechanism/surrender",
+						},
+						{
+							text: "關於命運",
+							link: "/other/guide/mechanism/destiny",
+						},
+						{
+							text: "關於四師兄商店",
+							link: "/other/guide/mechanism/brother4-selling",
+						},
+					],
+				},
+			],
 		},
 
 		socialLinks: [
