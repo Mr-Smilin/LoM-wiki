@@ -257,8 +257,8 @@ const baseConfig = {
 							link: "/system/Engagement/BattleUI",
 						},
 						{
-							text: "一開始應該做些甚麼？",
-							link: "/other/guide/2-how-to-start",
+							text: "指令區塊",
+							link: "/system/Engagement/BattleCommand",
 						},
 						{
 							text: "關於行動點",

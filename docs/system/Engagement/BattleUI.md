@@ -26,13 +26,13 @@ tags:
 <br>
 對不明白的內容，將滑鼠移過去於該項目上一般都會顯示說明<br>
 多多利用，對制訂戰略很有幫助<br>
-對戰介面包含以下項目：<br>
+對戰介面包含以下區塊：<br>
 
-- <font size="4">指令區塊</font>
+- <font size="4">指令</font>
 <img class='guide-img' src='/images/Engagement/BattleCommand.webp' alt='指令介面'>
 
-- <font size="4">人物狀態區塊</font>
+- <font size="4">人物狀態</font>
 <img class='guide-img' src='/images/Engagement/Status.webp' alt='人物狀態'>
 
-- <font size="4">技能與附加狀態區塊</font>
+- <font size="4">技能與附加狀態</font>
 <img class='guide-img' src='/images/Engagement/skills-effs.webp' alt='技能與附加狀態'>
