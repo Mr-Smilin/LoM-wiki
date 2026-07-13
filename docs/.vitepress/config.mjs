@@ -257,16 +257,16 @@ const baseConfig = {
 							link: "/system/Engagement/BattleUI",
 						},
 						{
-							text: "指令區塊",
+							text: "指令",
 							link: "/system/Engagement/BattleCommand",
 						},
 						{
-							text: "關於行動點",
-							link: "/other/guide/mechanism/action-point",
+							text: "人物狀態",
+							link: "/system/Engagement/Status",
 						},
 						{
-							text: "關於心相",
-							link: "/other/guide/mechanism/mood",
+							text: "執行中技能",
+							link: "/system/Engagement/Skills",
 						},
 						{
 							text: "關於貢獻度",

@@ -34,5 +34,5 @@ tags:
 - <font size="4">人物狀態</font>
 <img class='guide-img' src='/images/Engagement/Status.webp' alt='人物狀態'>
 
-- <font size="4">技能與附加狀態</font>
-<img class='guide-img' src='/images/Engagement/skills-effs.webp' alt='技能與附加狀態'>
+- <font size="4">執行中技能</font>
+<img class='guide-img' src='/images/Engagement/skills-effs.webp' alt='執行中技能'>
