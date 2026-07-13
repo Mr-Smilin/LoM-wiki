@@ -269,28 +269,8 @@ const baseConfig = {
 							link: "/system/Engagement/Skills",
 						},
 						{
-							text: "關於貢獻度",
-							link: "/other/guide/mechanism/contribution",
-						},
-						{
-							text: "關於能力值",
-							link: "/other/guide/mechanism/attribute",
-						},
-						{
-							text: "關於心上人",
-							link: "/other/guide/mechanism/dream-sweetheart",
-						},
-						{
-							text: "關於投降",
-							link: "/other/guide/mechanism/surrender",
-						},
-						{
-							text: "關於命運",
-							link: "/other/guide/mechanism/destiny",
-						},
-						{
-							text: "關於四師兄商店",
-							link: "/other/guide/mechanism/brother4-selling",
+							text: "小建議",
+							link: "/system/Engagement/BattleTips",
 						},
 					],
 				},
