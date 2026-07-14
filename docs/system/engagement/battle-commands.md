@@ -1,5 +1,5 @@
 ---
-title: 戰鬥指令
+title: 對戰指令
 description: 戰你娘親
 aside: true
 outline: [2, 3]
