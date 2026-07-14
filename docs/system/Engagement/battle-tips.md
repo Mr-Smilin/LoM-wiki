@@ -23,8 +23,8 @@ tags:
 
 ### 敵方情報
 <div style="margin-top: 5px;"></div>
-<img class='guide-img' src='/images/Engagement/tip1.webp' alt='敵方情報'>
-<img class='guide-img' src='/images/Engagement/tip2.webp' alt='敵方情報'><div style="margin-top: 5px;"></div>
+<img class='guide-img' src='/images/engagement/tip1.webp' alt='敵方情報'>
+<img class='guide-img' src='/images/engagement/tip2.webp' alt='敵方情報'><div style="margin-top: 5px;"></div>
 點選紅圈位置可以看到自己的資訊<br>
 也可以看到敵方資訊<br>
 知己知彼，百戰不殆<br><br><br><br>

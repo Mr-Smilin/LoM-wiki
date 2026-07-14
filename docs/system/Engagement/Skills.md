@@ -21,7 +21,7 @@ tags:
 
 ## {{ $frontmatter.title }}
 
-<img class='guide-img' src='/images/Engagement/skills-effs2.webp' alt='執行中技能與支援'>
+<img class='guide-img' src='/images/engagement/skills-effs2.webp' alt='執行中技能與支援'>
 
 ### 技能
 <div style="margin-top: 5px;"></div>
@@ -29,7 +29,7 @@ tags:
 滑鼠移到上面就可以看到說明，多多利用<br>
 在技能下方如有菱形方塊，代表該技能有使用限制<br>
 可能為使用次數，或是代表剩餘回合數<div style="margin-top: 5px;"></div>
-<img class='guide-img' src='/images/Engagement/UsesLeft.webp' alt='剩餘使用次數'>
+<img class='guide-img' src='/images/engagement/user-left.webp' alt='剩餘使用次數'>
 
 
 ### 支援

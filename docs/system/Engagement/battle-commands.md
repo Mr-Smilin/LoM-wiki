@@ -25,7 +25,7 @@ tags:
 
 ## {{ $frontmatter.title }}
 
-<img class='guide-img' src='/images/Engagement/BattleCommand.webp' alt='指令'>
+<img class='guide-img' src='/images/engagement/battle-commands.webp' alt='指令'>
 
 ### 指令對戰規則
 <br>
@@ -54,8 +54,8 @@ tags:
 <div style="margin-top: 5px;"></div>
 成功可吸取對方氣（吸取範圍待確認），且會令對手依「修養」判定是否憤怒。<br>
 憤怒情況下只可捅人，如氣不夠捅人當回合閒置，恢復15氣並造成虛脫。<br>
-<img class='guide-img' src='/images/Engagement/Mad.webp' alt='憤怒'>
-<img class='guide-img' src='/images/Engagement/Exhaustion.webp' alt='虛脫'><div style="margin-top: 5px;"></div>
+<img class='guide-img' src='/images/engagement/mad.webp' alt='憤怒'>
+<img class='guide-img' src='/images/engagement/exhaustion.webp' alt='虛脫'><div style="margin-top: 5px;"></div>
 
 * **修養影響憤怒機率：**<br>
 　　瘋狂—暴躁—中庸—沉著—君子<br>
@@ -64,7 +64,7 @@ tags:
 ### 捅人
 <div style="margin-top: 5px;"></div>
 即一般攻擊，但成功後依「性情」可能造成膽怯。<br>
-<img class='guide-img' src='/images/Engagement/Fearful.webp' alt='膽怯'><div style="margin-top: 5px;"></div>
+<img class='guide-img' src='/images/engagement/fearful.webp' alt='膽怯'><div style="margin-top: 5px;"></div>
 
 * **性情影響膽怯機率：** <br>
 　　懦夫—謹慎—中庸—勇敢—莽夫<br>
@@ -78,7 +78,7 @@ tags:
 ### 暗器
 <div style="margin-top: 5px;"></div>
 暗器命中可額外造成血毒、神經毒的累積，詳細請看人物狀態一欄。<br>
-<img class='guide-img' src='/images/Engagement/PoisonGauge.webp' alt='毒素累積'><div style="margin-top: 5px;"></div>
+<img class='guide-img' src='/images/engagement/poison-gauge.webp' alt='毒素累積'><div style="margin-top: 5px;"></div>
 被暗器命中一方依「性情」可獲得附加狀態「迎難而上」或「提防暗器」1回合。<br>
 
 * **迎難而上：捅人不會被暗器阻止行動**<br>
@@ -92,4 +92,4 @@ tags:
 <div style="margin-top: 5px;"></div>
 根據氣量、狀態會分別達到境界一、二、三。<br>
 境界等級影響傷害、減傷、特殊技能施放、絕招對撞。<br>
-<img class='guide-img' src='/images/Engagement/StateLevel.webp' alt='境界'><div style="margin-top: 5px;"></div>
+<img class='guide-img' src='/images/engagement/state-level.webp' alt='境界'><div style="margin-top: 5px;"></div>

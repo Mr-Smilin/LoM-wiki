@@ -25,7 +25,7 @@ tags:
 
 ## {{ $frontmatter.title }}
 
-<img class='guide-img' src='/images/Engagement/Status.webp' alt='人物狀態'>
+<img class='guide-img' src='/images/engagement/status.webp' alt='人物狀態'>
 <br>
 此區塊會顯示血量、氣量、境界等級、血毒、神經毒、對戰中產生的削弱狀態。<br>
 以下說明的內容對敵我雙方皆適用。<br>
