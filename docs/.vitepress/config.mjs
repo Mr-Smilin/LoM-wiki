@@ -50,6 +50,7 @@ const baseConfig = {
 					{ text: "門派設施", link: "/system/facility" },
 					{ text: "秘笈列表", link: "/system/books/" },
 					{ text: "技能效果", link: "/system/skill" },
+					{ text: "對戰教學", link: "/system/engagement/battle-ui" },
 					{ text: "煉丹效果", link: "/system/pills" },
 					{ text: "鍛冶場、煉丹房開發路線圖", link: "/system/forge-roadmap" },
 					{ text: "道具列表", link: "/system/items" },
@@ -243,6 +244,33 @@ const baseConfig = {
 						{
 							text: "關於四師兄商店",
 							link: "/other/guide/mechanism/brother4-selling",
+						},
+					],
+				},
+			],
+			"/system/engagement/": [
+				{
+					text: "對戰指南",
+					items: [
+						{
+							text: "對戰介面",
+							link: "/system/engagement/battle-ui",
+						},
+						{
+							text: "對戰指令",
+							link: "/system/engagement/battle-commands",
+						},
+						{
+							text: "人物狀態",
+							link: "/system/engagement/status",
+						},
+						{
+							text: "執行中技能",
+							link: "/system/engagement/skills",
+						},
+						{
+							text: "小建議",
+							link: "/system/engagement/battle-tips",
 						},
 					],
 				},
