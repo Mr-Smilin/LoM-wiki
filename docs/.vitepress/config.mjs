@@ -257,7 +257,7 @@ const baseConfig = {
 							link: "/system/engagement/battle-ui",
 						},
 						{
-							text: "指令",
+							text: "對戰指令",
 							link: "/system/engagement/battle-commands",
 						},
 						{
