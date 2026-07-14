@@ -1,5 +1,5 @@
 ---
-title: 指令
+title: 戰鬥指令
 description: 戰你娘親
 aside: true
 outline: [2, 3]
@@ -25,7 +25,7 @@ tags:
 
 ## {{ $frontmatter.title }}
 
-<img class='guide-img' src='/images/engagement/battle-commands.webp' alt='指令'>
+<img class='guide-img' src='/images/engagement/battle-commands.webp' alt='戰鬥指令'>
 
 ### 指令對戰規則
 <br>
