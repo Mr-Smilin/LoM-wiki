@@ -31,12 +31,12 @@ tags:
 			</ChTr>
 			<ChTr>
                 <ChTd position='center'>
-                    [完顏珣](/ja/people/characters/wanyan-xuan) (皇帝)
+                    [完顏珣](/ja/people/characters/special819) (皇帝)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [僕散安貞](/ja/people/characters/pushang-anzhen) (元帥)
+                    [僕散安貞](/ja/people/characters/other6) (元帥)
                 </ChTd>
             </ChTr>
 		</table>
@@ -56,9 +56,9 @@ tags:
 
 <br>
 
-現在のところ、養龍苑武士・陳序だけが、龍湘の破廟事件で登場しており、師傳の武功は翻雲覆雨手です。
+現在のところ、養龍苑武士の[陳序](/ja/people/characters/group1)だけが、龍湘の破廟事件で登場しており、師から伝わった武功は翻雲覆雨手です。
 
 ## 備考
 
-- 完顏珣と龍淵は過去に義兄弟の盟約を結びましたが、[極樂教との決戦](/ja/event/stories/決戰極樂教)後に関係を絶ちました。龍湘は彼女の姪娘です。
+- 完顏珣と龍淵は過去に義兄弟の契りを結びましたが、[極樂教との決戦](/ja/event/stories/決戰極樂教)後に絶交しました。龍湘はその姪にあたります。
 - [全真派](/ja/people/factions/quan-zhen-sect)と[嵩山派](/ja/people/factions/mount-song-sect)は一方が陝西に、もう一方が河南にあり、両方とも金国の領土です。両派ともに金国と友好関係にあるのに、いまだに中原六大派を自称しており、これは多くの人から非難されています。

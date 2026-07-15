@@ -25,11 +25,11 @@ tags:
 
 ## 条件とフロー
 
-<strong>条件：</strong>夏侯蘭に拜師していない<Girl5Icon>夏侯蘭</Girl5Icon><br>
+<strong>条件：</strong><Girl5Icon>夏侯蘭</Girl5Icon>に拜師していない<br>
 **フロー：**<br>
 1. 三年目五月上旬、比武招親の夜に[金烏上人](/ja/people/characters/special207)が襲来。**📜「不講武德群而毆之」**を選択、⚔️混戦で敗戦。道德≧40【中庸、好人、侠客】なら本エンディングに到達。
 
 ## 分岐と変化
 
 ### 小師妹同行時の下山
-唐默鈴が同行下山する場合（心上人 唐默鈴で好感度≧50が必要）、唐默鈴は[金烏上人](/ja/people/characters/special207)に点穴され連れ去られるが、伝説テキストには影響しない。
+<Girl0Icon>小師妹</Girl0Icon>が同行して下山する場合（心上人が<Girl0Icon>唐默鈴</Girl0Icon>で、かつ<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50が必要）、<Girl0Icon>小師妹</Girl0Icon>は[金烏上人](/ja/people/characters/special207)に点穴され連れ去られるが、伝説テキストには影響しない。

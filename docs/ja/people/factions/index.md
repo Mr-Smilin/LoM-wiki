@@ -29,9 +29,9 @@ tags:
 
 江湖の人々はこう言います。上官は智を尚び、南宮は仁を尚び、唐門は勇を尚びます。各家とも美談が絶えません。
 
--   [唐門](/ja/people/factions/tang-sect)
+-   [唐門](/ja/people/factions/tang-men)
 -   [南宮世家](/ja/people/factions/nan-gong-family)
--   [上官世家](/ja/people/factions/shangguan-family)
+-   [上官世家](/ja/people/factions/shang-guan-family)
 
 ## 六大派
 
@@ -44,7 +44,7 @@ tags:
 
 ## 大幫派
 
--   [丐幫](/ja/people/factions/beggar-clan)
+-   [丐幫](/ja/people/factions/beggar-gang)
 -   [滄幫](/ja/people/factions/cang-gang)
 -   [飛石幫](/ja/people/factions/flying-stone-gang)
 -   [白鯊幫](/ja/people/factions/white-shark-gang)
@@ -56,7 +56,7 @@ tags:
 
 ## 宮樓
 
--   [千燈樓](/ja/people/factions/thousand-lamp-tower)
+-   [千燈樓](/ja/people/factions/thousand-lantern-tower)
 -   [錦香宮](/ja/people/factions/jin-xiang-palace)
 -   [火炎山劍閣](/ja/people/factions/mount-fire-palace)
 
@@ -71,7 +71,7 @@ tags:
 
 -   [雪山派](/ja/people/factions/mount-snow-sect)
 -   [孤雲山派](/ja/people/factions/mount-guyun-sect)
--   [杏花林](/ja/people/factions/apricot-flower-forest)
+-   [杏花林](/ja/people/factions/apricot-forest)
 -   [耕陽讀書齋](/ja/people/factions/geng-yang-study)
 -   [嶺南派](/ja/people/factions/lingnan-sect)
 

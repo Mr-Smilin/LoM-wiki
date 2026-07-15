@@ -55,27 +55,27 @@ tags:
      1. 🆚2人の刺客と決闘、勝利が必要。
      2. **🎲運命：武林盟の消耗……**(上限50、➕加値：(西武林盟の)向心、➖減値：(武林盟の)向心、その他多様な調整値)：
         + 調整値リストと条件：
-        - ➕罠を設置する 5：[眾人の決策|掌門の牌令を引き継いだ後に罠を設置](/ja/event/detailed_description/3-12-1-眾人的決策)。
-        - ➕四師兄の悪辣な手段 5：[四師兄遠遊經商|四師兄が唐門に戻る](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)。
+        - ➕罠を設置する 5：[掌門の牌令を引き継いだ後に罠を設置](/ja/event/detailed_description/3-12-1-眾人的決策)。
+        - ➕四師兄の悪辣な手段 5：[四師兄が唐門に戻る](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)。
         - ➕嵩山十八銅人 10：[福韞](/ja/people/characters/special206)が唐門に入門。
-        - ➕丐幫 15：[眾人の決策|李富貴が丐幫(新派)を説得](/ja/event/detailed_description/3-12-1-眾人的決策)。
-        - ➕丐幫 5：[眾人の決策|大義分舵が唐門外姓弟子になる](/ja/event/detailed_description/3-12-1-眾人的決策)。
-        - ➖丐幫 5：[眾人の決策|大義分舵が唐門外姓弟子になる](/ja/event/detailed_description/3-12-1-眾人的決策)。
-        - ➕峨嵋派 5：[眾人の決策|峨嵋派が西武林盟を支援](/ja/event/detailed_description/3-12-1-眾人的決策)。
-        - ➖峨嵋派 5：[眾人の決策|峨嵋派が武林盟を支援](/ja/event/detailed_description/3-12-1-眾人的決策)。
-        - ➕飛石幫 10：[眾人の決策|飛石幫が西武林盟を支援](/ja/event/detailed_description/3-12-1-眾人的決策)。
-        - ➕錦香宮支援 10：[眾人の決策|錦香宮が西武林盟を支援](/ja/event/detailed_description/3-12-1-眾人的決策)。
+        - ➕丐幫 15：[李富貴が丐幫(新派)を説得](/ja/event/detailed_description/3-12-1-眾人的決策)。
+        - ➕丐幫 5：[大義分舵が唐門外姓弟子になる](/ja/event/detailed_description/3-12-1-眾人的決策)。
+        - ➖丐幫 5：[大義分舵が唐門外姓弟子になる](/ja/event/detailed_description/3-12-1-眾人的決策)。
+        - ➕峨嵋派 5：[峨嵋派が西武林盟を支援](/ja/event/detailed_description/3-12-1-眾人的決策)。
+        - ➖峨嵋派 5：[峨嵋派が武林盟を支援](/ja/event/detailed_description/3-12-1-眾人的決策)。
+        - ➕飛石幫 10：[飛石幫が西武林盟を支援](/ja/event/detailed_description/3-12-1-眾人的決策)。
+        - ➕錦香宮支援 10：[錦香宮が西武林盟を支援](/ja/event/detailed_description/3-12-1-眾人的決策)。
         - ➖南宮世家 15：無条件。
         - ➖上官世家 15：無条件。
-        - ➖丐幫 15：[眾人の決策|大義分舵が解散](/ja/event/detailed_description/3-12-1-眾人的決策)。
+        - ➖丐幫 15：[大義分舵が解散](/ja/event/detailed_description/3-12-1-眾人的決策)。
         - ➖全真派 15：無条件。
         - ➖嵩山派 10：無条件。
-        - ➖崆峒派 10：[眾人の決策|崆峒派が武林盟を支援](/ja/event/detailed_description/3-12-1-眾人的決策)且つ[金烏上人が死亡](/ja/event/detailed_description/3-12-1-眾人的決策)
+        - ➖崆峒派 10：[崆峒派が武林盟を支援](/ja/event/detailed_description/3-12-1-眾人的決策)且つ[金烏上人が死亡](/ja/event/detailed_description/3-12-1-眾人的決策)
         - <span style='color: Red;'>未確認</span>：青城派の態度、滄幫買収、連環火箭などの貴重品所有。錦香宮が武林盟を支援、金烏上人存命。
      3. **🧾【＜45】損傷が軽微で、西武林盟を徹底的に踏みにじった**または**🧾【＜90】激しい抵抗に遭い、損失が甚大**、⚔️戦役、完全に打ちのめされて且つ[南宮深](/ja/people/characters/special102)好感度＜20を満たす場合、エンディング進入。
    + **📜議題：戦役：唐門出撃**：
      1. 途中のプロセスは複数の組み合わせがあり、ほとんど影響しないが、以下の条件を満たす場合は特別な要件あり：
-        + [武林大會](/ja/event/simple/1-12-1-南宮壽宴)が錦香宮を支援していない、[丹霞子](/ja/people/characters/special404)が唐門に入門していない、**📖選択：門を堅く閉ざす**時、内功≧20かつ性情≧20が必要。
+        + 武林大會が錦香宮を支援していない、[丹霞子](/ja/people/characters/special404)が唐門に入門していない、**📖選択：門を堅く閉ざす**時、内功≧20かつ性情≧20が必要。
           + 上記に加えて、<Girl5Icon>夏侯蘭</Girl5Icon>と結縁している場合、🆚決闘：[萬里鵬程](/ja/people/characters/special6)、勝利が必要。
      2. 最初の⚔️戦役の勝敗は問わない、**📜議題：決策の時間**：**📖選択：兵を二手に分け、片方は外堡で守り、片方は大院で決戦準備**。
      3. **🎲運命：武林盟の消耗……**(上限60、➕加値：(西武林盟の)向心、➖減値：(武林盟の)向心、その他多様な調整値)：
@@ -97,9 +97,9 @@ tags:
 ### 結縁対象
 結縁対象により異なるエンディング、伝説テキストに影響する。
 + <Girl8Icon>龍湘</Girl8Icon>：主人公と共に戦死。
-+ <Girl0Icon>唐默鈴</Girl0Icon>：超虐心の<Girl0Icon>小師妹</Girl0Icon>が独生き残る。
++ <Girl0Icon>唐默鈴</Girl0Icon>：超虐心の<Girl0Icon>小師妹</Girl0Icon>が独り生き残る。
 + <Girl5Icon>夏侯蘭</Girl5Icon>：[樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門しているかどうかで2つのシナリオ、伝説テキストに影響する。
-  + [樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門：主人公の屍体を雪山に持って帰り安葬し、[樊嘯天|樊咲嫣](/ja/people/characters/special4)が嫁ぐまで待った後、失踪。
+  + [樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門：主人公の屍体を雪山に持って帰り安葬し、[樊咲嫣](/ja/people/characters/special4)が嫁ぐまで待った後、失踪。
   + 上記の条件を満たさない場合：主人公の屍体を雪山に持って帰り安葬し、生涯墓を守る。
 
 <br>※壮烈なる就義エンディング結縁優先度(v1.0.3201.1)：<Girl8Icon>龍湘</Girl8Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
@@ -109,7 +109,7 @@ tags:
 
 ### 唐門に入門した成員
 + [葉雲舟](/ja/people/characters/special3)：未確認
-+ [樊嘯天](/ja/people/characters/special4)：<Girl8Icon>龍湘</Girl8Icon>、<Girl4Icon>上官螢</Girl4Icon>、<Girl3Icon>虞小梅</Girl3Icon>、<Girl6Icon>郁竹</Girl6Icon>と結縁していず、且つ[樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に拜師していない場合、戦死シナリオが追加。伝説テキストに影響しない。
++ [樊嘯天](/ja/people/characters/special4)：<Girl8Icon>龍湘</Girl8Icon>、<Girl4Icon>上官螢</Girl4Icon>、<Girl3Icon>虞小梅</Girl3Icon>、<Girl6Icon>郁竹</Girl6Icon>と結縁しておらず、且つ[樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に拜師していない場合、戦死シナリオが追加。伝説テキストに影響しない。
 
 ### 点蒼剣鬼
 (推論)<Girl2Icon>葉雲裳</Girl2Icon>が唐門に残りながら死亡した場合、点蒼剣鬼になった[葉雲舟](/ja/people/characters/special3)が到着して戦死する可能性がある。

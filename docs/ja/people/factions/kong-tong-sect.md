@@ -27,7 +27,7 @@ tags:
 ### 飛天門
 
 <InfoList position="right">
-	<Info title="陣營資料" :open=true>
+	<Info title="陣営資料" :open=true>
 		<table>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -85,7 +85,7 @@ tags:
 ### 奪魄門
 
 <InfoList position="right">
-	<Info title="陣營資料" :open=true>
+	<Info title="陣営資料" :open=true>
 		<table>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -135,7 +135,7 @@ tags:
 ### 鐵拳門
 
 <InfoList position="right">
-	<Info title="陣營資料" :open=true>
+	<Info title="陣営資料" :open=true>
 		<table>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -181,7 +181,7 @@ tags:
 ### 玄功門
 
 <InfoList position="right">
-	<Info title="陣營資料" :open=true>
+	<Info title="陣営資料" :open=true>
 		<table>
 			<ChTr>
 				<ChTd isTitle=true>

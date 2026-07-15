@@ -29,32 +29,32 @@ tags:
 			</ChTr>
 			<ChTr>
                 <ChTd position='center'>
-                    [南溪](/ja/people/characters/nanxi) (先掌門千金)
+                    [南溪](/ja/people/characters/special829) (先掌門千金)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [晁和](/ja/people/characters/chao-he) (前大師兄)
+                    [晁和](/ja/people/characters/special208) (前大師兄)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [林志恆](/ja/people/characters/lin-zhiheng) (現大師兄)
+                    [林志恆](/ja/people/characters/lingnan_trainee1) (現大師兄)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [阮蛋](/ja/people/characters/ruan-dan) (弟子)
+                    [阮蛋](/ja/people/characters/lingnan_trainee2) (弟子)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [米歐寬](/ja/people/characters/mi-oukuan) (女弟子)
+                    [米歐寬](/ja/people/characters/lingnan_trainee3) (女弟子)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [陳倔](/ja/people/characters/chen-que) (弟子)
+                    [陳倔](/ja/people/characters/lingnan_trainee4) (弟子)
                 </ChTd>
             </ChTr>
 		</table>
@@ -132,4 +132,4 @@ tags:
 
 - 段智秀が嶺南派を訪れた時、どこかの大王の山寨だと思っていました。破落戸ぶりが窺えます。
 - 段智秀は本当に便餅を噛み、口水茶を飲みました。入門の儀式なのか、それとも彼が騙されやすいだけなのか？
-- 現掌門は実は[無相祖師](/ja/people/characters/wuxiang-zushi)が変装しており、意図的にこの派を毀損させているのです。
+- 現掌門は実は[無相祖師](/ja/people/characters/special212_2)が変装しており、意図的にこの派を毀損させているのです。

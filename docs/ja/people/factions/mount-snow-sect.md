@@ -12,7 +12,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <InfoList position="right">
-	<Info title="陣營資料" :open=true>
+	<Info title="陣営資料" :open=true>
 		<table>
 			<ChTr>
 				<ChTd isTitle=true>

@@ -27,7 +27,7 @@ tags:
 
 <strong>条件：</strong>[李富貴](/ja/people/characters/special809)の好感度＜20、スキル：戦術＜5またはスキル戦術＜8、学問＜60<br>
 **フロー：**<br>
-1. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20、[金烏上人](/ja/people/characters/special207)が存活またはスキル：戦術＜5またはスキル戦術＜8、学問＜60の場合、[西武林盟を成立できない決策](/ja/event/detailed_description/3-12-1-眾人的決策)に進む。
+1. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20、[金烏上人](/ja/people/characters/special207)が存命またはスキル：戦術＜5またはスキル戦術＜8、学問＜60の場合、[西武林盟を成立できない決策](/ja/event/detailed_description/3-12-1-眾人的決策)に進む。
 2. 敵と隠居について投票を実施：[四師兄](/ja/people/characters/brother4)が帰還した場合、[四師兄](/ja/people/characters/brother4)の投票が追加される。小師妹と婚約した場合、<Girl0Icon>小師妹</Girl0Icon>の投票が追加される。
    + 主人公の決策：
      + **📜議題「決策：敵と戦う」**：敵と戦う＋１票。
@@ -48,7 +48,7 @@ tags:
    + 票が同数で[三師兄](/ja/people/characters/brother3)が江湖から隠居を選択し、🗡️[三師兄](/ja/people/characters/brother3)との決闘に敗戦。
 5. 大門へ向かい、他の門人解散エンディング(汗青書24～31)の条件を満たさない場合、エンディングに進む。
 
-### ※金烏上人の死亡(成就未達成で存活)
+### ※金烏上人の死亡(成就未達成で存命)
 ::: details
 1. 第二年二月上旬唐門会議で、
    + **📜議題「崆峒派留学に行きたい」**。第二年十月下旬、<Girl3Icon>虞小梅</Girl3Icon>の好感度≧20：<Girl3Icon>虞小梅</Girl3Icon>が唐門に加入
