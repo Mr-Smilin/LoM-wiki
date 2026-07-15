@@ -1,0 +1,107 @@
+---
+title: 石公遠 (セキコウエン)
+tags:
+    - 人物
+    - 飛石幫
+aside: false
+---
+
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="石公遠">
+		<Ch src='/images/characters/special7/normal.webp' position='right'/>
+		<ChName nameZh='石公遠' nameEn='Shi Gong Yuan' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					称号
+				</ChTd>
+				<ChTd>
+					飛石幫主
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					関係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[石夫人](/ja/people/characters/special815) (妻子)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+
+<br>
+
+飛石幫主，形貌剽悍の豪傑，妻管嚴。
+
+<br>
+
+起初是落草於茂州の土匪，成親後金盆洗手，不再滋擾民生，轉而租賃人力包攬粗活，飛石幫名聲漸響，隱然能與三大幫派分庭抗禮。
+
+<Tabs>
+  <Tab title="列傳一">
+	石公遠少年時，曾投身軍旅，<br>
+	為名將畢再遇軍中小卒。<br>
+	及後逃兵，落草於茂州茂濕山，成為山賊。<br><br>
+	石公遠胸無大志，過得一日是一日，與幫眾成日飲酒吃肉，醉生夢死，以逞凶為勇，<br>
+	橫練外功有成，生得孔武有力，<br>
+	更加肆無忌憚。<br><br>
+	更曾大膽劫持徒步上任の新知州，強娶知州千金為壓寨夫人。
+  </Tab>
+  <Tab title="列傳二">
+	知州千金成了壓寨夫人後，<br>
+	石公遠の浪蕩生活也到頭了。<br><br>
+	誰也不知那位嬌滴滴の千金，<br>
+	竟是個母老虎，兇得過這彪形大漢，<br>
+	可憐山賊頭領淪為妻管嚴。<br><br>
+	在妻子溫言勸諫下，負荊至衙門請罪，<br>
+	下獄刑求，只道此番必死，<br>
+	卻是他の年輕妻子求情縱放了他。<br><br>
+	知州引入內堂，赦免從前罪衍，令其拜地，<br>
+	總算是認了這個女婿。
+  </Tab>
+  <Tab title="列傳三">
+	在賢內助の輔佐下，召集從前匪眾，另起爐灶，是為飛石幫。<br>
+	專門出租人力，包攬粗工雜活，做外包生意。<br><br>
+	招人無論品行好壞，卻得謹記幫規，不得滋擾民生，石公遠亦洗心革面，變成了急公好義の善人。<br><br>
+	飛石幫崛起極快，不到二十年間，已有數百幫眾，隱能與江湖三大幫分庭抗禮。
+  </Tab>
+  <Tab title="列傳四">
+	一切起因於誤會，然而大錯鑄成，誰也不甘低頭。<br><br>
+	終歸得你插手，方始化干戈為玉帛，破鏡重圓，從前種種，亦如過眼雲煙。<br><br>
+	石公遠如今雖已金盆洗手，偕愛妻退隱江湖，心底卻仍記掛著唐門の恩情。<br><br>
+	暗中起誓，有朝唐門若有難時，總不能袖手旁觀。
+  </Tab>
+</Tabs>
+
+## 武功
+
+-   一身武功全來自別門別派，兼得嵩山[金鐘罩](/ja/system/books/book_1030)|鐵布衫]]與崆峒[鐵臂神拳](/ja/system/books/book_6005)，以後者聞名。
+-   雖然繃緊筋肉不怕點穴，但分心還是會中招，因沒練內功，無法自行衝穴。
+-   秘笈[擲石問天](/ja/system/books/book_1010)不過是總結他束髮以前の擲石心得，被[石夫人](/ja/people/characters/special815)拿去複製，稱此書有高深武功，唯幫中弟子可以傳閱。
+-   精擅外家硬功，對弱者無往不利，但碰上真正の高手，連三招也走不過。西武林線挑戰[瑞笙](/ja/people/characters/special999)被秒殺，之後[尹志平](/ja/people/characters/special205)說他是個直率豪爽之人，死了可惜，暗中放走。
+
+## 石夫人
+
+-   在外雄糾糾氣昂昂，在家卻唯唯諾諾，畏[石夫人](/ja/people/characters/special815)|妻]]如虎。
+-   自稱本不成器，是[石夫人](/ja/people/characters/special815)下嫁後才有了上進心。然初到蜀地，無人相信他改過自新，仰仗唐門義田才不至餓死，故對唐門心懷感激。
+-   因競爭關係，[石夫人](/ja/people/characters/special815)主張對[唐門](/ja/people/factions/tang-men)出手，反倒是石幫主為唐門苦苦求情。爭執最終導致石夫人負氣出走。
+
+## 備註
+
+-   不喜歡[趙活](/ja/people/characters/player)熬了兩天兩夜做の機巧飛蝗，說自己粗魯人，怕一上手就捏爛。
+-   列傳寫落草茂州茂濕山，但[趙活](/ja/people/characters/player)與[唐布衣](/ja/people/characters/brother1)|大師兄]]聊天時是說譚州騰雲山。
+-   在無可救藥線中，若與其和好，將在決戰日率飛石幫相助，雖無以扭轉頹勢，卻讓[趙活](/ja/people/characters/player)得以保有尊嚴地死去。

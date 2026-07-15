@@ -1,0 +1,83 @@
+---
+title: 趙逵 (チョウキ)
+aside: false
+outline: [2, 3]
+sidebar: false
+borderless: false
+tags:
+    - 人物
+    - 青城派
+    - 泥教
+    - 地獄道
+---
+
+# {{ $frontmatter.title }}
+
+<ChTabs position="bottom">
+	<ChTab title="趙逵">
+		<Ch src='/images/characters/special403/normal.webp' position='right'/>
+		<ChName nameZh='趙逵' nameEn='Zhao Kui' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					称号
+				</ChTd>
+				<ChTd>
+					地獄道法王
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					関係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[車軒轅](/ja/people/characters/special409) (同教)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[劉顎](/ja/people/characters/special1) (同教)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[鄒博](/ja/people/characters/special201) (師兄)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+
+> 「爾等枉稱俠士，一口一個正邪，殊不知自己惡貫滿盈！地獄道判官趙逵在此！妖魔鬼怪，還敢造～次！」
+
+[泥教](/ja/people/factions/mud-school)地獄道法王，神出鬼沒，四処私刑殺人，黒白両道都遭殃。又會跳大神，鬼氣森森的，[泥教](/ja/people/factions/mud-school)名聲那麼臭，與此人脫不了關係。
+<br><br>
+原為青城派[鄒博](/ja/people/characters/special201)の師弟，於[青城論道](/ja/event/stories/青城論道)遭[火龍仙君](/ja/people/characters/special204)曲解道籍，道心沉淪。隨後[決戰極樂教](/ja/event/stories/決戰極樂教)，飲敗於極樂[李元棄](/ja/people/characters/special213)|左護法]]の魔功之下，性情益發暴戾，最後墮落成地獄道法王。
+<br><br>
+成名絕技は「天師劍法」。
+
+## 青城問道
+
+-   揶揄[鄒博](/ja/people/characters/special201)胖了不少，卻說自己是壯，不一樣。
+-   若欣賞[趙活](/ja/people/characters/player)，在入青城與[鄒博](/ja/people/characters/special201)交手時會將趙活點穴留在場上。
+-   本來挺中意[趙活](/ja/people/characters/player)相貌，想傳他幾招，攜去地獄道陰曹，出任鬼卒。後來被吵得煩，就算了。
+-   特地尋回[青城派](/ja/people/factions/qing-cheng-sect)失佚多年的掌門信物「天師令」當作對付青城殺手鐧，卻因[鄒博](/ja/people/characters/special201)不與他為難而未用上，索性還給青城。
+-   稱虧欠恩師的以還不清了。雖[鄒博](/ja/people/characters/special201)允他以青城弟子身分親自上秉恩師之靈，謝罪並歸還天師令，卻因找不到願意代表他出場比試的青城子弟而作罷。
+-   放話要殺[鐵冠道人](/ja/people/characters/special212)。
+
+## 備註
+
+-   相貌粗獷，其實粗中有細，文武雙全。
+-   嫉惡如仇，看厭人間不公不義。蒼天不管的，他來管；官府不辦的，他來辦。甘願引火自焚，化身地獄烈焰，燒滅塵世一切不淨。
+-   如果[趙活](/ja/people/characters/player)於比武招親上殺了[金烏上人](/ja/people/characters/special207)，人人會說連九命豹子到頭也難逃一死，想必是閻王使者，又是姓趙，說不定和地獄道法王趙逵有關，唐門名聲受你所累。
+-   在[趙活](/ja/people/characters/player)於西武林決戰[無相祖師](/ja/people/characters/special212_2)的時候，與[鄒博](/ja/people/characters/special201)合力替趙活製造機會。
