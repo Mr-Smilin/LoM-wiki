@@ -32,7 +32,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[虞小梅](/ja/people/characters/girl4.md) (飼い主)
+					[虞小梅](/ja/people/characters/girl3.md) (飼い主)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -50,7 +50,7 @@ tags:
 
 > 「ガァー！」
 
-崆峒派飛天門の[虞小梅](/ja/people/characters/girl4.md)が飼う仙鶴。鳴き声は極めて耳障り。
+崆峒派飛天門の[虞小梅](/ja/people/characters/girl3.md)が飼う仙鶴。鳴き声は極めて耳障り。
 
 <br><br>
 

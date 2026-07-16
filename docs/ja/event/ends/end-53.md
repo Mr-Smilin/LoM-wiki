@@ -26,7 +26,7 @@ tags:
 </EndBackground>
 
 ## 条件
-青城留学の冒頭で、道德が悪人以上で、[申屠龍](/ja/people/characters/special404)が脈を診ようとする時に、【いやだ】を選択して戦闘、戦闘に勝利。
+青城留学の冒頭で、道德が悪人以上で、[申屠龍](/ja/people/characters/special405)が脈を診ようとする時に、【いやだ】を選択して戦闘、戦闘に勝利。
 
 ## 備考
 - 若し道德が悪人なら、バッドエンド<BadendIcon :no="95">生死簿95「快剣封喉」</BadendIcon>をトリガー。

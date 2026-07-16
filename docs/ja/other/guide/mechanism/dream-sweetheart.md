@@ -37,4 +37,4 @@ tags:
 
 ---
 
-<!--@include: @/people/dream-sweetheart.md-->
+<!--@include: @/ja/people/dream-sweetheart.md-->

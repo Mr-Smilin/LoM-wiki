@@ -88,7 +88,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [唐默鈴](/ja/people/characters/girl2.md) (異父妹妹)
+                    [唐默鈴](/ja/people/characters/girl0.md) (異父妹妹)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -98,7 +98,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [畫中仙](/ja/people/characters/firebird1.md) (スパイ)
+                    [畫中仙](/ja/people/characters/special813.md) (スパイ)
                 </ChTd>
             </ChTr>
         </table>
@@ -115,7 +115,7 @@ aside: false
 
 <br>
 
-しかし唯一[唐默鈴](/ja/people/characters/girl2.md)（小師妹）だけは、彼を恐れず、反って二師兄を信頼している。
+しかし唯一[唐默鈴](/ja/people/characters/girl0.md)（小師妹）だけは、彼を恐れず、反って二師兄を信頼している。
 
 <div style="clear:both;"></div>
 
@@ -176,12 +176,12 @@ aside: false
 -   スパイの身分で[錦香宮](/ja/people/factions/jin-xiang-palace)に入る際、男装することは「ない」。~~ちぇっ~~[^1]
 -   錦香宮が風雨山で剣鞘の絹索を焼いて生じた毒煙は、[溫夫人](/ja/people/characters/special402)が二師兄に暗に手配させたものである。
 -   [袁無憲](/ja/people/characters/special823)とともに新極楽七仙の一人。[大師兄](/ja/people/characters/brother1.md)が[申屠龍](/ja/people/characters/special405)の暗殺に失敗した際、二人で現身して教主を護衛するふりをしながら、実は暗に彼の命を救おうとしていた。
--   極楽左使と多少の淵源がある。[趙活](/ja/people/characters/player)と[葉雲裳](/ja/people/characters/girl0.md)を救うために、自分が[千燈樓](/ja/people/factions/thousand-lantern-tower)に遺棄されたことすら許すことができた。
+-   極楽左使と多少の淵源がある。[趙活](/ja/people/characters/player)と[葉雲裳](/ja/people/characters/girl2.md)を救うために、自分が[千燈樓](/ja/people/factions/thousand-lantern-tower)に遺棄されたことすら許すことができた。
 
 ## 備考
 
 -   鳥熊 FB の紹介：[リンク](https://www.facebook.com/photo/?fbid=119387853792735&set=pcb.119387933792727)
--   誕生日は9/9で乙女座。[華仙兒](/ja/people/characters/firebird1.md)が[趙活](/ja/people/characters/player)に山鶏を捕まえるよう言いつけた時は丁度九月上旬だった。[^2]
+-   誕生日は9/9で乙女座。[華仙兒](/ja/people/characters/special813.md)が[趙活](/ja/people/characters/player)に山鶏を捕まえるよう言いつけた時は丁度九月上旬だった。[^2]
 -   二師兄は冗談をしない。死にたいなんて言うなよ。<BadendIcon :no="4">生死簿 No.4</BadendIcon>
 -   [趙活](/ja/people/characters/player)を「廃物」「趙氏蠢豚」と呼ぶ。
 -   心は優しいが口は悪い。好感度が高いほど、より激しく罵るが、好感度はますます上げやすくなる。
@@ -190,10 +190,10 @@ aside: false
 -   玉佩はかつて[掌門](/ja/people/characters/master.md)と師娘のもの。掌門のは[大師兄](/ja/people/characters/brother1.md)に、師娘のは二師兄の手にある。~~誓いの品かな~~。[出典](https://www.plurk.com/p/3g9a4xb0oh)
 -   胡椒粉が大好き。昔[唐門](/ja/people/factions/tang-men)の人数が少なかった頃、[趙活](/ja/people/characters/player)がどんな料理を作ろうと、彼は必死に胡椒粉を加えた。他人が食べなければ不機嫌になり、新入りが増えてやっと止めた。
 -   [趙活](/ja/people/characters/player)は二師兄がいない隙に彼の粉を盗んで胡椒餅を作ったことがあり、打撲を受けた。
--   [大師兄](/ja/people/characters/brother1.md)とともに、ある小師姑に暗に思いを寄せていたことがある。それは[唐芳](/ja/people/characters/special832)の姉の唐芬。大師兄が[趙活](/ja/people/characters/player)とこの話をした時、二師兄の反応は過激で、突然怒って[小師妹](/ja/people/characters/girl2.md)を怖がらせた。
+-   [大師兄](/ja/people/characters/brother1.md)とともに、ある小師姑に暗に思いを寄せていたことがある。それは[唐芳](/ja/people/characters/special832)の姉の唐芬。大師兄が[趙活](/ja/people/characters/player)とこの話をした時、二師兄の反応は過激で、突然怒って[小師妹](/ja/people/characters/girl0.md)を怖がらせた。
 -   幼い頃、唐芬が作った漢方蜜漬けで虫歯になったことがある。
 -   [点蒼派](/ja/people/factions/dian-cang-sect)を恨んでいる。一つは嘗て点蒼剣に傷を負ったこと。もう一つは彼らが日々、正直で正義感強い君子として自称しているくせに、唐門の薬学を見下しているから。
--   [小師妹](/ja/people/characters/girl2.md)をたいへん気にかけており、[趙活](/ja/people/characters/player)に対して、下山して道を覚える[小師妹](/ja/people/characters/girl2.md)と[葉雲裳](/ja/people/characters/girl0.md)を暗に守るよう要求するため、喜んで趙活の雑務を引き受ける。過度な保護のため、[上官螢](/ja/people/characters/girl1.md)から「老母さん」と呼ばれている。
+-   [小師妹](/ja/people/characters/girl0.md)をたいへん気にかけており、[趙活](/ja/people/characters/player)に対して、下山して道を覚える[小師妹](/ja/people/characters/girl0.md)と[葉雲裳](/ja/people/characters/girl2.md)を暗に守るよう要求するため、喜んで趙活の雑務を引き受ける。過度な保護のため、[上官螢](/ja/people/characters/girl4.md)から「老母さん」と呼ばれている。
 
 [^1]: バハムート- [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^2]: Facebook - [オリジナル鳥熊2025/9/9](https://www.facebook.com/obbstudio/posts/pfbid0jo8pNNekUkjYE7EyLqYerjfnCWcaRHPfQGaJrZDaXe3QZ5KM8SuZDeJkcQbWdf9Al)

@@ -140,7 +140,7 @@ tags:
 <br>
 
 wikilink  
-[[龍湘]]  
+[[龍湘 (リュウショウ)]]  
 内部リンク  
 [龍湘](/ja/people/characters/girl8)  
 外部リンク  
@@ -152,7 +152,7 @@ wikilink
 
 ```markdown
 wikilink  
-[[龍湘]]  
+[[龍湘 (リュウショウ)]]  
 内部リンク  
 [龍湘](/ja/people/characters/girl8)  
 外部リンク  

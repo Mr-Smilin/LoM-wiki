@@ -21,63 +21,63 @@ tags:
         <td :unsortable=true>属性3</td>
     </tr>
     <tr>
-        <td><Girl4Icon :size="`medium`">上官螢</Girl4Icon></td>
+        <td><Girl4Icon :size="`medium`" href="/ja/people/characters/girl4">上官螢</Girl4Icon></td>
         <td>4</td>
         <td>すらりと背が高い</td>
         <td>率直で朗らか</td>
         <td>特に有能</td>
     </tr>
     <tr>
-        <td><Girl8Icon :size="`medium`">龍湘</Girl8Icon></td>
+        <td><Girl8Icon :size="`medium`" href="/ja/people/characters/girl8">龍湘</Girl8Icon></td>
         <td>8</td>
         <td>すらりと背が高い</td>
         <td>率直で朗らか</td>
         <td>少し抜けている</td>
     </tr>
     <tr>
-        <td><Girl3Icon :size="`medium`">虞小梅</Girl3Icon></td>
+        <td><Girl3Icon :size="`medium`" href="/ja/people/characters/girl3">虞小梅</Girl3Icon></td>
         <td>3</td>
         <td>すらりと背が高い</td>
         <td>率直で朗らか</td>
         <td>破天荒</td>
     </tr>
     <tr>
-        <td><Girl5Icon :size="`medium`">夏侯蘭</Girl5Icon></td>
+        <td><Girl5Icon :size="`medium`" href="/ja/people/characters/girl5">夏侯蘭</Girl5Icon></td>
         <td>5</td>
         <td>すらりと背が高い</td>
         <td>物静かで優雅</td>
         <td></td>
     </tr>
     <tr>
-        <td><Girl2Icon :size="`medium`">葉雲裳</Girl2Icon></td>
+        <td><Girl2Icon :size="`medium`" href="/ja/people/characters/girl2">葉雲裳</Girl2Icon></td>
         <td>2</td>
         <td>小柄で華奢</td>
         <td>活発で明るい</td>
         <td>病弱</td>
     </tr>
     <tr>
-        <td><Girl0Icon :size="`medium`">唐默鈴</Girl0Icon></td>
+        <td><Girl0Icon :size="`medium`" href="/ja/people/characters/girl0">唐默鈴</Girl0Icon></td>
         <td>0</td>
         <td>小柄で華奢</td>
         <td>もの静かで従順</td>
         <td>無垢な心</td>
     </tr>
     <tr>
-        <td><Girl7Icon :size="`medium`">魏菊</Girl7Icon></td>
+        <td><Girl7Icon :size="`medium`" href="/ja/people/characters/girl7">魏菊</Girl7Icon></td>
         <td>7</td>
         <td>小柄で華奢</td>
         <td>もの静かで従順</td>
         <td>教養があり礼儀正しい</td>
     </tr>
     <tr>
-        <td><Girl6Icon :size="`medium`">郁竹</Girl6Icon></td>
+        <td><Girl6Icon :size="`medium`" href="/ja/people/characters/girl6">郁竹</Girl6Icon></td>
         <td>6</td>
         <td>小柄で華奢</td>
         <td>もの静かで従順</td>
         <td>力は山を抜き気は世を蓋う</td>
     </tr>
     <tr>
-        <td><Girl1Icon :size="`medium`">瑞杏</Girl1Icon></td>
+        <td><Girl1Icon :size="`medium`" href="/ja/people/characters/girl1">瑞杏</Girl1Icon></td>
         <td>1</td>
         <td>錦嚢を開く<br>(命運100が必要)</td>
         <td></td>

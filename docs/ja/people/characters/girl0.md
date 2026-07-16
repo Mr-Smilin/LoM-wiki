@@ -305,11 +305,11 @@ aside: false
 
 ## 葉雲裳
 
--   [葉雲裳](/ja/people/characters/girl5.md)が唐門に到来した時、初対面で相手に深く惹かれ、親しみを感じた。
--   [掌門](/ja/people/characters/master.md)は小師妹と[葉雲裳](/ja/people/characters/girl5.md)の年齢が近いことに気づき、2人が友人になればいいと考えていた。
--   常に[葉雲裳](/ja/people/characters/girl5.md)の悪戯に巻き込まれたり、引き込まれて共犯にされたりする。
--   小師妹は感情をうまく表現することができない。主に[葉雲裳](/ja/people/characters/girl5.md)の適切な導きに頼ることで、初めて心の中の考えを口にすることができた。
--   小師妹は自分に自信がない。代わりに[葉雲裳](/ja/people/characters/girl5.md)のことを世界で最も愛らしく、最も人々を喜ばせる女の子だと思っている。だからこそ、彼女はどうして至る所でトラブルを起こしても叩かれないのかと思っている。
+-   [葉雲裳](/ja/people/characters/girl2.md)が唐門に到来した時、初対面で相手に深く惹かれ、親しみを感じた。
+-   [掌門](/ja/people/characters/master.md)は小師妹と[葉雲裳](/ja/people/characters/girl2.md)の年齢が近いことに気づき、2人が友人になればいいと考えていた。
+-   常に[葉雲裳](/ja/people/characters/girl2.md)の悪戯に巻き込まれたり、引き込まれて共犯にされたりする。
+-   小師妹は感情をうまく表現することができない。主に[葉雲裳](/ja/people/characters/girl2.md)の適切な導きに頼ることで、初めて心の中の考えを口にすることができた。
+-   小師妹は自分に自信がない。代わりに[葉雲裳](/ja/people/characters/girl2.md)のことを世界で最も愛らしく、最も人々を喜ばせる女の子だと思っている。だからこそ、彼女はどうして至る所でトラブルを起こしても叩かれないのかと思っている。
 
 ## 武功
 
@@ -324,7 +324,7 @@ aside: false
 
 -   上り道を知らない。痕跡だらけ。毎回外出すれば、必ず変に迷子になり、間違えて獣の道に入る。何度も師門に迷惑をかけ、松明を持って夜通し山を探す。
 -   一度誓って自分で道を覚えようとした。結果は外出するやすぐに迷子になった。皆は[大師兄](/ja/people/characters/brother1.md)の真似をしたのだと思った。それで大師兄は無実なのに怒りを買った。死にそうになった。後に[趙活](/ja/people/characters/player)はウサギの洞穴に引っかかっている小師妹を見つけた。この事は2人の間の秘密となった。
--   唐門を襲撃する事件で、敵を追いかけるために迷路。前に彼女を探しに来た[葉雲裳](/ja/people/characters/girl5.md)と一緒に[趙活](/ja/people/characters/player)を見つけた。初めて唐門に帰った。
+-   唐門を襲撃する事件で、敵を追いかけるために迷路。前に彼女を探しに来た[葉雲裳](/ja/people/characters/girl2.md)と一緒に[趙活](/ja/people/characters/player)を見つけた。初めて唐門に帰った。
 -   広州の唐門が攻撃してきた時、[唐衫](/ja/people/characters/special811)に誘われて山林の中に行った。方向を失い、[父親](/ja/people/characters/master.md)の最後の面会の機会を逃した。
 -   嫁いだ後、大戦の前夜に唐門に帰ってくる時は、既に自分で道を認識できるようになっていた。
 
@@ -343,7 +343,7 @@ aside: false
 -   生まれつき小動物の属性を持ち、さらに[唐門](/ja/people/factions/tang-men)が貧困で食事が悪かった。黄金の成長期を逃してしまい、再び背が伸びるのは非常に難しい。
 -   食べ飽きるという概念がない。普段は甘いものを食べる機会も少ない。一度食べられるようになれば、絶えず口に詰め込み、寝るまで続く。もし誰も管理せずにずっと食べさせたら、いずれ3倍大きい人になるかもしれない。[^1]
 -   第一年で[趙活](/ja/people/characters/player)が倒れた時、[三師兄](/ja/people/characters/brother3.md)は小師妹は既に花のような乙女になったと言った。それで15歳と推測される。
--   滅門ルートで[夏靈犀](/ja/people/characters/special825)に小羊と呼ばれ、西武林ルートで[四師兄](/ja/people/characters/brother4.md)が全身の血だらけの服を見て「狂暴小羊」と呼ぶ。[葉雲裳](/ja/people/characters/girl5.md)も「羊は默鈴。私はイタチ」と言った。
+-   滅門ルートで[夏靈犀](/ja/people/characters/special825)に小羊と呼ばれ、西武林ルートで[四師兄](/ja/people/characters/brother4.md)が全身の血だらけの服を見て「狂暴小羊」と呼ぶ。[葉雲裳](/ja/people/characters/girl2.md)も「羊は默鈴。私はイタチ」と言った。
 -   寒冷を恐れている。[^3]
 -   絵を描くのが下手。[劉顎](/ja/people/characters/special1)に笑われて、刻画されて壁画にされ、古代遺跡と偽る。
 -   歌唱は大きく外れる。小師妹は羞恥心が強く、人前ではあまり歌わない。また嘲笑されるのを恐れる。だから[趙活](/ja/people/characters/player)が独占している。[^4][^5]

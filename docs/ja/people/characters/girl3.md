@@ -204,7 +204,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[夏侯蘭](/ja/people/characters/girl4.md) (崆峒四姝)
+					[夏侯蘭](/ja/people/characters/girl5.md) (崆峒四姝)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -301,7 +301,7 @@ aside: false
 -   小梅は[火閃電](/ja/people/characters/firebird1.md)に対して厳しくも優しい。特に火閃電の自主性を尊重していて、お小遣いまで与えている。[^3]
 -   10歳の時、[四師兄](/ja/people/characters/brother4.md)から毒薬を買い、[火龍仙君](/ja/people/characters/special204)と[金烏上人](/ja/people/characters/special207)を毒殺しようとしたが、だまされて下剤をつかまされた。今でも彼を根に持っている。
 -   小竹とはかつて親友だった。しかし当時、彼女をだまして霊薬を食べさせたせいで、小竹は今でも彼女に怒っている。本当は仲直りしたいのだが、[千燈樓](/ja/people/factions/thousand-lantern-tower)の一件に彼女を巻き込むことを恐れている。
--   [夏侯蘭](/ja/people/characters/girl4.md)を非常に怖がっていて、蘭姐姐と呼ぶ。一方、相手は彼女を「小瘋子 (おチビの狂人)」と呼ぶ。
+-   [夏侯蘭](/ja/people/characters/girl5.md)を非常に怖がっていて、蘭姐姐と呼ぶ。一方、相手は彼女を「小瘋子 (おチビの狂人)」と呼ぶ。
 -   料理の腕前は超一流。[趙活](/ja/people/characters/player)が大失敗した料理をごちそうに作り直せる。考案したお菓子は村の人々に大好評。
 -   <MarkdownWrapper>||実は初版の結末は非常に悲惨で、金烏との間に6人の子を産んでいた。しかし炎上した後すぐに修正された。||</MarkdownWrapper>
 

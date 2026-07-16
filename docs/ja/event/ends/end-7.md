@@ -35,5 +35,5 @@ tags:
 ### 鐵冠道士
 
 <b>条件：</b>葉雲裳ルート、青城派留学後、[九轉殘篇](/ja/system/books/book_8109)（寂滅三摩地）を習得。<br>
-三年五月[唐默鈴|小師妹](/ja/people/characters/girl0)招親の日、三回のソフト対策を選択した後、桟道で[段智秀](/ja/people/characters/special833)に勝利、続けて[鐵冠道人](/ja/people/characters/special212)に勝利。<br>
+三年五月[小師妹](/ja/people/characters/girl0)招親の日、三回のソフト対策を選択した後、桟道で[段智秀](/ja/people/characters/special833)に勝利、続けて[鐵冠道人](/ja/people/characters/special212)に勝利。<br>
 戦闘は8回合のみで、第一回合は【絶世】のため動けず、大量の運命ポイント強化が必要で初めて成功する可能性がある。

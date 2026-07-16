@@ -208,7 +208,7 @@ aside: false
 ## 肩甲
 
 -   肩甲に反対する。
--   明らかに[唐門](/ja/people/factions/tang-men)と[南宮世家](/ja/people/factions/index)は世交なのに、一度や二度ではなく[南宮深](/ja/people/characters/special102)に面を隠して打ちかかった。
+-   明らかに[唐門](/ja/people/factions/tang-men)と[南宮世家](/ja/people/factions/nan-gong-family)は世交なのに、一度や二度ではなく[南宮深](/ja/people/characters/special102)に面を隠して打ちかかった。
 -   子供の頃、[南宮深](/ja/people/characters/special102)の愛しい玩具を壊してしまった。[南宮深](/ja/people/characters/special102)が常にそれを自慢しており、玩具を彼の顔に突きつけたのだ。
 
 ## 料理
