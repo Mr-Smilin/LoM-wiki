@@ -1,0 +1,107 @@
+---
+title: 千灯樓 (セントウロウ)
+aside: true
+sidebar: false
+borderless: false
+outline: [2, 3]
+tags:
+    - 陣営
+    - 千灯樓
+---
+
+# {{ $frontmatter.title }}
+
+<InfoList position="right">
+	<Info title="陣営情報" :open=true>
+		<table>
+			<ChTr>
+				<ChTd isTitle=true>
+					拠点
+				</ChTd>
+				<ChTd>
+					不明
+				</ChTd>
+			</ChTr>
+            <ChTr>
+				<ChTd isTitle=true position='center'>
+					主要メンバー
+				</ChTd>
+			</ChTr>
+			<ChTr>
+                <ChTd position='center'>
+                    [申屠龍](/ja/people/characters/special405) (楼主)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [無相祖師](/ja/people/characters/special212_2) (千面人魔)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [金烏上人](/ja/people/characters/special207) (教頭)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [虞小梅](/ja/people/characters/girl3) (千面人魔)
+                </ChTd>
+            </ChTr>
+		</table>
+	</Info>
+</InfoList>
+
+伝説の殺し屋組織で、世人はその存在さえ知らず、旧魔教の滅亡とともに瓦解したのか、それとも現在も存在しているのかさえ不明です。実際のところ、彼らはどこにでもいて、各地に潜伏し、千灯樓の殺し手の真容を見て生き残った者は誰もいません。
+
+<br>
+
+千灯樓は子どもを拐かし、幼いころから育成して冷血な刺客に仕立て上げ、屍心蠱を食べさせ、発症時は生き地獄の苦しみを味わい、その者に従わせます。さらに悪いことに、人を派遣して暗中で監視し、一度死や背叛があれば、すべての痕跡を消すのです。
+
+<br>
+
+楼主は昔の極楽教主の転生[申屠龍](/ja/people/characters/special405)で、その下で数本の香を灯すことを職級としており、対切口の時には下記のように叫びます：
+
+> 「万古寺葬誰家郎、千灯樓燒幾炷香？」<br>
+> 「百年壽封汗青榜、千灯樓閣二炷香。」
+
+既知の[金烏上人](/ja/people/characters/special207)は楼主に次ぐ五炷香の教頭で、[虞小梅](/ja/people/characters/girl3)は四炷香で、下級は上級に逆らうことができません。
+<br clear="all">
+
+## 千面人魔
+
+> 廬山の真の顔を識らず、閻王擦身同陌路；若識廬山の真の顔、無主孤墳誰来哭。
+
+千灯樓の伝説的刺客で、伝説では千種の顔を持つ妖怪で、易容・毒術・詭計・話術に長け、迷魂大法まで使って人心を惑わします。修行した無相神功は、各派各門の内功特質を虚偽で模倣し、真に紛れさせることができます。
+
+<br>
+
+千面人魔はただ冠称であり、継承される称号で、千灯樓が存在する限り、千面人魔は永遠に存在するのです。既知の千面人魔は：
+
+<br>
+
+初代千面人魔無念僧、[無相祖師](/ja/people/characters/special212_2)。
+
+<br>
+
+第二代千面人魔、<MarkdownWrapper>||画中の仙人。温夫人の妹で、唐門師姉、錦香宮弟子に化身して両派を行き来していました。風雨山の変では温夫人の命により、温夫人自ら魔頭に変装し、画中の仙人は鎖られた温夫人に偽装し、劇を演じて宮人が武林人の包囲から逃げるのを助けました。||</MarkdownWrapper>(v3206未公開情報、解析が必要)
+
+<br>
+
+第三代千面人魔、楊玄奇。前武林盟主[龍淵](/ja/people/characters/special2)を追殺するため、眉山鎮川泉酒家の店小二に化身して3年、掌櫃の娘と成親し、妻子はすでに出産しています。[龍淵](/ja/people/characters/special2)の一席話と[杏花林](/ja/people/factions/apricot-forest)から求めた錦囊を見て、初心を改めて暗から明へ、両人は監視する千灯樓の殺し手を引き出すため一戦を演じ、楊某の家族を[錦香宮](/ja/people/factions/jin-xiang-palace.md)に送り届けました。残念ながら千灯樓の魔爪から逃れられず、西武林戦に[唐門](/ja/people/factions/tang-men.md)進攻に強制参加させられました。
+
+<br>
+
+第四代千面人魔、[崆峒派](/ja/people/factions/kong-tong-sect.md)飛天門嫡伝女弟子[虞小梅](/ja/people/characters/girl3)。千灯樓四炷香刺客で、暗中で崆峒四門を分化させ、美色で崆峒才俊無数を誘殺し、時機が来たら偌大な崆峒を自らの手で滅ぼすのを待っています。
+
+## 備考
+
+- ~~二創で酷い改名を受けて千根樓に~~
+- 千灯樓主は生涯、最も忌憚する存在が[杏花仙](/ja/people/characters/girl1)で、「多智近妖、疑非人哉」と称します。
+- 江陵囲城後、[杏花仙](/ja/people/characters/girl1)が千灯樓殺し手に各派基地を襲わせ、[泥教](/ja/people/factions/mud-school.md)に罪をなすりつけました。これにより杏花仙が千灯樓に一定の支配力を持つことがわかります。
+- 千灯樓は[唐門](/ja/people/factions/tang-men.md)を極度に忌憚しています。唐門は下毒と暗器で人を無形に殺し、明から暗へ化して各々潜伏すれば、それこそが人間界最高の恐怖の殺し手組織になるからです。
+- [小梅](/ja/people/characters/girl3)のほとんどのテキストは第四代として書かれていますが、[申屠龍](/ja/people/characters/special405)の前では第五代だと言っており、理由は不明です。
+- [小梅](/ja/people/characters/girl3)は[申屠龍](/ja/people/characters/special405)に歴代千面人魔の中で最悪の世代だと罵倒され、決意も実力も二流です。
+- [趙活](/ja/people/characters/player)の顔が醜いため、人皮面具を被った千面人魔と疑われたことがあります。
+- 現在のシナリオでは千灯樓の勢力は弱く見えますが、鳥熊は秘密の殺し手組織なので、人前に出るわけがないと述べています。[^1]
+
+[^1]: [問答集2024-10月-19](/ja/other/qna/202410)、Part2。
