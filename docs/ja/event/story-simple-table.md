@@ -62,7 +62,7 @@ tags:
 			<td>六月</td>
 			<td>
 				<MarkdownWrapper>
-				貢献評定<br>
+				[貢献評定](/ja/event/simple/1-05-1-貢獻評點)<br>
 				[掌門の決定](/ja/event/simple/1-06-1-掌門的安排)<br>
 				</MarkdownWrapper>
 			</td>
@@ -117,7 +117,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[四師兄が公役を捕まえる](/ja/event/simple/1-09-2-四師兄抓公差)<br>
-				[初めてリ富貴・樊嘯天と知り合う](/ja/event/simple/1-09-2-初識李富貴、樊嘯天)<br>
+				[初めて李富貴・樊嘯天と知り合う](/ja/event/simple/1-09-2-初識李富貴、樊嘯天)<br>
 				[初めて福韞と知り合う](/ja/event/simple/1-09-2-初識福韞)<br>
 				[仏教の教育](/ja/event/simple/1-09-2-佛法教育)<br>
 				[龍湘が盗まれる](/ja/event/simple/1-09-2-龍湘遭竊)<br>
@@ -205,7 +205,7 @@ tags:
 			<td>-</td>
 			<td>
                 <MarkdownWrapper>
-				唐門の幽霊<br>
+				唐門の幽霊 (唐門鬧鬼)<br>
 				</MarkdownWrapper>
             </td>
 		</tr>
@@ -634,7 +634,7 @@ tags:
 				<MarkdownWrapper>
                     [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)
                 </MarkdownWrapper>
-				<li>唐門立ち絵：西武林盟を成立(李富貴好感2星またはナレッジ・戦術要件が必要)</li>
+				<li>唐門立ち絵：西武林盟成立（李富貴の好感度2星または学問・戦術が必要）</li>
 				<li>龍湘線-後山で薪割：決闘(攻略最晚トリガー時間は一月下旬前)</li>
 			</td>
 			<td>
@@ -669,7 +669,7 @@ tags:
 			<td>
 				<li>三師兄が帰る</li>
                 <MarkdownWrapper>
-                [唐門包囲戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)【戦お前の母親-頑抗到底線】
+                [唐門包囲戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)【徹底抗戦】
                 </MarkdownWrapper>
 			</td>
 			<td>

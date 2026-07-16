@@ -8,7 +8,6 @@ borderless: false
 pageClass: guide-page
 tags:
     - ガイド
-    - 教学
     - guide
     - 入門
     - スタート
