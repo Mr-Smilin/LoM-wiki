@@ -101,7 +101,7 @@ aside: false
 -   少年時代に[南宮遠](/ja/people/characters/special101)と摯友だった。二人は紅篷王と曾文を手本にして、互いに支え助けて、危機にある者を救い、国家を匡正しようと約束した。
 -   少年時代に[南宮遠](/ja/people/characters/special101)と誰が[蘇迎香](/ja/people/characters/special402)の笑顔を得られるか賭けた。負けた者が相手に乗られるという賭けだ。迎香は[南宮遠](/ja/people/characters/special101)に偏愛し、毎回、彼が[南宮遠](/ja/people/characters/special101)を背中に乗せることになった。
 -   友人を成功させるために遠く他郷へ去った。ところが[南宮遠](/ja/people/characters/special101)は[溫夫人](/ja/people/characters/special402)に背いてしまったのだ。彼は悔しくてたまらなかった。二十年間もの間、[南宮遠](/ja/people/characters/special101)に会わなかった。
--   二十年後。定遠郎王士は、ついに少年時代に[友人](/ja/people/characters/special101)に誓った豪語を果たした：「いつか必ず、千軍万馬をお前の下に集めて、お前の命令に従わせてやる。お前の曾祖々父、武林盟主[南宮智](/ja/people/characters/special101)のようにな。お前も武功を磨いて、俺以上に強くなってくれ。俺たちが大人になったら……。」
+-   二十年後。定遠郎王士は、ついに少年時代に[友人](/ja/people/characters/special101)に誓った豪語を果たした：「いつか必ず、千軍万馬をお前の下に集めて、お前の命令に従わせてやる。お前の曾祖々父、武林盟主南宮智のようにな。お前も武功を磨いて、俺以上に強くなってくれ。俺たちが大人になったら……。」
 
 ## 備考
 
