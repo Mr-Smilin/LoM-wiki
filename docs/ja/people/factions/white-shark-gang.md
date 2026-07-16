@@ -36,9 +36,9 @@ tags:
 	</Info>
 </InfoList>
 
-> 「ソウダ、掘るせ掘るせ掘る、喜呂撒妹糾ダ！」
+> 「そうだ、我々は、白鮫衆だ！ (搜噠，挖咧挖咧挖，喜囉撒妹糾噠！)」
 
-[泥教](/ja/people/factions/mud-school.md)の餓鬼道は、東海を横行し、[上官世家](/ja/people/factions/shang-guan-family.md)や朝廷に対抗します。法王[劉顎](/ja/people/characters/special1)は方今海捕文書懸賞第一で、朝廷が何度も海軍を派遣して海賊討伐に当たりましたが、すべて徒労に終わり、今なお彼らの根拠地がどこにあるかは知られていません。
+[泥教](/ja/people/factions/mud-school.md)の餓鬼道は、東海を横行し、[上官世家](/ja/people/factions/shang-guan-family.md)や朝廷に対抗します。帮主[劉顎](/ja/people/characters/special1)は現在お尋ね書第一位で、朝廷が何度も海軍を派遣して海賊討伐に当たりましたが、すべて徒労に終わり、今なお彼らの根拠地がどこにあるかは知られていません。
 
 <br>
 
@@ -51,7 +51,7 @@ tags:
 
 ## 悪行
 
-幫主劉顎は狂気の沙汰で、無法で、すべて悪いわけではなく、むしろ民秋毫無犯で、白鯊幫は朝廷に反逆者と斥けられていますが、地方の父母官より民に愛されています。以下は既知の事件で、悪いかどうかは見物人が判断してください：
+幫主劉顎は狂気の沙汰で、無法で、すべて悪いわけではなく、むしろ民には毫末の害もなく、白鯊幫は朝廷に反逆者と斥けられていますが、地方の父母官より民に愛されています。以下は既知の事件で、悪いかどうかは見物人が判断してください：
 
 <br>
 
@@ -65,13 +65,13 @@ tags:
 
 - 戸別訪問で活魚を窓から投げ込み、公然と漁商秩序を毀損し、[滄幫](/ja/people/factions/cang-gang.md)に対抗します。
 
-- [上官世家](/ja/people/factions/shang-guan-family.md)が朝廷来使を招宴する日にも魚を投げ込み、[解無塵](/ja/people/characters/special808)にばったり見かけられました。魚が臭いと嫌い、[上官螢](/ja/people/characters/girl4)の前で威風を見せるつもりで、[劉顎](/ja/people/characters/special1)を止めて服誅しようとしました。[劉顎](/ja/people/characters/special1)は路人の佩剣を奪い、使った剣招は攻防がなく、しかしすべて人を害する要害で、防がざるを得ません。[解無塵](/ja/people/characters/special808)はすべての本領を使うことができず、怒って吐血し敗北し、《風雷神腿》を改名《[非常に力ずく蹴る](/ja/)》に変え、泣きながら逃げました。
+- [上官世家](/ja/people/factions/shang-guan-family.md)が朝廷来使を招宴する日にも魚を投げ込み、[解無塵](/ja/people/characters/special808)にばったり見かけられました。魚が臭うのを嫌い、[上官螢](/ja/people/characters/girl4)の前で格好をつけようと、[劉顎](/ja/people/characters/special1)の前に立ちはだかって成敗しようとしました。ところが[劉顎](/ja/people/characters/special1)は通行人から佩剣をひょいと奪うと、攻めも守りもない、それでいてことごとく急所だけを狙う剣を繰り出し、防がないわけにはいきません。[解無塵](/ja/people/characters/special808)は持ち味を何ひとつ出せないまま、怒りのあまり血を吐いて敗北し、《風雷神腿》を《[很是用力踢](/ja/system/books/book_4002)》へ改名させられ、泣きながら逃げ帰りました。
 
 - 南宮寿宴期間、滄幫船舶を襲撃します。<MarkdownWrapper>||本来は上官螢を拐かそうとしましたが、撃ち漏らしました。滄幫が安済坊への米穀を没収したと聞き、劉顎は彼らの乳首を切り落とさせました。その後「襲撃」安済坊で、米穀すべてを投げ込み、貧乏人が食べ尽くすまで。||</MarkdownWrapper>
 
-- [嵩山派](/ja/people/factions/mount-song-sect.md)の南嵩山寺を襲撃し、麺棒で住職を殴り、強制的に街を全裸で走らせ、同役が魚膾を住職の胴体に置いて犬に食べさせ、その日に住職は心の傷で引退しました。<MarkdownWrapper>||釋明は当時雲遊中で、たまたま網から漏れました。||</MarkdownWrapper>
+- [嵩山派](/ja/people/factions/mount-song-sect.md)の南嵩山寺を襲撃し、麺棒で住職を殴り、強制的に街を全裸で走らせ、同役が魚膾を住職の胴体に置いて犬に食べさせ、その日に住職は心の傷で引退しました。<MarkdownWrapper>||釋明は当時雲遊中で、偶然逃れました。||</MarkdownWrapper>
 
-- [上官螢](/ja/people/characters/girl4)を拐かしました。[劉顎](/ja/people/characters/special1)は好意で客として招いたと称しますが、ひどく罵倒され、脅して異国に売ると言いました。
+- [上官螢](/ja/people/characters/girl4)を拐かそうとしました。[劉顎](/ja/people/characters/special1)は好意で客として招いたと称しますが、ひどく罵倒され、脅して異国に売ると言いました。
 
 - 地獄道とともに風雨山に赴いて人間道を救い、山に火をつけます。
 
@@ -81,4 +81,4 @@ tags:
 
 ## 備考
 
-- 白鯊語は日本語で、泥洪鉤！甲磅泥蘇！
+- 白鯊語は日本語 (のつもり) である。「搜噠，挖咧挖咧挖，喜囉撒妹糾噠！」＝「そうだ、我々は、白鮫衆だ！」

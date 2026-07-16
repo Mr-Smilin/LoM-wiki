@@ -65,7 +65,7 @@ tags:
      + **📖選択肢「躊躇」**→**📖選択肢「大師兄は死ねない」**→**📖選択肢「躊躇」**→**📖選択肢「大師兄は死ねない」**→**📖選択肢「決意」**。
      + **📖選択肢「躊躇」**→**📖選択肢「大師兄は死ねない」**→**📖選択肢「躊躇」**→**📖選択肢「大師兄は死ねない」**→**📖選択肢「躊躇」**。
 4. 第三年五月上旬の行動前、比武招親の夜、[金烏上人](/ja/people/characters/special207)が襲来：
-   + 心上人が<Girl0Icon>唐默鈴</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50：<Girl0Icon>小師妹</Girl0Icon>が同行して下山。
+   + 想い人が<Girl0Icon>唐默鈴</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50：<Girl0Icon>小師妹</Girl0Icon>が同行して下山。
    + 上記条件を満たさない：<Girl0Icon>小師妹</Girl0Icon>は同行して下山しない。
 5. 🗡️[金烏上人](/ja/people/characters/special207)との決闘に一場で勝利。
    + <Girl0Icon>小師妹</Girl0Icon>が同行して下山：[金烏上人](/ja/people/characters/special207)が死亡。
@@ -80,7 +80,7 @@ tags:
 ### ※小師妹と婚約
 ::: details
 1. 第三年五月上旬の行動前、比武招親の夜、[金烏上人](/ja/people/characters/special207)が襲来。
-2. 心上人が<Girl0Icon>唐默鈴</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50の場合、<Girl0Icon>小師妹</Girl0Icon>が同行して下山。
+2. 想い人が<Girl0Icon>唐默鈴</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50の場合、<Girl0Icon>小師妹</Girl0Icon>が同行して下山。
 3. 🗡️[金烏上人](/ja/people/characters/special207)との決闘に勝利(<Girl0Icon>小師妹</Girl0Icon>が同行して下山している場合、敗戦で二次の挑戦機会はない)。
 4. **🎲運命：君の想い......**(上限99、➕加値：<Girl0Icon>唐默鈴</Girl0Icon>好感度、性情、処世、➖減値：他の唐門成員好感度)：**🧾【>=50】小師妹は俺のもの！**を獲得。
 5. <Girl0Icon>唐默鈴</Girl0Icon>の好感度≧60で、<span style='color: #FF1493;'><Girl0Icon>小師妹</Girl0Icon>と婚約</span>、【小師妹の香囊】を獲得。
@@ -89,7 +89,7 @@ tags:
 ## 分岐と変化
 
 ### 前往地点
-大門を出る前に前往地点があり、伝説テキストに加わる。一部の地点のコンテンツは結婚対象、心上人、唐門に加入した成員によって異なる。
+大門を出る前に前往地点があり、伝説テキストに加わる。一部の地点のコンテンツは結婚対象、想い人、唐門に加入した成員によって異なる。
 
 ### 結婚対象
 結婚対象が異なると、エンディングストーリーが異なるが、伝説テキストに影響しない。<br>

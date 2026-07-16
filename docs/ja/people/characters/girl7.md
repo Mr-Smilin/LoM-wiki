@@ -20,7 +20,7 @@ aside: false
 			src='/images/characters/girl_7/normal.webp' 
 			nameTitle='玄功掌門'
 			nameMain='魏菊'
-			desc='崆峒派．玄功門當代の嫡傳女弟子。兼任當代掌門。儀態端莊。知書達禮。文靜而秀麗脫俗。與崆峒派格格不入なる奇女子。'
+			desc='崆峒派・玄功門の現代嫡伝女弟子。現代掌門を兼務する。<br>儀態は端正で、知書達礼。文静でありながら秀麗脱俗。崆峒派とは格格不入の奇女子である。'
 			:animation=true
 		/>
 	</ChTab>

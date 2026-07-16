@@ -38,7 +38,7 @@ tags:
 一年六月上旬、序章終了後の吐血イベント、**📖「努力なしに強くなりたい（救いようのない物語）」**を選択、救いようのない物語に進入。
 
 ### 救いようのない物語への進入方法二：元Demo版シナリオ展開
-1. 三年五月上旬、<Girl0Icon>小師妹</Girl0Icon>の比武招親の夜、[金烏上人](/ja/people/characters/special207)襲撃、<Girl0Icon>小師妹</Girl0Icon>が同行しない（心上人が<Girl0Icon>小師妹</Girl0Icon>でないか、<Girl0Icon>唐默鈴</Girl0Icon>好感度<50）。
+1. 三年五月上旬、<Girl0Icon>小師妹</Girl0Icon>の比武招親の夜、[金烏上人](/ja/people/characters/special207)襲撃、<Girl0Icon>小師妹</Girl0Icon>が同行しない（想い人が<Girl0Icon>小師妹</Girl0Icon>でないか、<Girl0Icon>唐默鈴</Girl0Icon>好感度<50）。
 2. 🗡️[金烏上人](/ja/people/characters/special207)との決闘後に殴られる：
 + 二年一月中旬[唐布衣|大師兄](/ja/people/characters/brother1)下山イベントで金烏上人の偽死を見たかどうかは影響なし：
   + 🗡️金烏上人との決闘第一戦敗北、🗡️決闘第二戦勝利、

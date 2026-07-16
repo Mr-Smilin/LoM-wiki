@@ -17,7 +17,7 @@ aside: false
 			src='/images/characters/girl_5/normal.webp' 
 			nameTitle='奪魂幽蘭'
 			nameMain='夏侯蘭'
-			desc='崆峒派‧奪魄門當代の嫡傳女弟子。江湖人は奪魄幽蘭と稱し。惡名昭彰の女魔頭。行事作風狠辣乖戾。幽居不見天日なる奪魄森林中。生人勿近。'
+			desc='崆峒派・奪魄門の現代嫡伝女弟子。江湖ではこの者を奪魄幽蘭と呼び、悪名高い女魔頭である。行動は冷酷で異常。昼間でも光が届かぬ奪魄森林に隠棲する。生きた人間は近づくな。'
 			:animation=true
 		/>
 	</ChTab>
@@ -321,7 +321,7 @@ aside: false
 -   名言：「衆生皆有死。萬物皆可殺」
 -   甚在意髪帯是否對稱。
 -   耳環為雪山派の遺物。
--   在2025「為心上人送上色紙」投票活動中勝出。官方釋出雪山派後日談動画。雪山派在夏侯蘭の帶領下成為武林七大門派之一。桃李滿遍天下。[^9]
+-   在2025「為想い人送上色紙」投票活動中勝出。官方釋出雪山派後日談動画。雪山派在夏侯蘭の帶領下成為武林七大門派之一。桃李滿遍天下。[^9]
 -   夏侯蘭海捕令資料夾周邊文案：[來源](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
     > 案犯 奪魄幽蘭
     > 心狠手辣殺人如麻
@@ -340,7 +340,7 @@ aside: false
 [^6]: オリジナル鳥熊FB - [2025/11/10生日賀文](https://www.facebook.com/obbstudio/posts/pfbid02t8cCaMxrwWdbiHAfPC6xYiG8nTreNr8CLXBut1eYJh6uQ9HCpUrhXBH1QToEJmgJl)
 [^7]: オリジナル鳥熊FB - [2023/4/22](https://www.facebook.com/obbstudio/posts/pfbid0Nz42C8exkZ4EWfiGR9FKW1jazjBzxY2BfRT1BhSSBXgLdjrPGVtVDzXTwGJc3aUyl)
 [^8]: バハムート - [【情報】鳥熊問答集](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2998&tnum=19)
-[^9]: オリジナル鳥熊FB - [為心上人送上色紙結果揭曉](https://www.facebook.com/obbstudio/posts/pfbid02MDjcxrtxWP6Ufuaj7f4gxZSz9ddCJvXBFfbAwW15gTcv98Q651vodFrsDpoCNdN5l)
+[^9]: オリジナル鳥熊FB - [為想い人送上色紙結果揭曉](https://www.facebook.com/obbstudio/posts/pfbid02MDjcxrtxWP6Ufuaj7f4gxZSz9ddCJvXBFfbAwW15gTcv98Q651vodFrsDpoCNdN5l)
 
 ## ギャラリー
 

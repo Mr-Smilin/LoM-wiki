@@ -26,7 +26,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
-					稱號
+					称号
 				</ChTd>
 				<ChTd>
 					九命豹子
@@ -34,7 +34,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
-					關係
+					関係
 				</ChTd>
 			</ChTr>
 			<ChTr>

@@ -28,7 +28,7 @@ tags:
 <strong>条件：なし。</strong><br>
 **流程：**<br>
 1. 第3年3月期間、練功場または後山に5回訪れ、[唐惟元](/ja/people/characters/brother4)が商隊参加を招待するイベントが発生し、2番目の選択肢で**📖抉擇：【よろしい。】**を選ぶ
-2. 心上人が小師妹でないか小師妹好感度＜30、エンディングに進む．
+2. 想い人が小師妹でないか小師妹好感度＜30、エンディングに進む．
 
 ## 分岐と変化
 
@@ -58,7 +58,7 @@ tags:
 + [唐錚](/ja/people/characters/brother2)好感度≧40かつ[唐錚](/ja/people/characters/brother2)好感度＞[唐布衣](/ja/people/characters/brother1)：対話で[唐錚](/ja/people/characters/brother2)に憧れを抱く．
 + [唐布衣](/ja/people/characters/brother1)好感度＜40かつ[唐錚](/ja/people/characters/brother2)好感度＜40：対話で[唐中翎](/ja/people/characters/master)掌門に憧れを抱く．
 
-### 心上人
+### 想い人
 伝説文本に影響しない．
 + 小師妹：招待イベント部分の対話に影響、エンディング前に小師妹と別れの場面が追加される。第2年2月上旬に小師妹と離別時に先に知らせるというイベントがあった場合(小師妹好感度≧40が必要)、別れる時に追加セリフが出現．
 + [上官螢](/ja/people/characters/girl4)：招待イベント部分の対話に影響．

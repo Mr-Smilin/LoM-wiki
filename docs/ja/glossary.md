@@ -129,6 +129,7 @@ title: 用語対訳表
 | 銀兩 | 銀両 | Silver | 通貨 |
 | 段考 | 段階試験 (段考) | Exams | 唐門の定期試験 |
 | 心上人 | 想い人 | Sweetheart | ★MOD |
+| 變心 | 心変わり | | ★MOD (想い人の変更カウント) |
 | 命運 | 命運 | Destiny | |
 | 投降 | 降参 | Surrender | |
 

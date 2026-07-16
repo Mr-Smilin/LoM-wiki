@@ -23,7 +23,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
-					稱號
+					称号
 				</ChTd>
 				<ChTd>
 					狂犬<br>雪山派小師妹<br>弼狗溫
@@ -31,7 +31,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
-					關係
+					関係
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -106,7 +106,7 @@ aside: false
 
 -   もし[趙活](/ja/people/characters/player)が[夏侯蘭](/ja/people/characters/girl5)を師とすれば、狂犬を[雪山派](/ja/people/factions/mount-snow-sect)に入門させるチャンスがある。これが唯一、狂犬が女だと知ることができるルートだ。
 -   雪山行の前に、[夏侯蘭](/ja/people/characters/girl5)は[李富貴](/ja/people/characters/special809)が彼女に特別な世話をしており、身の回りに一群の犬がいるが、すべてを連れていくことはできないので、招かなかった。
--   公式の「心上人のための色紙を送る」投票活動の雪山派後日談ビデオに、雪山派師妹の身分で出場し、[趙活](/ja/people/characters/player)と戯れている。[^1]
+-   公式の「想い人のための色紙を送る」投票活動の雪山派後日談ビデオに、雪山派師妹の身分で出場し、[趙活](/ja/people/characters/player)と戯れている。[^1]
 
 ## 備考
 
@@ -115,4 +115,4 @@ aside: false
 -   もし狂犬の好感度が高くても、[丐幫](/ja/people/factions/beggar-gang)が[唐門](/ja/people/factions/tang-men)を支持せず、かつ[李富貴](/ja/people/characters/special809)の好感度が低ければ、狂犬が唐門決戦に参加する機会があります。
 -   <MarkdownWrapper>||実は初版の列傳はもっと凶悪に書かれていたが、おそらく審査を通過できず削除されたのだろう||</MarkdownWrapper>
 
-[^1]: 原始鳥熊FB - [為心上人送上色紙結果揭曉](https://www.facebook.com/obbstudio/posts/pfbid02MDjcxrtxWP6Ufuaj7f4gxZSz9ddCJvXBFfbAwW15gTcv98Q651vodFrsDpoCNdN5l)
+[^1]: 原始鳥熊FB - [為想い人送上色紙結果揭曉](https://www.facebook.com/obbstudio/posts/pfbid02MDjcxrtxWP6Ufuaj7f4gxZSz9ddCJvXBFfbAwW15gTcv98Q651vodFrsDpoCNdN5l)

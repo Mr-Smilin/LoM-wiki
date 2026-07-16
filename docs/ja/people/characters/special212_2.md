@@ -26,7 +26,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
-					稱號
+					称号
 				</ChTd>
 				<ChTd>
 					無相祖師
@@ -34,7 +34,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
-					關係
+					関係
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -72,7 +72,7 @@ tags:
 ## 備考
 
 - 現在[趙活](/ja/people/characters/player)は葉雲裳ルートでのみ彼を認識できる。(v5000)
-- 十里一詩は学問の[趙活](/ja/people/characters/player)に平仄が協わないと嘲笑され、聞いてられない。彼は此の詩は戦場に出自し、戦争の酷さを描写したもので、本来は風流の気がないと言った。
-- 若し[趙活](/ja/people/characters/player)が瀝泉小劍を手にすれば、大層怒りに気をなして好大膽だと罵る。
+- 十里一詩は学問の[趙活](/ja/people/characters/player)に平仄が協わないと嘲笑され、聞いてられない。彼はこの詩は戦場に出自し、戦争の酷さを描写したもので、本来は風流の気がないと言った。
+- 若し[趙活](/ja/people/characters/player)が瀝泉小劍を手にすれば、大層怒りに気をなして好大胆だと罵る。
 - 疑いを持つが[杏花林](/ja/people/factions/apricot-forest)と何か関係あるらしい。
 - 無相が奪魄門で偽装するのは密閉中の姚掌門で、[勾魂叟](/ja/people/characters/special806)ではない。[勾魂叟](/ja/people/characters/special806)は代わりの掌門に過ぎない。

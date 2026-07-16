@@ -32,4 +32,4 @@ tags:
 ## 分岐と変化
 
 ### 小師妹同行時の下山
-<Girl0Icon>小師妹</Girl0Icon>が同行して下山する場合（心上人が<Girl0Icon>唐默鈴</Girl0Icon>で、かつ<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50が必要）、<Girl0Icon>小師妹</Girl0Icon>は[金烏上人](/ja/people/characters/special207)に点穴され連れ去られるが、伝説テキストには影響しない。
+<Girl0Icon>小師妹</Girl0Icon>が同行して下山する場合（想い人が<Girl0Icon>唐默鈴</Girl0Icon>で、かつ<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50が必要）、<Girl0Icon>小師妹</Girl0Icon>は[金烏上人](/ja/people/characters/special207)に点穴され連れ去られるが、伝説テキストには影響しない。

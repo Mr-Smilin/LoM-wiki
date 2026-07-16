@@ -33,7 +33,7 @@ tags:
 
 ### 一、小師妹との結緣
 1. 3年目5月上旬の行動前に、比武招親の夜、[金烏上人](/ja/people/characters/special207)が襲撃。
-2. 心上人が<Girl0Icon>唐默鈴</Girl0Icon>で且つ<Girl0Icon>唐默鈴</Girl0Icon>好感度≧50の場合、<Girl0Icon>小師妹</Girl0Icon>が同行して下山。
+2. 想い人が<Girl0Icon>唐默鈴</Girl0Icon>で且つ<Girl0Icon>唐默鈴</Girl0Icon>好感度≧50の場合、<Girl0Icon>小師妹</Girl0Icon>が同行して下山。
 3. 🗡️[金烏上人](/ja/people/characters/special207)と決闘で勝利(<Girl0Icon>小師妹</Girl0Icon>が同行下山している時、敗戦では2回目の挑戦機会がない)。
 4. **🎲運命：お前の想い……**(上限99、➕加値：<Girl0Icon>唐默鈴</Girl0Icon>好感度、性情、処世、➖減値：その他の唐門成員好感度)：**🧾【>=50】小師妹は私のもの！**。
 5. <Girl0Icon>唐默鈴</Girl0Icon>好感度≧60、<span style='color: #FF1493;'><Girl0Icon>小師妹</Girl0Icon>と結緣</span>、【小師妹の香囊】を獲得。

@@ -23,7 +23,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
-					稱號
+					称号
 				</ChTd>
 				<ChTd>
 					丐幫幫主<br>畜生道法王<br>定遠郎<br>青樓閃電俠
@@ -31,7 +31,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
-					關係
+					関係
 				</ChTd>
 			</ChTr>
 			<ChTr>

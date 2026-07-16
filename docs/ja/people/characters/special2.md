@@ -63,7 +63,7 @@ aside: false
 -   定期的に[王二壯](/ja/people/characters/special401)と[錦香宮](/ja/people/factions/jin-xiang-palace)を訪れ、遠くから[龍湘](/ja/people/characters/girl8)を一目見るだけで満ち足りている。
 -   正体がばれるのを恐れ、[丐幫](/ja/people/factions/beggar-gang)ではほとんど貢献していない。[樊嘯天](/ja/people/characters/special4)にいくつか技を教えた程度である。[^1]
 -   龍淵の生存を知る者は指折り数えるほどで、[王二壯](/ja/people/characters/special401)と[溫夫人](/ja/people/characters/special402)のほかは、みな死に絶えた。[^1]
--   名目上は大智分舵の所属で、南方に住んでいた。だが本編開始の前年、舵主の使いで蜀中まで書状を届け、乞食はどこに住んでも同じと考えて、そのまま帰らなくなった。
+-   名目上は大智分舵の所属で、南方に住んでいた。だが本編開始の前年、舵主の使いで蜀中まで書状を届け、乞食のごとき身はどこに住もうとも変わらないと考えて、そのまま帰らなくなった。
 -   [唐門](/ja/people/factions/tang-men)と大義分舵はとても仲が良いが、なにしろ[唐掌門](/ja/people/characters/master)は昔日の戦友であるため、唐門の弟子とは常に顔を合わせないよう避けている。
 
 [^1]: PTT C 洽－[\[活俠\] 龍湘と奇怪な小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)

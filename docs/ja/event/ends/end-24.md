@@ -28,7 +28,7 @@ tags:
 
 ## 条件とフロー
 
-<strong>条件：</strong><Girl8Icon>龍湘</Girl8Icon>以外の者と婚約、<Girl8Icon>龍湘</Girl8Icon>が唐門に加入、心上人が<Girl8Icon>龍湘</Girl8Icon>、門人解散<br>
+<strong>条件：</strong><Girl8Icon>龍湘</Girl8Icon>以外の者と婚約、<Girl8Icon>龍湘</Girl8Icon>が唐門に加入、想い人が<Girl8Icon>龍湘</Girl8Icon>、門人解散<br>
 **フロー：**<br>
 
 1. 第三年十月中旬の武林大会で、錦香宮が暴露された後、<Girl8Icon>龍湘</Girl8Icon>が唐門に身を寄せる時、**📖「世間の冷たい視線を無視して龍湘を迎える」**を選択、<Girl8Icon>龍湘</Girl8Icon>が唐門に加入。
@@ -51,7 +51,7 @@ tags:
    + 江湖から隠居の票が多い。
    + 票が同数で主人公が江湖から隠居を選択し、🗡️[三師兄](/ja/people/characters/brother3)との決闘に勝利。
    + 票が同数で[三師兄](/ja/people/characters/brother3)が江湖から隠居を選択し、🗡️[三師兄](/ja/people/characters/brother3)との決闘に敗戦。
-5. 後山へ向かい、**📖選択肢「湘姉、一緒に来ませんか？（心を明かす）」**(選択肢を開くには心上人が<Girl8Icon>龍湘</Girl8Icon>である必要があります)。
+5. 後山へ向かい、**📖選択肢「湘姉、一緒に来ませんか？（心を明かす）」**(選択肢を開くには想い人が<Girl8Icon>龍湘</Girl8Icon>である必要があります)。
 6. 既に他のキャラと婚約している場合、🗡️<Girl8Icon>龍湘</Girl8Icon>が決闘を仕掛け、勝利後に**📖選択肢「君を手放すことはない」**を選択、エンディングに進む。
 
 ### ※金烏上人の死亡(成就未達成で存命)
@@ -71,7 +71,7 @@ tags:
      + **📖「躊躇」**→**📖「大師兄は死ねない」**→**📖「躊躇」**→**📖「大師兄は死ねない」**→**📖「決意」**。
      + **📖「躊躇」**→**📖「大師兄は死ねない」**→**📖「躊躇」**→**📖「大師兄は死ねない」**→**📖「躊躇」**。
 4. 第三年五月上旬の行動前、比武招親の夜、[金烏上人](/ja/people/characters/special207)が襲来：
-   + 心上人が<Girl0Icon>唐默鈴</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50：<Girl0Icon>小師妹</Girl0Icon>が同行して下山。
+   + 想い人が<Girl0Icon>唐默鈴</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50：<Girl0Icon>小師妹</Girl0Icon>が同行して下山。
    + 上記条件を満たさない：<Girl0Icon>小師妹</Girl0Icon>は同行して下山しない。
 5. 🗡️[金烏上人](/ja/people/characters/special207)との決闘に一場で勝利。
    + <Girl0Icon>小師妹</Girl0Icon>が同行して下山：[金烏上人](/ja/people/characters/special207)が死亡。
@@ -86,7 +86,7 @@ tags:
 ### ※小師妹と婚約
 ::: details
 1. 第三年五月上旬の行動前、比武招親の夜、[金烏上人](/ja/people/characters/special207)が襲来。
-2. 心上人が<Girl0Icon>小師妹</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50の場合、<Girl0Icon>小師妹</Girl0Icon>が同行して下山。
+2. 想い人が<Girl0Icon>小師妹</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50の場合、<Girl0Icon>小師妹</Girl0Icon>が同行して下山。
 3. 🗡️[金烏上人](/ja/people/characters/special207)との決闘に勝利(<Girl0Icon>小師妹</Girl0Icon>が同行して下山している場合、敗戦で二次の挑戦機会はない)。
 4. **🎲運命：君の想い......**(上限99、➕加値：<Girl0Icon>唐默鈴</Girl0Icon>好感度、性情、処世、➖減値：他の唐門成員好感度)：**🧾【>=50】小師妹は俺のもの！**を獲得。
 5. <Girl0Icon>唐默鈴</Girl0Icon>の好感度≧60で、<span style='color: #FF1493;'><Girl0Icon>小師妹</Girl0Icon>と婚約</span>、【小師妹の香囊】を獲得。
@@ -102,7 +102,7 @@ tags:
 4. 第二年四月上旬、闇討ちを受ける。**🎲運命：結果......**(上限90、➕加値：拳掌)：**🧾【＞50】防御成功**、🗡️峨嵋弟子との決闘に勝利、🗡️再び峨嵋弟子との決闘敗戦または第四回合終了まで戦闘。
 5. 森に逃げた後、最初の選択肢後、🗡️森を出て峨嵋弟子と再度決闘、勝負は無関係。第二の選択肢後、第三の選択肢で**📖選択肢「師の礼で拝謝」**を選択、<Girl5Icon>夏侯蘭</Girl5Icon>に師事。
 6. 第三年六月上旬唐門会議で、**📜決策「雪山行」**。
-7. 第三年七月中旬に<Girl5Icon>夏侯蘭</Girl5Icon>に点穴された後、連続三回**📖選択肢「抵抗」**を選択(第二の選択肢を開くには点穴される前に身につけている道具に酒があり<Girl5Icon>夏侯蘭</Girl5Icon>を酔わせる必要があります。第三の選択肢を開くには心上人が<Girl5Icon>夏侯蘭</Girl5Icon>である必要があります)。前三回の運命転盤の結果は重要ではありません。
+7. 第三年七月中旬に<Girl5Icon>夏侯蘭</Girl5Icon>に点穴された後、連続三回**📖選択肢「抵抗」**を選択(第二の選択肢を開くには点穴される前に身につけている道具に酒があり<Girl5Icon>夏侯蘭</Girl5Icon>を酔わせる必要があります。第三の選択肢を開くには想い人が<Girl5Icon>夏侯蘭</Girl5Icon>である必要があります)。前三回の運命転盤の結果は重要ではありません。
 8. 四回目の運命転盤**🎲運命：君の抵抗......**(上限50、➕加値：<Girl5Icon>夏侯蘭</Girl5Icon>好感度)：**🧾【＝99】抵抗**を獲得。
 9. 🗡️<Girl5Icon>夏侯蘭</Girl5Icon>との決闘に勝利、<span style='color: #FF1493;'><Girl5Icon>夏侯蘭</Girl5Icon>と婚約</span>。第三年八月上旬に【夏侯蘭の髪帯】を獲得。
 :::

@@ -27,10 +27,10 @@ tags:
 
 ## 流程
 1. 葉家兄妹を受け入れる．
-2. 2年は留学せず廃寺に住み、唐門防守、心上人が[葉雲裳](/ja/people/characters/girl2)、青城留学が発生する．
+2. 2年は留学せず廃寺に住み、唐門防守、想い人が[葉雲裳](/ja/people/characters/girl2)、青城留学が発生する．
 3. 3年1月上旬、葉家兄妹が去る転盤【葉雲裳は抵抗】が発生．
 4. 3年3月期間、練功場または後山に5回訪れ、[唐惟元](/ja/people/characters/brother4)が商隊参加を招待するイベントが発生し、2番目の選択肢で**📖【よろしい。】**を選ぶ
-5. 心上人が[葉雲裳](/ja/people/characters/girl2)、[葉雲裳](/ja/people/characters/girl2)好感度≧40、エンディングに進む．
+5. 想い人が[葉雲裳](/ja/people/characters/girl2)、[葉雲裳](/ja/people/characters/girl2)好感度≧40、エンディングに進む．
 
 ## 備考
 
