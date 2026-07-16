@@ -165,7 +165,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [唐鹿](/ja/people/characters/mother.md) (母親)
+                    [唐鹿](/ja/people/characters/other10) (母親)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -190,7 +190,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [趙活](/ja/people/characters/protagonist.md) (師兄)
+                    [趙活](/ja/people/characters/player) (師兄)
                 </ChTd>
             </ChTr>
         </table>
@@ -207,7 +207,7 @@ aside: false
 
 <br><br>
 
-物語之初の[趙活](/ja/people/characters/protagonist.md)は彼女を愛して止まず、故に始終唐門を離れることなし。
+物語之初の[趙活](/ja/people/characters/player)は彼女を愛して止まず、故に始終唐門を離れることなし。
 
 <br><br>
 
@@ -268,7 +268,7 @@ aside: false
 
 是れ路痴にあるがため、鈴鐺を繋ぐ一部は防走失なり。
 
-## 結縁信物
+## 結緣信物
 
 <SpecialItemIcon :size="`medium`" :needLink="false" :no="1000" />
 
@@ -285,15 +285,15 @@ aside: false
 ## 趙活
 
 -   ~~汝に監守自盗を為さしめ！監守自盗……監守自盗~~
--   小より[師娘](/ja/people/characters/mother.md)に託されて[趙活](/ja/people/characters/protagonist.md)に照料される。
--   恐らくは小より看到大なるがため、[趙活](/ja/people/characters/protagonist.md)が難看なりと覚えず。~~小師妹竟は狂せるかも！~~
--   [趙活](/ja/people/characters/protagonist.md)の唱える山歌を喜く。
--   [趙活](/ja/people/characters/protagonist.md)は毎晩小師妹の窓下に往きて、故事を説き彼を哄睡す。
--   小師妹は甚だ早く知りたり[趙活](/ja/people/characters/protagonist.md)が窗外に蹲りたることを。然れども[趙活](/ja/people/characters/protagonist.md)が問わざるがため説き破らず。
+-   小より師娘に託されて[趙活](/ja/people/characters/player)に照料される。
+-   恐らくは小より看到大なるがため、[趙活](/ja/people/characters/player)が難看なりと覚えず。~~小師妹竟は狂せるかも！~~
+-   [趙活](/ja/people/characters/player)の唱える山歌を喜く。
+-   [趙活](/ja/people/characters/player)は毎晩小師妹の窓下に往きて、故事を説き彼を哄睡す。
+-   小師妹は甚だ早く知りたり[趙活](/ja/people/characters/player)が窗外に蹲りたることを。然れども[趙活](/ja/people/characters/player)が問わざるがため説き破らず。
 
 ## 大師兄
 
--   [唐門](/ja/people/factions/tang.md)は曾て[大師兄](/ja/people/characters/brother1.md)を首として、一群の閒人を出でし、小師妹を驚かすを為楽とし。後に[二師兄](/ja/people/characters/brother2.md)に収拾されたり。
+-   [唐門](/ja/people/factions/tang-men)は曾て[大師兄](/ja/people/characters/brother1.md)を首として、一群の閒人を出でし、小師妹を驚かすを為楽とし。後に[二師兄](/ja/people/characters/brother2.md)に収拾されたり。
 -   [大師兄](/ja/people/characters/brother1.md)の悪行：
     -   彼が昼寝する時に乗ずる。彼を木筏裡に放りて順流に漂はせし。木筏散架し水に吃到して始めて驚醒す。
     -   修軽功の為に、彼を肩上に扛いて山路を奔走し、彼が顛到吐くるまで。
@@ -315,7 +315,7 @@ aside: false
 
 -   見る所に警覚性無からんといえども。実は白天より窗外に蹲りて一動も為さざる者に非ずば、9成9は彼に察覚される。
 -   江湖に走動せず。更に少なく人と過招す。臨陣経験浅薄なり。可し心無旁騖にして専注多年。已に唐門武学の奥義を窺い見たり。眼界相当に高し。
--   西武林線に[趙活](/ja/people/characters/protagonist.md)が[譚霸刀](/ja/people/characters/character-tan.md)に対合う時。小師妹乱入す。三招にして霸刀を解決す。毫も還手の力なし。霸刀の遺言「唐門当代最強者は、原来是れ[唐布衣](/ja/people/characters/brother1.md)に非るが……」
+-   西武林線に[趙活](/ja/people/characters/player)が[譚霸刀](/ja/people/characters/special801)に対合う時。小師妹乱入す。三招にして霸刀を解決す。毫も還手の力なし。霸刀の遺言「唐門当代最強者は、原来是れ[唐布衣](/ja/people/characters/brother1.md)に非るが……」
 -   練武場に[大師兄](/ja/people/characters/brother1.md)が蹴鞠する時。小師妹一たび参戦すれば、彼便ち敗る。
 -   [大師兄](/ja/people/characters/brother1.md)は彼の軽功を評価して天下前五に排列すること可能と。自己は前十に排列することに自信を持たず。聞く所に「天地無聲勢」全力施為の時。簡直一人三化に似たり。
 -   小師妹の無定飛梭は滯空・変速の特性を有す。人は後発先至するは実は不難。[^8]
@@ -323,15 +323,15 @@ aside: false
 ## 迷路
 
 -   上山の路を識得せず。劣跡斑斑なり。毎回出門すれば、必ずや離奇失蹤し、誤りて獣径に闖入す。屢次に連累して師門動員し、提灯して徹夜に山を搜す。
--   一度賭誓して自ら路を認識さんとせり。結果は出門するや即座に鬧失蹤す。衆人は尚且つ以為えり是れ[大師兄](/ja/people/characters/brother1.md)の榜樣を学びたるが。導致して大師兄無辜に遷怒を受けたり。険く打ち死するところなり。後に[趙活](/ja/people/characters/protagonist.md)は兎子洞に卡在する小師妹を見つけ出したり。此れ事は両人の間の秘密と成り。
--   夜襲唐門事件に於いて、敵を追擊する為に迷路。前来て彼を尋ぬる[葉雲裳](/ja/people/characters/girl5.md)と共に[趙活](/ja/people/characters/protagonist.md)を見つけたり。始めて帰唐門さ。
--   広州唐門来犯の時。[唐衫](/ja/people/characters/character-tang-shan.md)に誘はれて山林中に至り。方向を迷失し。[父親](/ja/people/characters/master.md)の最後の一面に見ゆる機会を錯過す。
+-   一度賭誓して自ら路を認識さんとせり。結果は出門するや即座に鬧失蹤す。衆人は尚且つ以為えり是れ[大師兄](/ja/people/characters/brother1.md)の榜樣を学びたるが。導致して大師兄無辜に遷怒を受けたり。険く打ち死するところなり。後に[趙活](/ja/people/characters/player)は兎子洞に卡在する小師妹を見つけ出したり。此れ事は両人の間の秘密と成り。
+-   夜襲唐門事件に於いて、敵を追擊する為に迷路。前来て彼を尋ぬる[葉雲裳](/ja/people/characters/girl5.md)と共に[趙活](/ja/people/characters/player)を見つけたり。始めて帰唐門さ。
+-   広州唐門来犯の時。[唐衫](/ja/people/characters/special811)に誘はれて山林中に至り。方向を迷失し。[父親](/ja/people/characters/master.md)の最後の一面に見ゆる機会を錯過す。
 -   出嫁後に大戦前夕に唐門に帰来する時。已に自ら路を認識し得たり。
 
 ## エンディング
 
--   若し結縁無ければ。則ち[瑞笙](/ja/people/characters/character-rui.md)に嫁するべし。若し西武林線[瑞笙](/ja/people/characters/character-rui.md)存活すれば。[唐門](/ja/people/factions/tang.md)に帰るべし。[^2]
--   若し結縁あれば。西武林エンディング後に[趙活](/ja/people/characters/protagonist.md)と[唐門](/ja/people/factions/tang.md)に定居すべし。[^2]
+-   若し結緣無ければ。則ち[瑞笙](/ja/people/characters/special999)に嫁するべし。若し西武林線[瑞笙](/ja/people/characters/special999)存活すれば。[唐門](/ja/people/factions/tang-men)に帰るべし。[^2]
+-   若し結緣あれば。西武林エンディング後に[趙活](/ja/people/characters/player)と[唐門](/ja/people/factions/tang-men)に定居すべし。[^2]
 
 ## 備考
 
@@ -340,17 +340,17 @@ aside: false
 -   生まれし日に唐門は別派と打仗の最中。[^6]
 -   焼魚を食べることを喜く。一生涯焼魚！
 -   人が消沈するを見れば。小手を以ち肩背を拍ち。人を打気す。深く信じたり自己の小手は某種の神祕の力を有し。人の心を療癒することを能くすると。論ずるなく是れ彼の爹娘・大師兄・二師兄も皆甚だ管用あり。若し汝に対して不管用ならば。試に幾回も拍たん。
--   生来にして小動物の属性を有し。加うるに[唐門](/ja/people/factions/tang.md)太だ窮迫して食べ不好し。黄金成長期を錯過し。甚だ難く再び長高ることを得たり。
+-   生来にして小動物の属性を有し。加うるに[唐門](/ja/people/factions/tang-men)太だ窮迫して食べ不好し。黄金成長期を錯過し。甚だ難く再び長高ることを得たり。
 -   食べ飽くることに対して何の概念なく。平時は亦た常に甘きものを食べる機会少なし。一たび食べ得べきことあれば。停まずや口裡に塞ぎ。睡着するまで続く。若し誰人も管せずして続きて餵やれば。遅早や三倍大なる那様の人に成るべし。[^1]
--   第一年[趙活](/ja/people/characters/protagonist.md)暈倒の時。[三師兄](/ja/people/characters/brother3.md)は小師妹は已に芳齢及笄の花季少女たるを言えり。故に十五歳と推測す。
--   滅門線に[夏靈犀](/ja/people/characters/character-xia.md)に小綿羊と称せられ。而して西武林線[四師兄](/ja/people/characters/brother4.md)が一身の血衣を見ば。更に「狂暴小綿羊」と称す。[葉雲裳](/ja/people/characters/girl5.md)も言えり「羊是れ默鈴。吾は鼬なり」と。
+-   第一年[趙活](/ja/people/characters/player)暈倒の時。[三師兄](/ja/people/characters/brother3.md)は小師妹は已に芳齢及笄の花季少女たるを言えり。故に十五歳と推測す。
+-   滅門線に[夏靈犀](/ja/people/characters/special825)に小綿羊と称せられ。而して西武林線[四師兄](/ja/people/characters/brother4.md)が一身の血衣を見ば。更に「狂暴小綿羊」と称す。[葉雲裳](/ja/people/characters/girl5.md)も言えり「羊是れ默鈴。吾は鼬なり」と。
 -   寒冷を怖るべし。[^3]
--   図を画くこと甚だ上手ならず。[劉顎](/ja/people/characters/character-liu.md)に笑はれて人に刻成えて壁画と為さしめ。上古遺跡に偽装せんとす。
--   歌唱は大走音なり。小師妹は顔皮薄く。生人の面前にてあまり歌はず。又た嘲笑さるることを怕る。故に[趙活](/ja/people/characters/protagonist.md)独享す。[^4][^5]
+-   図を画くこと甚だ上手ならず。[劉顎](/ja/people/characters/special1)に笑はれて人に刻成えて壁画と為さしめ。上古遺跡に偽装せんとす。
+-   歌唱は大走音なり。小師妹は顔皮薄く。生人の面前にてあまり歌はず。又た嘲笑さるることを怕る。故に[趙活](/ja/people/characters/player)独享す。[^4][^5]
 -   見え出さぬ年紀の娃娃顔類型に属す。[^6]
 -   小師妹実は大家想像より還に難搞定なる女生。彼は独宠を一半人生より多く被るまで。始めて漸々敞開心胸す。[^7]
--   初見[上官螢](/ja/people/characters/girl1.md)の時、其の明艶絶倫を欽慕し。己が再び長高の機会を有することは難しきと対して絶望に感ず。[上官螢](/ja/people/characters/girl1.md)が唐門に在来する期間、極端に小師妹を溺愛し。[南宮深](/ja/people/characters/character-nan.md)が求親する時に堂正に質問すること為る、何ぞ[上官螢](/ja/people/characters/girl1.md)を要さずして自己を娶るを想うや。[南宮深](/ja/people/characters/character-nan.md)が家人を委屈する未婚妻に類する如き者なることを認めず。
--   [掌門](/ja/people/characters/master.md)は曾て[四師兄](/ja/people/characters/brother4.md)に託して一本の[摺紙集](/ja/people/factions/tang.md)を帰らしめたり。小師妹は甚だ高興し。書中各様は皆折らんとす。色紙無きまで折りたり。就ち邪主意を秘笈上に打ち。隠れて書を撕き。書皮は床底に抛ぎて蔵さす。撕完えたり自己の秘笈は。就ち旁人の秘笈を撕く。最後に東窗事発す。小師妹は掌門家法に侍候されたり。書も亦た封印さ。
+-   初見[上官螢](/ja/people/characters/girl1.md)の時、其の明艶絶倫を欽慕し。己が再び長高の機会を有することは難しきと対して絶望に感ず。[上官螢](/ja/people/characters/girl1.md)が唐門に在来する期間、極端に小師妹を溺愛し。[南宮深](/ja/people/characters/special102)が求親する時に堂正に質問すること為る、何ぞ[上官螢](/ja/people/characters/girl1.md)を要さずして自己を娶るを想うや。[南宮深](/ja/people/characters/special102)が家人を委屈する未婚妻に類する如き者なることを認めず。
+-   [掌門](/ja/people/characters/master.md)は曾て[四師兄](/ja/people/characters/brother4.md)に託して一本の[摺紙集](/ja/system/books/book_8108)を帰らしめたり。小師妹は甚だ高興し。書中各様は皆折らんとす。色紙無きまで折りたり。就ち邪主意を秘笈上に打ち。隠れて書を撕き。書皮は床底に抛ぎて蔵さす。撕完えたり自己の秘笈は。就ち旁人の秘笈を撕く。最後に東窗事発す。小師妹は掌門家法に侍候されたり。書も亦た封印さ。
 -   小師妹流紙鶴：[リンク](https://www.facebook.com/obbstudio/posts/136833392048181?rdid=ZkNxP6wJ5mrUQZpK)
 -   小師妹紙模型：[リンク](https://www.facebook.com/story.php?story_fbid=431711456048902&id=100076301525150&mibextid=oFDknk&rdid=GFOHhRHD9w0HwSTS)
 -   鳥熊敘述現代人小師妹：[出典](https://www.facebook.com/obbstudio/posts/pfbid02eAuA5dxrPNzVAtVYGNGbLUi4n6W4EEtTad2Dw4QCZzBwQ9k7YCo8T71jukgRGD3Rl?comment_id=673300937515487)

@@ -1,5 +1,5 @@
 ---
-title: 齊壬
+title: 齊壬 (セイジン)
 aside: false
 outline: [2, 3]
 sidebar: false

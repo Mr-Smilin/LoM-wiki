@@ -32,12 +32,12 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [唐中翎](/ja/people/characters/tang_zhong_ling) (掌門)
+                    [唐中翎](/ja/people/characters/master) (掌門)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [趙活](/ja/people/characters/zhao_huo) (師弟)
+                    [趙活](/ja/people/characters/player) (師弟)
                 </ChTd>
             </ChTr>
         </ChTable>
@@ -46,8 +46,8 @@ tags:
 
 > 「草魚一匹で二百文、一度も値下げしたことがない。なのに家々で高いだの、ぼったくりだの言われる。」
 
-もともと[滄幫](/ja/people/factions/cang_bang)の人間で、性情が暴戻だった。岷江から船で蜀中に来たが、米が湿気を帯びて赤くなったことで同伴者と争い船を下りた。その後、何匹かの魚を捕まえて売ったが、[滄幫](/ja/people/factions/cang_bang)だけが開くことができる高い値段をつけていた。[福韞](/ja/people/characters/fu_yun)に教訓されるところを[趙活](/ja/people/characters/zhao_huo)に目撃された。
+もともと[滄幫](/ja/people/factions/cang-gang)の人間で、性情が暴戻だった。岷江から船で蜀中に来たが、米が湿気を帯びて赤くなったことで同伴者と争い船を下りた。その後、何匹かの魚を捕まえて売ったが、[滄幫](/ja/people/factions/cang-gang)だけが開くことができる高い値段をつけていた。[福韞](/ja/people/characters/special206)に教訓されるところを[趙活](/ja/people/characters/player)に目撃された。
 <br><br>
-選択肢によっては、[唐門](/ja/people/factions/tang_sect)に拜入して名前を唐大鯨に改め、[趙活](/ja/people/characters/zhao_huo)を小弟と認め、戦役で出場することもある。
+選択肢によっては、[唐門](/ja/people/factions/tang-men)に拜入して名前を唐大鯨に改め、[趙活](/ja/people/characters/player)を小弟と認め、戦役で出場することもある。
 <br><br>
-甚だしく[葉雲裳](/ja/people/characters/ye_yun_shang)が怖く、何か食べ物があるとすぐに奪われてしまう。姑娘（あ奶奶）と呼び声も絶えず、整えられているのは十分だ。
+甚だしく[葉雲裳](/ja/people/characters/girl2)が怖く、何か食べ物があるとすぐに奪われてしまう。姑娘（あ奶奶）と呼び声も絶えず、整えられているのは十分だ。

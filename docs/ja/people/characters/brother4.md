@@ -51,7 +51,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [唐鹿](/ja/people/characters/mother.md) (師娘)
+                    [唐鹿](/ja/people/characters/other10) (師娘)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -76,7 +76,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [趙活](/ja/people/characters/protagonist.md) (師弟)
+                    [趙活](/ja/people/characters/player) (師弟)
                 </ChTd>
             </ChTr>
         </ChTable>
@@ -138,25 +138,25 @@ aside: false
 
 -   「消費するだけで好感度が上昇するキャラクター」――鳥熊[^2]
 -   野心ありし人にして、彼の眼に銭ありば女も自然と有るべし。[上官螢](/ja/people/characters/girl1.md)が如き多くの銭を賺く女子に対しては、唯人家を競争対手と当つるのみ。[^1]
--   四師兄の公差は経常に人を喚ぶことを得ず。因為に彼は頻りに採買職務の便に託して、人家に彼の代わりに順道私貨を搬運することを央求し、反手に再び価を抬げて人に売るなり。師兄弟皆彼に騙され一輪を給へるに至りて、此より誰人も上当ることを肯ぜず。到った不得已の時、[趙活](/ja/people/characters/protagonist.md)を推出して搪塞す。
--   貪財なりといえども、家人朋友に対しては尚且つ挺として仗義なり。[趙活](/ja/people/characters/protagonist.md)に託して[晁和](/ja/people/characters/character-chao.md)から訛来りたる銭は、主動して[趙活](/ja/people/characters/protagonist.md)に一半を分与す。[小師妹](/ja/people/characters/girl2.md)が嫁する時は更に財富を惜しまず、自告奮勇して嫁粧を張羅し、婚事を籌備し、小師妹をして風々光々に嫁がしめんとしたり。
+-   四師兄の公差は経常に人を喚ぶことを得ず。因為に彼は頻りに採買職務の便に託して、人家に彼の代わりに順道私貨を搬運することを央求し、反手に再び価を抬げて人に売るなり。師兄弟皆彼に騙され一輪を給へるに至りて、此より誰人も上当ることを肯ぜず。到った不得已の時、[趙活](/ja/people/characters/player)を推出して搪塞す。
+-   貪財なりといえども、家人朋友に対しては尚且つ挺として仗義なり。[趙活](/ja/people/characters/player)に託して[晁和](/ja/people/characters/special208)から訛来りたる銭は、主動して[趙活](/ja/people/characters/player)に一半を分与す。[小師妹](/ja/people/characters/girl2.md)が嫁する時は更に財富を惜しまず、自告奮勇して嫁粧を張羅し、婚事を籌備し、小師妹をして風々光々に嫁がしめんとしたり。
 
 ## 武功
 
 -   動武を喜ばず、友好なる切磋すら会流汗することを嫌う。
 -   外出して危険に遭へば、通常花銭にして災を消す。手上の銭を奪ひ去られたる時に真正の実力を顕現し、二個の強盗に面対して亦た打ち死することを能くす。
 -   性情は謹慎にして、膽小に近し。来より和気傷財を主張して、稀に人と動武す。[大師兄](/ja/people/characters/brother1.md)が[龍湘](/ja/people/characters/girl5.md)の誤解討伐に遭ひたる時、武林人たるを身と為しながらも尚且つ衙門に到りて鼓を撃ちて鳴冤し、常俗の百姓に状告す。
--   背上の機関篋笥は多種の形態に変形することを能くす。然れども経営形象を考慮して、四師兄寧ろ[金烏上人](/ja/people/characters/character-jin.md)に打たれて吐血するも、衆目睽睽の下に篋笥を変形させることを願はず。
+-   背上の機関篋笥は多種の形態に変形することを能くす。然れども経営形象を考慮して、四師兄寧ろ[金烏上人](/ja/people/characters/special207)に打たれて吐血するも、衆目睽睽の下に篋笥を変形させることを願はず。
 -   篋笥上のパイナップルは真に非ず。パイナップルに形似たる金属暗器にして、炸開して人を殺す。[^3]
 
 ## 備考
 
 -   走商の緣故により経常に臥室にて眠らず。可彼が帰来するの時、大家皆睡眠して甚だ擠まる。
 -   油條を愛食す。
--   破廟線に於いて[趙活](/ja/people/characters/protagonist.md)が青城に療傷に往きたると聞き、便ち前往して探視す。可又び伴手礼を青城掌門に買ひ与ふることを望まざるために、青城山鎮に住下す。青城山鎮都江客栈の楚掌櫃と老交情にして、其れ窮困潦倒の時に一筆の救命銭を与へたり。之を以ちて恩を挟みて永久住店特権を換得す。
+-   破廟線に於いて[趙活](/ja/people/characters/player)が青城に療傷に往きたると聞き、便ち前往して探視す。可又び伴手礼を青城掌門に買ひ与ふることを望まざるために、青城山鎮に住下す。青城山鎮都江客栈の楚掌櫃と老交情にして、其れ窮困潦倒の時に一筆の救命銭を与へたり。之を以ちて恩を挟みて永久住店特権を換得す。
 -   [葉雲裳](/ja/people/characters/girl0.md)に四師肥と喚ばれたり。甚だ整へらる。
 
-[^1]: [[問答集2024年10月#_2024-10-08|問答集2024-10-08]]
+[^1]: [問答集2024-10-08](/ja/other/qna/202410)
 [^2]: Facebook - [オリジナル鳥熊2024/6/1](https://www.facebook.com/obbstudio/posts/pfbid02DWHjzPLdRguLBns6wSeWRQUC1DcNr4nRNhgGfytbghiHANhircvTyAGndWyktv5Dl)
-[^3]: [[問答集2024年8月#_2024-08-18|問答集2024-08-18]]
+[^3]: [問答集2024-08-18](/ja/other/qna/202408)
 [^4]: Facebook - [オリジナル鳥熊2023/3/24](https://www.facebook.com/photo.php?fbid=227827013104015&set=p.227827013104015&type=3)

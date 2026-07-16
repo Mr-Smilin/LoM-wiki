@@ -1,5 +1,5 @@
 ---
-title: 陳倔
+title: 陳倔 (チンクツ)
 aside: false
 outline: [2, 3]
 sidebar: false

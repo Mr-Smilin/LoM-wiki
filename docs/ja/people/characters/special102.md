@@ -36,27 +36,27 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[南宮橫]] (爺爺)
+					[南宮橫](/ja/people/characters/special104) (爺爺)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[南宮遠]] (父親)
+					[南宮遠](/ja/people/characters/special101) (父親)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[南宮淺]] (弟弟)
+					[南宮淺](/ja/people/characters/special103) (弟弟)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[上官螢]] (婚約)
+					[上官螢](/ja/people/characters/girl4) (婚約)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[魏菊]] (同學)
+					[魏菊](/ja/people/characters/girl7) (同學)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -92,7 +92,7 @@ aside: false
   </Tab>
 </Tabs>
 
-## 處世
+## 処世
 
 -   待人は両極。力なき人を痛恨し、逆に実力あり欣賞する者の態度は全く違う。
 -   管吃管喝~~管嫖~~。
@@ -103,7 +103,7 @@ aside: false
     > 　作る詩は庸俗にして耳に入らず、書く字は剣気と称するも実は張牙舞爪；<br>
     > 　明々白々[上官螢](/ja/people/characters/girl2)のような佳い未婚妻あるに、猶お自命風流拈花惹草。」
 -   伝説の文本は南宮深の敘述が特別に辛辣で、[魏菊](/ja/people/characters)が密かに臭い言葉で貶めているのではないかと疑われている。
--   陳序、余自詠、成溪、[公子秀](/ja/people/characters/special212)と並称される[花城四少](/ja/systems/faction)、煙花柳巷の常客。花城四少がなぜ5人いるのかについては常に困惑していて、誰も相手にしたくなく、問われるたびに陰湿な話で誤魔化す。
+-   陳序、余自詠、成溪、[公子秀](/ja/people/characters/special212)と並称される[花城四少](/ja/people/characters/group1)、煙花柳巷の常客。花城四少がなぜ5人いるのかについては常に困惑していて、誰も相手にしたくなく、問われるたびに陰湿な話で誤魔化す。
 -   靜江九縣小盟主[方震天](/ja/people/characters)、火炎山総錬長[段純青](/ja/people/characters)、斬天黑翼雙龍剣の[齊壬](/ja/people/characters)と好友。
 
 ## 裝扮
@@ -138,7 +138,7 @@ aside: false
 ## 備註
 
 -   単名「深」は個性の意を指し、胞弟[南宮淺](/ja/people/characters/special103)と相互対比をなす。[^3]
--   母親が生存するも、南宮家に住まず、多年前から娘家に戻り、[南宮世家](/ja/systems/faction)と連絡がない。[^1]
+-   母親が生存するも、南宮家に住まず、多年前から娘家に戻り、[南宮世家](/ja/people/factions/nan-gong-family)と連絡がない。[^1]
 -   甚だしく[唐布衣](/ja/people/characters/brother1)を恐怖する。一度ならず蒙面人に花心多情で毆打され、暗に局を設けて報復してもより一層叩かれた。
 -   武林盟の説客として、本来武林盟情報を洩らすべからず。それなのに武林盟高手を報出して、唐門のために偷報底細を為した。
 

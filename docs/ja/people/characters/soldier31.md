@@ -26,25 +26,25 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
-					稱號
+					称号
 				</ChTd>
 				<ChTd>
-					襄陽守將
+					襄陽守将
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
-					關係
+					関係
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[丹霞子]] (戰友)
+					[丹霞子](/ja/people/characters/special404) (戦友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[瑞笙]] (媒人)
+					[瑞笙](/ja/people/characters/special999) (仲人)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -52,6 +52,6 @@ tags:
 </ChTabs>
 <br><br>
 
-趙老将軍、襄陽守将。「道法将軍」[丹霞子](/ja/people/characters/special404)と共に金に抵抗している。
+趙老将軍。襄陽守将として、「道法将軍」[丹霞子](/ja/people/characters/special404)と共に金に抗った。
 <br><br>
-[瑞笙](/ja/people/characters)に手紙を送り、[唐默鈴](/ja/people/characters/girl4)の婚約者選挙で彼の仲人になるよう頼んだ。
+かつて[瑞笙](/ja/people/characters/special999)のために書状をしたため、[唐默鈴](/ja/people/characters/girl0)の比武招親で仲人を務めた。

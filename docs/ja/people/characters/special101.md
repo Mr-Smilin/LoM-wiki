@@ -47,37 +47,37 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[南宮橫]] (父親)
+					[南宮橫](/ja/people/characters/special104) (父親)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[南宮深]] (大兒子)
+					[南宮深](/ja/people/characters/special102) (大兒子)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[南宮淺]] (二兒子)
+					[南宮淺](/ja/people/characters/special103) (二兒子)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[溫夫人]] (前戀人)
+					[溫夫人](/ja/people/characters/special402) (前戀人)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[溫無畏]] (故友)
+					[溫無畏](/ja/people/characters/other13) (故友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[王二壯]] (舊友)
+					[王二壯](/ja/people/characters/special401) (舊友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[上官隼]] (舊友)
+					[上官隼](/ja/people/characters/special407) (舊友)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -89,9 +89,9 @@ tags:
 <br><br>
 かつて[上官隼](/ja/people/characters/special999)の魔手から江湖第一の美人・楽妓[蘇迎香](/ja/people/characters/girl1)を救い出し、美人の心を勝ち取った。しかし南宮遠は[蘇迎香](/ja/people/characters/girl1)の感情を拒否し、重傷の友人[溫無畏](/ja/people/characters)に譲った。
 <br><br>
-[溫無畏](/ja/people/characters)の死後、南宮遠は後ろめたさを感じ、手土産を持って[錦香宮](/ja/systems/faction)に[蘇迎香](/ja/people/characters/girl1)を訪ねたが、破鏡重円を求めず、補償をしたいだけだった。[蘇迎香](/ja/people/characters/girl1)は迷香、琴音で心を乱し、汚い女との一夜で南宮淺を生ませた。数年後、その女が淺を連れて家門に入ってきたが、南宮遠は親切ではなかった。
+[溫無畏](/ja/people/characters)の死後、南宮遠は後ろめたさを感じ、手土産を持って[錦香宮](/ja/people/factions/jin-xiang-palace)に[蘇迎香](/ja/people/characters/girl1)を訪ねたが、破鏡重円を求めず、補償をしたいだけだった。[蘇迎香](/ja/people/characters/girl1)は迷香、琴音で心を乱し、汚い女との一夜で南宮淺を生ませた。数年後、その女が淺を連れて家門に入ってきたが、南宮遠は親切ではなかった。
 <br><br>
-南宮遠は一日として言葉が偽りであったことを後悔していない。しかし[蘇迎香](/ja/people/characters/girl1)の恨みは消えず、20年間[南宮世家](/ja/systems/faction)と[錦香宮](/ja/systems/faction)は仲が悪い。
+南宮遠は一日として言葉が偽りであったことを後悔していない。しかし[蘇迎香](/ja/people/characters/girl1)の恨みは消えず、20年間[南宮世家](/ja/people/factions/nan-gong-family)と[錦香宮](/ja/people/factions/jin-xiang-palace)は仲が悪い。
 <br><br>
 20年前、[王春曉](/ja/people/characters/special3)、[蘇迎香](/ja/people/characters/girl1)、[溫無畏](/ja/people/characters)が心を合わせて彼を武林盟主に推薦したが、彼は[龍淵](/ja/people/characters/special2)の絶世武功を敬慕し、自ら譲歩した。風雨山大会で新盟主に推挙されたが、人間道の乱の中で[蘇迎香](/ja/people/characters/girl1)に心臓を刺された。刺さらなかったが、彼自身がより深く刺し、彼女と殉情死。
 
@@ -104,7 +104,7 @@ tags:
 
 ## 王二壯
 
--   [王二壯](/ja/people/characters/special3)に20年会っていない。長年探しても見つからず、[耕陽讀書齋](/ja/systems/faction)に求め、新聞に載せて人を探しても、何の音もない。
+-   [王二壯](/ja/people/characters/special3)に20年会っていない。長年探しても見つからず、[耕陽讀書齋](/ja/people/factions/geng-yang-study)に求め、新聞に載せて人を探しても、何の音もない。
 -   爛柯子の称号は、ただ年配の武林人がうっすらと聞いたことがあるだけで、江陵の一戦で[王二壯](/ja/people/characters/special3)がこれで南宮遠を呼び出した。
 -   [王二壯](/ja/people/characters/special3)が[唐布衣](/ja/people/characters/brother1)が「青楼閃電俠」というあだ名を言うのを聞いて、南宮遠が漏らしたと思った。
 -   負けるのが棋技でも武功でも、尊敬していると言う。しかし強者である私の友人「王公子」が手を出したら、あなたは敵わないだろう。
@@ -119,7 +119,7 @@ tags:
 
 ## 備註
 
--   愛用の玄鐵陰陽棋盤は正に[唐門](/ja/systems/faction)の打造。砸打でき、防禦もでき、棋盤の上の子は捻りて暗器と為りて揮擲す、実に変化莫測。材質は磁鐵で、人の兵器を専ら収納。知らない人は南宮遠の内力が高いと思う。
+-   愛用の玄鐵陰陽棋盤は正に[唐門](/ja/people/factions/tang-men)の打造。砸打でき、防禦もでき、棋盤の上の子は捻りて暗器と為りて揮擲す、実に変化莫測。材質は磁鐵で、人の兵器を専ら収納。知らない人は南宮遠の内力が高いと思う。
 -   かつて[葉雲裳](/ja/people/characters/girl3)のため掌を延命した。
 -   若い時も翩翩たる風流佳公子で、[唐布衣](/ja/people/characters/brother1)が青樓に走るのを見ては喜んで笑った。
 -   長子[南宮深](/ja/people/characters/special102)をかなり気遣う。[尹志平](/ja/people/characters)と棋を下す時、賭けるのは兒子を指導させること。

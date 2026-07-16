@@ -1,5 +1,5 @@
 ---
-title: 汗青書
+title: 汗青書 (エンディング)
 description: 汗青書
 aside: false
 outline: [2, 3]
@@ -34,8 +34,8 @@ tags:
 { text: '【郁竹】' },
 { text: '【魏菊】' },
 { text: '【龍湘】' },
-{ text: '【結縁】' },
-{ text: '【結縁？】' },
+{ text: '【結緣】' },
+{ text: '【結緣？】' },
 { text: '【破廟線】' },
 { text: '【青城留学】' },
 { text: '【小梅拉致】' },
@@ -111,7 +111,7 @@ tags:
 <EndIcon no="5">自分さえよければ</EndIcon>
 </td>
 <td>
-<span style="color: #FF1493;">【結縁？】</span><br>
+<span style="color: #FF1493;">【結緣？】</span><br>
 デモ版エンディング。唐門滅亡直前に普通の女弟子と共に下山し、唐門の後継者となる。
 </td>
 </tr>
@@ -161,7 +161,7 @@ tags:
 <span style="color: #B22222;">【小梅拉致】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
 <span style="color: #70AA39;">【郁竹】</span>
-<span style="color: #FF1493;">【結縁？】</span><br>
+<span style="color: #FF1493;">【結緣？】</span><br>
 大師兄の治療中に虞小梅に脅されて途中で功を収める。その後虞小梅に軟禁されて世外桃源で過ごし、郁竹に告白する勇気がなく隣人として過ごす残りの人生。
 </td>
 </tr>
@@ -176,7 +176,7 @@ tags:
 <span style="color: #B22222;">【小梅拉致】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
 <span style="color: #70AA39;">【郁竹】</span>
-<span style="color: #FF1493;">【結縁？】</span><br>
+<span style="color: #FF1493;">【結緣？】</span><br>
 大師兄の治療中に虞小梅に脅されて途中で功を収める。その後虞小梅に軟禁されて世外桃源で過ごし、郁竹と夫婦となり共に一生を送る。
 </td>
 </tr>
@@ -339,7 +339,7 @@ tags:
 <td>
 <span style="color: #00BFFF;">【夏侯蘭】</span>
 <span style="color: Gold;">【魏菊】</span>
-<span style="color: #FF1493;">【結縁？】</span><br>
+<span style="color: #FF1493;">【結緣？】</span><br>
 夏侯蘭に師事するが、功の修行に気が散り、悪漢に無理やり拉致された村娘と鴛盟を交わす。江湖を離れ官界に入り、自分の姿を忘れ別人になる。
 </td>
 </tr>
@@ -353,7 +353,7 @@ tags:
 <td>
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: White;">【龍湘】</span>
-<span style="color: #FF1493;">【結縁？】</span><br>
+<span style="color: #FF1493;">【結緣？】</span><br>
 既に紅粉知己がいるにもかかわらず、唐門解散時に龍湘に告白を迫り、龍湘を投身自殺に追い込む。
 </td>
 </tr>
@@ -380,8 +380,8 @@ tags:
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
-虞小梅と結縁する低道徳の唐門解散エンディング。
+<span style="color: #FF1493;">【結緣】</span><br>
+虞小梅と結緣する低道徳の唐門解散エンディング。
 </td>
 </tr>
 <tr>
@@ -395,8 +395,8 @@ tags:
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
-虞小梅と結縁する高道徳の唐門解散エンディング。
+<span style="color: #FF1493;">【結緣】</span><br>
+虞小梅と結緣する高道徳の唐門解散エンディング。
 </td>
 </tr>
 <tr>
@@ -410,8 +410,8 @@ tags:
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #70AA39;">【郁竹】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
-郁竹と結縁する低道徳の唐門解散エンディング。
+<span style="color: #FF1493;">【結緣】</span><br>
+郁竹と結緣する低道徳の唐門解散エンディング。
 </td>
 </tr>
 <tr>
@@ -425,8 +425,8 @@ tags:
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #70AA39;">【郁竹】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
-郁竹と結縁する高道徳の唐門解散エンディング。
+<span style="color: #FF1493;">【結緣】</span><br>
+郁竹と結緣する高道徳の唐門解散エンディング。
 </td>
 </tr>
 <tr>
@@ -440,8 +440,8 @@ tags:
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: Gold;">【魏菊】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
-魏菊と結縁する唐門解散エンディング。
+<span style="color: #FF1493;">【結緣】</span><br>
+魏菊と結緣する唐門解散エンディング。
 </td>
 </tr>
 <tr>
@@ -452,7 +452,7 @@ tags:
 <EndIcon no="31">伝説の人物</EndIcon>
 </td>
 <td>
-夏侯蘭と結縁する高道徳の唐門解散エンディング。
+夏侯蘭と結緣する高道徳の唐門解散エンディング。
 </td>
 </tr>
 <tr>
@@ -488,7 +488,7 @@ tags:
 </td>
 <td>
 <span style="color: #00BFFF;">【夏侯蘭】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
+<span style="color: #FF1493;">【結緣】</span><br>
 唐門滅亡の危機時、夏侯蘭の師命に従い唐門から脱出。
 </td>
 </tr>
@@ -526,7 +526,7 @@ tags:
 <td>
 <span style="color: #DC0000;">【唐門滅亡】</span>
 <span style="color: #E34234;">【唐默鈴】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
+<span style="color: #FF1493;">【結緣】</span><br>
 小師妹と心が通じ婚約を結んだ後、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
 </td>
 </tr>
@@ -540,8 +540,8 @@ tags:
 <td>
 <span style="color: #DC0000;">【唐門滅亡】</span>
 <span style="color: #B0DCD5;">【葉雲裳】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
-葉雲裳と結縁し、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
+<span style="color: #FF1493;">【結緣】</span><br>
+葉雲裳と結緣し、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
 </td>
 </tr>
 <tr>
@@ -555,8 +555,8 @@ tags:
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #DC0000;">【唐門滅亡】</span>
 <span style="color: MediumOrchid;">【上官螢】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
-上官螢と結縁し、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
+<span style="color: #FF1493;">【結緣】</span><br>
+上官螢と結緣し、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
 </td>
 </tr>
 <tr>
@@ -570,8 +570,8 @@ tags:
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #DC0000;">【唐門滅亡】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
-虞小梅と結縁し、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
+<span style="color: #FF1493;">【結緣】</span><br>
+虞小梅と結緣し、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
 </td>
 </tr>
 <tr>
@@ -585,8 +585,8 @@ tags:
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #DC0000;">【唐門滅亡】</span>
 <span style="color: #70AA39;">【郁竹】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
-郁竹と結縁し、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
+<span style="color: #FF1493;">【結緣】</span><br>
+郁竹と結緣し、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
 </td>
 </tr>
 <tr>
@@ -600,8 +600,8 @@ tags:
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #DC0000;">【唐門滅亡】</span>
 <span style="color: Gold;">【魏菊】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
-魏菊と結縁し、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
+<span style="color: #FF1493;">【結緣】</span><br>
+魏菊と結緣し、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
 </td>
 </tr>
 <tr>
@@ -614,7 +614,7 @@ tags:
 <td>
 <span style="color: #DC0000;">【唐門滅亡】</span>
 <span style="color: #00BFFF;">【夏侯蘭】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
+<span style="color: #FF1493;">【結緣】</span><br>
 師を欺き宗を滅ぼす畜生として、恩師夏侯蘭を娶った後、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
 </td>
 </tr>
@@ -628,7 +628,7 @@ tags:
 <td>
 <span style="color: #DC0000;">【唐門滅亡】</span>
 <span style="color: White;">【龍湘】</span>
-<span style="color: #FF1493;">【結縁】</span><br>
+<span style="color: #FF1493;">【結緣】</span><br>
 弟から夫へ、龍湘の心の魔を解き後山で挙式した後、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
 </td>
 </tr>
@@ -700,7 +700,7 @@ tags:
 <EndIcon no="50">峨嵋派弟子</EndIcon>
 </td>
 <td>
-<span style="color: #FF1493;">【結縁？】</span><br>
+<span style="color: #FF1493;">【結緣？】</span><br>
 唐門に留学に来た唐嬌嬌に勝利し、唐嬌嬌と成親して峨嵋派に加わる。
 </td>
 </tr>
@@ -758,4 +758,4 @@ tags:
 ## 備考
 
 -   データ出典：バハムート－[【攻略】v1.05 生死簿汗青書整理(ネタバレあり)](https://forum.gamer.com.tw/C.php?bsn=73317&snA=3647&tnum=3&subbsn=3)
--   滅門線エンディング結縁優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
+-   滅門線エンディング結緣優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>

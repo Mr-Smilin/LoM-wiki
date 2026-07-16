@@ -1,5 +1,5 @@
 ---
-title: 鳥熊問答集
+title: 鳥熊 Q&A 集
 outline: [2, 3]
 aside: false
 sidebar: false

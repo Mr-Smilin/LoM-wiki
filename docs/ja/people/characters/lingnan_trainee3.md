@@ -1,5 +1,5 @@
 ---
-title: 米歐寬
+title: 米歐寬 (ベイオウカン)
 aside: false
 outline: [2, 3]
 sidebar: false

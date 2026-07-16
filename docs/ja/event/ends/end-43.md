@@ -13,7 +13,7 @@ tags:
     - 最後まで抵抗
     - 唐門滅亡
     - 夏侯蘭
-    - 結縁
+    - 結緣
 ---
 
 # {{ $frontmatter.title }}
@@ -28,10 +28,10 @@ tags:
 </EndBackground>
 
 ## 条件とルート
-<strong>条件：</strong><Girl5Icon>夏侯蘭</Girl5Icon>と結縁、「最後まで抵抗」シナリオ線に進入。<br>
+<strong>条件：</strong><Girl5Icon>夏侯蘭</Girl5Icon>と結緣、「最後まで抵抗」シナリオ線に進入。<br>
 **ルート：**<br>
 
-### 一、夏侯蘭と結縁
+### 一、夏侯蘭と結緣
 1. 二年二月上旬唐門会議、**📜議題「崆峒派へ留学に行きたい」**。
 2. 二年三月上旬、門派抽籤に参加し、奪魄門に加入する必要がある<Girl5Icon>夏侯蘭</Girl5Icon>を認識する
    + 二番目の選択**📖選項「門派の名誉のために同意」**。
@@ -42,7 +42,7 @@ tags:
 6. 三年六月上旬唐門会議、**📜議題「雪山行」**。
 7. 三年七月中旬<Girl5Icon>夏侯蘭</Girl5Icon>に穴を塞がれた後、連続三回**📖「抵抗」**を選択（二番目の選択肢開放には穴を塞がれる前に身に着けている道具に酒があり<Girl5Icon>夏侯蘭</Girl5Icon>を酔わせることが必要、三番目の選択肢開放には心上人が<Girl5Icon>夏侯蘭</Girl5Icon>であることが必要）、最初の三回の運命転盤の結果は関係ない。
 8. 四番目の運命転盤**🎲運命：あなたの抵抗......**(上限50、➕加値：<Girl5Icon>夏侯蘭</Girl5Icon>好感度)：**🧾【＝99】抵抗**を出す。
-9. 🗡️<Girl5Icon>夏侯蘭</Girl5Icon>との決闘勝利、<span style='color: #FF1493;'><Girl5Icon>夏侯蘭</Girl5Icon>と結縁</span>、三年八月上旬「夏侯蘭の髪帯」獲得。
+9. 🗡️<Girl5Icon>夏侯蘭</Girl5Icon>との決闘勝利、<span style='color: #FF1493;'><Girl5Icon>夏侯蘭</Girl5Icon>と結緣</span>、三年八月上旬「夏侯蘭の髪帯」獲得。
 
 ### 二、唐門包囲戦
 1. 三年十二月上旬最後の行動前。[眾人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で「最後まで抵抗」シナリオ線に進入。
@@ -65,8 +65,8 @@ tags:
    + その他の結果：
      + **📖選項「全力で突破」**：⚔️混戦、勝負は無関係。
      + **📖選項「一人も残さない」**：⚔️混戦、勝利必須→⚔️混戦、勝負は無関係。
-6. 🗡️武林盟主[瑞笙](/ja/people/characters/special999)との決闘、勝利後、より優先度の高いキャラクターと結縁していない場合、結局に進入。
-   + ※唐門滅亡結局の結縁優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
+6. 🗡️武林盟主[瑞笙](/ja/people/characters/special999)との決闘、勝利後、より優先度の高いキャラクターと結緣していない場合、結局に進入。
+   + ※唐門滅亡結局の結緣優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 
 ## 分岐と変化
 

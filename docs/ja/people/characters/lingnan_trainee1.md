@@ -1,5 +1,5 @@
 ---
-title: 林志恆
+title: 林志恆 (リンシコウ)
 aside: false
 outline: [2, 3]
 sidebar: false

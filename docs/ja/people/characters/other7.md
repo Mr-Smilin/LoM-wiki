@@ -11,12 +11,12 @@ tags:
 
 # {{ $frontmatter.title }}
 
-通号「快活王」。昔日、中原を蹂躙した[極樂教](/ja/systems/faction)の極樂魔尊。伝説の殺手組織[千燈樓](/ja/systems/faction)の主人であり、西夏の夏襄宗の実父でもある。
+称号「快活王」。かつて中原を蹂躙した[極樂魔尊](/ja/people/factions/elysium-school)にして、伝説の暗殺組織[千燈樓](/ja/people/factions/thousand-lantern-tower)の主。さらには西夏の夏襄宗の実の父でもある。
 
 <br>
 
-[李元棄](/ja/people/characters)の左使より内力が雄厚で、右使の刀招より狠辣。九転輪迴、呑天寶鑑。数十年の魔功は古今を冠絶する。一本の鬼蓮王刀を提げ、揮舞すれば鬼哭神号し、[萬里鵬程](/ja/people/characters/special999)も見れば心身に悪寒が走る。
+[左使](/ja/people/characters/special213)よりも内力は雄渾、右使よりも刀招は苛烈。九轉輪迴、吞天寶鑑。数十年の魔功は古今に冠絶する。一振りの鬼蓮王刀を提げ、ひとたび振るえば鬼哭神号、[萬里鵬程](/ja/people/characters/special6)ですら見れば悪寒を禁じ得なかった。
 
 <br>
 
-[決戰極樂教](/ja/event)の一役で[龍淵](/ja/people/characters/special2)に敗北。[極樂教](/ja/systems/faction)の鎮教三寶の一つ『九転輪迴大法』によって肉身を奪舍し、転生して[申屠龍](/ja/people/characters)となった。
+[極樂教の一戦](/ja/event/stories/決戰極樂教)で[龍淵](/ja/people/characters/special2)に敗れ、[極樂教](/ja/people/factions/elysium-school)鎮教三宝の一つ《九轉輪迴大法》で肉体を奪舎し、転生して[申屠龍](/ja/people/characters/special405)となった。

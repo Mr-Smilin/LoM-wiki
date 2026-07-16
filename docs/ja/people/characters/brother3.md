@@ -60,7 +60,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [唐鹿](/ja/people/characters/mother.md) (師娘)
+                    [唐鹿](/ja/people/characters/other10) (師娘)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -85,7 +85,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [趙活](/ja/people/characters/protagonist.md) (師弟)
+                    [趙活](/ja/people/characters/player) (師弟)
                 </ChTd>
             </ChTr>
         </table>
@@ -148,7 +148,7 @@ aside: false
 ## 労苦
 
 -   通常は講経樓にて忙しく、既に前回横臥して眠りしことを記憶に留めざるほどの時間が過ぎたり。経常に作業中に机に伏して意識を失う。
--   鳥熊は三師兄が[向無憂](/ja/people/factions/emei.md)より更に労働あるべきなりと言いたまう。結局のところ[峨嵋派](/ja/people/factions/emei.md)は借財を負はず、門徒も事を起こしたるなり。~~太く苦しきかな~~[^2]
+-   鳥熊は三師兄が[向無憂](/ja/people/characters/special408)より更に労働あるべきなりと言いたまう。結局のところ[峨嵋派](/ja/people/factions/emei-sect)は借財を負はず、門徒も事を起こしたるなり。~~太く苦しきかな~~[^2]
 -   鳥熊は三師兄の過労は玩命の地歩なりて、彼らより更に疲労あるべきなり。[^4]
   
 ## 備考
@@ -157,10 +157,10 @@ aside: false
 -   年過而立してより師に拜し、[四師兄](/ja/people/characters/brother4.md)の拾ひたる日に依りて劫法場は約18年前と算し、故に推測する48歳。
 -   星座は五月の牡牛座。[^3]
 -   三師兄は温文博学にして迂腐。聖賢書を讀み、相当に礼節を重んずる。
--   [趙活](/ja/people/characters/protagonist.md)は言えるに、彼が下山を迫られば、新しき魔教を拵えて、之を唐陞教と名付けんと。
+-   [趙活](/ja/people/characters/player)は言えるに、彼が下山を迫られば、新しき魔教を拵えて、之を唐陞教と名付けんと。
 -   DEMO線の江湖伝聞に、三師兄は専ら六旬以上の婆さんを誘拐し、房に關じ、旧魔教遺伝の邪悪魔功を修合し、人家をして梅開二度ならしむと言えり。
--   二十年前の劫法場の劇情は白髪なり。単純に年若きバージョンの立ち絵を準備せざるより出でたり。[^1]
--   留学に未だ行かざる[趙活](/ja/people/characters/protagonist.md)が喪志して下山したる時、傍身多年の本命銭を[趙活](/ja/people/characters/protagonist.md)に旅途の花用に与え、幾つかの師兄の代理にして贈与すと推して言いたり。
+-   二十年前の劫法場のシナリオは白髪なり。単純に年若きバージョンの立ち絵を準備せざるより出でたり。[^1]
+-   留学に未だ行かざる[趙活](/ja/people/characters/player)が喪志して下山したる時、傍身多年の本命銭を[趙活](/ja/people/characters/player)に旅途の花用に与え、幾つかの師兄の代理にして贈与すと推して言いたり。
 -   毎回[大師兄](/ja/people/characters/brother1.md)が下山すれば心提胆落し、彼が何日か一位の師嫂を帯びて帰らんことを深く怖る。
 -   [葉雲裳](/ja/people/characters/girl0.md)に爺爺と稱せられたり。
 

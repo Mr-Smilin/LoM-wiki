@@ -31,17 +31,17 @@ tags:
 			</ChTr>
 			<ChTr>
                 <ChTd position='center'>
-                    [趙擴](/ja/people/) (皇帝)
+                    [趙擴](/ja/people/characters/special817) (皇帝)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [趙方](/ja/people/) (襄陽守将)
+                    [趙方](/ja/people/characters/soldier31) (襄陽守将)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [宋悲](/ja/people/) (神捕)
+                    [宋悲](/ja/people/characters/special800) (神捕)
                 </ChTd>
             </ChTr>
 		</table>
@@ -52,7 +52,7 @@ tags:
 
 <br>
 
-金国・西夏と隣接し、領土は何度も金国の侵攻を受けており、[趙方](/ja/people/)と[丹霞子](/ja/people/)が襄陽戦線を守っています。20年前、西夏も[極楽教](/ja/people/factions/extreme-bliss-sect.md)と結託して河西回廊進攻を企てたことがあります。
+金国・西夏と隣接し、領土は何度も金国の侵攻を受けており、[趙方](/ja/people/characters/soldier31)と[丹霞子](/ja/people/characters/special404)が襄陽戦線を守っています。20年前、西夏も極楽教と結託して河西回廊進攻を企てたことがあります。
 
 <br>
 
@@ -61,7 +61,7 @@ tags:
 
 ## 武林盟主
 
-[南宮橫](/ja/people/)が寿宴で述べたところによれば、彼の100年の人生の中で武林総動員は3度ありました。
+[南宮橫](/ja/people/characters/special104)が寿宴で述べたところによれば、彼の100年の人生の中で武林総動員は3度ありました。
 
 <br>
 
@@ -73,4 +73,4 @@ tags:
 
 <br>
 
-第三次同盟は、20年前の[旧魔教殲滅戦](/ja/events/decisive-battle-extreme-bliss-sect.md)です。極楽教が中原で起義し、西夏と協力して河西回廊を奪取し、大宋・金国の喉をつぶそうとしていました。盟主[龍淵](/ja/people/)は武林を率いて[極楽教](/ja/people/factions/extreme-bliss-sect.md)を包囲討伐しました。詳細は関連事項を参照してください。
+第三次同盟は、20年前の旧魔教殲滅戦です。極楽教が中原で起義し、西夏と協力して河西回廊を奪取し、大宋・金国の喉をつぶそうとしていました。盟主[龍淵](/ja/people/characters/special2)は武林を率いて極楽教を包囲討伐しました。詳細は関連事項を参照してください。

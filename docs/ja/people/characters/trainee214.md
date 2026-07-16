@@ -40,12 +40,12 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					雷謙 (掌門)
+					[雷謙](/ja/people/characters/special804) (掌門)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					郁竹 (師妹)
+					[郁竹](/ja/people/characters/girl6) (師妹)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -53,16 +53,16 @@ tags:
 </ChTabs>
 <br><br>
 
-「鐵脊山君」童大蟲、崆峒派の地護法です。
+「鐵脊山君」童大蟲、[崆峒派](/ja/people/factions/kong-tong-sect)の地護法。
 
 <br>
 
-年若い時、生計のため、死体を収めて棺に入れるという苦しい仕事をしたことがあります。
+若い頃は生計のため、遺体を棺に納める辛い仕事をしていたこともある。
 
 <br>
 
-まだ嫁いでいませんが、自分より力が強い女性を嫁にするのを恐れ、掌派人の位に思いはありません。
+まだ独身だが、自分より力の強い女を娶る度胸はなく、掌派人の座への未練もない。
 
 ## 備註
 
-- 招親事件で金烏上人が逃げれば、彼がその肉衣が確かに本物の血肉であることを断定します。
+-   比武招親イベントで[金烏上人](/ja/people/characters/special207)が逃げた場合、あの肉衣が本物の人間の血肉に相違ないと断定するのは彼である

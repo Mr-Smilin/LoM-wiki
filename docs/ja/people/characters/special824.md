@@ -30,12 +30,12 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[袁無憲](/ja/people/characters/yuan-wu-xian) (同伴)
+					[袁無憲](/ja/people/characters/special823) (同伴)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[夏侯蘭](/ja/people/characters/xiahou-lan) (宿敵)
+					[夏侯蘭](/ja/people/characters/girl5) (宿敵)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -43,6 +43,6 @@ tags:
 </ChTabs>
 <br><br>
 
-かつては奪魄の嫡傳女弟子だったが、[夏侯蘭](/ja/people/characters/xiahou-lan)に嫡傳の位を奪われた。その後[第三香](/ja/people/characters/di-san-xiang)の浮気現場において、また[夏侯蘭](/ja/people/characters/xiahou-lan)に顔を引っ掻かれた。
+かつては奪魄の嫡傳女弟子だったが、[夏侯蘭](/ja/people/characters/girl5)に嫡傳の位を奪われた。その後[第三香](/ja/people/characters/special820)の浮気現場において、また[夏侯蘭](/ja/people/characters/girl5)に顔を引っ掻かれた。
 <br><br>
-その後崆峒を背反し、現在[袁無憲](/ja/people/characters/yuan-wu-xian)と共に行動している。
+その後崆峒を背反し、現在[袁無憲](/ja/people/characters/special823)と共に行動している。

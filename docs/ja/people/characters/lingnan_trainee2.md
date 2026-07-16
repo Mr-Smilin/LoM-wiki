@@ -1,5 +1,5 @@
 ---
-title: 阮蛋
+title: 阮蛋 (ゲンタン)
 aside: false
 outline: [2, 3]
 sidebar: false

@@ -39,22 +39,22 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[趙逵]] (師弟)
+					[趙逵](/ja/people/characters/special403) (師弟)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[申屠龍]] (同門)
+					[申屠龍](/ja/people/characters/special405) (同門)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[南宮遠]] (好友)
+					[南宮遠](/ja/people/characters/special101) (好友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[火龍仙君]] (仇人)
+					[火龍仙君](/ja/people/characters/special204) (仇人)
 				</ChTd>
 			</ChTr>
 		</ChTable>

@@ -1,5 +1,5 @@
 ---
-title: 丐幫
+title: 丐幫 (かいほう)
 aside: true
 sidebar: false
 borderless: false

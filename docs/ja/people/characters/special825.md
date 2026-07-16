@@ -30,7 +30,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[瑞笙](/ja/people/characters/rui-sheng) (情人)
+					[瑞笙](/ja/people/characters/special999) (情人)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -39,7 +39,7 @@ aside: false
 <br><br>
 
 瑞笙の紅顔知己の一人で、苗疆の巫靈教の聖女。
-母親の腹中にいる時すでに族中の巫婆に蛟龍の妻と定められた。[瑞笙](/ja/people/characters/rui-sheng)は三、五の友と苗疆に入り、五仙陣を越えて闘い、剣を揮るって大蛇を斬り、金蟾娘子と銀蛇公子の陰謀を暴露し、喜聞楽見の英雄救美劇を演じた。
+母親の腹中にいる時すでに族中の巫婆に蛟龍の妻と定められた。[瑞笙](/ja/people/characters/special999)は三、五の友と苗疆に入り、五仙陣を越えて闘い、剣を揮るって大蛇を斬り、金蟾娘子と銀蛇公子の陰謀を暴露し、喜聞楽見の英雄救美劇を演じた。
 
 ## 列伝
 

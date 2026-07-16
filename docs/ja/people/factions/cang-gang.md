@@ -1,5 +1,5 @@
 ---
-title: 滄幫
+title: 滄幫 (そうほう)
 aside: true
 sidebar: false
 borderless: false

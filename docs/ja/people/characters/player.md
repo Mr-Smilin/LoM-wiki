@@ -49,37 +49,37 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [[唐中翎]] (掌門)
+                    [唐中翎](/ja/people/characters/master) (掌門)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [[唐鹿]] (師娘)
+                    [唐鹿](/ja/people/characters/other10) (師娘)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>  
-                    [[唐布衣]] (大師兄)
+                    [唐布衣](/ja/people/characters/brother1) (大師兄)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>  
-                    [[唐錚]] (二師兄)
+                    [唐錚](/ja/people/characters/brother2) (二師兄)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>  
-                    [[唐陞]] (三師兄)
+                    [唐陞](/ja/people/characters/brother3) (三師兄)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>  
-                    [[唐惟元]] (四師兄)
+                    [唐惟元](/ja/people/characters/brother4) (四師兄)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [[唐默鈴]] (小師妹)
+                    [唐默鈴](/ja/people/characters/girl0) (小師妹)
                 </ChTd>
             </ChTr>
         </ChTable>
@@ -300,7 +300,7 @@ tags:
 
 唐門盛世から衰退に至るまで、十数年待った。外姓弟子は皆去った。彼だけが残り、未だ入室を許されず。元々山腰の唐門外堡、最も便所に近い部屋に住んでいたが、門派規模が大きく萎縮したため、外堡を売って初めて大院に住めた。唯一の外姓弟子で容貌の理由で、他の弟子に使役されることが多かった。清掃、炊事、薪割りなど、下人の様。
 <br><br>
-[師娘](/ja/people/characters/brother1_wife)の託されて、[小師妹](/ja/people/characters/girl4)を小さい時から大きく見守り、毎回小師妹が迷路に入る時、最初に彼女を発見するのは彼。交情は親友とは言えないが、師兄妹の関係を超えており、故に他の弟子から赤眼され、ある意味自業自得。誰が趙活が窓外に隠れて彼女を「守護」しないのか。
+師娘の託されて、[小師妹](/ja/people/characters/girl4)を小さい時から大きく見守り、毎回小師妹が迷路に入る時、最初に彼女を発見するのは彼。交情は親友とは言えないが、師兄妹の関係を超えており、故に他の弟子から赤眼され、ある意味自業自得。誰が趙活が窓外に隠れて彼女を「守護」しないのか。
 <br><br>
 外姓でなければ、輩の点で五師兄と同等かもしれない。口では小師妹のために唐門を離れないと言うが、生まれたこの顔で、家から追い出された彼に他の行く所があるか。実は彼の努力と堅持は掌門と師兄たちに見られており、身分の都合で直接手は出せないが、個人的には多少の便宜を図ってくれた。
 <br><br>
@@ -343,7 +343,7 @@ tags:
 
 ## 武功
 
--   [唐門](/ja/systems/faction)の外姓弟子として、内門武功を修習してはならないが、他人に拜師することは限制されない。
+-   [唐門](/ja/people/factions/tang-men)の外姓弟子として、内門武功を修習してはならないが、他人に拜師することは限制されない。
 -   [大師兄](/ja/people/characters/brother1)は昔日、半年間閉関苦思し、推想して極処に至るまで武学至理「無形之型」を領悟したが、唐門武功の成見を摆脱しきれず、自身で実践できなかった。幸い胸に半点の成見もなく、内功札実、体格均衡なる晩成之器たる趙活がいて、初めて体現できた。
 -   [四師兄](/ja/people/characters/brother3)は[大師兄](/ja/people/characters/brother1)と共に趙活の練功を盗み見たことがあり、趙活が翻来覆去して一招式を練習し、練成了似是而非を見て、習った招数なく、しかし招意は不着痕跡に自身に融入した。
 -   伝奇文本が趙活の後期武学境界の敘述
@@ -376,7 +376,7 @@ tags:
 > 内蔵火薬機関、拳拳を発射して殺人可。口機関を開く時、火を噴く。<br>
 > 核心は訓練を受けた鸚鵡。この鸚鵡は人類に充ち溢れた仇恨を持ち、人類殲滅を発誓。<br>
 > ただ暫時飼料の為に命令に従う振りをしているが、飼料盆を掌控したら、人類は死ぬ番。<br><br>
-> *このDLCスキンを装用する時、劇情も相応に変化。<br>
+> *このDLCスキンを装用する時、シナリオも相応に変化。<br>
 > 心相過度満足時、鸚鵡は操制権を奪い取り、江湖を屠戮。<br>
 
 -   百萬趙活の百萬は多分ロックマンの英文「MEGA MAN」のネタ。
@@ -396,8 +396,8 @@ tags:
 -   ~~星座は天馬座，小宇宙を燃やそう！~~[^6]
 -   已破棄の謎之舞步、[連結](https://www.facebook.com/watch/?mibextid=oFDknk&v=1481577332312805&rdid=g1lRgORuhzdrbpQu) [連結](https://www.facebook.com/watch/?mibextid=oFDknk&v=1134896317435222&rdid=wGNDPFXDQ4Ny0hIM)
 -   不留学線、[掌門](/ja/people/characters/brother1)は唐門伝承小劍を与える。~~此劍常出現在龍陽讀書齋の文中~~
--   鬼畫圖字畫は[耕陽讀書齋](/ja/systems/faction)に杜甫の手筆の可能性があると思われ、買い戻し研究した。
--   年紀稍長の外姓弟子は[唐門](/ja/systems/faction)から勧離されるため、趙活は老くないようにするため、定期的に鬍を剃る。[^1]
+-   鬼畫圖字畫は[耕陽讀書齋](/ja/people/factions/geng-yang-study)に杜甫の手筆の可能性があると思われ、買い戻し研究した。
+-   年紀稍長の外姓弟子は[唐門](/ja/people/factions/tang-men)から勧離されるため、趙活は老くないようにするため、定期的に鬍を剃る。[^1]
 -   炒菜する時は時々気が狂って大量の胡椒粉を加えるが、実は特に胡椒粉が好きではない。[^1]
 -   趙活一家子は皆顔が驚かない普通の百姓で、ただ彼の顔だけが特別に精緻。[^3]
 
@@ -405,7 +405,7 @@ tags:
 [^2]: 巴哈姆特－[【心得】看了趙活の日常生活，真的不能說"這我傳"](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
 [^3]: Facebook－[原始鳥熊 2022/10/11](https://www.facebook.com/obbstudio/posts/pfbid02a1NHfKyTzkMGJeViNPVZ21JP2CQhWDpGGWeEngh7WNrzJ5t9Z7euX9xXAZPyAfFnl)
 [^4]: Facebook－[原始鳥熊 2023/4/1](https://www.facebook.com/obbstudio/posts/pfbid0VNvvCPjbVhaF58qbcrBF42j6oFCzFvQnxb4vbqRqBHYDRnWzwoGc6KSk6L81qTsEl)
-[^5]: [[問答集2024年10月#_2024-10-25|問答集2024-10-25]]
+[^5]: [問答集2024-10-25](/ja/other/qna/202410)
 [^6]: Facebook－[原始鳥熊2023/3/24](https://www.facebook.com/photo.php?fbid=227827013104015&set=p.227827013104015&type=3)
 
 ## 畫廊

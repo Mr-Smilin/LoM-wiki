@@ -26,27 +26,27 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
-					關係
+					関係
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>  
-					[[溫夫人]] (宮主)
+					[溫夫人](/ja/people/characters/special402) (宮主)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[畫中仙]] (同門)
+					[畫中仙](/ja/people/characters/special813) (同門)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[龍湘]] (師妹)
+					[龍湘](/ja/people/characters/girl8) (師妹)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[盛雪]] (師妹)
+					[盛雪](/ja/people/characters/other12) (師妹)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -54,21 +54,21 @@ tags:
 </ChTabs>
 <br><br>
 
-錦香宮の弟子で、[盛雪](/ja/people/characters/other16)から「明玉姨」と呼ばれている。[溫夫人](/ja/people/characters/girl1)は幼少時に大切にしていた琴を売却して、明玉を引き取った。
+錦香宮の弟子。[盛雪](/ja/people/characters/other12)からは明玉おばさんと呼ばれる。幼い頃、[溫夫人](/ja/people/characters/special402)が愛用の琴を売って彼女を引き取った。
 
 <br>
 
-[唐門](/ja/systems/faction)が[錦香宮](/ja/systems/faction)に滞在していた最後の数日、[溫夫人](/ja/people/characters/girl1)の伝言を受けて[趙活](/ja/people/characters/player)を殿堂に招待した人物。
+[唐門](/ja/people/factions/tang-men)が[錦香宮](/ja/people/factions/jin-xiang-palace)で過ごす最後の数日、[溫夫人](/ja/people/characters/special402)の言伝を届け、[趙活](/ja/people/characters/player)を殿内での面会に招いた人物。
 
 <br>
 
-風雨山の変で重傷を負い、[溫夫人](/ja/people/characters/girl1)の懐で亡くなった。
+風雨山の変で重傷を負い、[溫夫人](/ja/people/characters/special402)の腕の中で息を引き取った。
 
-## 備註
+## 備考
 
--   通用立繪（共通イラスト）
--   [溫夫人](/ja/people/characters/girl1)に最も長く従い、音律の技量が最も優れていた。[^1]
--   臨終の際、[溫夫人](/ja/people/characters/girl1)を宮主と呼ばず、嬢さんと呼んだ。
--   錦香閣初期11人の一人。[^1]
+-   汎用立ち絵
+-   [溫夫人](/ja/people/characters/special402)に最も長く仕えており、音律の腕は一番である。[^1]
+-   臨終の際、[溫夫人](/ja/people/characters/special402)を宮主ではなく「お嬢様」と呼んだ。
+-   錦香閣の初期メンバー11人の一人。[^1]
 
-[^1]: PTT C 洽－[\[活俠\] 龍湘と奇妙な小知識 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)

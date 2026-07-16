@@ -31,7 +31,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					瑞笙 (郎君)
+					[瑞笙](/ja/people/characters/special999) (郎君)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -39,9 +39,9 @@ tags:
 </ChTabs>
 <br><br>
 
-瑞笙の後宮の一人です。
+[瑞笙](/ja/people/characters/special999)の後宮の一人。
 
 ## 備註
 
-- 劇情が完全ではなく（v1.0.3200）、アップデート待ちです。
-- 西武林線では、夏靈犀が彼女を「県主大人」と呼んでおり、朝廷と関係があると推測されます。
+-   シナリオは未完成 (v1.0.3200)。アップデート待ち。
+-   西武林線では[夏靈犀](/ja/people/characters/special825)が彼女を「県主さま」と呼んでおり、朝廷との繋がりがあると推測される

@@ -32,12 +32,12 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[瑞杏](/ja/people/characters/rui-xing) (現主人)
+					[瑞杏](/ja/people/characters/girl1) (現主人)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[上官螢](/ja/people/characters/shangguan-ying) (前主人)
+					[上官螢](/ja/people/characters/girl4) (前主人)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -45,15 +45,15 @@ tags:
 </ChTabs>
 <br><br>
 
-[瑞杏](/ja/people/characters/rui-xing)身辺の侍女で、瑞杏を「公主」と呼ぶ。武功を持たない。
+[瑞杏](/ja/people/characters/girl1)身辺の侍女で、瑞杏を「公主」と呼ぶ。武功を持たない。
 <br><br>
-元々は[上官螢](/ja/people/characters/shangguan-ying)の付き添いの侍女にして親友であり、豆蔻の年の時に上官世家が難しい事件に直面したため、[瑞杏](/ja/people/characters/rui-xing)に献上された。成人後も[上官螢](/ja/people/characters/shangguan-ying)との関係は相変わらず友好的だが、[魏菊](/ja/people/characters/wei-ju)に対して競争心を抱いている。
+元々は[上官螢](/ja/people/characters/girl4)の付き添いの侍女にして親友であり、豆蔻の年の時に上官世家が難しい事件に直面したため、[瑞杏](/ja/people/characters/girl1)に献上された。成人後も[上官螢](/ja/people/characters/girl4)との関係は相変わらず友好的だが、[魏菊](/ja/people/characters/girl7)に対して競争心を抱いている。
 <br><br>
-天竺の血統を持ち、そのため肌の色がより深く、小さい時から外族の血統のため差別と虐めに苦しめられ、苦労した人。[上官螢](/ja/people/characters/shangguan-ying)、[瑞杏](/ja/people/characters/rui-xing)の庇護が無ければ、ここまで生き延びることはできなかっただろう。
+天竺の血統を持ち、そのため肌の色がより深く、小さい時から外族の血統のため差別と虐めに苦しめられ、苦労した人。[上官螢](/ja/people/characters/girl4)、[瑞杏](/ja/people/characters/girl1)の庇護が無ければ、ここまで生き延びることはできなかっただろう。
 <br><br>
-元々の姓は蘇だったが、彼女が家柄をきれいにして、将来良い人に嫁ぐために、官家は旨を下して書という姓を賜わった。書中自有黄金屋という隠喩である。耳からの伝授と目からの習いにより、儀態、学識、談吐、修養が皆優れている。[瑞杏](/ja/people/characters/rui-xing)の権勢に依頼して、当朝の老権臣さえも彼女を一声の姉さんと呼ぶ。多くの賄賂を集め、瑞家での地位は[瑞笙](/ja/people/characters/rui-sheng)よりも高い。
+元々の姓は蘇だったが、彼女が家柄をきれいにして、将来良い人に嫁ぐために、官家は旨を下して書という姓を賜わった。書中自有黄金屋という隠喩である。耳からの伝授と目からの習いにより、儀態、学識、談吐、修養が皆優れている。[瑞杏](/ja/people/characters/girl1)の権勢に依頼して、当朝の老権臣さえも彼女を一声の姉さんと呼ぶ。多くの賄賂を集め、瑞家での地位は[瑞笙](/ja/people/characters/special999)よりも高い。
 <br><br>
-手に持つ記録簿は怨恨記録用。元々は[瑞杏](/ja/people/characters/rui-xing)が彼女に記録させたものだったが、その後書蓉はこの書を手にすることで天下を有することを発見し、権力がもたらす快感を悟った。
+手に持つ記録簿は怨恨記録用。元々は[瑞杏](/ja/people/characters/girl1)が彼女に記録させたものだったが、その後書蓉はこの書を手にすることで天下を有することを発見し、権力がもたらす快感を悟った。
 
 ## 備考
 

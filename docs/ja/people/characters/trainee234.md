@@ -40,7 +40,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					魏菊 (掌門)
+					[魏菊](/ja/people/characters/girl7) (掌門)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -48,8 +48,8 @@ tags:
 </ChTabs>
 <br><br>
 
-「暖風」鞠冬音、崆峒派の風護法で、玄功洞の中で魏掌門に次ぐ地位の資深高手です。
+「暖風」鞠冬音、[崆峒派](/ja/people/factions/kong-tong-sect)の風護法。玄功洞では[魏掌門](/ja/people/characters/girl7)に次ぐ地位を占める古参の高手である。
 
 ## 備註
 
-- 金烏上人のしたことを蔑視し、唐默鈴招親の日に奉命で来ただけで、始終一言も発しず、乱戦の際も見せかけて、彼女の払子で扇き中った唐門弟子は誰も傷を受けず、ただ穴を開けられるだけです。
+-   [金烏上人](/ja/people/characters/special207)の所業を恥じており、[唐默鈴](/ja/people/characters/girl0)の比武招親の日も命令で来ただけで、終始一言も発しなかった。乱戦の際も面従腹背で、動くふりをするだけ。彼女の払子に打たれた唐門弟子は一人として怪我をしておらず、点穴されただけだった。

@@ -31,7 +31,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					瑞笙 (郎君)
+					[瑞笙](/ja/people/characters/special999) (郎君)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -39,10 +39,11 @@ tags:
 </ChTabs>
 <br>
 
-瑞笙の後宮の一人で、現在は滅門線で短く登場するのみです（v1.0.5000）。
+瑞笙の後宮の一人。現時点では滅門線に短く登場するのみ (v1.0.5000)。
 
 ## 備註
 
-- 瑞笙の青梅竹馬です。[^1]
+-   [瑞笙](/ja/people/characters/special999)の幼馴染。[^1]
+
 
 [^1]: PTT C 洽－[\[活俠\] 瑞笙設定+龍湘設定+夏侯蘭生日](https://www.ptt.cc/bbs/C_Chat/M.1752927048.A.9E1.html)

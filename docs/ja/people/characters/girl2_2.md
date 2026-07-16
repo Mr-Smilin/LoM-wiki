@@ -1,5 +1,5 @@
 ---
-title: 葉雲啾
+title: 葉雲啾 (ヨウウンシュウ)
 tags:
     - 人物
     - 點蒼派
@@ -62,7 +62,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[葉雲舟](/ja/people/characters/character-ye.md) (兄)
+					[葉雲舟](/ja/people/characters/special3) (兄)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -76,12 +76,12 @@ aside: false
 
 > 「吾は葉雲舟之弟、葉雲啾之兄、葉家排行第二、點蒼第一怪賤手、葉雲啾なり！」
 
-葉家三兄妹之二兄。一襲點蒼綠衣。個頭矮小。[小師妹](/ja/people/characters/girl0.md)の婚宴上。[南宮深](/ja/people/characters/character-nan.md)・[解無塵](/ja/people/characters/character-xie.md)二位高手入場して勝敗を決するの際に。提剣亂入し。揚言して[唐門](/ja/people/factions/tang.md)の女婿と為さんと欲す。
+葉家三兄妹之二兄。一襲點蒼綠衣。個頭矮小。[小師妹](/ja/people/characters/girl0.md)の婚宴上。[南宮深](/ja/people/characters/special102)・[解無塵](/ja/people/characters/special808)二位高手入場して勝敗を決するの際に。提剣亂入し。揚言して[唐門](/ja/people/factions/tang-men)の女婿と為さんと欲す。
 
 <br><br>
 
-実際は[葉雲裳](/ja/people/characters/girl2.md)の假扮なり。一眼にて[趙活](/ja/people/characters/protagonist.md)に認め出される。
+実際は[葉雲裳](/ja/people/characters/girl2.md)の假扮なり。一眼にて[趙活](/ja/people/characters/player)に認め出される。
 
 <br>
 
-後日かつて同じき打扮にて[葉雲舟](/ja/people/characters/character-ye.md)に見面を约し。彼却つて一時認め得ぬ。親兄たるに足りて失敗なり。
+後日かつて同じき打扮にて[葉雲舟](/ja/people/characters/special3)に見面を约し。彼却つて一時認め得ぬ。親兄たるに足りて失敗なり。

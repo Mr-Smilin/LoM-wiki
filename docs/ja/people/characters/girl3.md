@@ -189,17 +189,17 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[火龍真君](/ja/people/characters/character-huolong.md) (師父)
+					火龍真君 (師父)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[金烏上人](/ja/people/characters/character-jinwu.md) (教頭)
+					[金烏上人](/ja/people/characters/special207) (教頭)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[勾魂叟](/ja/people/characters/character-gouhun.md) (監視者)
+					[勾魂叟](/ja/people/characters/special806) (監視者)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -209,17 +209,17 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[郁竹](/ja/people/characters/character-yuchu.md) (崆峒四姝)
+					[郁竹](/ja/people/characters/girl6) (崆峒四姝)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[魏菊](/ja/people/characters/character-weiju.md) (崆峒四姝)
+					[魏菊](/ja/people/characters/girl7) (崆峒四姝)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[阿鶴俠](/ja/people/characters/character-ahehe.md) (右手)
+					[阿鶴俠](/ja/people/characters/special805) (右手)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -289,21 +289,21 @@ aside: false
 ## 千面人魔
 
 -   跑步を喜く理由一方面は壓力を宣洩し。一方面為崆峒環境を探勘し。以利暗殺行動。[^4]
--   崆峒遭受攻擊の時に趁乱逃出し。醜女阿花に扮して唐門に投靠し。[趙活](/ja/people/characters/protagonist.md)負心を指控し。還与[唐仙兒](/ja/people/characters/firebird1.md)互相試探を行いたり。最後始めて真容を揭曉す。
--   雖然[千燈樓](/ja/people/factions/qiandeng.md)指示にて多くの人を殺すべしといえども。實際上殺さず。都暗中世外桃源に送りたり。
--   根據<EndIcon no="11">結局11</EndIcon>の對話に依れば。若し無結縁ならば。最後千燈樓主と成るべし。
--   即便[趙活](/ja/people/characters/protagonist.md)老いぬとも。小梅尚且少女模樣なり。
+-   崆峒遭受攻擊の時に趁乱逃出し。醜女阿花に扮して唐門に投靠し。[趙活](/ja/people/characters/player)負心を指控し。還与[唐仙兒](/ja/people/characters/firebird1.md)互相試探を行いたり。最後始めて真容を揭曉す。
+-   雖然[千燈樓](/ja/people/factions/thousand-lantern-tower)指示にて多くの人を殺すべしといえども。實際上殺さず。都暗中世外桃源に送りたり。
+-   根據<EndIcon no="11">結局11</EndIcon>の對話に依れば。若し無結緣ならば。最後千燈樓主と成るべし。
+-   即便[趙活](/ja/people/characters/player)老いぬとも。小梅尚且少女模樣なり。
 
 ## 備考
 
 -   疑似病嬌なり。[^1]
 -   社交能力Lv9。[^2]
--   本人宣稱右手に[阿鶴俠](/ja/people/characters/character-ahehe.md)の魂魄を寄宿せり。信不信由汝！
+-   本人宣稱右手に[阿鶴俠](/ja/people/characters/special805)の魂魄を寄宿せり。信不信由汝！
 -   小梅対[火閃電](/ja/people/characters/firebird1.md)既嚴厲又好。特別に火閘電の自主性を尊重す。故に零用銭を給与す。[^3]
--   十歳の時曾[四師兄](/ja/people/characters/brother4.md)に毒薬を買ひたり。試図[火龍仙君](/ja/people/characters/character-huolong.md)と[金烏上人](/ja/people/characters/character-jinwu.md)を毒殺せんとす。却被騙拿到瀉薬。至今尚且記恨す。
--   和[小竹](/ja/people/characters/character-yuchu.md)曾是好友。然れども當年彼女を騙して靈薬を食べさしむる関係の為に。[小竹](/ja/people/characters/character-yuchu.md)尚且彼女を気す。其實甚だ彼女と和好を想ふ。然れども[千燈樓](/ja/people/factions/qiandeng.md)一事牽連彼女を怖る。
+-   十歳の時曾[四師兄](/ja/people/characters/brother4.md)に毒薬を買ひたり。試図[火龍仙君](/ja/people/characters/special204)と[金烏上人](/ja/people/characters/special207)を毒殺せんとす。却被騙拿到瀉薬。至今尚且記恨す。
+-   和小竹曾是好友。然れども當年彼女を騙して靈薬を食べさしむる関係の為に。小竹尚且彼女を気す。其實甚だ彼女と和好を想ふ。然れども[千燈樓](/ja/people/factions/thousand-lantern-tower)一事牽連彼女を怖る。
 -   甚だ[夏侯蘭](/ja/people/characters/girl4.md)を害怕す。稱彼女を蘭姐姐。而して対方彼女を小瘋子と稱す。
--   廚藝高超。能[趙活](/ja/people/characters/protagonist.md)大失敗の菜を改めて佳餚と為す。發明の糕点郷親熱烈好評。
+-   廚藝高超。能[趙活](/ja/people/characters/player)大失敗の菜を改めて佳餚と為す。發明の糕点郷親熱烈好評。
 -   <MarkdownWrapper>||実は初版下場甚だ慘にして。金烏と生六个。然れども炎上後馬上修掉さ。||</MarkdownWrapper>
 
 ## ギャラリー

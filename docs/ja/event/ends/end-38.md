@@ -13,7 +13,7 @@ tags:
     - 抵抗を続ける
     - 唐門滅門
     - 葉雲裳
-    - 結縁
+    - 結緣
 ---
 
 # {{ $frontmatter.title }}
@@ -28,4 +28,4 @@ tags:
 </EndBackground>
 
 ## 条件
-<Girl2Icon>葉雲裳</Girl2Icon>と結縁し、唐門滅門戦で下山突破して武林盟主に到達する前に、[武林盟主](/ja/people/characters/special999)を打ち破り、唐門の生き残りとなる。
+<Girl2Icon>葉雲裳</Girl2Icon>と結緣し、唐門滅門戦で下山突破して武林盟主に到達する前に、[武林盟主](/ja/people/characters/special999)を打ち破り、唐門の生き残りとなる。

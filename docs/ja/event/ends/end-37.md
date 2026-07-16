@@ -14,7 +14,7 @@ tags:
     - 唐門滅門
     - 小師妹
     - 唐默鈴
-    - 結縁
+    - 結緣
 ---
 
 # {{ $frontmatter.title }}
@@ -28,15 +28,15 @@ tags:
 </EndBackground>
 
 ## 条件と流れ
-<strong>条件：</strong><Girl0Icon>小師妹</Girl0Icon>と結縁、抵抗を続けるシナリオに進む。<br>
+<strong>条件：</strong><Girl0Icon>小師妹</Girl0Icon>と結緣、抵抗を続けるシナリオに進む。<br>
 **流れ：**<br>
 
-### 一、小師妹との結縁
+### 一、小師妹との結緣
 1. 3年目5月上旬の行動前に、比武招親の夜、[金烏上人](/ja/people/characters/special207)が襲撃。
 2. 心上人が<Girl0Icon>唐默鈴</Girl0Icon>で且つ<Girl0Icon>唐默鈴</Girl0Icon>好感度≧50の場合、<Girl0Icon>小師妹</Girl0Icon>が同行して下山。
 3. 🗡️[金烏上人](/ja/people/characters/special207)と決闘で勝利(<Girl0Icon>小師妹</Girl0Icon>が同行下山している時、敗戦では2回目の挑戦機会がない)。
 4. **🎲運命：お前の想い……**(上限99、➕加値：<Girl0Icon>唐默鈴</Girl0Icon>好感度、性情、処世、➖減値：その他の唐門成員好感度)：**🧾【>=50】小師妹は私のもの！**。
-5. <Girl0Icon>唐默鈴</Girl0Icon>好感度≧60、<span style='color: #FF1493;'><Girl0Icon>小師妹</Girl0Icon>と結縁</span>、【小師妹の香囊】を獲得。
+5. <Girl0Icon>唐默鈴</Girl0Icon>好感度≧60、<span style='color: #FF1493;'><Girl0Icon>小師妹</Girl0Icon>と結緣</span>、【小師妹の香囊】を獲得。
 
 ### 二、唐門包囲戦
 1. 3年目12月上旬の最後の行動前に、[眾人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で抵抗を続けるシナリオに進む。
@@ -59,8 +59,8 @@ tags:
    + その他の結果：
      + **📖選択「全力突破」**：⚔️乱戦、勝敗は問わない。
      + **📖選択「一人も生き残すな」**：⚔️乱戦、勝利が必要→⚔️乱戦、勝敗は問わない。
-6. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)と決闘、勝利後、優先度がより高い角色と結縁していない場合、エンディング進入。
-   + ※唐門滅門エンディング結縁優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
+6. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)と決闘、勝利後、優先度がより高い角色と結緣していない場合、エンディング進入。
+   + ※唐門滅門エンディング結緣優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 
 ## 分岐と変化
 

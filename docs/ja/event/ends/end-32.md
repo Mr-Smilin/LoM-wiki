@@ -54,26 +54,26 @@ tags:
 2. 4年目2月中旬に行動が2回残っている時、西武林大会後に[東西武林盟會戰](/ja/event/detailed_description/4-02-2-東西武林盟會戰)が始まる：
    + **📜議題：決闘：三師兄の護衛**：
      1. 同行相手の決定：以下の優先度で決定：
-        1. <Girl3Icon>虞小梅</Girl3Icon>と結縁：今後のアップデート対応予定。
-        2. <Girl0Icon>小師妹</Girl0Icon>と結縁：後の2つの決闘で、<Girl0Icon>唐默鈴</Girl0Icon>が《極怒無定飛梭》で我方の決闘サポーター。
-        3. <Girl4Icon>上官螢</Girl4Icon>と結縁：今後のアップデート対応予定。
+        1. <Girl3Icon>虞小梅</Girl3Icon>と結緣：今後のアップデート対応予定。
+        2. <Girl0Icon>小師妹</Girl0Icon>と結緣：後の2つの決闘で、<Girl0Icon>唐默鈴</Girl0Icon>が《極怒無定飛梭》で我方の決闘サポーター。
+        3. <Girl4Icon>上官螢</Girl4Icon>と結緣：今後のアップデート対応予定。
      2. 🆚最初の刺客または2番目の刺客との決闘で敗戦後、エンディング進入。
         + <Girl0Icon>小師妹</Girl0Icon>が同行している場合、最初の刺客が[罪を償いたい犯人](/ja/people/characters/special801)の時は直接勝利。
    + **📜議題：戦役：唐門出撃**：
      1. 途中のプロセスは複数の組み合わせがあり、ほとんど影響しないが、以下の条件を満たす場合は特別な要件あり：
         + 武林大會が錦香宮を支援していない、[丹霞子](/ja/people/characters/special404)が唐門に入門していない、**📖選択：門を堅く閉ざす**時、内功≧20かつ性情≧20が必要。
-          + 上記に加えて、<Girl5Icon>夏侯蘭</Girl5Icon>と結縁している場合、🆚決闘：[萬里鵬程](/ja/people/characters/special6)、勝利が必要。
+          + 上記に加えて、<Girl5Icon>夏侯蘭</Girl5Icon>と結緣している場合、🆚決闘：[萬里鵬程](/ja/people/characters/special6)、勝利が必要。
      2. 最初の⚔️戦役の勝敗は問わない、**📜議題：決策の時間**：
         + **📖選択：外堡を全力で守る**：⚔️戦役勝利後、エンディング進入。
-          + <Girl5Icon>夏侯蘭</Girl5Icon>と結縁している場合、⚔️戦役勝利後に**📖選択：山に上る**を選ぶ必要がある。
+          + <Girl5Icon>夏侯蘭</Girl5Icon>と結緣している場合、⚔️戦役勝利後に**📖選択：山に上る**を選ぶ必要がある。
         + **📖選択：兵を二手に分け、片方は外堡で守り、片方は大院で決戦準備**：
           1. **🎲運命：武林盟の消耗……**(上限60、➕加値：(西武林盟の)向心、➖減値：(武林盟の)向心、その他多様な調整値)：
              + 調整値リストと条件：
                - 嵩山十八銅人 20：[福韞](/ja/people/characters/special206)が唐門に入門、➕加値追加。
                - 画中仙 10：錦香宮が西武林盟を支援、➕加値追加。
-               - 未確認：青城派が西武林盟を支援、[虞小梅](/ja/people/characters/girl3)と結縁。
+               - 未確認：青城派が西武林盟を支援、[虞小梅](/ja/people/characters/girl3)と結緣。
           2. **🧾【＜30】唐門の大勢が決した**または**🧾【＜65】戦況が激しい**
-          3. <Girl5Icon>夏侯蘭</Girl5Icon>または<Girl8Icon>龍湘</Girl8Icon>と結縁していない場合
+          3. <Girl5Icon>夏侯蘭</Girl5Icon>または<Girl8Icon>龍湘</Girl8Icon>と結緣していない場合
           4. **🎲運命：お前の対手は……**(上限99、➕加値：[南宮深](/ja/people/characters/special102)好感度、➖減値：<Girl4Icon>上官螢</Girl4Icon>好感度)
           5. **🧾【≧70】上官隼（金背龍王刀）**
           6. 🆚決闘：[上官隼](/ja/people/characters/special407)、敗戦後に[飛俠歸來](/ja/event/detailed_description/4-02-2-飛俠歸來)を満たさない場合、エンディング進入。
@@ -84,16 +84,16 @@ tags:
 エンディング進入方式によって伝説テキストが異なる。
 かつ**📖選択：外堡を全力で守る**後の⚔️戦役勝利で進入する場合のみ、エンディングシナリオがある。
 
-### 結縁対象
-結縁対象により異なるエンディング、伝説テキストに影響。
+### 結緣対象
+結緣対象により異なるエンディング、伝説テキストに影響。
 + <Girl8Icon>龍湘</Girl8Icon>：主人公と共に戦死。
 + <Girl0Icon>唐默鈴</Girl0Icon>：同行して下山したかどうかで2つのバージョン
   + 同行して下山：主人公の屍体の懐で、派を守るため自害。
-  + [三師兄](/ja/people/characters/brother3)を守る：人数に劣り、強制的に拘束される。(結縁優先度から除外)
+  + [三師兄](/ja/people/characters/brother3)を守る：人数に劣り、強制的に拘束される。(結緣優先度から除外)
 + <Girl5Icon>夏侯蘭</Girl5Icon>：主人公の屍体を持って雪山に戻り、一切を焼いて自害。
   + ([樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門している場合、差異の可能性あり、今後のアップデート対応予定確認)
 
-※志を貫いて死すエンディング結縁優先度(v1.0.3201.1)：<Girl3Icon>虞小梅</Girl3Icon>＞<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+※志を貫いて死すエンディング結緣優先度(v1.0.3201.1)：<Girl3Icon>虞小梅</Girl3Icon>＞<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
-### 結縁優先度から除外
+### 結緣優先度から除外
 + <Girl2Icon>葉雲裳</Girl2Icon>が唐門に在籍：[三師兄](/ja/people/characters/brother3)を守るため、一掌で打たれて死亡

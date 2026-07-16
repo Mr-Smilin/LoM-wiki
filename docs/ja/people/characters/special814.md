@@ -41,8 +41,8 @@ tags:
 
 <br>
 
-応天、開封、河南、河中が連合した山賊の誓師大会の指導者で、[唐布衣](/ja/people/characters/tang-bu-yi)と一緒に金国皇帝を襲撃に行く。
+応天、開封、河南、河中が連合した山賊の誓師大会の指導者で、[唐布衣](/ja/people/characters/brother1)と一緒に金国皇帝を襲撃に行く。
 
 <br>
 
-風雨山大会で、[趙活](/ja/people/characters/zhao-huo)が武林盟主になることに反対する人物の一人。
+風雨山大会で、[趙活](/ja/people/characters/player)が武林盟主になることに反対する人物の一人。

@@ -60,7 +60,7 @@ tags:
 
 > 「爾等枉稱俠士，一口一個正邪，殊不知自己惡貫滿盈！地獄道判官趙逵在此！妖魔鬼怪，還敢造～次！」
 
-[泥教](/ja/people/factions/mud-school)地獄道法王，神出鬼沒，四処私刑殺人，黒白両道都遭殃。又會跳大神，鬼氣森森的，[泥教](/ja/people/factions/mud-school)名聲那麼臭，與此人脫不了關係。
+[泥教](/ja/people/factions/mud-school)地獄道法王，神出鬼沒，四処私刑殺人，黒白両道都遭殃。又會跳大神，鬼氣森森的，[泥教](/ja/people/factions/mud-school)名声那麼臭，與此人脫不了關係。
 <br><br>
 原為青城派[鄒博](/ja/people/characters/special201)の師弟，於[青城論道](/ja/event/stories/青城論道)遭[火龍仙君](/ja/people/characters/special204)曲解道籍，道心沉淪。隨後[決戰極樂教](/ja/event/stories/決戰極樂教)，飲敗於極樂[李元棄](/ja/people/characters/special213)|左護法]]の魔功之下，性情益發暴戾，最後墮落成地獄道法王。
 <br><br>
@@ -79,5 +79,5 @@ tags:
 
 -   相貌粗獷，其實粗中有細，文武雙全。
 -   嫉惡如仇，看厭人間不公不義。蒼天不管的，他來管；官府不辦的，他來辦。甘願引火自焚，化身地獄烈焰，燒滅塵世一切不淨。
--   如果[趙活](/ja/people/characters/player)於比武招親上殺了[金烏上人](/ja/people/characters/special207)，人人會說連九命豹子到頭也難逃一死，想必是閻王使者，又是姓趙，說不定和地獄道法王趙逵有關，唐門名聲受你所累。
+-   如果[趙活](/ja/people/characters/player)於比武招親上殺了[金烏上人](/ja/people/characters/special207)，人人會說連九命豹子到頭也難逃一死，想必是閻王使者，又是姓趙，說不定和地獄道法王趙逵有關，唐門名声受你所累。
 -   在[趙活](/ja/people/characters/player)於西武林決戰[無相祖師](/ja/people/characters/special212_2)的時候，與[鄒博](/ja/people/characters/special201)合力替趙活製造機會。

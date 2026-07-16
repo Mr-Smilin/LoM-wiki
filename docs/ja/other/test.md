@@ -28,7 +28,7 @@ tags:
         <td style='text-align: center'>123</td>
         <td><details><summary>クリックして展開~</summary>123</details></td>
         <td><MarkdownWrapper>[龍湘](/ja/people/characters/girl8)</MarkdownWrapper></td>
-        <td><MarkdownWrapper>[[龍湘]]</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[龍湘](/ja/people/characters/girl8)</MarkdownWrapper></td>
     </tr>
 </table>
 
@@ -55,7 +55,7 @@ tags:
             </details>
         </td>
         <td><MarkdownWrapper>[龍湘](/ja/people/characters/girl8)</MarkdownWrapper></td>
-        <td><MarkdownWrapper>[[龍湘]]</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[龍湘](/ja/people/characters/girl8)</MarkdownWrapper></td>
     </tr>
 </table>
 ```
@@ -79,7 +79,7 @@ tags:
         <td style='text-align: center'>123</td>
         <td><details><summary>クリックして展開~</summary>123</details></td>
         <td>[龍湘](/ja/people/characters/girl8)</td>
-        <td>[[龍湘]]</td>
+        <td>[龍湘](/ja/people/characters/girl8)</td>
     </tr>
 </BTable>
 
@@ -106,7 +106,7 @@ tags:
             </details>
         </td>
         <td>[龍湘](/ja/people/characters/girl8)</td>
-        <td>[[龍湘]]</td>
+        <td>[龍湘](/ja/people/characters/girl8)</td>
     </tr>
 </BTable>
 ```
@@ -176,18 +176,18 @@ tags:
 
 ## wikiLink
 
-[[テストページ]]  
-[[テストページ|やっぱりテストページ]]  
-[[テストページ#vitepress原生折りたたみコンポーネント|やっぱりテストページだけどアンカーを指定しました]]  
-[[テストページ|やっぱりテストページですが~~Markdown構文~~と<span style='color: red;'>HTML構文</span>があります]]
+テストページ  
+やっぱりテストページ  
+やっぱりテストページだけどアンカーを指定しました  
+やっぱりテストページですが~~Markdown構文~~と<span style='color: red;'>HTML構文</span>があります
 
 ::: details ソースコード
 
 ```markdown
-[[テストページ]]  
-[[テストページ|やっぱりテストページ]]  
-[[テストページ#vitepress原生折りたたみコンポーネント|やっぱりテストページだけどアンカーを指定しました]]  
-[[テストページ|やっぱりテストページですが~~Markdown構文~~と<span style='color: red;'>HTML構文</span>があります]]
+テストページ  
+やっぱりテストページ  
+やっぱりテストページだけどアンカーを指定しました  
+やっぱりテストページですが~~Markdown構文~~と<span style='color: red;'>HTML構文</span>があります
 ```
 
 :::

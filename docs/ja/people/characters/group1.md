@@ -1,5 +1,5 @@
 ---
-title: 花城四少
+title: 花城四少 (カジョウシショウ)
 aside: false
 outline: [2, 3]
 sidebar: false

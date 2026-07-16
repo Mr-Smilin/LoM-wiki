@@ -31,22 +31,22 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					唐錚 (師兄)
+					[唐錚](/ja/people/characters/brother2) (師兄)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					趙活 (師弟)
+					[趙活](/ja/people/characters/player) (師弟)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					葉雲裳 (患者)
+					[葉雲裳](/ja/people/characters/girl2) (患者)
 				</ChTd>
 			</ChTr>			
             <ChTr>
 				<ChTd position='center'>
-					唐芬 (姊姊)
+					唐芬 (姉)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -54,50 +54,50 @@ tags:
 </ChTabs>
 <br>
 
-親姉の足跡に従い、唐門に弟子入りしましたが、輩分は姉より一つ下です。
+実姉の後を追って[唐門](/ja/people/factions/tang-men)に入門したが、輩分は姉より一つ下になった。
 <br><br>
-二師兄が女患者を治療する際、避嫌のため、唐芳を意図的に育成して針法を学ばせました。唐芳はこのため、当代最高医術の唐門女弟子となりました。
+[二師兄](/ja/people/characters/brother2)は女性患者を治療する際の疑いを避けるため、唐芳に針法を学ばせ、意図して育て上げた。かくして唐芳は、当代随一の医術を誇る[唐門](/ja/people/factions/tang-men)女弟子となった。
 <br><br>
-しかし彼女は大遅刻大王で、習慣的に遅刻し、遅刻しても申し訳ないという気持ちがありません。
+だが彼女は遅刻大王。遅刻の常習犯で、遅れても悪びれもしないタイプである。
 
 ## 医術
 
-- 二師兄から葉雲裳の治療を任されています。[^1]
-- 医術はかなりの腕前で、遼闊中原で彼女より高明な医者を見つけるのは容易ではありません。[^8]
-- 葉雲裳が彼岸仙香毒に中った時、躊躇わず自身を傷つけ、禁術・北冥針で代わりに毒を受けました。しかし段智秀に疑問を呈され、その場で怒り狂いました。
-- 時間内に中毒した葉雲裳の解毒ができなかったことについて、極めて自責に念を駆られ、甚至は危険を冒して禁術寂滅三摩地を使うことを考えましたが、二師兄に厳しく叱責されました。
+-   二師兄の指名で[葉雲裳](/ja/people/characters/girl2)への施針を任されている。[^1]
+-   医術の腕はなかなかのもので、広い中原といえども、彼女より高明な医者を見つけるのは容易ではない。[^8]
+-   [葉雲裳](/ja/people/characters/girl2)が彼岸仙香の毒に倒れた際は、我が身を傷つけることも厭わず、禁術・北冥針でその厄を肩代わりし、辛うじて命を繋ぎ止めた。それを[段智秀](/ja/people/characters/special833)に疑われ、その場で激怒した。
+-   毒に倒れた[葉雲裳](/ja/people/characters/girl2)をすぐに解毒できなかったことを深く責め、危険を承知で禁術・寂滅三摩地を使うことまで考えたが、[二師兄](/ja/people/characters/brother2)に厳しく一喝され思いとどまった。
 
 ## 二師兄
 
-- 唐芳の一身の技能はすべて二師兄に直接教えられたもので、名義上は師兄妹ですが、実際には師弟に近いです。二師兄を非常に尊敬しています。
-- 大師兄と二師兄はかつて彼女の姉に密かに思いを寄せていましたが、二師兄は唐芳に対しては相変わらず厳しいです。[^1][^6]
-- 二師兄が怖すぎるので、逃げるために外で遊歴して帰りませんでした。
-- 片目を隠す髪型は二師兄を学んだもので、彼女はこの格好がかっこいいと思っています。[^6]
-- 背反した二師兄と画中仙が会っているのを目撃しましたが、止めるどころか一緒に行くつもりでしたが、二師兄に附骨钉で脈門を塞がれ、武功を廃されてしまい、それ以来、性格は淡白になりました。
+-   唐芳の腕前はすべて[二師兄](/ja/people/characters/brother2)から直々に授かったもので、名目は師兄妹だが、実際は師弟に近い。二師兄を深く尊敬している。
+-   [大師兄](/ja/people/characters/brother1)と[二師兄](/ja/people/characters/brother2)はかつて彼女の姉に片想いしていたが、それでも二師兄は唐芳にかなり厳しい。[^1][^6]
+-   [二師兄](/ja/people/characters/brother2)が怖すぎるあまり、彼を避けて外を遊歴したまま帰らなかった。
+-   片目を隠す髪型は[二師兄](/ja/people/characters/brother2)の真似で、本人はこれをかっこいいと思っている。[^6]
+-   出奔した[二師兄](/ja/people/characters/brother2)と[唐仙兒](/ja/people/characters/special813)に出くわした際は、止めるどころか同行を望んだが、[二師兄](/ja/people/characters/brother2)に附骨釘で脈門を封じられて武功を廃され、それ以来ずいぶんと淡白な性格になった。
 
 ## 遅刻
 
-- 辛儒と並んで唐門の迷糊大王と呼ばれています。一人は寝姿が悪く、一人は遅刻が好きです。
-- 遅刻を責めると、彼女は辛抱強さを隠せない口調で笑いながら言います：「まあ、次は飲物をおごるから」[^3]本当におごりますが、気が進みません。[^7]
-- 下山して遊歴してから一、二ヶ月だと思っていますが、実は二年以上経っています。
-- 青城派に勧誘に行った時、人の診療のため遅刻し、青城の三人の長老が自ら探しに来ましたが、逆に唐芳が郷民に愛されている様子を見て、勧誘に同意してくれました。
+-   [辛儒](/ja/people/characters/special802)と並んで唐門の迷糊大王と称される。片や寝相が悪く、片や遅刻魔。
+-   遅刻を叱ると、苛立ちを隠しきれない口ぶりで愛想笑いしながら「はいはい、じゃあ今度飲子をおごるからさ」と返してくる。[^3]本当におごってはくれるが、あまり気は進まない様子。[^7]
+-   下山して遊歴を始めてからせいぜい一、二ヶ月のつもりでいるが、実際は二年以上が経っている。
+-   [青城派](/ja/people/factions/qing-cheng-sect)へ説得に赴いた際は、人の診療をしていて遅刻し、青城の三長老が自ら探しに来る事態に。ところがそのおかげで唐芳が郷民に慕われている姿を見せることになり、説得は成功した。
 
 ## 備註
 
-- 烏熊FB 2024/10/5 公開情報：[連結](https://www.facebook.com/100076301525150/posts/554404723779574)
-- 趙活にとっては師姉です。[^2]
-- 親姉が唐門に入った時は、上の世代が収めた弟子なので、唐芳にとっては小師姑です。[^1]
-- 普段忙しく、常に遅刻するので、趙活と交わる機会が少なく、ルート限定キャラクターです。[^1]
-- 恋愛に対して相当無感覚で、年頃になり、父母が首を縦に振れば、気軽に自分を嫁がせるタイプです。[^4]
-- 申屠龍はかなり悪くないと思っています。
-- 普通の人より少し大きいお尻です。[^5]
-- 八仙指の対話と叙述から、姉の名前は唐芬であることが分かります。
+-   鳥熊FB 2024/10/5 公開情報：[リンク](https://www.facebook.com/100076301525150/posts/554404723779574)
+-   [趙活](/ja/people/characters/player)にとっては師姐にあたる。[^2]
+-   実姉が[唐門](/ja/people/factions/tang-men)に入門した時は先代が取った弟子だったため、唐芳にとって姉は小師姑にあたる。[^1]
+-   普段は忙しい上に遅刻ばかりで[趙活](/ja/people/characters/player)との接点が少ないため、ルート限定キャラクターである。[^1]
+-   恋愛にはかなり無頓着で、年頃になって父母がうなずけば、そのまま嫁いでしまうタイプ。[^4]
+-   [申屠龍](/ja/people/characters/special405)のことは悪くないと素直に認めている。
+-   お尻は普通の人より少しだけ大きい。[^5]
+-   [八仙指](/ja/system/books/book_6012)の会話と記述から、姉の名前が唐芬であることが分かる。
 
-[^1]: バイドゥ貼吧 - [新女角色突撃](https://tieba.baidu.com/p/9205413054?pn=1)17F (対話公開日 2024/10/5)
-[^2]: 烏熊 FB コメント、[連結](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=1234364757878397&reply_comment_id=516592081152453&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)
-[^3]: 烏熊 FB コメント、[連結](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=2027078384407281&reply_comment_id=1334218897540686&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)
-[^4]: 問答集2024年10月#_2024-10-07、Part1。
-[^5]: 問答集2024年10月#_2024-10-07、Part2。
-[^6]: 問答集2024年10月#_2024-10-08
+[^1]: 百度貼吧 - [新女角色突擊](https://tieba.baidu.com/p/9205413054?pn=1)17F (対話公開日 2024/10/5)
+[^2]: 鳥熊 FB コメント、[リンク](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=1234364757878397&reply_comment_id=516592081152453&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)
+[^3]: 鳥熊 FB コメント、[リンク](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=2027078384407281&reply_comment_id=1334218897540686&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)
+[^4]: [問答集2024-10-07](/ja/other/qna/202410#_2024-10-07)、Part1。
+[^5]: [問答集2024-10-07](/ja/other/qna/202410#_2024-10-07)、Part2。
+[^6]: [問答集2024-10-08](/ja/other/qna/202410#_2024-10-08)
 [^7]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
-[^8]: バイドゥ貼吧－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
+[^8]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

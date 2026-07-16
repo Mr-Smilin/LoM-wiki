@@ -184,6 +184,6 @@ aside: false
 [^1]: 巴哈姆特－[【情報】關於龍湘屁股大小的答案+私聊鳥熊的對話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
 [^2]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
 [^3]: 噗浪偷偷說：[リンク](https://www.plurk.com/p/3g8q4p1s38)
-[^4]: [[問答集2024年10月#_2024-10-31|問答集2024-10-31]]
+[^4]: [問答集2024-10-31](/ja/other/qna/202410)
 [^5]: 巴哈姆特－[【閒聊】雲裳的體重和葉兄的童年（鳥熊私訊問答）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=3082&bpage=1&ltype=)
 [^6]: 巴哈姆特－[【文字專訪】專訪鳥熊鼠蟲~129題超長訪談（施工完畢）（更新至8~9樓）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=4070&bpage=1&ltype=)

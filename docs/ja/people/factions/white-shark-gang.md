@@ -29,7 +29,7 @@ tags:
 			</ChTr>
 			<ChTr>
                 <ChTd position='center'>
-                    [劉顎](/ja/people/) (幫主)
+                    [劉顎](/ja/people/characters/special1) (幫主)
                 </ChTd>
             </ChTr>
 		</table>
@@ -38,7 +38,7 @@ tags:
 
 > 「ソウダ、掘るせ掘るせ掘る、喜呂撒妹糾ダ！」
 
-[泥教](/ja/people/factions/mud-school.md)の餓鬼道で、東海を横行し、[上官世家](/ja/people/factions/shang-guan-family.md)、朝廷に対抗します。法王[劉顎](/ja/people/)は方今海捕文書懸賞第一で、朝廷が何度も海軍を派遣して海賊討伐に当たりましたが、すべて徒労に終わり、今なお彼らの根拠地がどこにあるかは知られていません。
+[泥教](/ja/people/factions/mud-school.md)の餓鬼道で、東海を横行し、[上官世家](/ja/people/factions/shang-guan-family.md)、朝廷に対抗します。法王[劉顎](/ja/people/characters/special1)は方今海捕文書懸賞第一で、朝廷が何度も海軍を派遣して海賊討伐に当たりましたが、すべて徒労に終わり、今なお彼らの根拠地がどこにあるかは知られていません。
 
 <br>
 
@@ -65,19 +65,19 @@ tags:
 
 - 戸別訪問で活魚を窓から投げ込み、公然と漁商秩序を毀損し、[滄幫](/ja/people/factions/cang-gang.md)に対抗します。
 
-- [上官世家](/ja/people/factions/shang-guan-family.md)が朝廷来使を招宴する日にも魚を投げ込み、[解無塵](/ja/people/)に撞見され、魚が臭いと嫌悪し、[上官螢](/ja/people/)の前で威風を見せるつもりで、[劉顎](/ja/people/)を捕まえて服誅しようとしました。[劉顎](/ja/people/)は路人の佩剣を奪い、使った剣招は攻防がなく、しかしすべて人を害する要害で、防がざるを得ません。[解無塵](/ja/people/)はすべての本領を使うことができず、怒って吐血し敗北し、《風雷神腿》を改名《[非常に力ずく蹴る](/ja/)》に変え、泣きながら逃げました。
+- [上官世家](/ja/people/factions/shang-guan-family.md)が朝廷来使を招宴する日にも魚を投げ込み、[解無塵](/ja/people/characters/special808)に撞見され、魚が臭いと嫌悪し、[上官螢](/ja/people/characters/girl4)の前で威風を見せるつもりで、[劉顎](/ja/people/characters/special1)を捕まえて服誅しようとしました。[劉顎](/ja/people/characters/special1)は路人の佩剣を奪い、使った剣招は攻防がなく、しかしすべて人を害する要害で、防がざるを得ません。[解無塵](/ja/people/characters/special808)はすべての本領を使うことができず、怒って吐血し敗北し、《風雷神腿》を改名《[非常に力ずく蹴る](/ja/)》に変え、泣きながら逃げました。
 
 - 南宮寿宴期間、滄幫船舶を襲撃します。<MarkdownWrapper>||本来は上官螢を拐かそうとしましたが、空きました。滄幫が安済坊への米穀を扣押したと聞き、劉顎は彼らの乳首を切り落とさせました。その後「襲撃」安済坊で、米穀すべてを投げ込み、貧乏人が食べ尽くすまで。||</MarkdownWrapper>
 
 - [嵩山派](/ja/people/factions/mount-song-sect.md)|南嵩山寺を襲撃し、めん棒で住職を殴り、強制的に街を裸奔させ、同役が魚膾を住職の胴体に置いて犬に食べさせ、その日に住職は心理的外傷で引退しました。<MarkdownWrapper>||釋明は当時雲遊中で、たまたま網から漏れました。||</MarkdownWrapper>
 
-- [上官螢](/ja/people/)を拐かします。[劉顎](/ja/people/)は好言好気で作客に招いたと称しますが、ひどく罵倒され、脅して異国に売るといいました。
+- [上官螢](/ja/people/characters/girl4)を拐かします。[劉顎](/ja/people/characters/special1)は好言好気で作客に招いたと称しますが、ひどく罵倒され、脅して異国に売るといいました。
 
 - 地獄道とともに風雨山に赴いて人間道を救い、山に火をつけます。
 
 - 四師兄行商の時、<MarkdownWrapper>||もし路線を変えて小師妹を見舞いに行くなら、風雨山に行く餓鬼道に洗いざらい略奪されます。同行の仲間は衣を脱がされ、活魚で乳首を吸わせられ、屈辱極まりません。劉顎は趙活の分で、四師兄だけは難を逃れますが、事後、同行に恨まれました。||</MarkdownWrapper>
 
-- 西武林戦後、[釋明](/ja/people/)禅師は[唐門](/ja/people/factions/tang-men.md)の報復を畏れ、片刻も留まらず荷物をまとめて海外に逃げ、白鯊幫に拐かされました。筆舌に尽くしがたい辱めを経験した後、魚腹に葬られました。
+- 西武林戦後、[釋明](/ja/people/characters/special826)禅師は[唐門](/ja/people/factions/tang-men.md)の報復を畏れ、片刻も留まらず荷物をまとめて海外に逃げ、白鯊幫に拐かされました。筆舌に尽くしがたい辱めを経験した後、魚腹に葬られました。
 
 ## 備考
 

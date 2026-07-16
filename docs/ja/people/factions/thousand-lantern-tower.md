@@ -29,22 +29,22 @@ tags:
 			</ChTr>
 			<ChTr>
                 <ChTd position='center'>
-                    [申屠龍](/ja/people/) (楼主)
+                    [申屠龍](/ja/people/characters/special405) (楼主)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [無相祖師](/ja/people/) (千面人魔)
+                    [無相祖師](/ja/people/characters/special212_2) (千面人魔)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [金烏上人](/ja/people/) (教頭)
+                    [金烏上人](/ja/people/characters/special207) (教頭)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [虞小梅](/ja/people/) (千面人魔)
+                    [虞小梅](/ja/people/characters/girl3) (千面人魔)
                 </ChTd>
             </ChTr>
 		</table>
@@ -59,12 +59,12 @@ tags:
 
 <br>
 
-楼主は昔の極楽教主の転生[申屠龍](/ja/people/)で、その下で数本の香を灯すことを職級としており、対切口の時には下記のように叫びます：
+楼主は昔の極楽教主の転生[申屠龍](/ja/people/characters/special405)で、その下で数本の香を灯すことを職級としており、対切口の時には下記のように叫びます：
 
 > 「万古寺葬誰家郎、千灯樓燒幾炷香？」<br>
 > 「百年壽封汗青榜、千灯樓閣二炷香。」
 
-既知の[金烏上人](/ja/people/)は楼主に次ぐ五炷香の教頭で、[虞小梅](/ja/people/)は四炷香で、下級は上級に逆らうことができません。
+既知の[金烏上人](/ja/people/characters/special207)は楼主に次ぐ五炷香の教頭で、[虞小梅](/ja/people/characters/girl3)は四炷香で、下級は上級に逆らうことができません。
 <br clear="all">
 
 ## 千面人魔
@@ -79,7 +79,7 @@ tags:
 
 <br>
 
-初代千面人魔無念僧、[無相祖師](/ja/people/)。
+初代千面人魔無念僧、[無相祖師](/ja/people/characters/special212_2)。
 
 <br>
 
@@ -87,21 +87,21 @@ tags:
 
 <br>
 
-第三代千面人魔、楊玄奇。前武林盟主[龍淵](/ja/people/)を追殺するため、眉山鎮川泉酒家の店小二に化身して3年、掌櫃の娘と成親し、妻子はすでに出産しています。[龍淵](/ja/people/)の一席話と[杏花林](/ja/people/locations/apricot-blossom-grove.md)から求めた錦囊を見て、初心を改めて暗から明へ、両人は監視する千灯樓の殺し手を引き出すため一戦を演じ、楊某の家族を[錦香宮](/ja/people/factions/jin-xiang-palace.md)に送り届けました。残念ながら千灯樓の魔爪から逃れられず、西武林戦に[唐門](/ja/people/factions/tang-men.md)進攻に強制参加させられました。
+第三代千面人魔、楊玄奇。前武林盟主[龍淵](/ja/people/characters/special2)を追殺するため、眉山鎮川泉酒家の店小二に化身して3年、掌櫃の娘と成親し、妻子はすでに出産しています。[龍淵](/ja/people/characters/special2)の一席話と[杏花林](/ja/people/factions/apricot-forest)から求めた錦囊を見て、初心を改めて暗から明へ、両人は監視する千灯樓の殺し手を引き出すため一戦を演じ、楊某の家族を[錦香宮](/ja/people/factions/jin-xiang-palace.md)に送り届けました。残念ながら千灯樓の魔爪から逃れられず、西武林戦に[唐門](/ja/people/factions/tang-men.md)進攻に強制参加させられました。
 
 <br>
 
-第四代千面人魔、[崆峒派](/ja/people/factions/kong-tong-sect.md)飛天門嫡伝女弟子[虞小梅](/ja/people/)。千灯樓四炷香刺客で、暗中で崆峒四門を分化させ、美色で崆峒才俊無数を誘殺し、時機が来たら偌大な崆峒を自らの手で滅ぼすのを待っています。
+第四代千面人魔、[崆峒派](/ja/people/factions/kong-tong-sect.md)飛天門嫡伝女弟子[虞小梅](/ja/people/characters/girl3)。千灯樓四炷香刺客で、暗中で崆峒四門を分化させ、美色で崆峒才俊無数を誘殺し、時機が来たら偌大な崆峒を自らの手で滅ぼすのを待っています。
 
 ## 備考
 
 - ~~二創で酷い改名を受けて千根樓に~~
-- 千灯樓主は生涯、最も忌憚する存在が[瑞杏](/ja/people/)|杏花仙で、「多智近妖、疑非人哉」と称します。
-- 江陵囲城後、[瑞杏](/ja/people/)|杏花仙が千灯樓殺し手に各派基地を襲わせ、[泥教](/ja/people/factions/mud-school.md)に罪をなすりつけました。これにより杏花仙が千灯樓に一定の支配力を持つことがわかります。
+- 千灯樓主は生涯、最も忌憚する存在が[瑞杏](/ja/people/characters/girl1)|杏花仙で、「多智近妖、疑非人哉」と称します。
+- 江陵囲城後、[瑞杏](/ja/people/characters/girl1)|杏花仙が千灯樓殺し手に各派基地を襲わせ、[泥教](/ja/people/factions/mud-school.md)に罪をなすりつけました。これにより杏花仙が千灯樓に一定の支配力を持つことがわかります。
 - 千灯樓は[唐門](/ja/people/factions/tang-men.md)を極度に忌憚しています。唐門は下毒と暗器で人を無形に殺し、明を暗に化して散開すれば、それこそが人間界最高の恐怖の殺し手組織になるからです。
-- [虞小梅](/ja/people/)|小梅のほとんどのテキストは第四代として書かれていますが、[申屠龍](/ja/people/)の前では第五代だと言っており、理由は不明です。
-- [虞小梅](/ja/people/)|小梅は[申屠龍](/ja/people/)に歴代千面人魔の中で最悪の世代だと罵倒され、決意も実力も二流です。
-- [趙活](/ja/people/)の顔が醜いため、人皮面具を被った千面人魔と疑われたことがあります。
+- [虞小梅](/ja/people/characters/girl3)|小梅のほとんどのテキストは第四代として書かれていますが、[申屠龍](/ja/people/characters/special405)の前では第五代だと言っており、理由は不明です。
+- [虞小梅](/ja/people/characters/girl3)|小梅は[申屠龍](/ja/people/characters/special405)に歴代千面人魔の中で最悪の世代だと罵倒され、決意も実力も二流です。
+- [趙活](/ja/people/characters/player)の顔が醜いため、人皮面具を被った千面人魔と疑われたことがあります。
 - 現在のシナリオでは千灯樓の勢力は弱く見えますが、鳥熊は秘密の殺し手組織なので、人前に出るわけがないと述べています。[^1]
 
-[^1]: [[問答集2024年10月#_2024-10-19|問答集2024-10月-19]]、Part2。
+[^1]: [問答集2024-10月-19](/ja/other/qna/202410)、Part2。

@@ -68,7 +68,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [唐鹿](/ja/people/characters/mother.md) (母親)
+                    [唐鹿](/ja/people/characters/other10) (母親)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -93,7 +93,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [趙活](/ja/people/characters/protagonist.md) (師弟)
+                    [趙活](/ja/people/characters/player) (師弟)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -107,7 +107,7 @@ aside: false
 
 > 「本当に何ともならん連中だ。お前ら全員、調教が必要な気がする」
 
-[唐門](/ja/people/factions/tang.md)の二師兄。性格は孤僻にして、大抵の時間は煉丹房での研究に費やされており、近付きがたい。
+[唐門](/ja/people/factions/tang-men)の二師兄。性格は孤僻にして、大抵の時間は煉丹房での研究に費やされており、近付きがたい。
 
 <br>
 
@@ -159,41 +159,41 @@ aside: false
 ## 掌刑使
 
 -   唐門の刑罰を担当し、鉄面無私にして判案は公正。代わりに誰かのために情状酌量を求める者さえも連座して罰せられる。
--   頭の悪い[晁和](/ja/people/characters/character-chao.md)を何度も懲らしめ、拍手喝采を浴びる。
+-   頭の悪い[晁和](/ja/people/characters/special208)を何度も懲らしめ、拍手喝采を浴びる。
 -   拷問の手法は精湛。
 
 ## 医術
 
 -   毒をもって毒を攻略することに長け、効果は神速。しかし気分次第で副作用のある猛薬を与えることもある。
--   かつて江陵の千金方で客席を務め、[趙活](/ja/people/characters/protagonist.md)をそこでアルバイトするよう紹介したこともある。
--   嫌疑を避けるため、[唐芳](/ja/people/characters/character-tang-fang.md)を育てて女性患者への鍼灸を任せている。名目上は師兄妹だが、実は師弟の関係に近い。唐芳に対しては割と厳しい。
+-   かつて江陵の千金方で客席を務め、[趙活](/ja/people/characters/player)をそこでアルバイトするよう紹介したこともある。
+-   嫌疑を避けるため、[唐芳](/ja/people/characters/special832)を育てて女性患者への鍼灸を任せている。名目上は師兄妹だが、実は師弟の関係に近い。唐芳に対しては割と厳しい。
 -   煉丹房の炉の火は一年じゅう絶えず。これは二師兄が心血を込めて世話する「万壽屍心丹」であり、[掌門](/ja/people/characters/master.md)の延命の鍵となる。余分なものを入れないように！<BadendIcon :no="29">生死簿 No.29</BadendIcon>
 -   煉丹房に自分の寝床があり、いつでも薬の火加減を掌握できるようにしている。煉丹房では騒がないこと。
 
 ## 三面スパイ
 
--   「俺は[錦香宮](/ja/people/factions/jinxiang.md)の指示を受けて唐門に潜伏し、[千燈樓](/ja/people/factions/qiandeng.md)の指示を受けて錦香宮に潜伏し、唐門の指示を受けて千燈樓に潜伏している」
--   スパイの身分で[錦香宮](/ja/people/factions/jinxiang.md)に入る際、男装することは「ない」。~~ちぇっ~~[^1]
--   錦香宮が風雨山で剣鞘の絹索を焼いて生じた毒煙は、[溫夫人](/ja/people/characters/character-wen.md)が二師兄に暗に手配させたものである。
--   [袁無憲](/ja/people/characters/character-yuan.md)とともに新極楽七仙の一人。[大師兄](/ja/people/characters/brother1.md)が[申屠龍](/ja/people/characters/character-shen.md)の暗殺に失敗した際、二人で現身して教主を護衛するふりをしながら、実は暗に彼の命を救おうとしていた。
--   [極楽左使](/ja/people/characters/character-li-yuan.md)と多少の淵源がある。[趙活](/ja/people/characters/protagonist.md)と[葉雲裳](/ja/people/characters/girl0.md)を救うために、自分が[千燈樓](/ja/people/factions/qiandeng.md)に遺棄されたことすら許すことができた。
+-   「俺は[錦香宮](/ja/people/factions/jin-xiang-palace)の指示を受けて唐門に潜伏し、[千燈樓](/ja/people/factions/thousand-lantern-tower)の指示を受けて錦香宮に潜伏し、唐門の指示を受けて千燈樓に潜伏している」
+-   スパイの身分で[錦香宮](/ja/people/factions/jin-xiang-palace)に入る際、男装することは「ない」。~~ちぇっ~~[^1]
+-   錦香宮が風雨山で剣鞘の絹索を焼いて生じた毒煙は、[溫夫人](/ja/people/characters/special402)が二師兄に暗に手配させたものである。
+-   [袁無憲](/ja/people/characters/special823)とともに新極楽七仙の一人。[大師兄](/ja/people/characters/brother1.md)が[申屠龍](/ja/people/characters/special405)の暗殺に失敗した際、二人で現身して教主を護衛するふりをしながら、実は暗に彼の命を救おうとしていた。
+-   極楽左使と多少の淵源がある。[趙活](/ja/people/characters/player)と[葉雲裳](/ja/people/characters/girl0.md)を救うために、自分が[千燈樓](/ja/people/factions/thousand-lantern-tower)に遺棄されたことすら許すことができた。
 
 ## 備考
 
 -   鳥熊 FB の紹介：[リンク](https://www.facebook.com/photo/?fbid=119387853792735&set=pcb.119387933792727)
--   誕生日は9/9で乙女座。[華仙兒](/ja/people/characters/firebird1.md)が[趙活](/ja/people/characters/protagonist.md)に山鶏を捕まえるよう言いつけた時は丁度九月上旬だった。[^2]
+-   誕生日は9/9で乙女座。[華仙兒](/ja/people/characters/firebird1.md)が[趙活](/ja/people/characters/player)に山鶏を捕まえるよう言いつけた時は丁度九月上旬だった。[^2]
 -   二師兄は冗談をしない。死にたいなんて言うなよ。<BadendIcon :no="4">生死簿 No.4</BadendIcon>
--   [趙活](/ja/people/characters/protagonist.md)を「廃物」「趙氏蠢豚」と呼ぶ。
+-   [趙活](/ja/people/characters/player)を「廃物」「趙氏蠢豚」と呼ぶ。
 -   心は優しいが口は悪い。好感度が高いほど、より激しく罵るが、好感度はますます上げやすくなる。
 -   法場奪還の時に[大師兄](/ja/people/characters/brother1.md)が7～9歳だと仮定すると、[唐惟元](/ja/people/characters/brother4.md)は翌年の大雪の日に拾われたため、年齢は約25～27と推定される。
 -   [大師兄](/ja/people/characters/brother1.md)と一緒に育ち、交情は最も古い。大師兄に月考筆試の答案を写させるほど。しかし大師兄が修行を終えて江湖に出た後、二師兄は厳しくなった。
--   玉佩はかつて[掌門](/ja/people/characters/master.md)と[師娘](/ja/people/characters/mother.md)のもの。掌門のは[大師兄](/ja/people/characters/brother1.md)に、師娘のは二師兄の手にある。~~誓いの品かな~~。[出典](https://www.plurk.com/p/3g9a4xb0oh)
--   胡椒粉が大好き。昔[唐門](/ja/people/factions/tang.md)の人数が少なかった頃、[趙活](/ja/people/characters/protagonist.md)がどんな料理を作ろうと、彼は必死に胡椒粉を加えた。他人が食べなければ不機嫌になり、新入りが増えてやっと止めた。
--   [趙活](/ja/people/characters/protagonist.md)は二師兄がいない隙に彼の粉を盗んで胡椒餅を作ったことがあり、打撲を受けた。
--   [大師兄](/ja/people/characters/brother1.md)とともに、ある小師姑に暗に思いを寄せていたことがある。それは[唐芳](/ja/people/characters/character-tang-fang.md)の姉の唐芬。大師兄が[趙活](/ja/people/characters/protagonist.md)とこの話をした時、二師兄の反応は過激で、突然怒って[小師妹](/ja/people/characters/girl2.md)を怖がらせた。
+-   玉佩はかつて[掌門](/ja/people/characters/master.md)と師娘のもの。掌門のは[大師兄](/ja/people/characters/brother1.md)に、師娘のは二師兄の手にある。~~誓いの品かな~~。[出典](https://www.plurk.com/p/3g9a4xb0oh)
+-   胡椒粉が大好き。昔[唐門](/ja/people/factions/tang-men)の人数が少なかった頃、[趙活](/ja/people/characters/player)がどんな料理を作ろうと、彼は必死に胡椒粉を加えた。他人が食べなければ不機嫌になり、新入りが増えてやっと止めた。
+-   [趙活](/ja/people/characters/player)は二師兄がいない隙に彼の粉を盗んで胡椒餅を作ったことがあり、打撲を受けた。
+-   [大師兄](/ja/people/characters/brother1.md)とともに、ある小師姑に暗に思いを寄せていたことがある。それは[唐芳](/ja/people/characters/special832)の姉の唐芬。大師兄が[趙活](/ja/people/characters/player)とこの話をした時、二師兄の反応は過激で、突然怒って[小師妹](/ja/people/characters/girl2.md)を怖がらせた。
 -   幼い頃、唐芬が作った漢方蜜漬けで虫歯になったことがある。
--   [點蒼派](/ja/people/factions/qingcheng.md)を恨んでいる。一つは嘗て點蒼剣に傷を負ったこと。もう一つは彼らが日々、正直で正義感強い君子として自称しているくせに、唐門の薬学を見下しているから。
--   [小師妹](/ja/people/characters/girl2.md)をたいへん気にかけており、[趙活](/ja/people/characters/protagonist.md)に対して、下山して道を覚える[小師妹](/ja/people/characters/girl2.md)と[葉雲裳](/ja/people/characters/girl0.md)を暗に守るよう要求するため、喜んで趙活の雑務を引き受ける。過度な保護のため、[上官螢](/ja/people/characters/girl1.md)から「老母さん」と呼ばれている。
+-   [點蒼派](/ja/people/factions/dian-cang-sect)を恨んでいる。一つは嘗て點蒼剣に傷を負ったこと。もう一つは彼らが日々、正直で正義感強い君子として自称しているくせに、唐門の薬学を見下しているから。
+-   [小師妹](/ja/people/characters/girl2.md)をたいへん気にかけており、[趙活](/ja/people/characters/player)に対して、下山して道を覚える[小師妹](/ja/people/characters/girl2.md)と[葉雲裳](/ja/people/characters/girl0.md)を暗に守るよう要求するため、喜んで趙活の雑務を引き受ける。過度な保護のため、[上官螢](/ja/people/characters/girl1.md)から「老母さん」と呼ばれている。
 
 [^1]: バハムート- [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^2]: Facebook - [オリジナル鳥熊2025/9/9](https://www.facebook.com/obbstudio/posts/pfbid0jo8pNNekUkjYE7EyLqYerjfnCWcaRHPfQGaJrZDaXe3QZ5KM8SuZDeJkcQbWdf9Al)

@@ -62,7 +62,7 @@ tags:
 			<td>六月</td>
 			<td>
 				<MarkdownWrapper>
-				[貢献評定](/ja/event/simple/1-06-1-貢獻評點)<br>
+				貢献評定<br>
 				[掌門の決定](/ja/event/simple/1-06-1-掌門的安排)<br>
 				</MarkdownWrapper>
 			</td>
@@ -205,7 +205,7 @@ tags:
 			<td>-</td>
 			<td>
                 <MarkdownWrapper>
-				[唐門の幽霊](/ja/event/simple/2-03-3-唐門鬧鬼)<br>
+				唐門の幽霊<br>
 				</MarkdownWrapper>
             </td>
 		</tr>
@@ -632,7 +632,7 @@ tags:
 			<td>
 				<li>唐門例会：檄文を受け取る</li>
 				<MarkdownWrapper>
-                    [[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)]
+                    [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)
                 </MarkdownWrapper>
 				<li>唐門立ち絵：西武林盟を成立(李富貴好感2星またはナレッジ・戦術要件が必要)</li>
 				<li>龍湘線-後山で薪割：決闘(攻略最晚トリガー時間は一月下旬前)</li>

@@ -214,7 +214,7 @@ tags:
         <td id="風雲史-No.17">17</td>
         <td><AchievementIcon :size="`medium`" :no="`17`">飛俠帰郷</AchievementIcon></td>
         <td>彼には彼の運命がある。だが君がいなければ、飛俠の帰郷は永遠の夢のままだ。</td>
-        <td>大師兄の死後に大師兄を復活させる。<br>詳しくは<MarkdownWrapper>[飛俠帰郷](/ja/event/)</MarkdownWrapper>ページを参照してください。</td>
+        <td>大師兄の死後に大師兄を復活させる。<br>詳しくは<MarkdownWrapper>飛俠帰郷</MarkdownWrapper>ページを参照してください。</td>
         <td>下旬+1</td>
         <td>下旬+1 = 毎月下旬の行動回数+1</td>
     </tr>

@@ -36,17 +36,17 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[南宮橫]] (爺爺)
+					[南宮橫](/ja/people/characters/special104) (爺爺)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[南宮遠]] (父親)
+					[南宮遠](/ja/people/characters/special101) (父親)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[南宮深]] (哥哥)
+					[南宮深](/ja/people/characters/special102) (哥哥)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -91,7 +91,7 @@ aside: false
 ## 奇遇
 
 -   江陵事件で[幫主](/ja/people/characters/special3)が洗髄されたが、あまり感謝していない。
--   武林大会前に三つの奇遇がある：[杏花林](/ja/systems/faction)の老和尚に運気凝神の法を習い、[大猿猴](/ja/people/characters)に筋骨を鍛錬され、[東海龍王](/ja/people/characters/special999)に刀法を習った。
+-   武林大会前に三つの奇遇がある：[杏花林](/ja/people/factions/apricot-forest)の老和尚に運気凝神の法を習い、[大猿猴](/ja/people/characters)に筋骨を鍛錬され、[東海龍王](/ja/people/characters/special999)に刀法を習った。
 -   南宮扇法は未だ練れず、剣の方が習慣的。奇遇の後、刀に改めた。
 
 ## 備註

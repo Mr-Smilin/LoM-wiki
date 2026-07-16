@@ -154,17 +154,17 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[勾魂叟](/ja/people/characters/character-gouhun.md) (代理掌門)
+					[勾魂叟](/ja/people/characters/special806) (代理掌門)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[第三香](/ja/people/characters/character-disan.md) (前夫)
+					[第三香](/ja/people/characters/special820) (前夫)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[呼延菊](/ja/people/characters/character-huyanjuv.md) (故友)
+					[呼延菊](/ja/people/characters/special822) (故友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -174,12 +174,12 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[郁竹](/ja/people/characters/character-yuchu.md) (崆峒四姝)
+					[郁竹](/ja/people/characters/girl6) (崆峒四姝)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[魏菊](/ja/people/characters/character-weiju.md) (崆峒四姝)
+					[魏菊](/ja/people/characters/girl7) (崆峒四姝)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -189,7 +189,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[解無塵](/ja/people/characters/character-xie.md) (前旅伴)
+					[解無塵](/ja/people/characters/special808) (前旅伴)
 				</ChTd>
 			</ChTr>
 		</table>
@@ -198,7 +198,7 @@ aside: false
 
 > 「同時也是汝の妻。汝此欺師滅祖の畜牲」
 
-[崆峒派](/ja/people/factions/kongtong.md)‧奪魄門當代掌門の嫡傳女弟子。江湖人は奪魄幽蘭と稱す。
+[崆峒派](/ja/people/factions/kong-tong-sect)‧奪魄門當代掌門の嫡傳女弟子。江湖人は奪魄幽蘭と稱す。
 
 <br>
 
@@ -234,7 +234,7 @@ aside: false
   <Tab title="列伝三">
 	汝是當世最後一個知曉彼女本來姓名の人－－「夏侯梅」。
 	被帶到崆峒派以後。就被篡奪爹娘為彼女取の名字。從師命。改名為夏侯蘭。<br><br>
-	後又得先掌派人親傳。一身兼得奪魄・雪山両家陰陽內功。
+	後又得先掌派人親傳。一身兼得奪魄・雪山両家陰陽内功。
 	融會貫通。實為當代崆峒第一高手。離絕世境界只欠一步之遙。<br><br>
 	汝の出現。佔彼女心上最後一席空缺。畢竟彼女並沒收過弟子。
 	起初不過是玩笑話。越教越認真。不禁連彼女都感到不可思議。
@@ -254,7 +254,7 @@ aside: false
   </Tab>
 </Tabs>
 
-## 結縁信物
+## 結緣信物
 
 <SpecialItemIcon :size="`medium`" :needLink="false" :no="1002" />
 
@@ -270,39 +270,39 @@ aside: false
 
 ## 年齢
 
--   為可結縁女角之中最年長。[^7]
--   第三年招親事件。[解無塵](/ja/people/characters/character-xie.md)：「彼女都二十六・七歳。是個半老徐娘」
--   第三年雪山行。元々是七年之約。但夏侯蘭為傳授一身武功給[趙活](/ja/people/characters/protagonist.md)。早到一年。
--   夏侯蘭：「為師那時正是二八年華... 為自証清白。旅行帰來不久。為師便與[第三師兄](/ja/people/characters/character-disan.md)作夫妻。」
+-   為可結緣女角之中最年長。[^7]
+-   第三年招親事件。[解無塵](/ja/people/characters/special808)：「彼女都二十六・七歳。是個半老徐娘」
+-   第三年雪山行。元々是七年之約。但夏侯蘭為傳授一身武功給[趙活](/ja/people/characters/player)。早到一年。
+-   夏侯蘭：「為師那時正是二八年華... 為自証清白。旅行帰來不久。為師便與第三師兄作夫妻。」
 -   由於解兄腦袋實在信不過。以本人回答為準。第三年時應為22才(16+6)。加上誤差推測22～23。
 
 ## 武功
 
--   在[崆峒派](/ja/people/factions/kongtong.md)能與彼女匹敵者。唯[火龍仙君](/ja/people/characters/character-huolong.md)と[丹霞子](/ja/people/characters/character-danxia.md)。
+-   在[崆峒派](/ja/people/factions/kong-tong-sect)能與彼女匹敵者。唯[火龍仙君](/ja/people/characters/special204)と[丹霞子](/ja/people/characters/special404)。
 -   奪魄掌門還想憑武力逼彼女讓出嫡傳女弟子之位。反被擰脫雙腕。将頭踩在腳底。從此再也無顏面対崆峒父老。躲起來閉関修練去。
 -   平時都撐著鐵拳門打造の奇兵。鋼骨傘。扣動傘柄の機関。就會有利刃彈出。攻防一體。水火不侵。
--   雪山行時。用[雪山派](/ja/people/factions/xueshanj.md)獨門點穴手法「冰川拂穴手」。讓[趙活](/ja/people/characters/protagonist.md)無法動彈。
--   對決[上官隼](/ja/people/characters/character-shangguan.md)の時。用[雪山派](/ja/people/factions/xueshanj.md)の「梅顫枝頭」試図抖開金背龍王刀。
--   奪魄幽靈爪は無影爪の上位版武功。夏侯蘭用の奪魄幽靈爪招數は奪魄門の。心法则は雪山派。名字雖一樣。但高下有如雲泥。彼女傳授給[趙活](/ja/people/characters/protagonist.md)は彼女の版本。[^8]
+-   雪山行時。用[雪山派](/ja/people/factions/mount-snow-sect)獨門點穴手法「冰川拂穴手」。讓[趙活](/ja/people/characters/player)無法動彈。
+-   對決[上官隼](/ja/people/characters/special407)の時。用[雪山派](/ja/people/factions/mount-snow-sect)の「梅顫枝頭」試図抖開金背龍王刀。
+-   奪魄幽靈爪は無影爪の上位版武功。夏侯蘭用の奪魄幽靈爪招數は奪魄門の。心法则は雪山派。名字雖一樣。但高下有如雲泥。彼女傳授給[趙活](/ja/people/characters/player)は彼女の版本。[^8]
 
 ## 人際関係
 
--   曾和[唐布衣](/ja/people/characters/brother1.md)・[解無塵](/ja/people/characters/character-xie.md)と其の他二人一起旅行。擊敗[極樂左使](/ja/people/characters/character-li-yuan.md)。
--   聞す室內開傘能招鬼。為挽留[呼延菊](/ja/people/characters/character-huyanjuv.md)の靈魂而開。住不見天日の林子裡も是之原因。
--   和[上官螢](/ja/people/characters/girl4.md)有指腹為婚之約。但[雪山派](/ja/people/factions/xueshanj.md)被滅。不了了之。
--   認為[南宮深](/ja/people/characters/character-nangong.md)は草包。但[南宮老太爺](/ja/people/characters/character-nangong-heng.md)值得敬重。也甚尊敬[唐中翎](/ja/people/characters/master.md)。
+-   曾和[唐布衣](/ja/people/characters/brother1.md)・[解無塵](/ja/people/characters/special808)と其の他二人一起旅行。擊敗極樂左使。
+-   聞す室內開傘能招鬼。為挽留[呼延菊](/ja/people/characters/special822)の靈魂而開。住不見天日の林子裡も是之原因。
+-   和[上官螢](/ja/people/characters/girl4.md)有指腹為婚之約。但[雪山派](/ja/people/factions/mount-snow-sect)被滅。不了了之。
+-   認為[南宮深](/ja/people/characters/special102)は草包。但南宮老太爺值得敬重。也甚尊敬[唐中翎](/ja/people/characters/master.md)。
 -   曾經長沙雨花亭に難。被[唐布衣](/ja/people/characters/brother1.md)出手相救。
--   夏侯蘭以前常說故事給[小梅](/ja/people/characters/girl3.md)・[小竹](/ja/people/characters/character-yuchu.md)聽。某次帶両人到奪魄森林時。說鬼故事。[小竹](/ja/people/characters/character-yuchu.md)大受驚嚇。把一棵樹撞斷。夏侯蘭當時害怕極。
--   稱[唐門](/ja/people/factions/tang.md)樹屋「雪山派唐門分部」。
+-   夏侯蘭以前常說故事給[小梅](/ja/people/characters/girl3.md)・小竹聽。某次帶両人到奪魄森林時。說鬼故事。小竹大受驚嚇。把一棵樹撞斷。夏侯蘭當時害怕極。
+-   稱[唐門](/ja/people/factions/tang-men)樹屋「雪山派唐門分部」。
 
-## 結縁
+## 結緣
 
 -   揉脚就是訊號。該洗澡囉！
--   攻略時建議學[龍吟功](/ja/martial-arts/long-yin-gong.md)。西武林線有驚喜。
--   西武林結局後會和[趙活](/ja/people/characters/protagonist.md)定居雪山。[^1]
+-   攻略時建議學[龍吟功](/ja/system/books/book_7005)。西武林線有驚喜。
+-   西武林結局後會和[趙活](/ja/people/characters/player)定居雪山。[^1]
 -   婚後產下一男一女。子女都像娘親。極度寵溺。
--   為孩子教育。某日出門捉[魏菊](/ja/people/characters/character-weiju.md)擔任夫子。
--   若し無結縁。最後會去[雪山派](/ja/people/factions/xueshanj.md)遺址。與[第三香](/ja/people/characters/character-disan.md)決鬥後自盡死亡。
+-   為孩子教育。某日出門捉[魏菊](/ja/people/characters/girl7)擔任夫子。
+-   若し無結緣。最後會去[雪山派](/ja/people/factions/mount-snow-sect)遺址。與[第三香](/ja/people/characters/special820)決鬥後自盡死亡。
 
 ## 備考
 
@@ -312,12 +312,12 @@ aside: false
 -   是道地の蘭州人。[^3]
 -   雖住奪魄森林。其實是此一二年才搬進來。說是奪魄門太煩人。
 -   一人住奪魄森林時の飲食問題。會謀殺森林小動物・走出森林擅自拔鐵拳門人種の菜。偶爾也會上街買。[^2]
--   在森林樹屋住許久。蚊蟲甚多。却沒驅蚊香・掛蚊帳。被[趙活](/ja/people/characters/protagonist.md)提醒才想到。隨後點燭火燒整整四・五個時辰の蚊子復仇。喪心病狂。
+-   在森林樹屋住許久。蚊蟲甚多。却沒驅蚊香・掛蚊帳。被[趙活](/ja/people/characters/player)提醒才想到。隨後點燭火燒整整四・五個時辰の蚊子復仇。喪心病狂。
 -   少女時溫柔而含蓄。富有愛心。會保護弱者。対抗不公。比起武力更傾向對話。[^2]
 -   喜喫火鍋。[^2]
 -   歌喉普遍佳。[^4]
 -   比狼。更怕一點犬。狼想喫。烤喫掉也活該。犬子就麻煩多。一個勁搖尾討好。偏生讓人不忍打殺。但碰沒拴好・亂咬人の悪犬。也是不心慈手軟。連縱犬傷人の犬主人一併殺掉。
--   與[辛儒](/ja/people/characters/character-xinji.md)同天生日11/10。算命先生說那天の良辰吉時。宋國會降生一位絕世美人。[^5][^6]
+-   與[辛儒](/ja/people/characters/special802)同天生日11/10。算命先生說那天の良辰吉時。宋國會降生一位絕世美人。[^5][^6]
 -   名言：「衆生皆有死。萬物皆可殺」
 -   甚在意髪帯是否對稱。
 -   耳環為雪山派の遺物。

@@ -39,17 +39,17 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[南宮遠]] (兒子)
+					[南宮遠](/ja/people/characters/special101) (兒子)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[南宮深]] (孫子)
+					[南宮深](/ja/people/characters/special102) (孫子)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[南宮淺]] (孫子)
+					[南宮淺](/ja/people/characters/special103) (孫子)
 				</ChTd>
 			</ChTr>
 		</ChTable>

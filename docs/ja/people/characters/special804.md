@@ -46,4 +46,4 @@ tags:
 
 ## 備註
 
--   [[十八種奇兵鍛法雜記](/ja/system/books/book_8004)の作者
+-   [十八種奇兵鍛法雜記](/ja/system/books/book_8004)の作者
