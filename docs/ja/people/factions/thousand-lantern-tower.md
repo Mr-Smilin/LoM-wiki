@@ -99,8 +99,8 @@ tags:
 - 千灯樓主は生涯、最も忌憚する存在が[杏花仙](/ja/people/characters/girl1)で、「多智近妖、疑非人哉」と称します。
 - 江陵囲城後、[杏花仙](/ja/people/characters/girl1)が千灯樓殺し手に各派基地を襲わせ、[泥教](/ja/people/factions/mud-school.md)に罪をなすりつけました。これにより杏花仙が千灯樓に一定の支配力を持つことがわかります。
 - 千灯樓は[唐門](/ja/people/factions/tang-men.md)を極度に忌憚しています。唐門は下毒と暗器で人を無形に殺し、明から暗へ化して各々潜伏すれば、それこそが人間界最高の恐怖の殺し手組織になるからです。
-- [虞小梅](/ja/people/characters/girl3)|小梅のほとんどのテキストは第四代として書かれていますが、[申屠龍](/ja/people/characters/special405)の前では第五代だと言っており、理由は不明です。
-- [虞小梅](/ja/people/characters/girl3)|小梅は[申屠龍](/ja/people/characters/special405)に歴代千面人魔の中で最悪の世代だと罵倒され、決意も実力も二流です。
+- [小梅](/ja/people/characters/girl3)のほとんどのテキストは第四代として書かれていますが、[申屠龍](/ja/people/characters/special405)の前では第五代だと言っており、理由は不明です。
+- [小梅](/ja/people/characters/girl3)は[申屠龍](/ja/people/characters/special405)に歴代千面人魔の中で最悪の世代だと罵倒され、決意も実力も二流です。
 - [趙活](/ja/people/characters/player)の顔が醜いため、人皮面具を被った千面人魔と疑われたことがあります。
 - 現在のシナリオでは千灯樓の勢力は弱く見えますが、鳥熊は秘密の殺し手組織なので、人前に出るわけがないと述べています。[^1]
 

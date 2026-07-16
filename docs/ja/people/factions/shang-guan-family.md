@@ -102,7 +102,7 @@ tags:
 
 ## 金背龍王刀
 
-上官家の家宝で、[譚霸刀](/ja/people/characters/special801)の破山斬、広州流放客の割夢刀、[李仁友](/ja/people/characters/other7)|極樂教主の鬼蓮王刀と並んで江湖四大名刀と称されています。
+上官家の家宝で、[譚霸刀](/ja/people/characters/special801)の破山斬、広州流放客の割夢刀、[極樂教主](/ja/people/characters/other7)の鬼蓮王刀と並んで江湖四大名刀と称されています。
 
 <br>
 
