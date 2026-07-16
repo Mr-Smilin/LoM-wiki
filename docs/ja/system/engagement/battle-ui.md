@@ -33,5 +33,5 @@ tags:
 - <font size="4">人物状態</font>
 <img class='guide-img' src='/images/engagement/status.webp' alt='人物状態'>
 
-- <font size="4">発動中スキル</font>
-<img class='guide-img' src='/images/engagement/skills-effs.webp' alt='発動中スキル'>
+- <font size="4">発動中技能</font>
+<img class='guide-img' src='/images/engagement/skills-effs.webp' alt='発動中技能'>

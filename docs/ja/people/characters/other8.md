@@ -1,5 +1,5 @@
 ---
-title: 千面人魔 (センメンジンマ)
+title: 千面人魔
 aside: false
 outline: [2, 3]
 sidebar: false

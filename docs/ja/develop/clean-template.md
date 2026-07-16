@@ -1,5 +1,5 @@
 ---
-title: Markdown 参考テンプレート
+title: Markdown クリーンテンプレート
 description: 新しいページ開発時に使用するテンプレート。
 aside: true
 outline: [2, 3]
@@ -20,7 +20,7 @@ tags:
 
 ```markdown
 ---
-title: Markdown 参考テンプレート
+title: Markdown クリーンテンプレート
 description: 新しいページ開発時に使用するテンプレート。
 aside: true
 outline: [2, 3]

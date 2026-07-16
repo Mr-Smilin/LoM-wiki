@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=51 title="情けない死">
+<EndBackground no=51 title="意気地なしの死">
 無情な世の乱拳に身を打たれ、お前の心は身体より早く死んだ。<br>
 とうの昔に。<br>
 <br>

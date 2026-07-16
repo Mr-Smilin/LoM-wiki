@@ -1,5 +1,5 @@
 ---
-title: 呂翁 (ロオン)
+title: 呂翁
 aside: false
 outline: [2, 3]
 sidebar: false

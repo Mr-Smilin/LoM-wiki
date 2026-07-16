@@ -1,6 +1,6 @@
 ---
-title: 汗青書（エンディング）画像ジェネレーター
-description: 汗青書（エンディング）画像ジェネレーター
+title: 汗青書 (エンディング) 画像ジェネレーター
+description: 汗青書 (エンディング) 画像ジェネレーター
 aside: false
 outline: [2, 3]
 sidebar: true

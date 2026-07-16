@@ -1,5 +1,5 @@
 ---
-title: 泥教 (デイキョウ)
+title: 泥教
 aside: true
 sidebar: false
 borderless: false

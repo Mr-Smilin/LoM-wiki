@@ -1,5 +1,5 @@
 ---
-title: 江湖快報ページモジュール説明
+title: 公式アップデートページモジュール説明
 description:
 aside: true
 outline: [2, 4]

@@ -1,5 +1,5 @@
 ---
-title: 江湖の人々：江湖人士
+title: 江湖の人々（江湖眾生相）
 aside: true
 sidebar: false
 borderless: false

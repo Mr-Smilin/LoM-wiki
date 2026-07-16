@@ -1,5 +1,5 @@
 ---
-title: 南宮遠 (ナングウエン)
+title: 南宮遠
 aside: false
 outline: [2, 3]
 sidebar: false

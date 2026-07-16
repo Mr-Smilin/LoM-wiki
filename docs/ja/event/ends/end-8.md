@@ -1,6 +1,6 @@
 ---
-title: 汗青書8：煮られた狗 (被煮的狗)
-description: 汗青書8：煮られた狗
+title: 汗青書8：煮られた犬 (被煮的狗)
+description: 汗青書8：煮られた犬
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -9,14 +9,14 @@ tags:
     - ends
     - 汗青書
     - エンディング
-    - 鍋に入れられた犬
+    - 煮られた犬
 ---
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=8 title="煮られた狗">
+<EndBackground no=8 title="煮られた犬">
 兎死して狗烹らる。お前という走狗はもう用がない。大餅ひとつで<br>
-回らせて、本当に安上がりだ。<br>
+くるくる回らせて、本当に安上がりだ。<br>
 <br>
 <br>
 <br>
@@ -27,7 +27,7 @@ tags:
 
 <b>条件：</b>道徳<40【悪人or悪漢】<br>
 <b>ルート：</b><br>
-二年十月下旬、広州唐門襲撃イベント、**📖「弟子は師叔の駆使を聞く！（裏切り）」**を選択（選択肢開放には道徳<40【悪人or悪漢】が必要）、🗡️[掌門人](/ja/people/characters/master)と🗡️<Girl0Icon>小師妹</Girl0Icon>との決闘に両方とも勝利。
+第二年十月下旬、広州唐門襲撃事件で、**📖「弟子が師叔の命令に従う！（裏切り）」**を選択（選択肢開放には道徳<40【悪人or悪漢】が必要）、🗡️[掌門人](/ja/people/characters/master)と🗡️<Girl0Icon>小師妹</Girl0Icon>との決闘に両方とも勝利。
 
 ## 分岐と変化
 

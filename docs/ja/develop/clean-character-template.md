@@ -29,7 +29,7 @@ borderless: false
 tags:
     - 人物
     - 所属陣営
-    - 可攻略女角
+    - 可攻略女性キャラ
 ---
 
 # {{ $frontmatter.title }}

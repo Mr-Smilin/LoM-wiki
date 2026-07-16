@@ -669,7 +669,7 @@ tags:
 			<td>
 				<li>三師兄が帰る</li>
                 <MarkdownWrapper>
-                [唐門包囲戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)【徹底抗戦】
+                [唐門包囲戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)【混戦-徹底抗戦】
                 </MarkdownWrapper>
 			</td>
 			<td>
@@ -683,7 +683,7 @@ tags:
 			<td>
                 <MarkdownWrapper>
 				[西武林大会](/ja/event/detailed_description/4-02-2-東西武林盟會戰)<br>
-                [唐門包囲戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)【西武林盟成立-頑抗到底線】
+                [唐門包囲戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)【西武林盟成立-徹底抗戦】
                 </MarkdownWrapper>
 			</td>
 			<td>-</td>

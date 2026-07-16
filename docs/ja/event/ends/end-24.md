@@ -1,6 +1,6 @@
 ---
 title: 汗青書24：海辺に立つ人 (趕海人)
-description: 汗青書24：海辺に立つ人
+description: 汗青書24：海辺に立つ人 (趕海人)
 aside: true
 outline: [2, 3]
 sidebar: true

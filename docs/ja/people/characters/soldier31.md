@@ -1,5 +1,5 @@
 ---
-title: 趙方 (チョウホウ)
+title: 趙方
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -52,6 +52,6 @@ tags:
 </ChTabs>
 <br><br>
 
-趙老将軍。襄陽守将として、「道法将軍」[丹霞子](/ja/people/characters/special404)と共に金に抗った。
+趙老将軍、襄陽守将として「道法将軍」[丹霞子](/ja/people/characters/special404)と共に金に抗った。
 <br><br>
-かつて[瑞笙](/ja/people/characters/special999)のために書状をしたため、[唐默鈴](/ja/people/characters/girl0)の比武招親で仲人を務めた。
+かつて[瑞笙](/ja/people/characters/special999)に書状を書き、彼のために[唐默鈴](/ja/people/characters/girl0)の比武招親で仲人を務めた。

@@ -1,6 +1,6 @@
 ---
-title: 汗青書16：猿鶴虫沙 (猿鶴蟲沙)
-description: 汗青書16：猿鶴虫沙
+title: 汗青書16：猿鶴蟲沙
+description: 汗青書16：猿鶴蟲沙
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=16 title="猿鶴虫沙">
+<EndBackground no=16 title="猿鶴蟲沙">
 『抱朴子』日く：「周穆王南征，一軍盡化，君子為<br>
 猿為鶴，小人為蟲為沙。」死後盡く黄土に帰る。<br>
 <br>
@@ -25,7 +25,7 @@ tags:
 
 ## 条件とフロー
 
-<strong>条件：</strong><Girl5Icon>夏侯蘭</Girl5Icon>に拜師していない<br>
+<strong>条件：</strong><Girl5Icon>夏侯蘭</Girl5Icon>に師事していない<br>
 **フロー：**<br>
 1. 三年目五月上旬、比武招親の夜に[金烏上人](/ja/people/characters/special207)が襲来。**📜「不講武德群而毆之」**を選択、⚔️混戦で敗戦。道德≧40【中庸、好人、侠客】なら本エンディングに到達。
 

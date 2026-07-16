@@ -1,5 +1,5 @@
 ---
-title: 錦香宮 (キンコウキュウ)
+title: 錦香宮
 aside: true
 sidebar: false
 borderless: false

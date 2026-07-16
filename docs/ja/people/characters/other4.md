@@ -1,5 +1,5 @@
 ---
-title: 郝大通 (カクタイツウ)
+title: 郝大通
 aside: false
 outline: [2, 3]
 sidebar: false

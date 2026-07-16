@@ -26,7 +26,7 @@ tags:
 <!-- 此處因排版, 放入部分空行, 無理由請勿移除 -->
 </EndBackground>
 
-## 条件と流程
+## 条件と流れ
 
 <b>条件：</b>崆峒派に留学、<Girl3Icon>虞小梅</Girl3Icon>が唐門に加入、想い人<Girl6Icon>郁竹</Girl6Icon>、<Girl6Icon>郁竹</Girl6Icon>好感度≧45<br>
 <b>流程：</b><br>

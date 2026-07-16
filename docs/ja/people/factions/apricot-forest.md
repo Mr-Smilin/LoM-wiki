@@ -1,5 +1,5 @@
 ---
-title: 杏花林 (きょうかりん)
+title: 杏花林
 aside: true
 sidebar: false
 borderless: false

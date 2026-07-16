@@ -1,5 +1,5 @@
 ---
-title: 段智秀 (ダンチシュウ)
+title: 段智秀
 aside: false
 outline: [2, 3]
 sidebar: false

@@ -16,9 +16,9 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=35 title="慷慨、義に赴く">
-お前に生きる道があったのに、あえて唐門弟子として<br>
-あり、笑みを浮かべて生死を引き受け、壮烈に大義に<br>
-殉じた。<br>
+お前には生きる道があったのに、あえて唐門の弟子となり<br>
+生死を笑って見つめ、慷慨に大義に<br>
+赴いた。<br>
 <br>
 <br>
 <br>
@@ -95,10 +95,10 @@ tags:
 ## 分岐と変化
 
 ### 結緣対象
-結緣対象により異なるエンディング、伝説テキストに影響する。
+結緣対象により異なるエンディングが生じ、伝説テキストに影響する。
 + <Girl8Icon>龍湘</Girl8Icon>：主人公と共に戦死。
-+ <Girl0Icon>唐默鈴</Girl0Icon>：超虐心の<Girl0Icon>小師妹</Girl0Icon>が独り生き残る。
-+ <Girl5Icon>夏侯蘭</Girl5Icon>：[樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門しているかどうかで2つのシナリオ、伝説テキストに影響する。
++ <Girl0Icon>唐默鈴</Girl0Icon>：非常に残酷な<Girl0Icon>小師妹</Girl0Icon>が独り生き残る。
++ <Girl5Icon>夏侯蘭</Girl5Icon>：[樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門しているかどうかで2つのシナリオに分かれ、伝説テキストに影響する。
   + [樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門：主人公の屍体を雪山に持って帰り安葬し、[樊咲嫣](/ja/people/characters/special4)が嫁ぐまで待った後、失踪。
   + 上記の条件を満たさない場合：主人公の屍体を雪山に持って帰り安葬し、生涯墓を守る。
 

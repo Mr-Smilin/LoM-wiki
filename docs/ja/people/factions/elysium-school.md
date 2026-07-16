@@ -134,7 +134,7 @@ tags:
 
 [決戰極樂教](/ja/event/stories/決戰極樂教)の記事を参照。
 
-## 復活
+## 復出
 
 [李仁友](/ja/people/characters/other7)は九轉輪迴大法によって[申屠龍](/ja/people/characters/special405)に転生し、[青城派](/ja/people/factions/qing-cheng-sect)に入門した。裏では[千燈樓](/ja/people/factions/thousand-lantern-tower)に指示して[崆峒派](/ja/people/factions/kong-tong-sect)へ潜入させ、天敵たる[鐵琵琶功](/ja/system/books/book_7008)を葬り去ろうとした。
 
