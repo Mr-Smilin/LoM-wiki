@@ -43,12 +43,12 @@ aside: false
 			nameZh='祈り2'
 			nameEn='Pray'/>
 	</ChTab>
-    <ChTab title="決闘者">
+    <ChTab title="デュエリスト">
 		<Ch 
 			src='/images/characters/girl_0/gamer.webp' 
 			position='center'/>
 		<ChName
-			nameZh='決闘者'
+			nameZh='デュエリスト'
 			nameEn='Duel'/>
 	</ChTab>
     <ChTab title="微笑">
