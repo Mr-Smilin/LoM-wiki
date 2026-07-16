@@ -20,5 +20,5 @@ tags:
 </ClientOnly>
 
 <script setup>
-import EndImageGenerator from '/./../.vitepress/theme/components/private/image-generator/EndImageGenerator.vue'
+import EndImageGenerator from '/.vitepress/theme/components/private/image-generator/EndImageGenerator.vue'
 </script>
