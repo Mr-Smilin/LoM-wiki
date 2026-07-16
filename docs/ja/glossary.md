@@ -112,6 +112,7 @@ title: 用語対訳表
 | 內力 / 內功 | 内功 | Inner Energy | ★MOD (ステータス名は「内功」に統一) |
 | 體力 | 体力 | Stamina | |
 | 心相 | 心相 | Mood | ★MOD。本作固有の精神状態システム |
+| 高心相 (状態名) | 快楽 | High Mood | ★MOD。誤訳気味だが MOD 表記に倣う |
 | 名聲 | 名声 | Reputation | |
 | 修養 | 修養 | Refinement | ★MOD |
 | 性情 | 性情 | Temperament | ★MOD |
