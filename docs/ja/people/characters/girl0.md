@@ -349,7 +349,7 @@ aside: false
 -   歌唱は大きく外れる。小師妹は羞恥心が強く、人前ではあまり歌わない。また嘲笑されるのを恐れる。だから[趙活](/ja/people/characters/player)が独占している。[^4][^5]
 -   小さい顔立ちの幼い顔のタイプ。[^6]
 -   小師妹は実は皆の想像以上に扱いが難しい女の子。彼女は人生の半分以上独占される寵愛を受けるまで、初めて徐々に心を開く。[^7]
--   初めて[上官螢](/ja/people/characters/girl1.md)を見た時、その明るく美しい姿に憧れ、自分が再び背が伸びる機会があることは難しいと絶望した。[上官螢](/ja/people/characters/girl1.md)が唐門にいる間、極端に小師妹を溺愛した。[南宮深](/ja/people/characters/special102)が結婚を申し込む時に堂々と聞いた、なぜ[上官螢](/ja/people/characters/girl1.md)を欲しくないのに自分を嫁にしたいのかと。[南宮深](/ja/people/characters/special102)が家族に言わずに婚約者に見える誰かであることを認めない。
+-   初めて[上官螢](/ja/people/characters/girl4.md)を見た時、その明るく美しい姿に憧れ、自分が再び背が伸びる機会があることは難しいと絶望した。[上官螢](/ja/people/characters/girl4.md)が唐門にいる間、極端に小師妹を溺愛した。[南宮深](/ja/people/characters/special102)が結婚を申し込む時に堂々と聞いた、なぜ[上官螢](/ja/people/characters/girl4.md)を欲しくないのに自分を嫁にしたいのかと。[南宮深](/ja/people/characters/special102)が家族に言わずに婚約者に見える誰かであることを認めない。
 -   [掌門](/ja/people/characters/master.md)は以前[四師兄](/ja/people/characters/brother4.md)に託して[折り紙集](/ja/system/books/book_8108)を帰してもらった。小師妹は大喜びで、本の中の図案をすべて折ろうとした。色紙がなくなるまで折った。その後、悪い考えを思いついた。こっそり本を破いて、表紙は床の下に隠した。自分の折り紙帳を破き終わってから、他人の折り紙帳も破き始めた。最後にばれてしまった。小師妹は掌門の家法（体罰）で罰せられた。本も封印されてしまった。
 -   小師妹の紙鶴：[リンク](https://www.facebook.com/obbstudio/posts/136833392048181?rdid=ZkNxP6wJ5mrUQZpK)
 -   小師妹の紙細工：[リンク](https://www.facebook.com/story.php?story_fbid=431711456048902&id=100076301525150&mibextid=oFDknk&rdid=GFOHhRHD9w0HwSTS)

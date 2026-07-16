@@ -80,7 +80,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [唐默鈴](/ja/people/characters/girl2.md) (小師妹)
+                    [唐默鈴](/ja/people/characters/girl0.md) (小師妹)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -162,7 +162,7 @@ aside: false
 -   20年前の劫法場のシナリオは白髪である。単純に若いバージョンの立ち絵を用意しなかったからだ。[^1]
 -   まだ留学に行っていない[趙活](/ja/people/characters/player)が失意して下山したとき、長年身につけていた本命銭を[趙活](/ja/people/characters/player)に旅の遊興費として与え、何人かの師兄の代わりとして渡したと推測される。
 -   毎回[大師兄](/ja/people/characters/brother1.md)が下山するたびに、心がそわそわして落ち着かず、彼がいつか嫁さんを連れて帰ってこないかと深く心配している。
--   [葉雲裳](/ja/people/characters/girl0.md)に爺爺と呼ばれている。
+-   [葉雲裳](/ja/people/characters/girl2.md)に爺爺と呼ばれている。
 
 [^1]: PTT C 洽 - [\[活俠\] 龍湘與奇怪的小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
 [^2]: バハムート - [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
