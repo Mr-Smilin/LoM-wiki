@@ -59,7 +59,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [趙活](/ja/people/characters/player) (姓でない弟子)
+                    [趙活](/ja/people/characters/player) (唐姓でない弟子)
                 </ChTd>
             </ChTr>
 		</table>
