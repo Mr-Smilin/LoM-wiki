@@ -192,7 +192,7 @@ aside: false
 -   [趙活](/ja/people/characters/player)は二師兄がいない隙に彼の粉を盗んで胡椒餅を作ったことがあり、打撲を受けた。
 -   [大師兄](/ja/people/characters/brother1.md)とともに、ある小師姑に暗に思いを寄せていたことがある。それは[唐芳](/ja/people/characters/special832)の姉の唐芬。大師兄が[趙活](/ja/people/characters/player)とこの話をした時、二師兄の反応は過激で、突然怒って[小師妹](/ja/people/characters/girl2.md)を怖がらせた。
 -   幼い頃、唐芬が作った漢方蜜漬けで虫歯になったことがある。
--   [點蒼派](/ja/people/factions/dian-cang-sect)を恨んでいる。一つは嘗て點蒼剣に傷を負ったこと。もう一つは彼らが日々、正直で正義感強い君子として自称しているくせに、唐門の薬学を見下しているから。
+-   [点蒼派](/ja/people/factions/dian-cang-sect)を恨んでいる。一つは嘗て点蒼剣に傷を負ったこと。もう一つは彼らが日々、正直で正義感強い君子として自称しているくせに、唐門の薬学を見下しているから。
 -   [小師妹](/ja/people/characters/girl2.md)をたいへん気にかけており、[趙活](/ja/people/characters/player)に対して、下山して道を覚える[小師妹](/ja/people/characters/girl2.md)と[葉雲裳](/ja/people/characters/girl0.md)を暗に守るよう要求するため、喜んで趙活の雑務を引き受ける。過度な保護のため、[上官螢](/ja/people/characters/girl1.md)から「老母さん」と呼ばれている。
 
 [^1]: バハムート- [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

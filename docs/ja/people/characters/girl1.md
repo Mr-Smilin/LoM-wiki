@@ -105,7 +105,7 @@ aside: false
 -   大宋皇帝 ([趙擴](/ja/people/characters/special817)) でさえ、彼女の前では下手に出るしかない
 -   [趙活](/ja/people/characters/player)に好意を持っており、彼のためなら星も摘んでみせる。ただし、どれほど愛しているかは秘密。[^1]
 -   夢の中で錦嚢を開くと、想い人が強制的に変更される
--   鷹人 ([萬里鵬程](/ja/people/characters/special6)) と點蒼劍聖 ([無名](/ja/people/characters/special406)) が彼女の輿を担いでいる
+-   鷹人 ([萬里鵬程](/ja/people/characters/special6)) と点蒼劍聖 ([無名](/ja/people/characters/special406)) が彼女の輿を担いでいる
 -   侍女として[書蓉](/ja/people/characters/special818)を従えている
 -   瑞家の族長であり、[瑞笙](/ja/people/characters/special999)に「自分を妹と認めろ」と要求している。認めなければ族譜から除名するとのこと
 -   瑞家は浮世離れした一族で、「山中に歳月なし」を自称する。そのため瑞杏の装いは前王朝ふうの襦裙 (じゅくん) に近い。生地はすべて西域渡りの風通しのよい上物で、刺繍こそないが、質素に見えて実はかなりの高級品

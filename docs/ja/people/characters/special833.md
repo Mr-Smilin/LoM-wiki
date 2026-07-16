@@ -70,9 +70,9 @@ tags:
 </ChTabs>
 <br>
 
-[點蒼派](/ja/people/factions/dian-cang-sect)松煙閣の少主。称号は「清煙劍客」、[花城四少](/ja/people/characters/group1)の一人。大変な金持ちで、何より面子を重んじる。
+[点蒼派](/ja/people/factions/dian-cang-sect)松煙閣の少主。称号は「清煙劍客」、[花城四少](/ja/people/characters/group1)の一人。大変な金持ちで、何より面子を重んじる。
 <br><br>
-大理天明帝・段素興の末裔。五歳の時に高氏の権臣に利用されて政変に巻き込まれ、失敗。仏を崇める宣宗・段智興は、幼く罪のない彼を見て世子の位を廃するにとどめ、[點蒼派](/ja/people/factions/dian-cang-sect)へと送り出した。以来十数年、身を慎んで心から悔い改め、常に仏典を書き写しては、いつか皇帝の恩赦を得て一族への復帰を許される日を待ち望んでいた。
+大理天明帝・段素興の末裔。五歳の時に高氏の権臣に利用されて政変に巻き込まれ、失敗。仏を崇める宣宗・段智興は、幼く罪のない彼を見て世子の位を廃するにとどめ、[点蒼派](/ja/people/factions/dian-cang-sect)へと送り出した。以来十数年、身を慎んで心から悔い改め、常に仏典を書き写しては、いつか皇帝の恩赦を得て一族への復帰を許される日を待ち望んでいた。
 <br><br>
 南域に流れ着いた[葉雲舟](/ja/people/characters/special3)・[葉雲裳](/ja/people/characters/girl2)を見て同病相憐れみ、義兄妹の契りを結んだ。
 
@@ -86,7 +86,7 @@ tags:
 <br><br>
 皇帝への反抗には兵を養う必要があり、軍を蓄えるには莫大な財力が要る。彼は[葉雲裳](/ja/people/characters/girl2)が九歳の頃、七龍女池のほとりでままごとをしていた時に「葉家には岳王の宝蔵がある」と言ったのを思い出した。それを固く信じた彼は土壇場で寝返り、同門の師兄弟を買収して[葉雲舟](/ja/people/characters/special3)を乱軍の中に見捨て、さらに聽雲劍まで騙し取った。これで葉雲裳の信を得て、宝蔵の手がかりを聞き出そうという肚である。しかし葉雲舟は命を落とすことなく、一剣のもとに段智秀の右手を斬り廃すと、彼と恩義を絶ち、妹を連れて中原へ逃れた。
 <br><br>
-右手を廃されて剣客の道を断たれ、點蒼派を退くほかなく、[青城派](/ja/people/factions/qing-cheng-sect)の[鐵冠道人](/ja/people/characters/special212)の門下に入った。大望のため執拗に葉家兄妹の行方を追い続け、[溫夫人](/ja/people/characters/special402)の策に乗って南宮秀に成りすまし、盗賊を買収して[唐門](/ja/people/factions/tang-men)を襲撃させた。これが巡り巡って[趙活](/ja/people/characters/player)の青城留学につながり、[葉雲裳](/ja/people/characters/girl2)との再会を果たす。
+右手を廃されて剣客の道を断たれ、点蒼派を退くほかなく、[青城派](/ja/people/factions/qing-cheng-sect)の[鐵冠道人](/ja/people/characters/special212)の門下に入った。大望のため執拗に葉家兄妹の行方を追い続け、[溫夫人](/ja/people/characters/special402)の策に乗って南宮秀に成りすまし、盗賊を買収して[唐門](/ja/people/factions/tang-men)を襲撃させた。これが巡り巡って[趙活](/ja/people/characters/player)の青城留学につながり、[葉雲裳](/ja/people/characters/girl2)との再会を果たす。
 <br><br>
 門派の中では手を出しにくいため、青城の弟子を買収して趙活一行を監視させ、時機を窺った。[葉雲裳](/ja/people/characters/girl2)は計略で唐門襲撃の証拠となる書簡を騙し取ったものの、思いがけず毒に倒れ、密書の文字も既に消えていた。ここに至って彼は、自分が[溫夫人](/ja/people/characters/special402)と[杏花仙](/ja/people/characters/girl1)に嵌められていたことを知る。救命処置の間、[趙活](/ja/people/characters/player)と対峙した彼は、葉雲裳の病など大したことはないと高をくくり、[唐芳](/ja/people/characters/special832)に痛罵された。
 <br><br>
@@ -94,7 +94,7 @@ tags:
 <br><br>
 [唐默鈴](/ja/people/characters/girl0)の比武招親の日、後山で[趙活](/ja/people/characters/player)・[葉雲裳](/ja/people/characters/girl2)と顔を合わせ、嶺南での経験を思い出して相討ち覚悟で襲いかかるも、[趙活](/ja/people/characters/player)に敗れる。そこへ[鐵冠道人](/ja/people/characters/special212)が現れ、絶世の武功で趙活を圧倒し、自らが[無相祖師](/ja/people/characters/special212_2)であることを明かした。段智秀の恥知らずな面の皮を気に入り、衣鉢を継がせたいという。段智秀はこの機に乗じて改めて宝蔵の在り処を尋ねるが、あれはただの戯れ言だったと知らされ、大きな衝撃を受けて茫然自失となる。その後、趙活とともに無相祖師を撃退するが、趙活と葉雲裳が谷底へ落ちるのを目の当たりにする。彼は正心堂へ押し入って[掌門](/ja/people/characters/master)への面会を求め、髪を振り乱した狂人さながらの姿で事の次第を訴えると、皆が我に返る前に立ち去った。
 <br><br>
-武林大会では[嶺南派](/ja/people/factions/lingnan-sect)に同行するが、[葉雲舟](/ja/people/characters/special3)を見かけると慌てて逃げ出す。西武林の一戦では葉雲舟とともに點蒼双尊と力戦し、戦後、師門を破門された。
+武林大会では[嶺南派](/ja/people/factions/lingnan-sect)に同行するが、[葉雲舟](/ja/people/characters/special3)を見かけると慌てて逃げ出す。西武林の一戦では葉雲舟とともに点蒼双尊と力戦し、戦後、師門を破門された。
 
 ## 備考
 

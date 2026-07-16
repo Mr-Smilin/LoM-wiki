@@ -40,7 +40,7 @@ tags:
 
 <br>
 
-百年前に[崆峒派](/ja/people/factions/kong-tong-sect)鐵拳門から分家独立し、鍛造する刀剣は江湖一絶で、人々が争って購求し、[點蒼派](/ja/people/factions/dian-cang-sect)の弟子たちも特に劍を求めに訪れる。
+百年前に[崆峒派](/ja/people/factions/kong-tong-sect)鐵拳門から分家独立し、鍛造する刀剣は江湖一絶で、人々が争って購求し、[点蒼派](/ja/people/factions/dian-cang-sect)の弟子たちも特に劍を求めに訪れる。
 
 <br clear="all">
 

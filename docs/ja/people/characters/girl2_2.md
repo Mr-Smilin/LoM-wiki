@@ -2,7 +2,7 @@
 title: 葉雲啾 (ヨウウンシュウ)
 tags:
     - 人物
-    - 點蒼派
+    - 点蒼派
 aside: false
 ---
 
@@ -74,7 +74,7 @@ aside: false
 	</Info>
 </InfoList>
 
-> 「我こそは葉雲舟の弟にして葉雲裳の兄、葉家の次男、點蒼一の怪賤手、葉雲啾だ！」
+> 「我こそは葉雲舟の弟にして葉雲裳の兄、葉家の次男、点蒼一の怪賤手、葉雲啾だ！」
 
 葉家三兄妹の二番目の兄。点蒼派の緑の衣を身にまとっている。背丈は低い。[小師妹](/ja/people/characters/girl0.md)の婚宴の上で。[南宮深](/ja/people/characters/special102)・[解無塵](/ja/people/characters/special808)二人の高手が登場して勝敗を決める際に。剣を引き抜いて乱入し。言い張って[唐門](/ja/people/factions/tang-men)の婿となりたいと欲する。
 

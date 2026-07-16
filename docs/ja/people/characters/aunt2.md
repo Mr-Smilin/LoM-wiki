@@ -60,6 +60,6 @@ tags:
 ## 備考
 
 - 眉山鎮洗面湯商人の張某の妻である。
-- 甚だしく[點蒼派](/ja/people/factions/dian-cang-sect)が昔唐門の門人を殺したことを恨み、彼らを点蒼の緑衣の亀と呼ぶ。
+- 甚だしく[点蒼派](/ja/people/factions/dian-cang-sect)が昔唐門の門人を殺したことを恨み、彼らを点蒼の緑衣の亀と呼ぶ。
 - 葉家の兄妹をも甚だしく不服としており、[葉雲裳](/ja/people/characters/girl2)の皮を剥いて宝物を調べるか、彼女を[晁和](/ja/people/characters/special208)に嫁がせたいと考えている。教養のない言動が目立つ。
 - 葉妹の悪口を言う時に[上官螢](/ja/people/characters/girl4)が居合わせると、彼女に言い返されてしまい、全く反論の余地がない。
