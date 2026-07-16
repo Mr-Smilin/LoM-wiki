@@ -58,28 +58,28 @@ tags:
 	</ChTab>
 </ChTabs>
 
-> 「別來如何？你還老是一臉猥瑣，跟在小師妹屁股後面跑嗎？」
+> 「別れてからどう？相変わらず一杯の下品な顔してて、小師妹のお尻の後ろを走ってるのか?」
 
 元[唐門](/ja/people/factions/tang-men)の女弟子・唐儒は、見た目は美しいが、自分から寝床で門敷居まで寝転ぶ奇人である。睡相は悪く、驚天動地の睡眠癖があり、さらに手絡で左右の師姐妹を捕らえて抱き枕にすることもある。
 
 <br>
 
-曾暗戀[大師兄](/ja/people/characters/brother1)，但某次路上[大師兄](/ja/people/characters/brother1)跑得飛快，她和另外幾位師弟妹半路遭遇仇人伏擊，險點出了大事，[南宮世家](/ja/people/factions/nan-gong-family)、鍾家攜手派人來救才脫險，便斷了念想，嫁入鍾家，改姓辛。
+かつて[大師兄](/ja/people/characters/brother1)に思いを寄せていたが、ある時道中で[大師兄](/ja/people/characters/brother1)は飛ぶように走り去り、彼女は他の何人かの師弟妹と共に道の途中で敵に待ち伏せされ、大事に陥るところだったが、[南宮世家](/ja/people/factions/nan-gong-family)と鍾家が手を携えて人を送ってきて助けてくれたので脱出でき、その思いをあきらめた。その後鍾家に嫁ぎ、姓を辛に改めた。
 
 <br>
 
-可眼光不好，嫁後才發現鍾少爺是狐假虎威、色厲內荏之輩，在[丐幫](/ja/people/factions/beggar-gang)中不過是給丐頭跑腿の嘍囉，若非[南宮世家](/ja/people/factions/nan-gong-family)出面，連脫離[丐幫](/ja/people/factions/beggar-gang)都辦不到。
+しかし眼力がなく、嫁いだ後になって鍾少爺は虎を仮装した狐で、外は厳しく内は弱いタイプの人間で、[丐幫](/ja/people/factions/beggar-gang)では単に丐頭の使いっ走りに過ぎないことに気づいた。[南宮世家](/ja/people/factions/nan-gong-family)が介入しなければ、[丐幫](/ja/people/factions/beggar-gang)から脱出することもできなかった。
 
 <br>
 
-南宮壽宴時期，幫襯著夫家，承包安濟坊の飲食，收容鰥寡孤獨廢疾者。
+南宮の寿宴の時期、夫家を助けて、安濟坊の食事を請け負い、寡婦、孤児、独身者、身障者を受け入れた。
 
 ## 備考
 
--   立繪美，又有師姐、人妻屬性，在玩家之間人氣意外頗高(?)
--   婆婆是南宮家主の親妹子，故夫家是[南宮世家](/ja/people/factions/nan-gong-family)の親家
+-   立ち絵が美しく、師姉や人妻の属性があり、プレイヤーの間で意外と人気が高い(?)
+-   舅母は南宮家主の親妹なので、夫家は[南宮世家](/ja/people/factions/nan-gong-family)の親戚
 -   [夏侯蘭](/ja/people/characters/girl5)と同じ誕生日11/10。占い師がその日の吉時に宋国に絶世の美女が降生するだろうと言ったため、辛儒の母親は必死に辛儒を産み出したという。[^1][^2]
--   與[唐芳](/ja/people/characters/special832)並稱唐門迷糊大王。一個睡姿差，一個愛遲到。
+-   [唐芳](/ja/people/characters/special832)と共に「唐門のぼんやり大王」と並称される。一方は寝相が悪く、他方は遅刻好き。
 
 [^1]: PTT C 洽－[\[活俠\] 瑞笙設定+龍湘設定+夏侯蘭生日](https://www.ptt.cc/bbs/C_Chat/M.1752927048.A.9E1.html)
 [^2]: 原始鳥熊FB - [2025/11/10生日賀文](https://www.facebook.com/obbstudio/posts/pfbid02t8cCaMxrwWdbiHAfPC6xYiG8nTreNr8CLXBut1eYJh6uQ9HCpUrhXBH1QToEJmgJl)。

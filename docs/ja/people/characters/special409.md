@@ -54,11 +54,11 @@ tags:
 
 <br>
 
-外號「天王座」，[泥教](/ja/people/factions/mud-school)天道法王，深居六道峽不出。
+別号「天王座」、[泥教](/ja/people/factions/mud-school)天道法王。六道峡に深く居住して世に出ず。
 
 <br>
 
-嵩山達摩院首座[覺空](/ja/people/characters/special6)大師が民のために害を除こうと、危険を冒して虎穴に深く入ったが、命は保ったものの、帰ってきた時には既に面目全非だった。
+嵩山達摩院の首座[覚空](/ja/people/characters/special6)大師が民のために害を除こうと、危険を冒して虎穴に深く入ったが、命は保ったものの、帰ってきた時には既に面目丸つぶれだった。
 
 <br>
 
@@ -66,15 +66,15 @@ tags:
 
 <br>
 
-現版本(v1.0.5000)完全沒有戲份，只有在發售PV短暫出現過：[連結](https://youtu.be/O3To9yxYRvU?si=2T8AYhgTGattE-Sh&t=56)。
+現在のバージョン(v1.0.5000)では完全に出番がなく、販売PVに短く登場しているだけです。[リンク](https://youtu.be/O3To9yxYRvU?si=2T8AYhgTGattE-Sh&t=56)。
 
 ## 備考
 
-- 鳥熊表示可以將他看成[泥教](/ja/people/factions/mud-school)の無敵超人。[^1]
-- 單論名声の話，邪派人物推崇泥教天王座．車軒轅；正道有全真教[長春真人](/ja/people/characters/special209)被尊稱天下第一人，但這二位向來只有神交而已。[^3]
-- 所習武功旁人學不來，沒有弟子。旁人都是參考他の武功對策來改良自己の部分。[^2]
+- 鳥熊スタジオは彼を[泥教](/ja/people/factions/mud-school)の無敵超人として見なすことができると述べている。[^1]
+- 名声の話に限ると、邪派の人物は泥教天王座・車軒轅を崇拝し、正道には全真教の[長春真人](/ja/people/characters/special209)が天下第一人として尊称されているが、この二人は常に精神的な交流のみである。[^3]
+- 習った武功は他の人には学べず、弟子がいない。他の人は彼の武功への対策を参考にして自分の部分を改良する。[^2]
 - [王二壯](/ja/people/characters/special401)很尊敬他。
-- 武學與醫術兼修，是有能力治療[葉雲裳](/ja/people/characters/girl2)の人選之一。然而[葉雲舟](/ja/people/characters/special3)顧慮葉家名声，不願向泥教求助。
+- 武学と医術を兼修しており、[葉雲裳](/ja/people/characters/girl2)を治療できる人選の一人である。しかし[葉雲舟](/ja/people/characters/special3)は葉家の名声を考慮して、泥教に助言を求めようとしない。
 
 [^1]: [問答集2024-10-28](/ja/other/qna/202410)
 [^2]: [問答集2024-10-29](/ja/other/qna/202410)
