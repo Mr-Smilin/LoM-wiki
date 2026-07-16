@@ -1,0 +1,2 @@
+# docs/ja 和訳進捗台帳 (tools/checkJaTranslation.js が読む)
+# 形式: パス<TAB>OK|REWROTE<TAB>sha256(現在のjaファイル)
