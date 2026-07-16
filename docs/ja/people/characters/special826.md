@@ -56,7 +56,7 @@ tags:
 <br><br>
 唐中翎が病に倒れると、上官世家を後ろ盾に得て、[広州唐門](/ja/people/characters/special812)を抱き込み簒奪を企てた。失敗した後も武林盟大会で[晁和](/ja/people/characters/special208)とともに唐門を中傷し、[福韞](/ja/people/characters/special206)の口を封じるため、同門の情誼も顧みず卑劣な手で彼を昏倒させた。
 <br><br>
-[趙活](/ja/people/characters/player)が武林大会で「戰你娘親」と大声で叫ぶと、彼こそ唐老魔に最も近い人物だと思い込み、震え上がる。
+[趙活](/ja/people/characters/player)が武林大会で「混戦」と大声で叫ぶと、彼こそ唐老魔に最も近い人物だと思い込み、震え上がる。
 
 ## 末路
 

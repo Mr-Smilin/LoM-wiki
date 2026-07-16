@@ -1,6 +1,6 @@
 ---
 title: 対戦コマンド
-description: お前の母親と戦え
+description: 混戦
 aside: true
 outline: [2, 3]
 sidebar: true

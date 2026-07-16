@@ -1,6 +1,6 @@
 ---
 title: 発動中技能とサポート
-description: お前の母親と戦え
+description: 混戦
 aside: false
 outline: [2, 3]
 sidebar: true
