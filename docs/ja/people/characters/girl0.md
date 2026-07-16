@@ -211,7 +211,7 @@ aside: false
 
 <br><br>
 
-しかし有情人も必ずしも最後に夫婦にはならない。ライバルたちが四方八方から狙い、この恋路は「困難」という二文字では足りず、刀の山剣の樹のような悲劇へと向かっていく。
+しかし、想い合う二人が必ず結ばれるとは限らない。恋敵たちが四方から様子をうかがい、この恋路は「険しい」という言葉では足りず、まさに刀の山、剣の樹。血が流れて河になるほどである。
 
 <div style="clear:both;"></div>
 
@@ -262,7 +262,7 @@ aside: false
 
 <br><br>
 
-[掌門](/ja/people/characters/master.md)は育児をしたことがなく、[大師兄](/ja/people/characters/brother1.md)は子供の頃から叩かれていた。[二師兄](/ja/people/characters/brother2.md)はしかし非常に懂慮深く、叩かれることは数えられるほどしかない。修功のため、小師妹も同じ扱いだ。鈴が一度でも鳴れば、すぐ藤の杖がお相手。子供の頃から始まった。どんなに活発な子供も一匹の死んだ魚になる。小師妹の無口さは3分は生まれつき。7分は後から作られたものだ。
+[掌門](/ja/people/characters/master.md)は育児をしたことがなく、[大師兄](/ja/people/characters/brother1.md)は子供の頃から叩かれていた。[二師兄](/ja/people/characters/brother2.md)はといえば非常に聞き分けが良く、叩かれた回数は数えるほどしかない。修功のため、小師妹も同じ扱いだ。鈴が一度でも鳴れば、すぐ藤の杖がお相手。子供の頃から始まった。どんなに活発な子供も一匹の死んだ魚になる。小師妹の無口さは3分は生まれつき。7分は後から作られたものだ。
 
 <br><br>
 
@@ -284,7 +284,7 @@ aside: false
 
 ## 趙活
 
--   ~~汝に監守自盗を為さしめ！監守自盗……監守自盗~~
+-   ~~お前に泥棒の番をさせてやる！ミイラ取りがミイラに……ミイラに~~
 -   子供の頃から妹のように預けられて[趙活](/ja/people/characters/player)に世話されている。
 -   おそらく子供の頃からずっと見ていたので、[趙活](/ja/people/characters/player)が嫌だと思ったことはない。~~小師妹は本当に狂っているかもしれない！~~
 -   [趙活](/ja/people/characters/player)が歌う山歌が好き。
@@ -330,8 +330,8 @@ aside: false
 
 ## エンディング
 
--   もし結ばれなければ、[瑞笙](/ja/people/characters/special999)に嫁ぐべき。もし西武林線で[瑞笙](/ja/people/characters/special999)が生きていれば、[唐門](/ja/people/factions/tang-men)に帰るべし。[^2]
--   もし結ばれれば、西武林エンディング後に[趙活](/ja/people/characters/player)と[唐門](/ja/people/factions/tang-men)に定住すべし。[^2]
+-   結緣していない場合、[瑞笙](/ja/people/characters/special999)に嫁ぐ。西武林線で[瑞笙](/ja/people/characters/special999)が生き残った場合は、[唐門](/ja/people/factions/tang-men)に帰る。[^2]
+-   結緣している場合、西武林エンディング後に[趙活](/ja/people/characters/player)と[唐門](/ja/people/factions/tang-men)に定住する。[^2]
 
 ## 備考
 

@@ -13,7 +13,7 @@ aside: false
 		<ChMeet 
 			src='/images/characters/girl_2/special2.webp' 
 			nameMain='葉雲啾'
-			desc='葉家排行第二。點蒼第一怪賤手。是葉雲裳作案後、責任を推し卸すに用いる第二重身分なり。'
+			desc='葉家の二番目。点蒼派第一の変わった手。葉雲裳が悪事を働いた後に、責任を押し付けるために使われる二番目の身分である。'
 			:animation=true
 		/>
 	</ChTab>
@@ -74,14 +74,14 @@ aside: false
 	</Info>
 </InfoList>
 
-> 「吾は葉雲舟之弟、葉雲啾之兄、葉家排行第二、點蒼第一怪賤手、葉雲啾なり！」
+> 「我こそは葉雲舟の弟にして葉雲裳の兄、葉家の次男、點蒼一の怪賤手、葉雲啾だ！」
 
-葉家三兄妹之二兄。一襲點蒼綠衣。個頭矮小。[小師妹](/ja/people/characters/girl0.md)の婚宴上。[南宮深](/ja/people/characters/special102)・[解無塵](/ja/people/characters/special808)二位高手入場して勝敗を決するの際に。提剣亂入し。揚言して[唐門](/ja/people/factions/tang-men)の女婿と為さんと欲す。
+葉家三兄妹の二番目の兄。点蒼派の緑の衣を身にまとっている。背丈は低い。[小師妹](/ja/people/characters/girl0.md)の婚宴の上で。[南宮深](/ja/people/characters/special102)・[解無塵](/ja/people/characters/special808)二人の高手が登場して勝敗を決める際に。剣を引き抜いて乱入し。言い張って[唐門](/ja/people/factions/tang-men)の婿となりたいと欲する。
 
 <br><br>
 
-実際は[葉雲裳](/ja/people/characters/girl2.md)の假扮なり。一眼にて[趙活](/ja/people/characters/player)に認め出される。
+実際には[葉雲裳](/ja/people/characters/girl2.md)の変装である。一目で[趙活](/ja/people/characters/player)に見破られる。
 
 <br>
 
-後日かつて同じき打扮にて[葉雲舟](/ja/people/characters/special3)に見面を约し。彼却つて一時認め得ぬ。親兄たるに足りて失敗なり。
+後日、かつて同じ姿で[葉雲舟](/ja/people/characters/special3)に会う約束をする。彼は一時、見分けることができない。兄親であるのに失敗である。
