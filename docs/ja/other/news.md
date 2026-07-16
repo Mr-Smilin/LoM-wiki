@@ -11,6 +11,12 @@ gitChangelog: false
 ---
 <br>
 
+# 江湖快報 2026年7月号
+<!--@include: @/ja/other/news/20260710-01-announce.md-->
+
+---
+<br>
+
 # 江湖快報 2025年10月号
 <!--@include: @/ja/other/news/20251010-01-release.md-->
 <!--@include: @/ja/other/news/20251004-01-release.md-->
