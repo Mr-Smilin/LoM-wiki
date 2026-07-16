@@ -1,6 +1,6 @@
 ---
-title: 汗青書22：恩讐の終焉 (恩仇的盡頭)
-description: 汗青書22：恩讐の終焉
+title: 汗青書22：恩讐の果て (恩仇的盡頭)
+description: 汗青書22：恩讐の果て
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=22 title="恩讐の終焉">
+<EndBackground no=22 title="恩讐の果て">
 怒りはたちまち空の雲を炎で染め上げた。<br>
 恩も報い、仇も報った。恩讐はすべて灰となり、天に舞い上がり、風に<br>
 遠く去った。<br>

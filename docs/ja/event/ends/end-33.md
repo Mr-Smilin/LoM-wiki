@@ -1,6 +1,6 @@
 ---
-title: 汗青書33：全軍覆滅 (全軍覆沒)
-description: 汗青書33：全軍覆滅 (全軍覆沒)
+title: 汗青書33：全軍覆没 (全軍覆沒)
+description: 汗青書33：全軍覆没
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -16,7 +16,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=33 title="全軍覆滅">
+<EndBackground no=33 title="全軍覆没">
 この日、唐門の反逆者全員が眉山で壊滅し、生き残りは<br>
 なかった。大院と外堡は灰と化し、功績も過失も烏有に<br>
 帰す。お前たちが生きたことは、ただ誰も覚えていない。<br>

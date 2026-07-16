@@ -1,6 +1,6 @@
 ---
 title: 汗青書17：盲目の剣客 (盲劍客)
-description: 汗青書17：盲目の剣客 (盲劍客)
+description: 汗青書17：盲目の剣客
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -15,7 +15,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=17 title="盲劍客">
+<EndBackground no=17 title="盲目の剣客">
 お前が目を失った後、龍湘は深く後悔し、一身の剣法<br>
 をお前に伝授した。お前はこれで江湖に名を馳せたが<br>
 、数年後に狡猾な小人に出くわし、罠にはめられて足<br>

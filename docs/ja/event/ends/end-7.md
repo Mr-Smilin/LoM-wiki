@@ -1,6 +1,6 @@
 ---
-title: 汗青書7：孤独な最期 (孤獨死)
-description: 汗青書7：孤独な最期
+title: 汗青書7：孤独死 (孤獨死)
+description: 汗青書7：孤独死
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=7 title="孤独な最期">
+<EndBackground no=7 title="孤独死">
 万籁倶に寂しく、天地無声にして、あなたはついに安寧を見いだした。<br>
 <br>
 <br>

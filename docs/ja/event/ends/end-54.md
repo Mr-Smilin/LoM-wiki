@@ -1,6 +1,6 @@
 ---
-title: 汗青書54：君と共に進む (與妳同行)
-description: 汗青書54：君と共に進む
+title: 汗青書54：君とともに (與妳同行)
+description: 汗青書54：君とともに
 aside: true
 outline: [2, 3]
 sidebar: true

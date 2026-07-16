@@ -1,6 +1,6 @@
 ---
-title: 汗青書34：屍のまま (行屍走肉)
-description: 汗青書34：屍のまま (行屍走肉)
+title: 汗青書34：生ける屍 (行屍走肉)
+description: 汗青書34：生ける屍
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -18,7 +18,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=34 title="屍のまま">
+<EndBackground no=34 title="生ける屍">
 生きてはいるが、お前はもう長く死んでいた。<br>
 夏侯蘭はあの日、お前を拘束したことを後悔している。<br>
 お前に数十年の苦悶をもたらしたのだから。<br>

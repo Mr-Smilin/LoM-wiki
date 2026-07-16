@@ -1,6 +1,6 @@
 ---
-title: 汗青書8：鍋に入れられた犬 (被煮的狗)
-description: 汗青書8：鍋に入れられた犬
+title: 汗青書8：煮られた狗 (被煮的狗)
+description: 汗青書8：煮られた狗
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=8 title="鍋に入れられた犬">
+<EndBackground no=8 title="煮られた狗">
 兎死して狗烹らる。お前という走狗はもう用がない。大餅ひとつで<br>
 回らせて、本当に安上がりだ。<br>
 <br>

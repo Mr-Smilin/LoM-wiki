@@ -1,6 +1,6 @@
 ---
 title: 汗青書38：神州の旅人 (神州旅人)
-description: 汗青書38：神州の旅人 (神州旅人)
+description: 汗青書38：神州の旅人
 aside: true
 outline: [2, 3]
 sidebar: true

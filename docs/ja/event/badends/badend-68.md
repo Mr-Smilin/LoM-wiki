@@ -1,6 +1,6 @@
 ---
-title: 生死簿68：殴り殺す (被揍死)
-description: 生死簿68：殴り殺す (被揍死)
+title: 生死簿68：殴られ死に (被揍死)
+description: 生死簿68：殴られ死に
 aside: true
 outline: [2, 3]
 sidebar: true

@@ -1,6 +1,6 @@
 ---
-title: 汗青書10：江湖からの隠遁（原文:退隱江湖）
-description: 汗青書10：江湖からの隠遁。
+title: 汗青書10：江湖引退 (退隱江湖)
+description: 汗青書10：江湖引退
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -17,7 +17,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=10 title="江湖からの隠遁">
+<EndBackground no=10 title="江湖引退">
 江湖の紛争から身を隠し、時は静かに過ぎる。<br>
 これからの人生は、紙に書かれた日記のようで、<br>
 毎日平凡だが、それでも充実していた。<br>

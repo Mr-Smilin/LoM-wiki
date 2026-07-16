@@ -1,6 +1,6 @@
 ---
-title: 汗青書36：唐門の密器 (唐門的暗器)
-description: 汗青書36：唐門の密器 (唐門的暗器)
+title: 汗青書36：唐門の暗器 (唐門的暗器)
+description: 汗青書36：唐門の暗器
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -16,7 +16,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=36 title="唐門の密器">
+<EndBackground no=36 title="唐門の暗器">
 人が死ぬとは灯が消えること。お前たちは生命の火を<br>
 燃やし尽くし、なお光を放つ。数十年後、世人はなお<br>
 唐門の絶響を覚えている。<br>

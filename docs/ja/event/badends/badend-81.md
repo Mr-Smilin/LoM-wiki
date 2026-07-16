@@ -1,6 +1,6 @@
 ---
-title: 生死簿81：腹いせが失敗して殺される (洩憤不成反被殺)
-description: 生死簿81：腹いせが失敗して殺される
+title: 生死簿81：腹いせの返り討ち (洩憤不成反被殺)
+description: 生死簿81：腹いせの返り討ち
 aside: true
 outline: [2, 3]
 sidebar: true

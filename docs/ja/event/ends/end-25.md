@@ -1,6 +1,6 @@
 ---
-title: 汗青書25：江湖からの隠居 (退隱江湖)
-description: 汗青書25：江湖からの隠居
+title: 汗青書25：江湖引退 (退隱江湖)
+description: 汗青書25：江湖引退
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=25 title="江湖からの隠居">
+<EndBackground no=25 title="江湖引退">
 隠居した後は江湖のことなど二度と聞かなかった。<br>
 波乱は二十年も前のことで、残りの人生は名声に左右されることもない。君は来た、<br>
 君は去った。誰も気に留めなかったかもしれないが、君自身は知っている。<br>

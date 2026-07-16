@@ -1,6 +1,6 @@
 ---
-title: 汗青書12：孤独に老いる（原文:孤獨終老）
-description: 汗青書12：孤独に老いる
+title: 汗青書12：独りで老いて (孤獨終老)
+description: 汗青書12：独りで老いて
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=12 title="孤独に老いる">
+<EndBackground no=12 title="独りで老いて">
 君の身辺の花は盛開と枯萎を繰り返し、来去が<br>
 匆匆で、おまえはいつも孤独なままだ。<br>
 <br>

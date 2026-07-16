@@ -1,6 +1,6 @@
 ---
-title: 生死簿71：目の前で死ぬ (眼睜睜看著你死)
-description: 生死簿71：目の前で死ぬ (眼睜睜看著你死)
+title: 生死簿71：見殺し (眼睜睜看著你死)
+description: 生死簿71：見殺し
 aside: true
 outline: [2, 3]
 sidebar: true

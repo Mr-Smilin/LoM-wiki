@@ -1,6 +1,6 @@
 ---
-title: 汗青書6：眠りの中で (睡死)
-description: 汗青書6：眠りの中で
+title: 汗青書6：眠り死に (睡死)
+description: 汗青書6：眠り死に
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=6 title="眠りの中で">
+<EndBackground no=6 title="眠り死に">
 人生において最も辛いのは、一人だけ目覚めていることだ。願わくば、安らかに眠り続けんことを。
 <br>
 <br>

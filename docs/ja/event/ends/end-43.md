@@ -1,6 +1,6 @@
 ---
-title: 汗青書43：寵愛を失う (失寵)
-description: 汗青書43：寵愛を失う
+title: 汗青書43：寵を失う (失寵)
+description: 汗青書43：寵を失う
 aside: true
 outline: [2, 3]
 sidebar: true

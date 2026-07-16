@@ -1,6 +1,6 @@
 ---
-title: 汗青書16：万象に帰す (猿鶴蟲沙)
-description: 汗青書16：万象に帰す (猿鶴蟲沙)
+title: 汗青書16：猿鶴虫沙 (猿鶴蟲沙)
+description: 汗青書16：猿鶴虫沙
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=16 title="猿鶴蟲沙">
+<EndBackground no=16 title="猿鶴虫沙">
 『抱朴子』日く：「周穆王南征，一軍盡化，君子為<br>
 猿為鶴，小人為蟲為沙。」死後盡く黄土に帰る。<br>
 <br>

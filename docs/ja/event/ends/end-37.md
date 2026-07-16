@@ -1,6 +1,6 @@
 ---
-title: 汗青書37：唐門の火脈 (唐門薪火)
-description: 汗青書37：唐門の火脈 (唐門薪火)
+title: 汗青書37：唐門の薪火 (唐門薪火)
+description: 汗青書37：唐門の薪火
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -19,7 +19,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=37 title="唐門の火脈">
+<EndBackground no=37 title="唐門の薪火">
 世に唐門はもうない。だが火脈は絶えることがない。<br>
 お前と小師妹、そしてお前たちの未来の家族がいるから。<br>
 唐門はもともと一家族だった。最後も一家族でいる。<br>

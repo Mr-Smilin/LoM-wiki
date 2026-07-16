@@ -1,6 +1,6 @@
 ---
-title: 生死簿74：花と一緒に埋葬される (與花合葬)
-description: 生死簿74：花と一緒に埋葬される (與花合葬)
+title: 生死簿74：花との合葬 (與花合葬)
+description: 生死簿74：花との合葬
 aside: true
 outline: [2, 3]
 sidebar: true

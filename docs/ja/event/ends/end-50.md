@@ -1,6 +1,6 @@
 ---
-title: 汗青書50：峨嵋派の弟子 (峨嵋弟子)
-description: 汗青書50：峨嵋派の弟子
+title: 汗青書50：峨嵋弟子 (がびでし)
+description: 汗青書50：峨嵋弟子
 aside: true
 outline: [2, 3]
 sidebar: true

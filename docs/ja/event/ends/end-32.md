@@ -1,6 +1,6 @@
 ---
-title: 汗青書32：志を貫いて死す (殉志而死)
-description: 汗青書32：志を貫いて死す (殉志而死)
+title: 汗青書32：志に殉ず (殉志而死)
+description: 汗青書32：志に殉ず
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -15,7 +15,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=32 title="志を貫いて死す">
+<EndBackground no=32 title="志に殉ず">
 この道のりは長く遠く、元々無理な話だった。お前さんは<br>
 もう十分頑張った。<br>
 <br>

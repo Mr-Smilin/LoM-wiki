@@ -1,6 +1,6 @@
 ---
-title: 汗青書46：漫才コンビ (相聲二人組)
-description: 汗青書46：漫才コンビ
+title: 汗青書46：漫才二人組 (相聲二人組)
+description: 汗青書46：漫才二人組
 aside: true
 outline: [2, 3]
 sidebar: true

@@ -1,6 +1,6 @@
 ---
-title: 汗青書51：情けない死 (窩囊死)
-description: 汗青書51：情けない死
+title: 汗青書51：意気地なしの死 (窩囊死)
+description: 汗青書51：意気地なしの死
 aside: true
 outline: [2, 3]
 sidebar: true

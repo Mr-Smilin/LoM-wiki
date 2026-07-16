@@ -1,6 +1,6 @@
 ---
-title: 生死簿79：天地無声 (天地無聲)
-description: 生死簿79：天地無声
+title: 生死簿79：天地、音無し (天地無聲)
+description: 生死簿79：天地、音無し
 aside: true
 outline: [2, 3]
 sidebar: true

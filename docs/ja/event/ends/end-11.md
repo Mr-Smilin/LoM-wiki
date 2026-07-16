@@ -1,6 +1,6 @@
 ---
-title: 汗青書11：故郷へ帰る魂（原文:魂歸故里）
-description: 汗青書11：故郷へ帰る魂
+title: 汗青書11：魂、故郷へ帰る (魂歸故里)
+description: 汗青書11：魂、故郷へ帰る
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -15,7 +15,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=11 title="故郷へ帰る魂">
+<EndBackground no=11 title="魂、故郷へ帰る">
 おかえりなさい．<br>
 <br>
 <br>

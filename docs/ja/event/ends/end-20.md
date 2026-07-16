@@ -1,6 +1,6 @@
 ---
-title: 汗青書20：無為の悟り (入無窮之門，遊無極之野)
-description: 汗青書20：無為の悟り (入無窮之門，遊無極之野)
+title: 汗青書20：無窮の門に入り、無極の野に遊ぶ (入無窮之門，遊無極之野)
+description: 汗青書20：無窮の門に入り、無極の野に遊ぶ
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=20 title="入無窮之門，遊無極之野">
+<EndBackground no=20 title="無窮の門に入り、無極の野に遊ぶ">
 道可道，非常道。<br>
 お前が悟ることが深まるほど、言葉は少なくなり、最終的<br>
 に万籟俱寂、天地無聲に至る。<br>

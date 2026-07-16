@@ -1,6 +1,6 @@
 ---
 title: 汗青書9：竹の城 (竹之城)
-description: 汗青書9：竹の城。
+description: 汗青書9：竹の城
 aside: true
 outline: [2, 3]
 sidebar: true

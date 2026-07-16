@@ -1,6 +1,6 @@
 ---
-title: 汗青書21：剣を封じ隠遁 (退隱江湖)
-description: 汗青書21：剣を封じ隠遁 (退隱江湖)
+title: 汗青書21：江湖引退 (退隱江湖)
+description: 汗青書21：江湖引退
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=21 title="退隱江湖">
+<EndBackground no=21 title="江湖引退">
 お前は剣を封じて隠遁し、生涯二度と他人と武を交えなか<br>
 った。天命の年まで生きた。<br>
 時には誰かがお前に好意を寄せるが、より多くの者が無<br>

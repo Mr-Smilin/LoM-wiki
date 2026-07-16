@@ -1,6 +1,6 @@
 ---
-title: 汗青書19：浪人の身 (流浪漢)
-description: 汗青書19：浪人の身 (流浪漢)
+title: 汗青書19：流れ者 (流浪漢)
+description: 汗青書19：流れ者
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=19 title="流浪漢">
+<EndBackground no=19 title="流れ者">
 浪跡天涯と言えば聞こえはいいが、要するに浪浪漢だ。<br>
 お前に故郷はない。<br>
 <br>

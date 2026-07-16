@@ -1,6 +1,6 @@
 ---
-title: 生死簿72：豚に殺される (被豬拱死)
-description: 生死簿72：豚に殺される (被豬拱死)
+title: 生死簿72：猪突死 (被豬拱死)
+description: 生死簿72：猪突死
 aside: true
 outline: [2, 3]
 sidebar: true

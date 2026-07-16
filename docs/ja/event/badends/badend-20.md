@@ -1,6 +1,6 @@
 ---
-title: 生死簿20：気功で爆殺される (爆體而亡)
-description: 生死簿20：気功で爆殺される (爆體而亡)
+title: 生死簿20：破裂死 (爆體而亡)
+description: 生死簿20：破裂死
 aside: true
 outline: [2, 3]
 sidebar: true

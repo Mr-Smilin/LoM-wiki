@@ -1,6 +1,6 @@
 ---
-title: 汗青書52：恥を忍んで生き永らえる (苟且偷生)
-description: 汗青書52：恥を忍んで生き永らえる
+title: 汗青書52：生き恥を晒して (苟且偷生)
+description: 汗青書52：生き恥を晒して
 aside: true
 outline: [2, 3]
 sidebar: true

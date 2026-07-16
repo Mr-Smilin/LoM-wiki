@@ -1,6 +1,6 @@
 ---
-title: 生死簿1：切り殺す (砍死)
-description: 生死簿1：切り殺す (砍死)
+title: 生死簿1：斬死 (砍死)
+description: 生死簿1：斬死
 aside: true
 outline: [2, 3]
 sidebar: true

@@ -1,6 +1,6 @@
 ---
 title: 生死簿12：一刀両断 (一刀兩斷)
-description: 生死簿12：一刀両断 (一刀兩斷)
+description: 生死簿12：一刀両断
 aside: true
 outline: [2, 3]
 sidebar: true

@@ -1,6 +1,6 @@
 ---
-title: 汗青書24：潮を追う者 (趕海人)
-description: 汗青書24：潮を追う者
+title: 汗青書24：海辺に立つ人 (趕海人)
+description: 汗青書24：海辺に立つ人
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -16,7 +16,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=24 title="潮を追う者">
+<EndBackground no=24 title="海辺に立つ人">
 彼女は渓水に流されたと勝手に信じ込み、<br>
 岷江に沿って東へ流れ、やがて海へと至る。しかし海辺にも<br>
 彼女の姿はなかった。毎日海を眺め、<br>

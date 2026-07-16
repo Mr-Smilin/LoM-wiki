@@ -1,6 +1,6 @@
 ---
-title: 汗青書13：西への旅（原文:西遊記）
-description: 汗青書13：西への旅
+title: 汗青書13：西遊記 (さいゆうき)
+description: 汗青書13：西遊記
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -16,7 +16,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=13 title="西への旅">
+<EndBackground no=13 title="西遊記">
 遠く西域へ赴き、確かな生業を求め、その地の言葉と<br>
 風俗、礼節を学んだ。銭を払って妻とし、年を<br>
 重ねても大病もなく、臨終の時も子女が看病した。<br>

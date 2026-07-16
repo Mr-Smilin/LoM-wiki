@@ -1,6 +1,6 @@
 ---
-title: 生死簿73：小菜の死 (小菜之死)
-description: 生死簿73：小菜の死 (小菜之死)
+title: 生死簿73：前菜の死 (小菜之死)
+description: 生死簿73：前菜の死
 aside: true
 outline: [2, 3]
 sidebar: true

@@ -1,6 +1,6 @@
 ---
-title: 生死簿15：自業自得 (自食惡果)
-description: 生死簿15：自業自得 (自食惡果)
+title: 生死簿15：身から出た錆 (自食惡果)
+description: 生死簿15：身から出た錆
 aside: true
 outline: [2, 3]
 sidebar: true

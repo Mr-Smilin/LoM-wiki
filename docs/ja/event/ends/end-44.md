@@ -1,6 +1,6 @@
 ---
-title: 汗青書44：鶏もも肉の大物 (雞腿大亨)
-description: 汗青書44：鶏もも肉の大物
+title: 汗青書44：鶏もも大尽 (雞腿大亨)
+description: 汗青書44：鶏もも大尽
 aside: true
 outline: [2, 3]
 sidebar: true

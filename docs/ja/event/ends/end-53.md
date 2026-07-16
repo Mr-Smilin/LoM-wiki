@@ -1,6 +1,6 @@
 ---
-title: 汗青書53：自分の牢獄 (劃地為牢)
-description: 汗青書53：自分の牢獄
+title: 汗青書53：自ら牢を描いて (劃地為牢)
+description: 汗青書53：自ら牢を描いて
 aside: true
 outline: [2, 3]
 sidebar: true

@@ -1,6 +1,6 @@
 ---
-title: 生死簿19：口封じで殺される (殺人滅口)
-description: 生死簿19：口封じで殺される (殺人滅口)
+title: 生死簿19：口封じ (殺人滅口)
+description: 生死簿19：口封じ
 aside: true
 outline: [2, 3]
 sidebar: true

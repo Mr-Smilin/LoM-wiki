@@ -1,6 +1,6 @@
 ---
-title: 汗青書23：官界の浮沈 (宦海浮沉)
-description: 汗青書23：官界の浮沈
+title: 汗青書23：宦海浮沈 (宦海浮沉)
+description: 汗青書23：宦海浮沈
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -19,7 +19,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=23 title="官界の浮沈">
+<EndBackground no=23 title="宦海浮沈">
 上司にはすり寄り、部下には横暴に振る舞うことで、官場の交際術を学んだ。<br>
 醜悪な面構えであっても、権勢が十分にあれば、誰もあえて陰口を叩きはしない。<br>
 しかし、口を閉ざすほかない者たち、生涯君を見舞いに来ることのない江湖の旧友たちが、<br>

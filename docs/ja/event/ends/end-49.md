@@ -1,6 +1,6 @@
 ---
-title: 汗青書49：異郷の客 (喪家之犬)
-description: 汗青書49：異郷の客
+title: 汗青書49：宿無し犬 (喪家之犬)
+description: 汗青書49：宿無し犬
 aside: true
 outline: [2, 3]
 sidebar: true

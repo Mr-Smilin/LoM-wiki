@@ -1,6 +1,6 @@
 ---
-title: 生死簿80：人に利用されて殺される (被人借刀殺死)
-description: 生死簿80：人に利用されて殺される
+title: 生死簿80：借刀殺人 (被人借刀殺死)
+description: 生死簿80：借刀殺人
 aside: true
 outline: [2, 3]
 sidebar: true

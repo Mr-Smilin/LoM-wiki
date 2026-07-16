@@ -1,6 +1,6 @@
 ---
-title: 汗青書35：壮烈なる就義 (慷慨就義)
-description: 汗青書35：壮烈なる就義 (慷慨就義)
+title: 汗青書35：慷慨、義に赴く (慷慨就義)
+description: 汗青書35：慷慨、義に赴く
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -15,7 +15,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=35 title="壮烈なる就義">
+<EndBackground no=35 title="慷慨、義に赴く">
 お前に生きる道があったのに、あえて唐門弟子として<br>
 あり、笑みを浮かべて生死を引き受け、壮烈に大義に<br>
 殉じた。<br>

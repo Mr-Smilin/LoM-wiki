@@ -1,6 +1,6 @@
 ---
-title: 汗青書4：唐門の反逆者 (唐門叛徒)
-description: 汗青書4：唐門の反逆者
+title: 汗青書4：唐門の裏切り者 (唐門叛徒)
+description: 汗青書4：唐門の裏切り者
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=4 title="唐門の反逆者">
+<EndBackground no=4 title="唐門の裏切り者">
 あなたは唐門を裏切った。生存のため、栄華のためと言うが、<br>
 心の奥底では、血よりも濃い<br>
 師弟の絆を裏切ったことを知っている。<br>

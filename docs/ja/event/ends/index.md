@@ -62,9 +62,7 @@ tags:
 <td>
 エンディング1
 </td>
-<td style="color: #a83232;">
-隠居生活
-</td>
+<td style="color: #a83232;">回疆隠棲</td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span>
 </td>
@@ -73,9 +71,7 @@ tags:
 <td>
 エンディング2
 </td>
-<td style="color: #a83232;">
-破壊的な音波攻撃
-</td>
+<td style="color: #a83232;">破滅的音波攻撃</td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span>
 </td>
@@ -84,9 +80,7 @@ tags:
 <td>
 エンディング3
 </td>
-<td style="color: #a83232;">
-青春の終わり、夢の残滓
-</td>
+<td style="color: #a83232;">青春の終わり、夢の燃え殻</td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span>
 </td>
@@ -108,7 +102,7 @@ tags:
 エンディング5
 </td>
 <td style="color: #a83232;">
-<EndIcon no="5">自分さえよければ</EndIcon>
+<EndIcon no="5">我が身ひとつ</EndIcon>
 </td>
 <td>
 <span style="color: #FF1493;">【結緣？】</span><br>
@@ -120,7 +114,7 @@ tags:
 エンディング6
 </td>
 <td style="color: #a83232;">
-<EndIcon no="6">眠りの中へ</EndIcon>
+<EndIcon no="6">眠り死に</EndIcon>
 </td>
 <td>
 大きな打撃を受けた後、眠ったまま目覚めないことを選ぶ。
@@ -131,7 +125,7 @@ tags:
 エンディング7
 </td>
 <td style="color: #a83232;">
-<EndIcon no="7">孤独な死</EndIcon>
+<EndIcon no="7">孤独死</EndIcon>
 </td>
 <td>
 <span style="color: #B0DCD5;">【葉雲裳】</span><br>
@@ -144,7 +138,7 @@ tags:
 エンディング8
 </td>
 <td style="color: #a83232;">
-<EndIcon no="8">煮られた犬</EndIcon>
+<EndIcon no="8">煮られた狗</EndIcon>
 </td>
 <td>
 広州の唐門が唐門を襲撃する際、唐門を裏切ることを選ぶ。
@@ -170,7 +164,7 @@ tags:
 エンディング10
 </td>
 <td style="color: #a83232;">
-<EndIcon no="10">江湖から隠退</EndIcon>
+<EndIcon no="10">江湖引退</EndIcon>
 </td>
 <td>
 <span style="color: #B22222;">【小梅拉致】</span>
@@ -185,7 +179,7 @@ tags:
 エンディング11
 </td>
 <td style="color: #a83232;">
-<EndIcon no="11">故郷に帰る</EndIcon>
+<EndIcon no="11">魂、故郷へ帰る</EndIcon>
 </td>
 <td>
 <span style="color: #B22222;">【小梅拉致】</span>
@@ -198,7 +192,7 @@ tags:
 エンディング12
 </td>
 <td style="color: #a83232;">
-<EndIcon no="12">孤独に歳をとる</EndIcon>
+<EndIcon no="12">独りで老いて</EndIcon>
 </td>
 <td>
 <span style="color: #EEE8AA;">【四師兄と商売】</span><br>
@@ -223,7 +217,7 @@ tags:
 エンディング14
 </td>
 <td style="color: #a83232;">
-<EndIcon no="14">世は寂しく、君との別れは</EndIcon>
+<EndIcon no="14">世で最も寂しい事は、君と遠く別れし時</EndIcon>
 </td>
 <td>
 <span style="color: #EEE8AA;">【四師兄と商売】</span>
@@ -236,7 +230,7 @@ tags:
 エンディング15
 </td>
 <td style="color: #a83232;">
-<EndIcon no="15">世は寂しく、君との別れは</EndIcon>
+<EndIcon no="15">世で最も寂しい事は、君と遠く別れし時</EndIcon>
 </td>
 <td>
 <span style="color: #EEE8AA;">【四師兄と商売】</span>
@@ -249,7 +243,7 @@ tags:
 エンディング16
 </td>
 <td style="color: #a83232;">
-<EndIcon no="16">サル、鶴、虫、砂</EndIcon>
+<EndIcon no="16">猿鶴虫沙</EndIcon>
 </td>
 <td>
 小師妹の比武招親、金烏上人襲来の夜。無作法に集団リンチされ、敗北して武林の笑いものになり、唐門閉鎖後は無派の身となり、護国戦場で戦死。
@@ -284,7 +278,7 @@ tags:
 エンディング19
 </td>
 <td style="color: #a83232;">
-<EndIcon no="19">浮浪者</EndIcon>
+<EndIcon no="19">流れ者</EndIcon>
 </td>
 <td>
 <span style="color: Gray;">【唐門離脱】</span><br>
@@ -296,7 +290,7 @@ tags:
 エンディング20
 </td>
 <td style="color: #a83232;">
-<EndIcon no="20">無限の門に入り、無極の野を遊ぶ</EndIcon>
+<EndIcon no="20">無窮の門に入り、無極の野に遊ぶ</EndIcon>
 </td>
 <td>
 <span style="color: #bfdcb0;">【青城留学】</span><br>
@@ -308,7 +302,7 @@ tags:
 エンディング21
 </td>
 <td style="color: #a83232;">
-<EndIcon no="21">江湖から隠退</EndIcon>
+<EndIcon no="21">江湖引退</EndIcon>
 </td>
 <td>
 <span style="color: Gray;">【唐門離脱】</span><br>
@@ -322,7 +316,7 @@ tags:
 エンディング22
 </td>
 <td style="color: #a83232;">
-<EndIcon no="22">恨みの終焉</EndIcon>
+<EndIcon no="22">恩讐の果て</EndIcon>
 </td>
 <td>
 <span style="color: #00BFFF;">【夏侯蘭】</span><br>
@@ -334,7 +328,7 @@ tags:
 エンディング23
 </td>
 <td style="color: #a83232;">
-<EndIcon no="23">官界の浮沈</EndIcon>
+<EndIcon no="23">宦海浮沈</EndIcon>
 </td>
 <td>
 <span style="color: #00BFFF;">【夏侯蘭】</span>
@@ -348,7 +342,7 @@ tags:
 エンディング24
 </td>
 <td style="color: #a83232;">
-<EndIcon no="24">磯人</EndIcon>
+<EndIcon no="24">海辺に立つ人</EndIcon>
 </td>
 <td>
 <span style="color: #006F86;">【唐門解散】</span>
@@ -362,7 +356,7 @@ tags:
 エンディング25
 </td>
 <td style="color: #a83232;">
-<EndIcon no="25">江湖から隠退</EndIcon>
+<EndIcon no="25">江湖引退</EndIcon>
 </td>
 <td>
 <span style="color: #006F86;">【唐門解散】</span><br>
@@ -449,7 +443,7 @@ tags:
 エンディング31
 </td>
 <td style="color: #a83232;">
-<EndIcon no="31">伝説の人物</EndIcon>
+<EndIcon no="31">伝説の人</EndIcon>
 </td>
 <td>
 夏侯蘭と結緣する高道徳の唐門解散エンディング。
@@ -460,7 +454,7 @@ tags:
 エンディング32
 </td>
 <td style="color: #a83232;">  
- <EndIcon no="32">志を遂行して死ぬ</EndIcon>
+ <EndIcon no="32">志に殉ず</EndIcon>
 </td>
 <td>
 <span style="color: #AA0000;">【戦死】</span><br>
@@ -472,7 +466,7 @@ tags:
 エンディング33
 </td>
 <td style="color: #a83232;">
-<EndIcon no="33">全滅</EndIcon>
+<EndIcon no="33">全軍覆没</EndIcon>
 </td>
 <td>
 <span style="color: Yellow;">【西武林盟】</span><br>
@@ -484,7 +478,7 @@ tags:
 エンディング34
 </td>
 <td style="color: #a83232;">
-<EndIcon no="34">生きる屍</EndIcon>
+<EndIcon no="34">生ける屍</EndIcon>
 </td>
 <td>
 <span style="color: #00BFFF;">【夏侯蘭】</span>
@@ -497,7 +491,7 @@ tags:
 エンディング35
 </td>
 <td style="color: #a83232;">
-<EndIcon no="35">潔く義に殉じる</EndIcon>
+<EndIcon no="35">慷慨、義に赴く</EndIcon>
 </td>
 <td>
 <span style="color: #AA0000;">【戦死】</span><br>
@@ -521,7 +515,7 @@ tags:
 エンディング37
 </td>
 <td style="color: #a83232;">
-<EndIcon no="37">唐門の後継者</EndIcon>
+<EndIcon no="37">唐門の薪火</EndIcon>
 </td>
 <td>
 <span style="color: #DC0000;">【唐門滅亡】</span>
@@ -623,7 +617,7 @@ tags:
 エンディング44
 </td>
 <td style="color: #a83232;">
-<EndIcon no="44">鶏肉大王</EndIcon>
+<EndIcon no="44">鶏もも大尽</EndIcon>
 </td>
 <td>
 <span style="color: #DC0000;">【唐門滅亡】</span>
@@ -637,7 +631,7 @@ tags:
 エンディング45
 </td>
 <td style="color: #a83232;">
-<EndIcon no="45">唐門最後の弟子</EndIcon>
+<EndIcon no="45">最後の唐門弟子</EndIcon>
 </td>
 <td>
 <span style="color: #DC0000;">【唐門滅亡】</span><br>
@@ -649,7 +643,7 @@ tags:
 エンディング46
 </td>
 <td style="color: #a83232;">
-<EndIcon no="46">相声二人組</EndIcon>
+<EndIcon no="46">漫才二人組</EndIcon>
 </td>
 <td>
 <span style="color: #DC0000;">【唐門滅亡】</span><br>
@@ -661,7 +655,7 @@ tags:
 エンディング47
 </td>
 <td style="color: #a83232;">
-<EndIcon no="47">君の願う江湖行</EndIcon>
+<EndIcon no="47">君が願いし、江湖の道</EndIcon>
 </td>
 <td>
 <span style="color: Yellow;">【西武林盟】</span><br>
@@ -673,7 +667,7 @@ tags:
 エンディング48
 </td>
 <td style="color: #a83232;">
-<EndIcon no="48">武林伝説</EndIcon>
+<EndIcon no="48">武林の伝説</EndIcon>
 </td>
 <td>
 <span style="color: Yellow;">【西武林盟】</span><br>
@@ -685,7 +679,7 @@ tags:
 エンディング49
 </td>
 <td style="color: #a83232;">
-<EndIcon no="49">飼い犬</EndIcon>
+<EndIcon no="49">宿無し犬</EndIcon>
 </td>
 <td>
 <span style="color: Yellow;">【西武林盟】</span><br>
@@ -697,7 +691,7 @@ tags:
 エンディング50
 </td>
 <td style="color: #a83232;">
-<EndIcon no="50">峨嵋派弟子</EndIcon>
+<EndIcon no="50">峨嵋弟子</EndIcon>
 </td>
 <td>
 <span style="color: #FF1493;">【結緣？】</span><br>
@@ -709,7 +703,7 @@ tags:
 エンディング51
 </td>
 <td style="color: #a83232;">
-<EndIcon no="51">情けない死</EndIcon>
+<EndIcon no="51">意気地なしの死</EndIcon>
 </td>
 <td>
 <span style="color: #FF1493;">【破廟線】</span><br>
@@ -721,7 +715,7 @@ tags:
 エンディング52
 </td>
 <td style="color: #a83232;">
-<EndIcon no="52">苟且偸生</EndIcon>
+<EndIcon no="52">生き恥を晒して</EndIcon>
 </td>
 <td>
 <span style="color: #FF1493;">【破廟線】</span><br>
@@ -733,7 +727,7 @@ tags:
 エンディング53
 </td>
 <td style="color: #a83232;">
-<EndIcon no="53">自分の枠を引く</EndIcon>
+<EndIcon no="53">自ら牢を描いて</EndIcon>
 </td>
 <td>
 <span style="color: #bfdcb0;">【青城留学】</span>
@@ -746,7 +740,7 @@ tags:
 エンディング54
 </td>
 <td style="color: #a83232;">
-<EndIcon no="54">君と一緒に</EndIcon>
+<EndIcon no="54">君とともに</EndIcon>
 </td>
 <td>
 <span style="color: #FF1493;">【葉雲裳】</span><br>

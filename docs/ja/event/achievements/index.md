@@ -31,7 +31,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.00">00</td>
-        <td><AchievementIcon :size="`medium`" :no="`00`">命運は巡ると知る</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`00`">定めの数 (命中有數)</AchievementIcon></td>
         <td>思うようにならないこともあれど、勇気を持ってここまで来た君は素晴らしい。</td>
         <td>1周目を完了する</td>
         <td>
@@ -46,7 +46,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.01">01</td>
-        <td><AchievementIcon :size="`medium`" :no="`01`">門派の柱石</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`01`">師門の柱石 (師門砥柱)</AchievementIcon></td>
         <td>君は今や生まれ変わり、かつて大師兄を仰ぎ見たように、師弟たちもまた君を信頼する。</td>
         <td>
             1. 唐門後期会議で段階試験の開催を選択し、自分で監試する（確認待ち） <br>
@@ -59,15 +59,15 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.02">02</td>
-        <td><AchievementIcon :size="`medium`" :no="`02`">口先の修仙修行</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`02`">はた迷惑な修仙 (煩人修仙)</AchievementIcon></td>
         <td>君は仙術を習得できなかったが、嘘をつく技術は磨かれた。</td>
-        <td>崆峒派への留学中に飛天殿の修仙イベントで5回口汚く言い張る。</td>
+        <td>崆峒派への留学中に飛天殿のはた迷惑な修仙イベントで5回口汚く言い張る。</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td id="風雲史-No.03">03</td>
-        <td><AchievementIcon :size="`medium`" :no="`03`">臆病者の救星</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`03`">臆病者の救い星 (懦夫救星)</AchievementIcon></td>
         <td>誰もが天の寵児になりたい、天地をひっくり返し、家に帰れば妾が数えきれない。だが君は生き残る必要がある。心を清く保たなければならない。</td>
         <td>大師兄と一緒に山を下りて、その後の戦闘で金烏上人と対峙し、勝利後に火烏に殴られて気絶する時に自動取得。</td>
         <td></td>
@@ -85,10 +85,10 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.05">05</td>
-        <td><AchievementIcon :size="`medium`" :no="`05`">自己陶酔</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`05`">自惚れ (自戀)</AchievementIcon></td>
         <td>君は愛されていないのではない。せめて自分自身を愛している。君は素晴らしい。</td>
         <td>
-            【自己陶酔】スキルを習得する。現在2つの方法がある：<br>
+            【自惚れ】スキルを習得する。現在2つの方法がある：<br>
             1. ゲーム開始時の鏡を見るイベントで「悪くもない」を選択<br>
             2. 想い人を変更する際、「知らない人」を選ぶ。
         </td>
@@ -107,7 +107,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.07">07</td>
-        <td><AchievementIcon :size="`medium`" :no="`07`">野心満々</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`07`">野心勃々 (野心勃勃)</AchievementIcon></td>
         <td>夢を持つことは悪くない。だが現実的に行動しなければ。</td>
         <td>
             1周目で以下の2項目を達成：<br>
@@ -119,7 +119,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.08">08</td>
-        <td><AchievementIcon :size="`medium`" :no="`08`">俺に殴りかかってくれ</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`08`">殴ってくれ (揍我)</AchievementIcon></td>
         <td>武林盟主と千面人魔が君の身に残した傷は、君の栄光の刻印だ。</td>
         <td>2年目に留学を選ばず、<br>
             千面人魔と龍淵のイベントで「俺はお前ら二人をぶっ潰す」を選んだ後に取得。</td>
@@ -139,7 +139,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.10">10</td>
-        <td><AchievementIcon :size="`medium`" :no="`10`">ここは我が家</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`10`">ここが我が家 (這是我家)</AchievementIcon></td>
         <td>どこへも行かない。</td>
         <td>
             西武林盟ルートに進まず、<br>
@@ -163,30 +163,30 @@ tags:
         <td>
             2年目で親密度4星以上（5星推奨）<br>
             <Girl5Icon>夏侯蘭</Girl5Icon>の心法伝授に抵抗した後、<br>
-            武林伝説クリア時に想い人として<Girl5Icon>夏侯蘭</Girl5Icon>を保つ。
+            武林の伝説クリア時に想い人として<Girl5Icon>夏侯蘭</Girl5Icon>を保つ。
         </td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td id="風雲史-No.13">13</td>
-        <td><AchievementIcon :size="`medium`" :no="`13`">唐門の婿</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`13`">唐門の婿殿 (唐門女婿)</AchievementIcon></td>
         <td>百般の防備も内部の裏切りは防げない。まさか君だったとは！</td>
         <td>
             2年目で親密度4星以上（5星推奨）<br>
-            武林伝説クリア時に想い人として<Girl0Icon>小師妹</Girl0Icon>を保つ。
+            武林の伝説クリア時に想い人として<Girl0Icon>小師妹</Girl0Icon>を保つ。
         </td>
         <td></td>
         <td>~~内部通報を教え、内部通報を行わせる~~</td>
     </tr>
     <tr>
         <td id="風雲史-No.14">14</td>
-        <td><AchievementIcon :size="`medium`" :no="`14`">忘憂の侠侶</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`14`">憂いを忘れし俠侶 (忘憂俠侶)</AchievementIcon></td>
         <td>四方を駆け巡り、侠義を行い、<Girl8Icon>彼女</Girl8Icon>はお前の英雄気概に夢中だ。</td>
         <td>
             2年目で親密度4星以上（5星推奨）<br>
             飛鴿伝書イベントを発動させた後、<br>
-            武林伝説クリア時に想い人として<Girl8Icon>龍湘</Girl8Icon>を保つ。
+            武林の伝説クリア時に想い人として<Girl8Icon>龍湘</Girl8Icon>を保つ。
         </td>
         <td></td>
         <td>~~約束したろ。天下の鶏をお前が全部退治する、毎食鶏腿~~</td>
@@ -204,7 +204,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.16">16</td>
-        <td><AchievementIcon :size="`medium`" :no="`16`">武林伝説</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`16`">武林の伝説 (武林傳奇)</AchievementIcon></td>
         <td>君は幼い日の夢を成し遂げた。天に見放された者であっても、不断の努力があれば道は開ける。</td>
         <td>西武林盟を組織し、武林盟主を打ち倒す。</td>
         <td></td>
@@ -212,9 +212,9 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.17">17</td>
-        <td><AchievementIcon :size="`medium`" :no="`17`">飛俠帰郷</AchievementIcon></td>
-        <td>彼には彼の運命がある。だが君がいなければ、飛俠の帰郷は永遠の夢のままだ。</td>
-        <td>大師兄の死後に大師兄を復活させる。<br>詳しくは<MarkdownWrapper>飛俠帰郷</MarkdownWrapper>ページを参照してください。</td>
+        <td><AchievementIcon :size="`medium`" :no="`17`">飛俠の帰還 (飛俠歸來)</AchievementIcon></td>
+        <td>彼には彼の運命がある。だが君がいなければ、飛俠の帰還は永遠の夢のままだ。</td>
+        <td>大師兄の死後に大師兄を復活させる。<br>詳しくは<MarkdownWrapper>飛俠の帰還</MarkdownWrapper>ページを参照してください。</td>
         <td>下旬+1</td>
         <td>下旬+1 = 毎月下旬の行動回数+1</td>
     </tr>
@@ -223,13 +223,13 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`18`">魔王の爪牙</AchievementIcon></td>
         <td>君は彼女の腹心であり、彼女は君の親愛なる者。</td>
         <td>2年目で親密度4星以上（確認待ち、5星推奨）<br>
-            武林伝説クリア時に想い人として<Girl2Icon>葉雲裳</Girl2Icon>を保つ。</td>
+            武林の伝説クリア時に想い人として<Girl2Icon>葉雲裳</Girl2Icon>を保つ。</td>
         <td></td>
         <td>v1.0.5000.0版本以後に追加</td>
     </tr>
     <tr>
         <td id="風雲史-No.19">19</td>
-        <td><AchievementIcon :size="`medium`" :no="`19`">悪人には悪人で対抗</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`19`">悪人は悪人が制す (惡人自有惡人磨)</AchievementIcon></td>
         <td>たかが晁和、無恥で無能。どうして彼女ほど悪くあろう？</td>
         <td><Girl2Icon>葉雲裳</Girl2Icon>ルートで、<Girl2Icon>葉雲裳</Girl2Icon>を武林大会に連れて行き、武林大会で唐門反対派が多数派になれば取得。</td>
         <td></td>

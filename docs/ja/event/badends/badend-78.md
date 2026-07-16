@@ -1,6 +1,6 @@
 ---
-title: 生死簿78：無謀に死ぬ (莽撞而死)
-description: 生死簿78：無謀に死ぬ (莽撞而死)
+title: 生死簿78：無鉄砲の死 (莽撞而死)
+description: 生死簿78：無鉄砲の死
 aside: true
 outline: [2, 3]
 sidebar: true

@@ -1,6 +1,6 @@
 ---
-title: 汗青書5：独善的な人生 (獨善其身)
-description: 汗青書5：独善的な人生
+title: 汗青書5：我が身ひとつ (獨善其身)
+description: 汗青書5：我が身ひとつ
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -16,7 +16,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=5 title="独善的な人生">
+<EndBackground no=5 title="我が身ひとつ">
 師門よりも、自身の安全を選んでしまった。背き去りはしたが、<br>
 生涯、後悔を拭い去ることはできず、いつも昔のことを夢に見ては<br>
 涙が止まらなくなるのだった。<br>

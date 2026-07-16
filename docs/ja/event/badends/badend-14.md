@@ -1,6 +1,6 @@
 ---
-title: 生死簿14：殴り殺す (活活打死)
-description: 生死簿14：殴り殺す (活活打死)
+title: 生死簿14：殴殺 (活活打死)
+description: 生死簿14：殴殺
 aside: true
 outline: [2, 3]
 sidebar: true

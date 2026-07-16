@@ -1,6 +1,6 @@
 ---
-title: 生死簿60：誤殺される (被誤殺而死)
-description: 生死簿60：誤殺される (被誤殺而死)
+title: 生死簿60：誤殺 (被誤殺而死)
+description: 生死簿60：誤殺
 aside: true
 outline: [2, 3]
 sidebar: true

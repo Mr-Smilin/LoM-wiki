@@ -1,6 +1,6 @@
 ---
-title: 生死簿21：山の法 (山中法度)
-description: 生死簿21：山の法 (山中法度)
+title: 生死簿21：山中の法度 (山中法度)
+description: 生死簿21：山中の法度
 aside: true
 outline: [2, 3]
 sidebar: true

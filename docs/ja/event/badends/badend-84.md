@@ -1,6 +1,6 @@
 ---
-title: 生死簿84：脅して死ぬ (被嚇死)
-description: 生死簿84：脅して死ぬ
+title: 生死簿84：恐怖のあまり (被嚇死)
+description: 生死簿84：恐怖のあまり
 aside: true
 outline: [2, 3]
 sidebar: true

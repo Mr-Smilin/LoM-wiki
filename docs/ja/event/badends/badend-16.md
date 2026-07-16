@@ -1,6 +1,6 @@
 ---
-title: 生死簿16：ライバルに殺される (被情敵殺死)
-description: 生死簿16：ライバルに殺される (被情敵殺死)
+title: 生死簿16：恋敵の凶刃 (被情敵殺死)
+description: 生死簿16：恋敵の凶刃
 aside: true
 outline: [2, 3]
 sidebar: true

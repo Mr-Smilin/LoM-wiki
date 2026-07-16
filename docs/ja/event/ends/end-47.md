@@ -1,6 +1,6 @@
 ---
-title: 汗青書47：君が願う江湖の旅 (君所願兮江湖行)
-description: 汗青書47：君が願う江湖の旅
+title: 汗青書47：君が願いし、江湖の道 (君所願兮江湖行)
+description: 汗青書47：君が願いし、江湖の道
 aside: true
 outline: [2, 3]
 sidebar: true
