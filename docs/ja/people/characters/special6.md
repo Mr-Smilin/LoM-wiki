@@ -62,7 +62,7 @@ aside: false
 
 身披鷹羽破簑衣の精悍老者。
 <br><br>
-雖然形貌怪異，其武功路數卻博大精深，氣度非凡，顯是名家風範。卻不知為何到了這把年紀仍是名不見經傳。
+外見は奇妙だが、武功の道は広大で深く、気度は非凡で、名家の風格が見える。ただし、この年になっても、なぜか江湖では名が知られていない。
 
 ## 列伝
 
@@ -76,8 +76,8 @@ aside: false
   </Tab>
   <Tab title="列傳二">
 	為求名而入世涉江湖，可任他如何積極走動，鷹人の名號都傳不開來。<br><br>
-	他仍不絕遊走於宋金兩國交界，時有耳聞他會助紂為虐，給零星戰役後得勝宋兵潑冷水說教惹人嫌。<br><br>
-	年紀雖大，行事卻頗具血性，中原群俠雖不與之結交，在兩國百姓之間卻很受歡迎。<br><br>
+	彼はなおも宋金両国の境界を行き来し、ときに暴虐を助け、小さな戦役で宋兵の勝利に冷や水をかけて説教して人に嫌われていると聞く。<br><br>
+	年は取っているが、行動は血気に満ちており、中原の群侠は彼と付き合わないが、両国の民間では好評を得ている。<br><br>
 	嗜酒，但是酒量卻不太行。
   </Tab>
   <Tab title="列傳三">
@@ -91,7 +91,7 @@ aside: false
 	那一役後嵩山元氣大傷，方丈一身功力散盡，無有執著，反更加虔心向佛。<br><br>
 	餘下僧人得其感召，紛紛回歸初心，棄了武學等強身小技，在佛法大學問之上勇猛精進。<br><br>
 	只剩下他一人，依然為那一役後の餘溫坐立難安。<br><br>
-	勘不破執著，他毅然辭退首座之席，遠赴六道峽泥教總壇，與天王座車軒轅並席論理比武，不曾想，一生修佛の他勸不下人，反受這凡人所點化，澈悟心底偏執。<br><br>
+	執着を見抜けず、彼は毅然として首座の席を辞し、六道峡泥教総壇に赴き、天王座の車軒轅と並んで理を論じ武を比べ、思いもよらず、生涯仏に修めた彼が人を説得できず、かえってこの凡人に開眠させられ、心底の執着を澈底に悟った。<br><br>
 	呆坐數日，終決心還俗，只可惜想要留長髮，卻已禿了大半。<br><br>
 	他想起當年所讀の《虯髯客傳》，將蒐集多年の老鷹羽毛織成一件蓑衣，武林新人萬里鵬程，開始闖蕩江湖，補完他の青春。
   </Tab>
@@ -99,11 +99,11 @@ aside: false
 
 ## 備考
 
-- 被[瑞杏](/ja/people/characters/girl1)稱為萬里老爺子，與絕跡江湖の[無名](/ja/people/characters/special406)|点蒼劍聖]]一起當她の轎夫。
-- 曾造訪孤雲山，向[瑞笙](/ja/people/characters/special999)說了[龍淵](/ja/people/characters/special2)大戰[李仁友](/ja/people/characters/other7)|極樂教主]]の故事。
-- 曾力拼[李仁友](/ja/people/characters/other7)|舊魔教教主]]百餘招不分勝負。
-- 圍攻[唐門](/ja/people/factions/tang-men)時有機會出場，說是為了贖十年之約而來。
+- 被[瑞杏](/ja/people/characters/girl1)稱為萬里老爺子，與絕跡江湖の[点蒼劍聖](/ja/people/characters/special406)一起當她の轎夫。
+- 曾造訪孤雲山，向[瑞笙](/ja/people/characters/special999)說了[龍淵](/ja/people/characters/special2)大戰[極樂教主](/ja/people/characters/other7)の故事。
+- 曾力拼[舊魔教教主](/ja/people/characters/other7)百餘招不分勝負。
+- 唐門包囲時に出場の機会があり、十年の約を果たすために来たと言う。
 - 前半生學佛，又和[趙活](/ja/people/characters/player)有舊交，所以有留手。饒是如此，若無防備給萬里前輩搧一巴掌，還是會頭顱扭轉3圈當場升天，留手程度差不多就是頭轉4圈減弱至轉3圈。[^1]
-- 與[南宮橫](/ja/people/characters/special104)|南宮老太爺]]有交情，見[南宮深](/ja/people/characters/special102)愁眉苦臉，覺得像極了年輕時の南宮橫，故決定出手相助。
+- 與[南宮老太爺](/ja/people/characters/special104)有交情，見[南宮深](/ja/people/characters/special102)愁眉苦臉，覺得像極了年輕時の南宮橫，故決定出手相助。
 
 [^1]: Facebook－[原始鳥熊2022/5/28](https://www.facebook.com/obbstudio/posts/pfbid0eCugXSVT3rj6YvRCXSRnAf9Mch2t2SQCUnpkyZU5XF5jnzhcF7G5AeD6bsZ4Zk31l)

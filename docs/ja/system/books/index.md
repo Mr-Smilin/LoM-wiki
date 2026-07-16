@@ -796,6 +796,6 @@ tags:
 -   武芸者が皆筋骨隆々というわけではなく、筋肉がつくと速度が落ちると考える流派もあれば、均衡のとれた発達を重視する流派も多くあります。[^3]
 -   武功が高ければ喧嘩に必ず勝てるというわけではなく、たとえ最強の[趙活](/ja/people/characters/player)でも、不意を突かれて[小梅](/ja/people/characters/girl3)に階段から突き落とされる可能性はあります。[^3]
 
-[^1]: 巴哈姆特－[【情報】關於龍湘屁股大小的答案+私聊鳥熊的對話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
+[^1]: 巴哈姆特－[【情報】龍湘のサイズについての答えと鳥熊への私たちの会話メッセージ](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
 [^2]: PTT C 洽－[\[活俠\] 龍湘+綜合小知識數則](https://www.ptt.cc/bbs/C_Chat/M.1728840738.A.3D7.html)
 [^3]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)

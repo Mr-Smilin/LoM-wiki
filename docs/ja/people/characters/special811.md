@@ -67,4 +67,4 @@ tags:
 -   資質天賦の点では[唐布衣](/ja/people/characters/brother1) (大師兄) と大きな違いはなく、師父[唐守鴻](/ja/people/characters/special812)に千載一遇の良い苗と称される。雷神腿密笈の全部を軽々と暗記でき、また多くの仏経も背誦できる。
 -   料理をしたことがない。[^1]
 
-[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^1]: PTT C 洽－[\[活俠傳\] 龍湘と奇妙な雑学 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)

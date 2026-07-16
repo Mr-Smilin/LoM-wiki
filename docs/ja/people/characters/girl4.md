@@ -260,7 +260,7 @@ aside: false
 -   <MarkdownWrapper>||生涯最も嫌うのは人の保証人になること。年が小さい時このためにひどい損をした。自分がもう売られそうになった。||</MarkdownWrapper>
 
 [^1]: バハムート - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
-[^2]: PTT C 洽 - [\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^2]: PTT C 洽 - [\[活俠傳\] 龍湘と奇妙な雑学 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
 [^3]: Facebook - [オリジナル鳥熊2023/4/22](https://www.facebook.com/obbstudio/posts/pfbid0Nz42C8exkZ4EWfiGR9FKW1jazjBzxY2BfRT1BhSSBXgLdjrPGVtVDzXTwGJc3aUyl)
 [^4]: Facebook - [オリジナル鳥熊2025/12/24](https://www.facebook.com/obbstudio/posts/pfbid02bjXbvjK5u1ZSfwSgHuni3gbSfoMr7mBf9Xs8YDrk2aaHsp3U6GktVbQgwcE6jZvcl)
 [^5]: Facebook - [オリジナル鳥熊2026/3/24](https://www.facebook.com/obbstudio/posts/pfbid02PJaRUM9gavAht2uhA5WJzPjRptD7sSbK4L3DPKUTx4FeydUmwvx6nASxqn6nxEZal)

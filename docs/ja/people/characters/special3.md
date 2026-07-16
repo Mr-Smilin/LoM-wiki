@@ -181,8 +181,8 @@ aside: false
     > だから葉雲舟は師匠から伝わることなく自分で本に従って説いて、不注意に人を医して害するのは、これは人の常のことではないか。[^6]
 -   [唐仙児（畫中仙）](/ja/people/characters/special813)に痛く罵られて、容貌の長さから廃物の転生だと言われ、また生産をしない。あまりに苦しい。
 
-[^1]: 巴哈姆特－[【情報】關於龍湘屁股大小的答案+私聊鳥熊的對話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
-[^2]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^1]: 巴哈姆特－[【情報】龍湘の体型についての答え+鳥熊への私信のやり取り](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
+[^2]: PTT C 洽－[\[活俠\]龍湘と奇妙な雑学 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
 [^3]: 噗浪偷偷說：[リンク](https://www.plurk.com/p/3g8q4p1s38)
 [^4]: [問答集2024-10-31](/ja/other/qna/202410)
 [^5]: 巴哈姆特－[【閒聊】雲裳的體重和葉兄的童年（鳥熊私訊問答）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=3082&bpage=1&ltype=)

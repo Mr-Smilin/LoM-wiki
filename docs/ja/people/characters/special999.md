@@ -136,7 +136,7 @@ aside: false
 -   <MarkdownWrapper>||初版の西武林では趙活と引き分ける結末があったが、伏線不足でプレイヤーの不満を買い、この結末は現在削除されている||</MarkdownWrapper>
 
 [^1]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
-[^2]: 巴哈姆特 - [【情報】關於龍湘屁股大小的答案+私聊鳥熊的對話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
+[^2]: バハムート - [【情報】龍湘のお尻の大きさについての答え+鳥熊とのプライベートチャットの会話メッセージ](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
 [^3]: Facebook－[原始鳥熊2023/10/13](https://www.facebook.com/obbstudio/posts/pfbid0cMWuBw2CpKL31WzvQMhrCND5G29Bc1sV7xJ1KXC3HHXvH78amBzny8mVkhCVoTESl?rdid=Oa2auAz4mjYiHez1#)
 [^4]: Facebook－[原始鳥熊2024/2/5](https://www.facebook.com/obbstudio/posts/pfbid0345ukMDW1MtXHXFDAegFGKnPSZ6Ypq2gcoLq2TgEeskhyHQzGeEuywWRtu4nC5mpTl)
 

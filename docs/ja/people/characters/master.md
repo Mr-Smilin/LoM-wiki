@@ -133,7 +133,7 @@ aside: false
 -   [唐布衣](/ja/people/characters/brother1)の奔放さと[唐錚](/ja/people/characters/brother2)の傲慢さはともに掌門の昔の姿に従っている。しかし病気以来、性情に大きな変化があり、徐々に平易な人柄へと変わった。
 -   朝廷の腐敗と民を害することを憤るが、忠臣孝子をこの上なく敬う。亦正亦邪だが、仏門の人には礼を尽くし尊敬している。
 
-[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘と奇怪な小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
 [^2]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^3]: Facebook - [原始鳥熊2022/5/28](https://www.facebook.com/obbstudio/posts/pfbid0eCugXSVT3rj6YvRCXSRnAf9Mch2t2SQCUnpkyZU5XF5jnzhcF7G5AeD6bsZ4Zk31l)
 [^4]: Facebook - [原始鳥熊2023/11/3](https://www.facebook.com/obbstudio/posts/pfbid03362ZA6a9oemB9XKGuTnN7C1JNYAGvwkbEXmF367BzRZ1QbjivdKYeU7oe9NZDSMul)

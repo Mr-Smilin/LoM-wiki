@@ -60,11 +60,11 @@ tags:
 
 > 「別來如何？你還老是一臉猥瑣，跟在小師妹屁股後面跑嗎？」
 
-元[唐門](/ja/people/factions/tang-men)女弟子唐儒，人雖美貌，卻是會把自己從床舖睡到門檻上の奇人。睡相之差，驚世駭俗，還會以擒拿手將左右師姐妹捉來當抱枕。
+元[唐門](/ja/people/factions/tang-men)の女弟子・唐儒は、見た目は美しいが、自分から寝床で門敷居まで寝転ぶ奇人である。睡相は悪く、驚天動地の睡眠癖があり、さらに手絡で左右の師姐妹を捕らえて抱き枕にすることもある。
 
 <br>
 
-曾暗戀[唐布衣](/ja/people/characters/brother1)|大師兄]]，但某次路上[唐布衣](/ja/people/characters/brother1)|大師兄]]跑得飛快，她和另外幾位師弟妹半路遭遇仇人伏擊，險點出了大事，[南宮世家](/ja/people/factions/nan-gong-family)、鍾家攜手派人來救才脫險，便斷了念想，嫁入鍾家，改姓辛。
+曾暗戀[大師兄](/ja/people/characters/brother1)，但某次路上[大師兄](/ja/people/characters/brother1)跑得飛快，她和另外幾位師弟妹半路遭遇仇人伏擊，險點出了大事，[南宮世家](/ja/people/factions/nan-gong-family)、鍾家攜手派人來救才脫險，便斷了念想，嫁入鍾家，改姓辛。
 
 <br>
 
@@ -78,7 +78,7 @@ tags:
 
 -   立繪美，又有師姐、人妻屬性，在玩家之間人氣意外頗高(?)
 -   婆婆是南宮家主の親妹子，故夫家是[南宮世家](/ja/people/factions/nan-gong-family)の親家
--   與[夏侯蘭](/ja/people/characters/girl5)同天生日11/10。因為算命先生說那天の良辰吉時，宋國會降生一位絕世美人，於是辛儒她娘就用力把辛儒生出來了。[^1][^2]
+-   [夏侯蘭](/ja/people/characters/girl5)と同じ誕生日11/10。占い師がその日の吉時に宋国に絶世の美女が降生するだろうと言ったため、辛儒の母親は必死に辛儒を産み出したという。[^1][^2]
 -   與[唐芳](/ja/people/characters/special832)並稱唐門迷糊大王。一個睡姿差，一個愛遲到。
 
 [^1]: PTT C 洽－[\[活俠\] 瑞笙設定+龍湘設定+夏侯蘭生日](https://www.ptt.cc/bbs/C_Chat/M.1752927048.A.9E1.html)

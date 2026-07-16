@@ -99,5 +99,5 @@ tags:
 [^4]: [問答集2024-10-07](/ja/other/qna/202410#_2024-10-07)、Part1。
 [^5]: [問答集2024-10-07](/ja/other/qna/202410#_2024-10-07)、Part2。
 [^6]: [問答集2024-10-08](/ja/other/qna/202410#_2024-10-08)
-[^7]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
+[^7]: PTT C 洽－[\[活俠\]龍湘と奇妙な雑学 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
 [^8]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

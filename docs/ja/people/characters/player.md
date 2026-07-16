@@ -403,7 +403,7 @@ tags:
 -   趙活の家族はみな平凡な顔立ちの庶民で、彼だけが特別「精緻」な顔立ちである。[^3]
 
 [^1]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
-[^2]: 巴哈姆特－[【心得】看了趙活的日常生活，真的不能說“這我傳”](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2966)
+[^2]: バハムート－[【心得】趙活の日常生活を見て、本当に「これぞ伝説」とは言えない](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2966)
 [^3]: Facebook－[原始鳥熊 2022/10/11](https://www.facebook.com/obbstudio/posts/pfbid02a1NHfKyTzkMGJeViNPVZ21JP2CQhWDpGGWeEngh7WNrzJ5t9Z7euX9xXAZPyAfFnl)
 [^4]: Facebook－[原始鳥熊 2023/4/1](https://www.facebook.com/obbstudio/posts/pfbid0VNvvCPjbVhaF58qbcrBF42j6oFCzFvQnxb4vbqRqBHYDRnWzwoGc6KSk6L81qTsEl)
 [^5]: [問答集2024-10-25](/ja/other/qna/202410#_2024-10-25)

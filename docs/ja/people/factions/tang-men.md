@@ -252,8 +252,8 @@ tags:
 
 [^1]: 鳥熊 FB コメント：[リンク](https://www.facebook.com/obbstudio/posts/pfbid02L46daXzHEiFkoy7P5x12wQxsEJcSq7pHfWU1w4yhQrKqng41YxrnFfeqEDDfdj9ul?comment_id=551506827278389&reply_comment_id=1257010531997433&__cft__[0]=AZVFmmH03sRwObM1816cY6XYfcZoOXMr5C9Bwns7PlNV32HQYCVOy7FldBqv6Lq38CmUkJfxZ-FiQi3HOdnmYH7f1S0Vs9GvI9pKLBEm9SMcDRt0bFdeZlAPr-DTo56y5YCVV__o1xoHpKImseDJJKgyrNWh3AwZM1OvmTaA01COWw&__tn__=R]-R)
 [^2]: バハムート - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
-[^3]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
-[^4]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
+[^3]: PTT C 洽－[\[活俠傳\] 龍湘と奇妙な雑学 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^4]: PTT C 洽－[\[活俠傳\] 龍湘と奇妙な雑学 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
 [^5]: バハムート－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^6]: [問答集2024-10-25](/ja/other/qna/202410)
 

@@ -64,4 +64,4 @@ tags:
 -   双剣は課金購入。親の金。[^1]
 -   友人がいる。[^1]
 
-[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
+[^1]: PTT C 洽－[\[活俠傳\] 龍湘と奇妙な雑学 P5](https://www.ppt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)

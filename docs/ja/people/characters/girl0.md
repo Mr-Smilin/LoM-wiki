@@ -359,7 +359,7 @@ aside: false
     > 彼女が強いのは手の速さから来ている。加えて異常に冷酷で、不純物のない純粋な殺意。そしてそばにはポテトチップスがある。
 
 [^1]: バハムート - [【情報】龍湘屁股大小の答え+プライベート聊天の鳥熊との対話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
-[^2]: PTT C 洽 - [\[活俠\] 龍湘與奇怪的小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
+[^2]: PTT C 洽 - [\[活俠\]龍湘と奇妙な雑学 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
 [^3]: バハムート - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^4]: バハムート - [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^5]: バハムート - [RE:【心得】趙活の日常生活を見たら、本当に「これは俺が」と言えない](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12057&subbsn=1&bPage=0)

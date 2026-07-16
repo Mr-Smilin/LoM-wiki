@@ -106,6 +106,6 @@ tags:
 -   過去に[溫夫人](/ja/people/characters/special402)と各々その主に侍ったが、[瑞杏](/ja/people/characters/girl1)のおかげで仲良くなった。
 -   <MarkdownWrapper>||第二代千面人魔。||</MarkdownWrapper> (v3206 解包情報)
 
-[^1]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘と奇怪な小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
 [^2]: PTT C 洽－[\[活俠\] 畫中仙偷打你](https://www.ppt.cc/bbs/C_Chat/M.1721238067.A.424.html)
-[^3]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P5](https://www.ppt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
+[^3]: PTT C 洽－[\[活俠\] 龍湘と奇怪な小知識 P5](https://www.ppt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
