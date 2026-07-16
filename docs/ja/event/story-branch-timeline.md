@@ -31,7 +31,7 @@ tags:
     <td>毎年</td>
     <td>毎月</td>
     <td>下</td>
-    <td><a href="/LoM-wiki/ja/event/simple/1-05-1-貢獻評點.html">貢献評定</a><!---TODO 時間をかけて貢献メカニズムを独立したドキュメントにする--></td>
+    <td><a href="/LoM-wiki/ja/event/simple/1-05-1-貢獻評點.html">貢献評定</a> (<a href="https://forum.gamer.com.tw/Co.php?bsn=73317&sn=259" target="_blank">詳細解説・中国語</a>)<!---TODO 時間をかけて貢献メカニズムを独立したドキュメントにする--></td>
     <td>-</td>
     <td>-</td>
 </tr>
@@ -41,7 +41,7 @@ tags:
     <td>毎年</td>
     <td>奇数月</td>
     <td>中</td>
-    <td><a href="/LoM-wiki/ja/event/simple/1-05-3-初次段考.html">段階試験</a></td>
+    <td><a href="/LoM-wiki/ja/event/simple/1-05-3-初次段考.html">段階試験</a> (<a href="https://forum.gamer.com.tw/Co.php?bsn=73317&sn=260" target="_blank">詳細解説・中国語</a>)</td>
     <td>-</td>
     <td>-</td>
 </tr>
