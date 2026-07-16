@@ -152,7 +152,7 @@ tags:
         <td id="風雲史-No.11">11</td>
         <td><AchievementIcon :size="`medium`" :no="`11`">分身</AchievementIcon></td>
         <td>君はかつてあんなにも人気があった。その状態で死ねば、本望だろう？</td>
-        <td><Girl8Icon>龍湘</Girl8Icon>と姉妹兄弟の関係で親密度4星、かつ<Girl3Icon>小梅</Girl3Icon>親密度2星以上で唐門加入後、弁力≧40かつ体力＜60の時、大師兄の帰路で「二人とも手放さない」を骰子で出す。</td>
+        <td><Girl8Icon>龍湘</Girl8Icon>と姉妹兄弟の関係で親密度4星、かつ<Girl3Icon>小梅</Girl3Icon>親密度2星以上で唐門加入後、弁舌≧40かつ体力＜60の時、大師兄の帰路で「二人とも手放さない」を骰子で出す。</td>
         <td></td>
         <td></td>
     </tr>

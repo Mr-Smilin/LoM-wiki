@@ -117,7 +117,7 @@ title: 用語対訳表
 | 修養 | 修養 | Refinement | ★MOD |
 | 性情 | 性情 | Temperament | ★MOD |
 | 向心 | 向心 | Dedication | 門派への忠誠心 |
-| 嘴力 | 弁力 | Persuasion | ★MOD。口先の達者さを表す本作独自ステータス |
+| 嘴力 | 弁舌 | Persuasion | ★MOD。口先の達者さを表す本作独自ステータス |
 | 處世 | 処世 | Worldliness | ★MOD |
 | 陰陽 | 陰陽 | Yin-Yang Balance | |
 | 道德 | 道徳 | Morality | MOD 内表記は「道德」 |
