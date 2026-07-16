@@ -179,6 +179,9 @@ title: 用語対訳表
 | 外功 | 外功 | | |
 | 輕功 | 軽功 | | |
 | 拆招 | 拆招 | | 本作の戦闘システム名。原文表記を維持 |
+| 捅人 (対戦コマンド) | 攻撃 | | ★MOD |
+| 嘴攻 (対戦コマンド) | 口功 | | ★MOD |
+| 備揍 (対戦コマンド) | 防御 | | ★MOD |
 | 不壞金身 | 不壊金身 | Indestructible Body | |
 | 南宮護心訣 | 南宮護心訣 | Nangong Heart Protection Technique | |
 | 形意拳 | 形意拳 | Xing Yi Quan | |
