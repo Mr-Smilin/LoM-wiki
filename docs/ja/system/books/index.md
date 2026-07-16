@@ -64,7 +64,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2005`">斬天黑翼雙龍劍</BookItemIcon></td>
-        <td>刀剣2<br>嘴力3<br>性情+3<br>処世+3</td>
+        <td>刀剣2<br>弁力3<br>性情+3<br>処世+3</td>
         <td>15</td>
         <td></td>
         <td>1. 三年四月上旬－四師兄の買い物 ($2000)<br>2. 比武招親イベントのシナリオ (想い人が唐默鈴)<br>3. 青城留学で九月下旬までに、3回修練していじめイベントを発生させ、ルーレット【申屠龍抵抗】で點蒼棒法を入手。<br>その後九月上旬~二年十月中旬に雲裳が秘笈を贈る際、ルーレット【黑龍劍】で入手。</td>
@@ -564,7 +564,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`1000`">唐門暗器總綱</BookItemIcon></td>
-        <td>軽功7<br>嘴力7<br>暗器5<br>額外暗器</td>
+        <td>軽功7<br>弁力7<br>暗器5<br>額外暗器</td>
         <td>50</td>
         <td>学問10 (LV6)</td>
         <td>初期所持</td>
@@ -601,7 +601,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`4010`">歷戰血書</BookItemIcon></td>
-        <td>嘴力10<br>刀剣5<br>拳掌5<br>軽功5<br>体力5<br>学問10<br>難知如陰<br>戦術LV1</td>
+        <td>弁力10<br>刀剣5<br>拳掌5<br>軽功5<br>体力5<br>学問10<br>難知如陰<br>戦術LV1</td>
         <td>80</td>
         <td></td>
         <td>四書イベント<br> 三年四月上旬－四師兄の買い物 ($2500)</td>
@@ -617,7 +617,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8000`">論語</BookItemIcon></td>
-        <td>嘴力10<br>学問10<br>儒学LV2<br>性情-7<br>処世-7</td>
+        <td>弁力10<br>学問10<br>儒学LV2<br>性情-7<br>処世-7</td>
         <td>50</td>
         <td>学問10</td>
         <td>初期所持</td>
@@ -665,7 +665,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8007`">戰神語錄</BookItemIcon></td>
-        <td>嘴力20<br>儒学LV2<br>孟子曰<br>処世-8</td>
+        <td>弁力20<br>儒学LV2<br>孟子曰<br>処世-8</td>
         <td>50</td>
         <td>儒学LV2</td>
         <td>一年四月上旬－四師兄の買い物 ($1500)</td>
