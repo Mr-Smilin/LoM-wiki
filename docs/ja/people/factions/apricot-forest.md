@@ -75,4 +75,4 @@ tags:
 - [龍淵](/ja/people/characters/special2)は杏の木の下で一晩酔い臥し、梢に錦嚢を見つけた。のちに[千面人魔](/ja/people/characters/other8)との関わりが判明する
 - [無念僧](/ja/people/characters/special212_2)は[大師兄](/ja/people/characters/brother1)・[二師兄](/ja/people/characters/brother2)に不意打ちされた際、杏花林へ知らせを送ろうとした
 - DEMO版では[趙活](/ja/people/characters/player)・[丘真人](/ja/people/characters/special209)とともに[成吉思汗](/ja/people/characters/special210)の大帳で不老長生の法を語った
-- 初版西武林線の引き分け結末では、八月初三に史相へ伝え、大宋皇帝[趙擴](/ja/people/characters/special817)は福寧殿にて崩御した
+- 初版西武林ルートの引き分け結末では、八月初三に史相へ伝え、大宋皇帝[趙擴](/ja/people/characters/special817)は福寧殿にて崩御した

@@ -36,7 +36,7 @@ tags:
 { text: '【龍湘】' },
 { text: '【結緣】' },
 { text: '【結緣？】' },
-{ text: '【破廟線】' },
+{ text: '【廃廟ルート】' },
 { text: '【青城留学】' },
 { text: '【小梅拉致】' },
 { text: '【四師兄と商売】' },
@@ -306,9 +306,9 @@ tags:
 </td>
 <td>
 <span style="color: Gray;">【唐門離脱】</span><br>
-<span style="color: #FF1493;">【破廟線】</span><br>
+<span style="color: #FF1493;">【廃廟ルート】</span><br>
 留学しない、気に入らず唐門を離脱し、小師妹(もしくは葉雲裳も)を唐門に送り届けた後も、依然として唐門を永遠に離れ、江湖から隠退。<br>
-性情が用心深い時、破廟線の最後の場面で急いで逃げる選択肢が追加され、敵に遭遇して勝利する。
+性情が用心深い時、廃廟ルートの最後の場面で急いで逃げる選択肢が追加され、敵に遭遇して勝利する。
 </td>
 </tr>
 <tr>
@@ -706,7 +706,7 @@ tags:
 <EndIcon no="51">意気地なしの死</EndIcon>
 </td>
 <td>
-<span style="color: #FF1493;">【破廟線】</span><br>
+<span style="color: #FF1493;">【廃廟ルート】</span><br>
 唐大鯨に勝てず、二師兄がかばってくれたのに、また敗北し、失望されてしまう。
 </td>
 </tr>
@@ -718,7 +718,7 @@ tags:
 <EndIcon no="52">生き恥を晒して</EndIcon>
 </td>
 <td>
-<span style="color: #FF1493;">【破廟線】</span><br>
+<span style="color: #FF1493;">【廃廟ルート】</span><br>
 唐門を守らず、こっそり逃げるが賊に捕まり、厳しい拷問を受ける。
 </td>
 </tr>
@@ -752,4 +752,4 @@ tags:
 ## 備考
 
 -   データ出典：バハムート－[【攻略】v1.05 生死簿汗青書整理(ネタバレあり)](https://forum.gamer.com.tw/C.php?bsn=73317&snA=3647&tnum=3&subbsn=3)
--   滅門線エンディング結緣優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
+-   滅門ルートエンディング結緣優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>

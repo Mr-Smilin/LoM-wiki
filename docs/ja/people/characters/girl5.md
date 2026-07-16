@@ -298,7 +298,7 @@ aside: false
 ## 結緣
 
 -   揉脚就是訊號。該洗澡囉！
--   攻略時建議學[龍吟功](/ja/system/books/book_7005)。西武林線有驚喜。
+-   攻略時建議學[龍吟功](/ja/system/books/book_7005)。西武林ルート有驚喜。
 -   西武林結局後會和[趙活](/ja/people/characters/player)定居雪山。[^1]
 -   婚後產下一男一女。子女都像娘親。極度寵溺。
 -   為孩子教育。某日出門捉[魏菊](/ja/people/characters/girl7)擔任夫子。

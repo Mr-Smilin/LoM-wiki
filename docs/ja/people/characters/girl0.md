@@ -315,7 +315,7 @@ aside: false
 
 -   一見警戒心がないようだが、実は日中から窓の外に座ったまま動かない者でなければ、9割9分は彼女に気づかれる。
 -   江湖で走り回っていない。さらに人と手合わせすることも少ない。実戦経験は浅い。しかし、気を散らさず多年にわたって修練に専念してきた。すでに唐門武学の奥義を垣間見ている。眼識はかなり高い。
--   西武林線で[趙活](/ja/people/characters/player)が[譚霸刀](/ja/people/characters/special801)と対戦する時、小師妹が乱入する。3招で霸刀を倒す。返す刀の力もない。霸刀の遺言「唐門当代の最強者は、実は[唐布衣](/ja/people/characters/brother1.md)ではなく……」
+-   西武林ルートで[趙活](/ja/people/characters/player)が[譚霸刀](/ja/people/characters/special801)と対戦する時、小師妹が乱入する。3招で霸刀を倒す。返す刀の力もない。霸刀の遺言「唐門当代の最強者は、実は[唐布衣](/ja/people/characters/brother1.md)ではなく……」
 -   練武場で[大師兄](/ja/people/characters/brother1.md)が蹴鞠をしている時、小師妹が参加すれば彼はすぐに負ける。
 -   [大師兄](/ja/people/characters/brother1.md)は彼女の軽功を天下前5位に評価することは可能だと考えている。自分は前10位に評価することに自信がない。聞く所に、「天地無聲勢」を全力で発揮する時、まるで1人が3体に分かれたようだという。
 -   小師妹の無定飛梭は滞空と変速の特性を持つ。人が後から発動して先に到達するのは実は難しくない。[^8]
@@ -330,7 +330,7 @@ aside: false
 
 ## エンディング
 
--   結緣していない場合、[瑞笙](/ja/people/characters/special999)に嫁ぐ。西武林線で[瑞笙](/ja/people/characters/special999)が生き残った場合は、[唐門](/ja/people/factions/tang-men)に帰る。[^2]
+-   結緣していない場合、[瑞笙](/ja/people/characters/special999)に嫁ぐ。西武林ルートで[瑞笙](/ja/people/characters/special999)が生き残った場合は、[唐門](/ja/people/factions/tang-men)に帰る。[^2]
 -   結緣している場合、西武林エンディング後に[趙活](/ja/people/characters/player)と[唐門](/ja/people/factions/tang-men)に定住する。[^2]
 
 ## 備考
@@ -343,7 +343,7 @@ aside: false
 -   生まれつき小動物の属性を持ち、さらに[唐門](/ja/people/factions/tang-men)が貧困で食事が悪かった。黄金の成長期を逃してしまい、再び背が伸びるのは非常に難しい。
 -   食べ飽きるという概念がない。普段は甘いものを食べる機会も少ない。一度食べられるようになれば、絶えず口に詰め込み、寝るまで続く。もし誰も管理せずにずっと食べさせたら、いずれ3倍大きい人になるかもしれない。[^1]
 -   第一年で[趙活](/ja/people/characters/player)が倒れた時、[三師兄](/ja/people/characters/brother3.md)は小師妹は既に花のような乙女になったと言った。それで15歳と推測される。
--   滅門線で[夏靈犀](/ja/people/characters/special825)に小羊と呼ばれ、西武林線で[四師兄](/ja/people/characters/brother4.md)が全身の血だらけの服を見て「狂暴小羊」と呼ぶ。[葉雲裳](/ja/people/characters/girl5.md)も「羊は默鈴。私はイタチ」と言った。
+-   滅門ルートで[夏靈犀](/ja/people/characters/special825)に小羊と呼ばれ、西武林ルートで[四師兄](/ja/people/characters/brother4.md)が全身の血だらけの服を見て「狂暴小羊」と呼ぶ。[葉雲裳](/ja/people/characters/girl5.md)も「羊は默鈴。私はイタチ」と言った。
 -   寒冷を恐れている。[^3]
 -   絵を描くのが下手。[劉顎](/ja/people/characters/special1)に笑われて、刻画されて壁画にされ、古代遺跡と偽る。
 -   歌唱は大きく外れる。小師妹は羞恥心が強く、人前ではあまり歌わない。また嘲笑されるのを恐れる。だから[趙活](/ja/people/characters/player)が独占している。[^4][^5]
