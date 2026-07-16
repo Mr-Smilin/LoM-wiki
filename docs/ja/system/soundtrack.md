@@ -11,7 +11,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-《カッキョウデン》のゲームサウンドトラックは、原始鳥熊Obb StudioとYóuhuǒの音楽スタジオによって製作されており、様々なストリーミングプラットフォームで聴くことができます。例えば：
+《カッキョウデン》のゲームサウンドトラックは、原始鳥熊Obb Studioと幽火の音楽スタジオによって製作されており、様々なストリーミングプラットフォームで聴くことができます。例えば：
 - Steam：[Vol.1](https://store.steampowered.com/app/2983230/)、[Vol.2](https://store.steampowered.com/app/3968660/)
 - Youtube Music：[リンク](https://www.youtube.com/channel/UCJ_80xb_-ujC70eD9PjOsIA)
 
