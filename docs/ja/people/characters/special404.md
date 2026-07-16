@@ -73,7 +73,7 @@ aside: false
 
 <br clear="all">
 
-## 列傳
+## 列伝
 
 <Tabs>
   <Tab title="列傳一">
@@ -83,7 +83,7 @@ aside: false
   </Tab>
 </Tabs>
 
-## 備註
+## 備考
 
 -   鳥熊 Facebook の介紹，[連結](https://www.facebook.com/photo.php?fbid=443066994913348&id=100076301525150&set=a.165167019370015)
 -   要不是被騙到戰場，他就是[崆峒派](/ja/people/factions/kong-tong-sect)掌派人の最有力人選

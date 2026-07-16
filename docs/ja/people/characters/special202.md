@@ -56,7 +56,7 @@ tags:
 <br><br>
 二人は黒白の雙劍を持ち、合擊の術《陰陽雙劍》で天下に聞こえた。一人では敵ではないが、雙劍が合体すると並ぶもの無く、往年の[點蒼劍聖](/ja/people/characters/special406)ですら敗北を嘗めた。峨嵋掌門の[向無憂](/ja/people/characters/special408)でさえその鋒を避ける。
 
-## 備註
+## 備考
 
 -   觀雲客の本姓は關。
 -   黒白雙劍は[唐門](/ja/people/factions/tang-men)が鍛造したと言われている。

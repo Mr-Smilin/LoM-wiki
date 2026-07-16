@@ -115,7 +115,7 @@ tags:
 - [蓮花落](/ja/system/books/book_7001)
 - [八荒奪路逃](/ja/system/books/book_4030)
 
-## 備註
+## 備考
 
 - 丐幫もまた毒の玄人である。毒術こそ[唐門](/ja/people/factions/tang-men)より粗いが、毒物を見分ける眼は確かである。
 - 丐幫の絶招・驚蛇杖は、滅門線の[李富貴](/ja/people/characters/special809)が使ってくる。プレイヤーの悪夢と呼ぶべき技である。

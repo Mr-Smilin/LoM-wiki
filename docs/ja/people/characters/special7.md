@@ -100,7 +100,7 @@ aside: false
 -   自稱本不成器，是[石夫人](/ja/people/characters/special815)下嫁後才有了上進心。然初到蜀地，無人相信他改過自新，仰仗唐門義田才不至餓死，故對唐門心懷感激。
 -   因競爭關係，[石夫人](/ja/people/characters/special815)主張對[唐門](/ja/people/factions/tang-men)出手，反倒是石幫主為唐門苦苦求情。爭執最終導致石夫人負氣出走。
 
-## 備註
+## 備考
 
 -   不喜歡[趙活](/ja/people/characters/player)熬了兩天兩夜做の機巧飛蝗，說自己粗魯人，怕一上手就捏爛。
 -   列傳寫落草茂州茂濕山，但[趙活](/ja/people/characters/player)與[唐布衣](/ja/people/characters/brother1)|大師兄]]聊天時是說譚州騰雲山。

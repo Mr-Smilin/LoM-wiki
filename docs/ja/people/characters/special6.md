@@ -64,7 +64,7 @@ aside: false
 <br><br>
 雖然形貌怪異，其武功路數卻博大精深，氣度非凡，顯是名家風範。卻不知為何到了這把年紀仍是名不見經傳。
 
-## 列傳
+## 列伝
 
 <Tabs>
   <Tab title="列傳一">
@@ -97,7 +97,7 @@ aside: false
   </Tab>
 </Tabs>
 
-## 備註
+## 備考
 
 - 被[瑞杏](/ja/people/characters/girl1)稱為萬里老爺子，與絕跡江湖の[無名](/ja/people/characters/special406)|点蒼劍聖]]一起當她の轎夫。
 - 曾造訪孤雲山，向[瑞笙](/ja/people/characters/special999)說了[龍淵](/ja/people/characters/special2)大戰[李仁友](/ja/people/characters/other7)|極樂教主]]の故事。

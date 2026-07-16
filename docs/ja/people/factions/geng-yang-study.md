@@ -78,7 +78,7 @@ tags:
 
 - [孔夫子劍](/ja/system/books/book_2006)
 
-## 備註
+## 備考
 
 - [趙活](/ja/people/characters/player)の下手な字画は、耕陽讀書齋が杜甫の筆かも知れないと思い込んで、買い取って研究した
 - [魏菊](/ja/people/characters/girl7)・[上官螢](/ja/people/characters/girl4)・[南宮深](/ja/people/characters/special102)はかつてここで同窓として学んだ

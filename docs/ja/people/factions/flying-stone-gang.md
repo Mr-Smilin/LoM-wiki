@@ -84,7 +84,7 @@ tags:
 
 - [擲石問天](/ja/system/books/book_1010)
 
-## 備註
+## 備考
 
 - Deep♂Rock♂Fantasy：[連結](https://www.facebook.com/photo/?fbid=172733621791491&set=a.117318193999701)
 - ゲーム第三年時点での人数は、[滄幫](/ja/people/factions/cang-gang)・[白鯊幫](/ja/people/factions/white-shark-gang)を上回り、[丐幫](/ja/people/factions/beggar-gang)に次ぎ、少なくとも数万人の幫眾を擁している。

@@ -78,7 +78,7 @@ aside: false
 
 <br clear="all">
 
-## 列傳
+## 列伝
 
 <Tabs>
   <Tab title="列傳一">
@@ -88,7 +88,7 @@ aside: false
   </Tab>
 </Tabs>
 
-## 備註
+## 備考
 
 -   鳥熊の Facebook での紹介：[リンク](https://www.facebook.com/photo/?fbid=424312240122157&set=pcb.424312443455470)
 -   虚竹にインスパイアされた。ptt版の。

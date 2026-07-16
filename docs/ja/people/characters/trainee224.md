@@ -59,7 +59,7 @@ tags:
 <br><br>
 [夏侯蘭](/ja/people/characters/girl5)は彼の実力を歯牙にもかけず、[第三香](/ja/people/characters/special820)には及ばないと見ている。
 
-## 備註
+## 備考
 
 -   火護法の[顏疆](/ja/people/characters/trainee204)とは、顔を合わせれば殴り合うか口喧嘩するかである。
 -   長らく閉関しており、自称・神功大成。[金烏上人](/ja/people/characters/special207)も[道法將軍](/ja/people/characters/special404)も敵ではないという。

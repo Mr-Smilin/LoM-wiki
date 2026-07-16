@@ -92,7 +92,7 @@ tags:
     </tr>
 </BTable>
 
-## 備註
+## 備考
 
 - 現在攻略可能なキャラクター (v5000) は[唐默鈴](/ja/people/characters/girl0)・[夏侯蘭](/ja/people/characters/girl5)・[龍湘](/ja/people/characters/girl8)・[葉雲裳](/ja/people/characters/girl2)。
 - 更新予定順：第一に[葉雲裳](/ja/people/characters/girl2)、第二に[虞小梅](/ja/people/characters/girl3)と[郁竹](/ja/people/characters/girl6)、第三に[魏菊](/ja/people/characters/girl7)と[上官螢](/ja/people/characters/girl4)。[^1]

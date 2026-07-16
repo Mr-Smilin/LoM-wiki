@@ -125,7 +125,7 @@ aside: false
 -   江陵囲城の決戦に駆けつけて[魏菊](/ja/people/characters/girl7)の窮地を救った場合、[王幫主](/ja/people/characters/special401)と三十二合を打ち合う。その剣舞は精妙を極め、見る者は思わず喝采を送る。
 -   [鄒博](/ja/people/characters/special201)の分析によれば、西武林の[趙活](/ja/people/characters/player)が[大師兄](/ja/people/characters/brother1)と戦えば勝率五分、趙活が瑞笙と戦っても五分だが、[大師兄](/ja/people/characters/brother1)が瑞笙と正面から対決すれば、まず負けは免れない。
 
-## 備註
+## 備考
 
 -   鳥熊 Facebook での紹介、[リンク](https://www.facebook.com/photo/?fbid=340029291883786&set=pcb.340029328550449)
 -   放浪の旅は格好いいものと思っていたが、いざ出てみれば、荒野で野宿する浮浪者暮らしは少しも格好よくなかった。宿に泊まっても不意打ちを警戒して気を抜けない。そうこうするうちに、目元の隈 (アイシャドウ) が濃くなった。[^3]

@@ -81,7 +81,7 @@ aside: false
 青城道士以降妖除魔為己任，但申屠龍壓根不信世上有妖怪，唯一一次信念動搖，是碰見[趙活](/ja/people/characters/player)の時候，他當時害怕極了。
 <br clear="all">
 
-## 列傳
+## 列伝
 
 <Tabs>
   <Tab title="列傳一">
@@ -110,7 +110,7 @@ aside: false
 -   對已不在人世の昔日宿敵[龍淵](/ja/people/characters/special2)有無限緬懷。
 -   面對餘毒未清の[龍湘](/ja/people/characters/girl8)，決定養敵為患。期許龍湘能夠步上她偉大[龍淵](/ja/people/characters/special2)|父親]]の道路，登峰造極，來日再決雌雄，以雪前生敗北之恥。
 -   
-## 備註
+## 備考
 
 -   鳥熊 Facebook の介紹，[連結](https://www.facebook.com/photo.php?fbid=443066998246681&id=100076301525150&set=a.165167019370015)
 -   複姓申屠，名為龍。

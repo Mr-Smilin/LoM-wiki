@@ -50,6 +50,6 @@ tags:
 
 「暖風」鞠冬音、[崆峒派](/ja/people/factions/kong-tong-sect)の風護法。玄功洞では[魏掌門](/ja/people/characters/girl7)に次ぐ地位を占める古参の高手である。
 
-## 備註
+## 備考
 
 -   [金烏上人](/ja/people/characters/special207)の所業を恥じており、[唐默鈴](/ja/people/characters/girl0)の比武招親の日も命令で来ただけで、終始一言も発しなかった。乱戦の際も面従腹背で、動くふりをするだけ。彼女の払子に打たれた唐門弟子は一人として怪我をしておらず、点穴されただけだった。

@@ -69,7 +69,7 @@ tags:
 <br><br>
 趙活が顔醜くも不屈不懈なを見て、非常に気に入らず、趙活が自分の生存意義を否定したと考え、共戴天の仇と見なした。西武林の一役で現身して、これを殺したくて堪らない。最後に[趙活](/ja/people/characters/player)、[鄒博](/ja/people/characters/special201)、[趙逵](/ja/people/characters/special403)三人の合力に敗れた。
 
-## 備註
+## 備考
 
 - 現在[趙活](/ja/people/characters/player)は葉雲裳ルートでのみ彼を認識できる。(v5000)
 - 十里一詩は学問の[趙活](/ja/people/characters/player)に平仄が協わないと嘲笑され、聞いてられない。彼は此の詩は戦場に出自し、戦争の酷さを描写したもので、本来は風流の気がないと言った。

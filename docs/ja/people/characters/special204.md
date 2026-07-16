@@ -61,7 +61,7 @@ tags:
 <br><br>
 二十数年前に[青城論道](/ja/event/stories/青城論道)に参加し、道籍を歪曲して[趙逵](/ja/people/characters/special403)を道心に沈めさせ、後に[泥教](/ja/people/factions/mud-school)地獄道法王に堕ちた。このため[鄒博](/ja/people/characters/special201)と仇をなした。
 
-## 備註
+## 備考
 
 -   仙君は非常に嫉妬深く、一山に二仙は容さず。飛天門では調子に乗り過ぎるなよ。<BadendIcon :no="15">生死簿 No.15</BadendIcon>
 -   [金烏上人](/ja/people/characters/special207)と平輩の礼をもって相接する

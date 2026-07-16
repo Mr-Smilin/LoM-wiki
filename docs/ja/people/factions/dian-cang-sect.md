@@ -127,7 +127,7 @@ tags:
 -   [同舟劍譜](/ja/system/books/book_2301)
 -   [点蒼棒法](/ja/system/books/book_2303)
 
-## 備註
+## 備考
 
 -   [唐門](/ja/people/factions/tang-men)のこの群の青色の下衆共は、点蒼派を緑の亀と罵る。
 -   [唐門](/ja/people/factions/tang-men)に女弟子がいて、点蒼の友人を一人紹介しているが、その者は自分の剣と嫁いだという。後に剃髪出家して尼になり、火焔鶏卵と自称して濫殺を犯す。

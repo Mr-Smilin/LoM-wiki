@@ -350,13 +350,13 @@ aside: false
 -   小さい顔立ちの幼い顔のタイプ。[^6]
 -   小師妹は実は皆の想像以上に扱いが難しい女の子。彼女は人生の半分以上独占される寵愛を受けるまで、初めて徐々に心を開く。[^7]
 -   初めて[上官螢](/ja/people/characters/girl1.md)を見た時、その明るく美しい姿に憧れ、自分が再び背が伸びる機会があることは難しいと絶望した。[上官螢](/ja/people/characters/girl1.md)が唐門にいる間、極端に小師妹を溺愛した。[南宮深](/ja/people/characters/special102)が結婚を申し込む時に堂々と聞いた、なぜ[上官螢](/ja/people/characters/girl1.md)を欲しくないのに自分を嫁にしたいのかと。[南宮深](/ja/people/characters/special102)が家族に言わずに婚約者に見える誰かであることを認めない。
--   [掌門](/ja/people/characters/master.md)は曾て[四師兄](/ja/people/characters/brother4.md)に託して一本の[摺紙集](/ja/system/books/book_8108)を帰らしめたり。小師妹は甚だ高興し。書中各様は皆折らんとす。色紙無きまで折りたり。就ち邪主意を秘笈上に打ち。隠れて書を撕き。書皮は床底に抛ぎて蔵さす。撕完えたり自己の秘笈は。就ち旁人の秘笈を撕く。最後に東窗事発す。小師妹は掌門家法に侍候されたり。書も亦た封印さ。
--   小師妹流紙鶴：[リンク](https://www.facebook.com/obbstudio/posts/136833392048181?rdid=ZkNxP6wJ5mrUQZpK)
--   小師妹紙模型：[リンク](https://www.facebook.com/story.php?story_fbid=431711456048902&id=100076301525150&mibextid=oFDknk&rdid=GFOHhRHD9w0HwSTS)
--   鳥熊敘述現代人小師妹：[出典](https://www.facebook.com/obbstudio/posts/pfbid02eAuA5dxrPNzVAtVYGNGbLUi4n6W4EEtTad2Dw4QCZzBwQ9k7YCo8T71jukgRGD3Rl?comment_id=673300937515487)
-    > 吾のみ說くべきは小師妹若し現代に活きば。一個の Moba ゲーム界の冷酷なる殺手となるべし。而して専長する角色は皆命を要さぬ出力角色なり。動もすれば就ち胯抓 kill す。論ずるなく別人如何に嗆かんとも。彼は唯々「= =」或いは「喔」にて答るるなり。<br><br>
-    > 等しく彼が一堆の人を殺して嗜血衝動を満足したる後に、就ち心満意足にてゲームを関閉し。続けて手機に沈溺すべし。<br><br>
-    > 彼の強大は其の手速より来たり。更に異常冷酷近乎一糸の雑質を有さぬ純粋なる殺意。以及手辺の洋芋片。
+-   [掌門](/ja/people/characters/master.md)は以前[四師兄](/ja/people/characters/brother4.md)に託して[折り紙集](/ja/system/books/book_8108)を帰してもらった。小師妹は大喜びで、本の中の図案をすべて折ろうとした。色紙がなくなるまで折った。その後、悪い考えを思いついた。こっそり本を破いて、表紙は床の下に隠した。自分の折り紙帳を破き終わってから、他人の折り紙帳も破き始めた。最後にばれてしまった。小師妹は掌門の家法（体罰）で罰せられた。本も封印されてしまった。
+-   小師妹の紙鶴：[リンク](https://www.facebook.com/obbstudio/posts/136833392048181?rdid=ZkNxP6wJ5mrUQZpK)
+-   小師妹の紙細工：[リンク](https://www.facebook.com/story.php?story_fbid=431711456048902&id=100076301525150&mibextid=oFDknk&rdid=GFOHhRHD9w0HwSTS)
+-   鳥熊が述べる現代の小師妹：[出典](https://www.facebook.com/obbstudio/posts/pfbid02eAuA5dxrPNzVAtVYGNGbLUi4n6W4EEtTad2Dw4QCZzBwQ9k7YCo8T71jukgRGD3Rl?comment_id=673300937515487)
+    > 俺が言えるのは、小師妹もし現代に生きたら、MOBAゲームの冷酷な殺し屋になるだろってこと。得意なキャラは皆、命の要らない出力型。ちょっと隙を見ればすぐキル。他の誰がなんと言おうと、彼女は「= =」か「ふーん」としか答えない。<br><br>
+    > 大勢の人を殺して嗜血の衝動を満たした後は、心満足でゲームを終了する。それからスマホに没頭する。<br><br>
+    > 彼女が強いのは手の速さから来ている。加えて異常に冷酷で、不純物のない純粋な殺意。そしてそばにはポテトチップスがある。
 
 [^1]: バハムート - [【情報】龍湘屁股大小の答え+プライベート聊天の鳥熊との対話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
 [^2]: PTT C 洽 - [\[活俠\] 龍湘與奇怪的小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)

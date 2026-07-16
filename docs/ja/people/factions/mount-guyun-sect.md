@@ -51,7 +51,7 @@ tags:
 
 - 太白仙跡 (v3206未実装)
 
-## 備註
+## 備考
 
 - [王二壯](/ja/people/characters/special401)は江陵大戦で孤雲派を認識した
 - [萬里鵬程](/ja/people/characters/special6)は還俗した年に孤雲山を訪れたことがある

@@ -64,7 +64,7 @@ tags:
 <br><br>
 最後に[唐布衣](/ja/people/characters/brother1)五人の手に敗れた。
 
-## 備註
+## 備考
 
 - 葉家に相認した時、[葉雲裳](/ja/people/characters/girl2)は当年二歳。
 - 彼が九泉丹を服用すれば、十年の功力が増し、九轉輪迴・吞天寶鑑を兼備し、恐らく[唐布衣](/ja/people/characters/brother1)はもう敵ではないだろう。

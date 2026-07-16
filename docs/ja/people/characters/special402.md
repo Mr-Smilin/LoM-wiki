@@ -105,7 +105,7 @@ tags:
 	</ChTab>
 </ChTabs>
 
-> 「凡事都要代价。我们离最好的日子越来越远，再也回不到从前。」
+> 「何事にも代価はつきものよ。わたしたちは一番よかった日々からどんどん遠ざかって、もう二度と昔には戻れないの。」
 
 本名は蘇迎香。[錦香宮](/ja/people/factions/jin-xiang-palace)の主人で、[龍湘](/ja/people/characters/girl8)の師匠。琴曲や琵琶曲で音波功を使い、人を治療したり敵を傷つけたりする。内功は溫氏兄妹から習い、極樂教の魔琴功を組み合わせて独自の流派を作った。[錦香宮](/ja/people/factions/jin-xiang-palace)を一から打ち立て、世間の偏見で苦しむ可哀そうな女性たちを受け入れた。手腕は鐵鎖横江で、江湖の人々の中で彼女を忌避しない者はいない。
 <br><br>
@@ -133,9 +133,9 @@ tags:
 -   [趙活](/ja/people/characters/player)に対して溫夫人の行動は予期しない異数だ。彼の行動は彼女の計算の中に入っていない。
 -   錦香宮が風雨山で剣鞘の絹紐が燃えた時に生じた毒煙は、実は溫夫人が事前に[二師兄](/ja/people/characters/brother2)に頼んで密かに準備させたものだ。
 
-## 備註
+## 備考
 
--   [上官隼](/ja/people/characters/special407)は彼女は罪人の遺児だと言う。
+-   [上官隼](/ja/people/characters/special407)によれば、彼女は罪人の遺児だという。
 -   [上官隼](/ja/people/characters/special407)：「蘇迎香。あなたが心を[南宮遠](/ja/people/characters/special101)に、体を[溫無畏](/ja/people/characters/other13)に、二十年の友情を[王二壮（王春曉）](/ja/people/characters/special401)に捧げたなら、命を私に官職購買の代金として与えてくれ。これがあなたが俺に借りているものだ。」
 -   [畫中仙](/ja/people/characters/special813)とはかつてそれぞれ別の主人に仕えていた関係だった。[瑞杏](/ja/people/characters/girl1)によってようやく仲直りすることができた。
 -   [明玉](/ja/people/characters/other18)、[畫中仙](/ja/people/characters/special813)あるいは[龍湘](/ja/people/characters/girl8)、[盛雪](/ja/people/characters/other12)はみな攻防一体の二人絹法と剣法を習得して、護衛の最高の人選だった。ただし残念なことに、風雨山の変のときに離散させられ、そのため[上官隼](/ja/people/characters/special407)に敗北してしまった。

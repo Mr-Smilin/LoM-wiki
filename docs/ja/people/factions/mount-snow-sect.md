@@ -67,7 +67,7 @@ tags:
 - [登雲踏．望月](/ja/system/books/book_6008)
 - [雪山心法](/ja/system/books/book_7010)
 
-## 備註
+## 備考
 
 - ゲーム内の大雪山は甘粛一帯、崆峒山付近に位置し、現実の四川の大雪山山脈とは大きく異なる。別の山がモデルと推測され、鳥熊もあくまで参考程度と述べている[^1]
 - [夏侯蘭](/ja/people/characters/girl5)線を走る場合、[趙活](/ja/people/characters/player)は雪山派大弟子で、[樊嘯天](/ja/people/characters/special4)が雪山派の小師妹になる可能性がある

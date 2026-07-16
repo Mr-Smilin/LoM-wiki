@@ -99,7 +99,7 @@ tags:
 -   西武林エンディング後、再度[趙活](/ja/people/characters/player)を偽装して、恨みを抱く武林盟成員に捕まり、七七四十九日拷問の末死亡。
 -   [葉雲裳](/ja/people/characters/girl2)を連れて武林大会に行けば、[葉雲裳](/ja/people/characters/girl2)の計略により群俠に集団暴行され、最終的に[釋明](/ja/people/characters/special826)に腹を裂かれて死ぬ。
 
-## 備註
+## 備考
 
 -   名前の読音は「ㄔㄠˊㄏㄨㄛˋ」。本来は別の姓だったが、[嶺南派](/ja/people/factions/lingnan-sect)弟子は皆自分の名前を改めるか他人の名前を冒用して罪を逃れる。晁和本人も[趙活](/ja/people/characters/player)と同音で、捕まった時に「晁和」二字だと言ったから、わざわざこの名前を選んだ。[^2]
 -   状況によっては、丐幫／滄幫／[宋悲](/ja/people/characters/special800)が彼を連行してくるかもしれない。

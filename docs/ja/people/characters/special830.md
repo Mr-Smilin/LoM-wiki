@@ -63,7 +63,7 @@ tags:
 <br><br>
 その他のルートでは[瑞笙](/ja/people/characters/special999)の後宮の一人。
 
-## 備註
+## 備考
 
 -   梁神医は彼女の祖父。何年も前の嵩山での合同診察で、[掌門](/ja/people/characters/master)も梁老医仙の医術には脱帽している。
 -   [唐芳](/ja/people/characters/special832)いわく、毒と薬では[唐門](/ja/people/factions/tang-men)がやや勝るが、針にかけては天下広しといえども梁家の《無常針》が第一。[葉雲裳](/ja/people/characters/girl2)の病を癒せるのは、[二師兄](/ja/people/characters/brother2)を除けば、起死回生の手段を持つ彼女だけである。

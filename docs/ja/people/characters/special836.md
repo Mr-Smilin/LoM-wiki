@@ -53,6 +53,6 @@ tags:
 <br><br>
 救出に成功しても、彼女は感謝の素振りひとつ見せず、あろうことか[葉雲裳](/ja/people/characters/girl2)を侍女にしようとする。
 
-## 備註
+## 備考
 
 - のちに[葉雲裳](/ja/people/characters/girl2)の心魔となり、夢の中に現れる。

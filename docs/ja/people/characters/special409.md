@@ -68,7 +68,7 @@ tags:
 
 現版本(v1.0.5000)完全沒有戲份，只有在發售PV短暫出現過：[連結](https://youtu.be/O3To9yxYRvU?si=2T8AYhgTGattE-Sh&t=56)。
 
-## 備註
+## 備考
 
 - 鳥熊表示可以將他看成[泥教](/ja/people/factions/mud-school)の無敵超人。[^1]
 - 單論名声の話，邪派人物推崇泥教天王座．車軒轅；正道有全真教[丘處機](/ja/people/characters/special209)|長春真人]]被尊稱天下第一人，但這二位向來只有神交而已。[^3]

@@ -96,7 +96,7 @@ tags:
 <br><br>
 武林大会では[嶺南派](/ja/people/factions/lingnan-sect)に同行するが、[葉雲舟](/ja/people/characters/special3)を見かけると慌てて逃げ出す。西武林の一戦では葉雲舟とともに點蒼双尊と力戦し、戦後、師門を破門された。
 
-## 備註
+## 備考
 
 - 2024/10/5に鳥熊FBで公開された情報：[リンク](https://www.facebook.com/100076301525150/posts/554404723779574)
 - [葉雲裳](/ja/people/characters/girl2)線で[青城](/ja/people/factions/qing-cheng-sect)留学した場合にのみ知り合える。
