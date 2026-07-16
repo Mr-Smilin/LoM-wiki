@@ -84,8 +84,8 @@ tags:
 
 -   気功の宗師で、玄門正宗參同密契。当世はただ彼一人会使。
 -   内功深厚。[三師兄](/ja/people/characters/brother4)の言によれば、[大師兄](/ja/people/characters/brother1)、[二師兄](/ja/people/characters/brother2)、[四師兄](/ja/people/characters/brother3)の三人が彼の上に重ねられても、内力では鄒博に勝利できない。
--   [葉雲裳](/ja/people/characters/girl3)の錦囊の彼岸仙香毒に中る時、玄門正宗内功で心脈を護って一絶せず、急いで門人を下山させて[唐芳](/ja/people/characters)を召し上げた。
--   武林大会で技癢で上陣し、[向無憂](/ja/people/characters)と比試した。向無憂は数人と闘った後で真気消耗し、公平を求めるため、自分の長所を捨て、青城高深内功を催運せず、招数だけで勝負を決め、落下を招いた。
+-   [葉雲裳](/ja/people/characters/girl3)の錦囊の彼岸仙香毒に中る時、玄門正宗内功で心脈を護って一絶せず、急いで門人を下山させて[唐芳](/ja/people/characters/)を召し上げた。
+-   武林大会で技癢で上陣し、[向無憂](/ja/people/characters/)と比試した。向無憂は数人と闘った後で真気消耗し、公平を求めるため、自分の長所を捨て、青城高深内功を催運せず、招数だけで勝負を決め、落下を招いた。
 
 ## 備註
 
@@ -94,6 +94,6 @@ tags:
 -   [葉雲裳](/ja/people/characters/girl3)から鄒肥伯と呼ばれた。
 -   [趙活](/ja/people/characters/player)が条件を達して、[趙活](/ja/people/characters/player)を弟子として受けたいと表示する。受諾後、親伝弟子となり、道号「棄塵」を起され、紅塵を棄却する意を取った。拒否されても怒りず、反って[趙活](/ja/people/characters/player)の恆心に欣慰し、この様な大材料が当年丐幫にかすめ取られ、[唐老哥](/ja/people/characters/brother1)に大便宜を与えた事を惜しむ。
 -   晩飯に加餐する事について非常に関心がある。
--   [趙活](/ja/people/characters/player)が西武林で[無相祖師](/ja/people/characters)と戦う際に前来相助。[趙逵](/ja/people/characters/special210)と力を合わせて機会を作り、[趙活](/ja/people/characters/player)は無相祖師を擊殺する機会を得た。
+-   [趙活](/ja/people/characters/player)が西武林で[無相祖師](/ja/people/characters/)と戦う際に前来相助。[趙逵](/ja/people/characters/special210)と力を合わせて機会を作り、[趙活](/ja/people/characters/player)は無相祖師を擊殺する機会を得た。
 
 [^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

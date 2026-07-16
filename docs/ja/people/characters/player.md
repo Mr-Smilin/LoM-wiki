@@ -390,7 +390,7 @@ tags:
 -   多年の雑務生活の下、趙活は実は有能で、どこへ行っても食うに困らないが、前提は江湖に心繋がりないこと。
 -   趙活のこの顔は相声を言うのに向いている。
 -   [大師兄](/ja/people/characters/brother1)に評価され、趙活は顔より賤い、その嘴。
--   [瑞杏](/ja/people/characters)の呟きによれば、趙活は皇室とやや淵源があるようだ。
+-   [瑞杏](/ja/people/characters/)の呟きによれば、趙活は皇室とやや淵源があるようだ。
 -   「Digital Taipei2021 線上展覽」時に「武林敗類」として巨八と称された：[影片連結](https://www.facebook.com/watch/?mibextid=WC7FNe&v=1233034187106961&rdid=8LJ4hVfrxRlPIdcJ)
 -   肉包妖怪　by鳥熊
 -   ~~星座は天馬座，小宇宙を燃やそう！~~[^6]
