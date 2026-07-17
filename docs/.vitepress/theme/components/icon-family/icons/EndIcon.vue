@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import {defineComponent, toRefs} from 'vue'
+import {defineComponent, computed} from 'vue'
 import {withBase} from "vitepress";
 
 export default defineComponent({
@@ -42,29 +42,23 @@ export default defineComponent({
         }
     },
     setup(props) {
-        const { size, no, href } = toRefs(props)
         const CHARACTER = 'end';
-        if (href.value !== ''){
-            return {
-                size: size.value,
-                href: withBase(href.value),
-                character: CHARACTER
+        // 表格搜尋/排序會原地重用元件實例，href 必須用 computed 跟著 props 變動
+        const href = computed(() => {
+            // if given href, use it directly
+            if (props.href !== '') {
+                return withBase(props.href);
             }
-        }
-        // if given href, use it directly
-        if (no.value !== 0){
-            // TODO: if modify path of ends, modify here
-            return {
-                size: size.value,
-                href: withBase(`/event/ends/end-${no.value}`),
-                character: CHARACTER
+            if (props.no !== 0) {
+                // TODO: if modify path of ends, modify here
+                return withBase(`/event/ends/end-${props.no}`);
             }
-        }
-
-        // default link if no href is given
+            // default link if no href is given
+            return withBase(`/event/ends`);
+        });
         return {
-            size: size.value,
-            href: withBase(`/event/ends`),
+            size: computed(() => props.size),
+            href,
             character: CHARACTER
         }
     },

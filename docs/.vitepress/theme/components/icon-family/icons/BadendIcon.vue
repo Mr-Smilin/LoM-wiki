@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import {defineComponent, toRefs} from 'vue'
+import {defineComponent, computed} from 'vue'
 import {withBase} from "vitepress";
 import json from "../../../../../../docs/public/json/badend_list.json"
 export default defineComponent({
@@ -39,31 +39,21 @@ export default defineComponent({
         }
     },
     setup(props) {
-        const { size, no,  } = toRefs(props)
         const CHARACTER = 'badend';
-        // if given href, use it directly
-        if (no.value !== 0){
-
-            if (json.includes(no.value)){
-                console.log("json.includes(no.value):" + json.includes(no.value));
-                return {
-                    size: size.value,
-                    href: withBase(`/event/badends/badend-${no.value}`),
-                    character: CHARACTER
+        // 表格搜尋/排序會原地重用元件實例，href 必須用 computed 跟著 props 變動
+        const href = computed(() => {
+            if (props.no !== 0) {
+                if (json.includes(props.no)) {
+                    return withBase(`/event/badends/badend-${props.no}`);
                 }
+                return withBase(`/event/badends/index#生死簿-No.${props.no}`);
             }
-
-            return {
-                size: size.value,
-                href: withBase(`/event/badends/index#生死簿-No.${no.value}`),
-                character: CHARACTER
-            }
-        }
-
-        // default link if no href is given
+            // default link if no href is given
+            return withBase(`/event/badends`);
+        });
         return {
-            size: size.value,
-            href: withBase(`/event/badends`),
+            size: computed(() => props.size),
+            href,
             character: CHARACTER
         }
     }

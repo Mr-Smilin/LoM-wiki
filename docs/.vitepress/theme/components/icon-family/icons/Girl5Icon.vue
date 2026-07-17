@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import {defineComponent, toRefs} from 'vue'
+import {defineComponent, computed} from 'vue'
 import {withBase} from "vitepress";
 
 export default defineComponent({
@@ -32,21 +32,12 @@ export default defineComponent({
         }
     },
     setup(props) {
-        const { size, href } = toRefs(props)
         const CHARACTER = 'girl5';
-        // if given href, use it directly
-        if (href.value){
-            return {
-                size: size.value,
-                href: href.value,
-                character: CHARACTER
-            }
-        }
-
-        // default link if no href is given
+        // 表格搜尋/排序會原地重用元件實例，href 必須用 computed 跟著 props 變動
         return {
-            size: size.value,
-            href: withBase(`/people/characters/${CHARACTER}`),
+            size: computed(() => props.size),
+            // if given href, use it directly; default link otherwise
+            href: computed(() => props.href ? props.href : withBase(`/people/characters/${CHARACTER}`)),
             character: CHARACTER
         }
     }

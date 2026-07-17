@@ -87,7 +87,9 @@ function initializeFromSlots() {
       unsortable: !!td.props?.unsortable,
     }))
 
-  rows.value = trElements.slice(1).map(tr => ({
+  rows.value = trElements.slice(1).map((tr, index) => ({
+    // 穩定的列識別，讓搜尋/排序後 Vue 能正確搬移列元件而不是原地重用
+    _id: index,
     _attributes: tr.props || {},
     _cells: tr.children
       .filter(node => node.type === 'td')
