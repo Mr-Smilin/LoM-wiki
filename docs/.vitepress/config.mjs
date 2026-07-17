@@ -622,6 +622,285 @@ const baseConfig = {
 				},
 			},
 		},
+		ja: {
+			label: "日本語",
+			lang: "ja",
+			link: "/ja/",
+			themeConfig: {
+				nav: [
+					{
+						text: "人物",
+						items: [
+							{ text: "人物一覧", link: "/ja/people/characters/" },
+							{ text: "夢境の想い人", link: "/ja/people/dream-sweetheart" },
+							{ text: "称号一覧", link: "/ja/people/title-list" },
+							{ text: "陣営一覧", link: "/ja/people/factions/" },
+							{ text: "江湖の人々", link: "/ja/people/mobs/" },
+						],
+						activeMatch: "/ja/people/",
+					},
+					{
+						text: "システム",
+						items: [
+							{ text: "門派施設", link: "/ja/system/facility" },
+							{ text: "秘笈一覧", link: "/ja/system/books/" },
+							{ text: "技能効果", link: "/ja/system/skill" },
+							{
+								text: "対戦ガイド",
+								link: "/ja/system/engagement/battle-ui",
+							},
+							{ text: "煉丹効果", link: "/ja/system/pills" },
+							{
+								text: "鍛冶場・煉丹房 開発ロードマップ",
+								link: "/ja/system/forge-roadmap",
+							},
+							{ text: "道具一覧", link: "/ja/system/items" },
+							{ text: "養成コマンド", link: "/ja/system/training" },
+							{ text: "サウンドトラック", link: "/ja/system/soundtrack" },
+						],
+						activeMatch: "/ja/system/",
+					},
+					{
+						text: "イベント",
+						items: [
+							{
+								text: "メイン・サブシナリオ年表",
+								link: "/ja/event/story-branch-timeline",
+							},
+							{
+								text: "シナリオ簡易表",
+								link: "/ja/event/story-simple-table",
+							},
+							{ text: "風雲史 (実績)", link: "/ja/event/achievements" },
+							{ text: "生死簿 (バッドエンド)", link: "/ja/event/badends" },
+							{ text: "汗青書 (エンディング)", link: "/ja/event/ends" },
+						],
+						activeMatch: "/ja/event/",
+					},
+					{
+						text: "その他",
+						items: [
+							{ text: "江湖快報 (公式アップデート)", link: "/ja/other/news" },
+							{
+								text: "ゲームガイド",
+								link: "/ja/other/guide/1-game-objective",
+							},
+							{ text: "鳥熊 Q&A 集", link: "/ja/other/qna/" },
+							{ text: "用語対訳表", link: "/ja/glossary" },
+							{
+								text: "解析データ",
+								items: [
+									{
+										text: "v1.0.3130",
+										link: "https://smilin.pse.is/LoM",
+									},
+								],
+							},
+							{
+								text: "画像ジェネレーター",
+								items: [
+									{
+										text: "汗青書 (エンディング) 画像ジェネレーター",
+										link: "/ja/other/image-generator/end",
+									},
+								],
+							},
+							{
+								text: "唐門図書館 (Google スプレッドシート)",
+								link: "/ja/other/lom-sheet",
+							},
+						],
+						activeMatch: "/ja/other/",
+					},
+					{
+						text: "編集に参加",
+						items: [
+							{ text: "参加のはじめ方", link: "/ja/develop/1-start" },
+							{
+								text: "設定ファイル項目説明",
+								link: "/ja/develop/2-vitepress",
+							},
+							{ text: "ローカル実行 (上級)", link: "/ja/develop/3-run-local" },
+							{
+								text: "Markdown 編集の心得",
+								items: [
+									{
+										text: "基礎知識",
+										link: "/ja/develop/4-example",
+									},
+									{
+										text: "よく使う書き方",
+										link: "/ja/develop/4-1-template.md",
+									},
+									{
+										text: "LoM-wiki 公開コンポーネント",
+										link: "/ja/develop/4-2-wiki-template.md",
+									},
+									{
+										text: "人物列伝コンポーネント",
+										link: "/ja/develop/4-3-character-template.md",
+									},
+									{
+										text: "江湖快報ページモジュール説明",
+										link: "/ja/develop/4-4-news-template.md",
+									},
+								],
+							},
+							{
+								text: "Markdown 参考テンプレート",
+								items: [
+									{
+										text: "クリーンテンプレート",
+										link: "/ja/develop/clean-template.md",
+									},
+									{
+										text: "キャラクターページテンプレート",
+										link: "/ja/develop/clean-character-template.md",
+									},
+								],
+							},
+						],
+					},
+				],
+				sidebar: {
+					"/ja/develop/": [
+						{
+							text: "編集に参加",
+							items: [
+								{ text: "参加のはじめ方", link: "/ja/develop/1-start" },
+								{
+									text: "設定ファイル項目説明",
+									link: "/ja/develop/2-vitepress",
+								},
+								{
+									text: "ローカル実行 (上級)",
+									link: "/ja/develop/3-run-local",
+								},
+								{
+									text: "Markdown 編集の心得",
+									items: [
+										{
+											text: "Markdown 基礎知識",
+											link: "/ja/develop/4-example",
+										},
+										{
+											text: "Markdown よく使う書き方",
+											link: "/ja/develop/4-1-template.md",
+										},
+										{
+											text: "LoM-wiki 公開コンポーネント",
+											link: "/ja/develop/4-2-wiki-template.md",
+										},
+										{
+											text: "人物列伝コンポーネント",
+											link: "/ja/develop/4-3-character-template.md",
+										},
+										{
+											text: "江湖快報ページモジュール説明",
+											link: "/ja/develop/4-4-news-template.md",
+										},
+									],
+								},
+								{
+									text: "Markdown 参考テンプレート",
+									items: [
+										{
+											text: "クリーンテンプレート",
+											link: "/ja/develop/clean-template.md",
+										},
+										{
+											text: "キャラクターページテンプレート",
+											link: "/ja/develop/clean-character-template.md",
+										},
+									],
+								},
+							],
+						},
+					],
+					"/ja/other/guide/": [
+						{
+							text: "ゲームガイド",
+							items: [
+								{
+									text: "ゲームの目標",
+									link: "/ja/other/guide/1-game-objective",
+								},
+								{
+									text: "最初に何をすればいい？",
+									link: "/ja/other/guide/2-how-to-start",
+								},
+								{
+									text: "行動回数について",
+									link: "/ja/other/guide/mechanism/action-point",
+								},
+								{
+									text: "心相について",
+									link: "/ja/other/guide/mechanism/mood",
+								},
+								{
+									text: "貢献度について",
+									link: "/ja/other/guide/mechanism/contribution",
+								},
+								{
+									text: "能力値について",
+									link: "/ja/other/guide/mechanism/attribute",
+								},
+								{
+									text: "想い人について",
+									link: "/ja/other/guide/mechanism/dream-sweetheart",
+								},
+								{
+									text: "降参について",
+									link: "/ja/other/guide/mechanism/surrender",
+								},
+								{
+									text: "命運について",
+									link: "/ja/other/guide/mechanism/destiny",
+								},
+								{
+									text: "四師兄の商店について",
+									link: "/ja/other/guide/mechanism/brother4-selling",
+								},
+							],
+						},
+					],
+					"/ja/system/engagement/": [
+						{
+							text: "対戦ガイド",
+							items: [
+								{
+									text: "対戦画面",
+									link: "/ja/system/engagement/battle-ui",
+								},
+								{
+									text: "対戦コマンド",
+									link: "/ja/system/engagement/battle-commands",
+								},
+								{
+									text: "人物状態",
+									link: "/ja/system/engagement/status",
+								},
+								{
+									text: "発動中技能",
+									link: "/ja/system/engagement/skills",
+								},
+								{
+									text: "ワンポイント",
+									link: "/ja/system/engagement/battle-tips",
+								},
+							],
+						},
+					],
+				},
+				outline: {
+					label: "ページナビ",
+				},
+				editLink: {
+					pattern: "https://github.com/Mr-Smilin/LoM-wiki/edit/main/docs/:path",
+					text: "GitHub でこのページを編集",
+				},
+			},
+		},
 	},
 	markdown: {
 		container: {
