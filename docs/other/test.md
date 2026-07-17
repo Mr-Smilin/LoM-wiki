@@ -146,6 +146,30 @@ tags:
 
 :::
 
+## MarkdownWrapper 連結混排
+
+外層 markdown 語法（粗體、高亮等）包住連結時，格式不應該斷掉
+
+<div>
+    <MarkdownWrapper>**粗體開頭 [龍湘](/people/characters/girl8) 粗體結尾**</MarkdownWrapper><br>
+    <MarkdownWrapper>||高亮內含 [龍湘](/people/characters/girl8) 連結||</MarkdownWrapper><br>
+    <MarkdownWrapper>[[龍湘]] 之後 *斜體* 再接 [傳統連結](/people/characters/girl8) 結尾</MarkdownWrapper><br>
+    <MarkdownWrapper>[[測試用頁面|自訂文字含 **粗體** 跟 https://example.com 網址]]</MarkdownWrapper>
+</div>
+
+::: details 原始碼
+
+```markdown
+<div>
+    <MarkdownWrapper>**粗體開頭 [龍湘](/people/characters/girl8) 粗體結尾**</MarkdownWrapper><br>
+    <MarkdownWrapper>||高亮內含 [龍湘](/people/characters/girl8) 連結||</MarkdownWrapper><br>
+    <MarkdownWrapper>[[龍湘]] 之後 *斜體* 再接 [傳統連結](/people/characters/girl8) 結尾</MarkdownWrapper><br>
+    <MarkdownWrapper>[[測試用頁面|自訂文字含 **粗體** 跟 https://example.com 網址]]</MarkdownWrapper>
+</div>
+```
+
+:::
+
 ## 註腳
 
 註腳 1[^1]  

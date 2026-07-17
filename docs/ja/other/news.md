@@ -41,7 +41,7 @@ gitChangelog: false
 <!--@include: @/ja/other/news/20250829-01-release.md-->
 <!--@include: @/ja/other/news/20250828-03-release.md-->
 <!--@include: @/ja/other/news/20250828-02-release.md-->
-<!--@include: @/ja/other/news/20250828-01-release.md-->
+<!--@include: @/ja/other/news/20250828-01-majorUpdate.md-->
 
 ---
 <br>
