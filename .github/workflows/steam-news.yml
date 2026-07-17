@@ -1,0 +1,37 @@
+name: Steam 新聞自動抓取
+
+# 每日抓活俠傳 Steam 新聞，有新項目就開 PR（草稿，需人工審）。
+# 只新增檔案、走 PR 不直推，不會動到既有新聞。
+on:
+  schedule:
+    - cron: "0 1 * * *" # 每日 09:00（台灣，UTC+8）
+  workflow_dispatch: {} # 也可在 Actions 頁手動觸發
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20 # 內建 fetch，腳本零依賴，免 npm install
+      - name: 抓取 Steam 新聞產草稿
+        run: node tools/fetchNews.js
+      - name: 有新草稿就開 PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: bot/steam-news # 重用同一分支，不會產生重複 PR
+          title: "自動抓取：Steam 新聞草稿"
+          commit-message: "自動抓取 Steam 新聞草稿"
+          labels: news, automated
+          body: |
+            由 `tools/fetchNews.js` 自動產生的江湖快報草稿。
+
+            ⚠️ 這是**草稿**，merge 前請人工確認：
+            - 內文 BBCode→markdown 轉換是否正確
+            - 需要時把檔名 suffix 改成 `demoUpdate` / `majorUpdate`
+            - 發表日期取 Steam 發布時間，未必等於內文標註的更新日
