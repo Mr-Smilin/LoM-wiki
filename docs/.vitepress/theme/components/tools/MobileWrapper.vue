@@ -1,7 +1,5 @@
 <template>
-    <component :is="isMobile ? 'div' : 'slot'" :class="{ 'mobile-item': isMobile }">
-        <slot v-if="!isMobile"></slot>
-    </component>
+    <slot v-if="!isMobile"></slot>
 </template>
 
 <script>
@@ -31,9 +29,3 @@
         }
     };
 </script>
-
-<style scoped>
-    .mobile-item {
-        display: none;
-    }
-</style>

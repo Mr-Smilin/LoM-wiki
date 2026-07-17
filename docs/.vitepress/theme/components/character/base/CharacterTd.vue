@@ -21,7 +21,7 @@ export default {
 	},
 	setup(props){
         const slots = useSlots();
-        const slotContent = slots.default();
+        const slotContent = slots.default ? slots.default() : null;
 		const styleName = computed(() => props.isTitle ? 'label' : 'value')
 		return {
 			styleName,

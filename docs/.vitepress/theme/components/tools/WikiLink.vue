@@ -1,6 +1,6 @@
 <template>
     <VPNolebaseInlineLinkPreview :href="linkPath">
-        <MarkdownWrapper v-if="parsedLink.customText">
+        <MarkdownWrapper v-if="parsedLink.customText" disable-links>
             {{ parsedLink.customText }}
         </MarkdownWrapper>
         <template v-else>{{ parsedLink.pagePath }}</template>
