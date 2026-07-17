@@ -36,6 +36,7 @@
   
   <script setup>
   import { ref, watch, watchEffect } from 'vue';
+  import { stripMarkdown } from '../../../script/markdownText.js';
   
   const props = defineProps({
     rows: Array,
@@ -111,18 +112,18 @@
   }
   
   function searchInCell(cell, keyword) {
-    if (typeof cell.content === 'string' || (typeof cell?.type === 'symbol' && cell?.type?.description === 'v-txt')) {
-      return cell.content.toLowerCase().includes(keyword);
+    if (typeof cell.content === 'string') {
+      return stripMarkdown(cell.content).toLowerCase().includes(keyword);
     }
     if (Array.isArray(cell.content)) {
       return cell.content.some(item => searchInItem(item, keyword));
     }
     return false;
   }
-  
+
   function searchInItem(item, keyword) {
     if (isTextElement(item)) {
-      return String(item.children).toLowerCase().includes(keyword);
+      return stripMarkdown(item.children).toLowerCase().includes(keyword);
     }
     if (isComponentElement(item)) {
       return searchInComponentSlots(item.children, keyword);
@@ -131,21 +132,21 @@
   }
   
   function searchInComponentSlots(slots, keyword) {
-    if (typeof slots === 'string' || (typeof slots?.type === 'symbol' && slots?.type?.description === 'v-txt')) {
-      return slots.toLowerCase().includes(keyword);
+    if (typeof slots === 'string') {
+      return stripMarkdown(slots).toLowerCase().includes(keyword);
     }
     if (typeof slots === 'object' && slots !== null) {
-      return Object.values(slots).some(slotContent => 
-        (typeof slotContent === 'string' && slotContent.toLowerCase().includes(keyword)) ||
+      return Object.values(slots).some(slotContent =>
+        (typeof slotContent === 'string' && stripMarkdown(slotContent).toLowerCase().includes(keyword)) ||
         (typeof slotContent === 'function' && searchInRenderedContent(slotContent(), keyword))
       );
     }
     return false;
   }
-  
+
   function searchInRenderedContent(content, keyword) {
     if (typeof content === 'string') {
-      return content.toLowerCase().includes(keyword);
+      return stripMarkdown(content).toLowerCase().includes(keyword);
     }
     if (Array.isArray(content)) {
       return content.some(item => searchInRenderedContent(item, keyword));

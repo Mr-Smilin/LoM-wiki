@@ -26,6 +26,7 @@
 <script setup>
 import { ref, computed, useSlots, onMounted, shallowRef, watchEffect } from 'vue'
 import { getContentType } from '../../script/componentUtils.js'
+import { stripMarkdown } from '../../script/markdownText.js'
 import BTableHeader from './table-child/BTableHeader.vue'
 import BTableBody from './table-child/BTableBody.vue'
 import BTableSearch from './table-child/BTableSearch.vue'
@@ -127,12 +128,12 @@ const sortedRows = computed(() => {
 
 function getCellSortValue(cell) {
   if (cell?.type === 'array') {
-    return cell?.content
+    return stripMarkdown(cell?.content
       .filter(item => item.type === Symbol.for('v-txt'))
       .map(item => item.children)
-      .join('')
+      .join(''))
   }
-  return String(cell?.content)
+  return stripMarkdown(cell?.content)
 }
 //#endregion
 

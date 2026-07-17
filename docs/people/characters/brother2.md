@@ -53,7 +53,7 @@ aside: false
                     稱號
                 </ChTd>
                 <ChTd>
-                    二師兄<br>辣手相公
+                    二師兄<br>||辣手相公||
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -68,7 +68,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [[唐鹿]] (母親)
+                    [[唐鹿]] ||(母親)||
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -88,7 +88,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [[唐默鈴]] (異父妹妹)
+                    [[唐默鈴]] ||(異父妹妹)||
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -98,7 +98,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [[畫中仙]] (間諜)
+                    ||[[畫中仙]] (間諜)||
                 </ChTd>
             </ChTr>
         </table>
