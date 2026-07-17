@@ -10,6 +10,8 @@ tags:
 
 # {{ $frontmatter.title }}
 
+## 唐門
+
 <BTable
 	:stickyHeader="true"
 	:tags="[
@@ -1064,8 +1066,55 @@ text: '修養-',
 		<td>-</td>
 		<td>商店を開放<br />現在は売買後についでに飲食が可能（飲食のみ、折り紙は不可）</td>
 	</tr>
+</BTable>
+
+## 外出
+
+<BTable
+	:stickyHeader="true"
+	:tags="[
+{
+text: '道徳+',
+},
+{
+text: '道徳-',
+},
+{
+text: '名声+',
+},
+{
+text: '名声-',
+},
+{
+text: '性情+',
+},
+{
+text: '性情-',
+},
+{
+text: '修養+',
+},
+{
+text: '修養-',
+},
+]"
+>
 	<tr>
-		<td colspan="9" style="text-align: center">**外出**</td>
+		<td :unsortable="true">画像</td>
+		<td :unsortable="true">行動名</td>
+		<td :unsortable="true">イベント名</td>
+		<td :unsortable="true">貢献変化</td>
+		<td :unsortable="true">心相変化</td>
+		<td :unsortable="true">
+			<MoodIcon :mood="`normal`" />(心相:33~65)
+		</td>
+		<td :unsortable="true">
+			<MoodIcon :mood="`high`" />(心相＞=66)追加効果
+		</td>
+		<td :unsortable="true">
+			<MoodIcon :mood="`bad`" />(心相:0~32)
+		</td>
+		<td :unsortable="true">前提条件／補足説明</td>
 	</tr>
 	<tr>
 		<td>-</td>
@@ -1877,8 +1926,55 @@ text: '修養-',
 		<td>-</td>
 		<td>初遭遇イベントを先に発生させる必要あり、SL（セーブ&ロード）で嘯天好感を稼げる</td>
 	</tr>
+</BTable>
+
+## 崆峒の施設
+
+<BTable
+	:stickyHeader="true"
+	:tags="[
+{
+text: '道徳+',
+},
+{
+text: '道徳-',
+},
+{
+text: '名声+',
+},
+{
+text: '名声-',
+},
+{
+text: '性情+',
+},
+{
+text: '性情-',
+},
+{
+text: '修養+',
+},
+{
+text: '修養-',
+},
+]"
+>
 	<tr>
-		<td colspan="9" style="text-align: center">**崆峒の施設**</td>
+		<td :unsortable="true">画像</td>
+		<td :unsortable="true">行動名</td>
+		<td :unsortable="true">イベント名</td>
+		<td :unsortable="true">貢献変化</td>
+		<td :unsortable="true">心相変化</td>
+		<td :unsortable="true">
+			<MoodIcon :mood="`normal`" />(心相:33~65)
+		</td>
+		<td :unsortable="true">
+			<MoodIcon :mood="`high`" />(心相＞=66)追加効果
+		</td>
+		<td :unsortable="true">
+			<MoodIcon :mood="`bad`" />(心相:0~32)
+		</td>
+		<td :unsortable="true">前提条件／補足説明</td>
 	</tr>
 	<tr>
 		<td>-</td>
@@ -2425,8 +2521,55 @@ text: '修養-',
 		<td>-</td>
 		<td>-</td>
 	</tr>
+</BTable>
+
+## 江陵囲城
+
+<BTable
+	:stickyHeader="true"
+	:tags="[
+{
+text: '道徳+',
+},
+{
+text: '道徳-',
+},
+{
+text: '名声+',
+},
+{
+text: '名声-',
+},
+{
+text: '性情+',
+},
+{
+text: '性情-',
+},
+{
+text: '修養+',
+},
+{
+text: '修養-',
+},
+]"
+>
 	<tr>
-		<td colspan="9" style="text-align: center">**江陵囲城**</td>
+		<td :unsortable="true">画像</td>
+		<td :unsortable="true">行動名</td>
+		<td :unsortable="true">イベント名</td>
+		<td :unsortable="true">貢献変化</td>
+		<td :unsortable="true">心相変化</td>
+		<td :unsortable="true">
+			<MoodIcon :mood="`normal`" />(心相:33~65)
+		</td>
+		<td :unsortable="true">
+			<MoodIcon :mood="`high`" />(心相＞=66)追加効果
+		</td>
+		<td :unsortable="true">
+			<MoodIcon :mood="`bad`" />(心相:0~32)
+		</td>
+		<td :unsortable="true">前提条件／補足説明</td>
 	</tr>
 	<tr>
 		<td>-</td>
@@ -2561,8 +2704,55 @@ text: '修養-',
 		<td>-</td>
 		<td>「お前みたいな腰抜けの決闘者は南宮淺に任せる」&lt;40<br />武学の進展は限定的</td>
 	</tr>
+</BTable>
+
+## 家出
+
+<BTable
+	:stickyHeader="true"
+	:tags="[
+{
+text: '道徳+',
+},
+{
+text: '道徳-',
+},
+{
+text: '名声+',
+},
+{
+text: '名声-',
+},
+{
+text: '性情+',
+},
+{
+text: '性情-',
+},
+{
+text: '修養+',
+},
+{
+text: '修養-',
+},
+]"
+>
 	<tr>
-		<td colspan="9" style="text-align: center">**家出**</td>
+		<td :unsortable="true">画像</td>
+		<td :unsortable="true">行動名</td>
+		<td :unsortable="true">イベント名</td>
+		<td :unsortable="true">貢献変化</td>
+		<td :unsortable="true">心相変化</td>
+		<td :unsortable="true">
+			<MoodIcon :mood="`normal`" />(心相:33~65)
+		</td>
+		<td :unsortable="true">
+			<MoodIcon :mood="`high`" />(心相＞=66)追加効果
+		</td>
+		<td :unsortable="true">
+			<MoodIcon :mood="`bad`" />(心相:0~32)
+		</td>
+		<td :unsortable="true">前提条件／補足説明</td>
 	</tr>
 	<tr>
 		<td style="text-align: center">-</td>
@@ -2675,6 +2865,11 @@ text: '修養-',
 		<td>-</td>
 	</tr>
 </BTable>
+
+## 青城派
+
+(準備中)
+
 
 以下はテスト用ブロック
 <BTable :stickyHeader="true" :unsearch="true">
