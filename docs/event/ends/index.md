@@ -48,13 +48,13 @@ tags:
 ]">
 
 <tr>
-<td>  
-結局編號  
+<td>
+結局編號
 </td>
 <td :unsortable=true>
-結局名稱  
+結局名稱
 </td>
-<td :unsortable=true>  
+<td :unsortable=true>
 結局概要
 </td>
 </tr>
@@ -452,14 +452,17 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <EndIcon no="31">傳說之人</EndIcon>
 </td>
 <td>
-與夏後蘭結緣的高道德遣散唐門結局。
+<span style="color: #006F86;">【遣散唐門】</span>
+<span style="color: #00BFFF;">【夏侯蘭】</span>
+<span style="color: #FF1493;">【結緣】</span><br>
+與夏侯蘭結緣的高道德遣散唐門結局。
 </td>
 </tr>
 <tr>
 <td>
 結局 32
 </td>
-<td style="color: #a83232;">  
+<td style="color: #a83232;">
  <EndIcon no="32">殉志而死</EndIcon>
 </td>
 <td>
