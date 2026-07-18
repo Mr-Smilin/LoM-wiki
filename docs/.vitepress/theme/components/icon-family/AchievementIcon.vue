@@ -1,12 +1,14 @@
 <template>
-    <a v-if="needLink" :href="getItemPageUrl(no)">
+    <a v-if="needLink" :href="itemPageUrl">
         <span :class=getIconSizeClass(size) :style="getIconSource(no)"></span><slot></slot>
     </a>
     <span v-else><span :class=getIconSizeClass(size) :style="getIconSource(no)"></span><slot></slot></span>
 </template>
 
 <script>
+import {computed} from 'vue'
 import {withBase} from "vitepress";
+import {useLocalePrefix} from "../../script/useLocalePrefix";
 
 export default {
     props: {
@@ -32,11 +34,14 @@ export default {
             default: true,
         },
     },
-    methods: {
-        getItemPageUrl(no){
+    setup(props) {
+        const prefix = useLocalePrefix();
+        return {
             // this requires the same format for ItemPages
-            return withBase(`/event/achievements#風雲史-No.${no}`);
-        },
+            itemPageUrl: computed(() => withBase(`${prefix.value}/event/achievements#風雲史-No.${props.no}`))
+        }
+    },
+    methods: {
         getIconSource(no) {
             // this requires the same image path format
             return {

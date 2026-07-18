@@ -8,6 +8,7 @@
 <script>
 import {defineComponent, computed} from 'vue'
 import {withBase} from "vitepress";
+import {useLocalePrefix} from "../../../script/useLocalePrefix";
 
 export default defineComponent({
     props: {
@@ -43,6 +44,7 @@ export default defineComponent({
     },
     setup(props) {
         const CHARACTER = 'end';
+        const prefix = useLocalePrefix();
         // 表格搜尋/排序會原地重用元件實例，href 必須用 computed 跟著 props 變動
         const href = computed(() => {
             // if given href, use it directly
@@ -51,10 +53,10 @@ export default defineComponent({
             }
             if (props.no !== 0) {
                 // TODO: if modify path of ends, modify here
-                return withBase(`/event/ends/end-${props.no}`);
+                return withBase(`${prefix.value}/event/ends/end-${props.no}`);
             }
             // default link if no href is given
-            return withBase(`/event/ends`);
+            return withBase(`${prefix.value}/event/ends`);
         });
         return {
             size: computed(() => props.size),
