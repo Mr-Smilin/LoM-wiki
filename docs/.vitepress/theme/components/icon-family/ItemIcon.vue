@@ -15,7 +15,12 @@
 
 <script>
 import {withBase} from "vitepress";
+import {useLocalePrefix} from "../../script/useLocalePrefix";
 export default {
+    setup() {
+        // 站內連結需跟隨當前語系 (root 為空字串, 其他為 /en、/ja ...)
+        return { localePrefix: useLocalePrefix() };
+    },
     props: {
         size: {
             type: String,
@@ -67,7 +72,8 @@ export default {
     methods: {
         getItemPageUrl(no, type, prefix){
             // this requires the same format for ItemPages
-            return withBase(`${prefix}/${type}s/${type}_${no}`);
+            // localePrefix 為 setup 回傳的 ref, 在 Options API 中透過 this 存取會自動解包
+            return withBase(`${this.localePrefix}${prefix}/${type}s/${type}_${no}`);
         },
         getIconBackgroundSource() {
             return {
