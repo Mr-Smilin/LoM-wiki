@@ -7,7 +7,7 @@
 
 <script>
 import {computed} from 'vue'
-import {withBase} from "vitepress";
+import {withBase, useData} from "vitepress";
 import {useLocalePrefix} from "../../script/useLocalePrefix";
 
 export default {
@@ -36,9 +36,12 @@ export default {
     },
     setup(props) {
         const prefix = useLocalePrefix();
+        const { localeIndex } = useData();
+        // 錨點 id 對應各語系 achievements 頁的 <td id="..."> (en: Chronicles, 其餘: 風雲史)
+        const anchorLabel = computed(() => localeIndex.value === 'en' ? 'Chronicles' : '風雲史');
         return {
             // this requires the same format for ItemPages
-            itemPageUrl: computed(() => withBase(`${prefix.value}/event/achievements#風雲史-No.${props.no}`))
+            itemPageUrl: computed(() => withBase(`${prefix.value}/event/achievements#${anchorLabel.value}-No.${props.no}`))
         }
     },
     methods: {
