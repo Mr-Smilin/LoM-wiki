@@ -1,19 +1,16 @@
 <template>
-    <a v-if="needLink" :href="getItemPageUrl(no)">
+    <a v-if="needLink" :href="itemPageUrl">
         <span :class=getIconSizeClass(size) :style="getIconSource(no)"></span><slot></slot>
     </a>
     <span v-else><span :class=getIconSizeClass(size) :style="getIconSource(no)"></span><slot></slot></span>
 </template>
 
 <script>
-import {withBase} from "vitepress";
-import {useLocalePath} from "../../script/localePath";
+import {computed} from 'vue'
+import {withBase, useData} from "vitepress";
+import {useLocalePrefix} from "../../script/useLocalePrefix";
 
 export default {
-    setup() {
-        const { localeIndex, localePath } = useLocalePath();
-        return { localeIndex, localePath };
-    },
     props: {
         size: {
             type: String,
@@ -37,13 +34,17 @@ export default {
             default: true,
         },
     },
-    methods: {
-        getItemPageUrl(no){
+    setup(props) {
+        const prefix = useLocalePrefix();
+        const { localeIndex } = useData();
+        // 錨點 id 對應各語系 achievements 頁的 <td id="..."> (en: Chronicles, 其餘: 風雲史)
+        const anchorLabel = computed(() => localeIndex.value === 'en' ? 'Chronicles' : '風雲史');
+        return {
             // this requires the same format for ItemPages
-            // 錨點 id 與各語系 achievements 頁的 <td id="..."> 對應 (root/ja: 風雲史, en: Chronicles)
-            const anchorLabel = this.localeIndex === 'en' ? 'Chronicles' : '風雲史';
-            return this.localePath(`/event/achievements#${anchorLabel}-No.${no}`);
-        },
+            itemPageUrl: computed(() => withBase(`${prefix.value}/event/achievements#${anchorLabel.value}-No.${props.no}`))
+        }
+    },
+    methods: {
         getIconSource(no) {
             // this requires the same image path format
             return {

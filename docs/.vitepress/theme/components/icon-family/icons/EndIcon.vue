@@ -7,8 +7,8 @@
 
 <script>
 import {defineComponent, computed} from 'vue'
-import {withBase} from "vitepress";
-import {useLocalePath} from "../../../script/localePath";
+import {withBase, useData} from "vitepress";
+import {useLocalePrefix} from "../../../script/useLocalePrefix";
 
 export default defineComponent({
     props: {
@@ -43,10 +43,11 @@ export default defineComponent({
         }
     },
     setup(props) {
-        const { localeIndex, localePath } = useLocalePath();
         const CHARACTER = 'end';
-        // 尚未翻譯的結局詳細頁 (連到語系路徑會 404, 改連 root 頁)。
-        // TODO: 翻譯補齊後從清單移除。長期應改為建置時產生的清單 (見 #10)
+        const prefix = useLocalePrefix();
+        const { localeIndex } = useData();
+        // fork 独自: 未翻訳の結局詳細ページ (語系路径だと 404) は root へ fallback。
+        // TODO: 翻訳補齊後に削除。生成マニフェスト化は #10 で対応。
         const MISSING_END_PAGES = {
             en: new Set([4, 15, 20, 38, 51, 52, 53, 54]),
         };
@@ -57,16 +58,16 @@ export default defineComponent({
                 return withBase(props.href);
             }
             if (props.no !== 0) {
-                // markdown 內以 no="38" 傳入時是字串, 統一轉成數字再比對
+                // markdown から no="38" と文字列で渡るため数値化して比較
                 const no = Number(props.no);
                 // TODO: if modify path of ends, modify here
                 if (MISSING_END_PAGES[localeIndex.value]?.has(no)) {
                     return withBase(`/event/ends/end-${no}`);
                 }
-                return localePath(`/event/ends/end-${no}`);
+                return withBase(`${prefix.value}/event/ends/end-${no}`);
             }
             // default link if no href is given
-            return localePath(`/event/ends`);
+            return withBase(`${prefix.value}/event/ends`);
         });
         return {
             size: computed(() => props.size),
