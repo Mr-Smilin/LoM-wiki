@@ -45,7 +45,7 @@ tags:
 </ChTabs>
 <br><br>
 
-奪魂門の第三香。かつて飛天門の[丹霞子](/ja/people/characters/special404)、鉄拳門の「白眉虎」[孟瞋](/ja/people/characters/other1)、玄功門の丹青羅剎[閻羅生](/ja/people/characters/other2)と共に、四人で崆峒四秀と呼ばれ、掌派人の地位を競う可能性があった。
+奪魄門の第三香。かつて飛天門の[丹霞子](/ja/people/characters/special404)、鉄拳門の「白眉虎」[孟瞋](/ja/people/characters/other1)、玄功門の丹青羅剎[閻羅生](/ja/people/characters/other2)と共に、四人で崆峒四秀と呼ばれ、掌派人の地位を競う可能性があった。
 <br><br>
 元々は雪山派の弟子で、[夏侯蘭](/ja/people/characters/girl5)は彼を孤児として見下し、百般に嘲弄した。雪山と崆峒の決戦の一役では、雪谷に落とされ、幸いにも命を拾った。その後密かに崆峒に潜入して夏侯蘭を救い、二人一緒に逃げ出したが、[呼延菊](/ja/people/characters/special822)に発見され、敗れ、苦労しながら修行し、奪魄門の高弟となる。
 <br><br>

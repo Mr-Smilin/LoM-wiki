@@ -31,7 +31,7 @@ tags:
 		<table>
 			<ChTr>
 				<ChTd isTitle=true>
-					位置
+					所在地
 				</ChTd>
 				<ChTd>
 					飛天殿
@@ -39,7 +39,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
-					主要成員
+					主要メンバー
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -89,7 +89,7 @@ tags:
 		<table>
 			<ChTr>
 				<ChTd isTitle=true>
-					位置
+					所在地
 				</ChTd>
 				<ChTd>
 					奪魄峰
@@ -97,7 +97,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
-					主要成員
+					主要メンバー
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -139,7 +139,7 @@ tags:
 		<table>
 			<ChTr>
 				<ChTd isTitle=true>
-					位置
+					所在地
 				</ChTd>
 				<ChTd>
 					鐵拳巷
@@ -147,7 +147,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
-					主要成員
+					主要メンバー
 				</ChTd>
 			</ChTr>
             <ChTr>
@@ -185,7 +185,7 @@ tags:
 		<table>
 			<ChTr>
 				<ChTd isTitle=true>
-					位置
+					所在地
 				</ChTd>
 				<ChTd>
 					玄功洞
@@ -193,7 +193,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
-					主要成員
+					主要メンバー
 				</ChTd>
 			</ChTr>
             <ChTr>

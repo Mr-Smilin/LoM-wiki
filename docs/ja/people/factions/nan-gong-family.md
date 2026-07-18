@@ -16,7 +16,7 @@ tags:
 		<table>
 			<ChTr>
 				<ChTd isTitle=true>
-					位置
+					所在地
 				</ChTd>
 				<ChTd>
 					江陵府
@@ -24,7 +24,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
-					主要成員
+					主要メンバー
 				</ChTd>
 			</ChTr>
 			<ChTr>

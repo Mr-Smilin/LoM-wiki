@@ -238,7 +238,7 @@ docs/public/images/items/${type}s/item_${type}_${no}.webp
 
 ```markdown
 <MoodIcon :mood="`high`">テキスト</MoodIcon>
-<MoodIcon :mood="`good`">テキスト 1/MoodIcon>
+<MoodIcon :mood="`good`">テキスト 1</MoodIcon>
 <MoodIcon >テキスト 2</MoodIcon>
 <MoodIcon :mood="`normal`">テキスト 3</MoodIcon>
 <MoodIcon :mood="`low`">テキスト 4</MoodIcon>

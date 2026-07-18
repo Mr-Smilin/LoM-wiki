@@ -26,7 +26,7 @@ tags:
             </ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
-					主要成員
+					主要メンバー
 				</ChTd>
 			</ChTr>
 			<ChTr>
