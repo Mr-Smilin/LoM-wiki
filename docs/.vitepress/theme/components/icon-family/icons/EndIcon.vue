@@ -6,8 +6,9 @@
 </template>
 
 <script>
-import {defineComponent, toRefs} from 'vue'
+import {defineComponent, computed} from 'vue'
 import {withBase} from "vitepress";
+import {useLocalePath} from "../../../script/localePath";
 
 export default defineComponent({
     props: {
@@ -42,29 +43,34 @@ export default defineComponent({
         }
     },
     setup(props) {
-        const { size, no, href } = toRefs(props)
+        const { localeIndex, localePath } = useLocalePath();
         const CHARACTER = 'end';
-        if (href.value !== ''){
-            return {
-                size: size.value,
-                href: withBase(href.value),
-                character: CHARACTER
+        // 尚未翻譯的結局詳細頁 (連到語系路徑會 404, 改連 root 頁)。
+        // TODO: 翻譯補齊後從清單移除。長期應改為建置時產生的清單 (見 #10)
+        const MISSING_END_PAGES = {
+            en: new Set([4, 15, 20, 38, 51, 52, 53, 54]),
+        };
+        // 表格搜尋/排序會原地重用元件實例，href 必須用 computed 跟著 props 變動
+        const href = computed(() => {
+            // if given href, use it directly
+            if (props.href !== '') {
+                return withBase(props.href);
             }
-        }
-        // if given href, use it directly
-        if (no.value !== 0){
-            // TODO: if modify path of ends, modify here
-            return {
-                size: size.value,
-                href: withBase(`/event/ends/end-${no.value}`),
-                character: CHARACTER
+            if (props.no !== 0) {
+                // markdown 內以 no="38" 傳入時是字串, 統一轉成數字再比對
+                const no = Number(props.no);
+                // TODO: if modify path of ends, modify here
+                if (MISSING_END_PAGES[localeIndex.value]?.has(no)) {
+                    return withBase(`/event/ends/end-${no}`);
+                }
+                return localePath(`/event/ends/end-${no}`);
             }
-        }
-
-        // default link if no href is given
+            // default link if no href is given
+            return localePath(`/event/ends`);
+        });
         return {
-            size: size.value,
-            href: withBase(`/event/ends`),
+            size: computed(() => props.size),
+            href,
             character: CHARACTER
         }
     },

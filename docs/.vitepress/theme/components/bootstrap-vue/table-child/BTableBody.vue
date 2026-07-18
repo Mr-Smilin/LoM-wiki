@@ -1,6 +1,6 @@
 <template>
     <tbody>
-    <tr v-for="row in rows" :key="row.id" v-bind="row._attributes">
+    <tr v-for="row in rows" :key="row._id" v-bind="row._attributes">
       <td v-for="(cell, cellIndex) in row._cells" 
           :key="cellIndex" 
           v-bind="cell.attributes">
