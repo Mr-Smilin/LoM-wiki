@@ -39,7 +39,7 @@ export default defineComponent({
         return {
             size: computed(() => props.size),
             // if given href, use it directly; default link otherwise
-            href: computed(() => props.href ? props.href : withBase(`${prefix.value}/people/characters/${CHARACTER}`)),
+            href: computed(() => props.href ? withBase(props.href) : withBase(`${prefix.value}/people/characters/${CHARACTER}`)),
             character: CHARACTER
         }
     }
