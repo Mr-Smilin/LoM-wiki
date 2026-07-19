@@ -137,7 +137,7 @@ npm run dev
 
 ## 國際化 | i18n
 
-文檔支持繁體中文、English。
+文檔支持繁體中文、English、日本語。
 
 ## 許可 | Licence
 
