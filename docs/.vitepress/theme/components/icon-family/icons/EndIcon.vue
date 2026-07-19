@@ -9,6 +9,7 @@
 import {defineComponent, computed} from 'vue'
 import {withBase, useData} from "vitepress";
 import {useLocalePrefix} from "../../../script/useLocalePrefix";
+import localePageManifest from "../../../../../../docs/public/json/locale_page_manifest.json";
 
 export default defineComponent({
     props: {
@@ -46,11 +47,6 @@ export default defineComponent({
         const CHARACTER = 'end';
         const prefix = useLocalePrefix();
         const { localeIndex } = useData();
-        // fork 独自: 未翻訳の結局詳細ページ (語系路径だと 404) は root へ fallback。
-        // TODO: 翻訳補齊後に削除。生成マニフェスト化は #10 で対応。
-        const MISSING_END_PAGES = {
-            en: new Set([4, 15, 20, 38, 51, 52, 53, 54]),
-        };
         // 表格搜尋/排序會原地重用元件實例，href 必須用 computed 跟著 props 變動
         const href = computed(() => {
             // if given href, use it directly
@@ -60,8 +56,10 @@ export default defineComponent({
             if (props.no !== 0) {
                 // markdown から no="38" と文字列で渡るため数値化して比較
                 const no = Number(props.no);
-                // TODO: if modify path of ends, modify here
-                if (MISSING_END_PAGES[localeIndex.value]?.has(no)) {
+                // fork 独自: 現 locale に end-<no> ページが無ければ root へ fallback (未翻訳ページの 404 回避)。
+                // 存在判定は tools/buildLocalePageManifest.js が生成する manifest (SSoT) を使う (#10)。
+                const localeEnds = localePageManifest[localeIndex.value]?.ends;
+                if (localeEnds && !localeEnds.includes(no)) {
                     return withBase(`/event/ends/end-${no}`);
                 }
                 return withBase(`${prefix.value}/event/ends/end-${no}`);
