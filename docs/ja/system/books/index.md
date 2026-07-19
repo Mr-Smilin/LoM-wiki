@@ -564,7 +564,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`1000`">唐門暗器總綱</BookItemIcon></td>
-        <td>軽功7<br>弁舌7<br>暗器5<br>額外暗器</td>
+        <td>軽功7<br>弁舌7<br>暗器5<br>追加暗器</td>
         <td>50</td>
         <td>学問10 (LV6)</td>
         <td>初期所持</td>

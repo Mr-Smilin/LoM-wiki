@@ -121,6 +121,7 @@ tags:
 				[初めて福韞と知り合う](/ja/event/simple/1-09-2-初識福韞)<br>
 				[仏教の教育](/ja/event/simple/1-09-2-佛法教育)<br>
 				[龍湘が盗まれる](/ja/event/simple/1-09-2-龍湘遭竊)<br>
+				[龍湘の告発](/ja/event/simple/1-09-3-龍湘の告発)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -431,7 +432,11 @@ tags:
 			<td>
 				<li>唐門例会</li>
 			</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[唐芳師姉の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)<br>
+				</MarkdownWrapper>
+			</td>
 			<td>-</td>
 		</tr>
 		<tr>
@@ -489,6 +494,7 @@ tags:
 				[大師兄が重傷](/ja/event/simple/3-01-3-大師兄重傷)<br>
 				[後山に埋葬](/ja/event/simple/3-01-3-後山安葬)<br>
 				[煉丹で解毒](/ja/event/simple/3-01-3-煉丹解毒)<br>
+				[葉雲裳の診察](/ja/event/simple/3-01-4-葉雲裳の診察)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>

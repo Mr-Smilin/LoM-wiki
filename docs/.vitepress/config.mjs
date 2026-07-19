@@ -657,6 +657,7 @@ const baseConfig = {
 							{ text: "道具一覧", link: "/ja/system/items" },
 							{ text: "養成コマンド", link: "/ja/system/training" },
 							{ text: "サウンドトラック", link: "/ja/system/soundtrack" },
+							{ text: "唐門月例会議", link: "/ja/system/meeting" },
 						],
 						activeMatch: "/ja/system/",
 					},
