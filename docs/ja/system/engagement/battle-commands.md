@@ -51,12 +51,12 @@ tags:
 ---
 ### 口功
 <div style="margin-top: 5px;"></div>
-成功時に相手の気を吸収でき（吸収範囲は不明）、また相手が「修養」に応じて怒るかどうかを判定します。<br>
+成功時に相手の気を吸収でき（吸収範囲は不明）、また相手が「品性」に応じて怒るかどうかを判定します。<br>
 怒った状態では攻撃のみが使用でき、気が不足して攻撃が使えない場合、ターンは待機状態になり、15気を回復して虚脱状態になります。<br>
 <img class='guide-img' src='/images/engagement/mad.webp' alt='怒り'>
 <img class='guide-img' src='/images/engagement/exhaustion.webp' alt='虚脱'><div style="margin-top: 5px;"></div>
 
-* **修養が怒りの確率に影響：**<br>
+* **品性が怒りの確率に影響：**<br>
 　　狂気—暴躁—中庸—沈着—君子<br>
 　　高確率————————低確率<br>
 

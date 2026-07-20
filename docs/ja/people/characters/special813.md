@@ -96,13 +96,14 @@ tags:
 ## 備考
 
 -   錦香閣初期の11人の一人。[^3]
+-   日本語化MODでの一人称｢わっち｣ 変装していてもそれが漏れ出ることもある
 -   弁舌は無敵。
 -   錦香宮に初めて行く時、[唐錚](/ja/people/characters/brother2) (二師兄) の好感度が高いほど、彼女が案内人になりやすい。
 -   食べることは知っているが料理を学ぶのは怠い。[^1]
 -   [葉雲舟](/ja/people/characters/special3)を見ると罵り、容赦がない。
 -   [溫夫人](/ja/people/characters/special402)に放蕩だと非難されている。売春をするらしく、また若い男を愛人として囲っているようだ。
 -   [龍湘](/ja/people/characters/girl8)が[唐布衣](/ja/people/characters/brother1)を陥れるのに力を貸し、その代わりに金を受け取った上で、龍湘に自分の生年月日を唐布衣に賠償させた。
--   自分は血も涙もない、紅顔禍水だと名乗る。
+-   自分は血も涙もない、紅顔禍水(傾国の美女)だと名乗る。
 -   過去に[溫夫人](/ja/people/characters/special402)と各々その主に侍ったが、[瑞杏](/ja/people/characters/girl1)のおかげで仲良くなった。
 -   <MarkdownWrapper>||第二代千面人魔。||</MarkdownWrapper> (v3206 解包情報)
 
