@@ -607,41 +607,56 @@ tags:
 			<td>八月</td>
 			<td>
                 <MarkdownWrapper>
-				唐門例会：[四師兄の遠経商取引](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)
+				唐門例会：[四師兄の遠経商取引](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)<br>
+				[四師兄の旅立ち](/ja/event/simple/3-08-2-四師兄道別)<br>
                 </MarkdownWrapper>
 			</td>
 			<td>
-				<li>武林大会の招待状</li>
+				<MarkdownWrapper>
+				<li>[武林大会の招待状](/ja/event/simple/3-08-3-武林大会の招待状)</li>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 		</tr>
 		<tr>
 			<td>九月</td>
 			<td>
-				<li>武林大会へ向かう</li>
+				<MarkdownWrapper>
+				<li>[武林大会へ向かう](/ja/event/simple/3-09-1-武林大会へ向かう)</li>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>
-				<li>錦香宮からの招待</li>
+				<MarkdownWrapper>
+				<li>[錦香宮からの招待](/ja/event/simple/3-09-1-武林大会へ向かう)</li>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
 			<td>十月</td>
 			<td>
-				<li>錦香宮に泊まる</li>
+				<MarkdownWrapper>
+				<li>[錦香宮に泊まる](/ja/event/simple/3-10-1-錦香宮に泊まる)</li>
+				</MarkdownWrapper>
 			</td>
 			<td>
-				<li>錦香宮主の請願</li>
-				<li>武林大会</li>
+				<MarkdownWrapper>
+				<li>[錦香宮主の請願](/ja/event/simple/3-10-1-錦香宮に泊まる)</li>
+				<li>[武林大会](/ja/event/detailed_description/3-08-2-武林大会編)</li>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 		</tr>
 		<tr>
 			<td>十一月</td>
 			<td>
-				<li>唐門に帰る</li>
+				<MarkdownWrapper>
+				<li>[唐門に帰る](/ja/event/detailed_description/3-11-1-四師兄が帰る)</li>
+				</MarkdownWrapper>
 				<li>誰かが去る</li>
-				<li>四師兄が帰る(手土産を頼む必要がある)</li>
+				<MarkdownWrapper>
+				<li>[四師兄が帰る(手土産を頼む必要がある)](/ja/event/detailed_description/3-11-1-四師兄が帰る)</li>
+				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>

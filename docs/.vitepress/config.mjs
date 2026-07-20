@@ -758,6 +758,10 @@ const baseConfig = {
 										text: "キャラクターページテンプレート",
 										link: "/ja/develop/clean-character-template.md",
 									},
+									{
+										text: "イベントページテンプレート",
+										link: "/ja/develop/clean-event-template.md",
+									},
 								],
 							},
 						],
@@ -812,6 +816,10 @@ const baseConfig = {
 										{
 											text: "キャラクターページテンプレート",
 											link: "/ja/develop/clean-character-template.md",
+										},
+										{
+											text: "イベントページテンプレート",
+											link: "/ja/develop/clean-event-template.md",
 										},
 									],
 								},
