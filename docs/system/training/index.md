@@ -46,10 +46,10 @@ text: '修養-',
 		<td :unsortable="true">貢獻變化</td>
 		<td :unsortable="true">心相變化</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`normal`" />(心相:33~65)
+			<MoodIcon :mood="`normal`" />(心相:33~64)
 		</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`high`" />(心相＞=66)額外特效
+			<MoodIcon :mood="`high`" />(心相＞=65)額外加成
 		</td>
 		<td :unsortable="true">
 			<MoodIcon :mood="`bad`" />(心相:0~32)
@@ -2675,3 +2675,5 @@ text: '修養-',
 		<td>-</td>
 	</tr>
 </BTable>
+
+註：心相65為綠臉，但是會有黃臉的額外加成
