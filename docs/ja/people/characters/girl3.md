@@ -49,13 +49,13 @@ aside: false
 			nameZh='大笑'
 			nameEn='Laugh heartily'/>
 	</ChTab>
-	<ChTab title="Kira">
+	<ChTab title="キラッ☆">
 		<Ch 
 			src='/images/characters/girl_3/laugh3.webp' 
 			position='center'/>
 		<ChName
 			nameZh='（<ゝω·）☆'
-			nameEn='Kira'/>
+			nameEn='キラッ☆'/>
 	</ChTab>
 	<ChTab title="汗顔">
 		<Ch 
@@ -272,7 +272,7 @@ aside: false
 	小梅が心に秘めた憎悪の向かう先は、ただ千燈楼の主一人のみ。心に愛するものなし。残喘を続けてきた。願うはただ、一人を殺すこと。
   </Tab>
   <Tab title="列伝四">
-	お前が近くに現れるたびに、小梅の心に愛と恨が混ざった矛盾した感情が生まれる。<br>
+	お前が近くに現れるたびに、小梅の心に愛憎入り交じった矛盾した感情が生まれる。<br>
 	お前を何度も刃で突きたいほどだが、結局は我慢できない。口では「お前の顔はひどい」と嫌がるが、一方では手放すことができない。<br>
 	確かにお前は顔が冴えない。他の人間と違って、誰もが同じような顔で、つまらなくて見分けがつかない。<br><br>
 	どんなに隠していても、小梅のお前への執着は、すでに病的なレベルに達している。<br>

@@ -200,6 +200,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[留学生が訪問](/ja/event/simple/2-03-1-留學生來訪)<br>
+				[留学生の乱闘](/ja/event/simple/2-02-2-留学生の乱闘)<br>
 				</MarkdownWrapper>
 				<li>唐門例会</li>
 			</td>
@@ -215,7 +216,11 @@ tags:
 			<td>
 				<li>唐門例会</li>
 			</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[二師兄の訓話](/ja/event/simple/2-04-2-二師兄の訓話)<br>
+				</MarkdownWrapper>
+			</td>
 			<td>-</td>
 		</tr>
 		<tr>
@@ -234,6 +239,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[家出](/ja/event/simple/2-06-1-離家出走)<br>
+				[廃寺の変装者たち（詳細）](/ja/event/detailed_description/2-06-2-廃寺の変装者たち)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -256,12 +262,17 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[龍淵に偶然出会う](/ja/event/simple/2-08-3-巧遇龍淵)<br>
+				[青城留学アーク（詳細、想い人＝葉雲裳ルート）](/ja/event/detailed_description/3-03-2-青城留学アーク)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
 			<td>九月</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[四師兄の青城訪問](/ja/event/simple/3-03-4-四師兄の青城訪問)<br>
+				</MarkdownWrapper>
+			</td>
 			<td>-</td>
 			<td>-</td>
 		</tr>
@@ -281,7 +292,11 @@ tags:
 				<li>唐門例会</li>
 			</td>
 			<td>-</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[段智秀来襲・青城脱出（詳細、想い人＝葉雲裳ルート）](/ja/event/detailed_description/3-03-3-段智秀来襲)<br>
+				</MarkdownWrapper>
+			</td>
 		</tr>
 		<tr>
 			<td>十二月</td>
