@@ -16,10 +16,10 @@ tags:
 
 <img width="720" src="/images/badends/badend1.webp">
 
-## 条件と流程
+## 条件と手順
 
 <b>条件：</b>なし<br>
-<b>流程：</b><br>
+<b>手順：</b><br>
 
 ### 一、江陵への道中で切り殺される
 

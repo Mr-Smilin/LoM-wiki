@@ -62,7 +62,7 @@ tags:
 <td>
 エンディング1
 </td>
-<td style="color: #a83232;">回疆隠棲</td>
+<td style="color: #a83232;">帰隠</td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span>
 </td>
@@ -138,7 +138,7 @@ tags:
 エンディング8
 </td>
 <td style="color: #a83232;">
-<EndIcon no="8">煮られた狗</EndIcon>
+<EndIcon no="8">煮られた犬</EndIcon>
 </td>
 <td>
 広州の唐門が唐門を襲撃する際、唐門を裏切ることを選ぶ。

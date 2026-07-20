@@ -1,5 +1,5 @@
 ---
-title: 千金叟 (センキンソウ)
+title: 千金叟
 aside: false
 outline: [2, 3]
 sidebar: false

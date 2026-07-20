@@ -19,10 +19,10 @@ tags:
 
 <img width="720" src="/images/badends/badend16.webp">
 
-## 条件と流程
+## 条件と進め方
 
 <b>条件：</b>崆峒派に留学<br>
-<b>流程：</b><br>
+<b>進め方：</b><br>
 
 ### １、郁竹を慕う人に殺される
 

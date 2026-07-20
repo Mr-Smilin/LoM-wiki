@@ -20,7 +20,7 @@ tags:
 
 ## {{ $frontmatter.title }}
 
-### 敵情報
+### 敵方の情報
 <div style="margin-top: 5px;"></div>
 <img class='guide-img' src='/images/engagement/tip1.webp' alt='敵情報'>
 <img class='guide-img' src='/images/engagement/tip2.webp' alt='敵情報'><div style="margin-top: 5px;"></div>
@@ -28,4 +28,4 @@ tags:
 また敵の情報も確認できます<br>
 己を知り敵を知れば、百戦して殆ど危うからず<br><br><br><br>
 
-(下準備中)<br>
+(準備中)<br>

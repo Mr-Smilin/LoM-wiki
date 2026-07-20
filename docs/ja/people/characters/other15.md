@@ -36,12 +36,12 @@ tags:
 </ChTabs>
 <br><br>
 
-[火炎山劍閣](/ja/people/factions/mount-fire-palace)の総爐鍛長。[南宮深](/ja/people/characters/special102)は良友。
+[火炎山劍閣](/ja/people/factions/mount-fire-palace)の総爐鍛長。[南宮深](/ja/people/characters/special102)と良友。
 
 <br>
 
-風雨山武林大会でかつて短く登場。
+風雨山武林大会でかつて短く登場した。
 
 ## 備考
 
--   [唐布衣](/ja/people/characters/brother1)と臥雲崗に行った帰路で遭った鐵匠の立绘は同じもの。もし同一人なら、当時[晁和](/ja/people/characters/special208)に毒を盛られ、その後破戒僧に追殺されて死亡。
+-   [唐布衣](/ja/people/characters/brother1)と臥雲崗に行った帰路で遭った鐵匠の立繪は同じもの。もし同一人なら、当時[晁和](/ja/people/characters/special208)に毒を盛られ、その後破戒僧に追殺されて死亡。
