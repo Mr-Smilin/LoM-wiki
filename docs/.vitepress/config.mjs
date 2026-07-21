@@ -688,6 +688,8 @@ const baseConfig = {
 							},
 							{ text: "鳥熊 Q&A 集", link: "/ja/other/qna/" },
 							{ text: "用語対訳表", link: "/ja/glossary" },
+							{ text: "呼称表", link: "/ja/address-terms" },
+							{ text: "一人称表", link: "/ja/first-person-pronouns" },
 							{
 								text: "解析データ",
 								items: [
