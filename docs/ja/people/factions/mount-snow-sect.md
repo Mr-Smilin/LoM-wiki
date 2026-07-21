@@ -16,7 +16,7 @@ tags:
 		<table>
 			<ChTr>
 				<ChTd isTitle=true>
-					位置
+					所在地
 				</ChTd>
 				<ChTd>
 					大雪山
@@ -24,7 +24,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
-					主要成員
+					主要メンバー
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -43,7 +43,7 @@ tags:
 
 既に滅門した門派で、大雪山に位置する。
 <br><br>
-雪山派の武功は内功・劍法に長けている。雪山心法は力を化して消融することに旨とし、真気を運転して暖を取り、雪地の刺骨の寒冷を駆散する。
+雪山派の武功は内功・劍法に長けている。雪山心法は力を化して消融させることを旨として、内功を巡らして暖を取り、雪地の刺骨の寒冷を駆散する。
 <br><br>
 雪山夏侯掌門は上官家主[上官隼](/ja/people/characters/special407)と過命の交情があり、嘗て指腹為婚の約を交わした。
 <br clear="all">
@@ -58,7 +58,7 @@ tags:
 <br><br>
 遺跡の一切は大火で焼かれ、大雪で埋もれ、梅花樁の五つの大岩石と一本の雪樹の他に何も残らない。
 <br><br>
-至って弟子[第三香](/ja/people/characters/special820)は難を逃れ、崆峒山で[夏侯蘭](/ja/people/characters/girl5)に顔合わせしたことは、後の話である。
+さて、弟子[第三香](/ja/people/characters/special820)は難を逃れ、崆峒山で[夏侯蘭](/ja/people/characters/girl5)と顔を合わせたことは、後の話である。
 
 ## 秘笈
 

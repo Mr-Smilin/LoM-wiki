@@ -1,5 +1,5 @@
 ---
-title: 孟仙謠 (モウセンヨウ)
+title: 孟仙謠
 aside: false
 outline: [2, 3]
 sidebar: false

@@ -13,9 +13,9 @@ tags:
 
 [唐門](/ja/people/factions/tang-men)の師娘。[唐中翎](/ja/people/characters/master)の師妹。そして妻。
 
-二十年前[極樂教](/ja/people/factions/elysium-school)が武林を禍し、『屍心丹』に中毒。人に支配され、その間に[唐錚](/ja/people/characters/brother2)を生んだと疑われた。その後唐中翎が彼女を救い出したが、大過既に成り、それでも彼女に求婚して終生を約束した。
+二十年前[極樂教](/ja/people/factions/elysium-school)が武林を禍し、『屍心丹』に中毒。人に支配され、その間に[唐錚](/ja/people/characters/brother2)を生んだと疑われた。その後唐中翎が彼女を救い出したが、大きな過ちが既に成ってしまったにもかかわらず、それでも彼女に求婚して終生を約束した。
 
-婚後数年、[唐默鈴](/ja/people/characters/girl0)を得たが、常に黙って不機嫌。[唐默鈴](/ja/people/characters/girl0)を[趙活](/ja/people/characters/player)に託した後、崖に身を投げた。[唐默鈴](/ja/people/characters/girl0)は十年、毎晩欠かさず窗辺に来て折り紙鶴を折り、母への思いを書きつづったことを絶やさない。
+婚後数年、[唐默鈴](/ja/people/characters/girl0)を得たが、常に寡黙で不幸そうだった。[唐默鈴](/ja/people/characters/girl0)を[趙活](/ja/people/characters/player)に託した後、崖に身を投げた。[唐默鈴](/ja/people/characters/girl0)は十年間、毎晩のように窓辺で折り紙鶴を折り、母への思いを書き記し続けた。
 
 かつて[唐布衣](/ja/people/characters/brother1)に万霊丹と一本のガラスの花を送った。実は唐門の暗器『無形箭』。
 

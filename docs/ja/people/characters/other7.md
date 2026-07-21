@@ -1,5 +1,5 @@
 ---
-title: 李仁友 (リジンユウ)
+title: 李仁友
 aside: false
 outline: [2, 3]
 sidebar: false

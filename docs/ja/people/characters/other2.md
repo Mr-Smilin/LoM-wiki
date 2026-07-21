@@ -1,5 +1,5 @@
 ---
-title: 閻羅生 (エンラセイ)
+title: 閻羅生
 aside: false
 outline: [2, 3]
 sidebar: false

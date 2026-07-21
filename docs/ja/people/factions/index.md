@@ -60,7 +60,7 @@ tags:
 -   [錦香宮](/ja/people/factions/jin-xiang-palace)
 -   [火炎山劍閣](/ja/people/factions/mount-fire-palace)
 
-## 國家
+## 国家
 
 -   [大宋](/ja/people/factions/song-dynasty)
 -   [大金](/ja/people/factions/jin-dynasty)

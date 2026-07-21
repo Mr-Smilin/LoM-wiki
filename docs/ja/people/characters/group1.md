@@ -10,7 +10,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-花城四少は[南宮深](/ja/people/characters/special102)と三〜五人の友人の総称で、花柳街の常連です。[南宮深](/ja/people/characters/special102)本人を除き、それぞれ陳序、余自詠、成溪、公子秀です。
+花城四少は[南宮深](/ja/people/characters/special102)と三〜五人の友人の総称で、花柳街の常連です。[南宮深](/ja/people/characters/special102)本人を除いて、それぞれ陳序、余自詠、成溪、公子秀です。
 
 <br>
 
@@ -26,7 +26,7 @@ tags:
 
 <br>
 
-[段智秀](/ja/people/characters/special833)。金持ち。花卉を好きだが、自分で種はしない。土が汚いから虫がいるから。毎朝違う花を髪に留めて街を散歩し、嗅いだらポイ。
+[段智秀](/ja/people/characters/special833)。金持ち。花卉を好きだが、自分では種えない。土が汚い上に虫もいるから。毎朝違う花を髪に留めて街を散歩し、嗅いだらポイ。
 
 ## 備考
 

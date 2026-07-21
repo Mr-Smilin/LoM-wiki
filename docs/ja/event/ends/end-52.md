@@ -15,7 +15,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=52 title="恥を忍んで生き永らえる">
-お前の気骨は、骨が折られたその瞬間、烟のように消えた。<br>
+お前の気骨は、骨が折られたその瞬間、煙のように消えた。<br>
 <br>
 <br>
 <br>

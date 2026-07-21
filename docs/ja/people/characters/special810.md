@@ -30,7 +30,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[南宮深](/ja/people/characters/special102) (情人)
+					[南宮深](/ja/people/characters/special102) (夫)
 				</ChTd>
 			</ChTr>
 			<ChTr>

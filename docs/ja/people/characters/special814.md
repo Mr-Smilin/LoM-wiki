@@ -1,5 +1,5 @@
 ---
-title: 萬勝 (ばんしょう)
+title: 萬勝 (バンショウ)
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -37,7 +37,7 @@ tags:
 
 <br>
 
-河南の『緑林皇帝』、萬勝の金刀万。
+河南の『緑林皇帝』、萬勝『金刀万』。
 
 <br>
 

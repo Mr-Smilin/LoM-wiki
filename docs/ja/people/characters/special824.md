@@ -1,5 +1,5 @@
 ---
-title: 荊紅 (けいこう)
+title: 荊紅
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -20,7 +20,7 @@ tags:
 					性別
 				</ChTd>
 				<ChTd>
-					女性
+					女
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -35,7 +35,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[夏侯蘭](/ja/people/characters/girl5) (宿敵)
+					[夏侯蘭](/ja/people/characters/girl5) (仇人)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -43,6 +43,6 @@ tags:
 </ChTabs>
 <br><br>
 
-かつては奪魄の嫡傳女弟子だったが、[夏侯蘭](/ja/people/characters/girl5)に嫡傳の位を奪われた。その後[第三香](/ja/people/characters/special820)の浮気現場において、また[夏侯蘭](/ja/people/characters/girl5)に顔を引っ掻かれた。
+かつては奪魄の正統な女弟子だったが、[夏侯蘭](/ja/people/characters/girl5)に正統な弟子の地位を奪われた。その後[第三香](/ja/people/characters/special820)の浮気現場において、また[夏侯蘭](/ja/people/characters/girl5)に顔を引っ掻かれた。
 <br><br>
-その後崆峒を背反し、現在[袁無憲](/ja/people/characters/special823)と共に行動している。
+その後崆峒を去り、現在[袁無憲](/ja/people/characters/special823)と共に行動している。
