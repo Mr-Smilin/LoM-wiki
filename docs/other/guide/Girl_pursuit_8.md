@@ -27,8 +27,8 @@ tags:
 <td>留宿錦香宮</td>
 <td><Girl8Icon>龍湘</Girl8Icon>好感度40以上，觸發夜遊談心事件，傾聽她的煩惱。</td>
 <td>好感度刷法: 
-    <br>1. 在唐門時可刷外堡的龍湘聽講事件，需先觸發<MarkdownWrapper>[初識福韞](docs/event/simple/1-09-2-初識福韞)</MarkdownWrapper>
-    及<MarkdownWrapper>[龍湘遭竊](docs/event/simple/1-09-2-龍湘遭竊)</MarkdownWrapper>事件。
+    <br>1. 在唐門時可刷外堡的龍湘聽講事件，需先觸發<MarkdownWrapper>[初識福韞](/event/simple/1-09-2-初識福韞)</MarkdownWrapper>
+    及<MarkdownWrapper>[龍湘遭竊](/event/simple/1-09-2-龍湘遭竊)</MarkdownWrapper>事件。
     <br>2. 在錦香宮時可以刷華音閣。</td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ tags:
 <tr>
 <td>4</td>
 <td>第三年十二月上旬，剩一次行動時</td>
-<td>眾人的決策</td>
+<td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
 <td>不可以選擇退隱江湖。</td>
 <td></td>
 </tr>
@@ -66,8 +66,8 @@ tags:
 <td>龍湘飛鴿傳書</td>
 <td>需滿足條件3、4才能觸發。
 <br>完成此事件，獲得道具【龍湘的髮簪】後，即完成結緣。</td>
-<td>若第二年走不留學-客棧線，則此處有龍淵劇情差分📜議題「守信用」。
-    <br>若龍淵好感8以上，可得秘笈《龍淵七絕》。</td>
+<td>若第二年走不留學-客棧線，由於經歷了<MarkdownWrapper>[巧遇龍淵](/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>事件，此處有龍淵劇情差分及新增📜議題「守信用」。
+    <br>若龍淵好感8以上，可得秘笈<MarkdownWrapper>[《龍淵七絕》](/system/books/book_7013)</MarkdownWrapper>。</td>
 </tr>
 </table>
 
@@ -100,16 +100,16 @@ tags:
 <td>3</td>
 <td>第四年一月中旬剩兩次行動(不提西武林盟而頑抗到底)
     <br>或第四年二月中旬剩兩次行動(西武林盟成立失敗)</td>
-<td>唐門圍攻戰(滅門線)</td>
+<td><MarkdownWrapper>[唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper></td>
 <td>龍湘可加入終戰。
-    <br>終戰獲勝後可進入龍湘結局「雞腿大亨」。</td>
+    <br>終戰獲勝後可進入汗青書<MarkdownWrapper>[《雞腿大亨》](/event/ends/end-44)</MarkdownWrapper>。</td>
 <td>若與多人結緣，滅門線結局結緣優先度(v1.0.3201.1)：
     <br><Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon></td>
 </tr>
 <tr>
 <td>4</td>
 <td>第四年二月中旬剩兩次行動</td>
-<td>唐門圍攻戰(西武林線)</td>
+<td><MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
 <td>對話差分。</td>
 <td></td>
 </tr>
@@ -118,7 +118,7 @@ tags:
 <td>第四年三月上旬</td>
 <td>武林盟主對決(西武林線)</td>
 <td>劇情有龍湘陪同。
-    <br>結局畫面與龍湘相伴，達成風雲史《忘憂俠侶》。</td>
+    <br>結局畫面與龍湘相伴，達成<MarkdownWrapper>[風雲史《忘憂俠侶》](/event/achievements/#風雲史-No.14)</MarkdownWrapper>。</td>
 <td></td>
 </tr>
 </table>
