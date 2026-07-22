@@ -1,10 +1,10 @@
 ---
 title: 龍湘結緣攻略
 description: 龍湘結緣攻略
-aside: true
+aside: false
 outline: [2, 3]
-sidebar: true
-borderless: false
+sidebar: false
+borderless: true
 tags:
     - 結婚
     - 成親
