@@ -4,13 +4,14 @@ description: 龍湘結緣攻略
 aside: false
 outline: [2, 3]
 sidebar: false
-borderless: true
+borderless: false
 tags:
     - 結婚
     - 成親
     - 龍湘
 ---
 # 龍湘結緣攻略
+<img src="/images/characters/girl_8/dress_shy2.webp" style="width:300px;" />
 
 ## 結緣必要條件
 <table>
