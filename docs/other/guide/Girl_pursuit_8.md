@@ -27,7 +27,8 @@ tags:
 <td>留宿錦香宮</td>
 <td><Girl8Icon>龍湘</Girl8Icon>好感度40以上，觸發夜遊談心事件，傾聽她的煩惱。</td>
 <td>好感度刷法: 
-    <br>1. 在唐門時可刷外堡的龍湘聽講事件，需先觸發初識福韞及龍湘遭竊事件。
+    <br>1. 在唐門時可刷外堡的龍湘聽講事件，需先觸發<MarkdownWrapper>[初識福韞](docs/event/simple/1-09-2-初識福韞)</MarkdownWrapper>
+    及<MarkdownWrapper>[龍湘遭竊](docs/event/simple/1-09-2-龍湘遭竊)</MarkdownWrapper>事件。
     <br>2. 在錦香宮時可以刷華音閣。</td>
 </tr>
 <tr>
@@ -65,7 +66,8 @@ tags:
 <td>龍湘飛鴿傳書</td>
 <td>需滿足條件3、4才能觸發。
 <br>完成此事件，獲得道具【龍湘的髮簪】後，即完成結緣。</td>
-<td></td>
+<td>若第二年走不留學-客棧線，則此處有龍淵劇情差分📜議題「守信用」。
+    <br>若龍淵好感8以上，可得秘笈《龍淵七絕》。</td>
 </tr>
 </table>
 
