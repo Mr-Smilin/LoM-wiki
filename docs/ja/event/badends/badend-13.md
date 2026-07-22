@@ -1,6 +1,6 @@
 ---
 title: 生死簿13：強盗殺人 (謀財害命)
-description: 生死簿13：強盗殺人
+description: 生死簿13：強盗殺人 (謀財害命)
 aside: true
 outline: [2, 3]
 sidebar: true

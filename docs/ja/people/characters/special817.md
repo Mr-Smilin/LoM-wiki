@@ -1,5 +1,5 @@
 ---
-title: 趙擴 (ちょうかく)
+title: 趙擴 (チョウカク)
 aside: false
 outline: [2, 3]
 sidebar: false

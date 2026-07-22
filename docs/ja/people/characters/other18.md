@@ -1,5 +1,5 @@
 ---
-title: 明玉 (メイギョク)
+title: 明玉
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -71,4 +71,4 @@ tags:
 -   臨終の際、[溫夫人](/ja/people/characters/special402)を宮主ではなく「お嬢様」と呼んだ。
 -   錦香閣の初期メンバー11人の一人。[^1]
 
-[^1]: PTT C 洽－[\[活俠\]龍湘と奇妙な雑学 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘と奇妙な雑学 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)

@@ -5,7 +5,7 @@ layout: home
 hero:
     name: "活俠傳Wiki"
     text: "Legend of Mortal Wiki"
-    tagline: 義に背かず、初心を忘れず
+    tagline: 義に悖らず、初心を忘れず
     image:
         src: /images/index/logo.webp
         alt: LoM-wiki

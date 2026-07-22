@@ -1,5 +1,5 @@
 ---
-title: 覺醒 (カクセイ)
+title: 覺醒
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -42,6 +42,6 @@ tags:
 
 [嵩山派](/ja/people/factions/mount-song-sect)の長老。嵩山般若院を司る。
 
-[福韞](/ja/people/characters/special206)から[趙活](/ja/people/characters/player)のことを聞き、武林大会の道中、わざわざ彼を見に来た。江湖が太平なら、嵩山に来て法を学ばないか?承諾後、[那由它劫指](/ja/system/books/book_4005)を伝授した。既に会ったので、心願は叶い、独りで寺に帰り、経を誦し、天下太平を祈った。しかし老和尚は円寂するまで、趙活の来訪を待つことはできなかった。
+[福韞](/ja/people/characters/special206)から[趙活](/ja/people/characters/player)のことを聞き、武林大会の道中、わざわざ彼を見に来た。江湖が太平なら、嵩山に来て法を学ばないか?承諾後、[那由它劫指](/ja/system/books/book_4005)を伝授した。既に会ったので、心願も叶い、独りで寺に帰り、経を誦し、天下太平を祈った。しかし老和尚は円寂するまで、趙活の来訪を待つことはできなかった。
 
-[無相祖師](/ja/people/characters/special212_2)の無念僧に暗に易容され、[釋明](/ja/people/characters/special826)の心の魔を深めた。本尊はなお活きており、知らない様子。
+[無相祖師](/ja/people/characters/special212_2)の無念僧に暗に易容され、[釋明](/ja/people/characters/special826)の心の魔障を深めた。本尊はなお活きており、知らない様子。

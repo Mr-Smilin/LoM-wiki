@@ -13,7 +13,7 @@ aside: false
 		<ChMeet 
 			src='/images/characters/girl_2/special2.webp' 
 			nameMain='葉雲啾'
-			desc='葉家の二番目。点蒼派第一の変わった手。葉雲裳が悪事を働いた後に、責任を押し付けるために使われる二番目の身分である。'
+			desc='葉家の次男。点蒼派第一の怪異な技法。葉雲裳が悪事を働いた後に、責任を転嫁するために用いられる第二の身分である。'
 			:animation=true
 		/>
 	</ChTab>
@@ -76,7 +76,7 @@ aside: false
 
 > 「我こそは葉雲舟の弟にして葉雲裳の兄、葉家の次男、点蒼一の怪賤手、葉雲啾だ！」
 
-葉家三兄妹の二番目の兄。点蒼派の緑の衣を身にまとっている。背丈は低い。[小師妹](/ja/people/characters/girl0.md)の婚宴の上で。[南宮深](/ja/people/characters/special102)・[解無塵](/ja/people/characters/special808)二人の高手が登場して勝敗を決める際に。剣を引き抜いて乱入し。言い張って[唐門](/ja/people/factions/tang-men)の婿となりたいと欲する。
+葉家三兄妹の次男。点蒼派の緑の衣を身にまとっている。背丈は低い。[小師妹](/ja/people/characters/girl0.md)の婚宴で、[南宮深](/ja/people/characters/special102)・[解無塵](/ja/people/characters/special808)二人の高手が場に出て勝敗を決する際に、剣を抜いて乱入し、[唐門](/ja/people/factions/tang-men)の婿になろうと声高に主張する。
 
 <br><br>
 
@@ -84,4 +84,4 @@ aside: false
 
 <br>
 
-後日、かつて同じ姿で[葉雲舟](/ja/people/characters/special3)に会う約束をする。彼は一時、見分けることができない。兄親であるのに失敗である。
+後日、同じ姿で[葉雲舟](/ja/people/characters/special3)と会う約束をする。彼は当初見分けることができない。兄のくせに相当失敗している。

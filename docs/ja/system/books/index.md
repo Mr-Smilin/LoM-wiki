@@ -72,7 +72,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2006`">孔夫子劍</BookItemIcon></td>
-        <td>刀剣10<br>儒学LV1<br>君子風<br>修養+10<br>性情中寄り<br>処世中寄り</td>
+        <td>刀剣10<br>儒学LV1<br>君子風<br>品性+10<br>性情中寄り<br>処世中寄り</td>
         <td>80</td>
         <td>儒学LV1</td>
         <td>二年崆峒派留学－玄功門の季試で勝利 (魏菊好感2★未満)<br>二年崆峒派留学－玄功門－季試で2勝し、報酬で「武功秘笈」を選択</td>
@@ -144,7 +144,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2401`">全真天遁劍法</BookItemIcon></td>
-        <td>内功15<br>刀剣10<br>三教合一LV5<br>修養+10</td>
+        <td>内功15<br>刀剣10<br>三教合一LV5<br>品性+10</td>
         <td>80</td>
         <td>仏学LV1<br>または<br>儒学LV1<br>または<br>道学LV2</td>
         <td>四師兄の遠出時に仙丹探しを頼み、帰還後に弟子房で雑談し【以前頼んだ件】を選択、<br>唐惟元≥50で、二千金を払って取得</td>
@@ -152,7 +152,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`6010`">千刀萬剮殺</BookItemIcon></td>
-        <td>刀剣+10<br>拳掌-5<br>道徳-5<br>修養-5</td>
+        <td>刀剣+10<br>拳掌-5<br>道徳-5<br>品性-5</td>
         <td>25</td>
         <td></td>
         <td>三年夏侯蘭ルート－第三香を放し、秘笈をダイスで入手</td>
@@ -272,7 +272,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`4009`">清峰三十六路</BookItemIcon></td>
-        <td>軽功8<br>道学LV1<br>修養+5</td>
+        <td>軽功8<br>道学LV1<br>品性+5</td>
         <td>50</td>
         <td>心相>=50</td>
         <td>青城留学で功勲を6つ累積し、鄒博の帰還後、上清宮で嘉勉イベントを発生させる。</td>
@@ -280,7 +280,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`4020`">逍遙遊腿法</BookItemIcon></td>
-        <td>軽功10<br>体力5<br>学問3<br>疾如風<br>修養+3</td>
+        <td>軽功10<br>体力5<br>学問3<br>疾如風<br>品性+3</td>
         <td>50</td>
         <td>学問10</td>
         <td>一年弟子房 (憂鬱)－大師兄と一緒に小師妹をからかう<br>二年一月上旬－四師兄から購入 ($1800)<br>二年十月中旬に販売終了<br>二年崆峒派留学－無色廣場の街歩き、四師兄から購入</td>
@@ -291,7 +291,7 @@ tags:
         <td>拳掌5</td>
         <td>25</td>
         <td></td>
-        <td>一年四月上旬－四師兄から購入 ($800)<br>二年三月上旬に販売終了<br>李富貴の好感度贈答<br>南宮の寿賀の際、辛儒の所でアルバイト中に乞食との戦いに勝利</td>
+        <td>一年四月上旬－四師兄から購入 ($800)<br>二年三月上旬に販売終了<br>李富貴の好感度贈答<br>南宮の寿宴の際、辛儒の所でアルバイト中に乞食との戦いに勝利</td>
         <td>800</td>
     </tr>
     <tr>
@@ -485,7 +485,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7011`">玄燭心經</BookItemIcon></td>
-        <td>内功10<br>性情中寄り<br>処世中寄り<br>道徳中寄り<br>修養中寄り</td>
+        <td>内功10<br>性情中寄り<br>処世中寄り<br>道徳中寄り<br>品性中寄り</td>
         <td>50</td>
         <td></td>
         <td>現在入手不可 (ver 1.0.5000.5)</td>
@@ -493,7 +493,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7012`">南宮心法</BookItemIcon></td>
-        <td>内功10<br>体力10<br>南宮護心訣3<br>不動如山<br>修養+10</td>
+        <td>内功10<br>体力10<br>南宮護心訣3<br>不動如山<br>品性+10</td>
         <td>50</td>
         <td></td>
         <td>囲城イベント－南宮遠が贈る (金を受け取らず手合わせ、血量40%~80%)<br>二年十月中旬－四師兄から購入 ($2500)<br>三年四月中旬に販売終了</td>
@@ -519,7 +519,7 @@ tags:
         <td><BookItemIcon :no="`7015`">無為丹法</BookItemIcon></td>
         <td>内功16<br>煉神還虛LV1<br>煉精化氣LV5</td>
         <td>80</td>
-        <td>修養40<br>道学LV1</td>
+        <td>品性40<br>道学LV1</td>
         <td>青城留学で申屠龍に初めて会った時に入手</td>
         <td></td>
     </tr>
@@ -564,7 +564,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`1000`">唐門暗器總綱</BookItemIcon></td>
-        <td>軽功7<br>弁舌7<br>暗器5<br>額外暗器</td>
+        <td>軽功7<br>弁舌7<br>暗器5<br>追加暗器</td>
         <td>50</td>
         <td>学問10 (LV6)</td>
         <td>初期所持</td>
@@ -609,7 +609,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`4030`">八荒奪路逃</BookItemIcon></td>
-        <td>軽功15<br>性情-5<br>修養-5<br>道徳-5</td>
+        <td>軽功15<br>性情-5<br>品性-5<br>道徳-5</td>
         <td>25</td>
         <td></td>
         <td>一年四月上旬－四師兄から購入 ($900)<br>二年三月上旬に販売終了</td>
@@ -641,7 +641,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8004`">十八種奇兵鍛法雜記</BookItemIcon></td>
-        <td>体力10<br>修養-5<br>処世+5<br>鍛造ポイント50</td>
+        <td>体力10<br>品性-5<br>処世+5<br>鍛造ポイント50</td>
         <td>50</td>
         <td></td>
         <td>二年崆峒派留学－鐵拳門入門時に贈られる</td>
@@ -673,15 +673,15 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8008`">南宮風流扇</BookItemIcon></td>
-        <td>拳掌5<br>暗器3<br>防御5<br>修養+5</td>
+        <td>拳掌5<br>暗器3<br>防御5<br>品性+5</td>
         <td>25</td>
-        <td>修養&gt;=60</td>
+        <td>品性&gt;=60</td>
         <td>鶏捕まえイベント－全真弟子に勝利して入手 (鶏を焼かない)<br>二年崆峒派留学－無色廣場の街歩き、四師兄から購入 ($800)<br>二年三月上旬－四師兄から購入<br>二年十月中旬に販売終了<br>囲城イベント－南宮遠が贈る (金を受け取らず手合わせ、こちらの血量≤40%)</td>
         <td>800</td>
     </tr>
     <tr>
         <td><BookItemIcon :no="`8009`">崆峒玄兵鍛法</BookItemIcon></td>
-        <td>学問6<br>鍛造ポイント150<br>修養-10<br>処世+10</td>
+        <td>学問6<br>鍛造ポイント150<br>品性-10<br>処世+10</td>
         <td>50</td>
         <td>学問40</td>
         <td>二年崆峒派留学－鐵拳門季試2勝の報酬</td>
@@ -705,9 +705,9 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8013`">當世詞選</BookItemIcon></td>
-        <td>学問6<br>修養+5<br>処世中寄り</td>
+        <td>学問6<br>品性+5<br>処世中寄り</td>
         <td>25</td>
-        <td>学問25<br>または<br>修養40</td>
+        <td>学問25<br>または<br>品性40</td>
         <td>青城留学、常風觀での最初の行動で入手</td>
         <td></td>
     </tr>
@@ -745,7 +745,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8105`">宋詞選集</BookItemIcon></td>
-        <td>学問10<br>修養+5<br>処世-2</td>
+        <td>学問10<br>品性+5<br>処世-2</td>
         <td>25</td>
         <td>学問10</td>
         <td>二年崆峒派留学－玄功門季試<MarkdownWrapper>第三戦で[上官螢](/ja/people/characters/girl4)に敗北</MarkdownWrapper>、または他の相手に勝利</td>
@@ -777,7 +777,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8109`">九轉殘篇</BookItemIcon></td>
-        <td>内功15<br>寂滅三摩地<br>修養+10<br>性情+10</td>
+        <td>内功15<br>寂滅三摩地<br>品性+10<br>性情+10</td>
         <td>100</td>
         <td>仏学LV2<br>心相>=60</td>
         <td>以下のすべての条件を満たすと、三年一月上旬に唐芳から贈られる：<br>
@@ -796,6 +796,6 @@ tags:
 -   武芸者が皆筋骨隆々というわけではなく、筋肉がつくと速度が落ちると考える流派もあれば、均衡のとれた発達を重視する流派も多くあります。[^3]
 -   武功が高ければ喧嘩に必ず勝てるというわけではなく、たとえ最強の[趙活](/ja/people/characters/player)でも、不意を突かれて[小梅](/ja/people/characters/girl3)に階段から突き落とされる可能性はあります。[^3]
 
-[^1]: 巴哈姆特－[【情報】龍湘のサイズについての答えと鳥熊への私たちの会話メッセージ](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
+[^1]: 巴哈姆特－[【情報】龍湘のサイズについての答えと鳥熊との非公開メッセージ](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
 [^2]: PTT C 洽－[\[活俠\] 龍湘+綜合小知識數則](https://www.ptt.cc/bbs/C_Chat/M.1728840738.A.3D7.html)
 [^3]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)

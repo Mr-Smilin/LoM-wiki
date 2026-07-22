@@ -1,5 +1,5 @@
 ---
-title: 鞠冬音 (キクトウイン)
+title: 鞠冬音
 aside: false
 outline: [2, 3]
 sidebar: false

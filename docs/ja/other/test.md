@@ -1,6 +1,6 @@
 ---
 title: テストページ
-description: 特定の文法教学を表示
+description: 特定の文法の使い方を説明
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -27,8 +27,8 @@ tags:
         <td>1<span style='color: red;'>23</span></td>
         <td style='text-align: center'>123</td>
         <td><details><summary>クリックして展開~</summary>123</details></td>
-        <td><MarkdownWrapper>龍湘</MarkdownWrapper></td>
-        <td><MarkdownWrapper>龍湘</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[龍湘](/ja/people/characters/girl8)</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[[龍湘]]</MarkdownWrapper></td>
     </tr>
 </table>
 
@@ -54,8 +54,8 @@ tags:
                 123
             </details>
         </td>
-        <td><MarkdownWrapper>龍湘</MarkdownWrapper></td>
-        <td><MarkdownWrapper>龍湘</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[龍湘](/ja/people/characters/girl8)</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[[龍湘]]</MarkdownWrapper></td>
     </tr>
 </table>
 ```
@@ -78,8 +78,8 @@ tags:
         <td>1<span style='color: red;'>23</span></td>
         <td style='text-align: center'>123</td>
         <td><details><summary>クリックして展開~</summary>123</details></td>
-        <td>龍湘</td>
-        <td>龍湘</td>
+        <td>[龍湘](/ja/people/characters/girl8)</td>
+        <td>[[龍湘]]</td>
     </tr>
 </BTable>
 
@@ -105,8 +105,8 @@ tags:
                 123
             </details>
         </td>
-        <td>龍湘</td>
-        <td>龍湘</td>
+        <td>[龍湘](/ja/people/characters/girl8)</td>
+        <td>[[龍湘]]</td>
     </tr>
 </BTable>
 ```
@@ -176,18 +176,18 @@ tags:
 
 ## wikiLink
 
-テストページ  
-やっぱりテストページ  
-やっぱりテストページだけどアンカーを指定しました  
-やっぱりテストページですが~~Markdown構文~~と<span style='color: red;'>HTML構文</span>があります
+[[テストページ]]  
+[[テストページ|やっぱりテストページ]]  
+[[テストページ#vitepressのネイティブ折りたたみコンポーネント|やっぱりテストページだけどアンカーを指定しました]]  
+[[テストページ|やっぱりテストページですが~~Markdown構文~~と<span style='color: red;'>HTML構文</span>があります]]
 
 ::: details ソースコード
 
 ```markdown
-テストページ  
-やっぱりテストページ  
-やっぱりテストページだけどアンカーを指定しました  
-やっぱりテストページですが~~Markdown構文~~と<span style='color: red;'>HTML構文</span>があります
+[[テストページ]]  
+[[テストページ|やっぱりテストページ]]  
+[[テストページ#vitepressのネイティブ折りたたみコンポーネント|やっぱりテストページだけどアンカーを指定しました]]  
+[[テストページ|やっぱりテストページですが~~Markdown構文~~と<span style='color: red;'>HTML構文</span>があります]]
 ```
 
 :::

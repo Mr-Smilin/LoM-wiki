@@ -1,5 +1,5 @@
 ---
-title: 余麟 (ヨリン)
+title: 余麟
 aside: false
 outline: [2, 3]
 sidebar: false

@@ -657,6 +657,7 @@ const baseConfig = {
 							{ text: "道具一覧", link: "/ja/system/items" },
 							{ text: "養成コマンド", link: "/ja/system/training" },
 							{ text: "サウンドトラック", link: "/ja/system/soundtrack" },
+							{ text: "唐門月例会議", link: "/ja/system/meeting" },
 						],
 						activeMatch: "/ja/system/",
 					},
@@ -687,6 +688,8 @@ const baseConfig = {
 							},
 							{ text: "鳥熊 Q&A 集", link: "/ja/other/qna/" },
 							{ text: "用語対訳表", link: "/ja/glossary" },
+							{ text: "呼称表", link: "/ja/address-terms" },
+							{ text: "一人称表", link: "/ja/first-person-pronouns" },
 							{
 								text: "解析データ",
 								items: [
@@ -757,6 +760,10 @@ const baseConfig = {
 										text: "キャラクターページテンプレート",
 										link: "/ja/develop/clean-character-template.md",
 									},
+									{
+										text: "イベントページテンプレート",
+										link: "/ja/develop/clean-event-template.md",
+									},
 								],
 							},
 						],
@@ -811,6 +818,10 @@ const baseConfig = {
 										{
 											text: "キャラクターページテンプレート",
 											link: "/ja/develop/clean-character-template.md",
+										},
+										{
+											text: "イベントページテンプレート",
+											link: "/ja/develop/clean-event-template.md",
 										},
 									],
 								},

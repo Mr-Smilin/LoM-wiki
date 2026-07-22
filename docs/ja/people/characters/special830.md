@@ -1,5 +1,5 @@
 ---
-title: 梁有詩 (リョウユウシ)
+title: 梁有詩
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -69,7 +69,7 @@ tags:
 -   [唐芳](/ja/people/characters/special832)いわく、毒と薬では[唐門](/ja/people/factions/tang-men)がやや勝るが、針にかけては天下広しといえども梁家の《無常針》が第一。[葉雲裳](/ja/people/characters/girl2)の病を癒せるのは、[二師兄](/ja/people/characters/brother2)を除けば、起死回生の手段を持つ彼女だけである。
 -   「灰有常」という外号は、どうやら江陵で[葉雲舟](/ja/people/characters/special3)と会った時にとっさに思いついたものらしい。
 -   ~~我こそは葉雲舟、梁有詩の美貌に目がくらみ、その才を慕い、妻に娶りたい！~~
--   実のところ[葉雲裳](/ja/people/characters/girl2)は兄が彼女に気がないことを見抜いているが、それでも二人をくっつけようという肚づもりでいる。
+-   実のところ[葉雲裳](/ja/people/characters/girl2)は兄が彼女に気がないことを見抜いているが、それでも二人をくっつけようつもりでいる。
 -   お尻の大きさは普通。[^1]
 -   インドア派で身なりを整えるのが苦手なため、髪が片目にかかっている。[^2]
 
