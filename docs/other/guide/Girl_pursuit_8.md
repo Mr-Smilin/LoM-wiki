@@ -119,8 +119,9 @@ tags:
 <td>5</td>
 <td>第四年三月上旬</td>
 <td>武林盟主對決(西武林線)</td>
-<td>•劇情有龍湘陪同。
-    <br>•結局畫面與龍湘相伴，達成<MarkdownWrapper>[風雲史《忘憂俠侶》](/event/achievements/#風雲史-No.14)</MarkdownWrapper>。</td>
+<td>• 劇情有龍湘陪同。
+    <br>• 結局畫面與龍湘相伴。
+    <br>• 戰勝可達成<MarkdownWrapper>[風雲史《忘憂俠侶》](/event/achievements/#風雲史-No.14)</MarkdownWrapper>。</td>
 <td></td>
 </tr>
 </table>
