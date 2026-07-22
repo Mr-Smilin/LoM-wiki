@@ -11,7 +11,7 @@ tags:
     - 龍湘
 ---
 # 龍湘結緣攻略
-<img src="/images/characters/girl_8/dress_shy2.webp" style="width:300px;" />
+<img src="/images/characters/girl_8/dress_shy2.webp" style="width:300px" position='middle'/>
 
 ## 結緣必要條件
 <table>
