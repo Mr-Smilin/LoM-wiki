@@ -59,7 +59,7 @@ tags:
 <td>第三年十二月上旬，剩一次行動時</td>
 <td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
 <td>不可以選擇遣散唐門。</td>
-<td></td>
+<td>若遣散唐門，在後山可以觸發龍湘三年之約事件，但無法結緣。</td>
 </tr>
 <tr>
 <td>5</td>
@@ -69,7 +69,8 @@ tags:
 <td>• 需滿足條件3、4才能觸發。
     <br>• 完成此事件，獲得道具【龍湘的髮簪】後，即完成結緣。</td>
 <td>• 若第二年走不留學-客棧線，由於經歷了<MarkdownWrapper>[巧遇龍淵](/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>事件，此處有龍淵劇情差分及新增📜議題「守信用」。
-    <br>• 若龍淵好感8以上，可得秘笈<MarkdownWrapper>[《龍淵七絕》](/system/books/book_7013)</MarkdownWrapper>。</td>
+    <br>• 若龍淵好感8以上，可得秘笈<MarkdownWrapper>[《龍淵七絕》](/system/books/book_7013)</MarkdownWrapper>。
+    <br>• 無論戰鬥輸贏都能與龍湘結緣，但若戰鬥輸給龍湘會無法與龍淵對話。</td>
 </tr>
 </table>
 
