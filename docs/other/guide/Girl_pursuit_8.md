@@ -10,6 +10,7 @@ tags:
     - 成親
     - 龍湘
 ---
+# <Girl8Icon>龍湘</Girl8Icon>結緣攻略
 
 ## 結緣必要條件
 <table>
