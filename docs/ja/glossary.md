@@ -5,6 +5,7 @@ title: 用語対訳表
 # 用語対訳表 (繁體中文 / 日本語 / English)
 
 本ページは活俠傳 (カッキョウデン / Legend of Mortal) 日本語版 wiki の訳語基準表です。
+語の意味そのもの (概念解説) は [用語解説](/ja/other/terminology) を参照してください。
 ※「カッキョウデン」は開発元 Obb Studio 公認の日本語読みです。
 
 - **訳語の優先順位**: ① 日本語化 MOD ([LOM-JPMOD](https://dlaqe2334.github.io/LOM-JPMOD/) / [GitHub](https://github.com/Dlaqe2334/LOM-JPMOD)) の既存訳 → ② 日本の武侠翻訳慣行に沿った訳語。ただし本 wiki の本業は**中国語 wiki 情報の日本語訳**であり、MOD 訳文の再現自体が目的ではありません。MOD 訳は「用語を統一するための参考」という位置づけで、①はあくまで参考が取れた場合の優先順位に過ぎません

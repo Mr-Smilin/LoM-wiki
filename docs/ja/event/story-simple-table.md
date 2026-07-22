@@ -90,7 +90,7 @@ tags:
 				<MarkdownWrapper>
 				[武穆王の宝蔵談義 (談論武穆王寶藏)](/ja/event/simple/1-08-1-談論武穆王寶藏)<br>
 				[葉氏の行方をめぐる騒動 (葉氏行蹤風波)](/ja/event/simple/1-08-1-葉氏行蹤風波)<br>
-				[葉雲裳衝撃](/ja/event/simple/1-08-1-葉雲裳衝擊)<br>
+				[葉雲裳の体当たり (葉雲裳衝擊)](/ja/event/simple/1-08-1-葉雲裳衝擊)<br>
 				[唐門の財務改善 (唐門財務改善)](/ja/event/simple/1-08-1-唐門財務改善)<br>
 				</MarkdownWrapper>
 			</td>
@@ -112,6 +112,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[龍湘との出会い (初識龍湘)](/ja/event/simple/1-09-1-初識龍湘)<br>
+				[唐芳師姉の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)(最早1年8月下旬・最遅2年3月上旬、進行により変動)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -192,7 +193,13 @@ tags:
 				[留学について (留學討論)](/ja/event/simple/2-02-1-留學討論)<br>
 				</MarkdownWrapper>
 			</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[紙札遊戯の対決](/ja/event/simple/2-02-3-紙札遊戯)<br>
+				[葉雲裳の診察とお出かけ](/ja/event/simple/2-02-4-お出かけ)<br>
+				(2件とも発生時期は変動あり。最早1年8〜9月から抽選・詳細は各ページの発動条件を参照)<br>
+				</MarkdownWrapper>
+			</td>
 			<td>-</td>
 		</tr>
 		<tr>
@@ -447,11 +454,7 @@ tags:
 			<td>
 				<li>唐門例会</li>
 			</td>
-			<td>
-				<MarkdownWrapper>
-				[唐芳師姉の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)<br>
-				</MarkdownWrapper>
-			</td>
+			<td>-</td>
 			<td>-</td>
 		</tr>
 		<tr>
