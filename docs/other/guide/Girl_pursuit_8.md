@@ -57,13 +57,13 @@ tags:
 <td>4</td>
 <td>第三年十二月上旬，剩一次行動時</td>
 <td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
-<td>不可以選擇退隱江湖。</td>
+<td>不可以選擇遣散唐門。</td>
 <td></td>
 </tr>
 <tr>
 <td>5</td>
-<td>• 第三年十二月下旬(不提西武林盟而頑抗到底)
-    <br>• 或第四年一月下旬(西武林線)</td>
+<td>• 第三年十二月下旬(不成立西武林盟而頑抗到底)
+    <br>• 或第四年一月下旬(成立西武林盟)</td>
 <td>龍湘飛鴿傳書</td>
 <td>完成此事件，獲得道具【龍湘的髮簪】後，即完成結緣。</td>
 <td>• 若第二年走不留學-客棧線，由於經歷了<MarkdownWrapper>[巧遇龍淵](/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>事件，此處有龍淵劇情差分及新增📜議題「守信用」。
@@ -90,16 +90,16 @@ tags:
 </tr>
 <tr>
 <td>2</td>
-<td>• 第四年一月中旬(不提西武林盟而頑抗到底)
-    <br>• 或第四年二月中旬(西武林線)</td>
+<td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
+    <br>• 或第四年二月中旬(成立西武林盟)</td>
 <td>後山陪伴</td>
 <td>至後山可觸發與龍湘約會劇情。</td>
 <td></td>
 </tr>
 <tr>
 <td>3</td>
-<td>• 第四年一月中旬剩兩次行動(不提西武林盟而頑抗到底)
-    <br>• 或第四年二月中旬剩兩次行動(西武林盟成立失敗)</td>
+<td>• 第四年一月中旬剩兩次行動(不成立西武林盟而頑抗到底)
+    <br>• 或第四年二月中旬剩兩次行動(成立西武林盟失敗而頑抗到底)</td>
 <td><MarkdownWrapper>[唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper></td>
 <td>• 龍湘可加入終戰。
     <br>• 終戰獲勝後可進入汗青書<MarkdownWrapper>[《雞腿大亨》](/event/ends/end-44)</MarkdownWrapper>。</td>
@@ -111,7 +111,7 @@ tags:
 <td>第四年二月中旬剩兩次行動</td>
 <td><MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
 <td>對話差分。</td>
-<td></td>
+<td>只要滿足必要條件2，龍湘就會參加這段劇情，不一定要結緣，結緣主要效果是對話差分。</td>
 </tr>
 <tr>
 <td>5</td>
