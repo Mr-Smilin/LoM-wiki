@@ -65,8 +65,7 @@ tags:
 <td>• 第三年十二月下旬(不提西武林盟而頑抗到底)
     <br>• 或第四年一月下旬(西武林線)</td>
 <td>龍湘飛鴿傳書</td>
-<td>5-1. 需滿足條件3、4才能觸發。
-    <br>5-2. 完成此事件，獲得道具【龍湘的髮簪】後，即完成結緣。</td>
+<td>完成此事件，獲得道具【龍湘的髮簪】後，即完成結緣。</td>
 <td>• 若第二年走不留學-客棧線，由於經歷了<MarkdownWrapper>[巧遇龍淵](/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>事件，此處有龍淵劇情差分及新增📜議題「守信用」。
     <br>• 若龍淵好感8以上，可得秘笈<MarkdownWrapper>[《龍淵七絕》](/system/books/book_7013)</MarkdownWrapper>。</td>
 </tr>
