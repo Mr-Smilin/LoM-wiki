@@ -62,7 +62,7 @@ tags:
 <td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
 <td>不可以選擇遣散唐門。</td>
 <td>• 若遣散唐門，且滿足條件2，進入後山會觸發:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 若有其他結緣者，心上人為<Girl8Icon>龍湘</Girl8Icon>，選擇📖「湘姊，你要不要跟我來呢?」，🗡️對決勝利後，選擇📖「我是不會放妳走的」，會進入<MarkdownWrapper>[汗青書24: 趕海人](/event/ends/end-24)</MarkdownWrapper>，無法結緣。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 若有其他結緣者，心上人為<Girl8Icon>龍湘</Girl8Icon>，選擇📖「湘姊，妳要不要跟我來呢?」，🗡️對決勝利後，選擇📖「我是不會放妳走的」，會進入<MarkdownWrapper>[汗青書24: 趕海人](/event/ends/end-24)</MarkdownWrapper>，無法結緣。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 其他情況，會觸發龍湘三年之約事件，無法結緣。</td>
 </tr>
 <tr>
