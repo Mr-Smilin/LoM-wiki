@@ -258,6 +258,9 @@ aside: false
 <br><br>
 由於是路痴，綁鈴鐺有一部分是防走丟。
 
+## 結緣過程
+請見<MarkdownWrapper>[〈唐默鈴結緣攻略〉](/other/guide/Girl_pursuit_0)</MarkdownWrapper>
+
 ## 結緣信物
 
 <SpecialItemIcon :size="`medium`" :needLink="false" :no="1000" />
