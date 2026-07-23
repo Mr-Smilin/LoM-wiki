@@ -32,7 +32,7 @@ tags:
 **流程：**<br>
 
 ### １、與夏侯蘭結緣
-請見<MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/event/pursuit/girl5)</MarkdownWrapper>
+請見[〈夏侯蘭結緣攻略〉](/event/pursuit/girl5)
 
 ### ２－１、頑抗到底路線
 1. 第三年十二月上旬最後一次行動前，[[眾人的決策]]進入頑抗到底劇情線．
