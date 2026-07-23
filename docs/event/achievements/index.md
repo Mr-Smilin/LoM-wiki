@@ -160,10 +160,7 @@ tags:
         <td id="風雲史-No.12">12</td>
         <td><AchievementIcon :size="`medium`" :no="`12`">雪山派大弟子</AchievementIcon></td>
         <td>兼，<Girl5Icon>掌門</Girl5Icon>伴侶。</td>
-        <td>
-            第二年好感度四星以上(建議五星)<br>
-            抵抗<Girl5Icon>夏侯蘭</Girl5Icon>傳功後，<br>
-            武林傳奇通關時保持心上人為<Girl5Icon>夏侯蘭</Girl5Icon>。
+        <td>武林傳奇通關時與<Girl5Icon>夏侯蘭</Girl5Icon>結緣。
         </td>
         <td></td>
         <td></td>
@@ -172,9 +169,7 @@ tags:
         <td id="風雲史-No.13">13</td>
         <td><AchievementIcon :size="`medium`" :no="`13`">唐門女婿</AchievementIcon></td>
         <td>千防萬防，家賊難防，想不到是你！</td>
-        <td>
-            第二年好感度四星以上(建議五星)<br>
-            武林傳奇通關時保持心上人為<Girl0Icon>小師妹</Girl0Icon>。
+        <td>武林傳奇通關時與<Girl0Icon>小師妹</Girl0Icon>結緣。
         </td>
         <td></td>
         <td>~~教你監守自盜、監守自盜~~</td>
@@ -183,10 +178,7 @@ tags:
         <td id="風雲史-No.14">14</td>
         <td><AchievementIcon :size="`medium`" :no="`14`">忘憂俠侶</AchievementIcon></td>
         <td>走遍四方，行俠仗義，<Girl8Icon>她</Girl8Icon>愛煞了你的英雄氣概。</td>
-        <td>
-            第二年好感度四星以上(建議五星)<br>
-            觸發飛鴿傳書事件後，<br>
-            武林傳奇通關時保持心上人為<Girl8Icon>龍湘</Girl8Icon>。
+        <td>武林傳奇通關時與<Girl8Icon>龍湘</Girl8Icon>結緣，步驟請見<MarkdownWrapper>[〈龍湘結緣攻略〉](/other/guide/Girl_pursuit_8)</MarkdownWrapper>。
         </td>
         <td></td>
         <td>~~說好了你要為我殺盡天下的雞，餐餐有雞腿~~</td>
@@ -222,8 +214,7 @@ tags:
         <td id="風雲史-No.18">18</td>
         <td><AchievementIcon :size="`medium`" :no="`18`">魔王的爪牙</AchievementIcon></td>
         <td>你是她的心腹，她是你心肝。</td>
-        <td>第二年好感度四星以上(建議五星, 待確認)<br>
-            武林傳奇通關時保持心上人為<Girl2Icon>葉雲裳</Girl2Icon>。</td>
+        <td>武林傳奇通關時與<Girl2Icon>葉雲裳</Girl2Icon>結緣。</td>
         <td></td>
         <td>v1.0.5000.0版本後新增</td>
     </tr>
