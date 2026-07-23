@@ -20,10 +20,10 @@ tags:
 
 <tr>
 <td>編號</td>
-<td :unsortable=true>時間</td>
-<td :unsortable=true>事件</td>
-<td :unsortable=true>內容</td>
-<td :unsortable=true>建議及備註</td>
+<td>時間</td>
+<td>事件</td>
+<td>內容</td>
+<td>建議及備註</td>
 </tr>
 
 <tr>
@@ -51,7 +51,7 @@ tags:
 <td>• 遭到偷襲時，觸發🎲天命並擲骰到【>50】「防禦成功」。
     <br>• 與峨嵋弟子第一戰必須勝利。
     <br>• 與峨嵋弟子第二戰必須落敗或平手(撐5回合)。
-    <br>• 與峨嵋弟子第三戰(勝負無關)後，選擇📖「師禮拜謝」。
+    <br>• 與峨嵋弟子第三戰(勝負無關)後，選擇📖「師禮拜謝」。</td>
 <td>• 完成此條件後即拜師<Girl5Icon>夏侯蘭</Girl5Icon>，解鎖奪魄森林修練，是增加好感的主要方式。
     <br>• 盡可能在留學結束前達到<Girl5Icon>夏侯蘭</Girl5Icon>好感40以上。
     <br>• 請注意練功支線事件中，若讓<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-練功分心)</MarkdownWrapper>，會影響後面部分劇情及結局演出，若初次走夏侯蘭線不建議讓樊拜師。
@@ -62,7 +62,7 @@ tags:
 <td>4</td>
 <td>第三年五月下旬</td>
 <td><MarkdownWrapper>[建造樹屋](/event/simple/3-05-3-建造樹屋)</MarkdownWrapper></td>
-<td><Girl5Icon>夏侯蘭</Girl5Icon>好感≧40，以觸發並完成此事件。
+<td><Girl5Icon>夏侯蘭</Girl5Icon>好感≧40，以觸發並完成此事件。</td>
 <td>事件中的選擇無關結緣。</td>
 </tr>
 
@@ -71,7 +71,7 @@ tags:
 <td>第三年六月上旬</td>
 <td><MarkdownWrapper>[雪山行](/event/simple/3-06-1-雪山行)</MarkdownWrapper></td>
 <td>• 滿足條件4後，在唐門月會中新增📜「雪山行」。
-    <br>• 選擇此選項，與夏侯蘭前往雪山。
+    <br>• 選擇此選項，與夏侯蘭前往雪山。</td>
 <td>若不選擇此選項，六月中旬會自動觸發夏侯蘭獨自前往雪山事件。
     <br>• 行前準備1: 若身上沒有酒，建議出發前購買任意酒。
     <br>• 行前準備2: 確保心上人為<Girl5Icon>夏侯蘭</Girl5Icon>。
@@ -88,7 +88,7 @@ tags:
     <br>• 若無<MarkdownWrapper>[命運收束之力](/event/achievements/#風雲史-No.16)</MarkdownWrapper>，至少需要夏侯蘭好感≧49才能成功一次。
     <br>• 抵抗成功後自動觸發劇情<MarkdownWrapper>[夏侯蘭的回憶](/event/simple/3-06-3-夏侯蘭的回憶)</MarkdownWrapper>。
     <br>• 回憶劇情後🗡️對決夏侯蘭，獲勝即進入結緣事件。
-    <br>• 事件結束獲得道具【夏侯蘭的髮帶】，即結緣成功。
+    <br>• 事件結束獲得道具【夏侯蘭的髮帶】，即結緣成功。</td>
 <td>若接受傳功或抵抗失敗，<Girl5Icon>夏侯蘭</Girl5Icon>逝世，獲得技能<MarkdownWrapper>[玄黃納心綱](/system/skill)</MarkdownWrapper>(劇情紀念，無作用)。
     <br>• 不同酒品有劇情差異，優先性為<MarkdownWrapper>[菊花酒](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>(放生第三香後🎲【≧60】「都沒有」) > <MarkdownWrapper>[猴兒酒](/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>(<MarkdownWrapper>[臥雲岡回程](/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>選擇猴兒酒) > 其他。
     <br>• 若🗡️對決夏侯蘭時落敗，進入<MarkdownWrapper>[生死簿74: 與花合葬](/event/badends/badend-74)</MarkdownWrapper></td>
