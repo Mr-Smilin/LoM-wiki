@@ -125,7 +125,7 @@ tags:
 
 <tr>
 <td>7</td>
-<td>• 第三年十二月中旬剩2行動點</td>
+<td>第三年十二月中旬剩2行動點</td>
 <td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper>-遣散唐門</td>
 <td>• 女弟子房劇情差分。
     <br>• <MarkdownWrapper>[退隱江湖](/event/ends/end-21)</MarkdownWrapper>結局演出為與小師妹陪伴版本。</td>
