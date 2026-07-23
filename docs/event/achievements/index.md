@@ -160,7 +160,7 @@ tags:
         <td id="風雲史-No.12">12</td>
         <td><AchievementIcon :size="`medium`" :no="`12`">雪山派大弟子</AchievementIcon></td>
         <td>兼，<Girl5Icon>掌門</Girl5Icon>伴侶。</td>
-        <td>武林傳奇通關時與<Girl5Icon>夏侯蘭</Girl5Icon>結緣。
+        <td>武林傳奇通關時與<Girl5Icon>夏侯蘭</Girl5Icon>結緣，步驟請見<MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/event/pursuit/girl5)</MarkdownWrapper>。
         </td>
         <td></td>
         <td></td>
