@@ -54,7 +54,8 @@ tags:
         <td>高挑窈窕</td>
         <td>文靜優雅</td>
         <td></td>
-        <td>撰寫中...</td>
+        <td>請見<MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/event/pursuit/girl5)</MarkdownWrapper>
+            <br>(⚠️劇透警告)</td>
     </tr>
     <tr>
         <td><Girl2Icon :size="`medium`">葉雲裳</Girl2Icon></td>
