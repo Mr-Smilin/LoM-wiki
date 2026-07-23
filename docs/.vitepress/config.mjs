@@ -37,7 +37,6 @@ const baseConfig = {
 				text: "人物",
 				items: [
 					{ text: "人物列表", link: "/people/characters/" },
-					{ text: "夢境心上人", link: "/people/dream-sweetheart" },
 					{ text: "稱號列表", link: "/people/title-list" },
 					{ text: "陣營列表", link: "/people/factions/" },
 					{ text: "江湖眾生相", link: "/people/mobs/" },
@@ -73,6 +72,7 @@ const baseConfig = {
 					{ text: "風雲史(成就)", link: "/event/achievements" },
 					{ text: "生死簿(驟死結局)", link: "/event/badends" },
 					{ text: "汗青書(結局)", link: "/event/ends" },
+					{ text: "夢境心上人", link: "/event/pursuit" },
 				],
 				activeMatch: "/event/",
 			},

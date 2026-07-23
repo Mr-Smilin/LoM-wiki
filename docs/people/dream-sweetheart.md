@@ -36,7 +36,7 @@ tags:
         <td>高挑窈窕</td>
         <td>坦率開朗</td>
         <td>有點呆</td>
-        <td>請見<MarkdownWrapper>[〈龍湘結緣攻略〉](/other/guide/pursuit/girl8)</MarkdownWrapper>
+        <td>請見<MarkdownWrapper>[〈龍湘結緣攻略〉](/other/event/pursuit/girl8)</MarkdownWrapper>
             <br>(⚠️劇透警告)</td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@ tags:
         <td>嬌小玲瓏</td>
         <td>恬靜溫馴</td>
         <td>無垢之心</td>
-        <td><MarkdownWrapper>請見[〈唐默鈴結緣攻略〉](/other/guide/pursuit/girl0)</MarkdownWrapper>
+        <td><MarkdownWrapper>請見[〈唐默鈴結緣攻略〉](/other/event/pursuit/girl0)</MarkdownWrapper>
             <br>(⚠️劇透警告)</td>
     </tr>
     <tr>

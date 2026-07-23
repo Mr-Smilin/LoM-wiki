@@ -11,6 +11,8 @@ tags:
 
 # {{ $frontmatter.title }}
 
+![圖片標題](/public/images/characters/player/gloomy2.webp)
+
 ## table
 
 <table>
