@@ -51,6 +51,7 @@ npm run dev
 │         │         ├── badends
 │         │         ├── ends
 │         │         └── stories
+│         │         └── pursuit
 │         ├── other
 │         │         ├── guide
 │         │         │         └── mechanism
@@ -117,6 +118,7 @@ npm run dev
 `./docs/event/badends` 生死簿資料。  
 `./docs/event/ends` 汗青書資料。  
 `./docs/event/stories` 軼事奇聞整理。  
+`./docs/event/pursuit` 結緣事件整理。
 `./docs/other/news` 存放官方更新資料。  
 `./docs/other/guide` 存放遊戲指南。  
 `./docs/other/guide/mechanism` 存放遊戲機制資料。
