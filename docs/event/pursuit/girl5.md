@@ -73,8 +73,8 @@ tags:
 <td>• 滿足條件4後，在唐門月會中新增📜「雪山行」。
     <br>• 選擇此選項，與<Girl5Icon>夏侯蘭</Girl5Icon>前往雪山。</td>
 <td>• 行前準備:
-    <br> &nbsp;&nbsp;1. 若身上沒有酒，建議出發前購買任意酒。
-    <br> &nbsp;&nbsp;2. 確保心上人為<Girl5Icon>夏侯蘭</Girl5Icon>。
+    <br> &nbsp;&nbsp;&nbsp;&nbsp;1. 若身上沒有酒，建議出發前購買任意酒。
+    <br> &nbsp;&nbsp;&nbsp;&nbsp;2. 確保心上人為<Girl5Icon>夏侯蘭</Girl5Icon>。
     <br>• 若不選擇此選項，六月中旬會自動觸發夏侯蘭獨自前往雪山事件。    
     <br>• 雪山行有許多生死簿事件可以收集。</td>
 </tr>
@@ -84,16 +84,16 @@ tags:
 <td>第三年七月中旬</td>
 <td><MarkdownWrapper>[雪山之約](/event/simple/3-07-2-雪山之約)</MarkdownWrapper></td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>傳功時，三次機會都要選擇📖抵抗，並且四次🎲天命至少有一次擲骰到【=99】「抵抗」成功:
-    <br>&nbsp;&nbsp;1. 第二次選擇📖「抵抗」需要身上有酒。
-    <br>&nbsp;&nbsp;2. 第三次選擇📖「抵抗」需要心上人為夏侯蘭。
-    <br>&nbsp;&nbsp;3. 若無<MarkdownWrapper>[命運收束之力](/event/achievements/#風雲史-No.16)</MarkdownWrapper>，至少需要夏侯蘭好感≧49才能成功一次。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 第二次選擇📖「抵抗」需要身上有酒。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 第三次選擇📖「抵抗」需要心上人為夏侯蘭。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 若無<MarkdownWrapper>[命運收束之力](/event/achievements/#風雲史-No.16)</MarkdownWrapper>，至少需要夏侯蘭好感≧49才能成功一次。
     <br>• 抵抗成功後觸發夏侯蘭彌留劇情，接著🗡️對決夏侯蘭，獲勝即進入結緣事件。
     <br>• 事件結束獲得道具【夏侯蘭的髮帶】，即結緣成功。</td>
 <td>• 若接受傳功或抵抗失敗，<Girl5Icon>夏侯蘭</Girl5Icon>逝世，獲得技能<MarkdownWrapper>[玄黃納心綱](/system/skill)</MarkdownWrapper>(劇情紀念，無作用)。
     <br>• 不同酒品有劇情差異，優先性為:
-    <br>&nbsp;&nbsp;1. <MarkdownWrapper>[菊花酒](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>: 擊敗第三香後，🎲【≧70】「放生」、接著🎲【≧60】「都沒有」。
-    <br>&nbsp;&nbsp;2. <MarkdownWrapper>[猴兒酒](/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[臥雲岡回程](/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>大師兄彌留時選擇📖「是你藏起來不讓喝的猴兒酒」。
-    <br>&nbsp;&nbsp;3. 其他酒類。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. <MarkdownWrapper>[菊花酒](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>: 擊敗第三香後，🎲【≧70】「放生」、接著🎲【≧60】「都沒有」。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. <MarkdownWrapper>[猴兒酒](/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[臥雲岡回程](/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>大師兄彌留時選擇📖「是你藏起來不讓喝的猴兒酒」。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 其他酒類。
     <br>• 若🗡️對決夏侯蘭時落敗，進入<MarkdownWrapper>[生死簿74: 與花合葬](/event/badends/badend-74)</MarkdownWrapper></td>
 </tr>
 
@@ -104,10 +104,10 @@ tags:
 
 <tr>
 <td>編號</td>
-<td :unsortable=true>時間</td>
-<td :unsortable=true>事件</td>
-<td :unsortable=true>改變內容</td>
-<td :unsortable=true>備註</td>
+<td>時間</td>
+<td>事件</td>
+<td>改變內容</td>
+<td>備註</td>
 </tr>
 
 <tr>
