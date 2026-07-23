@@ -4,7 +4,7 @@ description: 龍湘結緣攻略
 aside: false
 outline: [2, 3]
 sidebar: false
-borderless: false
+borderless: true
 tags:
     - 結婚
     - 成親
