@@ -39,7 +39,7 @@ tags:
 <td>2</td>
 <td>第二年三月上旬</td>
 <td><MarkdownWrapper>[崆峒留學](/event/simple/2-03-1-崆峒留學)</MarkdownWrapper></td>
-<td>• 初識魏菊後，若選擇📖「抱著被別派敵視的覺悟唱反調」，下個選項不可選擇📖「我要去玄功門」；其他選項分支都可以。
+<td>• 初識<Girl7Icon>魏菊</Girl7Icon>＞後，若選擇📖「抱著被別派敵視的覺悟唱反調」，下個選項不可選擇📖「我要去玄功門」；其他選項分支都可以。
     <br>• 門派選擇🎲擲骰到【<75】「奪魄門」。</td>
 <td></td>
 </tr>
@@ -134,7 +134,7 @@ tags:
 <td>• 可以訪問<Girl5Icon>夏侯蘭</Girl5Icon>。
     <br>• 若<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-練功分心)</MarkdownWrapper>且此時在唐門，對話差分。
     <br>• 若決策為遣散唐門，練功場及男弟子房的劇情差分。
-    <br>• 若決策為遣散唐門，除<MarkdownWrapper>[汗青書25: 退隱江湖](/event/ends/end-25)</MarkdownWrapper>的結局演出改變為與夏侯蘭上雪山版本之外，道德≧60情況下可進入<MarkdownWrapper>[汗青書31: 傳說之人](/event/ends/end-31)</MarkdownWrapper>。</td>
+    <br>• 若決策為遣散唐門，除<MarkdownWrapper>[汗青書25: 退隱江湖](/event/ends/end-25)</MarkdownWrapper>的結局演出改變為與夏侯蘭上雪山版本之外，道德≧60可進入<MarkdownWrapper>[汗青書31: 傳說之人](/event/ends/end-31)</MarkdownWrapper>。</td>
 <td></td>
 </tr>
 
