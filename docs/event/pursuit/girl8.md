@@ -118,7 +118,8 @@ tags:
 <td>第四年二月中旬剩兩次行動</td>
 <td><MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
 <td>對話差分。</td>
-<td>只要滿足必要條件2，龍湘就會參加這段劇情，不一定要結緣，結緣主要效果是對話差分。</td>
+<td>• 只要滿足必要條件2，<Girl8Icon>龍湘</Girl8Icon>就會參加這段劇情，不一定要結緣。
+    <br>• 建議大院對決時🎲擲骰到【≧65】「來得及時」以外的結果，在龍湘對戰對手時再🎲擲骰到【≧50】會有覺醒事件。</td>
 </tr>
 <tr>
 <td>5</td>
