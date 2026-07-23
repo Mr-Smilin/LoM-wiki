@@ -30,8 +30,8 @@ tags:
 <td>1</td>
 <td>第二年二月上旬</td>
 <td><MarkdownWrapper>[留學討論](/event/simple/2-02-1-留學討論)</MarkdownWrapper></td>
-<td>• 貢獻度≧80點。
-    <br>• 唐門月會中選擇📜「我想去崆峒派留學」。</td>
+<td>• 唐門月會前貢獻度≧80點。
+    <br>• 月會中選擇📜「我想去崆峒派留學」。</td>
 <td></td>
 </tr>
 
@@ -49,13 +49,13 @@ tags:
 <td>第二年四月上旬</td>
 <td><MarkdownWrapper>[衣服遭竊](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper></td>
 <td>• 遭到偷襲時，🎲擲骰到【>50】「防禦成功」。
-    <br>• 與峨嵋弟子第一戰必須勝利。
-    <br>• 與峨嵋弟子第二戰必須落敗或平手(撐5回合)。
-    <br>• 與峨嵋弟子第三戰(勝負無關)後，選擇📖「師禮拜謝」。</td>
+    <br>• 🗡️對決峨嵋弟子第一戰必須勝利。
+    <br>• 🗡️對決峨嵋弟子第二戰必須落敗或平手(撐5回合)。
+    <br>• 🗡️對決峨嵋弟子第三戰(勝負無關)後，選擇📖「師禮拜謝」。</td>
 <td>• 完成此條件後即拜師<Girl5Icon>夏侯蘭</Girl5Icon>，解鎖奪魄森林修練，是增加好感的主要方式。
     <br>• 盡可能在留學結束前達到夏侯蘭好感≧40。
     <br>• 請注意練功支線事件中，若讓<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-練功分心)</MarkdownWrapper>，會影響後面部分劇情及結局演出，若初次走夏侯蘭線不建議讓樊拜師。
-    <br>• 五月下旬的<MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>雖非結緣必要條件，但三戰全勝且樊嘯天未拜師，可獲得道具<MarkdownWrapper>[【崆峒磨喝樂】](/system/items)</MarkdownWrapper>(劇情紀念，無作用)；而第三戰敗於瑞笙，是往後獲得<MarkdownWrapper>[雪山飛鴻爪](/system/books/book_6009)</MarkdownWrapper>的必要條件。</td>
+    <br>• 五月下旬的<MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>雖非結緣必要條件，但若三戰全勝且樊嘯天未拜師，可獲得道具<MarkdownWrapper>[【崆峒磨喝樂】](/system/items)</MarkdownWrapper>(劇情紀念，無作用)；而第三戰敗於瑞笙，是往後獲得<MarkdownWrapper>[雪山飛鴻爪](/system/books/book_6009)</MarkdownWrapper>的必要條件。</td>
 </tr>
 
 <tr>
@@ -75,7 +75,7 @@ tags:
 <td>• 行前準備:
     <br> &nbsp;&nbsp;&nbsp;&nbsp;1. 若身上沒有酒，建議出發前購買任意酒。
     <br> &nbsp;&nbsp;&nbsp;&nbsp;2. 確保心上人為<Girl5Icon>夏侯蘭</Girl5Icon>。
-    <br>• 若不選擇此選項，六月中旬會自動觸發夏侯蘭獨自前往雪山事件。    
+    <br>• 若不選擇📜「雪山行」，六月中旬會自動觸發夏侯蘭獨自前往雪山事件。    
     <br>• 雪山行有許多生死簿事件可以收集。</td>
 </tr>
 
@@ -92,7 +92,7 @@ tags:
 <td>• 若接受傳功或抵抗失敗，<Girl5Icon>夏侯蘭</Girl5Icon>逝世，獲得技能<MarkdownWrapper>[玄黃納心綱](/system/skill)</MarkdownWrapper>(劇情紀念，無作用)。
     <br>• 不同酒品有劇情差異，優先性為:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. <MarkdownWrapper>[菊花酒](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>: 擊敗第三香後，🎲【≧70】「放生」、接著🎲【≧60】「都沒有」。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. <MarkdownWrapper>[猴兒酒](/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[臥雲岡回程](/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>大師兄彌留時選擇📖「是你藏起來不讓喝的猴兒酒」。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. <MarkdownWrapper>[猴兒酒](/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[臥雲岡回程](/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>大師兄彌留時選擇📖「是你藏起來不讓喝的猴兒酒」，同年三月上旬於後山覓得。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 其他酒類。
     <br>• 若🗡️對決夏侯蘭時落敗，進入<MarkdownWrapper>[生死簿74: 與花合葬](/event/badends/badend-74)</MarkdownWrapper></td>
 </tr>
@@ -114,7 +114,7 @@ tags:
 <td>1</td>
 <td>第三年八月下旬</td>
 <td>邀請夏侯蘭</td>
-<td>• 此時下山可以選擇📜「邀請夏侯蘭」一起前往武林大會。
+<td>• 此時從大門下山可以選擇📜「邀請夏侯蘭」一起前往武林大會。
     <br>• 無論過程如何，<Girl5Icon>夏侯蘭</Girl5Icon>不會一同前往。</td>
 <td>若選擇📖「不是」、再📖「襲擊夏侯蘭」，並且🗡️對決落敗，可以解鎖防具<MarkdownWrapper>[密密縫](/system/forge-roadmap)</MarkdownWrapper>，不過素質不如護心鏡。</td>
 </tr>
@@ -143,7 +143,8 @@ tags:
 <td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬(成立西武林盟)</td>
 <td>陪伴夏侯蘭</td>
-<td>下山可觸發與<Girl5Icon>夏侯蘭</Girl5Icon>陪伴事件。</td>
+<td>• 從大門下山可觸發與<Girl5Icon>夏侯蘭</Girl5Icon>陪伴事件。
+    <br>• 若有其他結緣者，則觸發任一人的陪伴劇情，會被東窗事發事件取代，若🗡️對決夏侯蘭落敗會進入<MarkdownWrapper>[生死簿82: 跟黑暗大法師一樣](/event/badends/#生死簿-No.82)</MarkdownWrapper>。</td>
 <td>若不觸發此事件，則剩2行動點時自動觸發夏侯蘭等不到你的事件。</td>
 </tr>
 
