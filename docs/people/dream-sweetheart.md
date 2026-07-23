@@ -105,6 +105,7 @@ tags:
         <td>選出尚未認識對象的屬性組合</td>
         <td></td>
         <td></td>
+        <td></td>
     </tr>
 </BTable>
 
