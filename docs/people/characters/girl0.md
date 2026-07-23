@@ -261,16 +261,10 @@ aside: false
 ## 結緣過程
 
 ::: warning
-包含攻略內容，謹慎閱讀
+包含攻略內容，謹慎閱讀  
 :::
 
-詳見<MarkdownWrapper>[〈唐默鈴結緣攻略〉](/other/guide/pursuit/girl0)</MarkdownWrapper>
-
-::: details 
-
-<!--@include: @/other/guide/pursuit/girl0.md-->
-
-:::
+詳見[〈唐默鈴結緣攻略〉](/other/guide/pursuit/girl0)  
 
 ## 結緣信物
 

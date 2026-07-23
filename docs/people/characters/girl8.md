@@ -245,13 +245,7 @@ borderless: false
 包含攻略內容，謹慎閱讀
 :::
 
-詳見<MarkdownWrapper>[〈龍湘結緣攻略〉](/other/guide/pursuit/girl8)</MarkdownWrapper>
-
-::: details
-
-<!--@include: @/other/guide/pursuit/girl8.md-->
-
-:::
+詳見[〈龍湘結緣攻略〉](/other/guide/pursuit/girl8)
 
 ## 結緣信物
 
