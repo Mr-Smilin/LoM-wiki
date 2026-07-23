@@ -157,7 +157,7 @@ tags:
     <br>• 若不聽從夏侯蘭建議，且<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-練功分心)</MarkdownWrapper>，則夏侯蘭不會參戰(不影響結局)。
     <br>• 若不聽從夏侯蘭建議，且樊嘯天未拜師夏侯蘭，則夏侯蘭會參加終戰。
     <br>• 終戰獲勝後進入<MarkdownWrapper>[汗青書43: 失寵](/event/ends/end-43)</MarkdownWrapper>。</td>
-<td>• 夏侯蘭的終戰輔助技能，取決於雪山行是獲得<MarkdownWrapper>[雪山飛鴻爪](/system/books/book_6009)</MarkdownWrapper>或是<MarkdownWrapper>[奪魄幽靈爪](/system/books/book_6007)</MarkdownWrapper>。
+<td>• 夏侯蘭的終戰輔助技能，取決於雪山行是獲得<MarkdownWrapper>[雪山飛鴻爪](/system/books/book_6009)</MarkdownWrapper>或是<MarkdownWrapper>[奪魄幽靈爪](/system/books/book_6007)</MarkdownWrapper>(見必要條件3備註)。
     <br>• 若與多人結緣，滅門線結局結緣優先度(v1.0.3201.1)：
     <br><Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 </td>
