@@ -169,7 +169,7 @@ tags:
         <td id="風雲史-No.13">13</td>
         <td><AchievementIcon :size="`medium`" :no="`13`">唐門女婿</AchievementIcon></td>
         <td>千防萬防，家賊難防，想不到是你！</td>
-        <td>武林傳奇通關時與<Girl0Icon>小師妹</Girl0Icon>結緣。
+        <td>武林傳奇通關時與<Girl0Icon>小師妹</Girl0Icon>結緣，步驟請見<MarkdownWrapper>[〈唐默鈴結緣攻略〉](/other/guide/Girl_pursuit_0)</MarkdownWrapper>。
         </td>
         <td></td>
         <td>~~教你監守自盜、監守自盜~~</td>
