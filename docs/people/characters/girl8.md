@@ -240,7 +240,18 @@ borderless: false
 這詩是熊做的詞，不只這一首。目前龍湘的系列詩詞只在限定路線能夠見識。[^10]
 
 ## 結緣過程
-請見<MarkdownWrapper>[〈龍湘結緣攻略〉](/other/guide/Girl_pursuit_8)</MarkdownWrapper>
+
+::: warning
+包含攻略內容，謹慎閱讀
+:::
+
+詳見<MarkdownWrapper>[〈龍湘結緣攻略〉](/other/guide/pursuit/girl8)</MarkdownWrapper>
+
+::: details
+
+<!--@include: @/other/guide/pursuit/girl8.md-->
+
+:::
 
 ## 結緣信物
 

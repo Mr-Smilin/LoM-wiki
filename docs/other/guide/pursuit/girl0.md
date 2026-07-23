@@ -10,7 +10,9 @@ tags:
     - 成親
     - 唐默鈴
 ---
-# 唐默鈴(小師妹)結緣攻略
+
+# 唐默鈴結緣攻略
+
 <p align="center"><img src="/images/characters/girl_0/special1.webp" style="width:300px"></p>
 
 ## 結緣必要條件
