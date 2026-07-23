@@ -68,7 +68,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [[唐鹿]] ||(母親)||
+                    ||[[唐鹿]] (母親)||
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -88,7 +88,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [[唐默鈴]] ||(異父妹妹)||
+                    ||[[唐默鈴]] (異父妹妹)||
                 </ChTd>
             </ChTr>
             <ChTr>

@@ -150,7 +150,7 @@ aside: false
                     稱號
                 </ChTd>
                 <ChTd>
-                    小師妹<br>狂暴小綿羊
+                    小師妹<br>||狂暴小綿羊||
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -175,7 +175,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>  
-                    [[唐錚]] (異父哥哥)
+                    ||[[唐錚]] (異父哥哥)||
                 </ChTd>
             </ChTr>
             <ChTr>
