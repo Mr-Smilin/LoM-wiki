@@ -163,7 +163,7 @@ tags:
         <td>
             2年目で親密度4星以上（5星推奨）<br>
             <Girl5Icon>夏侯蘭</Girl5Icon>の心法伝授に抵抗した後、<br>
-            武林の伝説クリア時に想い人として<Girl5Icon>夏侯蘭</Girl5Icon>を保つ。
+            武林の伝説クリア時に想い人として<Girl5Icon>夏侯蘭</Girl5Icon>を保つ。手順は<MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
         </td>
         <td></td>
         <td></td>
@@ -207,8 +207,8 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`16`">武林の伝説 (武林傳奇)</AchievementIcon></td>
         <td>君は幼い日の夢を成し遂げた。天に見放された者であっても、不断の努力があれば道は開ける。</td>
         <td>西武林盟を組織し、武林盟主を打ち倒す。</td>
-        <td></td>
-        <td></td>
+        <td>「運命収束の力」を獲得</td>
+        <td>「収束」は擲骰の範囲を3種類から選択できる。</td>
     </tr>
     <tr>
         <td id="風雲史-No.17">17</td>

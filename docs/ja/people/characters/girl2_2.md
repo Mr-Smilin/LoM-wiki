@@ -84,4 +84,4 @@ aside: false
 
 <br>
 
-後日、同じ姿で[葉雲舟](/ja/people/characters/special3)と会う約束をする。彼は当初見分けることができない。兄のくせに相当失敗している。
+後日、同じ姿で[葉雲舟](/ja/people/characters/special3)と会う約束をする。彼は当初見分けることができない。実の兄のくせに、とんだ節穴っぷりだ。

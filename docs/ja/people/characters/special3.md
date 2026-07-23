@@ -56,7 +56,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[李元棄](/ja/people/characters/special213) (族叔)
+					[李元棄](/ja/people/characters/special213) (叔父)
 				</ChTd>
 			</ChTr>
 		</ChTable>

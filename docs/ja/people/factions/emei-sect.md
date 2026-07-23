@@ -83,7 +83,7 @@ tags:
 ## 秘笈
 
 -   [柴刀八斬法](/ja/system/books/book_2007)
--   [很是用力踢](/ja/system/books/book_4002)
+-   [つよつよ蹴り](/ja/system/books/book_4002)
 -   [蛇兔鷹猿搏](/ja/system/books/book_4003)
 -   [雷神腳](/ja/system/books/book_4006)
 -   [蛇形拳](/ja/system/books/book_4008)

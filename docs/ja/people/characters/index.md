@@ -13,7 +13,7 @@ tags:
 
 <BTable :stickyHeader=true searchMode="or"
   :tags="[
-    { text: '可攻略女角'},
+    { text: '攻略可能ヒロイン'},
     { text: '蜀中唐門'},
     { text: '広州唐門' },
     { text: '南宮世家' },
@@ -83,7 +83,7 @@ tags:
 </tr>
 <tr>
 	<td>[唐默鈴](/ja/people/characters/girl0)</td>
-	<td>蜀中唐門<br>可攻略女角</td>
+	<td>蜀中唐門<br>攻略可能ヒロイン</td>
 </tr>
 <tr>
 	<td>[唐芳](/ja/people/characters/special832)</td>
@@ -127,7 +127,7 @@ tags:
 </tr>
 <tr>
 	<td>[葉雲裳](/ja/people/characters/girl2)</td>
-	<td>点蒼派<br>可攻略女角</td>
+	<td>点蒼派<br>攻略可能ヒロイン</td>
 </tr>
 <tr>
 	<td>[葉雲啾](/ja/people/characters/girl2_2)</td>
@@ -203,7 +203,7 @@ tags:
 </tr>
 <tr>
 	<td>[虞小梅](/ja/people/characters/girl3)</td>
-	<td>崆峒派 - 飛天門<br>千燈樓<br>可攻略女角(未完成)</td>
+	<td>崆峒派 - 飛天門<br>千燈樓<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
 	<td>[火閃電](/ja/people/characters/firebird1)</td>
@@ -223,7 +223,7 @@ tags:
 </tr>
 <tr>
 	<td>[郁竹](/ja/people/characters/girl6)</td>
-	<td>崆峒派 - 鐵拳門<br>可攻略女角(未完成)</td>
+	<td>崆峒派 - 鐵拳門<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
 	<td>[童大蟲](/ja/people/characters/trainee214)</td>
@@ -235,7 +235,7 @@ tags:
 </tr>
 <tr>
 	<td>[夏侯蘭](/ja/people/characters/girl5)</td>
-	<td>崆峒派 - 奪魄門<br>雪山派<br>可攻略女角</td>
+	<td>崆峒派 - 奪魄門<br>雪山派<br>攻略可能ヒロイン</td>
 </tr>
 <tr>
 	<td>[余麟](/ja/people/characters/trainee224)</td>
@@ -247,7 +247,7 @@ tags:
 </tr>
 <tr>
 	<td>[魏菊](/ja/people/characters/girl7)</td>
-	<td>崆峒派 - 玄功門<br>耕陽讀書齋<br>可攻略女角(未完成)</td>
+	<td>崆峒派 - 玄功門<br>耕陽讀書齋<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
 	<td>[呼延菊](/ja/people/characters/special822)</td>
@@ -283,7 +283,7 @@ tags:
 </tr>
 <tr>
 	<td>[龍湘](/ja/people/characters/girl8)</td>
-	<td>錦香宮<br>可攻略女角</td>
+	<td>錦香宮<br>攻略可能ヒロイン</td>
 </tr>
 <tr>
 	<td>[溫夫人](/ja/people/characters/special402)</td>
@@ -323,7 +323,7 @@ tags:
 </tr>
 <tr>
 	<td>[上官螢](/ja/people/characters/girl4)</td>
-	<td>上官世家<br>滄幫<br>可攻略女角(未完成)</td>
+	<td>上官世家<br>滄幫<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
 	<td>[上官隼](/ja/people/characters/special407)</td>
@@ -411,7 +411,7 @@ tags:
 </tr>
 <tr>
 	<td>[瑞杏](/ja/people/characters/girl1)</td>
-	<td>杏花林<br>可攻略女角(未完成)</td>
+	<td>杏花林<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
 	<td>[書蓉](/ja/people/characters/special818)</td>
@@ -422,7 +422,7 @@ tags:
 	<td>杏花林<br>嵩山派</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[無名](/ja/people/characters/special406)</MarkdownWrapper><br>(点蒼劍聖)</td>
+	<td><MarkdownWrapper>[無名](/ja/people/characters/special406)</MarkdownWrapper><br>(点蒼剣聖)</td>
 	<td>杏花林<br>点蒼派</td>
 </tr>
 <tr>

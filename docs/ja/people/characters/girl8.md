@@ -3,7 +3,7 @@ title: 龍湘 (リュウショウ)
 tags:
     - 人物
     - 錦香宮
-    - 可攻略女角
+    - 攻略可能ヒロイン
 aside: false
 borderless: false
 ---

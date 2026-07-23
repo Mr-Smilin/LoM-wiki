@@ -220,7 +220,7 @@ tags:
         <td>2000</td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`4002`">很是用力踢</BookItemIcon></td>
+        <td><BookItemIcon :no="`4002`">つよつよ蹴り</BookItemIcon></td>
         <td>拳掌10<br>軽功6<br>借勢LV2<br>風雷神腳</td>
         <td>80</td>
         <td>形意拳LV1</td>
@@ -232,7 +232,7 @@ tags:
         <td>軽功15<br>拳掌15<br>爆發10<br>難知如陰<br>形意拳LV1<br>戦術LV1</td>
         <td>50</td>
         <td>形意拳LV1</td>
-        <td>夏侯蘭に弟子入りし、先に『很是用力踢』を取得、三年比武招親の時に後山で練功・墓参りする。</td>
+        <td>夏侯蘭に弟子入りし、先に『つよつよ蹴り』を取得、三年比武招親の時に後山で練功・墓参りする。</td>
         <td></td>
     </tr>
     <tr>

@@ -731,7 +731,7 @@ tags:
 </td>
 <td>
 <span style="color: #bfdcb0;">【青城留学】</span>
-<span style="color: #FF1493;">【葉雲裳】</span><br>
+<span style="color: #B0DCD5;">【葉雲裳】</span><br>
 青城留学の開始時、道徳が悪人を上回り、申屠龍に勝つ隠し悪いエンディング。
 </td>
 </tr>
@@ -743,7 +743,7 @@ tags:
 <EndIcon no="54">君とともに</EndIcon>
 </td>
 <td>
-<span style="color: #FF1493;">【葉雲裳】</span><br>
+<span style="color: #B0DCD5;">【葉雲裳】</span><br>
 谷底で葉雲裳を治療する際、四連戦で任意の一戦に敗北し、彼女と共に黄泉へ。
 </td>
 </tr>
