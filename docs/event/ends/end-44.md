@@ -32,7 +32,7 @@ tags:
 **流程：**<br>
 
 ### 一、與龍湘結緣
-請見<MarkdownWrapper>[〈龍湘結緣攻略〉](/other/event/pursuit/girl8)</MarkdownWrapper>
+請見<MarkdownWrapper>[〈龍湘結緣攻略〉](/event/pursuit/girl8)</MarkdownWrapper>
 
 ### 二、唐門圍攻戰
 1. 唐門圍攻戰：開始時間依據[[眾人的決策]]的結果有差異

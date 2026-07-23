@@ -245,7 +245,7 @@ borderless: false
 包含攻略內容，謹慎閱讀
 :::
 
-詳見[〈龍湘結緣攻略〉](/other/event/pursuit/girl8)
+詳見[〈龍湘結緣攻略〉](/event/pursuit/girl8)
 
 ## 結緣信物
 
