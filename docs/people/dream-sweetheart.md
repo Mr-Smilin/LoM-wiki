@@ -99,7 +99,8 @@ tags:
         <td>目前版本無法攻略</td>
     </tr>
     <tr>
-        <td><br>趙活(獲得自戀)</td>
+        <td>[趙活](/people/characters/player)
+            <br>(獲得自戀)</td>
         <td>x</td>
         <td>選出尚未認識對象的屬性組合</td>
         <td></td>
