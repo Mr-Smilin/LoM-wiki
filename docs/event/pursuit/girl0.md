@@ -20,10 +20,10 @@ tags:
 
 <tr>
 <td>編號</td>
-<td :unsortable=true>時間</td>
-<td :unsortable=true>事件</td>
-<td :unsortable=true>內容</td>
-<td :unsortable=true>建議及備註</td>
+<td>時間</td>
+<td>事件</td>
+<td>內容</td>
+<td>建議及備註</td>
 </tr>
 
 <tr>
@@ -65,10 +65,10 @@ tags:
 
 <tr>
 <td>編號</td>
-<td :unsortable=true>時間</td>
-<td :unsortable=true>事件</td>
-<td :unsortable=true>改變內容</td>
-<td :unsortable=true>備註</td>
+<td>時間</td>
+<td>事件</td>
+<td>改變內容</td>
+<td>備註</td>
 </tr>
 
 <tr>
