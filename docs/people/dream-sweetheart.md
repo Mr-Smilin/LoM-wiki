@@ -99,7 +99,7 @@ tags:
         <td>目前版本無法攻略</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>![](/public/images/characters/player/gloomy2.webp)</MarkdownWrapper>
+        <td><MarkdownWrapper><img width="100" src="/images/characters/player/gloomy2.webp"></MarkdownWrapper>
             <MarkdownWrapper>[趙活](/people/characters/player)</MarkdownWrapper>
             <br>(獲得自戀)</td>
         <td>x</td>
