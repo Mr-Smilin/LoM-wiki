@@ -103,7 +103,8 @@ tags:
             <MarkdownWrapper>[趙活](/people/characters/player)</MarkdownWrapper>
             <br>(獲得自戀)</td>
         <td>x</td>
-        <td>選出尚未認識對象的屬性組合</td>
+        <td>選出尚未認識
+            <br>對象的屬性組合</td>
         <td></td>
         <td></td>
         <td></td>
