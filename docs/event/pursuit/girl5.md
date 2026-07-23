@@ -55,7 +55,7 @@ tags:
 <td>• 完成此條件後即拜師<Girl5Icon>夏侯蘭</Girl5Icon>，解鎖奪魄森林修練，是增加好感的主要方式。
     <br>• 盡可能在留學結束前達到<Girl5Icon>夏侯蘭</Girl5Icon>好感40以上。
     <br>• 請注意練功支線事件中，若讓<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-練功分心)</MarkdownWrapper>，會影響後面部分劇情及結局演出，若初次走夏侯蘭線不建議讓樊拜師。
-    <br>• 五月下旬的<MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>雖非結緣必要條件，但三戰全勝且樊嘯天未拜師，可獲得道具MarkdownWrapper>[【崆峒磨喝樂】](/system/items/)</MarkdownWrapper>(劇情紀念，無作用)；而第三戰敗於瑞笙，是往後獲得<MarkdownWrapper>[雪山飛鴻爪](/books/book_6009)</MarkdownWrapper>的必要條件。</td>
+    <br>• 五月下旬的<MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>雖非結緣必要條件，但三戰全勝且樊嘯天未拜師，可獲得道具<MarkdownWrapper>[【崆峒磨喝樂】](/system/items)</MarkdownWrapper>(劇情紀念，無作用)；而第三戰敗於瑞笙，是往後獲得<MarkdownWrapper>[雪山飛鴻爪](/books/book_6009)</MarkdownWrapper>的必要條件。</td>
 </tr>
 
 <tr>
@@ -165,7 +165,7 @@ tags:
 <td><MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>參戰。
     <br>• 多處劇情、戰鬥變動(建議先修練完<MarkdownWrapper>[龍吟功](/system/books/book_7005)</MarkdownWrapper>)。
-    <br>• 若選擇📖唐門出擊、📖固守外堡，戰勝後選擇📖「我...聽妳的」，進入<MarkdownWrapper>[汗青書34: 行屍走肉](/event/ends/end-34)</MarkdownWrapper>
+    <br>• 若選擇📖唐門出擊、📖固守外堡，戰勝後選擇📖「我...聽妳的」，進入<MarkdownWrapper>[汗青書34: 行屍走肉](/event/ends/end-34)</MarkdownWrapper>。
     <br>• 建議大院對決時🎲擲骰到【≧65】「來得及時」以外的結果。</td>
 <td></td>
 </tr>
