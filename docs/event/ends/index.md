@@ -740,7 +740,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 </td>
 <td>
 <span style="color: #bfdcb0;">【青城留學】</span>
-<span style="color: #FF1493;">【葉雲裳】</span><br>
+<span style="color: #B0DCD5;">【葉雲裳】</span><br>
 青城留學開頭，道德大於惡棍，打贏申屠龍的隱藏壞結局。
 </td>
 </tr>
@@ -752,7 +752,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <EndIcon no="54">與妳同行</EndIcon>
 </td>
 <td>
-<span style="color: #FF1493;">【葉雲裳】</span><br>
+<span style="color: #B0DCD5;">【葉雲裳】</span><br>
 於谷底治療葉雲裳時，四連戰輸掉任何一場，與她共赴黃泉。
 </td>
 </tr>
