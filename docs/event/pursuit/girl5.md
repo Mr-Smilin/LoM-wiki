@@ -72,9 +72,10 @@ tags:
 <td><MarkdownWrapper>[雪山行](/event/simple/3-06-1-雪山行)</MarkdownWrapper></td>
 <td>• 滿足條件4後，在唐門月會中新增📜「雪山行」。
     <br>• 選擇此選項，與夏侯蘭前往雪山。</td>
-<td>• 若不選擇此選項，六月中旬會自動觸發夏侯蘭獨自前往雪山事件。
-    <br>• 行前準備1: 若身上沒有酒，建議出發前購買任意酒。
-    <br>• 行前準備2: 確保心上人為<Girl5Icon>夏侯蘭</Girl5Icon>。
+<td>• 行前準備
+    <ol><li>若身上沒有酒，建議出發前購買任意酒。</li>
+    <li>確保心上人為<Girl5Icon>夏侯蘭</Girl5Icon>。</li></ol>
+    • 若不選擇此選項，六月中旬會自動觸發夏侯蘭獨自前往雪山事件。    
     <br>• 雪山行有許多生死簿事件可以收集。</td>
 </tr>
 
@@ -83,17 +84,17 @@ tags:
 <td>第三年七月中旬</td>
 <td><MarkdownWrapper>[雪山之約](/event/simple/3-07-2-雪山之約)</MarkdownWrapper></td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>傳功時，三次機會都要選擇📖抵抗，並且四次🎲天命至少有一次擲骰到【=99】「抵抗」成功。
-    <br>• 第二次選擇📖「抵抗」需要身上有酒。
-    <br>• 第三次選擇📖「抵抗」需要心上人為夏侯蘭。
-    <br>• 若無<MarkdownWrapper>[命運收束之力](/event/achievements/#風雲史-No.16)</MarkdownWrapper>，至少需要夏侯蘭好感≧49才能成功一次。
-    <br>• 抵抗成功後觸發夏侯蘭彌留劇情，接著🗡️對決夏侯蘭，獲勝即進入結緣事件。
+    <br><ol><li>第二次選擇📖「抵抗」需要身上有酒。</li>
+    <li>第三次選擇📖「抵抗」需要心上人為夏侯蘭。</li>
+    <li>若無<MarkdownWrapper>[命運收束之力](/event/achievements/#風雲史-No.16)</MarkdownWrapper>，至少需要夏侯蘭好感≧49才能成功一次</li></ol>
+    • 抵抗成功後觸發夏侯蘭彌留劇情，接著🗡️對決夏侯蘭，獲勝即進入結緣事件。
     <br>• 事件結束獲得道具【夏侯蘭的髮帶】，即結緣成功。</td>
 <td>• 若接受傳功或抵抗失敗，<Girl5Icon>夏侯蘭</Girl5Icon>逝世，獲得技能<MarkdownWrapper>[玄黃納心綱](/system/skill)</MarkdownWrapper>(劇情紀念，無作用)。
     <br>• 不同酒品有劇情差異，優先性為:
-    <br>    1. <MarkdownWrapper>[菊花酒](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>: 擊敗第三香後，🎲【≧70】「放生」、接著🎲【≧60】「都沒有」。
-    <br>    2. <MarkdownWrapper>[猴兒酒](/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[臥雲岡回程](/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>大師兄彌留時選擇📖「是你藏起來不讓喝的猴兒酒」。
-    <br>    3. 其他酒類。
-    <br>• 若🗡️對決夏侯蘭時落敗，進入<MarkdownWrapper>[生死簿74: 與花合葬](/event/badends/badend-74)</MarkdownWrapper></td>
+    <br><ol><li><MarkdownWrapper>[菊花酒](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>: 擊敗第三香後，🎲【≧70】「放生」、接著🎲【≧60】「都沒有」。</li>
+    <li><MarkdownWrapper>[猴兒酒](/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[臥雲岡回程](/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>大師兄彌留時選擇📖「是你藏起來不讓喝的猴兒酒」。</li>
+    <li>其他酒類。</li></ol>
+    • 若🗡️對決夏侯蘭時落敗，進入<MarkdownWrapper>[生死簿74: 與花合葬](/event/badends/badend-74)</MarkdownWrapper></td>
 </tr>
 
 </table>
@@ -113,7 +114,7 @@ tags:
 <td>1</td>
 <td>第三年八月下旬</td>
 <td>邀請夏侯蘭</td>
-<td>此時下山可以選擇📜「邀請夏侯蘭」一起前往武林大會。
+<td>• 此時下山可以選擇📜「邀請夏侯蘭」一起前往武林大會。
     <br>• 無論過程如何，<Girl5Icon>夏侯蘭</Girl5Icon>不會一同前往。</td>
 <td>若選擇📖「不是」、再📖「襲擊夏侯蘭」，並且🗡️對決落敗，可以解鎖防具<MarkdownWrapper>[密密縫](/system/forge-roadmap)</MarkdownWrapper>，不過素質不如護心鏡。</td>
 </tr>
@@ -154,7 +155,7 @@ tags:
 <td>• 若聽從<Girl5Icon>夏侯蘭</Girl5Icon>建議離開唐門，進入<MarkdownWrapper>[汗青書34: 行屍走肉](/event/ends/end-34)</MarkdownWrapper>。
     <br>• 若不聽從夏侯蘭建議，且<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-練功分心)</MarkdownWrapper>，則夏侯蘭不會參戰(不影響結局)。
     <br>• 若不聽從夏侯蘭建議，且樊嘯天未拜師夏侯蘭，則夏侯蘭會參加終戰。
-    <br>• 終戰獲勝後可進入<MarkdownWrapper>[汗青書43: 失寵](/event/ends/end-43)</MarkdownWrapper>。</td>
+    <br>• 終戰獲勝後進入<MarkdownWrapper>[汗青書43: 失寵](/event/ends/end-43)</MarkdownWrapper>。</td>
 <td>• 夏侯蘭的終戰輔助技能，取決於雪山行是獲得<MarkdownWrapper>[雪山飛鴻爪](/system/books/book_6009)</MarkdownWrapper>或是<MarkdownWrapper>[奪魄幽靈爪](/system/books/book_6007)</MarkdownWrapper>。
     <br>• 若與多人結緣，滅門線結局結緣優先度(v1.0.3201.1)：
     <br><Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
@@ -166,10 +167,10 @@ tags:
 <td>第四年二月中旬剩兩次行動</td>
 <td><MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>參戰。
-    <br>• 多處劇情、戰鬥變動(建議先修練完<MarkdownWrapper>[龍吟功](/system/books/book_7005)</MarkdownWrapper>)。
-    <br>• 若選擇📖唐門出擊、📖固守外堡，戰勝後選擇📖「我...聽妳的」，進入<MarkdownWrapper>[汗青書34: 行屍走肉](/event/ends/end-34)</MarkdownWrapper>。
+    <br>• 多處劇情、戰鬥變動。
+    <br>• 若選擇📖唐門出擊、📖固守外堡，戰勝後選擇📖「我...聽妳的」，進入<MarkdownWrapper>[汗青書34: 行屍走肉](/event/ends/end-34)</MarkdownWrapper>。</td>
+<td>• 建議先修練完<MarkdownWrapper>[龍吟功](/system/books/book_7005)</MarkdownWrapper>
     <br>• 建議大院對決時🎲擲骰到【≧65】「來得及時」以外的結果。</td>
-<td></td>
 </tr>
 
 <tr>
