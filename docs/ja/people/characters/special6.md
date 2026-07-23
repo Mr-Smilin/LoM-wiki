@@ -99,7 +99,7 @@ aside: false
 
 ## 備考
 
-- [瑞杏](/ja/people/characters/girl1)からは「萬里の御老体」と呼ばれ、江湖から姿を消した[点蒼劍聖](/ja/people/characters/special406)とともに彼女の輿を担いでいる。
+- [瑞杏](/ja/people/characters/girl1)からは「萬里の御老体」と呼ばれ、江湖から姿を消した[点蒼剣聖](/ja/people/characters/special406)とともに彼女の輿を担いでいる。
 - かつて孤雲山を訪れ、[瑞笙](/ja/people/characters/special999)に[龍淵](/ja/people/characters/special2)と[極樂教主](/ja/people/characters/other7)の大戦の物語を語って聞かせた。
 - かつて[旧魔教の教主](/ja/people/characters/other7)と百余合を打ち合い、勝負がつかなかった。
 - 唐門包囲時に出場の機会があり、十年の約を果たすために来たと言う。

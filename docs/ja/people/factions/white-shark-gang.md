@@ -65,7 +65,7 @@ tags:
 
 - 戸々の窓に活魚を投げ込み、公然と漁商秩序を破壊し、[滄幫](/ja/people/factions/cang-gang.md)に対抗する。
 
-- [上官世家](/ja/people/factions/shang-guan-family.md)が朝廷来使を招宴する日にも魚を投げ込み、[解無塵](/ja/people/characters/special808)にばったり見かけられました。魚が臭うのを嫌い、[上官螢](/ja/people/characters/girl4)の前で格好をつけようと、[劉顎](/ja/people/characters/special1)の前に立ちはだかって成敗しようとしました。ところが[劉顎](/ja/people/characters/special1)は通行人から佩剣をひょいと奪うと、攻めも守りもない、それでいてことごとく急所だけを狙う剣を繰り出し、防がないわけにはいきません。[解無塵](/ja/people/characters/special808)は持ち味を何ひとつ出せないまま、怒りのあまり血を吐いて敗北し、《風雷神腿》を《[很是用力踢](/ja/system/books/book_4002)》へ改名させられ、泣きながら逃げ帰りました。
+- [上官世家](/ja/people/factions/shang-guan-family.md)が朝廷来使を招宴する日にも魚を投げ込み、[解無塵](/ja/people/characters/special808)にばったり見かけられました。魚が臭うのを嫌い、[上官螢](/ja/people/characters/girl4)の前で格好をつけようと、[劉顎](/ja/people/characters/special1)の前に立ちはだかって成敗しようとしました。ところが[劉顎](/ja/people/characters/special1)は通行人から佩剣をひょいと奪うと、攻めも守りもない、それでいてことごとく急所だけを狙う剣を繰り出し、防がないわけにはいきません。[解無塵](/ja/people/characters/special808)は持ち味を何ひとつ出せないまま、怒りのあまり血を吐いて敗北し、《風雷神腿》を《[つよつよ蹴り](/ja/system/books/book_4002)》へ改名させられ、泣きながら逃げ帰りました。
 
 - 南宮寿宴期間、滄幫船舶を襲撃します。<MarkdownWrapper>||本来は上官螢を拐かそうとしましたが、撃ち漏らしました。滄幫が安済坊への米穀を没収したと聞き、劉顎は彼らの乳首を切り落とさせました。その後「襲撃」安済坊で、米穀すべてを投げ込み、貧乏人が食べ尽くすまで。||</MarkdownWrapper>
 
