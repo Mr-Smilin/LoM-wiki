@@ -373,7 +373,7 @@ aside: false
 -   見ただけで[盤古開天破](/ja/system/books/book_2011)と[斬天黑翼雙龍劍](/ja/system/books/book_2005)を覚えてしまう。
 -   体が弱くなければ、おそらく兄の[葉雲舟](/ja/people/characters/special3)より武の素質がある。
 -   [葉雲舟](/ja/people/characters/special3)・[段智秀](/ja/people/characters/special833)らわずか4人で隊列から郡主を連れ去るという大胆な計画を立案した。
--   自分と[趙活](/ja/people/characters/player)・[唐芳](/ja/people/characters/special832)たちが青城から無傷で撤退する計画を立案した(詳細は[段智秀来襲・青城脱出](/ja/event/detailed_description/3-03-3-段智秀来襲)を参照)。
+-   自分と[趙活](/ja/people/characters/player)・[唐芳](/ja/people/characters/special832)たちが青城から無傷で撤退する計画を立案した(詳細は[段智秀来襲・青城脱出](/ja/event/detailed_description/2-08-4-段智秀來襲)を参照)。
 -   [趙活](/ja/people/characters/player)と一緒に錦香宮へ行った場合、短い滞在期間で琴の技芸を習得し、審査に合格するだけでなく、自分で変奏までできるようになり、[溫夫人](/ja/people/characters/special402)から琴を1面贈られる。
 -   風雨山の上で唐門がデマで中傷されるのを見て、パオズ1個で、デマを流した[晁和](/ja/people/characters/special208)を惨死させ、[釋明](/ja/people/characters/special826)の評判を地に落とした。
 -   遊戯王に似たカードゲームを自作し、有名な俠士たちを絵札にした。
@@ -393,7 +393,7 @@ aside: false
     -   宿屋の中に煙を吹き込んで、泊まり客に火事だと思い込ませた。
     -   実の兄の名声に傷がつくのを恐れて、[趙活](/ja/people/characters/player)を生け贄として差し出すことを喜んで決めた。罪の半分はすべて趙活持ち。おかげで趙活はわけも分からないまま宿屋のブラックリストに載った。
     -   外堡で魔王軍を組織して、役所を騒がせた。魔王軍の勢力は強大で、[上官螢](/ja/people/characters/girl4.md)まで編入されている。
-    -   タケノコを[青城派](/ja/people/factions/qing-cheng-sect)の座布団の中に詰め込んだ。悪行の数々により、上清宮の外で立ち入り禁止を命じられた(経緯は[青城留学アーク](/ja/event/detailed_description/3-03-2-青城留学アーク)を参照)。
+    -   タケノコを[青城派](/ja/people/factions/qing-cheng-sect)の座布団の中に詰め込んだ。悪行の数々により、上清宮の外で立ち入り禁止を命じられた(経緯は[青城での療養](/ja/event/detailed_description/2-08-5-青城療傷)を参照)。
     -   男色好きの疑いがある。[趙活](/ja/people/characters/player)が湿布を貼るために[大師兄](/ja/people/characters/brother1.md)の服を脱がせているところに出くわして、第一声が「ほう……いいねえ」。続けて[小師妹](/ja/people/characters/girl0.md)をそそのかして一緒に噂をばらまいた。
     -   [四師兄](/ja/people/characters/brother4.md)を「四師肥」、鄒掌門を「鄒肥伯」と呼ぶ。さらに唐門の弟子たちに「肥肥」「あのだれか」といったあだ名まで付けた。
     -   [四師兄](/ja/people/characters/brother4.md)の行李の中に爆竹を仕込み、歩いている最中に背後で爆発させた。
