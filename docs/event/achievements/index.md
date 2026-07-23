@@ -199,8 +199,8 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`16`">武林傳奇</AchievementIcon></td>
         <td>你成遂了兒時夢想，證明天棄如你，努力不懈也能有出息。</td>
         <td>組建西武林盟，且戰勝武林盟主。</td>
-        <td></td>
-        <td></td>
+        <td>獲得「命運收束之力」</td>
+        <td>「收束」可以選擇三種擲骰的範圍。</td>
     </tr>
     <tr>
         <td id="風雲史-No.17">17</td>
