@@ -13,7 +13,7 @@ tags:
 
 # 龍湘結緣攻略
 
-<p align="center"><img src="/images/characters/girl_8/girl8_drumstick" style="width:300px"></p>
+<p align="center"><img src="/images/characters/girl_8/girl8_drumstick.webp" style="width:300px"></p>
 
 ## 結緣必要條件
 <table>
