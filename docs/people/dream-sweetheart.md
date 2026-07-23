@@ -15,10 +15,12 @@ tags:
 <BTable :stickyHeader=true>
     <tr>
         <td :unsortable=true>對應對象</td>
-        <td>官方編號</td>
+        <td>官方
+            <br>編號</td>
         <td :unsortable=true>屬性1</td>
         <td :unsortable=true>屬性2</td>
         <td :unsortable=true>屬性3</td>
+        <td :unsortable=true>結緣攻略</td>
     </tr>
     <tr>
         <td><Girl4Icon :size="`medium`">上官螢</Girl4Icon></td>
@@ -26,6 +28,7 @@ tags:
         <td>高挑窈窕</td>
         <td>坦率開朗</td>
         <td>特別能幹</td>
+        <td>目前版本無法攻略</td>
     </tr>
     <tr>
         <td><Girl8Icon :size="`medium`">龍湘</Girl8Icon></td>
@@ -33,6 +36,8 @@ tags:
         <td>高挑窈窕</td>
         <td>坦率開朗</td>
         <td>有點呆</td>
+        <td>請見〈龍湘結緣攻略〉(/other/guide/pursuit/girl8)
+            <br>(⚠️劇透警告)</td>
     </tr>
     <tr>
         <td><Girl3Icon :size="`medium`">虞小梅</Girl3Icon></td>
@@ -40,6 +45,8 @@ tags:
         <td>高挑窈窕</td>
         <td>坦率開朗</td>
         <td>瘋瘋癲癲</td>
+        <td>目前版本無法攻略
+            <br>預計2026/09/15更新開放</td>
     </tr>
     <tr>
         <td><Girl5Icon :size="`medium`">夏侯蘭</Girl5Icon></td>
@@ -47,6 +54,7 @@ tags:
         <td>高挑窈窕</td>
         <td>文靜優雅</td>
         <td></td>
+        <td>撰寫中...</td>
     </tr>
     <tr>
         <td><Girl2Icon :size="`medium`">葉雲裳</Girl2Icon></td>
@@ -54,6 +62,7 @@ tags:
         <td>嬌小玲瓏</td>
         <td>活潑開朗</td>
         <td>身嬌體弱</td>
+        <td>撰寫中...</td>
     </tr>
     <tr>
         <td><Girl0Icon :size="`medium`">唐默鈴</Girl0Icon></td>
@@ -61,6 +70,8 @@ tags:
         <td>嬌小玲瓏</td>
         <td>恬靜溫馴</td>
         <td>無垢之心</td>
+        <td>請見〈唐默鈴結緣攻略〉(/other/guide/pursuit/girl0)
+            <br>(⚠️劇透警告)</td>
     </tr>
     <tr>
         <td><Girl7Icon :size="`medium`">魏菊</Girl7Icon></td>
@@ -68,6 +79,7 @@ tags:
         <td>嬌小玲瓏</td>
         <td>恬靜溫馴</td>
         <td>知書達禮</td>
+        <td>目前版本無法攻略</td>
     </tr>
     <tr>
         <td><Girl6Icon :size="`medium`">郁竹</Girl6Icon></td>
@@ -75,6 +87,8 @@ tags:
         <td>嬌小玲瓏</td>
         <td>恬靜溫馴</td>
         <td>力拔山兮氣蓋世</td>
+        <td>目前版本無法攻略
+            <br>預計2026/09/15更新開放</td>
     </tr>
     <tr>
         <td><Girl1Icon :size="`medium`">瑞杏</Girl1Icon></td>
@@ -82,11 +96,12 @@ tags:
         <td>打開錦囊<br>(需100命運)</td>
         <td></td>
         <td></td>
+        <td>目前版本無法攻略</td>
     </tr>
     <tr>
-        <td>選出尚未認識對象的屬性組合</td>
+        <td><br>趙活(獲得自戀)</td>
         <td>x</td>
-        <td>心上人變為自己並獲得自戀</td>
+        <td>選出尚未認識對象的屬性組合</td>
         <td></td>
         <td></td>
     </tr>
