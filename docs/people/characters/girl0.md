@@ -264,7 +264,7 @@ aside: false
 包含攻略內容，謹慎閱讀
 :::
 
-詳見<MarkdownWrapper>[〈唐默鈴結緣攻略〉](/other/guide/pursuit/girl8)</MarkdownWrapper>
+詳見<MarkdownWrapper>[〈唐默鈴結緣攻略〉](/other/guide/pursuit/girl0)</MarkdownWrapper>
 
 ::: details 
 
