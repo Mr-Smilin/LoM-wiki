@@ -32,11 +32,7 @@ tags:
 **流程：**<br>
 
 ### 一、與小師妹結緣
-1. 第三年五月上旬動作前，比武招親當晚，[[金烏上人]]來襲。
-2. 心上人為<Girl0Icon>唐默鈴</Girl0Icon>且<Girl0Icon>唐默鈴</Girl0Icon>好感度≧50，<Girl0Icon>小師妹</Girl0Icon>會同行下山。
-3. 🗡️跟[[金烏上人]]決鬥勝利(<Girl0Icon>小師妹</Girl0Icon>同行下山時，敗戰不會有第二次挑戰機會)。
-4. **🎲天命：你的想法......**(上限99，➕加值：<Girl0Icon>唐默鈴</Girl0Icon>好感度、性情、處事，➖減值：其他唐門成員好感度)：**🧾【>=50】小師妹是我的！**。
-5. <Girl0Icon>唐默鈴</Girl0Icon>好感度≧60，<span style='color: #FF1493;'>與<Girl0Icon>小師妹</Girl0Icon>結緣</span>，獲得【小師妹的香囊】，
+請見<MarkdownWrapper>[〈唐默鈴結緣攻略〉](/other/guide/Girl_pursuit_0)</MarkdownWrapper>
 
 ### 二、唐門圍攻戰
 1. 第三年十二月上旬最後一次行動前．[[眾人的決策]]進入頑抗到底劇情線．
