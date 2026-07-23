@@ -52,9 +52,9 @@ tags:
 <td>小師妹招親-<MarkdownWrapper>[師妹的歸宿](/event/simple/3-05-1-師妹的歸宿)</MarkdownWrapper></td>
 <td>• 需滿足條件1、2
     <br>• 後山觸發🎲天命並擲骰到【≧50】「小師妹是我的!」
-    <br>• <Girl0Icon>唐默鈴</Girl0Icon>好感≧60(滿足條件1、2並正常遊玩都會達標)，即可觸發結緣事件。
+    <br>• <Girl0Icon>唐默鈴</Girl0Icon>好感≧60，即可觸發結緣事件。
     <br>• 對話後得到道具【小師妹的香囊】，即完成結緣。</td>
-<td></td>
+<td>好感≧60的條件: 事實上只要滿足條件1、2，並正常遊玩都會達標。</td>
 </tr>
 </table>
 
