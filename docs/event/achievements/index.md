@@ -214,7 +214,7 @@ tags:
         <td id="風雲史-No.18">18</td>
         <td><AchievementIcon :size="`medium`" :no="`18`">魔王的爪牙</AchievementIcon></td>
         <td>你是她的心腹，她是你心肝。</td>
-        <td>武林傳奇通關時與<Girl2Icon>葉雲裳</Girl2Icon>結緣。</td>
+        <td>武林傳奇通關時與<Girl2Icon>葉雲裳</Girl2Icon>結緣，步驟請見<MarkdownWrapper>[〈葉雲裳結緣攻略〉](/event/pursuit/girl2)</MarkdownWrapper>。</td>
         <td></td>
         <td>v1.0.5000.0版本後新增</td>
     </tr>
@@ -222,7 +222,7 @@ tags:
         <td id="風雲史-No.19">19</td>
         <td><AchievementIcon :size="`medium`" :no="`19`">惡人自有惡人磨</AchievementIcon></td>
         <td>區區晁和，無恥無腦，哪裡惡得過她？</td>
-        <td>在<Girl2Icon>葉雲裳</Girl2Icon>中，帶<Girl2Icon>葉雲裳</Girl2Icon>去武林大會，且武林大會中反對唐門居多即可。</td>
+        <td>與<Girl2Icon>葉雲裳</Girl2Icon>結緣並帶她去武林大會(見<MarkdownWrapper>[〈葉雲裳結緣攻略〉](/event/pursuit/girl2)</MarkdownWrapper>)，且武林大會中反對唐門居多即可。</td>
         <td></td>
         <td>v1.0.5000.0版本後新增</td>
     </tr>
