@@ -92,7 +92,7 @@ tags:
 <td>• 伝授を受け入れるか抵抗に失敗すると、<Girl5Icon>夏侯蘭</Girl5Icon>は死去し、スキル<MarkdownWrapper>[玄黄納心綱](/ja/system/skill)</MarkdownWrapper>(展開の記念品、効果なし)を獲得する。
     <br>• 酒の種類によって展開が異なり、優先度は以下の通り:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. <MarkdownWrapper>[菊花酒](/ja/event/simple/3-07-2-雪山之約)</MarkdownWrapper>: 第三香を撃破した後、🎲【≧70】「見逃す」、続けて🎲【≧60】「何もない」を出す。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. <MarkdownWrapper>[猿酒](/ja/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[帰路での襲撃](/ja/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>で大師兄が危篤の際に📖「お前が隠して飲ませなかった猿酒だな」を選択、同年3月上旬に後山で入手。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. <MarkdownWrapper>[猿酒](/ja/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[帰路での襲撃](/ja/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>で唐布衣が危篤の際に📖「お前が隠して飲ませなかった猿酒だな」を選択、同年3月上旬に後山で入手。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;3. その他の酒。
     <br>• 🗡️夏侯蘭との決闘に敗北した場合、<MarkdownWrapper>[生死簿74：花との合葬](/ja/event/badends/badend-74)</MarkdownWrapper>に進む。</td>
 </tr>
@@ -140,7 +140,7 @@ tags:
 
 <tr>
 <td>4</td>
-<td>• 4年目1月中旬(西武林盟を成立せず抵抗を続ける)
+<td>• 4年目1月中旬(西武林盟を成立せず徹底抗戦)
     <br>• または4年目2月中旬(西武林盟成立)</td>
 <td>夏侯蘭に付き添う</td>
 <td>• 大門から下山すると<Girl5Icon>夏侯蘭</Girl5Icon>と付き添うイベントが発生する。
@@ -150,8 +150,8 @@ tags:
 
 <tr>
 <td>5</td>
-<td>• 4年目1月中旬残り2回の行動(西武林盟を成立せず抵抗を続ける)
-    <br>• または4年目2月中旬残り2回の行動(西武林盟成立失敗により抵抗を続ける)</td>
+<td>• 4年目1月中旬残り2回の行動(西武林盟を成立せず徹底抗戦)
+    <br>• または4年目2月中旬残り2回の行動(西武林盟成立失敗により徹底抗戦)</td>
 <td><MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper></td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>の助言に従い唐門を離れると、<MarkdownWrapper>[汗青書34：生ける屍](/ja/event/ends/end-34)</MarkdownWrapper>に進む。
     <br>• 夏侯蘭の助言に従わず、かつ<MarkdownWrapper>[樊嘯天が夏侯蘭に師事する](/ja/event/simple/2-04-1-練功分心)</MarkdownWrapper>場合、夏侯蘭は参戦しない(結末には影響しない)。

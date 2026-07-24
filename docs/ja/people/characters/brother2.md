@@ -98,7 +98,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [畫中仙](/ja/people/characters/special813.md) (スパイ)
+                    [画中仙](/ja/people/characters/special813.md) (スパイ)
                 </ChTd>
             </ChTr>
         </table>
@@ -111,7 +111,7 @@ aside: false
 
 <br>
 
-毒術の修為は極めて精湛にして、処事は慎重である。師弟妹たちは皆、彼を敬い恐れている。
+毒術の修為は極めて精緻にして、処事は慎重である。師弟妹たちは皆、彼を敬い恐れている。
 
 <br>
 
@@ -160,7 +160,7 @@ aside: false
 
 -   唐門の刑罰を担当し、鉄面無私。判案は公正にして、代わりに情状酌量を求める者さえも連座して罰せられる。
 -   頑固で悪質な[晁和](/ja/people/characters/special208)を何度も懲らしめ、拍手喝采を浴びる。
--   拷問の手法は精湛。
+-   拷問の手法は精緻。
 
 ## 医術
 
@@ -183,7 +183,7 @@ aside: false
 -   鳥熊 FB の紹介：[リンク](https://www.facebook.com/photo/?fbid=119387853792735&set=pcb.119387933792727)
 -   誕生日は9月9日で乙女座。[華仙兒](/ja/people/characters/special813.md)が[趙活](/ja/people/characters/player)に山鶏を捕まえるよう言いつけた時は、ちょうど九月上旬だった。[^2]
 -   二師兄は冗談をしない。死にたいなんて言うなよ。<BadendIcon :no="4">生死簿 No.4</BadendIcon>
--   [趙活](/ja/people/characters/player)を「廃物」「趙氏蠢豚」と呼ぶ。
+-   [趙活](/ja/people/characters/player)を「役立たず」「趙氏蠢豚」と呼ぶ。
 -   口は悪いが心優しく、好感度が高いほどより厳しく罵るが、反面好感度も上げやすくなる。
 -   刑場奪還当時[大師兄](/ja/people/characters/brother1.md)が7～9歳だと仮定すると、[唐惟元](/ja/people/characters/brother4.md)は翌年の大雪の日に拾われたため、年齢は約25～27と推定される。
 -   [大師兄](/ja/people/characters/brother1.md)と一緒に育ち、付き合いが最も長い。大師兄の月考の答案を写すほど。だが大師兄が修行を終えて江湖に下った後、二師兄は厳しくなった。
@@ -193,7 +193,7 @@ aside: false
 -   [大師兄](/ja/people/characters/brother1.md)とともに、ある小師姑にひそかに思いを寄せていたことがある。[唐芳](/ja/people/characters/special832)の姉・唐芬である。大師兄が[趙活](/ja/people/characters/player)とこのことについて語った時、二師兄の反応は激烈で、突然怒って[小師妹](/ja/people/characters/girl0.md)を驚かせた。
 -   幼い頃、唐芬が作った漢方蜜漬けで虫歯になったことがある。
 -   [点蒼派](/ja/people/factions/dian-cang-sect)を恨んでいる。一つは嘗て点蒼剣に傷を負ったことがあり、もう一つは彼らが日々、誠実で正義感強い君子だと自認しながら、唐門の薬学を見下しているからである。
--   [小師妹](/ja/people/characters/girl0.md)をたいへん気にかけており、[趙活](/ja/people/characters/player)に対して下山して道を覚える[小師妹](/ja/people/characters/girl0.md)と[葉雲裳](/ja/people/characters/girl2.md)を暗に守るよう要求するため、喜んで趙活の雑務を引き受けている。過度な保護のため、[上官螢](/ja/people/characters/girl4.md)から「老媽子」（おばあさん）と呼ばれている。
+-   [小師妹](/ja/people/characters/girl0.md)をたいへん気にかけており、[趙活](/ja/people/characters/player)に対して下山して道を覚える[小師妹](/ja/people/characters/girl0.md)と[葉雲裳](/ja/people/characters/girl2.md)を暗に守るよう要求するため、喜んで趙活の雑務を引き受けている。過度な保護のため、[上官螢](/ja/people/characters/girl4.md)から「老媽子」と呼ばれている。
 
 [^1]: バハムート- [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^2]: Facebook - [オリジナル鳥熊2025/9/9](https://www.facebook.com/obbstudio/posts/pfbid0jo8pNNekUkjYE7EyLqYerjfnCWcaRHPfQGaJrZDaXe3QZ5KM8SuZDeJkcQbWdf9Al)

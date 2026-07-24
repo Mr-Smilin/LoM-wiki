@@ -67,12 +67,12 @@ tags:
 - [魏菊](/ja/people/characters/girl7)を新婚の日に救い出し、政務の傍聴を通じて政治の腐敗を知らしめ、仕官の望みを断たせた
 - [上官世家](/ja/people/factions/shang-guan-family)の難事を一つ解決し、[上官螢](/ja/people/characters/girl4)の侍女だった[書蓉](/ja/people/characters/special818)を贈られた
 - [牛長壽](/ja/event/stories/江陵府官道劫糧案)が冤罪を泣いて訴え、仙人の助言を乞うた
-- [大師兄](/ja/people/characters/brother1)はかつて運命を占ってもらい、死劫があると知って《九轉輪迴大法》を修練した
-- [四師兄](/ja/people/characters/brother4)は大金の稼ぎ方を尋ねたが、無視された
+- [唐布衣](/ja/people/characters/brother1)はかつて運命を占ってもらい、死劫があると知って《九轉輪迴大法》を修練した
+- [唐惟元](/ja/people/characters/brother4)は大金の稼ぎ方を尋ねたが、無視された
 - 錦香閣の[溫夫人](/ja/people/characters/special402)に宮殿を贈り、[錦香宮](/ja/people/factions/jin-xiang-palace)を設立させた
 - [南宮淺](/ja/people/characters/special103)を陣中で迷わせ、夢の中で老僧に諭させた
 - [南宮老太爺](/ja/people/characters/special104)に思いを断って自尽するよう勧めた
 - [龍淵](/ja/people/characters/special2)は杏の木の下で一晩酔い臥し、梢に錦嚢を見つけた。のちに[千面人魔](/ja/people/characters/other8)との関わりが判明する
-- [無念僧](/ja/people/characters/special212_2)は[大師兄](/ja/people/characters/brother1)・[二師兄](/ja/people/characters/brother2)に不意打ちされた際、杏花林へ知らせを送ろうとした
+- [無念僧](/ja/people/characters/special212_2)は[唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2)に不意打ちされた際、杏花林へ知らせを送ろうとした
 - DEMO版では[趙活](/ja/people/characters/player)・[丘真人](/ja/people/characters/special209)とともに[成吉思汗](/ja/people/characters/special210)の大帳で不老長生の法を語った
 - 初版西武林ルートの引き分け結末では、八月初三に史相へ伝え、大宋皇帝[趙擴](/ja/people/characters/special817)は福寧殿にて崩御した

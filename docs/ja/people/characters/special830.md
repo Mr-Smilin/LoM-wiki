@@ -66,7 +66,7 @@ tags:
 ## 備考
 
 -   梁神医は彼女の祖父。何年も前の嵩山での合同診察で、[掌門](/ja/people/characters/master)も梁老医仙の医術には脱帽している。
--   [唐芳](/ja/people/characters/special832)いわく、毒と薬では[唐門](/ja/people/factions/tang-men)がやや勝るが、針にかけては天下広しといえども梁家の《無常針》が第一。[葉雲裳](/ja/people/characters/girl2)の病を癒せるのは、[二師兄](/ja/people/characters/brother2)を除けば、起死回生の手段を持つ彼女だけである。
+-   [唐芳](/ja/people/characters/special832)いわく、毒と薬では[唐門](/ja/people/factions/tang-men)がやや勝るが、針にかけては天下広しといえども梁家の《無常針》が第一。[葉雲裳](/ja/people/characters/girl2)の病を癒せるのは、[唐錚](/ja/people/characters/brother2)を除けば、起死回生の手段を持つ彼女だけである。
 -   「灰有常」という外号は、どうやら江陵で[葉雲舟](/ja/people/characters/special3)と会った時にとっさに思いついたものらしい。
 -   ~~我こそは葉雲舟、梁有詩の美貌に目がくらみ、その才を慕い、妻に娶りたい！~~
 -   実のところ[葉雲裳](/ja/people/characters/girl2)は兄が彼女に気がないことを見抜いているが、それでも二人をくっつけようつもりでいる。

@@ -290,7 +290,7 @@ tags:
 	<td>錦香宮<br>泥教 - 人間道</td>
 </tr>
 <tr>
-	<td>[畫中仙](/ja/people/characters/special813)</td>
+	<td><MarkdownWrapper>[画中仙](/ja/people/characters/special813)</MarkdownWrapper></td>
 	<td>錦香宮<br>泥教 - 人間道</td>
 </tr>
 <tr>

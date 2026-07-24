@@ -111,10 +111,10 @@ aside: false
 ## 情縁
 
 -   女子に振られた回数はおよそ3〜4回。[^1]
--   ~~姉コン疑惑~~。高難度の相手ばかり狙う癖があり、まずは族妹の[瑞杏](/ja/people/characters/girl1)、次に[畫中仙](/ja/people/characters/special813)、その後は[夏侯蘭](/ja/people/characters/girl5)に挑んで平手打ちを食らった。
--   [小師妹](/ja/people/characters/girl0)は[趙活](/ja/people/characters/player)と結ばれなかった場合、嫁いで瑞笙の後宮の一人となる。
-    -   彼は[小師妹](/ja/people/characters/girl0)を喜ばせたいが、同時に他の紅顔知己たちも喜ばせたい。結果、あちらを立てればこちらが立たずになる運命である。[^3]
-    -   [小師妹](/ja/people/characters/girl0)は実のところ皆が思う以上に手強い女子で、人生の半分以上を一途に寵愛されて初めて、少しずつ心を開く。瑞笙が他の妻たちを顧みなくなれば、二人の関係は金国滅亡前には改善し始める。だが瑞笙にとって、他の女子を見捨てるなど不可能な話である。[^4]
+-   ~~姉コン疑惑~~。高難度の相手ばかり狙う癖があり、まずは族妹の[瑞杏](/ja/people/characters/girl1)、次に[画中仙](/ja/people/characters/special813)、その後は[夏侯蘭](/ja/people/characters/girl5)に挑んで平手打ちを食らった。
+-   [唐默鈴](/ja/people/characters/girl0)は[趙活](/ja/people/characters/player)と結ばれなかった場合、嫁いで瑞笙の後宮の一人となる。
+    -   彼は唐默鈴を喜ばせたいが、同時に他の紅顔知己たちも喜ばせたい。結果、あちらを立てればこちらが立たずになる運命である。[^3]
+    -   唐默鈴は実のところ皆が思う以上に手強い女子で、人生の半分以上を一途に寵愛されて初めて、少しずつ心を開く。瑞笙が他の妻たちを顧みなくなれば、二人の関係は金国滅亡前には改善し始める。だが瑞笙にとって、他の女子を見捨てるなど不可能な話である。[^4]
 -   [葉雲舟](/ja/people/characters/special3)が[葉雲裳](/ja/people/characters/girl2)を連れて北へ医者を探しに行った場合、[梁有詩](/ja/people/characters/special830)は~~彼にかっさらわれて~~後宮団に加わらない。
 -   [南溪](/ja/people/characters/special829)が[趙活](/ja/people/characters/player)に借りを作った場合、後宮団を抜けて[唐門](/ja/people/factions/tang-men)に助力する。瑞笙は彼女を連れ戻そうとしたが、やはり断られた。
     -   「気の毒な御仁を一人知っている。西武林盟に与したいのに、数々のしがらみゆえに身動きが取れぬ人だ。人知れず随分と骨を折ってきたのに、誰の目にも留まらず、挙げ句、どちらからも良く思われずじまい。私のように身寄りも係累もない独り身なら、そうした気兼ねとは無縁。あの人の心願は、私が代わりに叶えてみせる。そのためなら、あなたと敵になろうとも構わない。」
@@ -123,7 +123,7 @@ aside: false
 ## 武功
 
 -   江陵囲城の決戦に駆けつけて[魏菊](/ja/people/characters/girl7)の窮地を救った場合、[王幫主](/ja/people/characters/special401)と三十二合を打ち合う。その剣舞は精妙を極め、見る者は思わず喝采を送る。
--   [鄒博](/ja/people/characters/special201)の分析によれば、西武林の[趙活](/ja/people/characters/player)が[大師兄](/ja/people/characters/brother1)と戦えば勝率五分、趙活が瑞笙と戦っても五分だが、[大師兄](/ja/people/characters/brother1)が瑞笙と正面から対決すれば、まず負けは免れない。
+-   [鄒博](/ja/people/characters/special201)の分析によれば、西武林の[趙活](/ja/people/characters/player)が[唐布衣](/ja/people/characters/brother1)と戦えば勝率五分、趙活が瑞笙と戦っても五分だが、唐布衣が瑞笙と正面から対決すれば、まず負けは免れない。
 
 ## 備考
 
@@ -135,7 +135,7 @@ aside: false
 -   <MarkdownWrapper>||解析データによれば、趙活と親友になる笙活双俠線が存在するが、v3206 時点では未実装||</MarkdownWrapper>
 -   <MarkdownWrapper>||初版の西武林では趙活と引き分ける結末があったが、伏線不足でプレイヤーの不満を買い、この結末は現在削除されている||</MarkdownWrapper>
 
-[^1]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
+[^1]: バハムート - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^2]: バハムート - [【情報】龍湘のお尻の大きさについての答え+鳥熊とのプライベートチャットの会話メッセージ](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
 [^3]: Facebook－[原始鳥熊2023/10/13](https://www.facebook.com/obbstudio/posts/pfbid0cMWuBw2CpKL31WzvQMhrCND5G29Bc1sV7xJ1KXC3HHXvH78amBzny8mVkhCVoTESl?rdid=Oa2auAz4mjYiHez1#)
 [^4]: Facebook－[原始鳥熊2024/2/5](https://www.facebook.com/obbstudio/posts/pfbid0345ukMDW1MtXHXFDAegFGKnPSZ6Ypq2gcoLq2TgEeskhyHQzGeEuywWRtu4nC5mpTl)

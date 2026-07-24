@@ -100,7 +100,7 @@ tags:
 -   知能の上限は非常に高い可能性あり。狂すぎる![^4]
 -   平民に優しいのは、平民に官府を嫌わせるため。朝廷政権の正当性を覆し、民衆に蜂起を促し、官家に嫌がらせをするためである。[^4]
 -   劉顎の狙いに気づき、朝廷への不満から自ら[白鯊幫](/ja/people/factions/white-shark-gang)に加わった平民もいるかもしれない。[^4]
--   初版の悪党[趙活](/ja/people/characters/player)には[小師妹](/ja/people/characters/girl0)を誘拐するルートがあった。失敗後、彼女は迷子になって[白鯊幫](/ja/people/factions/white-shark-gang)にたどり着き、半年間魚膾を食べ続けて[白鯊幫](/ja/people/factions/white-shark-gang)を食い潰しかけ、[上官世家](/ja/people/factions/shang-guan-family)経由で連れ戻された。[唐門](/ja/people/factions/tang-men)滅門の際には劉顎に救い出され、そこに[趙活](/ja/people/characters/player)が現れる。劉顎に勝つと[趙活](/ja/people/characters/player)は天雷に打たれて死ぬ。これに不満を持つプレイヤーがいたため、このルートは削除された。
+-   初版の悪党[趙活](/ja/people/characters/player)には[唐默鈴](/ja/people/characters/girl0)を誘拐するルートがあった。失敗後、彼女は迷子になって[白鯊幫](/ja/people/factions/white-shark-gang)にたどり着き、半年間魚膾を食べ続けて[白鯊幫](/ja/people/factions/white-shark-gang)を食い潰しかけ、[上官世家](/ja/people/factions/shang-guan-family)経由で連れ戻された。[唐門](/ja/people/factions/tang-men)滅門の際には劉顎に救い出され、そこに[趙活](/ja/people/characters/player)が現れる。劉顎に勝つと[趙活](/ja/people/characters/player)は天雷に打たれて死ぬ。これに不満を持つプレイヤーがいたため、このルートは削除された。
 
 [^1]: [問答集2024-10-21](/ja/other/qna/202410#_2024-10-21)
 [^2]: [問答集2024-10-26](/ja/other/qna/202410#_2024-10-26)

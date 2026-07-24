@@ -36,7 +36,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[畫中仙](/ja/people/characters/special813) (同門)
+					[画中仙](/ja/people/characters/special813) (同門)
 				</ChTd>
 			</ChTr>
 			<ChTr>

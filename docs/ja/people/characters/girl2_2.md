@@ -76,7 +76,7 @@ aside: false
 
 > 「我こそは葉雲舟の弟にして葉雲裳の兄、葉家の次男、点蒼一の怪賤手、葉雲啾だ！」
 
-葉家三兄妹の次男。点蒼派の緑の衣を身にまとっている。背丈は低い。[小師妹](/ja/people/characters/girl0.md)の婚宴で、[南宮深](/ja/people/characters/special102)・[解無塵](/ja/people/characters/special808)二人の高手が場に出て勝敗を決する際に、剣を抜いて乱入し、[唐門](/ja/people/factions/tang-men)の婿になろうと声高に主張する。
+葉家三兄妹の次男。点蒼派の緑の衣を身にまとっている。背丈は低い。[唐默鈴](/ja/people/characters/girl0.md)の婚宴で、[南宮深](/ja/people/characters/special102)・[解無塵](/ja/people/characters/special808)二人の高手が場に出て勝敗を決する際に、剣を抜いて乱入し、[唐門](/ja/people/factions/tang-men)の婿になろうと声高に主張する。
 
 <br><br>
 

@@ -8,7 +8,8 @@ borderless: false
 tags:
     - エンディング
     - 汗青書
-    - 屍のまま
+    - 最終結果
+    - 生ける屍
     - 結緣
     - 結婚
     - 成親
@@ -33,8 +34,8 @@ tags:
 ### １、夏侯蘭との結緣
 <MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
 
-### ２－１、抵抗を続けるルート
-1. 3年目12月上旬の最後の行動前に、[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で抵抗を続けるシナリオに進む。
+### ２－１、徹底抗戦ルート
+1. 3年目12月上旬の最後の行動前に、[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で徹底抗戦シナリオに進む。
 2. 唐門包囲戦：[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)の結果により開始時期が異なる
    + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が1️⃣西武林盟成立を選択：4年目2月中旬に行動が2回残っている時に開始。
    + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が2️⃣西武林盟成立が叶わなかった場合：4年目1月中旬に行動が2回残っている時に開始。
