@@ -192,6 +192,7 @@ tags:
     <br>• 假設有讓<Girl2Icon>葉雲裳</Girl2Icon>同行:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 多處劇情變化。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 若投票後唐門成為武林公敵，且選擇📖「讓葉雲裳陪伴」，可解鎖<MarkdownWrapper>[風雲史《惡人自有惡人磨》](/event/achievements/#風雲史-No.19)</MarkdownWrapper>。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 客棧休憩時，若📖「洗澡」再📖「下樓喝酒」，可觸發南溪欠人情劇情，後面圍攻唐門或東西武林盟大戰時南溪會加入(下面該條目處不再重述)。
 </td>
 <td>目前這段劇情葉雲舟的同行綁定<Girl2Icon>葉雲裳</Girl2Icon>結緣，故也列出葉雲舟的劇情變化。</td>
 </tr>
