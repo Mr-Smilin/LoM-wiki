@@ -36,7 +36,7 @@ tags:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 唐陞好感≧25。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 購買三份以上江湖快報。
 </td>
-<td>• 雖然此事件到第二年一月下旬還能觸發，但若晚於第一年十二月下旬，由於事件間的時間遞延，可能會導致「唐芳歸來」無法觸發(<font color='red'>待測試</font>)。
+<td>• 雖然此事件到第二年一月下旬還能觸發，但若晚於第一年十二月下旬，由於事件間的時間遞延，可能會導致必要事件「唐芳歸來」無法觸發(<font color='gold'>待測試</font>)。
     <br>• 江湖快報每月僅能購買一份。
 </td>
 </tr>
@@ -47,13 +47,7 @@ tags:
 <td><MarkdownWrapper>[葉氏行蹤風波](/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper></td>
 <td>• 先確保名聲≧10，再多一點會更保險。
     <br>• 點選大門自動觸發。
-    <br>• 進入客棧後，不可以選擇📖「不蹚渾水」:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 若選擇📖「在樓下等」，觸發🗡️戰役，勝負不重要。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 若選擇📖「上樓看看」，觸發🗡️對決，需獲勝。
-    <br>• 戰鬥完對話，必須名聲≧10。
-    <br>• 觸發與點蒼弟子戰鬥，需獲勝或平手(8回合)。
-    <br>• 退守唐門後觸發🗡️戰役，需獲勝。
-    <br>• 滿足以上條件後，葉氏兄妹入住唐門。
+    <br>• 該事件結果需為葉氏兄妹入住唐門(步驟見<MarkdownWrapper>[葉氏行蹤風波](/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>)。
 </td>
 <td>• 請注意觸發此事件有一個月的限制，有可能會因為<MarkdownWrapper>[初識李富貴、樊嘯天](/event/simple/1-09-2-初識李富貴、樊嘯天)</MarkdownWrapper>、<MarkdownWrapper>[初識福韞](/event/simple/1-09-2-初識福韞)</MarkdownWrapper>或是<MarkdownWrapper>[出發夔州](/event/simple/1-10-2-出發夔州)</MarkdownWrapper>等事件，導致時間估計錯誤而錯過期限。
     <br>• 正常來說名聲10不困難，若名聲不足，低心相打鐵、高心相行商(嘴力20以下)、鬧市逛街，是除劇情外較容易提升名聲的方式。
@@ -72,7 +66,7 @@ tags:
 <td>4</td>
 <td>第二年六月上旬</td>
 <td><MarkdownWrapper>[離家出走](/event/simple/2-06-1-離家出走)</MarkdownWrapper></td>
-<td>• 觸發此事件前，請確保心上人為<Girl2Icon>葉雲裳</Girl2Icon>。
+<td>• 先確保心上人為<Girl2Icon>葉雲裳</Girl2Icon>。
     <br>• 選擇📖「住破廟」</td>
 <td>• 此事件並不要求心上人，但此後不太能獲得變心點。
     <br>• 若<Girl2Icon>葉雲裳</Girl2Icon>好感≧30，就算選擇📖「住客棧」也會被趕出來，被迫住破廟。
@@ -87,7 +81,7 @@ tags:
 </td>
 <td>• 在破廟得知陰謀之後不可選擇📜「攻打唐門」或📜「跑路」。
     <br>• 夜晚迎敵不要離開唐門(僅選擇大門才可能離開)。
-    <br>• 🗡️戰役過後(勝負無關)，心上人為<Girl2Icon>葉雲裳</Girl2Icon>(條件4)且葉雲裳在唐門(條件2)，觸發青城留學。
+    <br>• 🗡️戰役過後(勝負無關)，需心上人為<Girl2Icon>葉雲裳</Girl2Icon>(條件4)且葉雲裳在唐門(條件2)，以觸發青城留學。
 </td>
 <td>• 留學期間的主線是寫死的，所以只要避開生死簿及汗青書即可，沒有必要條件。
     <br>• 但由於留學後主線緊湊，強烈建議留學期間達成<Girl2Icon>葉雲裳</Girl2Icon>好感≧30，以及修練完<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>等級3。
@@ -107,7 +101,7 @@ tags:
 <td>第三年一月上旬</td>
 <td><MarkdownWrapper>[葉氏兄妹離去](/event/simple/3-01-1-葉氏兄妹離去)</MarkdownWrapper></td>
 <td>• 先確保心上人為<Girl2Icon>葉雲裳</Girl2Icon>。
-    <br>• 葉雲舟的想法🎲擲骰到【≧80】「葉雲裳的抵抗」(若無<MarkdownWrapper>[命運收束之力](/event/achievements/#風雲史-No.16)</MarkdownWrapper>，需好感葉雲裳≧30)。
+    <br>• 葉雲舟的想法🎲擲骰到【≧80】「葉雲裳的抵抗」(若無<MarkdownWrapper>[命運收束之力](/event/achievements/#風雲史-No.16)</MarkdownWrapper>，需葉雲裳好感≧30)。
     <br>• 你的建議選擇📖「勸葉雲舟留」。
     <br>• 與唐芳談話後可獲得<MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>。
 </td>
@@ -170,7 +164,7 @@ tags:
     <br>到第四年十月上旬
 </td>
 <td>前往及留宿錦香宮</td>
-<td>• 假設有讓<Girl2Icon>葉雲裳</Girl2Icon>同行:
+<td>• 假設有讓葉雲舟同行同行:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 旅途事件: 劇情變化。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 旅途事件: 葉雲舟可參與戰役。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 錦香宮: 多處劇情變化。
@@ -186,13 +180,13 @@ tags:
 <td>4</td>
 <td>第三年十月中旬</td>
 <td>武林大會</td>
-<td><br>• 假設有讓葉雲舟同行:
+<td>• 假設有讓葉雲舟同行:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 多處劇情變化。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 可以讓他代表唐門參加比武。
     <br>• 假設有讓<Girl2Icon>葉雲裳</Girl2Icon>同行:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 多處劇情變化。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 若投票後唐門成為武林公敵，且選擇📖「讓葉雲裳陪伴」，可解鎖<MarkdownWrapper>[風雲史《惡人自有惡人磨》](/event/achievements/#風雲史-No.19)</MarkdownWrapper>。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 客棧休憩時，若📖「洗澡」再📖「下樓喝酒」，可觸發南溪欠人情劇情(建議觸發)，有葉家相關劇情，且後面圍攻唐門或東西武林盟大戰時南溪會加入(下面該條目處不再重述)。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 客棧休憩時，若📖「洗澡」再📖「下樓喝酒」，可觸發南溪欠人情劇情(建議觸發)，有葉家相關劇情，且後面<MarkdownWrapper>[唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper>或<MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>時南溪會加入(下面不再重述)。
 </td>
 <td>目前這段劇情葉雲舟的同行綁定<Girl2Icon>葉雲裳</Girl2Icon>結緣，故也列出葉雲舟的劇情變化。</td>
 </tr>
