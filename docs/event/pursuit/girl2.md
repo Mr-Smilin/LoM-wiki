@@ -59,7 +59,9 @@ tags:
 <td>第二年二月上旬</td>
 <td><MarkdownWrapper>[留學討論](/event/simple/2-02-1-留學討論)</MarkdownWrapper></td>
 <td>月會中不選擇📜「我想去崆峒派留學」，直接📜「退席」。</td>
-<td>若擁有的秘笈不足以將來修習至<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>等級3，建議此時向四師兄購買。</td>
+<td>• 若擁有的秘笈不足以將來修習至<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>等級3，建議此時向四師兄購買。
+    <br>• 由於後面劇情的<MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>需要<MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級2，建議此時購買<MarkdownWrapper>[《羅漢拳譜》](/system/books/book_6001)</MarkdownWrapper>。
+</td>
 </tr>
 
 <tr>
@@ -93,7 +95,7 @@ tags:
 <td>第二年十二月上旬</td>
 <td>葉雲舟歸來</td>
 <td><Girl2Icon>葉雲裳</Girl2Icon>好感≧30，且技能<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>等級≧3，以觸發聽說《寂滅三摩地》。</td>
-<td>技能《佛學》等級只影響對話變化。</td>
+<td>技能《佛學》等級在此事件只影響對話變化。</td>
 </tr>
 
 <tr>
@@ -107,6 +109,7 @@ tags:
 </td>
 <td>• 技能《佛學》等級只影響對話變化。
     <br>• <MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>需在第三年五月上旬前修練完畢。
+    <br>• 由於<MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>需要<MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級2，若不足等級可以在第三年四月上旬以前購買<MarkdownWrapper>[《太祖長拳》](/system/books/book_3001)</MarkdownWrapper>或<MarkdownWrapper>[《金鐘罩》](/system/books/book_1030)</MarkdownWrapper>。
 </td>
 </tr>
 
@@ -275,4 +278,5 @@ tags:
 </table>
 
 ## 備註
-• 目前資料主要參考[〈活俠傳事件及分歧整理〉](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)的系統拆包資料，尚未經過反覆驗證。
+• 由於本路線劇情要求修練許多武學，且<Girl2Icon>葉雲裳</Girl2Icon>有許多支線事件消耗金錢，比較建議二周目以上資源較充足再攻略。天命可以優先加點相關人物好感度，以避免遊戲內花大量回合去刷。
+<br>• 目前資料主要參考[〈活俠傳事件及分歧整理〉](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)的系統拆包資料，尚未經過反覆驗證。
