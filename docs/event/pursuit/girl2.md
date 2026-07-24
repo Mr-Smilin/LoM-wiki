@@ -110,6 +110,7 @@ tags:
 <td>• <MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級造成對話變化。
     <br>• <MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>需在第三年五月上旬前修練完畢。
     <br>• <MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>需要<MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級2，若不足等級可在四月上旬前購買<MarkdownWrapper>[《太祖長拳》](/system/books/book_3001)</MarkdownWrapper>或<MarkdownWrapper>[《金鐘罩》](/system/books/book_1030)</MarkdownWrapper>。
+    <br>• 若有餘裕，也建議購買並修練<MarkdownWrapper>[《南宮心法》](/system/books/book_7012)</MarkdownWrapper>。
 </td>
 </tr>
 
