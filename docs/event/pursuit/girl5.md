@@ -144,7 +144,7 @@ tags:
     <br>• 或第四年二月中旬(成立西武林盟)</td>
 <td>陪伴夏侯蘭</td>
 <td>• 從大門下山可觸發與<Girl5Icon>夏侯蘭</Girl5Icon>陪伴事件。
-    <br>• 若有其他結緣者，則觸發任一人的陪伴劇情，會被東窗事發事件取代，若🗡️對決落敗會進入<MarkdownWrapper>[生死簿82: 跟黑暗大法師一樣](/event/badends/#生死簿-No.82)</MarkdownWrapper>。</td>
+    <br>• 若有其他結緣者，則觸發任一人的陪伴劇情，會被修羅場事件取代，若🗡️對決落敗會進入<MarkdownWrapper>[生死簿82: 跟黑暗大法師一樣](/event/badends/#生死簿-No.82)</MarkdownWrapper>。</td>
 <td>若不觸發此事件，則剩2行動點時自動觸發夏侯蘭等不到你的事件。</td>
 </tr>
 
