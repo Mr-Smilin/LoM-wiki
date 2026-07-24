@@ -83,7 +83,7 @@ tags:
 <td>2</td>
 <td>結緣後任意時間點</td>
 <td>下山鬧市逛街</td>
-<td>新增小師妹同遊事件「教她認路」。</td>
+<td>新增<Girl0Icon>唐默鈴</Girl0Icon>同遊事件「教她認路」。</td>
 <td>心相+30</td>
 </tr>
 
@@ -91,7 +91,7 @@ tags:
 <td>3</td>
 <td>結緣後任意時間點</td>
 <td>後山練功「小師妹烤魚」</td>
-<td>拒絕的結果改為與小師妹一起練功。</td>
+<td>拒絕的結果改為與<Girl0Icon>唐默鈴</Girl0Icon>一起練功。</td>
 <td>武學+3、心相+5</td>
 </tr>
 
@@ -99,7 +99,7 @@ tags:
 <td>5</td>
 <td>第三年八月中旬</td>
 <td>武林大會請帖</td>
-<td>滿足下列條件可讓小師妹同行武林大會:
+<td>滿足下列條件可讓<Girl0Icon>唐默鈴</Girl0Icon>同行武林大會:
     <br>• 若道德≧60，三師兄直接讓你帶她去。
     <br>• 若道德<60，且唐陞好感≧35，選擇「可以(撒謊)」才可以帶去。</td>
 <td>建議帶她去，可以加一堆好感。</td>
@@ -110,7 +110,7 @@ tags:
 <td>第三年九月上旬
     <br>到第四年十月上旬</td>
 <td>前往及留宿錦香宮</td>
-<td>• 旅途事件: 戰役可設置小師妹參加、多處劇情變化。
+<td>• 旅途事件: 戰役可設置<Girl0Icon>唐默鈴</Girl0Icon>參加、多處劇情變化。
     <br>• 錦香宮: 多處劇情變化。
     <br>• 錦香宮: 華音閣聽龍湘演奏事件改為小師妹崇拜版本。</td>
 <td></td>
@@ -121,7 +121,7 @@ tags:
 <td>第三年十月中旬</td>
 <td>武林大會</td>
 <td>• 多處劇情變化。
-    <br>• 小師妹可參與戰役及決鬥。</td>
+    <br>• <Girl0Icon>唐默鈴</Girl0Icon>可參與戰役及決鬥。</td>
 <td></td>
 </tr>
 
@@ -130,7 +130,7 @@ tags:
 <td>第三年十二月中旬剩2行動點</td>
 <td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper>-遣散唐門</td>
 <td>• 女弟子房劇情差分。
-    <br>• <MarkdownWrapper>[退隱江湖](/event/ends/end-25)</MarkdownWrapper>結局演出為與小師妹陪伴版本。</td>
+    <br>• <MarkdownWrapper>[退隱江湖](/event/ends/end-25)</MarkdownWrapper>結局演出為與<Girl0Icon>唐默鈴</Girl0Icon>陪伴版本。</td>
 <td></td>
 </tr>
 
@@ -139,8 +139,8 @@ tags:
 <td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬(成立西武林盟)</td>
 <td>小師妹陪伴</td>
-<td>至女弟子房可觸發為小師妹梳頭事件。</td>
-<td>若不觸發此事件，則剩2行動點時自動觸發小師妹等不到你的事件。</td>
+<td>至女弟子房可觸發為<Girl0Icon>唐默鈴</Girl0Icon>梳頭事件。</td>
+<td>若不觸發此事件，則剩2行動點時自動觸發<Girl0Icon>唐默鈴</Girl0Icon>等不到你的事件。</td>
 </tr>
 
 <tr>
@@ -148,7 +148,7 @@ tags:
 <td>• 第四年一月中旬剩兩次行動(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬剩兩次行動(成立西武林盟失敗而頑抗到底)</td>
 <td><MarkdownWrapper>[唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper></td>
-<td>• 小師妹可加入終戰。
+<td>• <Girl0Icon>唐默鈴</Girl0Icon>可加入終戰。
     <br>• 終戰獲勝後可進入汗青書<MarkdownWrapper>[《唐門薪火》](/event/ends/end-37)</MarkdownWrapper>。</td>
 <td>• 若有觸發梁有詩拯救葉雲裳，結局劇情會不同。
     <br>• 若與多人結緣，滅門線結局結緣優先度(v1.0.3201.1)：
@@ -160,17 +160,17 @@ tags:
 <td>10</td>
 <td>第四年二月中旬剩兩次行動</td>
 <td><MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
-<td>• 小師妹參戰。
+<td>• <Girl0Icon>唐默鈴</Girl0Icon>參戰。
     <br>• 可選擇讓她同行或護衛三師兄。
     <br>• 多處劇情、戰鬥變動。</td>
-<td>若選擇讓她護衛三師兄，並決策出擊外堡，可獲得技能「勇氣2」。</td>
+<td>若選擇讓<Girl0Icon>唐默鈴</Girl0Icon>護衛三師兄，並決策出擊外堡，可獲得技能「勇氣2」。</td>
 </tr>
 
 <tr>
 <td>11</td>
 <td>第四年三月上旬</td>
 <td>武林盟主對決(西武林線)</td>
-<td>• 劇情有小師妹陪同。
+<td>• 劇情有<Girl0Icon>唐默鈴</Girl0Icon>陪同。
     <br>• 結局畫面與小師妹相伴。
     <br>• 戰勝可達成<MarkdownWrapper>[風雲史《唐門女婿》](/event/achievements/#風雲史-No.13)</MarkdownWrapper>。</td>
 <td></td>
