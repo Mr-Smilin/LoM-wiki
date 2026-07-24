@@ -46,7 +46,7 @@ tags:
 <td>條件1觸發後一個月內</td>
 <td><MarkdownWrapper>[葉氏行蹤風波](/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper></td>
 <td>• 先確保名聲≧10，再多一點會更保險。
-    <br>• 滿足條件1後一個月內，點選大門自動觸發。
+    <br>• 點選大門自動觸發。
     <br>• 進入客棧後，不可以選擇📖「不蹚渾水」:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 若選擇📖「在樓下等」，觸發🗡️戰役，勝負不重要。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 若選擇📖「上樓看看」，觸發🗡️對決，需獲勝。
@@ -98,8 +98,8 @@ tags:
 <td>6</td>
 <td>第二年十二月上旬</td>
 <td>葉雲舟歸來</td>
-<td><Girl2Icon>葉雲裳</Girl2Icon>好感≧30，且技能「<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>」等級≧3，以觸發聽說《寂滅三摩地》。</td>
-<td>技能《佛學》等級只影響對話差分。</td>
+<td><Girl2Icon>葉雲裳</Girl2Icon>好感≧30，且技能<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>等級≧3，以觸發聽說《寂滅三摩地》。</td>
+<td>技能《佛學》等級只影響對話變化。</td>
 </tr>
 
 <tr>
@@ -111,7 +111,7 @@ tags:
     <br>• 你的建議選擇📖「勸葉雲舟留」。
     <br>• 與唐芳談話後可獲得<MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>。
 </td>
-<td>• 技能《佛學》等級只影響對話差分。
+<td>• 技能《佛學》等級只影響對話變化。
     <br>• <MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>需在第三年五月上旬前修練完畢。
 </td>
 </tr>
@@ -171,21 +171,27 @@ tags:
 </td>
 <td>前往及留宿錦香宮</td>
 <td>• 假設有讓<Girl2Icon>葉雲裳</Girl2Icon>同行:
-    <br>• 旅途事件: 休憩時的劇情變化。
-    <br>• 錦香宮: 多處劇情變化。
-    <br>• 錦香宮: 華音閣增加葉雲裳學琴事件(共三次)。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 旅途事件: 劇情變化。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 旅途事件: 葉雲舟可參與戰役。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 錦香宮: 多處劇情變化。
+    <br>• 假設有讓<Girl2Icon>葉雲裳</Girl2Icon>同行:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 旅途事件: 劇情變化。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 多處劇情變化。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 錦香宮: 華音閣增加葉雲裳學琴事件(共三次)。
 </td>
-<td></td>
+<td>目前這段劇情葉雲舟的同行綁定<Girl2Icon>葉雲裳</Girl2Icon>結緣，故也列出葉雲舟的劇情變化。</td>
 </tr>
 
 <tr>
 <td>4</td>
 <td>第三年十月中旬</td>
 <td>武林大會</td>
-<td>• 假設有讓<Girl2Icon>葉雲裳</Girl2Icon>同行:
-    <br>• 多處劇情變化。
-    <br>• 可讓葉雲舟代表唐門參加比武。
-    <br>• 若投票後唐門成為武林公敵，且選擇📖「讓葉雲裳陪伴」，可解鎖<MarkdownWrapper>[風雲史《惡人自有惡人磨》](/event/achievements/#風雲史-No.19)</MarkdownWrapper>。
+<td><br>• 假設有讓葉雲舟同行:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 多處劇情變化。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 可以讓他代表唐門參加比武。
+    <br>• 假設有讓<Girl2Icon>葉雲裳</Girl2Icon>同行:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 多處劇情變化。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 若投票後唐門成為武林公敵，且選擇📖「讓葉雲裳陪伴」，可解鎖<MarkdownWrapper>[風雲史《惡人自有惡人磨》](/event/achievements/#風雲史-No.19)</MarkdownWrapper>。
 </td>
 <td>目前這段劇情葉雲舟的同行綁定<Girl2Icon>葉雲裳</Girl2Icon>結緣，故也列出葉雲舟的劇情變化。</td>
 </tr>
@@ -195,11 +201,11 @@ tags:
 <td>第三年十二月中旬剩2行動點</td>
 <td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
 <td>• 新增📜「詢問葉雲舟」，若武林大會他有代表出戰，會獲得<MarkdownWrapper>[同舟劍譜](/system/books/book_2301)</MarkdownWrapper>(但若修練完成，後面就無法習得劍聖極招)。
-    <br>• 若決策結果為遣散唐門，女弟子房與男弟子房劇情差分。
+    <br>• 若決策結果為遣散唐門，女弟子房與男弟子房劇情變化。
     <br>• 若決策結果為遣散唐門，<MarkdownWrapper>[退隱江湖](/event/ends/end-25)</MarkdownWrapper>結局演出為與<Girl2Icon>葉雲裳</Girl2Icon>陪伴版本。
-    <br>• 若決策結果為成立西武林，在準備大戰期間有許多劇情差分，下面就只列出重要的，其他不一一列舉。
+    <br>• 若決策結果為成立西武林，在準備大戰期間有許多劇情變化，下面就只列出重要的，其他不一一列舉。
 </td>
-<td>目前這段劇情葉雲舟的在場綁定<Girl2Icon>葉雲裳</Girl2Icon>結緣，故也列出葉雲舟的劇情變化。</td>
+<td></td>
 </tr>
 
 <tr>
@@ -208,7 +214,7 @@ tags:
     <br>• 或第四年二月上旬(成立西武林盟決策)
 </td>
 <td>小師妹回訪</td>
-<td>葉雲裳參與事件，劇情變化。</td>
+<td><Girl2Icon>葉雲裳</Girl2Icon>參與事件，劇情變化。</td>
 <td></td>
 </tr>
 
@@ -232,8 +238,7 @@ tags:
     <br>• <Girl2Icon>葉雲裳</Girl2Icon>參戰，多處劇情、戰鬥變化。
     <br>• 終戰獲勝後可進入<MarkdownWrapper>[汗青書38:《神州旅人》](/event/ends/end-38)</MarkdownWrapper>。
 </td>
-<td>• 若有觸發梁有詩拯救葉雲裳，結局劇情會不同。
-    <br>• 若與多人結緣，滅門線結局結緣優先度(v1.0.3201.1)：
+<td>• 若與多人結緣，滅門線結局結緣優先度(v1.0.3201.1)：
     <br><Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 </td>
 </tr>
@@ -242,7 +247,7 @@ tags:
 <td>9</td>
 <td>第四年二月中旬剩兩次行動</td>
 <td><MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
-<td>• <Girl2Icon>葉雲裳</Girl2Icon>參戰，多處劇情及戰鬥差分。
+<td>• <Girl2Icon>葉雲裳</Girl2Icon>參戰，多處劇情及戰鬥變化。
     <br>• 多處劇情、戰鬥變動。
     <br>• 📖「護衛三師兄」的第二場🗡️對決結束後，觸發🗡️對決無相祖師。
     <br>• 戰後📜「雲裳找你」時，若葉雲裳好感≧50，且滿足條件8中劍聖極招條件，設置劍聖傳承前置。
@@ -256,7 +261,7 @@ tags:
 <td>劍聖傳承</td>
 <td>• 若滿足條件9所述前置，大門下山可觸發此事件。
     <br>• 🎲擲骰到【≧50】「葉雲舟沒出現」，進入學習劍聖極招過程。
-    <br>• 必須擁有技能「<MarkdownWrapper>[《點破雲關》](/system/skill)</MarkdownWrapper>」，且未習得技能「<MarkdownWrapper>[《同舟劍法》](/system/skill)</MarkdownWrapper>」，才能根據🎲擲骰結果習得劍聖極招。
+    <br>• 必須擁有技能<MarkdownWrapper>[《點破雲關》](/system/skill)</MarkdownWrapper>，且未習得技能<MarkdownWrapper>[《同舟劍法》](/system/skill)</MarkdownWrapper>，才能根據🎲擲骰結果習得劍聖極招。
 </td>
 <td></td>
 </tr>
@@ -266,10 +271,13 @@ tags:
 <td>第四年三月上旬</td>
 <td>武林盟主對決(西武林線)</td>
 <td>• 劇情有<Girl2Icon>葉雲裳</Girl2Icon>陪同。
-    <br>• 若戰勝瑞笙且選擇讓他負責，並且<MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>有擊殺無相祖師，觸發的劇情差分。
+    <br>• 若戰勝瑞笙且選擇讓他負責，並且<MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>有擊殺無相祖師，觸發的劇情變化。
     <br>• 結局畫面與葉雲裳相伴。
     <br>• 戰勝可達成<MarkdownWrapper>[風雲史《魔王的爪牙》](/event/achievements/#風雲史-No.18)</MarkdownWrapper>。
 </td>
 <td></td>
 </tr>
 </table>
+
+## 備註
+• 目前資料主要參考[〈活俠傳事件及分歧整理〉](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)的系統拆包資料，尚未經過反覆驗證。
