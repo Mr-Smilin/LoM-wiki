@@ -126,7 +126,7 @@ tags:
     <br>• 完成此事件，獲得道具【葉雲裳的梳子】後，即完成結緣。
 </td>
 <td>• 欲增加<Girl2Icon>葉雲裳</Girl2Icon>好感，可在後山練功刷烤魚事件。
-    <br>• 比拚內力時🎲擲骰到【<99】略遜一籌，且谷底生活期間有閒聊📜「葉雲裳的武功」，是第四年西武林線習得劍聖極招的必要條件之一。
+    <br>• 比拚內力時🎲擲骰到【<99】略遜一籌，且谷底生活期間有閒聊📜「葉雲裳的武功」，是第四年西武林線觸發劍聖傳承的必要條件。
     <br>• 若擁有技能<MarkdownWrapper>[《南宮護心訣》](/system/skill)</MarkdownWrapper>等級3，則對戰幻境南宮遠獲勝後，習得技能<MarkdownWrapper>[《偕老誓》](/system/skill)</MarkdownWrapper>。
     <br>• 結緣過程中，會獲得技能<MarkdownWrapper>[《九轉輪迴》](/system/skill)</MarkdownWrapper>。
 </td>
@@ -249,7 +249,7 @@ tags:
 <td>• <Girl2Icon>葉雲裳</Girl2Icon>參戰，多處劇情及戰鬥變化。
     <br>• 多處劇情、戰鬥變動。
     <br>• 📖「護衛三師兄」的第二場🗡️對決結束後，觸發🗡️對決無相祖師。
-    <br>• 戰後📜「雲裳找你」時，若葉雲裳好感≧50，且滿足條件8中劍聖極招條件，設置劍聖傳承前置。
+    <br>• 戰後📜「雲裳找你」時，若葉雲裳好感≧50，且滿足條件8中劍聖傳承條件，設置劍聖傳承前置。
 </td>
 <td></td>
 </tr>
@@ -258,7 +258,7 @@ tags:
 <td>10</td>
 <td>第四年二月下旬</td>
 <td>劍聖傳承</td>
-<td>• 若滿足條件9所述前置，大門下山可觸發此事件。
+<td>• 若滿足事件9中的劍聖傳承前置，大門下山可觸發此事件。
     <br>• 🎲擲骰到【≧50】「葉雲舟沒出現」，進入學習劍聖極招過程。
     <br>• 必須擁有技能<MarkdownWrapper>[《點破雲關》](/system/skill)</MarkdownWrapper>，且未習得技能<MarkdownWrapper>[《同舟劍法》](/system/skill)</MarkdownWrapper>，才能根據🎲擲骰結果習得劍聖極招。
 </td>
@@ -279,5 +279,5 @@ tags:
 </table>
 
 ## 備註
-• 由於本路線劇情要求修練許多武學，且<Girl2Icon>葉雲裳</Girl2Icon>有許多支線事件消耗金錢，比較建議二周目以上資源較充足再攻略。天命可以優先加點相關人物好感度，以避免遊戲內花大量行動點去刷。
+• 由於本路線劇情要求修練許多武學，且<Girl2Icon>葉雲裳</Girl2Icon>有許多支線事件消耗金錢，比較建議二周目以上資源較充足再攻略。
 <br>• 目前資料主要參考[〈活俠傳事件及分歧整理〉](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)的系統拆包資料，尚未經過反覆驗證。
