@@ -2,7 +2,7 @@
 title: 葉雲裳 (ヨウウンショウ)
 tags:
     - 人物
-    - 可攻略女角
+    - 攻略可能ヒロイン
     - 点蒼派
 aside: false
 ---
@@ -268,7 +268,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[李元棄](/ja/people/characters/special213) (族叔)
+					[李元棄](/ja/people/characters/special213) (叔父)
 				</ChTd>
 			</ChTr>
 		</table>
@@ -286,7 +286,7 @@ aside: false
 
 ## 列伝
 
-旧列伝は1.0.5000より前の設定である。既に廃棄されている。最大の違いは、宝蔵を失ったこと。
+旧列伝は1.0.5000より前の設定である。既に廃棄されている。最大の違いは、宝蔵の設定がなくなったこと。
 
 <Tabs>
   <Tab title="列伝一">
@@ -361,19 +361,19 @@ aside: false
 
 ## 病弱
 
--   一家が変事に遭った際に致命傷を負い、族叔[李元棄](/ja/people/characters/special213)の九泉丹で命をつないだ。その後、点蒼双尊・[段智秀](/ja/people/characters/special833)・[南宮遠](/ja/people/characters/special101)・[鄒博](/ja/people/characters/special201)から内力を注ぎ込まれたが、丹田が損傷しているせいで自力で消化吸収できず、邪気が盛んで正気が衰える状態になっている。普通の医者にはこの症状の診断は難しく、[二師兄](/ja/people/characters/brother2.md)・[梁有詩](/ja/people/characters/special830)・天道法王のような武学と医療を兼ね備えた医者だけが治療できる。
+-   一家が変事に遭った際に致命傷を負い、叔父の[李元棄](/ja/people/characters/special213)の九泉丹で命をつないだ。その後、点蒼双尊・[段智秀](/ja/people/characters/special833)・[南宮遠](/ja/people/characters/special101)・[鄒博](/ja/people/characters/special201)から内力を注ぎ込まれたが、丹田が損傷しているせいで自力で消化吸収できず、邪気が盛んで正気が衰える状態になっている。普通の医者にはこの症状の診断は難しく、[唐錚](/ja/people/characters/brother2.md)・[梁有詩](/ja/people/characters/special830)・天道法王のような武学と医療を兼ね備えた医者だけが治療できる。
 -   一見元気に飛び跳ねているが、実際には深刻な病巣を抱えていて、一時的に表に出ていないだけ。この体調は彼女を3回殺してもまだ足りないほどのものである。
 -   身長にはまだ少し成長の余地があるが、まず体を治すのが先。[^1]重病とはいえ、毎日血を吐くわけではない。[^2]
--   [小師妹](/ja/people/characters/girl0.md)より体重は重い。具体的には何とも言えない。なにしろ彼女の健康状態はかなり複雑で、いつ激やせしてもおかしくないから。[^3]
+-   [唐默鈴](/ja/people/characters/girl0.md)より体重は重い。具体的には何とも言えない。なにしろ彼女の健康状態はかなり複雑で、いつ激やせしてもおかしくないから。[^3]
 -   船酔いする。[唐門](/ja/people/factions/tang-men)の万霊油がなければ、葉兄は彼女を抱いて船を降り、歩いて行くしかない。
 
 ## 聡慧
 
 -   生まれつき頭が良い。子供の頃、点蒼剣廬にこっそり忍び込んだわずかな時間で、三招の極意を悟った。第四式を編み出せる可能性すらあった。
--   見ただけで[盤古開天破](/ja/system/books/book_2011)と[斬天黑翼雙龍劍](/ja/system/books/book_2005)を覚えてしまう。
+-   見ただけで[盤古開天破](/ja/system/books/book_2011)と[斬天黒翼双龍剣](/ja/system/books/book_2005)を覚えてしまう。
 -   体が弱くなければ、おそらく兄の[葉雲舟](/ja/people/characters/special3)より武の素質がある。
 -   [葉雲舟](/ja/people/characters/special3)・[段智秀](/ja/people/characters/special833)らわずか4人で隊列から郡主を連れ去るという大胆な計画を立案した。
--   自分と[趙活](/ja/people/characters/player)・[唐芳](/ja/people/characters/special832)たちが青城から無傷で撤退する計画を立案した(詳細は[段智秀来襲・青城脱出](/ja/event/detailed_description/3-03-3-段智秀来襲)を参照)。
+-   自分と[趙活](/ja/people/characters/player)・[唐芳](/ja/people/characters/special832)たちが青城から無傷で撤退する計画を立案した(詳細は[段智秀来襲・青城脱出](/ja/event/simple/2-09-3-段智秀來襲)を参照)。
 -   [趙活](/ja/people/characters/player)と一緒に錦香宮へ行った場合、短い滞在期間で琴の技芸を習得し、審査に合格するだけでなく、自分で変奏までできるようになり、[溫夫人](/ja/people/characters/special402)から琴を1面贈られる。
 -   風雨山の上で唐門がデマで中傷されるのを見て、パオズ1個で、デマを流した[晁和](/ja/people/characters/special208)を惨死させ、[釋明](/ja/people/characters/special826)の評判を地に落とした。
 -   遊戯王に似たカードゲームを自作し、有名な俠士たちを絵札にした。
@@ -381,23 +381,23 @@ aside: false
     > [趙活](/ja/people/characters/player)カードはただの雑魚。しかもやたら枚数が多い。壁・生け贄・装備の三役をこなせて、意外と万能。<br><br>
     > 犬カードは星3つ。趙活より星2つ多い。<br><br>
     > 葉雲裳カードの必殺技は敵のカードの強制徴収。<br><br>
-    > [唐默鈴](/ja/people/characters/girl0.md)カードの必殺技は、自分を[趙活](/ja/people/characters/player)の侵害から守ること。一人三化ですべての趙活を謀殺する。このルールは現実の趙活にも適用される。
+    > [唐默鈴](/ja/people/characters/girl0.md)カードの必殺技は、自分を[趙活](/ja/people/characters/player)の侵害から守ること。まるで1人が3体に分かれたかのように、すべての趙活を謀殺する。このルールは現実の趙活にも適用される。
     
 ## 悪戯
 
 -   人をからかうのが得意で、それも徹底的にやるタイプ。悪戯のときは加減を知らず、人を泣かせてしまってから後ろめたくなる中途半端者。[^5][^6]
 -   悪戯の例（これに限らない）：
     -   裏山に罠を仕掛けて、山に狩りに来た[李富貴](/ja/people/characters/special809)を捕らえた。彼は空から降ってきた生きた鹿にぶつかられて気絶した。
-    -   壯士飛腕を使って幽霊のふりをし、[二師兄](/ja/people/characters/brother2.md)に捕まって、[小師妹](/ja/people/characters/girl0.md)まで巻き添えで一緒に叩かれた。
+    -   壯士飛腕を使って幽霊のふりをし、[唐錚](/ja/people/characters/brother2.md)に捕まって、[唐默鈴](/ja/people/characters/girl0.md)まで巻き添えで一緒に叩かれた。
     -   眉鎮の鶏の毛をむしって羽衣に編み直して着せ、犬の四本足をバナナの皮で包んだ。生きて動く生き物なら、彼女の毒牙を逃れられない。
     -   宿屋の中に煙を吹き込んで、泊まり客に火事だと思い込ませた。
     -   実の兄の名声に傷がつくのを恐れて、[趙活](/ja/people/characters/player)を生け贄として差し出すことを喜んで決めた。罪の半分はすべて趙活持ち。おかげで趙活はわけも分からないまま宿屋のブラックリストに載った。
     -   外堡で魔王軍を組織して、役所を騒がせた。魔王軍の勢力は強大で、[上官螢](/ja/people/characters/girl4.md)まで編入されている。
-    -   タケノコを[青城派](/ja/people/factions/qing-cheng-sect)の座布団の中に詰め込んだ。悪行の数々により、上清宮の外で立ち入り禁止を命じられた(経緯は[青城留学アーク](/ja/event/detailed_description/3-03-2-青城留学アーク)を参照)。
-    -   男色好きの疑いがある。[趙活](/ja/people/characters/player)が湿布を貼るために[大師兄](/ja/people/characters/brother1.md)の服を脱がせているところに出くわして、第一声が「ほう……いいねえ」。続けて[小師妹](/ja/people/characters/girl0.md)をそそのかして一緒に噂をばらまいた。
-    -   [四師兄](/ja/people/characters/brother4.md)を「四師肥」、鄒掌門を「鄒肥伯」と呼ぶ。さらに唐門の弟子たちに「肥肥」「あのだれか」といったあだ名まで付けた。
-    -   [四師兄](/ja/people/characters/brother4.md)の行李の中に爆竹を仕込み、歩いている最中に背後で爆発させた。
-    -   [四師兄](/ja/people/characters/brother4.md)の入浴中に服を盗んで脅迫しようとして失敗すると、服を崖の下に放り投げて、女弟子たちに彼を見物させた。
+    -   タケノコを[青城派](/ja/people/factions/qing-cheng-sect)の座布団の中に詰め込んだ。悪行の数々により、上清宮の外で立ち入り禁止を命じられた(経緯は[青城での療養](/ja/event/detailed_description/2-08-5-青城療傷)を参照)。
+    -   男色好きの疑いがある。[趙活](/ja/people/characters/player)が湿布を貼るために[唐布衣](/ja/people/characters/brother1.md)の服を脱がせているところに出くわして、第一声が「ほう……いいねえ」。続けて[唐默鈴](/ja/people/characters/girl0.md)をそそのかして一緒に噂をばらまいた。
+    -   [唐惟元](/ja/people/characters/brother4.md)を「四師肥」、鄒掌門を「鄒肥伯」と呼ぶ。さらに唐門の弟子たちに「肥肥」「あのだれか」といったあだ名まで付けた。
+    -   [唐惟元](/ja/people/characters/brother4.md)の行李の中に爆竹を仕込み、歩いている最中に背後で爆発させた。
+    -   [唐惟元](/ja/people/characters/brother4.md)の入浴中に服を盗んで脅迫しようとして失敗すると、服を崖の下に放り投げて、女弟子たちに彼を見物させた。
 
 ## 装い
 
@@ -416,13 +416,13 @@ aside: false
 -   兄嫁への条件：彼女を可愛がること。あまり賢すぎないこと。外見にだまされるタイプであること。それから、お尻が大きすぎないこと。
 -   [葉雲裳](/ja/people/characters/girl2.md)の体が全快した後、挑戦状で兄を一戦に誘い、自分の才能を見せつける。それによって、兄に剣を置いて本当にやりたいことをやるよう勧める。
 
-## 小師妹
+## 唐默鈴
 
--   [小師妹](/ja/people/characters/girl0.md)と年齢が近く、15歳と推測される。初対面で相手に深く惹かれ、親しくなりたいという思いが芽生えた。
--   唐門で[小師妹](/ja/people/characters/girl0.md)と親友になり、とても仲が良い。
+-   [唐默鈴](/ja/people/characters/girl0.md)と年齢が近く、15歳と推測される。初対面で相手に深く惹かれ、親しくなりたいという思いが芽生えた。
+-   唐門で[唐默鈴](/ja/people/characters/girl0.md)と親友になり、とても仲が良い。
 -   雲裳の目には、この世に默鈴に釣り合う男など一人もいない。ただ心配なのは、彼女が清らかで無邪気すぎて、誰を見てもなんとなく良い人に見えてしまい、一生を誤った相手に捧げてしまうこと。悔しいのは自分が男の身でないことだけ。そうでなければとっくにあの娘をかっさらっていて、今ごろ彼女のことでこんなに気を揉むこともなかったのに。
--   当事者の意向を無視して、兄と[小師妹](/ja/people/characters/girl0.md)をくっつけようとした。けしかけてもうまくいかないと見るや、いっそ自分が[葉雲啾](/ja/people/characters/girl2_2)に扮して比武招親に参加し、[趙活](/ja/people/characters/player)に見破られて連れ帰られた。
--   [小師妹](/ja/people/characters/girl0.md)の隠している気持ちを見抜くことができ、彼女が考えを口に出せるよう導いてくれる。
+-   当事者の意向を無視して、兄と[唐默鈴](/ja/people/characters/girl0.md)をくっつけようとした。けしかけてもうまくいかないと見るや、いっそ自分が[葉雲啾](/ja/people/characters/girl2_2)に扮して比武招親に参加し、[趙活](/ja/people/characters/player)に見破られて連れ帰られた。
+-   [唐默鈴](/ja/people/characters/girl0.md)の隠している気持ちを見抜くことができ、彼女が考えを口に出せるよう導いてくれる。
 
 ## 備考
 
@@ -435,9 +435,9 @@ aside: false
 -   見よ、私の点蒼棒法！聽雲棒！
 -   甘い物が大好きで、特に冰糖葫蘆 (タンフールー)。買って買って！[趙活](/ja/people/characters/player)が手に入れた食べ物はすべて彼女に横取りされる。
 -   胡椒餅は辛すぎると文句を言い、一口かじってもう食べない。
--   やきもち焼き。嫁ぐなら一途な相手でなければならず、他人に寵愛を分けるのを許さない。この世で[小師妹](/ja/people/characters/girl0.md)以外、誰かと一人の夫を共有するつもりはない。ただし、たとえ[趙活](/ja/people/characters/player)が本当に2人とも娶ったとしても、彼にいい思いはさせない。姉妹2人がべったり仲良くしているのに、趙活の出る幕がどこにある？
+-   やきもち焼き。嫁ぐなら一途な相手でなければならず、他人に寵愛を分けるのを許さない。この世で[唐默鈴](/ja/people/characters/girl0.md)以外、誰かと一人の夫を共有するつもりはない。ただし、たとえ[趙活](/ja/people/characters/player)が本当に2人とも娶ったとしても、彼にいい思いはさせない。姉妹2人がべったり仲良くしているのに、趙活の出る幕がどこにある？
 -   ~~エッチな白テン~~「羊は默鈴。私は白テン。白テンは人の袖に潜り込んだり、首に巻きついたり、噛みついたりするのが好き……」
--   [趙活](/ja/people/characters/player)を噛むときは本気の噛みつきで、全身どこもかしこも痛い。[小師妹](/ja/people/characters/girl0.md)の方は、ちょっとずつ小さく甘噛みする。
+-   [趙活](/ja/people/characters/player)を噛むときは本気の噛みつきで、全身どこもかしこも痛い。[唐默鈴](/ja/people/characters/girl0.md)の方は、ちょっとずつ小さく甘噛みする。
 -   怪談が好き。まったく怖がらないタイプ。[^3]
 -   語尾の「ことよ」の原語は「的說」。中華圏の創作でわがまま・小悪魔系キャラによく使われる記号的な語尾。韓国語版には固定の対応語尾はなく、台詞ごとに自然な文末表現(例: -노라 / 이 말씀이야 / -였다고)に訳し分けられている。
 -   エンディング15、子夜寄君書の真意。

@@ -90,7 +90,7 @@ tags:
 				<MarkdownWrapper>
 				[武穆王の宝蔵談義 (談論武穆王寶藏)](/ja/event/simple/1-08-1-談論武穆王寶藏)<br>
 				[葉氏の行方をめぐる騒動 (葉氏行蹤風波)](/ja/event/simple/1-08-1-葉氏行蹤風波)<br>
-				[葉雲裳衝撃](/ja/event/simple/1-08-1-葉雲裳衝擊)<br>
+				[葉雲裳の体当たり (葉雲裳衝擊)](/ja/event/simple/1-08-1-葉雲裳衝擊)<br>
 				[唐門の財務改善 (唐門財務改善)](/ja/event/simple/1-08-1-唐門財務改善)<br>
 				</MarkdownWrapper>
 			</td>
@@ -112,6 +112,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[龍湘との出会い (初識龍湘)](/ja/event/simple/1-09-1-初識龍湘)<br>
+				[唐芳師姉の帰還 (唐芳師姉帰還)](/ja/event/simple/2-11-1-唐芳師姉帰還)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -121,7 +122,7 @@ tags:
 				[福韞との出会い (初識福韞)](/ja/event/simple/1-09-2-初識福韞)<br>
 				[仏法教育 (佛法教育)](/ja/event/simple/1-09-2-佛法教育)<br>
 				[龍湘、盗難に遭う](/ja/event/simple/1-09-2-龍湘遭竊)<br>
-				[龍湘の告発](/ja/event/simple/1-09-3-龍湘の告発)<br>
+				[龍湘の告発 (龍湘告官)](/ja/event/simple/1-09-3-龍湘告官)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -192,7 +193,12 @@ tags:
 				[留学について (留學討論)](/ja/event/simple/2-02-1-留學討論)<br>
 				</MarkdownWrapper>
 			</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[紙札遊戯の対決](/ja/event/simple/2-02-3-紙牌對決)<br>
+				[葉雲裳の診察とお出かけ](/ja/event/simple/2-02-4-雲裳問診出遊)<br>
+				</MarkdownWrapper>
+			</td>
 			<td>-</td>
 		</tr>
 		<tr>
@@ -200,7 +206,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[留学生の来訪 (留學生來訪)](/ja/event/simple/2-03-1-留學生來訪)<br>
-				[留学生の乱闘](/ja/event/simple/2-02-2-留学生の乱闘)<br>
+				[留学生の乱闘](/ja/event/simple/2-02-2-留學生鬥毆)<br>
 				</MarkdownWrapper>
 				<li>唐門例会</li>
 			</td>
@@ -218,7 +224,7 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[二師兄の訓話](/ja/event/simple/2-04-2-二師兄の訓話)<br>
+				[二師兄の訓話](/ja/event/simple/2-04-2-二師兄訓話)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -239,7 +245,6 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[家出](/ja/event/simple/2-06-1-離家出走)<br>
-				[廃寺の変装者たち（詳細）](/ja/event/detailed_description/2-06-2-廃寺の変装者たち)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -262,17 +267,12 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)<br>
-				[青城留学アーク（詳細、想い人＝葉雲裳ルート）](/ja/event/detailed_description/3-03-2-青城留学アーク)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
 			<td>九月</td>
-			<td>
-				<MarkdownWrapper>
-				[四師兄の青城訪問](/ja/event/simple/3-03-4-四師兄の青城訪問)<br>
-				</MarkdownWrapper>
-			</td>
+			<td>-</td>
 			<td>-</td>
 			<td>-</td>
 		</tr>
@@ -292,11 +292,7 @@ tags:
 				<li>唐門例会</li>
 			</td>
 			<td>-</td>
-			<td>
-				<MarkdownWrapper>
-				[段智秀来襲・青城脱出（詳細、想い人＝葉雲裳ルート）](/ja/event/detailed_description/3-03-3-段智秀来襲)<br>
-				</MarkdownWrapper>
-			</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>十二月</td>
@@ -312,6 +308,47 @@ tags:
 				<MarkdownWrapper>
 				[掌門会議 (掌門議事)](/ja/event/simple/2-12-3-掌門議事)<br>
 				[唐門内戦 (唐門內戰)](/ja/event/simple/2-12-3-唐門內戰)<br>
+				</MarkdownWrapper>
+			</td>
+		</tr>
+	</table>
+</div>
+
+## 第二年 - 路線：青城留学（想い人＝葉雲裳）
+
+<div class="table-container">
+	<table>
+		<tr>
+			<th>月</th>
+			<th>上旬</th>
+			<th>中旬</th>
+			<th>下旬</th>
+		</tr>
+		<tr>
+			<td>八月</td>
+			<td>-</td>
+			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[廃寺の変装者たち](/ja/event/detailed_description/2-08-3-廢寺喬裝)<br>
+				[青城での療養](/ja/event/detailed_description/2-08-5-青城療傷)<br>
+				[唐芳の問診](/ja/event/simple/2-08-6-唐芳問診)<br>
+				[葉雲裳の秘笈ガチャ2](/ja/event/simple/2-08-7-葉雲裳秘笈2)<br>
+				[青城観光](/ja/event/simple/2-08-8-青城遊覽)<br>
+				</MarkdownWrapper>
+			</td>
+		</tr>
+		<tr>
+			<td>九月</td>
+			<td>
+				<MarkdownWrapper>
+				[四師兄の青城訪問](/ja/event/simple/2-09-2-四師兄行商)<br>
+				</MarkdownWrapper>
+			</td>
+			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[段智秀来襲・青城脱出](/ja/event/simple/2-09-3-段智秀來襲)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -350,7 +387,7 @@ tags:
 			<td>三月</td>
 			<td>
 				<MarkdownWrapper>
-				[崆峒派への留学 (崆峒派留學)](/ja/event/simple/2-03-1-崆峒留學)<br>
+				[崆峒への留学 (崆峒留學)](/ja/event/simple/2-03-1-崆峒留學)<br>
 				[鉄拳小路へ初潜入 (初入鐵拳巷)](/ja/event/simple/2-03-1-初入鐵拳巷)<br>
 				</MarkdownWrapper>
 			</td>
@@ -447,11 +484,7 @@ tags:
 			<td>
 				<li>唐門例会</li>
 			</td>
-			<td>
-				<MarkdownWrapper>
-				[唐芳師姉の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)<br>
-				</MarkdownWrapper>
-			</td>
+			<td>-</td>
 			<td>-</td>
 		</tr>
 		<tr>
@@ -509,7 +542,7 @@ tags:
 				[大師兄重傷](/ja/event/simple/3-01-3-大師兄重傷)<br>
 				[後山埋葬 (後山安葬)](/ja/event/simple/3-01-3-後山安葬)<br>
 				[丹薬解毒 (煉丹解毒)](/ja/event/simple/3-01-3-煉丹解毒)<br>
-				[葉雲裳の診察](/ja/event/simple/3-01-4-葉雲裳の診察)<br>
+				[葉雲裳の診察](/ja/event/simple/3-01-4-雲裳問診)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -598,7 +631,7 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[夏侯蘭の思い出 (夏侯蘭的回憶)](/ja/event/simple/3-07-2-雪山之約)<br>
+				[雪山の約束 (雪山之約)](/ja/event/simple/3-07-2-雪山之約)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -608,12 +641,12 @@ tags:
 			<td>
                 <MarkdownWrapper>
 				唐門例会：[四師兄の遠経商取引](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)<br>
-				[四師兄の旅立ち](/ja/event/simple/3-08-2-四師兄道別)<br>
+				[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)<br>
                 </MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				<li>[武林大会の招待状](/ja/event/simple/3-08-3-武林大会の招待状)</li>
+				<li>[武林大会の招待状](/ja/event/simple/3-08-3-武林大會請柬)</li>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -622,13 +655,13 @@ tags:
 			<td>九月</td>
 			<td>
 				<MarkdownWrapper>
-				<li>[武林大会へ向かう](/ja/event/simple/3-09-1-武林大会へ向かう)</li>
+				<li>[武林大会へ向かう](/ja/event/simple/3-09-1-赴武林大會)</li>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>
 				<MarkdownWrapper>
-				<li>[錦香宮からの招待](/ja/event/simple/3-09-1-武林大会へ向かう)</li>
+				<li>[錦香宮からの招待](/ja/event/simple/3-09-1-赴武林大會)</li>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -636,13 +669,13 @@ tags:
 			<td>十月</td>
 			<td>
 				<MarkdownWrapper>
-				<li>[錦香宮に泊まる](/ja/event/simple/3-10-1-錦香宮に泊まる)</li>
+				<li>[錦香宮に泊まる](/ja/event/simple/3-10-1-留宿錦香宮)</li>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				<li>[錦香宮主の請願](/ja/event/simple/3-10-1-錦香宮に泊まる)</li>
-				<li>[武林大会](/ja/event/detailed_description/3-08-2-武林大会編)</li>
+				<li>[錦香宮主の請願](/ja/event/simple/3-10-1-留宿錦香宮)</li>
+				<li>[武林大会](/ja/event/detailed_description/3-08-2-武林大會)</li>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -651,11 +684,11 @@ tags:
 			<td>十一月</td>
 			<td>
 				<MarkdownWrapper>
-				<li>[唐門に帰る](/ja/event/detailed_description/3-11-1-四師兄が帰る)</li>
+				<li>[唐門に帰る](/ja/event/detailed_description/3-11-1-四師兄歸來)</li>
 				</MarkdownWrapper>
 				<li>誰かが去る</li>
 				<MarkdownWrapper>
-				<li>[四師兄が帰る(手土産を頼む必要がある)](/ja/event/detailed_description/3-11-1-四師兄が帰る)</li>
+				<li>[四師兄が帰る(手土産を頼む必要がある)](/ja/event/detailed_description/3-11-1-四師兄歸來)</li>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>

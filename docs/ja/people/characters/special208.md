@@ -82,20 +82,20 @@ tags:
 <br><br>
 [趙活](/ja/people/characters/player)と同じ髪型をしているが、顎が少し突き出ているだけ。彼を偽装して詐欺行為をしておきながら、後に蜀中唐門に捕まって詰問される。ところがこの八面玲瓏な男、師姑の[唐小樓](/ja/people/characters/aunt2)を乾娘に認めさせ、生き残るばかりか唐門にも入った。
 <br><br>
-入門後も悪癖は治らず、[趙活](/ja/people/characters/player)の薪を盗んで努力した振りをしたり、みんなにご飯をおごってから金を持ってないと言ったり、[二師兄（唐錚）](/ja/people/characters/brother2)の指示通りに丹薬を煉らず爆発させたり、師姑の馬に乗って丐幫の犬を踏み殺したり。もっと酷いのは、一度たりとも自分の非を認めたことがない。
+入門後も悪癖は治らず、[趙活](/ja/people/characters/player)の薪を盗んで努力した振りをしたり、みんなにご飯をおごってから金を持ってないと言ったり、[唐錚](/ja/people/characters/brother2)の指示通りに丹薬を煉らず爆発させたり、師姑の馬に乗って丐幫の犬を踏み殺したり。もっと酷いのは、一度たりとも自分の非を認めたことがない。
 <br><br>
-ある日突然唐門から消えた。もう二度と顔を合わさないと思っていたのに、突然[大師兄（唐布衣）](/ja/people/characters/brother1)に五色泥を投げつけて功を散らし、武林大会上で[釋明](/ja/people/characters/special826)と共に[掌門（唐中翎）](/ja/people/characters/master)が修羅道法王だと中傷。
+ある日突然唐門から消えた。もう二度と顔を合わさないと思っていたのに、突然[唐布衣](/ja/people/characters/brother1)に五色泥を投げつけて功を散らし、武林大会上で[釋明](/ja/people/characters/special826)と共に[掌門（唐中翎）](/ja/people/characters/master)が修羅道法王だと中傷。
 <br><br>
 お前は最初から彼を許してはいけなかった。
 
 ## 悪行
 
 -   [趙活](/ja/people/characters/player)を偽装して広州で偽造医薬を売ったり、自称掌門をしたり。
--   [丐幫](/ja/people/factions/beggar-gang)と[嵩山派](/ja/people/factions/mount-song-sect)を煽動して争わせ、[趙活](/ja/people/characters/player)に罪をなすりつけようとした。後に[二師兄（唐錚）](/ja/people/characters/brother2)に捕まったが、[乾娘（唐小樓）](/ja/people/characters/aunt2)のおかげで、[掌門（唐中翎）](/ja/people/characters/master)が彼の罰を代わりに受けた。
+-   [丐幫](/ja/people/factions/beggar-gang)と[嵩山派](/ja/people/factions/mount-song-sect)を煽動して争わせ、[趙活](/ja/people/characters/player)に罪をなすりつけようとした。後に唐錚に捕まったが、[乾娘（唐小樓）](/ja/people/characters/aunt2)のおかげで、[掌門（唐中翎）](/ja/people/characters/master)が彼の罰を代わりに受けた。
 
 ## 結局
 
--   唐門滅門後、[小師妹（唐默鈴）](/ja/people/characters/girl0)から騙し取った金を持ったまま、青楼で贅沢に暮らす。
+-   唐門滅門後、[唐默鈴](/ja/people/characters/girl0)から騙し取った金を持ったまま、青楼で贅沢に暮らす。
 -   西武林エンディング後、再度[趙活](/ja/people/characters/player)を偽装して、恨みを抱く武林盟成員に捕まり、七七四十九日拷問の末死亡。
 -   [葉雲裳](/ja/people/characters/girl2)を連れて武林大会に行けば、[葉雲裳](/ja/people/characters/girl2)の計略により群俠に集団暴行され、最終的に[釋明](/ja/people/characters/special826)に腹を裂かれて死ぬ。
 
@@ -103,7 +103,7 @@ tags:
 
 -   名前の読音は「ㄔㄠˊㄏㄨㄛˋ」。本来は別の姓だったが、[嶺南派](/ja/people/factions/lingnan-sect)弟子は皆自分の名前を改めるか他人の名前を冒用して罪を逃れる。晁和本人も[趙活](/ja/people/characters/player)と同音で、捕まった時に「晁和」二字だと言ったから、わざわざこの名前を選んだ。[^2]
 -   状況によっては、丐幫／滄幫／[宋悲](/ja/people/characters/special800)が彼を連行してくるかもしれない。
--   [二師兄（唐錚）](/ja/people/characters/brother2)は第一眼で即座に毒殺したいと思い、二者を比較すれば、[趙活](/ja/people/characters/player)はかえって前代未聞に気に入られた。
+-   唐錚は第一眼で即座に毒殺したいと思い、二者を比較すれば、[趙活](/ja/people/characters/player)はかえって前代未聞に気に入られた。
 -   晁和は狂気を装ったり哀れを演じたり、底がなく取るに足らぬ者。大勢が[趙活](/ja/people/characters/player)を許さないのは、[趙活](/ja/people/characters/player)が醜い上に運命を甘受しないから。他人は一方で彼を見下しながら、彼が身を立てることを恐れ、彼を見ると才能を潰したくなる。そうすることで、弱者が彼に倣うことを防いでいるのだ。[^1]
 -   五官は[趙活](/ja/people/characters/player)と実は大きく異なるが、他人が詳しく見るのを恐れるのに甘えて、服装と髪型を意図的に模倣し、「俺が趙活だ」「俺が唐門の醜俠だ」と自称するから、よく知らない者は騙される。
 -   晁和は何日も風呂に入らず、身から濃い体臭が漂い、[趙活](/ja/people/characters/player)の身には淡い薬香がいつも漂っている。[樊嘯天](/ja/people/characters/special4)と親しければ、樊嘯天は香りで晁和と[趙活](/ja/people/characters/player)を見分けられる。

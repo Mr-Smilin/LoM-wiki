@@ -47,12 +47,12 @@ tags:
     <tr>
         <td id="風雲史-No.01">01</td>
         <td><AchievementIcon :size="`medium`" :no="`01`">師門の柱石 (師門砥柱)</AchievementIcon></td>
-        <td>君は今や生まれ変わり、かつて大師兄を仰ぎ見たように、師弟たちもまた君を信頼する。</td>
+        <td>君は今や生まれ変わり、かつて<MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>を仰ぎ見たように、師弟たちもまた君を信頼する。</td>
         <td>
             1. 唐門後期会議で段階試験の開催を選択し、自分で監試する（確認待ち） <br>
-            2. <Girl0Icon>小師妹</Girl0Icon>の比武招親イベントで金烏上人を打ち倒す。以下の2つの方法で発動可能： <br>
-            a. 大師兄と一緒に山を下りて、金烏の偽死奇襲イベントを発動させる。<br>
-            b. 大師兄と別行動し、<Girl3Icon>小梅</Girl3Icon>と高い親密度を持たず、医術が5段階に達している場合、大師兄の救護時に誰かが襲撃を仕掛ける。医術を中断することを選び、その後の戦闘（金烏上人を含む）に勝利する。
+            2. <Girl0Icon>唐默鈴</Girl0Icon>の比武招親イベントで金烏上人を打ち倒す。以下の2つの方法で発動可能： <br>
+            a. 唐布衣と一緒に山を下りて、金烏の偽死奇襲イベントを発動させる。<br>
+            b. 唐布衣と別行動し、<Girl3Icon>小梅</Girl3Icon>と高い親密度を持たず、医術が5段階に達している場合、唐布衣の救護時に誰かが襲撃を仕掛ける。医術を中断することを選び、その後の戦闘（金烏上人を含む）に勝利する。
         </td>
         <td></td>
         <td></td>
@@ -69,7 +69,7 @@ tags:
         <td id="風雲史-No.03">03</td>
         <td><AchievementIcon :size="`medium`" :no="`03`">臆病者の救い星 (懦夫救星)</AchievementIcon></td>
         <td>誰もが天の寵児になりたい、天地をひっくり返し、家に帰れば妾が数えきれない。だが君は生き残る必要があり、常に正気を保たなければならない。</td>
-        <td>大師兄と一緒に山を下りて、その後の戦闘で金烏上人と対峙し、勝利後に金烏に殴られて気絶する時に自動取得。</td>
+        <td>唐布衣と一緒に山を下りて、その後の戦闘で金烏上人と対峙し、勝利後に金烏に殴られて気絶する時に自動取得。</td>
         <td></td>
         <td></td>
     </tr>
@@ -143,7 +143,7 @@ tags:
         <td>どこへも行かない。</td>
         <td>
             西武林盟ルートに進まず、<br>
-            かつ4年目の1月下旬の1戦目に敗北する（3師兄の戦死を含む）
+            かつ4年目の1月下旬の1戦目に敗北する（<MarkdownWrapper>[唐陞](/ja/people/characters/brother3)</MarkdownWrapper>の戦死を含む）
         </td>
         <td></td>
         <td></td>
@@ -152,7 +152,7 @@ tags:
         <td id="風雲史-No.11">11</td>
         <td><AchievementIcon :size="`medium`" :no="`11`">分身</AchievementIcon></td>
         <td>君はかつてあんなにも人気があった。その状態で死ねば、本望だろう？</td>
-        <td><Girl8Icon>龍湘</Girl8Icon>と姉妹兄弟の関係で親密度4星、かつ<Girl3Icon>小梅</Girl3Icon>親密度2星以上で唐門加入後、弁舌≧40かつ体力＜60の時、大師兄の帰路で「二人とも手放さない」を骰子で出す。</td>
+        <td><Girl8Icon>龍湘</Girl8Icon>と姉妹兄弟の関係で親密度4星、かつ<Girl3Icon>小梅</Girl3Icon>親密度2星以上で唐門加入後、弁舌≧40かつ体力＜60の時、唐布衣の帰路で「二人とも手放さない」を骰子で出す。</td>
         <td></td>
         <td></td>
     </tr>
@@ -163,7 +163,7 @@ tags:
         <td>
             2年目で親密度4星以上（5星推奨）<br>
             <Girl5Icon>夏侯蘭</Girl5Icon>の心法伝授に抵抗した後、<br>
-            武林の伝説クリア時に想い人として<Girl5Icon>夏侯蘭</Girl5Icon>を保つ。
+            武林の伝説クリア時に想い人として<Girl5Icon>夏侯蘭</Girl5Icon>を保つ。手順は<MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
         </td>
         <td></td>
         <td></td>
@@ -174,7 +174,7 @@ tags:
         <td>百般の防備も内部の裏切りは防げない。まさか君だったとは！</td>
         <td>
             2年目で親密度4星以上（5星推奨）<br>
-            武林の伝説クリア時に想い人として<Girl0Icon>小師妹</Girl0Icon>を保つ。
+            武林の伝説クリア時に想い人として<Girl0Icon>唐默鈴</Girl0Icon>を保つ。
         </td>
         <td></td>
         <td>~~内部通報を教え、内部通報を行わせる~~</td>
@@ -196,7 +196,7 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`15`">最後の暗器</AchievementIcon></td>
         <td>防禦不可、回避不可、心を直に撃つ。</td>
         <td>
-            西武林盟を組織せず、4年目の1月下旬の1戦目に勝利し（3師兄の戦死なし）、<br>
+            西武林盟を組織せず、4年目の1月下旬の1戦目に勝利し（唐陞の戦死なし）、<br>
             かつ武林盟主と決闘に成功する（勝敗問わず）場合に取得。
         </td>
         <td>中旬+1</td>
@@ -207,14 +207,14 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`16`">武林の伝説 (武林傳奇)</AchievementIcon></td>
         <td>君は幼い日の夢を成し遂げた。天に見放された者であっても、不断の努力があれば道は開ける。</td>
         <td>西武林盟を組織し、武林盟主を打ち倒す。</td>
-        <td></td>
-        <td></td>
+        <td>「運命収束の力」を獲得</td>
+        <td>「収束」は擲骰の範囲を3種類から選択できる。</td>
     </tr>
     <tr>
         <td id="風雲史-No.17">17</td>
         <td><AchievementIcon :size="`medium`" :no="`17`">飛俠の帰還 (飛俠歸來)</AchievementIcon></td>
         <td>彼には彼の運命がある。だが君がいなければ、飛俠の帰還は永遠の夢のままだ。</td>
-        <td>大師兄の死後に大師兄を復活させる。<br>詳しくは<MarkdownWrapper>飛俠の帰還</MarkdownWrapper>ページを参照してください。</td>
+        <td>唐布衣の死後に唐布衣を復活させる。<br>詳しくは<MarkdownWrapper>飛俠の帰還</MarkdownWrapper>ページを参照してください。</td>
         <td>下旬+1</td>
         <td>下旬+1 = 毎月下旬の行動回数+1</td>
     </tr>

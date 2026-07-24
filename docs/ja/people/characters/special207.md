@@ -76,8 +76,8 @@ tags:
 -   奪魂杵の一部テキストでは喪魂杵と書かれており、別名かもしれない。
 -   人皮衣は保養と交換が必要で、着用は非常に悶熱。夏には発疹も出る。[^1]
 -   生性残暴で、多くの成名した俠客、俠女を殺害。人命を奪う前に必ず凌辱・蹂躙し、死ぬ前の醜態を描き、珍重して収蔵する。
--   若し[趙活](/ja/people/characters/player)と[大師兄（唐布衣）](/ja/people/characters/brother1)が共に臥雲崗に向かえば、彼は[虞小梅](/ja/people/characters/girl3)と共に帰路で襲撃を企てる。
--   [小師妹（唐默鈴）](/ja/people/characters/girl0)の結婚式で崆峒派を率いて乱入し、小師妹の名声を傷つけ、唐門の評判を破壊することを企図。
+-   若し[趙活](/ja/people/characters/player)と[唐布衣](/ja/people/characters/brother1)が共に臥雲崗に向かえば、彼は[虞小梅](/ja/people/characters/girl3)と共に帰路で襲撃を企てる。
+-   [唐默鈴](/ja/people/characters/girl0)の結婚式で崆峒派を率いて乱入し、唐默鈴の名声を傷つけ、唐門の評判を破壊することを企図。
 -   彼が掌派人になれば、崆峒派は風雨山で唐門を支持しない。
 
-[^1]: 巴哈姆特 - [【閒聊】雲裳的體重和葉兄的童年（鳥熊私訊問答）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=3082&bpage=1&ltype=)
+[^1]: バハムート - [【雑談】雲裳の体重と葉兄の幼少期（鳥熊プライベート訊息問答）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=3082&bpage=1&ltype=)

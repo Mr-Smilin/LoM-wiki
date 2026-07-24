@@ -19,6 +19,7 @@ tags:
         <td :unsortable=true>属性1</td>
         <td :unsortable=true>属性2</td>
         <td :unsortable=true>属性3</td>
+        <td :unsortable=true>結緣攻略</td>
     </tr>
     <tr>
         <td><Girl4Icon :size="`medium`" href="/ja/people/characters/girl4">上官螢</Girl4Icon></td>
@@ -26,6 +27,7 @@ tags:
         <td>すらりと背が高い</td>
         <td>率直で朗らか</td>
         <td>特に有能</td>
+        <td>現バージョンでは攻略不可</td>
     </tr>
     <tr>
         <td><Girl8Icon :size="`medium`" href="/ja/people/characters/girl8">龍湘</Girl8Icon></td>
@@ -33,6 +35,8 @@ tags:
         <td>すらりと背が高い</td>
         <td>率直で朗らか</td>
         <td>少し抜けている</td>
+        <td><MarkdownWrapper>[〈龍湘結緣攻略〉](/ja/event/pursuit/girl8)</MarkdownWrapper>を参照
+            <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
         <td><Girl3Icon :size="`medium`" href="/ja/people/characters/girl3">虞小梅</Girl3Icon></td>
@@ -40,6 +44,8 @@ tags:
         <td>すらりと背が高い</td>
         <td>率直で朗らか</td>
         <td>破天荒</td>
+        <td>現バージョンでは攻略不可
+            <br>2026/09/15アップデートで実装予定</td>
     </tr>
     <tr>
         <td><Girl5Icon :size="`medium`" href="/ja/people/characters/girl5">夏侯蘭</Girl5Icon></td>
@@ -47,6 +53,8 @@ tags:
         <td>すらりと背が高い</td>
         <td>物静かで優雅</td>
         <td></td>
+        <td><MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照
+            <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
         <td><Girl2Icon :size="`medium`" href="/ja/people/characters/girl2">葉雲裳</Girl2Icon></td>
@@ -54,6 +62,7 @@ tags:
         <td>小柄で華奢</td>
         <td>活発で明るい</td>
         <td>病弱</td>
+        <td>執筆中...</td>
     </tr>
     <tr>
         <td><Girl0Icon :size="`medium`" href="/ja/people/characters/girl0">唐默鈴</Girl0Icon></td>
@@ -61,6 +70,8 @@ tags:
         <td>小柄で華奢</td>
         <td>もの静かで従順</td>
         <td>無垢な心</td>
+        <td><MarkdownWrapper>[〈唐默鈴結緣攻略〉](/ja/event/pursuit/girl0)</MarkdownWrapper>を参照
+            <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
         <td><Girl7Icon :size="`medium`" href="/ja/people/characters/girl7">魏菊</Girl7Icon></td>
@@ -68,6 +79,7 @@ tags:
         <td>小柄で華奢</td>
         <td>もの静かで従順</td>
         <td>教養があり礼儀正しい</td>
+        <td>現バージョンでは攻略不可</td>
     </tr>
     <tr>
         <td><Girl6Icon :size="`medium`" href="/ja/people/characters/girl6">郁竹</Girl6Icon></td>
@@ -75,6 +87,8 @@ tags:
         <td>小柄で華奢</td>
         <td>もの静かで従順</td>
         <td>力は山を抜き気は世を蓋う</td>
+        <td>現バージョンでは攻略不可
+            <br>2026/09/15アップデートで実装予定</td>
     </tr>
     <tr>
         <td><Girl1Icon :size="`medium`" href="/ja/people/characters/girl1">瑞杏</Girl1Icon></td>
@@ -82,11 +96,13 @@ tags:
         <td>錦嚢を開く<br>(命運100が必要)</td>
         <td></td>
         <td></td>
+        <td>現バージョンでは攻略不可</td>
     </tr>
     <tr>
         <td>まだ出会っていない相手の属性の組み合わせを選ぶ</td>
         <td>x</td>
         <td>想い人が自分自身になり「自己陶酔」を獲得</td>
+        <td></td>
         <td></td>
         <td></td>
     </tr>

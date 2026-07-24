@@ -43,13 +43,13 @@ tags:
 
 -   **📖「これほど悪い事をしといて、体裁など？死ね！」**を選択、道徳＜40【悪人、悪党】：主人公は武林盟主にならず、エンディング前のシナリオは盟主になった場合と大きく異なる。
 
-### 大師兄の生存
+### 唐布衣の生存
 
-[唐布衣大師兄](/ja/people/characters/brother1)が生存していれば、エンディング前のシナリオに登場する。
+[唐布衣](/ja/people/characters/brother1)が生存していれば、エンディング前のシナリオに登場する。
 
-### 四師兄の帰還
+### 唐惟元の帰還
 
-[四師兄](/ja/people/characters/brother4)が以前に帰還していれば、エンディング前のシナリオに登場する。
+[唐惟元](/ja/people/characters/brother4)が以前に帰還していれば、エンディング前のシナリオに登場する。
 
 ### 結緣対象
 
@@ -60,6 +60,6 @@ tags:
 -   <Girl0Icon>唐默鈴</Girl0Icon>：<AchievementIcon :size="`small`" :no="`13`">唐門の女婿</AchievementIcon>
 -   <Girl8Icon>龍湘</Girl8Icon>：<AchievementIcon :size="`small`" :no="`14`">忘憂の俠侶</AchievementIcon>
 
-### 小師妹の唐門帰還
+### 唐默鈴の唐門帰還
 
-<Girl0Icon>小師妹</Girl0Icon>が嫁いでいて、[瑞笙](/ja/people/characters/special999)が生存していれば、エンディング前のシナリオで<Girl0Icon>小師妹</Girl0Icon>は唐門に戻る。(ただし戦闘後の対話で[瑞笙](/ja/people/characters/special999)が黒幕化している時のみ、後宮を追い出す場面があり、この結果と矛盾している)
+<Girl0Icon>唐默鈴</Girl0Icon>が嫁いでいて、[瑞笙](/ja/people/characters/special999)が生存していれば、エンディング前のシナリオで<Girl0Icon>唐默鈴</Girl0Icon>は唐門に戻る。(ただし戦闘後の対話で[瑞笙](/ja/people/characters/special999)が黒幕化している時のみ、後宮を追い出す場面があり、この結果と矛盾している)

@@ -89,7 +89,7 @@ aside: false
 	文武の学びの姿勢もその場しのぎで、巧みな弁舌でごまかすのが得意。<br><br>
 	自らの真の課題は人を見抜いて使うこと。最強の武人を使役し、最も博学な文人を走らせることこそ、真の人上の人と考えている。<br><br>
 	なかなかの才略の持ち主だが、御曹司の習性は免れず、女色を好み、三々五々の友と「花城四少」と並び称される花街の常連である。<br><br>
-	上官螢が純情で拳が強くなかったら、輿入れ前にひと悶着起きていたに違いない。
+	上官螢が恥ずかしがり屋で拳も強くなかったら、輿入れ前にひと悶着起きていたに違いない。
   </Tab>
 </Tabs>
 
@@ -105,7 +105,7 @@ aside: false
     > 　上官娘子というあれほど良い許嫁がありながら、風流を気取って女に手を出す。」
 -   伝奇テキストの南宮深評はとりわけ辛辣で、[魏菊](/ja/people/characters/girl7)が陰でこき下ろしているのではと疑われている。
 -   陳序、余自詠、成溪、[公子秀](/ja/people/characters/special833)と共に[花城四少](/ja/people/characters/group1)と並び称される花街の常連。花城四少がなぜ5人いるのかについてはずっとバツが悪く、誰も怒らせたくないので、聞かれるといつもはぐらかしている。
--   靜江九縣小盟主の[方震天](/ja/people/characters/other16)、火炎山總鍛長の[段純青](/ja/people/characters/other15)、斬天黑翼雙龍劍の[齊壬](/ja/people/characters/hero2)と親友。
+-   靜江九縣小盟主の[方震天](/ja/people/characters/other16)、火炎山總鍛長の[段純青](/ja/people/characters/other15)、斬天黒翼双龍剣の[齊壬](/ja/people/characters/hero2)と親友。
 
 ## 装い
 
@@ -125,15 +125,15 @@ aside: false
 -   婚約解消後すぐに後悔したが、[上官螢](/ja/people/characters/girl4)はもはや戻る気はなかった。
 -   婚約は解消したものの友人関係は保っており、[上官螢](/ja/people/characters/girl4)が日本へ遠く嫁ぐと知って手助けを試みる。
 
-## 小師妹の比武招親
+## 唐默鈴の比武招親
 
--   [小師妹](/ja/people/characters/girl0)の招親に参加。狙いは南宮家と唐門が同一陣営を組むこと。
--   [小師妹](/ja/people/characters/girl0)の温順で善良な人柄なら、わだかまりを捨てて[樂屏](/ja/people/characters/special810)を受け入れ、仲良くやってくれるかもしれないと見込んだ。
--   招親の面接では、[三師兄](/ja/people/characters/brother3)は彼が博覧強記と知り、いまさら文試も無意味と考えて処世の難題を出した。あるいは[小師妹](/ja/people/characters/girl0)から、なぜ[上官螢](/ja/people/characters/girl4)との婚約を破棄したのかを問われる。武試では礼を尽くし、相手に勝つたびに相手の顔が立つよう取りなした。
+-   [唐默鈴](/ja/people/characters/girl0)の招親に参加。狙いは南宮家と唐門が同一陣営を組むこと。
+-   唐默鈴の温順で善良な人柄なら、わだかまりを捨てて[樂屏](/ja/people/characters/special810)を受け入れ、仲良くやってくれるかもしれないと見込んだ。
+-   招親の面接では、[唐陞](/ja/people/characters/brother3)は彼が博覧強記と知り、いまさら文試も無意味と考えて処世の難題を出した。あるいは唐默鈴から、なぜ[上官螢](/ja/people/characters/girl4)との婚約を破棄したのかを問われる。武試では礼を尽くし、相手に勝つたびに相手の顔が立つよう取りなした。
 
 ## 武功
 
--   全力で守りに入れば水も漏らさぬ堅陣で、[畫中仙](/ja/people/characters/special813)ほどの強者も一時は攻めあぐねた。
+-   全力で守りに入れば水も漏らさぬ堅陣で、[画中仙](/ja/people/characters/special813)ほどの強者も一時は攻めあぐねた。
 -   鳳凰寶衣は接近戦の天敵で、[南溪](/ja/people/characters/special829)すら苦戦に陥った。
 
 ## 備考

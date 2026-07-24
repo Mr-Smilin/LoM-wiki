@@ -54,7 +54,7 @@ tags:
 
 [点蒼派](/ja/people/factions/dian-cang-sect)掌門。若き日は「觀雲劍客」と呼ばれ、師弟の[聽海生](/ja/people/characters/special203)と共に点蒼雙尊と並稱される。
 <br><br>
-二人は黒白の雙劍を持ち、合擊の術《陰陽雙劍》で天下に聞こえた。一人では敵ではないが、雙劍が合体すると並ぶもの無く、往年の[点蒼劍聖](/ja/people/characters/special406)ですら敗北を嘗めた。峨嵋掌門の[向無憂](/ja/people/characters/special408)でさえその鋒を避ける。
+二人は黒白の雙劍を持ち、合擊の術《陰陽雙劍》で天下に聞こえた。一人では敵ではないが、雙劍が合体すると並ぶもの無く、往年の[点蒼剣聖](/ja/people/characters/special406)ですら敗北を嘗めた。峨嵋掌門の[向無憂](/ja/people/characters/special408)でさえその鋒を避ける。
 
 ## 備考
 

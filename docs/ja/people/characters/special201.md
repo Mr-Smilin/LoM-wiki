@@ -83,7 +83,7 @@ tags:
 ## 武功
 
 -   気功の宗師。玄門正宗の參同密契を使えるのは、当世で彼ただ一人。
--   内功は深厚。[三師兄](/ja/people/characters/brother3)いわく、[大師兄](/ja/people/characters/brother1)・[二師兄](/ja/people/characters/brother2)・[四師兄](/ja/people/characters/brother4)を積み重ねて束にしても、内力比べでは鄒博に勝てない。
+-   内功は深厚。[唐陞](/ja/people/characters/brother3)いわく、[唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2)・[唐惟元](/ja/people/characters/brother4)を積み重ねて束にしても、内力比べでは鄒博に勝てない。
 -   [葉雲裳](/ja/people/characters/girl2)が錦嚢の彼岸仙香の毒に倒れた際、玄門正宗の内功でその心脈を一時つなぎ止め、急ぎ門人を山から下らせて[唐芳](/ja/people/characters/special832)を呼び、救援させた。
 -   武林大会では腕が鳴って自ら出場し、[向無憂](/ja/people/characters/special408)と手合わせした。向無憂はすでに数人と連戦して真気の消耗を免れなかったため、公平を期して自らの長所を捨て、青城の高深な内功を発動させず、招式のみで勝負した結果、後手に回った。
 

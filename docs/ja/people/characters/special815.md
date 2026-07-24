@@ -69,5 +69,5 @@ tags:
 
 ## 備考
 
--   [趙活](/ja/people/characters/player)が大師兄と臥雲崗に行く際、もし心の人が[上官螢](/ja/people/characters/girl4)なら、石夫人を見て二人が似ていると感じるが、石夫人の方が年上である。
+-   [趙活](/ja/people/characters/player)が唐布衣と臥雲崗に行く際、もし心の人が[上官螢](/ja/people/characters/girl4)なら、石夫人を見て二人が似ていると感じるが、石夫人の方が年上である。
 -   [石公遠](/ja/people/characters/special7)かつて言うところによれば、彼女が凶暴になるさまは実に河東獅で、激烈極まりなし。
