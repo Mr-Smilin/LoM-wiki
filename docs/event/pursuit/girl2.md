@@ -69,7 +69,7 @@ tags:
 <td>第二年六月上旬</td>
 <td><MarkdownWrapper>[離家出走](/event/simple/2-06-1-離家出走)</MarkdownWrapper></td>
 <td>• 先確保心上人為<Girl2Icon>葉雲裳</Girl2Icon>。
-    <br>• 選擇📖「住破廟」</td>
+    <br>• 選擇📖「住破廟」。</td>
 <td>• 此事件並不要求心上人，但此後不太能獲得變心點。
     <br>• 若<Girl2Icon>葉雲裳</Girl2Icon>好感≧30，就算選擇📖「住客棧」也會被趕出來，被迫住破廟。
 </td>
@@ -168,7 +168,7 @@ tags:
     <br>到第四年十月上旬
 </td>
 <td>前往及留宿錦香宮</td>
-<td>• 若有讓葉雲舟同行同行:
+<td>• 若有讓葉雲舟同行:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 旅途事件: 劇情變化。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 旅途事件: 葉雲舟可參與戰役。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 錦香宮: 多處劇情變化。
