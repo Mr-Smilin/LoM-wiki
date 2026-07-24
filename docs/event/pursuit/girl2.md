@@ -279,5 +279,6 @@ tags:
 </table>
 
 ## 備註
-• 由於本路線劇情要求修練許多武學，且<Girl2Icon>葉雲裳</Girl2Icon>有許多支線事件消耗金錢，比較建議二周目以上資源較充足再攻略。
+• 如果只是希望<Girl2Icon>葉雲裳</Girl2Icon>存活而非與她結緣，只要在心上人非葉雲裳的情況下完成必要條件7內容就行。
+<br>• 由於本路線劇情要求修練許多武學，且葉雲裳有許多支線事件消耗金錢，比較建議二周目以上資源較充足再攻略。
 <br>• 目前資料主要參考[〈活俠傳事件及分歧整理〉](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)的系統拆包資料，尚未經過反覆驗證。
