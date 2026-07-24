@@ -168,11 +168,11 @@ tags:
     <br>到第四年十月上旬
 </td>
 <td>前往及留宿錦香宮</td>
-<td>• 假設有讓葉雲舟同行同行:
+<td>• 若有讓葉雲舟同行同行:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 旅途事件: 劇情變化。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 旅途事件: 葉雲舟可參與戰役。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 錦香宮: 多處劇情變化。
-    <br>• 假設有讓<Girl2Icon>葉雲裳</Girl2Icon>同行:
+    <br>• 若有讓<Girl2Icon>葉雲裳</Girl2Icon>同行:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 旅途事件: 劇情變化。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 多處劇情變化。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 錦香宮: 華音閣增加葉雲裳學琴事件(共三次)。
@@ -184,10 +184,10 @@ tags:
 <td>4</td>
 <td>第三年十月中旬</td>
 <td>武林大會</td>
-<td>• 假設有讓葉雲舟同行:
+<td>• 若有讓葉雲舟同行:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 多處劇情變化。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 可以讓他代表唐門參加比武。
-    <br>• 假設有讓<Girl2Icon>葉雲裳</Girl2Icon>同行:
+    <br>• 若有讓<Girl2Icon>葉雲裳</Girl2Icon>同行:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 多處劇情變化。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 若投票後唐門成為武林公敵，且選擇📖「讓葉雲裳陪伴」，可解鎖<MarkdownWrapper>[風雲史《惡人自有惡人磨》](/event/achievements/#風雲史-No.19)</MarkdownWrapper>。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 客棧休憩時，若📖「洗澡」再📖「下樓喝酒」，可觸發南溪欠人情劇情(建議觸發)，有葉家相關劇情，且後面<MarkdownWrapper>[唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper>或<MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>時南溪會加入(下面不再重述)。
