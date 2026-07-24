@@ -63,7 +63,8 @@ tags:
         <td>嬌小玲瓏</td>
         <td>活潑開朗</td>
         <td>身嬌體弱</td>
-        <td>撰寫中...</td>
+        <td><MarkdownWrapper>請見[〈葉雲裳結緣攻略〉](/event/pursuit/girl2)</MarkdownWrapper>
+            <br>(⚠️劇透警告)</td>
     </tr>
     <tr>
         <td><Girl0Icon :size="`medium`">唐默鈴</Girl0Icon></td>
