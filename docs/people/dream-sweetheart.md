@@ -101,13 +101,14 @@ tags:
         <td>目前版本無法攻略</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[趙活](/people/characters/player)</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[趙活](/people/characters/player)</MarkdownWrapper>
+            <br>(解鎖<MarkdownWrapper>[風雲史《自戀》](/event/achievements/#風雲史-No.05)</MarkdownWrapper>)</td>
         <td>x</td>
         <td>選出尚未認識
             <br>對象的屬性組合</td>
         <td></td>
         <td></td>
-        <td>解鎖<MarkdownWrapper>[風雲史《自戀》](/event/achievements/#風雲史-No.05)</MarkdownWrapper></td>
+        <td></td>
     </tr>
 </BTable>
 
