@@ -11,7 +11,7 @@ tags:
     - 唐默鈴
 ---
 
-# 唐默鈴結緣攻略
+# {{ $frontmatter.title }}
 
 <p align="center"><img src="/images/characters/girl_0/special1.webp" style="width:300px"></p>
 
