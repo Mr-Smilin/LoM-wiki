@@ -63,7 +63,7 @@ tags:
         <td>嬌小玲瓏</td>
         <td>活潑開朗</td>
         <td>身嬌體弱</td>
-        <td><MarkdownWrapper>請見[〈葉雲裳結緣攻略〉](/event/pursuit/girl2)</MarkdownWrapper>
+        <td>請見<MarkdownWrapper>[〈葉雲裳結緣攻略〉](/event/pursuit/girl2)</MarkdownWrapper>
             <br>(⚠️劇透警告)</td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@ tags:
         <td>嬌小玲瓏</td>
         <td>恬靜溫馴</td>
         <td>無垢之心</td>
-        <td><MarkdownWrapper>請見[〈唐默鈴結緣攻略〉](/event/pursuit/girl0)</MarkdownWrapper>
+        <td>請見<MarkdownWrapper>[〈唐默鈴結緣攻略〉](/event/pursuit/girl0)</MarkdownWrapper>
             <br>(⚠️劇透警告)</td>
     </tr>
     <tr>
@@ -101,14 +101,13 @@ tags:
         <td>目前版本無法攻略</td>
     </tr>
     <tr>
-        <td><MarkdownWrapper>[趙活](/people/characters/player)</MarkdownWrapper>
-            <br>(獲得自戀)</td>
+        <td><MarkdownWrapper>[趙活](/people/characters/player)</MarkdownWrapper></td>
         <td>x</td>
         <td>選出尚未認識
             <br>對象的屬性組合</td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>解鎖<MarkdownWrapper>[風雲史《自戀》](/event/achievements/#風雲史-No.05)</MarkdownWrapper></td>
     </tr>
 </BTable>
 
