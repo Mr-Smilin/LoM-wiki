@@ -11,7 +11,7 @@ tags:
     - 龍湘
 ---
 
-# 龍湘結緣攻略
+# {{ $frontmatter.title }}
 
 <p align="center"><img src="/images/characters/girl_8/girl8_drumstick.webp" style="width:300px"></p>
 
