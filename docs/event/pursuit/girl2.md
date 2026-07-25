@@ -71,6 +71,7 @@ tags:
     <br>• 選擇📖「住破廟」。</td>
 <td>• 此事件並不要求心上人，但此後不易獲得變心點。
     <br>• 若<Girl2Icon>葉雲裳</Girl2Icon>好感≧30，就算選擇📖「住客棧」也會被迫住破廟。
+    <br>• 離開唐門前可以考慮購買秘笈<MarkdownWrapper>[《金剛腿》](/system/books/book_4001)</MarkdownWrapper>(可提供<MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級1，但後面也有其他佛學書)。
 </td>
 </tr>
 
