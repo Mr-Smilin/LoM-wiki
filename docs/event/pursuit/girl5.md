@@ -11,7 +11,7 @@ tags:
     - 夏侯蘭
 ---
 
-# 夏侯蘭結緣攻略
+# {{ $frontmatter.title }}
 
 <p align="center"><img src="/images/characters/girl_5/shy2.webp" style="width:300px"></p>
 
