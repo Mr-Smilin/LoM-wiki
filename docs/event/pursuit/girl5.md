@@ -70,13 +70,15 @@ tags:
 <td>5</td>
 <td>第三年六月上旬</td>
 <td><MarkdownWrapper>[雪山行](/event/simple/3-06-1-雪山行)</MarkdownWrapper></td>
-<td>• 滿足條件4後，在唐門月會中新增📜「雪山行」。
-    <br>• 選擇此選項，與<Girl5Icon>夏侯蘭</Girl5Icon>前往雪山。</td>
 <td>• 行前準備:
-    <br> &nbsp;&nbsp;&nbsp;&nbsp;1. 若身上沒有酒，建議出發前購買任意酒。
-    <br> &nbsp;&nbsp;&nbsp;&nbsp;2. 確保心上人為<Girl5Icon>夏侯蘭</Girl5Icon>。
-    <br>• 若不選擇📜「雪山行」，六月中旬會自動觸發夏侯蘭獨自前往雪山事件。    
-    <br>• 雪山行有許多生死簿事件可以收集。</td>
+    <br> &nbsp;&nbsp;&nbsp;&nbsp;1. 確保心上人為<Girl5Icon>夏侯蘭</Girl5Icon>。
+    <br> &nbsp;&nbsp;&nbsp;&nbsp;2. 若身上沒有酒，出發前購買任意酒(非必要但強烈建議)。
+    <br>• 滿足條件4後，在唐門月會中自動新增📜「雪山行」。
+    <br>• 選擇此選項，與<Girl5Icon>夏侯蘭</Girl5Icon>前往雪山。
+</td>
+<td>• 若不選擇📜「雪山行」，六月中旬會自動觸發夏侯蘭獨自前往雪山事件。    
+    <br>• 雪山行有許多生死簿事件可以收集。
+</td>
 </tr>
 
 <tr>
