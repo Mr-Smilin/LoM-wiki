@@ -60,7 +60,7 @@ tags:
 
 <br><br>
 
-[趙活](/ja/people/characters/player)は[四師兄](/ja/people/characters/brother4)から950文で購入できる。
+[趙活](/ja/people/characters/player)は[唐惟元](/ja/people/characters/brother4)から950文で購入できる。
 
 ### 印花
 

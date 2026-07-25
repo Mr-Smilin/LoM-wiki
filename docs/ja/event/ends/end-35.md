@@ -28,9 +28,9 @@ tags:
 ## 条件と流れ
 <b>条件：</b>無<br>
 <b>流れ：</b><br>
-1. 3年目12月上旬に行動が1回残っている時、[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で抵抗を続けるシナリオまたは西武林盟シナリオのどちらかに進む。
+1. 3年目12月上旬に行動が1回残っている時、[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で徹底抗戦シナリオまたは西武林盟シナリオのどちらかに進む。
 
-### 抵抗を続ける
+### 徹底抗戦
 1. 唐門包囲戦：[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)の結果により開始時期が異なる。
    + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が1️⃣西武林盟成立の決策：4年目2月中旬に行動が2回残っている時に開始。
    + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が2️⃣西武林盟不成立の決策：4年目1月中旬に行動が2回残っている時に開始。
@@ -50,13 +50,13 @@ tags:
 ### 西武林盟
 1. 3年目12月上旬に行動が1回残っている時、[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で**西武林盟**シナリオに進む。
 2. 4年目2月中旬に行動が2回残っている時、西武林大会後に[東西武林盟會戰](/ja/event/detailed_description/4-02-2-東西武林盟會戰)が始まる：
-   + <Girl0Icon>小師妹</Girl0Icon>と結緣していて**📖選択：小師妹に三師兄の護衛を頼む**：<Girl0Icon>小師妹</Girl0Icon>が唐門大院を守る。
+   + <Girl0Icon>唐默鈴</Girl0Icon>と結緣していて**📖選択：小師妹に三師兄の護衛を頼む**：<Girl0Icon>唐默鈴</Girl0Icon>が唐門大院を守る。
    + **📜議題：決闘：三師兄の護衛**：
      1. 🆚2人の刺客と決闘、勝利が必要。
      2. **🎲運命：武林盟の消耗……**(上限50、➕加値：(西武林盟の)団結、➖減値：(武林盟の)団結、その他多様な調整値)：
         + 調整値リストと条件：
         - ➕罠を設置する 5：[掌門の牌令を引き継いだ後に罠を設置](/ja/event/detailed_description/3-12-1-眾人的決策)。
-        - ➕四師兄の悪辣な手段 5：[四師兄が唐門に戻る](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)。
+        - ➕四師兄の悪辣な手段 5：[唐惟元が唐門に戻る](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)。
         - ➕嵩山十八銅人 10：[福韞](/ja/people/characters/special206)が唐門に入門。
         - ➕丐幫 15：[李富貴が丐幫(新派)を説得](/ja/event/detailed_description/3-12-1-眾人的決策)。
         - ➕丐幫 5：[大義分舵が唐門外姓弟子になる](/ja/event/detailed_description/3-12-1-眾人的決策)。
@@ -80,7 +80,7 @@ tags:
      2. 最初の⚔️戦役の勝敗は問わない、**📜議題：決策の時間**：**📖選択：兵を二手に分け、片方は外堡で守り、片方は大院で決戦準備**。
      3. **🎲運命：武林盟の消耗……**(上限60、➕加値：(西武林盟の)団結、➖減値：(武林盟の)団結、その他多様な調整値)：
         + 調整値リストと条件：
-          - ➕小師妹 10：<Girl0Icon>小師妹</Girl0Icon>が唐門大院を守る。
+          - ➕小師妹 10：<Girl0Icon>唐默鈴</Girl0Icon>が唐門大院を守る。
           - ➕嵩山十八銅人 20：[福韞](/ja/people/characters/special206)が唐門に入門。
           - ➕画中仙 10：錦香宮が西武林盟を支援。
      - <span style='color: Red;'>未確認</span>：青城派が西武林盟を支援、[虞小梅](/ja/people/characters/girl3)と結緣。
@@ -97,7 +97,7 @@ tags:
 ### 結緣対象
 結緣対象により異なるエンディングが生じ、伝説テキストに影響する。
 + <Girl8Icon>龍湘</Girl8Icon>：主人公と共に戦死。
-+ <Girl0Icon>唐默鈴</Girl0Icon>：非常に残酷な<Girl0Icon>小師妹</Girl0Icon>が独り生き残る。
++ <Girl0Icon>唐默鈴</Girl0Icon>：非常に切ない<Girl0Icon>唐默鈴</Girl0Icon>が独り生き残る。
 + <Girl5Icon>夏侯蘭</Girl5Icon>：[樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門しているかどうかで2つのシナリオに分かれ、伝説テキストに影響する。
   + [樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門：主人公の屍体を雪山に持って帰り安葬し、[樊咲嫣](/ja/people/characters/special4)が嫁ぐまで待った後、失踪。
   + 上記の条件を満たさない場合：主人公の屍体を雪山に持って帰り安葬し、生涯墓を守る。

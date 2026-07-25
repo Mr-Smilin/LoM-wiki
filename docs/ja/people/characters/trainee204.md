@@ -75,6 +75,6 @@ tags:
 
 -   崆峒季試では司会役を務める。
 -   水護法の[余麟](/ja/people/characters/trainee224)とは、顔を合わせれば殴り合うか口喧嘩するかである。
--   [小師妹](/ja/people/characters/girl0)の比武招親の日、[金烏上人](/ja/people/characters/special207)に率いられて唐門へ仇討ちに来る。金烏が存命の場合、敗戦後に逆上して顏疆を殺してしまう。唐門の土地で死ぬことを望まなかった彼は、[趙活](/ja/people/characters/player)の性情次第で、望み通り火葬されて登仙できることもあれば、犬の餌に投げ捨てられることもある。趙活が金烏の正体を暴いた場合は[趙活](/ja/people/characters/player)を見直し、[火龍仙君](/ja/people/characters/special204)への口利きを請け合ってくれる。
+-   [唐默鈴](/ja/people/characters/girl0)の比武招親の日、[金烏上人](/ja/people/characters/special207)に率いられて唐門へ仇討ちに来る。金烏が存命の場合、敗戦後に逆上して顏疆を殺してしまう。唐門の土地で死ぬことを望まなかった彼は、[趙活](/ja/people/characters/player)の性情次第で、望み通り火葬されて登仙できることもあれば、犬の餌に投げ捨てられることもある。趙活が金烏の正体を暴いた場合は[趙活](/ja/people/characters/player)を見直し、[火龍仙君](/ja/people/characters/special204)への口利きを請け合ってくれる。
 -   [小梅](/ja/people/characters/girl3)は、かつて[火龍仙君](/ja/people/characters/special204)に告げ口されたことを根に持っており、腕で敵わないのでなければ、とっくに階段から突き落としている。
 -   彼の中で掌派人を争う資格があるのは[丹霞子](/ja/people/characters/special404)であり、断じて[金烏上人](/ja/people/characters/special207)ではない

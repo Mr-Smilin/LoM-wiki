@@ -68,7 +68,7 @@ tags:
 <br><br>
 もし最も優れたものを言うなら、ただ古今四大絕技のみである。破体無形気勁、嵩山派奥義『金剛神槍指』。ただし嵩山派は二十年前の極樂教一役で衰退し、此の技が失傳したかどうかは別として、そもそも本当に存在するのか否かすら、衆説紛々であり、[崆峒派](/ja/people/factions/kong-tong-sect)の御劍術と同じく江湖の伝説である。今の世では信じない者の方が多く、そのため大多数の人が『[那由它劫指](/ja/system/books/book_4005)』が至高の武学だと認識している。
 <br><br>
-丐幫幫主[王二壯](/ja/people/characters/special401)は嵩山俗家弟子で、春眠大師の後継者であり、金剛神槍指を練成した。江陵決戦で一指で[瑞笙](/ja/people/characters/special999)を説き返した。臥雲崗の大師兄[唐布衣](/ja/people/characters/brother1)も[石幫主](/ja/people/characters/special7)の護体硬気功を一撃で貫いたことがあるが、実は暗器『無形箭』を使っていた。
+丐幫幫主[王二壯](/ja/people/characters/special401)は嵩山俗家弟子で、春眠大師の後継者であり、金剛神槍指を練成した。江陵決戦で一指で[瑞笙](/ja/people/characters/special999)を説き返した。臥雲崗で[唐布衣](/ja/people/characters/brother1)も[石幫主](/ja/people/characters/special7)の護体硬気功を一撃で貫いたことがあるが、実は暗器『無形箭』を使っていた。
 
 ## 南院心魔
 

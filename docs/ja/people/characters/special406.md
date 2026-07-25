@@ -30,7 +30,7 @@ tags:
 					称号
 				</ChTd>
 				<ChTd>
-					点蒼劍聖
+					点蒼剣聖
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -48,4 +48,4 @@ tags:
 </ChTabs>
 <br><br>
 
-江湖から姿を消した点蒼劍聖。[瑞杏](/ja/people/characters/girl1)からは「無名先生」と呼ばれ、萬里の御老体こと[萬里鵬程](/ja/people/characters/special6)とともに、彼女の輿を担いでいる。
+江湖から姿を消した点蒼剣聖。[瑞杏](/ja/people/characters/girl1)からは「無名先生」と呼ばれ、萬里の御老体こと[萬里鵬程](/ja/people/characters/special6)とともに、彼女の輿を担いでいる。
