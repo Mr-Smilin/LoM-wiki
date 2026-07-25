@@ -301,6 +301,6 @@ aside: false
 [^5]: Facebook－[原始鳥熊2024/2/5](https://www.facebook.com/obbstudio/posts/pfbid0345ukMDW1MtXHXFDAegFGKnPSZ6Ypq2gcoLq2TgEeskhyHQzGeEuywWRtu4nC5mpTl)
 [^6]: Facebook－[原始鳥熊2025/7/10](https://www.facebook.com/100076301525150/posts/pfbid02BbuAbiZiW8DFWeu9B7Sj6rRLgicFv9NjRodLxZ3TpF4pzmCYHqPhfmLpJHmS5kZol/)
 [^7]: Facebook－[原始鳥熊2022/8/19](https://www.facebook.com/obbstudio/posts/pfbid0246FXbC5B8Lw3bntZRDzFJbzVoFsugNQZDZct2UUuFzDCsC1E3j7qLDhFW891o2B1l)
-[^8]: Facebook－[原始鳥熊2023/4/1](https://www.facebook.com/obbstudio/posts/pfbid02imQvU912mgs5b6XGkmHKY9JAfTaznce44dVB9s4e9mwVdpSa81e9YbWPmLq2TpBRl)
+[^8]: Facebook－[原始鳥熊2023/4/1](https://www.facebook.com/obbstudio/posts/pfbid02Z6JwLbPrKD94Eic5z3FXr7HU4NXprWWxdhHhbW5ZtLeY3T4eRLabNmjRx763QPuyl)
 [^9]: Facebook－[原始鳥熊2023/11/3](https://www.facebook.com/obbstudio/posts/pfbid03362ZA6a9oemB9XKGuTnN7C1JNYAGvwkbEXmF367BzRZ1QbjivdKYeU7oe9NZDSMul)
 [^10]: dcinside.com(https://gall.dcinside.com/mgallery/board/view/?id=legendofmortal&no=91615&search_head=20&page=5)
