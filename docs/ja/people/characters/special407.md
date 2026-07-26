@@ -88,14 +88,14 @@ tags:
     > 「[蘇迎香](/ja/people/characters/special402)。お前は心を[南宮遠](/ja/people/characters/special101)に、身を[溫無畏](/ja/people/characters/other13)に、二十年の友情を[王春曉](/ja/people/characters/special401)に与えたなら、その命を俺にくれよ。官職を買うための金でもいい。これはお前が俺に借りているものだ。」
 -   上官隼はこれ以来、愛に心を閉ざし、生涯独身を貫き、[上官螢](/ja/people/characters/girl4)の母親さえも、掌中の玩具に過ぎなくなってしまった。
 -   唐門の谷底で誰かの黒歴史を拾う機会がある。「隼は海東より来たり、西山の[鹿](/ja/people/characters/other10)を追う」と彫られた純金の念珠である。
--   公式の[唐默鈴](/ja/people/characters/girl0)誕生日動画で、[上官螢](/ja/people/characters/girl4)に誘拐された双馬尾の小師妹を見ると、[唐鹿](/ja/people/characters/other10)との存在しない記憶が頭の中に次々と現れ、すぐに小師妹を養子にすることを決め、娘の名前を唐螢に改名した。[^2]
+-   公式の[唐默鈴](/ja/people/characters/girl0)誕生日動画で、[上官螢](/ja/people/characters/girl4)に誘拐された双馬尾の唐默鈴を見ると、[唐鹿](/ja/people/characters/other10)との存在しない記憶が頭の中に次々と現れ、すぐに唐默鈴を養子にすることを決め、娘の名前を唐螢に改名した。[^2]
 
 ## 唐門
 
 -   当年[唐中翎](/ja/people/characters/master)に絶望の洗礼を受けて初めて身を改め反省した。彼に対しては恐れと憧れの両方を感じており、それを認めようとしない。
--   計略を用いて[四師兄](/ja/people/characters/brother4)を商いに赴かせ、唐門から引き離させた。
+-   計略を用いて[唐惟元](/ja/people/characters/brother4)を商いに赴かせ、唐門から引き離させた。
 -   風雨山上での約定は殺さないというものだったが、[趙活](/ja/people/characters/player)の出場を見ると、すぐに殺意を抱き、失手したふりをして趙活を殺し、以降唐門を脅すことにするつもりだった。
--   [大師兄](/ja/people/characters/brother1)の偽りの死後、唐門を陥害する計画を立てた者が誰かを特定したところ、上官隼は主犯の一人だった。
+-   [唐布衣](/ja/people/characters/brother1)の偽りの死後、唐門を陥害する計画を立てた者が誰かを特定したところ、上官隼は主犯の一人だった。
 
 ## 備考
 
@@ -105,7 +105,7 @@ tags:
 -   [火龍仙君](/ja/people/characters/special204)にへつらわれて、東海龍王の生まれ変わりだと言われている。
 -   女性を軽蔑し、[錦香宮](/ja/people/factions/jin-xiang-palace)との一戦で劣勢に陥った際に、[趙活](/ja/people/characters/player)に口で名台詞を言われた：
     > ~~「誰か来い、誰か来い！上官大人が女に打たれたんだ！泣いてるんだ！かわいそう！」~~
--   西の武林戦では女性と戦わず、趙活を教訓した後、[大師兄](/ja/people/characters/brother1)に一撃で殺された。
+-   西の武林戦では女性と戦わず、趙活を教訓した後、唐布衣に一撃で殺された。
     > 「皆さんご覧ください、地面に倒れているのは誰でしょう？ほら！上官家主です！」
 -   十数年～二十年前、嵩山派の掌教大典で[唐中翎](/ja/people/characters/master)と面会したことがある。その時は誰にでも娘ができたと言いふらし、得意げだった。娘を家に置いて、帰心矢の如くだったので、典礼終了後はすぐに福州に帰ってしまった。
 

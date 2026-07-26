@@ -1,13 +1,13 @@
 ---
-title: 四師兄の商店仕組み
-description: 四師兄の商店仕組み
+title: 唐惟元の商店仕組み
+description: 唐惟元の商店仕組み
 aside: false
 outline: [2, 3]
 sidebar: true
 borderless: false
 pageClass: guide-page
 tags:
-    - 四師兄
+    - 唐惟元
     - 商店
     - 価格
 ---
@@ -15,29 +15,29 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="四師兄">
+    <ChTab title="唐惟元">
         <Ch
             src='/images/characters/brother4/normal.webp' 
             position=''/>
-        <ChName nameZh='四師兄' position='right' />
+        <ChName nameZh='唐惟元' position='right' />
     </ChTab>
 </ChTabs>
 
-## 四師兄の好感度と価格
+## 唐惟元の好感度と価格
 
-四師兄の好感度が高いほど、対応する販売価格は低くなります。  
+[唐惟元](/ja/people/characters/brother4)の好感度が高いほど、対応する販売価格は低くなります。  
 好感度1ポイントあたり1%の割引が適用され、最低価格は元の価格の50%です。  
-また、1000文ごとに購入するたびに、四師兄の好感度が1ポイント上昇します。  
+また、1000文ごとに購入するたびに、唐惟元の好感度が1ポイント上昇します。  
 つまり、なるべく少ない銀両で最大限の品物を買いたい場合は、複数回に分けて1000文ずつ購入することができます。
 
-## 四師兄から購入後すぐに飲食できます
+## 唐惟元から購入後すぐに飲食できます
 
-四師兄との会話で茶、酒、食べ物を購入した場合、  
+唐惟元との会話で茶、酒、食べ物を購入した場合、  
 同じ行動の中で直接使用することができます。  
 1回の行動で食べ物は1回だけ使用できます。  
 （ただし色紙は除外。色紙は次回の男弟子房での休息で使用できます。）
 
-## 四師兄が販売するアイテムの種類
+## 唐惟元が販売するアイテムの種類
 
 ### 他門派の武功秘笈
 

@@ -19,7 +19,8 @@ tags:
 <img width="720" src="/images/badends/badend72.webp">
 ## 條件與流程
 
-<b>條件：</b>拜師<Girl5Icon>夏侯蘭</Girl5Icon>，雪山行<br>
+<b>條件：</b>方法一 — 拜師<Girl5Icon>夏侯蘭</Girl5Icon>，雪山行<br>
+&nbsp;&nbsp;&nbsp;&nbsp;方法二 — 第二年不留學走破廟線(不需拜師與雪山行)<br>
 <b>流程：</b><br>
 
 方法一: 第三年雪山行

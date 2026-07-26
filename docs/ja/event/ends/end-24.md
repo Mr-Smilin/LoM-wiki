@@ -33,7 +33,7 @@ tags:
 
 1. 第三年十月中旬の武林大会で、錦香宮が暴露された後、<Girl8Icon>龍湘</Girl8Icon>が唐門に身を寄せる時、**📖「世間の冷たい視線を無視して龍湘を迎える」**を選択、<Girl8Icon>龍湘</Girl8Icon>が唐門に加入。
 2. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20、[金烏上人](/ja/people/characters/special207)が存命またはスキル：戦術＜5またはスキル戦術＜8、学問＜60の場合、[西武林盟を成立できない決策](/ja/event/detailed_description/3-12-1-眾人的決策)に進む。
-3. 敵と隠居について投票を実施：[四師兄](/ja/people/characters/brother4)が帰還した場合、[四師兄](/ja/people/characters/brother4)の投票が追加される。小師妹と婚約した場合、<Girl0Icon>小師妹</Girl0Icon>の投票が追加される。
+3. 敵と隠居について投票を実施：[唐惟元](/ja/people/characters/brother4)が帰還した場合、[唐惟元](/ja/people/characters/brother4)の投票が追加される。唐默鈴と婚約した場合、<Girl0Icon>唐默鈴</Girl0Icon>の投票が追加される。
    + 主人公の決策：
      + **📜議題「決策：敵と戦う」**：敵と戦う＋１票。
      + **📜議題「決策：江湖から隠居」**：江湖から隠居＋１票。
@@ -43,14 +43,14 @@ tags:
    + **🎲運命：四師兄の決策......**(上限99、➕加値：名声)：
      + **🧾【＜80】門弟を解散**：江湖から隠居＋１票。
      + **🧾【≧80】敵と戦う**：江湖から隠居＋１票。
-   + **🎲運命：小師妹の決策......**(上限99、➕加値：<Girl0Icon>小師妹</Girl0Icon>好感度*0.1)：
+   + **🎲運命：小師妹の決策......**(上限99、➕加値：<Girl0Icon>唐默鈴</Girl0Icon>好感度*0.1)：
      + **🧾【＜30】紙が鶴に折られた**：無効票。
      + **🧾【＜70】江湖から隠居**：江湖から隠居＋１票。
      + **🧾【≧70】師兄と同じ**：主人公の票数＋１。
 4. 以下の条件を満たして、門弟を解散することを決定：
    + 江湖から隠居の票が多い。
-   + 票が同数で主人公が江湖から隠居を選択し、🗡️[三師兄](/ja/people/characters/brother3)との決闘に勝利。
-   + 票が同数で[三師兄](/ja/people/characters/brother3)が江湖から隠居を選択し、🗡️[三師兄](/ja/people/characters/brother3)との決闘に敗戦。
+   + 票が同数で主人公が江湖から隠居を選択し、🗡️[唐陞](/ja/people/characters/brother3)との決闘に勝利。
+   + 票が同数で[唐陞](/ja/people/characters/brother3)が江湖から隠居を選択し、🗡️[唐陞](/ja/people/characters/brother3)との決闘に敗戦。
 5. 後山へ向かい、**📖選択肢「湘姉、一緒に来ませんか？（心を明かす）」**(選択肢を開くには想い人が<Girl8Icon>龍湘</Girl8Icon>である必要があります)。
 6. 既に他のキャラと婚約している場合、🗡️<Girl8Icon>龍湘</Girl8Icon>が決闘を仕掛け、勝利後に**📖選択肢「君を手放すことはない」**を選択、エンディングに進む。
 
@@ -59,37 +59,37 @@ tags:
 1. 第二年二月上旬唐門会議：
    + **📜決策「崆峒派留学に行きたい」**。第二年十月下旬、<Girl3Icon>虞小梅</Girl3Icon>の好感度≧20：<Girl3Icon>虞小梅</Girl3Icon>が唐門に加入
    + 前項を満たさない場合：<Girl3Icon>虞小梅</Girl3Icon>は唐門に加入しない。
-2. 第三年一月中旬、**🎲運命：手伝いをもっと連れていきますか？......**(上限60、➕加値：[大師兄](/ja/people/characters/brother1)好感度）：
-   + **🧾【＜80】必要ない**：[大師兄](/ja/people/characters/brother1)と共に下山しない。
-   + **🧾【≧80】必要ない、俺と趙活がいれば十分だ。**、その後**📖「本当に君は困ったやつだな」**を選択：[大師兄](/ja/people/characters/brother1)と共に下山。
-   + **🧾【≧80】必要ない、俺と趙活がいれば十分だ。**、その後**📖「俺は絶対に行かない(激しく抵抗)」**を選択：[大師兄](/ja/people/characters/brother1)と共に下山しない。
+2. 第三年一月中旬、**🎲運命：手伝いをもっと連れていきますか？......**(上限60、➕加値：[唐布衣](/ja/people/characters/brother1)好感度）：
+   + **🧾【＜80】必要ない**：[唐布衣](/ja/people/characters/brother1)と共に下山しない。
+   + **🧾【≧80】必要ない、俺と趙活がいれば十分だ。**、その後**📖「本当に君は困ったやつだな」**を選択：[唐布衣](/ja/people/characters/brother1)と共に下山。
+   + **🧾【≧80】必要ない、俺と趙活がいれば十分だ。**、その後**📖「俺は絶対に行かない(激しく抵抗)」**を選択：[唐布衣](/ja/people/characters/brother1)と共に下山しない。
 3. 金烏上人の偽死を見る：
-   + [大師兄](/ja/people/characters/brother1)と共に下山：帰路で[金烏上人](/ja/people/characters/special207)に奇襲を受ける。🗡️対手との決闘勝敗に関わらず、
-   + [大師兄](/ja/people/characters/brother1)と共に下山しない、<Girl3Icon>虞小梅</Girl3Icon>が唐門に加入しない：スキル医術≧5または総毒薬ポイント≧、以下の選択肢組み合わせのいずれかを選択して[大師兄](/ja/people/characters/brother1)を治療、**📖「力を抜く」**を選択、二場の🗡️決闘に勝利。**📖「大丈夫」**を選択、🗡️[金烏上人](/ja/people/characters/special207)との決闘に勝利。
+   + [唐布衣](/ja/people/characters/brother1)と共に下山：帰路で[金烏上人](/ja/people/characters/special207)に奇襲を受ける。🗡️対手との決闘勝敗に関わらず、
+   + [唐布衣](/ja/people/characters/brother1)と共に下山しない、<Girl3Icon>虞小梅</Girl3Icon>が唐門に加入しない：スキル医術≧5または総毒薬ポイント≧、以下の選択肢組み合わせのいずれかを選択して[唐布衣](/ja/people/characters/brother1)を治療、**📖「力を抜く」**を選択、二場の🗡️決闘に勝利。**📖「大丈夫」**を選択、🗡️[金烏上人](/ja/people/characters/special207)との決闘に勝利。
      + **📖「決意」**を選択。
      + **📖「躊躇」**→**📖「大師兄は死ねない」**→**📖「決意」**。
      + **📖「躊躇」**→**📖「大師兄は死ねない」**→**📖「躊躇」**→**📖「大師兄は死ねない」**→**📖「決意」**。
      + **📖「躊躇」**→**📖「大師兄は死ねない」**→**📖「躊躇」**→**📖「大師兄は死ねない」**→**📖「躊躇」**。
 4. 第三年五月上旬の行動前、比武招親の夜、[金烏上人](/ja/people/characters/special207)が襲来：
-   + 想い人が<Girl0Icon>唐默鈴</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50：<Girl0Icon>小師妹</Girl0Icon>が同行して下山。
-   + 上記条件を満たさない：<Girl0Icon>小師妹</Girl0Icon>は同行して下山しない。
+   + 想い人が<Girl0Icon>唐默鈴</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50：<Girl0Icon>唐默鈴</Girl0Icon>が同行して下山。
+   + 上記条件を満たさない：<Girl0Icon>唐默鈴</Girl0Icon>は同行して下山しない。
 5. 🗡️[金烏上人](/ja/people/characters/special207)との決闘に一場で勝利。
-   + <Girl0Icon>小師妹</Girl0Icon>が同行して下山：[金烏上人](/ja/people/characters/special207)が死亡。
-   + <Girl0Icon>小師妹</Girl0Icon>が同行して下山しない：**🎲運命：阻止......**(上限50、➕加値：軽功、性情)：**🧾【≧70】君の阻止**で、[金烏上人](/ja/people/characters/special207)が死亡。
+   + <Girl0Icon>唐默鈴</Girl0Icon>が同行して下山：[金烏上人](/ja/people/characters/special207)が死亡。
+   + <Girl0Icon>唐默鈴</Girl0Icon>が同行して下山しない：**🎲運命：阻止......**(上限50、➕加値：軽功、性情)：**🧾【≧70】君の阻止**で、[金烏上人](/ja/people/characters/special207)が死亡。
 ::: 
 
-### ※四師兄が帰還
+### ※唐惟元が帰還
 1. 第三年八月上旬唐門会議で、**📜決策「四師兄の遠行」**→**📖選択肢「わざと難しい要求を出す」**。
 2. **🎲運命：四師兄の返礼......**(上限70、➕加値：[唐惟元](/ja/people/characters/brother4)好感度)： **🧾【≧70】分かった、土産は土産だな**を獲得：
-3. 第三年十一月上旬の最後の行動前、[四師兄](/ja/people/characters/brother4)<span style='color: #00FF7F;'>が唐門に戻る</span>。
+3. 第三年十一月上旬の最後の行動前、[唐惟元](/ja/people/characters/brother4)<span style='color: #00FF7F;'>が唐門に戻る</span>。
 
-### ※小師妹と婚約
+### ※唐默鈴と婚約
 ::: details
 1. 第三年五月上旬の行動前、比武招親の夜、[金烏上人](/ja/people/characters/special207)が襲来。
-2. 想い人が<Girl0Icon>小師妹</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50の場合、<Girl0Icon>小師妹</Girl0Icon>が同行して下山。
-3. 🗡️[金烏上人](/ja/people/characters/special207)との決闘に勝利(<Girl0Icon>小師妹</Girl0Icon>が同行して下山している場合、敗戦で二次の挑戦機会はない)。
+2. 想い人が<Girl0Icon>唐默鈴</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50の場合、<Girl0Icon>唐默鈴</Girl0Icon>が同行して下山。
+3. 🗡️[金烏上人](/ja/people/characters/special207)との決闘に勝利(<Girl0Icon>唐默鈴</Girl0Icon>が同行して下山している場合、敗戦で二次の挑戦機会はない)。
 4. **🎲運命：君の想い......**(上限99、➕加値：<Girl0Icon>唐默鈴</Girl0Icon>好感度、性情、処世、➖減値：他の唐門成員好感度)：**🧾【>=50】小師妹は俺のもの！**を獲得。
-5. <Girl0Icon>唐默鈴</Girl0Icon>の好感度≧60で、<span style='color: #FF1493;'><Girl0Icon>小師妹</Girl0Icon>と婚約</span>、【小師妹の香囊】を獲得。
+5. <Girl0Icon>唐默鈴</Girl0Icon>の好感度≧60で、<span style='color: #FF1493;'><Girl0Icon>唐默鈴</Girl0Icon>と婚約</span>、【小師妹の香囊】を獲得。
 :::
 
 ### ※夏侯蘭と婚約

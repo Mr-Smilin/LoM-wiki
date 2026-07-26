@@ -537,7 +537,7 @@ tags:
         <td><BookItemIcon :no="`7017`">枯榮神功上卷</BookItemIcon></td>
         <td>內力12<br>體力12<br>枯榮神功</td>
         <td>50</td>
-        <td>LV2<br>內力&gt;=20<br>陰陽&lt;40<br>LV5<br>內力&gt;=30<br>陰陽&gt;=60<br>LV8<br>內力&gt;=40<br>陰陽&gt;=40<br>陰陽&lt;60</td>
+        <td>LV3<br>內力&gt;=20<br>陰陽&lt;40<br>LV6<br>內力&gt;=30<br>陰陽&gt;=60<br>LV9<br>內力&gt;=40<br>陰陽&gt;=40<br>陰陽&lt;60</td>
         <td>青城留學，十一月上與段智秀對質，煉藥總花費點數>60，<br>選擇【那封信】後，再選擇【幕後主使】獲得，注意順序不可顛倒。</td>
         <td></td>
     </tr>

@@ -34,10 +34,10 @@ tags:
 3. **🎲運命：門派くじの結果......**(上限99)：**🧾【＜75】奪魂門**を獲得し、奪魂門に加入。
 4. 第二年四月上旬、偷襲を受ける。**🎲運命：結果......**(上限90、➕加値：拳掌)：**🧾【＞50】防御成功**、🗡️峨嵋弟子との決闘に勝利、🗡️再び峨嵋弟子と決闘して敗戦または第四ターン終了まで戦闘を継続。
 5. 森に逃げた後、最初の選択肢の後、🗡️森を出て峨嵋弟子と再度決闘、勝負は影響しない。第二の選択肢の後、第三の選択肢で**📖「師の礼で拝謝」**を選択、<Girl5Icon>夏侯蘭</Girl5Icon>に師事。
-6. 第三年五月上旬、<Girl0Icon>小師妹</Girl0Icon>の比武招親の夜、[金烏上人](/ja/people/characters/special207)が襲来、**📖「武徳を顧みず皆でぶん殴る」**を選択、⚔️乱闘で敗戦。
+6. 第三年五月上旬、<Girl0Icon>唐默鈴</Girl0Icon>の比武招親の夜、[金烏上人](/ja/people/characters/special207)が襲来、**📖「武徳を顧みず皆でぶん殴る」**を選択、⚔️乱闘で敗戦。
 7. <Girl5Icon>夏侯蘭</Girl5Icon>と[解無塵](/ja/people/characters/special808)と共に崆峒派に乗り込む。🗡️[金烏上人](/ja/people/characters/special207)との決闘に勝利、エンディングに進む。
 
 ## 分岐と変化
 
-### 小師妹が同行して下山
-<Girl0Icon>小師妹</Girl0Icon>が同行して下山する場合（想い人が<Girl0Icon>唐默鈴</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50必須）、<Girl0Icon>小師妹</Girl0Icon>は[金烏上人](/ja/people/characters/special207)に穴を指されて連れ去られるが、伝説テキストに影響しない。
+### 唐默鈴が同行して下山
+<Girl0Icon>唐默鈴</Girl0Icon>が同行して下山する場合（想い人が<Girl0Icon>唐默鈴</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50必須）、<Girl0Icon>唐默鈴</Girl0Icon>は[金烏上人](/ja/people/characters/special207)に穴を指されて連れ去られるが、伝説テキストに影響しない。
