@@ -26,7 +26,7 @@ tags:
 
 1. At the Tang Clan meeting in early February of the second year, choose **📜 Topic: (Event) I want to study abroad at Kunlun School**.
 2. **📜 Topic: (Move) Colorless Square**, **(Free) Casino** (requires silver coins ≧2000 to open, get robbed when accumulating 5000 silver coins, **📖 Choice: Refuse**.
-3. \*\*🆚 Duel: Soul Snatching Disciple (& Iron Fist Disciple "Iron Wall Divine Fist"), get killed after losing the battle.
+3. **🆚 Duel: Soul Snatching Disciple (& Iron Fist Disciple "Iron Wall Divine Fist")**, get killed after losing the battle.
     - <Girl6Icon>Yu Zhu</Girl6Icon>≧20: Additional <Girl6Icon>Yu Zhu</Girl6Icon> "Big Iron Hammer" as our sidekick in the duel.
 
 ### 2. Killed by Xuan Palace Disciples (Possible Bug)

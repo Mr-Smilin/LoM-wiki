@@ -25,7 +25,7 @@ tags:
 <b>流程：</b><br>
 
 方法一: 3年目の雪山行で第三香に敗北する
-<br>&nbsp;&nbsp;&nbsp;&nbsp;1. 夏侯蘭の攻略手順を進める。詳しくは[〈夏侯蘭結緣攻略〉](/ja/event/pursuit/girl5)を参照。
+<br>&nbsp;&nbsp;&nbsp;&nbsp;1. 夏侯蘭の攻略手順を進める。詳しくは[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)を参照。
 <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 3年目7月中旬に[第三香](/ja/people/characters/special820)が登場。
 <br>&nbsp;&nbsp;&nbsp;&nbsp;3. **📖 選択：自ら名乗り出る**(選択肢を開放するには想い人：<Girl5Icon>夏侯蘭</Girl5Icon>が必要)。
 <br>&nbsp;&nbsp;&nbsp;&nbsp;4. **🎲 天命：夏侯蘭の承認……**(上限30、＋加値：<Girl5Icon>夏侯蘭</Girl5Icon>好感度)：**🧾【≧80】任せた**を骰子で出す。

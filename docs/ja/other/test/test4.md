@@ -75,7 +75,7 @@ tags:
     <table>
         <tr><td><Girl4Icon :size="`medium`"></Girl4Icon></td></tr>
         <tr><td style="text-align: center;">上官螢</td></tr>
-        <tr><td style="text-align: center;">上官世家、滄幫<br>(この行は隠すべき)</td></tr>
+        <tr><td style="text-align: center;">上官世家、滄幇<br>(この行は隠すべき)</td></tr>
     </table>
 </div>
 

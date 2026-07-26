@@ -34,7 +34,7 @@ tags:
 2. [唐嬌嬌](/ja/people/characters/big_trainee_girl_1)登場比武イベント：
     - 第二年二月上旬から第二年四月下旬の間に、練武場で団練を2回積み重ね、第二年五月上旬の唐門会議前に[唐嬌嬌](/ja/people/characters/big_trainee_girl_1)登場比武イベントが発生。
     - 第二年五月の間に、練武場で2度目の団練の後、[唐嬌嬌](/ja/people/characters/big_trainee_girl_1)登場比武イベントが発生。
-3. **📖「俺は信じん、かかってきてみろ」**を選択し、🗡️[唐嬌嬌](/ja/people/characters/big_trainee_girl_1)との決鬥に勝利した後、**📖「よし、成親しよう」**を選択して、エンディングへ。
+3. **📖「俺は信じん、かかってきてみろ」**を選択し、🗡️[唐嬌嬌](/ja/people/characters/big_trainee_girl_1)との決闘に勝利した後、**📖「よし、成親しよう」**を選択して、エンディングへ。
 
 ## 分岐と変化
 

@@ -10,7 +10,7 @@ tags:
     - 汗青書
     - 結局
     - 葉雲裳
-    - 結緣
+    - 結縁
 ---
 
 # {{ $frontmatter.title }}

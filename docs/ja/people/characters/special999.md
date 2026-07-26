@@ -12,7 +12,7 @@ aside: false
 	<ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/special999/normal.webp' 
-            nameTitle='縞衣劍少'
+            nameTitle='縞衣剣少'
 			nameMain='瑞笙'
 			desc='世に出たばかりながら、近ごろ名声を上げつつある若き剣客。<br>眉目秀麗にして瀟洒、磊落たる君子。物腰は温文爾雅、胸には万丈の豪情を秘め、剣を仗して俠を行い、恩讐に快をなす。肝心なところで必ず現れる男。'
 			:animation=true
@@ -37,7 +37,7 @@ aside: false
 					称号
 				</ChTd>
 				<ChTd>
-					縞衣劍少
+					縞衣剣少
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -57,12 +57,12 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[夏靈犀](/ja/people/characters/special825) (後宮)
+					[夏霊犀](/ja/people/characters/special825) (後宮)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[南溪](/ja/people/characters/special829) (後宮)
+					[南渓](/ja/people/characters/special829) (後宮)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -72,19 +72,19 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[孟仙謠](/ja/people/characters/special831) (後宮)
+					[孟仙謡](/ja/people/characters/special831) (後宮)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[方獨弱](/ja/people/characters/special837) (後宮)
+					[方独弱](/ja/people/characters/special837) (後宮)
 				</ChTd>
 			</ChTr>
 		</table>
 	</Info>
 </InfoList>
 
-孤雲山派の伝人。洞を出てより敵なし、旅を愛する縞衣劍少。
+孤雲山派の伝人。洞を出てより敵なし、旅を愛する縞衣剣少。
 <br><br>
 物腰は温文爾雅ながら、胸には万丈の豪情を秘める。肝心なところで必ず現れる男。
 <br><br>
@@ -116,13 +116,13 @@ aside: false
     -   彼は唐默鈴を喜ばせたいが、同時に他の紅顔知己たちも喜ばせたい。結果、あちらを立てればこちらが立たずになる運命である。[^3]
     -   唐默鈴は実のところ皆が思う以上に手強い女子で、人生の半分以上を一途に寵愛されて初めて、少しずつ心を開く。瑞笙が他の妻たちを顧みなくなれば、二人の関係は金国滅亡前には改善し始める。だが瑞笙にとって、他の女子を見捨てるなど不可能な話である。[^4]
 -   [葉雲舟](/ja/people/characters/special3)が[葉雲裳](/ja/people/characters/girl2)を連れて北へ医者を探しに行った場合、[梁有詩](/ja/people/characters/special830)は~~彼にかっさらわれて~~後宮団に加わらない。
--   [南溪](/ja/people/characters/special829)が[趙活](/ja/people/characters/player)に借りを作った場合、後宮団を抜けて[唐門](/ja/people/factions/tang-men)に助力する。瑞笙は彼女を連れ戻そうとしたが、やはり断られた。
+-   [南渓](/ja/people/characters/special829)が[趙活](/ja/people/characters/player)に借りを作った場合、後宮団を抜けて[唐門](/ja/people/factions/tang-men)に助力する。瑞笙は彼女を連れ戻そうとしたが、やはり断られた。
     -   「気の毒な御仁を一人知っている。西武林盟に与したいのに、数々のしがらみゆえに身動きが取れぬ人だ。人知れず随分と骨を折ってきたのに、誰の目にも留まらず、挙げ句、どちらからも良く思われずじまい。私のように身寄りも係累もない独り身なら、そうした気兼ねとは無縁。あの人の心願は、私が代わりに叶えてみせる。そのためなら、あなたと敵になろうとも構わない。」
--   v5000で登場した新しい妻[方獨弱](/ja/people/characters/special837)は幼馴染。[^2]
+-   v5000で登場した新しい妻[方独弱](/ja/people/characters/special837)は幼馴染。[^2]
 
 ## 武功
 
--   江陵囲城の決戦に駆けつけて[魏菊](/ja/people/characters/girl7)の窮地を救った場合、[王幫主](/ja/people/characters/special401)と三十二合を打ち合う。その剣舞は精妙を極め、見る者は思わず喝采を送る。
+-   江陵囲城の決戦に駆けつけて[魏菊](/ja/people/characters/girl7)の窮地を救った場合、[王幇主](/ja/people/characters/special401)と三十二合を打ち合う。その剣舞は精妙を極め、見る者は思わず喝采を送る。
 -   [鄒博](/ja/people/characters/special201)の分析によれば、西武林の[趙活](/ja/people/characters/player)が[唐布衣](/ja/people/characters/brother1)と戦えば勝率五分、趙活が瑞笙と戦っても五分だが、唐布衣が瑞笙と正面から対決すれば、まず負けは免れない。
 
 ## 備考

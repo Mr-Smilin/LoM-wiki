@@ -171,12 +171,12 @@ aside: false
 			nameZh='無実'
 			nameEn='Innocent'/>
 	</ChTab>
-	<ChTab title="聽雲棒">
+	<ChTab title="聴雲棒">
 		<Ch 
 			src='/images/characters/girl_2/stick.webp' 
 			position='center'/>
 		<ChName
-			nameZh='聽雲棒'
+			nameZh='聴雲棒'
 			nameEn='Stick'/>
 	</ChTab>
 	<ChTab title="疲労">
@@ -347,15 +347,15 @@ aside: false
 
 <br>
 
-## 結緣過程
+## 結縁過程
 
 ::: warning
 攻略情報を含みます。閲覧は自己責任で。
 :::
 
-詳しくは[〈葉雲裳結緣攻略〉](/ja/event/pursuit/girl2)を参照。
+詳しくは[〈葉雲裳結縁攻略〉](/ja/event/pursuit/girl2)を参照。
 
-## 結緣信物
+## 結縁信物
 
 <SpecialItemIcon :size="`medium`" :needLink="false" :no="1005" />
 
@@ -384,8 +384,8 @@ aside: false
 -   体が弱くなければ、おそらく兄の[葉雲舟](/ja/people/characters/special3)より武の素質がある。
 -   [葉雲舟](/ja/people/characters/special3)・[段智秀](/ja/people/characters/special833)らわずか4人で隊列から郡主を連れ去るという大胆な計画を立案した。
 -   自分と[趙活](/ja/people/characters/player)・[唐芳](/ja/people/characters/special832)たちが青城から無傷で撤退する計画を立案した(詳細は[段智秀来襲・青城脱出](/ja/event/simple/2-09-3-段智秀來襲)を参照)。
--   [趙活](/ja/people/characters/player)と一緒に錦香宮へ行った場合、短い滞在期間で琴の技芸を習得し、審査に合格するだけでなく、自分で変奏までできるようになり、[溫夫人](/ja/people/characters/special402)から琴を1面贈られる。
--   風雨山の上で唐門がデマで中傷されるのを見て、パオズ1個で、デマを流した[晁和](/ja/people/characters/special208)を惨死させ、[釋明](/ja/people/characters/special826)の評判を地に落とした。
+-   [趙活](/ja/people/characters/player)と一緒に錦香宮へ行った場合、短い滞在期間で琴の技芸を習得し、審査に合格するだけでなく、自分で変奏までできるようになり、[温夫人](/ja/people/characters/special402)から琴を1面贈られる。
+-   風雨山の上で唐門がデマで中傷されるのを見て、パオズ1個で、デマを流した[晁和](/ja/people/characters/special208)を惨死させ、[釈明](/ja/people/characters/special826)の評判を地に落とした。
 -   遊戯王に似たカードゲームを自作し、有名な俠士たちを絵札にした。
     > [葉雲舟](/ja/people/characters/special3)カードは能力オール満点で無敵。必殺技は1ターンに3回攻撃。<br><br>
     > [趙活](/ja/people/characters/player)カードはただの雑魚。しかもやたら枚数が多い。壁・生け贄・装備の三役をこなせて、意外と万能。<br><br>
@@ -442,21 +442,21 @@ aside: false
 -   元の姓は「花」。[^4]
 -   雲裳の「裳」は ㄕㄤ (shang) と読む。[^8]雲裳という名前は、雲公の衣裳となって、彼のために風雨を遮るという意味。
 -   ~~趙活の妹分・趙アニャ~~
--   見よ、私の点蒼棒法！聽雲棒！
+-   見よ、私の点蒼棒法！聴雲棒！
 -   甘い物が大好きで、特に冰糖葫蘆 (タンフールー)。買って買って！[趙活](/ja/people/characters/player)が手に入れた食べ物はすべて彼女に横取りされる。
 -   胡椒餅は辛すぎると文句を言い、一口かじってもう食べない。
 -   やきもち焼き。嫁ぐなら一途な相手でなければならず、他人に寵愛を分けるのを許さない。この世で[唐默鈴](/ja/people/characters/girl0.md)以外、誰かと一人の夫を共有するつもりはない。ただし、たとえ[趙活](/ja/people/characters/player)が本当に2人とも娶ったとしても、彼にいい思いはさせない。姉妹2人がべったり仲良くしているのに、趙活の出る幕がどこにある？
 -   ~~エッチな白テン~~「羊は默鈴。私は白テン。白テンは人の袖に潜り込んだり、首に巻きついたり、噛みついたりするのが好き……」
 -   [趙活](/ja/people/characters/player)を噛むときは本気の噛みつきで、全身どこもかしこも痛い。[唐默鈴](/ja/people/characters/girl0.md)の方は、ちょっとずつ小さく甘噛みする。
 -   怪談が好き。まったく怖がらないタイプ。[^3]
--   語尾の「ことよ」の原語は「的說」。中華圏の創作でわがまま・小悪魔系キャラによく使われる記号的な語尾。韓国語版には固定の対応語尾はなく、台詞ごとに自然な文末表現(例: -노라 / 이 말씀이야 / -였다고)に訳し分けられている。
+-   語尾の「ことよ」の原語は「的説」。中華圏の創作でわがまま・小悪魔系キャラによく使われる記号的な語尾。韓国語版には固定の対応語尾はなく、台詞ごとに自然な文末表現(例: -노라 / 이 말씀이야 / -였다고)に訳し分けられている。
 -   エンディング15、子夜寄君書の真意。
 -   江湖で「彼女の背中に宝の地図が刺青されている」というデマを流した犯人は[段智秀](/ja/people/characters/special833)ではなく、[林志恆](/ja/people/characters/lingnan_trainee1)である。
 
 [^1]: バハムート - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^2]: バハムート - [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^3]: バハムート - [【閒聊】雲裳の体重と葉兄の幼少期（鳥熊プライベート訊息問答）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=3082&bpage=1&ltype=)
-[^4]: Plurk囁囁說：[リンク](https://www.plurk.com/p/3g8q4p1s38)
+[^4]: Plurk囁囁説：[リンク](https://www.plurk.com/p/3g8q4p1s38)
 [^5]: Facebook - [オリジナル鳥熊2022/8/19](https://www.facebook.com/obbstudio/posts/pfbid02imQvU912mgs5b6XGkmHKY9JAfTaznce44dVB9s4e9mwVdpSa81e9YbWPmLq2TpBRl)
 [^6]: Facebook - [オリジナル鳥熊2023/8/22](https://www.facebook.com/obbstudio/posts/pfbid06P9XSSoB9zaqws972XaHpJ5sXynEpiUkp9i1QS1nDEWdTRXxENnw761tbxKCS16Al)
 [^7]: Facebook - [オリジナル鳥熊2024/6/1](https://www.facebook.com/obbstudio/posts/pfbid02DWHjzPLdRguLBns6wSeWRQUC1DcNr4nRNhgGfytbghiHANhircvTyAGndWyktv5Dl)

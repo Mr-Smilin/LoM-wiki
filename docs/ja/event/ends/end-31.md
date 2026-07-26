@@ -32,7 +32,7 @@ tags:
 <strong>条件：</strong><Girl5Icon>夏侯蘭</Girl5Icon>と婚約、道徳≧60【いい人、侠客】、門人解散<br>
 **フロー：**<br>
 ### 一、夏侯蘭と婚約
-<MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
+<MarkdownWrapper>[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
 
 ### 二、門人解散
 1. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20、[金烏上人](/ja/people/characters/special207)が存命またはスキル：戦術＜5またはスキル戦術＜8、学問＜60の場合、[西武林盟を成立できない決策](/ja/event/detailed_description/3-12-1-眾人的決策)に進む。

@@ -104,8 +104,8 @@ aside: false
     > 　作る詩はどれも俗っぽくて聞くに堪えず、書は剣気ありと称して実際は張牙舞爪。<br>
     > 　上官娘子というあれほど良い許嫁がありながら、風流を気取って女に手を出す。」
 -   伝奇テキストの南宮深評はとりわけ辛辣で、[魏菊](/ja/people/characters/girl7)が陰でこき下ろしているのではと疑われている。
--   陳序、余自詠、成溪、[公子秀](/ja/people/characters/special833)と共に[花城四少](/ja/people/characters/group1)と並び称される花街の常連。花城四少がなぜ5人いるのかについてはずっとバツが悪く、誰も怒らせたくないので、聞かれるといつもはぐらかしている。
--   靜江九縣小盟主の[方震天](/ja/people/characters/other16)、火炎山總鍛長の[段純青](/ja/people/characters/other15)、斬天黒翼双龍剣の[齊壬](/ja/people/characters/hero2)と親友。
+-   陳序、余自詠、成渓、[公子秀](/ja/people/characters/special833)と共に[花城四少](/ja/people/characters/group1)と並び称される花街の常連。花城四少がなぜ5人いるのかについてはずっとバツが悪く、誰も怒らせたくないので、聞かれるといつもはぐらかしている。
+-   静江九県小盟主の[方震天](/ja/people/characters/other16)、火炎山総鍛長の[段純青](/ja/people/characters/other15)、斬天黒翼双龍剣の[斉壬](/ja/people/characters/hero2)と親友。
 
 ## 装い
 
@@ -116,25 +116,25 @@ aside: false
 
 ## 上官螢
 
--   [上官螢](/ja/people/characters/girl4)との婚約は[祖父](/ja/people/characters/special104)が強く推して決めたもの。上官螢は天性の麗質で、一目で気に入り、幼馴染として意気投合。二人は連れ立って耕陽讀書齋に学び、[魏菊](/ja/people/characters/girl7)と同窓になった。
+-   [上官螢](/ja/people/characters/girl4)との婚約は[祖父](/ja/people/characters/special104)が強く推して決めたもの。上官螢は天性の麗質で、一目で気に入り、幼馴染として意気投合。二人は連れ立って耕陽読書齋に学び、[魏菊](/ja/people/characters/girl7)と同窓になった。
 -   [上官螢](/ja/people/characters/girl4)がますます美しくなり、幼くして父に代わり家業を切り盛りするのを見て、自分はただの大公子。才幹の差に内心忸怩たるものがあった。[上官螢](/ja/people/characters/girl4)に人前に出るなと勧めたのは、彼女の美貌が世人の目に留まるのを厭うただけでなく、彼女が有能すぎて自分が及ばず、婚姻後に御しきれなくなるのを恐れたためでもある。
 -   面子を重んじ、[上官螢](/ja/people/characters/girl4)に人前でなじられるのが耐えられない。友人の前で悪友付き合いを罵られ、授業を受けた長老の前で芸の未熟さを罵られたことさえある。
--   楽妓と付き合った本来の狙いは[上官螢](/ja/people/characters/girl4)への牽制。[樂屏](/ja/people/characters/special810)は容色でこそやや劣るものの、ずっと穏やかで愛らしく、話し声はいつも柔らかく、小鳥のように寄り添う。南宮深が最も愛を必要としていたときに、その心を奪っていった。
--   江陵戦の前、信仰上の理由で[上官螢](/ja/people/characters/girl4)が求めてきた数珠を受け取らず、逆に[樂屏](/ja/people/characters/special810)が夜なべで縫った匂い袋を受け取った。
--   だが江陵の戦後、[上官螢](/ja/people/characters/girl4)との婚約を解消した。表向きの理由は、上官家は官籍にあり、この婚姻は南宮家が武林で公正を保てなくなる恐れがあるというもの。実際は[樂屏](/ja/people/characters/special810)を妊娠させたためである。
+-   楽妓と付き合った本来の狙いは[上官螢](/ja/people/characters/girl4)への牽制。[楽屏](/ja/people/characters/special810)は容色でこそやや劣るものの、ずっと穏やかで愛らしく、話し声はいつも柔らかく、小鳥のように寄り添う。南宮深が最も愛を必要としていたときに、その心を奪っていった。
+-   江陵戦の前、信仰上の理由で[上官螢](/ja/people/characters/girl4)が求めてきた数珠を受け取らず、逆に[楽屏](/ja/people/characters/special810)が夜なべで縫った匂い袋を受け取った。
+-   だが江陵の戦後、[上官螢](/ja/people/characters/girl4)との婚約を解消した。表向きの理由は、上官家は官籍にあり、この婚姻は南宮家が武林で公正を保てなくなる恐れがあるというもの。実際は[楽屏](/ja/people/characters/special810)を妊娠させたためである。
 -   婚約解消後すぐに後悔したが、[上官螢](/ja/people/characters/girl4)はもはや戻る気はなかった。
 -   婚約は解消したものの友人関係は保っており、[上官螢](/ja/people/characters/girl4)が日本へ遠く嫁ぐと知って手助けを試みる。
 
 ## 唐默鈴の比武招親
 
 -   [唐默鈴](/ja/people/characters/girl0)の招親に参加。狙いは南宮家と唐門が同一陣営を組むこと。
--   唐默鈴の温順で善良な人柄なら、わだかまりを捨てて[樂屏](/ja/people/characters/special810)を受け入れ、仲良くやってくれるかもしれないと見込んだ。
+-   唐默鈴の温順で善良な人柄なら、わだかまりを捨てて[楽屏](/ja/people/characters/special810)を受け入れ、仲良くやってくれるかもしれないと見込んだ。
 -   招親の面接では、[唐陞](/ja/people/characters/brother3)は彼が博覧強記と知り、いまさら文試も無意味と考えて処世の難題を出した。あるいは唐默鈴から、なぜ[上官螢](/ja/people/characters/girl4)との婚約を破棄したのかを問われる。武試では礼を尽くし、相手に勝つたびに相手の顔が立つよう取りなした。
 
 ## 武功
 
 -   全力で守りに入れば水も漏らさぬ堅陣で、[画中仙](/ja/people/characters/special813)ほどの強者も一時は攻めあぐねた。
--   鳳凰寶衣は接近戦の天敵で、[南溪](/ja/people/characters/special829)すら苦戦に陥った。
+-   鳳凰寶衣は接近戦の天敵で、[南渓](/ja/people/characters/special829)すら苦戦に陥った。
 
 ## 備考
 
@@ -144,5 +144,5 @@ aside: false
 -   武林盟の説客でありながら、本来漏らしてはならない武林盟の情報である高手の顔ぶれを挙げ、唐門にこっそり内情を教えた。
 
 [^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
-[^2]: Youtube－[【独占配信】話題神作《活俠傳》幕後解秘！製作團隊的首次直播訪談！ft.鳥、熊、幽火](https://www.youtube.com/watch?v=JkSfhSi3P8w)
-[^3]: 遊戲角落－[專訪原始鳥熊（2）《活俠傳》的安科精神——隨機堆砌終成武林傳奇](https://game.udn.com/game/story/122090/8114531)
+[^2]: Youtube－[【独占配信】話題神作《活俠傳》幕後解秘！製作団隊的首次直播訪談！ft.鳥、熊、幽火](https://www.youtube.com/watch?v=JkSfhSi3P8w)
+[^3]: 遊戯角落－[専訪原始鳥熊（2）《活俠傳》的安科精神——随機堆砌終成武林伝奇](https://game.udn.com/game/story/122090/8114531)

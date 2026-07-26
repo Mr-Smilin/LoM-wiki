@@ -73,7 +73,7 @@ tags:
 -   [唐布衣](/ja/people/characters/brother1)と唐錚はかつて彼女の姉に片想いしていたが、それでも唐錚は唐芳にかなり厳しい。[^1][^6]
 -   唐錚が怖すぎるあまり、彼を避けて外を遊歴したまま帰らなかった。
 -   片目を隠す髪型は唐錚の真似で、本人はこれをかっこいいと思っている。[^6]
--   出奔した唐錚と[唐仙兒](/ja/people/characters/special813)に出くわした際は、止めるどころか同行を望んだが、唐錚に附骨釘で脈門を封じられて武功を廃され、それ以来ずいぶんと冷淡な性格になった。
+-   出奔した唐錚と[唐仙児](/ja/people/characters/special813)に出くわした際は、止めるどころか同行を望んだが、唐錚に附骨釘で脈門を封じられて武功を廃され、それ以来ずいぶんと冷淡な性格になった。
 
 ## 遅刻
 
@@ -93,7 +93,7 @@ tags:
 -   お尻は普通の人より少しだけ大きい。[^5]
 -   [八仙指](/ja/system/books/book_6012)の会話と記述から、姉の名前が唐芬であることが分かる。
 
-[^1]: 百度貼吧 - [新女角色突擊](https://tieba.baidu.com/p/9205413054?pn=1)17F (対話公開日 2024/10/5)
+[^1]: 百度貼吧 - [新女角色突撃](https://tieba.baidu.com/p/9205413054?pn=1)17F (対話公開日 2024/10/5)
 [^2]: 鳥熊 FB コメント、[リンク](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=1234364757878397&reply_comment_id=516592081152453&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)
 [^3]: 鳥熊 FB コメント、[リンク](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=2027078384407281&reply_comment_id=1334218897540686&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)
 [^4]: [問答集2024-10-07](/ja/other/qna/202410#_2024-10-07)、Part1。

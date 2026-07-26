@@ -130,7 +130,7 @@ aside: false
 
 ## 身世
 
--   [掌門](/ja/people/characters/master.md)はかつて「隔年の大雪の日に、惟元を拾った。さらに二年後、私に[鈴兒](/ja/people/characters/girl0.md)ができた」と言った。これから分かるように、四師兄は小師妹より二歳年上である。
+-   [掌門](/ja/people/characters/master.md)はかつて「隔年の大雪の日に、惟元を拾った。さらに二年後、私に[鈴児](/ja/people/characters/girl0.md)ができた」と言った。これから分かるように、四師兄は小師妹より二歳年上である。
 -   星座は詳しくない。[^4]
 -   彼を拾って教えた師父は亡くなった「千機巧匠」唐菱。後に彼が鍛冶を学ぶ気がなく、一心に稼ぐのを見て、[掌門](/ja/people/characters/master.md)に推したのだ。
 

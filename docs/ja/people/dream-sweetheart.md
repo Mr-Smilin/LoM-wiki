@@ -19,7 +19,7 @@ tags:
         <td :unsortable=true>属性1</td>
         <td :unsortable=true>属性2</td>
         <td :unsortable=true>属性3</td>
-        <td :unsortable=true>結緣攻略</td>
+        <td :unsortable=true>結縁攻略</td>
     </tr>
     <tr>
         <td><Girl4Icon :size="`medium`" href="/ja/people/characters/girl4">上官螢</Girl4Icon></td>
@@ -35,7 +35,7 @@ tags:
         <td>すらりと背が高い</td>
         <td>率直で朗らか</td>
         <td>少し抜けている</td>
-        <td><MarkdownWrapper>[〈龍湘結緣攻略〉](/ja/event/pursuit/girl8)</MarkdownWrapper>を参照
+        <td><MarkdownWrapper>[〈龍湘結縁攻略〉](/ja/event/pursuit/girl8)</MarkdownWrapper>を参照
             <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@ tags:
         <td>すらりと背が高い</td>
         <td>物静かで優雅</td>
         <td></td>
-        <td><MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照
+        <td><MarkdownWrapper>[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照
             <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
@@ -62,7 +62,7 @@ tags:
         <td>小柄で華奢</td>
         <td>活発で明るい</td>
         <td>病弱</td>
-        <td><MarkdownWrapper>[〈葉雲裳結緣攻略〉](/ja/event/pursuit/girl2)</MarkdownWrapper>を参照
+        <td><MarkdownWrapper>[〈葉雲裳結縁攻略〉](/ja/event/pursuit/girl2)</MarkdownWrapper>を参照
             <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
@@ -71,7 +71,7 @@ tags:
         <td>小柄で華奢</td>
         <td>もの静かで従順</td>
         <td>無垢な心</td>
-        <td><MarkdownWrapper>[〈唐默鈴結緣攻略〉](/ja/event/pursuit/girl0)</MarkdownWrapper>を参照
+        <td><MarkdownWrapper>[〈唐默鈴結縁攻略〉](/ja/event/pursuit/girl0)</MarkdownWrapper>を参照
             <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
@@ -116,5 +116,5 @@ tags:
 - 八人のヒロインの部分が完成した後、[瑞杏](/ja/people/characters/girl1)の無料DLCを計画している。[^1]
 - あの時代、女性は長い髪こそ美しいとされた。[^2]
 
-[^1]: [專訪原始鳥熊（4）逆天改命走一回！《活俠傳》從大多負評到極度好評](https://game.udn.com/game/story/122090/8129682)
+[^1]: [専訪原始鳥熊（4）逆天改命走一回！《活俠傳》従大多負評到極度好評](https://game.udn.com/game/story/122090/8129682)
 [^2]: [問答集2024-09-24](/ja/other/qna/202409#_2024-09-24)

@@ -23,4 +23,4 @@ tags:
 <b>Process:</b><br>
 
 1. At the Tang Sect meeting in early February of the second year, choose **📜 Topic: (Event) I want to study abroad at Kuang Tian Sect**.
-2. **📜 Topic: (Move) Flying Temple**, \*\*(Freedom) Cultivation, randomly occurs boasting to be the reincarnation of the Barefoot Immortal and getting burned to death by [[Fire Dragon Immortal Lord]].
+2. **📜 Topic: (Move) Flying Temple**, **(Freedom) Cultivation**, randomly occurs boasting to be the reincarnation of the Barefoot Immortal and getting burned to death by [[Fire Dragon Immortal Lord]].

@@ -74,6 +74,6 @@ tags:
 -   留学の提唱は門派間のわだかまりを解くためだったが、遠くの水では近くの火は消せなかった。
 -   [萬里鵬程](/ja/people/characters/special6)とは旧知の仲。萬里鵬程は眉を曇らせた[南宮深](/ja/people/characters/special102)を見て、若い頃の南宮橫にそっくりだと感じた。
 -   「目がかすむ」というのは社交辞令にすぎず、実際は非常に目が良く、読唇術まで使える。こっそり悪口を言うとバレる。
--   江陵囲城の際は、[南宮淺](/ja/people/characters/special103)と[趙活](/ja/people/characters/player)だけを連れて丐幫へ赴き、[王幫主](/ja/people/characters/special401)への面会を求めた。
+-   江陵囲城の際は、[南宮淺](/ja/people/characters/special103)と[趙活](/ja/people/characters/player)だけを連れて丐幇へ赴き、[王幇主](/ja/people/characters/special401)への面会を求めた。
 
 [^1]: Facebook－[原始鳥熊2024/3/11](https://www.facebook.com/share/p/58kEU18EfQ6w3VJC/)

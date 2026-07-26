@@ -31,7 +31,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[溫夫人](/ja/people/characters/special402) (姉)
+					[温夫人](/ja/people/characters/special402) (姉)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -60,24 +60,24 @@ tags:
 		<Ch src='/images/characters/special813/normal2.webp' position='right'/>
 		<ChName nameZh='画中仙' nameEn='Hua Zhong Xian' position='right' />
 	</ChTab>
-	<ChTab title="華仙兒">
+	<ChTab title="華仙児">
 		<Ch src='/images/characters/special813/normal3.webp' position='right'/>
-		<ChName nameZh='華仙兒' nameEn='Hua Xian Er' position='right' />
+		<ChName nameZh='華仙児' nameEn='Hua Xian Er' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>
 
 錦香宮の著名な美人で、顔は軸物の絵に似ているが、実は易容である。
 <br><br>
-易容潜伏して唐門に入り、華仙兒という師姉と名乗る。[唐錚](/ja/people/characters/brother2) (二師兄) と何やら関係がありそうで、また[趙活](/ja/people/characters/player)をこっそり殴ったりもする。
+易容潜伏して唐門に入り、華仙児という師姉と名乗る。[唐錚](/ja/people/characters/brother2) (二師兄) と何やら関係がありそうで、また[趙活](/ja/people/characters/player)をこっそり殴ったりもする。
 <br><br>
-[溫夫人](/ja/people/characters/special402)の妹である。武林大会で錦香宮が包囲された時、溫夫人と協力して芝居を打ち危機を切り抜けるが、[龍湘](/ja/people/characters/girl8)は一目でその正体を看破る。
+[温夫人](/ja/people/characters/special402)の妹である。武林大会で錦香宮が包囲された時、温夫人と協力して芝居を打ち危機を切り抜けるが、[龍湘](/ja/people/characters/girl8)は一目でその正体を看破る。
 
 ## 武功
 
 -   武功が高く、[趙活](/ja/people/characters/player)は全く手も足も出ず、一刀で殺される。
 -   本身の武学の流儀は回避防守に傾いており、風雨山での一時は全力防禦の[南宮深](/ja/people/characters/special102)に太刀打ちできない。
--   唐仙兒に易容した時に使う唐門武学の招数は全て似て非なるもので、差し支えない程度だが、形のみあり、意は異なる。
+-   唐仙児に易容した時に使う唐門武学の招数は全て似て非なるもので、差し支えない程度だが、形のみあり、意は異なる。
 -   易容の方法は他人の五官を参考にして、自分が被っている人皮マスク内部の粘土を揉んで調整する。
 
 ## 潜伏
@@ -91,7 +91,7 @@ tags:
 -   [唐錚](/ja/people/characters/brother2) (二師兄) の機嫌をとるやり方さえ思いつけば、[趙活](/ja/people/characters/player)を使って鶏やウサギを捕まえさせる。
 -   趙活が修行しているのを見ると、彼を殴って気を晴らしたくなる。
 -   女弟子房の薪担ぎ事件の中で、明らかにその事件に参加していなかったのに、女弟子の中に混ざって一緒に[趙活](/ja/people/characters/player)を打つ。[^2]
--   もし[趙活](/ja/people/characters/player)が錦香宮で[溫夫人](/ja/people/characters/special402)を怒らせば、本相を現わして一撃で趙活を殺す。
+-   もし[趙活](/ja/people/characters/player)が錦香宮で[温夫人](/ja/people/characters/special402)を怒らせば、本相を現わして一撃で趙活を殺す。
 
 ## 備考
 
@@ -101,10 +101,10 @@ tags:
 -   錦香宮に初めて行く時、[唐錚](/ja/people/characters/brother2) (二師兄) の好感度が高いほど、彼女が案内人になりやすい。
 -   食べることは知っているが料理を学ぶのは怠い。[^1]
 -   [葉雲舟](/ja/people/characters/special3)を見ると罵り、容赦がない。
--   [溫夫人](/ja/people/characters/special402)に放蕩だと非難されている。男を買っているらしく、また若い男を愛人として囲っているようだ。
+-   [温夫人](/ja/people/characters/special402)に放蕩だと非難されている。男を買っているらしく、また若い男を愛人として囲っているようだ。
 -   [龍湘](/ja/people/characters/girl8)が[唐布衣](/ja/people/characters/brother1)を陥れるのに力を貸し、その代わりに金を受け取った上で、龍湘に自分の生年月日を唐布衣に賠償させた。
 -   自分は血も涙もない、紅顔禍水(傾国の美女)だと名乗る。
--   過去に[溫夫人](/ja/people/characters/special402)と各々その主に侍ったが、[瑞杏](/ja/people/characters/girl1)のおかげで仲良くなった。
+-   過去に[温夫人](/ja/people/characters/special402)と各々その主に侍ったが、[瑞杏](/ja/people/characters/girl1)のおかげで仲良くなった。
 -   <MarkdownWrapper>||第二代千面人魔。||</MarkdownWrapper> (v3206 解包情報)
 
 [^1]: PTT C 洽－[\[活俠\] 龍湘と奇怪な小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)

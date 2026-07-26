@@ -1,5 +1,5 @@
 ---
-title: 南溪 (ナンケイ)
+title: 南渓 (ナンケイ)
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -12,9 +12,9 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="南溪">
+	<ChTab title="南渓">
 		<Ch src='/images/characters/special829/normal.webp' position='right'/>
-		<ChName nameZh='南溪' nameEn='Nan Xi' position='right' />
+		<ChName nameZh='南渓' nameEn='Nan Xi' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -46,7 +46,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [米歐寬](/ja/people/characters/lingnan_trainee3) (師妹)
+                    [米欧寬](/ja/people/characters/lingnan_trainee3) (師妹)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -61,7 +61,7 @@ tags:
 
 [瑞笙](/ja/people/characters/special999)の後宮の一人で、[嶺南派](/ja/people/factions/lingnan-sect)七星剣主の直系伝人。追われるように北上して遊歴の身となったが、いずれ嶺南に斬り込んで戻り、腐った輩を一掃するつもりでいる。
 <br><br>
-武林大会後、客舎で彼女に出会う機会がある。嶺南四醜を斬り捨てて門戸を清めるところを見届けると、彼女は[趙活](/ja/people/characters/player)に借りを作ることになる。その後、[孟仙謠](/ja/people/characters/special831)から託された包みを趙活に渡す。中身は葉家兄妹への手紙であり、葉家の心願を果たすものだった。
+武林大会後、客舎で彼女に出会う機会がある。嶺南四醜を斬り捨てて門戸を清めるところを見届けると、彼女は[趙活](/ja/people/characters/player)に借りを作ることになる。その後、[孟仙謡](/ja/people/characters/special831)から託された包みを趙活に渡す。中身は葉家兄妹への手紙であり、葉家の心願を果たすものだった。
 <br><br>
 借りがある場合、滅門ルート・西武林ルートのいずれでも[唐門](/ja/people/factions/tang-men)に加勢してくれる。
 

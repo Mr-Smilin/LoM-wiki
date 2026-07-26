@@ -23,5 +23,5 @@ tags:
 <b>条件：</b><Girl5Icon>夏侯蘭</Girl5Icon>の攻略中、最後の対決で彼女に敗北する<br>
 <b>手順：</b><br>
 
-1. <Girl5Icon>夏侯蘭</Girl5Icon>の攻略手順を進める。詳しくは[〈夏侯蘭結緣攻略〉](/ja/event/pursuit/girl5)を参照。
+1. <Girl5Icon>夏侯蘭</Girl5Icon>の攻略手順を進める。詳しくは[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)を参照。
 2. 夏侯蘭の今際のシナリオが終わった後、**🆚 決闘：<Girl5Icon>夏侯蘭</Girl5Icon>**で敗北すると殺される。

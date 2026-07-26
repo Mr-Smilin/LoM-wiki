@@ -36,7 +36,7 @@ aside: false
 			src='/images/characters/girl_4/angry2.webp' 
 			position='center'/>
 		<ChName
-			nameZh='生氣'
+			nameZh='生気'
 			nameEn='Angry'/>
 	</ChTab>
 	<ChTab title="瞑目">
@@ -168,14 +168,14 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[樂屏](/ja/people/characters/special810) (情敵)
+					[楽屏](/ja/people/characters/special810) (情敵)
 				</ChTd>
 			</ChTr>
 		</table>
 	</Info>
 </InfoList>
 
-> 「分かりました。金不足が問題なら、白銀五十兩出しましょう」
+> 「分かりました。金不足が問題なら、白銀五十両出しましょう」
 
 武林三大世家に数えられる上官家の独女で、福州を拠点としている。今や武林で知られた美女だ。
 性格は気高く好戦的。千金令嬢の身でありながら、深い閨房に安住することを甘んじず、若くしてすでに父に代わって上官家の家業を切り盛りしている。
@@ -214,7 +214,7 @@ aside: false
 -   分別がつくようになってから父の愛を得ることができなかった。風雨の中、[上官隼](/ja/people/characters/special407)が彼女を抱いて毒煙から遠ざけた時、彼女は思わず涙があふれた。
 -   幼い時から今まで、すべての努力は父の認同を得るためだ。悪事でさえ行った。[唐門](/ja/people/factions/tang-men)の衰弱にも彼女の罪がある。
     -   唐門に赴いて、債務買却を条件として[掌門](/ja/people/characters/master.md)を説き伏せ朝廷に投降させようとした。
-    -   広州での唐門侵犯の時に[釋明](/ja/people/characters/special826)と共に[唐衫](/ja/people/characters/special811)を支援した。
+    -   広州での唐門侵犯の時に[釈明](/ja/people/characters/special826)と共に[唐衫](/ja/people/characters/special811)を支援した。
     -   [唐四](/ja/people/characters/brother4.md)を逃がすため、暗中で商団の東家に働きかけて遠隔地へ商隊を遣わせた。彼女は心中で申し訳なく思い、できることは彼の安全を守ることだけだ。
 -   身の周りの幇の人間は護衛のように見えるが、実は[上官隼](/ja/people/characters/special407)が娘を監視するために置いた者である。
 
@@ -249,7 +249,7 @@ aside: false
 -   独門の暗器は重型の銭貨投げで、直接銅銭を投げつける。苦悶拳と合わせれば、当たったら敗けは必定だ。
 -   [劉顎](/ja/people/characters/special1)に誘拐されたことがある。
 -   [夏侯蘭](/ja/people/characters/girl5.md)と指腹為婚（生まれる前に親同士が取り決める婚約の風習）の約があり、泣き騒ぐため[嵩山派](/ja/people/factions/mount-song-sect)福建分院に送られて拳を習った。その後[雪山派](/ja/people/factions/mount-snow-sect)が滅ぼされて約はなくなった。~~さもなければ百合もあり得た~~
--   結縁がなければ、最後は遠く東洋へ渡って日本の北條家に嫁ぐ。
+-   結縁がなければ、最後は遠く東洋へ渡って日本の北条家に嫁ぐ。
 -   [趙活](/ja/people/characters/player)を痛打するシーンはKOF草薙京の四百弐拾七式・轢鉄と同じに見える。さらに倭国へ行くことを合わせると、~~彼女が草薙家の祖先であることが分かる~~
 -   料理をしない。外出する時はいつも専属の料理人を連れている。[^2]
 -   旅に出た時は従者が皇家専用の献上茶龍鳳団茶を持ってくる。通常は皇帝からの恩賜でもなければ手に入らない。これは隠れて掘り出したものを上官家に献上したのだ。

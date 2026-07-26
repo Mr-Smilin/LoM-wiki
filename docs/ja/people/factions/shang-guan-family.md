@@ -53,7 +53,7 @@ tags:
 
 <br>
 
-唯一、[白鯊幫](/ja/people/factions/white-shark-gang.md)は本当に手に負えず、何度もわざと邪魔をされ、海上交易を破壊され、どれほど多くの贈り物をしても、豚の血をかけて突き返されます。
+唯一、[白鯊幇](/ja/people/factions/white-shark-gang.md)は本当に手に負えず、何度もわざと邪魔をされ、海上交易を破壊され、どれほど多くの贈り物をしても、豚の血をかけて突き返されます。
 
 <br>
 
@@ -64,13 +64,13 @@ tags:
 現在の家主[上官隼](/ja/people/characters/special407)は沈着冷静で、江湖から徐々に身を引いており、家宝の「金背龍王刀」を封印してから、もう10年近く人と闘ったことがありません。
 <br clear="all">
 
-## 滄幫
+## 滄幇
 
-[滄幫](/ja/people/factions/cang-gang)は背後に上官世家がいることは、誰もが心得ている秘密です。[翻浪刀法](/ja/system/books/book_2002)さえ、上官家の刀法から派生しています。
+[滄幇](/ja/people/factions/cang-gang)は背後に上官世家がいることは、誰もが心得ている秘密です。[翻浪刀法](/ja/system/books/book_2002)さえ、上官家の刀法から派生しています。
 
 <br>
 
-多くの幫衆は[上官螢](/ja/people/characters/girl4)が自ら引き入れたもので、幫衆の目には幫主より地位が高く、そのため火の中水の中へも躊躇せず、彼女に従って南へ北へと奔走し、金を稼いで家を持つためです。
+多くの幇衆は[上官螢](/ja/people/characters/girl4)が自ら引き入れたもので、幇衆の目には幇主より地位が高く、そのため火の中水の中へも躊躇せず、彼女に従って南へ北へと奔走し、金を稼いで家を持つためです。
 
 ## 雪山派
 
@@ -86,7 +86,7 @@ tags:
 
 <br>
 
-江陵事件後、[南宮深](/ja/people/characters/special102)は樂妓[樂屏](/ja/people/characters/special810)を妊娠させてしまい、[上官螢](/ja/people/characters/girl4)の性格から事が露見すれば遺恨が生じることを恐れ、彼女が[劉顎](/ja/people/characters/special1)に拐われたことを理由に婚約を解除しました。
+江陵事件後、[南宮深](/ja/people/characters/special102)は楽妓[楽屏](/ja/people/characters/special810)を妊娠させてしまい、[上官螢](/ja/people/characters/girl4)の性格から事が露見すれば遺恨が生じることを恐れ、彼女が[劉顎](/ja/people/characters/special1)に拐われたことを理由に婚約を解除しました。
 
 ## 唐門の暗害
 
@@ -94,7 +94,7 @@ tags:
 
 <br>
 
-[唐中翎](/ja/people/characters/master)が重病であることに乗じて、[釋明](/ja/people/characters/special826)や[唐守鴻](/ja/people/characters/special812)と結託して唐門内乱を引き起こし、また風雨山大会で[釋明](/ja/people/characters/special826)による誹謗中傷を放任しました。朝廷が武林に騒乱の波紋を起こすことを避けたからこそ、もっと早くに唐門に決定的な一撃を加えることはなかったのです。
+[唐中翎](/ja/people/characters/master)が重病であることに乗じて、[釈明](/ja/people/characters/special826)や[唐守鴻](/ja/people/characters/special812)と結託して唐門内乱を引き起こし、また風雨山大会で[釈明](/ja/people/characters/special826)による誹謗中傷を放任しました。朝廷が武林に騒乱の波紋を起こすことを避けたからこそ、もっと早くに唐門に決定的な一撃を加えることはなかったのです。
 
 <br>
 
@@ -102,11 +102,11 @@ tags:
 
 ## 金背龍王刀
 
-上官家の家宝で、[譚霸刀](/ja/people/characters/special801)の破山斬、広州流放客の割夢刀、[極樂教主](/ja/people/characters/other7)の鬼蓮王刀と並んで江湖四大名刀と称されています。
+上官家の家宝で、[譚霸刀](/ja/people/characters/special801)の破山斬、広州流放客の割夢刀、[極楽教主](/ja/people/characters/other7)の鬼蓮王刀と並んで江湖四大名刀と称されています。
 
 <br>
 
-相伝によると、この刀が現れた時、まるで金背蛟龍が蒼い海で戯れるように、船隊を巻き込んで恐ろしき大波に呑み込む、最も危険此上ないといわれています。[夏侯蘭](/ja/people/characters/girl5)の鐵骨傘でさえ硬く受けることができず、[雪山派](/ja/people/factions/mount-snow-sect)の「梅顫枝頭」を使ってもその粘着力を払い除けることができず、ズタズタに切り裂かれ、収拾がつきません。
+相伝によると、この刀が現れた時、まるで金背蛟龍が蒼い海で戯れるように、船隊を巻き込んで恐ろしき大波に呑み込む、最も危険此上ないといわれています。[夏侯蘭](/ja/people/characters/girl5)の鉄骨傘でさえ硬く受けることができず、[雪山派](/ja/people/factions/mount-snow-sect)の「梅顫枝頭」を使ってもその粘着力を払い除けることができず、ズタズタに切り裂かれ、収拾がつきません。
 
 <br>
 

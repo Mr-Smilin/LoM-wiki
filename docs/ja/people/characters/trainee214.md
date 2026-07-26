@@ -1,5 +1,5 @@
 ---
-title: 童大蟲 (ドウダイチュウ)
+title: 童大虫 (ドウダイチュウ)
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -7,15 +7,15 @@ borderless: false
 tags:
     - 人物
     - 崆峒派
-    - 鐵拳門
+    - 鉄拳門
 ---
 
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="童大蟲">
+	<ChTab title="童大虫">
 		<Ch src='/images/characters/trainee214/normal.webp' position='right'/>
-		<ChName nameZh='童大蟲' nameEn='Tong Da Chong' position='right' />
+		<ChName nameZh='童大虫' nameEn='Tong Da Chong' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -30,7 +30,7 @@ tags:
 					称号
 				</ChTd>
 				<ChTd>
-					鐵脊山君
+					鉄脊山君
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -53,7 +53,7 @@ tags:
 </ChTabs>
 <br><br>
 
-「鐵脊山君」童大蟲、[崆峒派](/ja/people/factions/kong-tong-sect)の地護法。
+「鉄脊山君」童大虫、[崆峒派](/ja/people/factions/kong-tong-sect)の地護法。
 
 <br>
 

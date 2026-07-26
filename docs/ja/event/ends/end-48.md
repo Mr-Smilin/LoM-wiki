@@ -51,10 +51,10 @@ tags:
 
 [唐惟元](/ja/people/characters/brother4)が以前に帰還していれば、エンディング前のシナリオに登場する。
 
-### 結緣対象
+### 結縁対象
 
-結緣対象によって、エンディングシナリオと対応する[風雲史（実績）](/ja/event/achievements/)に差異がある。<br>
-※武林の伝説の結緣優先度(v1.0.3200.2)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+結縁対象によって、エンディングシナリオと対応する[風雲史（実績）](/ja/event/achievements/)に差異がある。<br>
+※武林の伝説の結縁優先度(v1.0.3200.2)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
 -   <Girl5Icon>夏侯蘭</Girl5Icon>：<AchievementIcon :size="`small`" :no="`12`">雪山派の大弟子</AchievementIcon>
 -   <Girl0Icon>唐默鈴</Girl0Icon>：<AchievementIcon :size="`small`" :no="`13`">唐門の女婿</AchievementIcon>

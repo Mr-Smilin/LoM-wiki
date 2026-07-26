@@ -55,7 +55,7 @@ tags:
 <br><br>
 杏林には玄門の奇陣が張られており、主の許しがなければ、武林の高手といえども抜け出せない。
 <br><br>
-千燈樓主が生涯で最も憚っているのが、この仙人である。曰く『智多くして妖に近し、人に非ざるを疑う』。
+千灯楼主が生涯で最も憚っているのが、この仙人である。曰く『智多くして妖に近し、人に非ざるを疑う』。
 <br clear="all">
 
 ## 関連する出来事
@@ -66,10 +66,10 @@ tags:
 - [瑞笙](/ja/people/characters/special999)は出山後、林の中に七七四十九日閉じ込められ、のちに操られて武林盟主となった
 - [魏菊](/ja/people/characters/girl7)を新婚の日に救い出し、政務の傍聴を通じて政治の腐敗を知らしめ、仕官の望みを断たせた
 - [上官世家](/ja/people/factions/shang-guan-family)の難事を一つ解決し、[上官螢](/ja/people/characters/girl4)の侍女だった[書蓉](/ja/people/characters/special818)を贈られた
-- [牛長壽](/ja/event/stories/江陵府官道劫糧案)が冤罪を泣いて訴え、仙人の助言を乞うた
-- [唐布衣](/ja/people/characters/brother1)はかつて運命を占ってもらい、死劫があると知って《九轉輪迴大法》を修練した
+- [牛長寿](/ja/event/stories/江陵府官道劫糧案)が冤罪を泣いて訴え、仙人の助言を乞うた
+- [唐布衣](/ja/people/characters/brother1)はかつて運命を占ってもらい、死劫があると知って《九転輪迴大法》を修練した
 - [唐惟元](/ja/people/characters/brother4)は大金の稼ぎ方を尋ねたが、無視された
-- 錦香閣の[溫夫人](/ja/people/characters/special402)に宮殿を贈り、[錦香宮](/ja/people/factions/jin-xiang-palace)を設立させた
+- 錦香閣の[温夫人](/ja/people/characters/special402)に宮殿を贈り、[錦香宮](/ja/people/factions/jin-xiang-palace)を設立させた
 - [南宮淺](/ja/people/characters/special103)を陣中で迷わせ、夢の中で老僧に諭させた
 - [南宮老太爺](/ja/people/characters/special104)に思いを断って自尽するよう勧めた
 - [龍淵](/ja/people/characters/special2)は杏の木の下で一晩酔い臥し、梢に錦嚢を見つけた。のちに[千面人魔](/ja/people/characters/other8)との関わりが判明する

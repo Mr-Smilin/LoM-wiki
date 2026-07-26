@@ -100,7 +100,7 @@ tags:
         <Ch
             src='/images/characters/player/angry2.webp' 
             position='center'/>
-        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+        <ChName nameZh='生気' nameEn='Angry' position='right' />
     </ChTab>
     <ChTab title="憤怒の形相">
         <Ch
@@ -148,7 +148,7 @@ tags:
         <Ch
             src='/images/characters/player/gloomy2.webp' 
             position='center'/>
-        <ChName nameZh='計畫通' nameEn='As Planned' position='right' />
+        <ChName nameZh='計画通' nameEn='As Planned' position='right' />
     </ChTab>
     <ChTab title="殴られ">
         <Ch
@@ -306,7 +306,7 @@ tags:
 <br><br>
 外姓でなければ、輩分の上では五番目の師兄に相当したはずである。口では唐默鈴のために唐門を離れないと言うが、生まれつきこの顔、家を追い出された彼にはどのみち他に行くあてもなかろう。実のところ彼の努力と辛抱を、掌門も師兄たちもちゃんと見てはいる。身分上直接手を貸すことができないが、陰では多少の便宜を図ってくれている。
 <br><br>
-暗器總綱の《忘形篇》はすっかり頭に入っているのに、門規により外姓弟子への指南は許されず、武功はいまだに雑魚のまま。[黒衣人](/ja/people/characters/brother1)の手ほどきを受けてようやく開眼し、各派の武功をあちこちかじって、ごった煮に練り上げてやっと一戦できる腕前になった。その学びの雑多さには、丐幫幫主[王二壯](/ja/people/characters/special401)すら感嘆を禁じ得なかった。<br><br>
+暗器総綱の《忘形篇》はすっかり頭に入っているのに、門規により外姓弟子への指南は許されず、武功はいまだに雑魚のまま。[黒衣人](/ja/people/characters/brother1)の手ほどきを受けてようやく開眼し、各派の武功をあちこちかじって、ごった煮に練り上げてやっと一戦できる腕前になった。その学びの雑多さには、丐幇幇主[王二壯](/ja/people/characters/special401)すら感嘆を禁じ得なかった。<br><br>
 唐門はまさに山雨来たらんとする時。あなたの選択次第で、異なる結末が待っている。
 
 ## 一日の日課
@@ -328,7 +328,7 @@ tags:
 >   夕餉の支度<br>
 >   趙活は片付けと皿洗い<br>
 >   入浴<br>
->   講經樓に入って三師兄の巻物整理を手伝う<br>
+>   講経楼に入って三師兄の巻物整理を手伝う<br>
 >   小師妹を寝かしつけに行く<br>
 >   夜回り、大院で1時辰 (約2時間) の夜間の見張り<br>
 >   部屋に戻って就寝 (およそ夜12時)
@@ -338,7 +338,7 @@ tags:
 -   趙活に誕生日の設定はない。本人も自分の歳がはっきりせず、両親すら彼がいつ生まれたか知らない。この子を産んだことすら忘れたいくらいである。
 -   趙活は何歳で唐門に来たのか覚えていない。[唐陞](/ja/people/characters/brother3)への当てつけでは十一、二歳と言い、[掌門](/ja/people/characters/master)にはおよそ七、八歳と言った。
 -   2年目の9月、趙活自身の言葉:「唐門で外姓弟子として人にこき使われて十数年」。
--   2年目の12月、[掌門](/ja/people/characters/master)が[唐陞](/ja/people/characters/brother3)に言う:「その後、お前が来た。翌年のある大雪の日、[惟元](/ja/people/characters/brother4)を拾った。さらに2年して、わしに[鈴兒](/ja/people/characters/girl0)が生まれた。それから、趙活も来たのだ。卵を提げてな。」よって趙活は唐默鈴の誕生後に唐門入りしたとわかる。
+-   2年目の12月、[掌門](/ja/people/characters/master)が[唐陞](/ja/people/characters/brother3)に言う:「その後、お前が来た。翌年のある大雪の日、[惟元](/ja/people/characters/brother4)を拾った。さらに2年して、わしに[鈴児](/ja/people/characters/girl0)が生まれた。それから、趙活も来たのだ。卵を提げてな。」よって趙活は唐默鈴の誕生後に唐門入りしたとわかる。
 -   2年目の4月、崆峒派留学の季試における[夏侯蘭](/ja/people/characters/girl5)の伝奇テキスト:「夏侯蘭とお前は師弟の間柄とはいえ、しょせん歳はいくつも違わない」。よって2年目時点で趙活は22歳以下。
 -   以上の推論から、趙活は唐門に10〜15年おり、かつ1年目で21歳以下。七、八歳で入門したとすれば、推定18〜21歳となる。
 
@@ -396,8 +396,8 @@ tags:
 -   肉まん妖怪 by 鳥熊
 -   ~~星座はペガサス座。燃やせ小宇宙 (コスモ)!~~[^6]
 -   破棄済みの謎のダンス。[リンク](https://www.facebook.com/watch/?mibextid=oFDknk&v=1481577332312805&rdid=g1lRgORuhzdrbpQu) [リンク](https://www.facebook.com/watch/?mibextid=oFDknk&v=1134896317435222&rdid=wGNDPFXDQ4Ny0hIM)
--   留学しないルートでは[掌門](/ja/people/characters/master)が唐門伝承の小剣をくれる。~~この剣は龍陽讀書齋の文中によく登場する~~
--   落書き同然の書画が[耕陽讀書齋](/ja/people/factions/geng-yang-study)に杜甫の筆かもしれないと目され、研究のために買い取られた。
+-   留学しないルートでは[掌門](/ja/people/characters/master)が唐門伝承の小剣をくれる。~~この剣は龍陽読書齋の文中によく登場する~~
+-   落書き同然の書画が[耕陽読書齋](/ja/people/factions/geng-yang-study)に杜甫の筆かもしれないと目され、研究のために買い取られた。
 -   年嵩の外姓弟子は[唐門](/ja/people/factions/tang-men)を出るよう勧められるため、趙活は老けて見られないよう、定期的に髭を剃っている。[^1]
 -   炒め物のとき時々気が触れたように胡椒粉を大量に入れるが、実は特に胡椒粉が好きなわけではない。[^1]
 -   趙活の家族はみな平凡な顔立ちの庶民で、彼だけが特別「精緻」な顔立ちである。[^3]

@@ -1,6 +1,6 @@
 ---
-title: 夏侯蘭結緣攻略
-description: 夏侯蘭結緣攻略
+title: 夏侯蘭結縁攻略
+description: 夏侯蘭結縁攻略
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -15,7 +15,7 @@ tags:
 
 <p align="center"><img src="/images/characters/girl_5/shy2.webp" style="width:300px"></p>
 
-## 結緣必要条件
+## 結縁必要条件
 <table>
 
 <tr>
@@ -55,7 +55,7 @@ tags:
 <td>• この条件を満たすと<Girl5Icon>夏侯蘭</Girl5Icon>に師事することになり、奪魄森林での修練が解禁される。これが好感度を稼ぐ主な手段。
     <br>• 留学が終わるまでにできるだけ夏侯蘭好感≧40に到達しておく。
     <br>• 修練の派生イベントで<MarkdownWrapper>[樊嘯天が夏侯蘭に師事する](/ja/event/simple/2-04-1-練功分心)</MarkdownWrapper>を選ぶと、以降の一部展開と結末演出に影響するため、初めて夏侯蘭ルートを進める場合は樊を弟子入りさせないことを推奨。
-    <br>• 5月下旬の<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>は結緣必要条件ではないが、三戦全勝かつ樊嘯天が弟子入りしていなければ道具<MarkdownWrapper>[【崆峒磨喝樂】](/ja/system/items)</MarkdownWrapper>(展開の記念品、効果なし)を入手できる。また第三戦で瑞笙に敗北するのは、後に<MarkdownWrapper>[雪山飛鴻爪](/ja/system/books/book_6009)</MarkdownWrapper>を入手するための必要条件。</td>
+    <br>• 5月下旬の<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>は結縁必要条件ではないが、三戦全勝かつ樊嘯天が弟子入りしていなければ道具<MarkdownWrapper>[【崆峒磨喝楽】](/ja/system/items)</MarkdownWrapper>(展開の記念品、効果なし)を入手できる。また第三戦で瑞笙に敗北するのは、後に<MarkdownWrapper>[雪山飛鴻爪](/ja/system/books/book_6009)</MarkdownWrapper>を入手するための必要条件。</td>
 </tr>
 
 <tr>
@@ -63,7 +63,7 @@ tags:
 <td>3年目5月下旬</td>
 <td><MarkdownWrapper>[樹屋を建造する](/ja/event/simple/3-05-3-建造樹屋)</MarkdownWrapper></td>
 <td><Girl5Icon>夏侯蘭</Girl5Icon>好感≧40で、このイベントを発生・完了できる。</td>
-<td>イベント中の選択肢は結緣に関係ない。</td>
+<td>イベント中の選択肢は結縁に関係ない。</td>
 </tr>
 
 <tr>
@@ -89,8 +89,8 @@ tags:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 2回目の📖「抵抗」選択には酒を持っている必要がある。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 3回目の📖「抵抗」選択には想い人が夏侯蘭である必要がある。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;3. <MarkdownWrapper>[運命収束の力](/ja/event/achievements/#風雲史-No.16)</MarkdownWrapper>を持っていない場合、少なくとも夏侯蘭好感≧49がないと1回も成功しない。
-    <br>• 抵抗に成功すると夏侯蘭が危篤に陥る展開が発生し、続けて🗡️夏侯蘭と決闘、勝利すれば結緣イベントに進む。
-    <br>• イベント終了後に道具【夏侯蘭の髪帯】を入手し、結緣成功。</td>
+    <br>• 抵抗に成功すると夏侯蘭が危篤に陥る展開が発生し、続けて🗡️夏侯蘭と決闘、勝利すれば結縁イベントに進む。
+    <br>• イベント終了後に道具【夏侯蘭の髪帯】を入手し、結縁成功。</td>
 <td>• 伝授を受け入れるか抵抗に失敗すると、<Girl5Icon>夏侯蘭</Girl5Icon>は死去し、スキル<MarkdownWrapper>[玄黄納心綱](/ja/system/skill)</MarkdownWrapper>(展開の記念品、効果なし)を獲得する。
     <br>• 酒の種類によって展開が異なり、優先度は以下の通り:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. <MarkdownWrapper>[菊花酒](/ja/event/simple/3-07-2-雪山之約)</MarkdownWrapper>: 第三香を撃破した後、🎲【≧70】「見逃す」、続けて🎲【≧60】「何もない」を出す。
@@ -101,7 +101,7 @@ tags:
 
 </table>
 
-## 結緣後に変化するイベント
+## 結縁後に変化するイベント
 <table>
 
 <tr>
@@ -146,7 +146,7 @@ tags:
     <br>• または4年目2月中旬(西武林盟成立)</td>
 <td>夏侯蘭に付き添う</td>
 <td>• 大門から下山すると<Girl5Icon>夏侯蘭</Girl5Icon>と付き添うイベントが発生する。
-    <br>• 他にも結緣している相手がいる場合、いずれかの付き添いイベントが修羅場イベントに差し替えられ、🗡️決闘に敗北すると<MarkdownWrapper>[生死簿82：かの封印されしエクゾディアのごとく](/ja/event/badends/#生死簿-No.82)</MarkdownWrapper>に進む。</td>
+    <br>• 他にも結縁している相手がいる場合、いずれかの付き添いイベントが修羅場イベントに差し替えられ、🗡️決闘に敗北すると<MarkdownWrapper>[生死簿82：かの封印されしエクゾディアのごとく](/ja/event/badends/#生死簿-No.82)</MarkdownWrapper>に進む。</td>
 <td>このイベントを発生させない場合、残り行動回数2の時点で夏侯蘭が待ちぼうけを食らうイベントが自動発生する。</td>
 </tr>
 
@@ -160,7 +160,7 @@ tags:
     <br>• 夏侯蘭の助言に従わず、かつ樊嘯天が師事していない場合、夏侯蘭は最終決戦に参加する。
     <br>• 最終決戦勝利後、<MarkdownWrapper>[汗青書43：寵を失う](/ja/event/ends/end-43)</MarkdownWrapper>に進む。</td>
 <td>• 夏侯蘭の最終決戦での支援スキルは、雪山行で<MarkdownWrapper>[雪山飛鴻爪](/ja/system/books/book_6009)</MarkdownWrapper>と<MarkdownWrapper>[奪魄幽霊爪](/ja/system/books/book_6007)</MarkdownWrapper>のどちらを入手したかによって決まる(必要条件3の備考を参照)。
-    <br>• 複数人と結緣している場合、滅門ルート結末の結緣優先度(v1.0.3201.1)：
+    <br>• 複数人と結縁している場合、滅門ルート結末の結縁優先度(v1.0.3201.1)：
     <br><Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 </td>
 </tr>

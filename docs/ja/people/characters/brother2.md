@@ -167,25 +167,25 @@ aside: false
 -   毒をもって毒を制することに秀でており、効き目は神速。だが気分次第で副作用のある猛薬を与えることもある。
 -   かつて江陵の千金方で客席を務め、[趙活](/ja/people/characters/player)をそこで働くよう紹介したこともある。
 -   嫌疑を避けるため、[唐芳](/ja/people/characters/special832)を育てて女性患者への鍼灸を委ねている。名目上は師兄妹だが、実質は師弟に近い。唐芳に対しては相応に厳しい。
--   煉丹房の炉の火は年中絶えることなし。これは二師兄が心血を込めて世話する「万壽屍心丹」であり、[掌門](/ja/people/characters/master.md)の延命を支える。余分な物を入れるなかれ！<BadendIcon :no="29">生死簿 No.29</BadendIcon>
+-   煉丹房の炉の火は年中絶えることなし。これは二師兄が心血を込めて世話する「万寿屍心丹」であり、[掌門](/ja/people/characters/master.md)の延命を支える。余分な物を入れるなかれ！<BadendIcon :no="29">生死簿 No.29</BadendIcon>
 -   煉丹房に自分の寝床を設えて、いつでも薬の火加減を確認できるようにしている。煉丹房では静かにすること。
 
 ## 三面スパイ
 
--   「俺は[錦香宮](/ja/people/factions/jin-xiang-palace)の指示で唐門に潜伏し、[千燈樓](/ja/people/factions/thousand-lantern-tower)の指示で錦香宮に潜伏し、唐門の指示で千燈樓に潜伏している」
+-   「俺は[錦香宮](/ja/people/factions/jin-xiang-palace)の指示で唐門に潜伏し、[千灯楼](/ja/people/factions/thousand-lantern-tower)の指示で錦香宮に潜伏し、唐門の指示で千灯楼に潜伏している」
 -   スパイの身分で[錦香宮](/ja/people/factions/jin-xiang-palace)に潜入する際は、男装することは「ない」。~~ちぇっ~~[^1]
--   錦香宮が風雨山で剣鞘の絹索を焼いて生じた毒煙は、[溫夫人](/ja/people/characters/special402)が二師兄に暗に手配させたものである。
+-   錦香宮が風雨山で剣鞘の絹索を焼いて生じた毒煙は、[温夫人](/ja/people/characters/special402)が二師兄に暗に手配させたものである。
 -   [袁無憲](/ja/people/characters/special823)とともに新極楽七仙の一人。[大師兄](/ja/people/characters/brother1.md)が[申屠龍](/ja/people/characters/special405)の暗殺に失敗した時、二人で現れて教主を守るふりをしながら、実は暗に彼の命を救おうとしていた。
--   [李元棄](/ja/people/characters/special213)（極楽左使）とは多少の因縁がある。[趙活](/ja/people/characters/player)と[葉雲裳](/ja/people/characters/girl2.md)を救うためなら、自分が[千燈樓](/ja/people/factions/thousand-lantern-tower)に遺棄されたことまで許すことができた。
+-   [李元棄](/ja/people/characters/special213)（極楽左使）とは多少の因縁がある。[趙活](/ja/people/characters/player)と[葉雲裳](/ja/people/characters/girl2.md)を救うためなら、自分が[千灯楼](/ja/people/factions/thousand-lantern-tower)に遺棄されたことまで許すことができた。
 
 ## 備考
 
 -   鳥熊 FB の紹介：[リンク](https://www.facebook.com/photo/?fbid=119387853792735&set=pcb.119387933792727)
--   誕生日は9月9日で乙女座。[華仙兒](/ja/people/characters/special813.md)が[趙活](/ja/people/characters/player)に山鶏を捕まえるよう言いつけた時は、ちょうど九月上旬だった。[^2]
+-   誕生日は9月9日で乙女座。[華仙児](/ja/people/characters/special813.md)が[趙活](/ja/people/characters/player)に山鶏を捕まえるよう言いつけた時は、ちょうど九月上旬だった。[^2]
 -   二師兄は冗談をしない。死にたいなんて言うなよ。<BadendIcon :no="4">生死簿 No.4</BadendIcon>
     [唐門に帰還](/ja/event/simple/2-10-1-返回唐門)後、唐錚好感度≧35で「唐錚の授業」が発生し
     [唐門薬典](/ja/system/books/book_8104)を贈られる。さらに性情≦40だと受け取らない選択肢が現れ、
-    「ここで死ぬぞ」を選ぶと決闘になる。このとき全編で唯一、二師兄の専用戦闘立ち絵を見ることができる[^3]。
+    「この場で死ぬ」を選ぶと1対1の決闘になり、彼専用の戦闘グラフィックを見ることができる[^3]。
     勝利すると唐錚好感度-2で唐門薬典を失い、敗北すると「毒死」で上記の生死簿へ
 -   [趙活](/ja/people/characters/player)を「役立たず」「趙氏蠢豚」と呼ぶ。
 -   口は悪いが心優しく、好感度が高いほどより厳しく罵るが、反面好感度も上げやすくなる。
@@ -201,7 +201,7 @@ aside: false
 
 [^1]: バハムート- [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^2]: Facebook - [オリジナル鳥熊2025/9/9](https://www.facebook.com/obbstudio/posts/pfbid0jo8pNNekUkjYE7EyLqYerjfnCWcaRHPfQGaJrZDaXe3QZ5KM8SuZDeJkcQbWdf9Al)
-[^3]: バハムート - [RE:【攻略】活俠傳裡極難觸發的事件總結【by火焰貓琳】](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=8219)
+[^3]: バハムート - [RE:【攻略】活俠傳裡極難触発的事件総結【by火焰猫琳】](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=8219)
 
 ## ギャラリー
 

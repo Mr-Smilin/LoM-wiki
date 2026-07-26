@@ -7,6 +7,8 @@ import {
 	GitChangelog,
 	GitChangelogMarkdownSection,
 } from "@nolebase/vitepress-plugin-git-changelog/vite";
+// CJK 強調記法 (「**強調**を選択」等、全角約物の直後に閉じ ** が来る場合の CommonMark 非対応を修正)
+import cjkFriendly from "markdown-it-cjk-friendly";
 // 註腳
 import footnote from "markdown-it-footnote";
 import { withMermaid } from "vitepress-plugin-mermaid";
@@ -928,15 +930,42 @@ const baseConfig = {
 		},
 		component: {
 			blockTags: [],
-			inlineTags: [],
+			// 行頭のアイコンコンポーネントがブロック扱いになると、その行が生 HTML として
+			// markdown 処理を素通りし、同じ行の **強調** が展開されない。インライン指定で回避する。
+			inlineTags: [
+				"AchievementIcon",
+				"BadendIcon",
+				"BookItemIcon",
+				"EndIcon",
+				"FoodItemIcon",
+				"Girl0Icon",
+				"Girl1Icon",
+				"Girl2Icon",
+				"Girl3Icon",
+				"Girl4Icon",
+				"Girl5Icon",
+				"Girl6Icon",
+				"Girl7Icon",
+				"Girl8Icon",
+				"MoodIcon",
+				"NewspaperItemIcon",
+				"SpecialItemIcon",
+				"TeaItemIcon",
+				"WineItemIcon",
+			],
 		},
 		config: (md) => {
+			// CJK 強調: 約物+助詞の連続で強調が閉じない CommonMark 挙動を CJK 拡張規則で置換
+			md.use(cjkFriendly);
+
 			// wikilinks
 			md.inline.ruler.before("link", "wikilink", (state, silent) => {
-				if (state.src.charAt(state.pos) === "<") {
+				// 走査位置そのものが [[ で始まる場合のみ処理する。未アンカーで exec すると
+				// 後方にある [[...]] にマッチし、その手前のテキストごと食い潰す。
+				if (state.src.charAt(state.pos) !== "[") {
 					return false;
 				}
-				const regex = /\[\[(.*?)\]\]/;
+				const regex = /^\[\[(.*?)\]\]/;
 				const match = regex.exec(state.src.slice(state.pos));
 				if (!match) return false;
 

@@ -221,7 +221,7 @@ aside: false
   <Tab title="列伝一">
 	唐門掌門の独り娘。<br><br>
 	掌門は彼女の身体が弱いことを心配し、だからこそ3年間閉関して武功を考案した。<br>
-	独門の武功を基盤として、新たな道を開き、「天地無聲勢」を創出して愛娘に教えた。<br><br>
+	独門の武功を基盤として、新たな道を開き、「天地無声勢」を創出して愛娘に教えた。<br><br>
 	修練者は全身に7つの鈴を身につけ、<br>
 	激しい動きでも鈴が鳴らないレベルまで厳しく修練する必要がある。<br><br>
 	この心訣の影響を受けて、生まれつき無感情で、感情を表に出さず、話すことが好きではなく、めったに言葉や笑顔を見せない。<br><br>
@@ -258,7 +258,7 @@ aside: false
 
 ## 鈴
 
-「天地無聲勢」を修練するため、身に7つの鈴を付ける。首・腕・手首・脚（ただし頻繁に足首のところまで下がる）。7つの鈴は枷となり、喜・怒・憂・懼・愛・憎・欲を封印し、心拍が非常に遅く、体温も低い。誰からも弄ばれなければ、かなり長生きするはずだ。鈴が鳴る時は、ほぼ魂まで叫び出すほどの状態に達している。
+「天地無声勢」を修練するため、身に7つの鈴を付ける。首・腕・手首・脚（ただし頻繁に足首のところまで下がる）。7つの鈴は枷となり、喜・怒・憂・懼・愛・憎・欲を封印し、心拍が非常に遅く、体温も低い。誰からも弄ばれなければ、かなり長生きするはずだ。鈴が鳴る時は、ほぼ魂まで叫び出すほどの状態に達している。
 
 <br><br>
 
@@ -268,7 +268,7 @@ aside: false
 
 彼女は方向オンチだから、鈴を付けるのはその一部が迷子防止なのだ。
 
-## 結緣信物
+## 結縁信物
 
 <SpecialItemIcon :size="`medium`" :needLink="false" :no="1000" />
 
@@ -317,7 +317,7 @@ aside: false
 -   江湖で走り回っていない。さらに人と手合わせすることも少ない。実戦経験は浅い。しかし、気を散らさず多年にわたって修練に専念してきた。すでに唐門武学の奥義を垣間見ている。眼識はかなり高い。
 -   西武林ルートで[趙活](/ja/people/characters/player)が[譚霸刀](/ja/people/characters/special801)と対戦する時、小師妹が乱入する。3招で霸刀を倒す。返す刀の力もない。霸刀の遺言「唐門当代の最強者は、実は[唐布衣](/ja/people/characters/brother1.md)ではなく……」
 -   練武場で[大師兄](/ja/people/characters/brother1.md)が蹴鞠をしている時、小師妹が参加すれば彼はすぐに負ける。
--   [大師兄](/ja/people/characters/brother1.md)は彼女の軽功を天下前5位に評価することは可能だと考えている。自分は前10位に評価することに自信がない。聞く所に、「天地無聲勢」を全力で発揮する時、まるで1人が3体に分かれたようだという。
+-   [大師兄](/ja/people/characters/brother1.md)は彼女の軽功を天下前5位に評価することは可能だと考えている。自分は前10位に評価することに自信がない。聞く所に、「天地無声勢」を全力で発揮する時、まるで1人が3体に分かれたようだという。
 -   小師妹の無定飛梭は滞空と変速の特性を持つ。人が後から発動して先に到達するのは実は難しくない。[^8]
 
 ## 迷路
@@ -330,8 +330,8 @@ aside: false
 
 ## エンディング
 
--   結緣していない場合、[瑞笙](/ja/people/characters/special999)に嫁ぐ。西武林ルートで[瑞笙](/ja/people/characters/special999)が生き残った場合は、[唐門](/ja/people/factions/tang-men)に帰る。[^2]
--   結緣している場合、西武林エンディング後に[趙活](/ja/people/characters/player)と[唐門](/ja/people/factions/tang-men)に定住する。[^2]
+-   結縁していない場合、[瑞笙](/ja/people/characters/special999)に嫁ぐ。西武林ルートで[瑞笙](/ja/people/characters/special999)が生き残った場合は、[唐門](/ja/people/factions/tang-men)に帰る。[^2]
+-   結縁している場合、西武林エンディング後に[趙活](/ja/people/characters/player)と[唐門](/ja/people/factions/tang-men)に定住する。[^2]
 
 ## 備考
 
@@ -343,7 +343,7 @@ aside: false
 -   生まれつき小動物の属性を持ち、さらに[唐門](/ja/people/factions/tang-men)が貧困で食事が悪かった。黄金の成長期を逃してしまい、再び背が伸びるのは非常に難しい。
 -   食べ飽きるという概念がない。普段は甘いものを食べる機会も少ない。一度食べられるようになれば、絶えず口に詰め込み、寝るまで続く。もし誰も管理せずにずっと食べさせたら、いずれ3倍大きい人になるかもしれない。[^1]
 -   第一年で[趙活](/ja/people/characters/player)が倒れた時、[三師兄](/ja/people/characters/brother3.md)は小師妹は既に花のような乙女になったと言った。それで15歳と推測される。
--   滅門ルートで[夏靈犀](/ja/people/characters/special825)に小綿羊と呼ばれ、西武林ルートで[四師兄](/ja/people/characters/brother4.md)が全身の血だらけの服を見て「狂暴小綿羊」と呼ぶ。[葉雲裳](/ja/people/characters/girl2.md)も「羊は默鈴。私はイタチ」と言った。
+-   滅門ルートで[夏霊犀](/ja/people/characters/special825)に小綿羊と呼ばれ、西武林ルートで[四師兄](/ja/people/characters/brother4.md)が全身の血だらけの服を見て「狂暴小綿羊」と呼ぶ。[葉雲裳](/ja/people/characters/girl2.md)も「羊は默鈴。私はイタチ」と言った。
 -   寒冷を恐れている。[^3]
 -   絵を描くのが下手。[劉顎](/ja/people/characters/special1)に笑われて、彫刻して壁画にして、古代遺跡と偽ろうとする。
 -   歌唱は大きく外れる。小師妹は羞恥心が強く、人前ではあまり歌わない。また嘲笑されるのを恐れる。だから[趙活](/ja/people/characters/player)が独占している。[^4][^5]
@@ -365,7 +365,7 @@ aside: false
 [^5]: バハムート - [RE:【心得】趙活の日常生活を見たら、本当に「これは俺が」と言えない](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12057&subbsn=1&bPage=0)
 [^6]: Facebook - [オリジナル鳥熊2023/3/24](https://www.facebook.com/obbstudio/posts/pfbid0RtthSh7drDNiXYqEPRvK9Mvd5ngMuBQJxCVqfE7PyCxKZfy3QqHZTi97TSfMmWeQl)
 [^7]: Facebook - [オリジナル鳥熊2024/2/5](https://www.facebook.com/obbstudio/posts/pfbid0345ukMDW1MtXHXFDAegFGKnPSZ6Ypq2gcoLq2TgEeskhyHQzGeEuywWRtu4nC5mpTl)
-[^8]: バハムート - [【文字專訪】專訪鳥熊鼠蟲~129題超長訪談（施工完畢）（更新至8~9樓）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=4070&bpage=1&ltype=)
+[^8]: バハムート - [【文字専訪】専訪鳥熊鼠虫~129題超長訪談（施工完畢）（更新至8~9樓）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=4070&bpage=1&ltype=)
 
 ## ギャラリー
 

@@ -108,7 +108,7 @@ tags:
 				<MarkdownWrapper>
 				[晁和の入門 (晁和入門)](/ja/event/simple/1-08-3-晁和入門)<br>
 				[晁和搞鬼イベント集](/ja/event/simple/1-08-3-晁和搞鬼事件集)<br>
-				[丐幫と嵩山の喧嘩 (丐幫與嵩山打架)](/ja/event/simple/1-08-3-丐幫與嵩山打架)<br>
+				[丐幇と嵩山の喧嘩 (丐幫與嵩山打架)](/ja/event/simple/1-08-3-丐幫與嵩山打架)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -371,7 +371,7 @@ tags:
 			<td>十一月</td>
 			<td>
 				<MarkdownWrapper>
-				青城滞在が続く。[枯榮神功上卷](/ja/system/books/book_7017)の入手機会 (未収録)<br>
+				青城滞在が続く。[枯栄神功上卷](/ja/system/books/book_7017)の入手機会 (未収録)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -614,7 +614,7 @@ tags:
 			<td>
 				<li>唐門例会</li>
 				<MarkdownWrapper>
-				[飛石幫解戦](/ja/event/simple/3-03-1-飛石幫解戰)<br>
+				[飛石幇解戦](/ja/event/simple/3-03-1-飛石幫解戰)<br>
 				[猿酒 (猴兒酒)](/ja/event/simple/3-03-1-猴兒酒)<br>
 				</MarkdownWrapper>
 			</td>

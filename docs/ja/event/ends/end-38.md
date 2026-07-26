@@ -13,7 +13,7 @@ tags:
     - 徹底抗戦
     - 唐門滅亡
     - 葉雲裳
-    - 結緣
+    - 結縁
 ---
 
 # {{ $frontmatter.title }}
@@ -28,8 +28,8 @@ tags:
 </EndBackground>
 
 ## 条件
-### 一、葉雲裳との結緣
-[〈葉雲裳結緣攻略〉](/ja/event/pursuit/girl2)を参照。
+### 一、葉雲裳との結縁
+[〈葉雲裳結縁攻略〉](/ja/event/pursuit/girl2)を参照。
 
 ### 二、滅亡戦勝利
 唐門滅亡戦で下山突破して武林盟主に到達し、[武林盟主](/ja/people/characters/special999)を打ち破り、唐門の生き残りとなる。

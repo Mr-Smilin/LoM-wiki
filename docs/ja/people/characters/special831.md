@@ -1,5 +1,5 @@
 ---
-title: 孟仙謠
+title: 孟仙謡
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -12,9 +12,9 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="孟仙謠">
+	<ChTab title="孟仙謡">
 		<Ch src='/images/characters/special831/normal.webp' position='right'/>
-		<ChName nameZh='孟仙謠' nameEn='Meng Xian Yao' position='right' />
+		<ChName nameZh='孟仙謡' nameEn='Meng Xian Yao' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -44,4 +44,4 @@ tags:
 ## 備考
 
 -   シナリオは未完成 (v1.0.3200)。アップデート待ち。
--   西武林ルートでは[夏靈犀](/ja/people/characters/special825)が彼女を「県主さま」と呼んでおり、朝廷との繋がりがあると推測される
+-   西武林ルートでは[夏霊犀](/ja/people/characters/special825)が彼女を「県主さま」と呼んでおり、朝廷との繋がりがあると推測される

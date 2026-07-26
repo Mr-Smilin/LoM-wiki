@@ -163,7 +163,7 @@ tags:
         <td>
             2年目で親密度4星以上（5星推奨）<br>
             <Girl5Icon>夏侯蘭</Girl5Icon>の心法伝授に抵抗した後、<br>
-            武林の伝説クリア時に想い人として<Girl5Icon>夏侯蘭</Girl5Icon>を保つ。手順は<MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
+            武林の伝説クリア時に想い人として<Girl5Icon>夏侯蘭</Girl5Icon>を保つ。手順は<MarkdownWrapper>[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
         </td>
         <td></td>
         <td></td>
@@ -223,7 +223,7 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`18`">魔王の爪牙</AchievementIcon></td>
         <td>君は彼女の腹心であり、彼女は君の親愛なる者。</td>
         <td>2年目で親密度4星以上（確認待ち、5星推奨）<br>
-            武林の伝説クリア時に<Girl2Icon>葉雲裳</Girl2Icon>と結緣している。手順は<MarkdownWrapper>[〈葉雲裳結緣攻略〉](/ja/event/pursuit/girl2)</MarkdownWrapper>を参照。</td>
+            武林の伝説クリア時に<Girl2Icon>葉雲裳</Girl2Icon>と結縁している。手順は<MarkdownWrapper>[〈葉雲裳結縁攻略〉](/ja/event/pursuit/girl2)</MarkdownWrapper>を参照。</td>
         <td></td>
         <td>v1.0.5000.0版本以後に追加</td>
     </tr>
@@ -231,7 +231,7 @@ tags:
         <td id="風雲史-No.19">19</td>
         <td><AchievementIcon :size="`medium`" :no="`19`">悪人は悪人が制す (惡人自有惡人磨)</AchievementIcon></td>
         <td>たかが晁和、無恥で無能。どうして彼女ほど悪くあろう？</td>
-        <td><Girl2Icon>葉雲裳</Girl2Icon>と結緣して武林大会に連れて行く(<MarkdownWrapper>[〈葉雲裳結緣攻略〉](/ja/event/pursuit/girl2)</MarkdownWrapper>を参照)、且つ武林大会で唐門反対派が多数派になれば取得。</td>
+        <td><Girl2Icon>葉雲裳</Girl2Icon>と結縁して武林大会に連れて行く(<MarkdownWrapper>[〈葉雲裳結縁攻略〉](/ja/event/pursuit/girl2)</MarkdownWrapper>を参照)、且つ武林大会で唐門反対派が多数派になれば取得。</td>
         <td></td>
         <td>v1.0.5000.0版本以後に追加</td>
     </tr>

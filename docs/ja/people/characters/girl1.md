@@ -69,7 +69,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[溫夫人](/ja/people/characters/special402) (師父)
+					[温夫人](/ja/people/characters/special402) (師父)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -91,7 +91,7 @@ aside: false
 
 <br><br>
 
-江湖の騒乱から四国の戦禍に至るまで、すべてはこの人物が幕後に潜んで一手に操ってきたもの。万里の山河を碁盤に見立て、[溫夫人](/ja/people/characters/special402)と、[趙擴](/ja/people/characters/special817)と、[完顏珣](/ja/people/characters/special819)と、[成吉思汗](/ja/people/characters/special210)と対局する。衆生はみな盤上の石にすぎず、その生き死にを自分で選ぶことはできない。
+江湖の騒乱から四国の戦禍に至るまで、すべてはこの人物が幕後に潜んで一手に操ってきたもの。万里の山河を碁盤に見立て、[温夫人](/ja/people/characters/special402)と、[趙擴](/ja/people/characters/special817)と、[完顔珣](/ja/people/characters/special819)と、[成吉思汗](/ja/people/characters/special210)と対局する。衆生はみな盤上の石にすぎず、その生き死にを自分で選ぶことはできない。
 
 <br><br>
 
@@ -100,8 +100,8 @@ aside: false
 ## 備考
 
 -   ~~ブスフェチ~~
--   [錦香宮](/ja/people/factions/jin-xiang-palace)の宮殿の元の持ち主。11歳のとき、この宮殿を弟子入りの礼物にして、錦香閣の[溫夫人](/ja/people/characters/special402)から人の心を学んだ
--   上の続き: [溫夫人](/ja/people/characters/special402)が武林大会で口にした「杏花仙に願をかけて借りた十年」から逆算すると、瑞杏は21歳と思われる
+-   [錦香宮](/ja/people/factions/jin-xiang-palace)の宮殿の元の持ち主。11歳のとき、この宮殿を弟子入りの礼物にして、錦香閣の[温夫人](/ja/people/characters/special402)から人の心を学んだ
+-   上の続き: [温夫人](/ja/people/characters/special402)が武林大会で口にした「杏花仙に願をかけて借りた十年」から逆算すると、瑞杏は21歳と思われる
 -   大宋皇帝 ([趙擴](/ja/people/characters/special817)) でさえ、彼女の前では下手に出るしかない
 -   [趙活](/ja/people/characters/player)に好意を持っており、彼のためなら星も摘んでみせる。ただし、どれほど愛しているかは秘密。[^1]
 -   夢の中で錦嚢を開くと、想い人が強制的に変わる

@@ -6,7 +6,7 @@ sidebar: false
 borderless: false
 tags:
     - 人物
-    - 廣州唐門
+    - 広州唐門
 ---
 
 # {{ $frontmatter.title }}
@@ -49,7 +49,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[釋明](/ja/people/characters/special826) (協力者)
+					[釈明](/ja/people/characters/special826) (協力者)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -61,7 +61,7 @@ tags:
 
 <br>
 
-下山後、広州に旅居し、広州唐門を創設して[唐衫](/ja/people/characters/special811)を弟子にした。蜀中の[唐門](/ja/people/factions/tang-men)が衰退したのを見て、[釋明](/ja/people/characters/special826)、[上官世家](/ja/people/factions/shang-guan-family)と協力し、唐門の位を簒奪しようとしたが、最終的に敗北した。
+下山後、広州に旅居し、広州唐門を創設して[唐衫](/ja/people/characters/special811)を弟子にした。蜀中の[唐門](/ja/people/factions/tang-men)が衰退したのを見て、[釈明](/ja/people/characters/special826)、[上官世家](/ja/people/factions/shang-guan-family)と協力し、唐門の位を簒奪しようとしたが、最終的に敗北した。
 
 <br>
 

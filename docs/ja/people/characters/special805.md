@@ -30,7 +30,7 @@ tags:
 					称号
 				</ChTd>
 				<ChTd>
-					阿鶴俠<br>~~樓梯俠~~
+					阿鶴俠<br>~~楼梯俠~~
 				</ChTd>
 			</ChTr>
 			<ChTr>

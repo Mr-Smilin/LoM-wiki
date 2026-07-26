@@ -10,7 +10,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-花城四少は[南宮深](/ja/people/characters/special102)と三〜五人の友人の総称で、花柳街の常連です。[南宮深](/ja/people/characters/special102)本人を除いて、それぞれ陳序、余自詠、成溪、公子秀です。
+花城四少は[南宮深](/ja/people/characters/special102)と三〜五人の友人の総称で、花柳街の常連です。[南宮深](/ja/people/characters/special102)本人を除いて、それぞれ陳序、余自詠、成渓、公子秀です。
 
 <br>
 
@@ -22,7 +22,7 @@ tags:
 
 <br>
 
-成溪。風雨山の大会で、[趙活](/ja/people/characters/player)が武林盟主になることに反対した一人。
+成渓。風雨山の大会で、[趙活](/ja/people/characters/player)が武林盟主になることに反対した一人。
 
 <br>
 

@@ -44,12 +44,12 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[溫夫人](/ja/people/characters/special402) (舊友)
+					[温夫人](/ja/people/characters/special402) (舊友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[溫無畏](/ja/people/characters/other13) (舊友)
+					[温無畏](/ja/people/characters/other13) (舊友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -71,7 +71,7 @@ tags:
 
 <br>
 
-蘇迎香とは、まだ幼い頃から知り合っていた。当時の上官隼は生来の放蕩息子で、いつも友人たちを連れて彼女をいじめ、蘇迎香に極度の恐怖を植え付けていた。大人になってから、蘇迎香がますます美しく成長したのを見ると、彼女を禁忌の獲物のように見なし、樂坊に圧力をかけて人を連れてこさせようとしたが、少年の南宮遠に英雄救美をされて佳人の心を獲得された。その時にはじめて上官隼は悟った—自分は完全に嫌われていたのだと。
+蘇迎香とは、まだ幼い頃から知り合っていた。当時の上官隼は生来の放蕩息子で、いつも友人たちを連れて彼女をいじめ、蘇迎香に極度の恐怖を植え付けていた。大人になってから、蘇迎香がますます美しく成長したのを見ると、彼女を禁忌の獲物のように見なし、楽坊に圧力をかけて人を連れてこさせようとしたが、少年の南宮遠に英雄救美をされて佳人の心を獲得された。その時にはじめて上官隼は悟った—自分は完全に嫌われていたのだと。
 
 <br>
 
@@ -85,7 +85,7 @@ tags:
 
 -   ~~絶えず崩壊する傲慢な大富豪キャラ設定~~
 -   [蘇迎香](/ja/people/characters/special402)に対する感情は複雑で、執着、同意、愛慕、愛から憎しみへと転じるといった感情が混在している。[^1]
-    > 「[蘇迎香](/ja/people/characters/special402)。お前は心を[南宮遠](/ja/people/characters/special101)に、身を[溫無畏](/ja/people/characters/other13)に、二十年の友情を[王春曉](/ja/people/characters/special401)に与えたなら、その命を俺にくれよ。官職を買うための金でもいい。これはお前が俺に借りているものだ。」
+    > 「[蘇迎香](/ja/people/characters/special402)。お前は心を[南宮遠](/ja/people/characters/special101)に、身を[温無畏](/ja/people/characters/other13)に、二十年の友情を[王春暁](/ja/people/characters/special401)に与えたなら、その命を俺にくれよ。官職を買うための金でもいい。これはお前が俺に借りているものだ。」
 -   上官隼はこれ以来、愛に心を閉ざし、生涯独身を貫き、[上官螢](/ja/people/characters/girl4)の母親さえも、掌中の玩具に過ぎなくなってしまった。
 -   唐門の谷底で誰かの黒歴史を拾う機会がある。「隼は海東より来たり、西山の[鹿](/ja/people/characters/other10)を追う」と彫られた純金の念珠である。
 -   公式の[唐默鈴](/ja/people/characters/girl0)誕生日動画で、[上官螢](/ja/people/characters/girl4)に誘拐された双馬尾の唐默鈴を見ると、[唐鹿](/ja/people/characters/other10)との存在しない記憶が頭の中に次々と現れ、すぐに唐默鈴を養子にすることを決め、娘の名前を唐螢に改名した。[^2]

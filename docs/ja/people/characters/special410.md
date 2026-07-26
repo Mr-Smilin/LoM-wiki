@@ -1,5 +1,5 @@
 ---
-title: 覺慧 (カクケイ)
+title: 覚慧 (カクケイ)
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -12,9 +12,9 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="覺慧">
+	<ChTab title="覚慧">
 		<Ch src='/images/characters/special410/normal.webp' position='right'/>
-		<ChName nameZh='覺慧' nameEn='Jue Hui' position='right' />
+		<ChName nameZh='覚慧' nameEn='Jue Hui' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -31,7 +31,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[釋明](/ja/people/characters/special826) (師弟)
+					[釈明](/ja/people/characters/special826) (師弟)
 				</ChTd>
 			</ChTr>
             <ChTr>
@@ -47,6 +47,6 @@ tags:
 
 [嵩山](/ja/people/factions/mount-song-sect)本院の方丈で、徳が高く名望がある。俗世から離れて久しく、江湖のことに関わったことがない。
 <br><br>
-武林大会に出席して、自身は風前の灯のようで、薄徳の身であると述べ、嵩山本院の代掌をするのは、伝世の仏経を絶やさないためだけだと言った。方丈を名乗ることは敢えてせず、身後に名前を傳燈錄に残すこともせず、武林盟主の位はなおさら引き受けられず、先にお詫び申し上げた。
+武林大会に出席して、自身は風前の灯のようで、薄徳の身であると述べ、嵩山本院の代掌をするのは、伝世の仏経を絶やさないためだけだと言った。方丈を名乗ることは敢えてせず、身後に名前を伝灯錄に残すこともせず、武林盟主の位はなおさら引き受けられず、先にお詫び申し上げた。
 <br><br>
 山に戻ってすぐに、袈裟と鉢を譲り渡さねばならない。俗世に関わるつもりはない。

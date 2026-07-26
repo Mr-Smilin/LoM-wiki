@@ -14,7 +14,7 @@ tags:
     - 唐門滅亡
     - 小師妹
     - 唐默鈴
-    - 結緣
+    - 結縁
 ---
 
 # {{ $frontmatter.title }}
@@ -28,11 +28,11 @@ tags:
 </EndBackground>
 
 ## 条件と流れ
-<strong>条件：</strong><Girl0Icon>唐默鈴</Girl0Icon>と結緣、徹底抗戦シナリオに進む。<br>
+<strong>条件：</strong><Girl0Icon>唐默鈴</Girl0Icon>と結縁、徹底抗戦シナリオに進む。<br>
 **流れ：**<br>
 
-### 一、唐默鈴との結緣
-[〈唐默鈴結緣攻略〉](/ja/event/pursuit/girl0)を参照。
+### 一、唐默鈴との結縁
+[〈唐默鈴結縁攻略〉](/ja/event/pursuit/girl0)を参照。
 
 ### 二、唐門包囲戦
 1. 3年目12月上旬の最後の行動前に、[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で徹底抗戦シナリオに進む。
@@ -55,8 +55,8 @@ tags:
    + その他の結果：
      + **📖選択「全力突破」**：⚔️乱戦、勝敗は問わない。
      + **📖選択「一人も生き残すな」**：⚔️乱戦、勝利が必要→⚔️乱戦、勝敗は問わない。
-6. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)と決闘、勝利後、優先度がより高いキャラクターと結緣していない場合、エンディング進入。
-   + ※唐門滅亡エンディング結緣優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
+6. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)と決闘、勝利後、優先度がより高いキャラクターと結縁していない場合、エンディング進入。
+   + ※唐門滅亡エンディング結縁優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 
 ## 分岐と変化
 

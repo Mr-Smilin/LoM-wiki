@@ -10,7 +10,7 @@ tags:
     - 汗青書
     - 最終結果
     - 生ける屍
-    - 結緣
+    - 結縁
     - 結婚
     - 成親
     - 夏侯蘭
@@ -28,11 +28,11 @@ tags:
 </EndBackground>
 
 ## 条件と流れ
-<strong>条件：</strong><Girl5Icon>夏侯蘭</Girl5Icon>と結緣<br>
+<strong>条件：</strong><Girl5Icon>夏侯蘭</Girl5Icon>と結縁<br>
 **流れ：**<br>
 
-### １、夏侯蘭との結緣
-<MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
+### １、夏侯蘭との結縁
+<MarkdownWrapper>[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
 
 ### ２－１、徹底抗戦ルート
 1. 3年目12月上旬の最後の行動前に、[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で徹底抗戦シナリオに進む。
@@ -43,10 +43,10 @@ tags:
 
 ### ２－２、西武林盟ルート
 1. 3年目12月上旬に最後の行動が残っている時、[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で**西武林盟**シナリオに進む。
-2. 4年目2月中旬に行動が2回残っている時、西武林大会後に[東西武林盟會戰](/ja/event/detailed_description/4-02-2-東西武林盟會戰)が始まり、**📜議題：戦役：唐門出撃**。
+2. 4年目2月中旬に行動が2回残っている時、西武林大会後に[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)が始まり、**📜議題：戦役：唐門出撃**。
 3. 途中のプロセスは複数の組み合わせがあり、ほとんど影響しないが、以下の条件を満たす場合は特別な要件あり：
-   + 武林大會が錦香宮を支援していない、[丹霞子](/ja/people/characters/special404)が唐門に入門していない、**📖選択：門を堅く閉ざす**時、内功≧20かつ性情≧20が必要。
-     + 上記に加えて、<Girl5Icon>夏侯蘭</Girl5Icon>と結緣している場合、🗡️[萬里鵬程](/ja/people/characters/special6)との決闘で勝利が必要。
+   + 武林大会が錦香宮を支援していない、[丹霞子](/ja/people/characters/special404)が唐門に入門していない、**📖選択：門を堅く閉ざす**時、内功≧20かつ性情≧20が必要。
+     + 上記に加えて、<Girl5Icon>夏侯蘭</Girl5Icon>と結縁している場合、🗡️[萬里鵬程](/ja/people/characters/special6)との決闘で勝利が必要。
 4. 最初の⚔️戦役の勝敗は問わない、**📖選択：外堡を全力で守る**、⚔️戦役勝利、**📖選択：私は……お前の言葉に従う**を選んで、エンディング進入。
 
 ## 分岐と変化

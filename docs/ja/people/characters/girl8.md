@@ -24,7 +24,7 @@ borderless: false
 			src='/images/characters/girl_8/girl8_drumstick.webp' 
 			position='right'/>
 		<ChName
-			nameZh='吃雞腿'
+			nameZh='吃鶏腿'
 			nameEn='Eat Drumstick'/>
 	</ChTab>
 	<ChTab title="鶏腿剣">
@@ -32,7 +32,7 @@ borderless: false
 			src='/images/characters/girl_8/drumstick_sword.webp' 
 			position='right'/>
 		<ChName
-			nameZh='雞腿劍'
+			nameZh='鶏腿剣'
 			nameEn='Drumstick Sword'/>
 	</ChTab>
 	<ChTab title="大笑">
@@ -46,21 +46,21 @@ borderless: false
 		<Ch src='/images/characters/girl_8/angry3.webp'
 			position='right'/>
 		<ChName 
-			nameZh='戰鬥'
+			nameZh='戦闘'
 			nameEn='Fight'/>
 	</ChTab>
 	<ChTab title="覚醒">
 		<Ch src='/images/characters/girl_8/angry4.webp'
 			position='right'/>
 		<ChName 
-			nameZh='覺醒'
+			nameZh='覚醒'
 			nameEn='Awakening'/>
 	</ChTab>
 	<ChTab title="宮装">
 		<Ch src='/images/characters/girl_8/dress_shy.webp'
 			position='right'/>
 		<ChName
-			nameZh='宮裝'
+			nameZh='宮装'
 			nameEn='Dress'/>
 	</ChTab>
 </ChTabs>
@@ -97,7 +97,7 @@ borderless: false
 					称号
 				</ChTd>
 				<ChTd>
-					湘姉<br>錦香宮殺人鬼<br>鶏腿刺客<br>丐幫認証移動金庫<br>白衣菩薩<br>剣を手にした菩薩<br>錦香宮ゴマすり殺人鬼
+					湘姉<br>錦香宮殺人鬼<br>鶏腿刺客<br>丐幇認証移動金庫<br>白衣菩薩<br>剣を手にした菩薩<br>錦香宮ゴマすり殺人鬼
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -196,7 +196,7 @@ borderless: false
     彼女は見た目だけで、華やかな衣装をまとい粋ぶった武林少侠に飽き、<br>
 	そなたの堂々とした気骨を愛する。<br><br>
     『私の想い人は、天下第一の大英雄、<br>
-	　大豪傑、鐵骨錚錚、天地を支える。』<br>
+	　大豪傑、鉄骨錚錚、天地を支える。』<br>
 	父のように、そう言い放ち、<br>
 	龍湘は赤面して三日間、そなたを見ると即座に抜剣で向かった。<br>
     しかしそなたの世話を必要とし、最後は恥ずかしさを抑えてそなたのもとに戻るしかない。<br><br>
@@ -210,9 +210,9 @@ borderless: false
 
 錦香宮殺人鬼。[唐布衣](/ja/people/characters/brother1)が勝手に付けた称号で、後に知れ渡った。
 
-鶏腿侠。一根の鶏腿で殺人を買える。衡陽雁城十盜は、貧しい庶民が鶏腿で買った殺人で全滅した。その十盜は凶悪で武功も高く、奪った財宝は一城の主並みだったという。だが鶏腿で死んだなんて、本当に悔しいだろう。
+鶏腿侠。一根の鶏腿で殺人を買える。衡陽雁城十盗は、貧しい庶民が鶏腿で買った殺人で全滅した。その十盗は凶悪で武功も高く、奪った財宝は一城の主並みだったという。だが鶏腿で死んだなんて、本当に悔しいだろう。
 
-羊牯の中の羊牯。丐幫認証の移動金庫。この人は容姿も美しく、剣法も超越的だが、極度に愚か。学習能力などない。丐幫の弟子に捕まれば、皆心躍る。『[江湖鬼蜮録](/ja/system/books/book_8005)』の手口は、すべてやられたことがある!何度試しても必ず引っかかる。奇人である。しかし誰かが眠らせて淫らなことをしようとすれば、彼女は夢中で剣で反撃する。それも目覚めているときより激しい剣招で、決して活口は残さない。
+羊牯の中の羊牯。丐幇認証の移動金庫。この人は容姿も美しく、剣法も超越的だが、極度に愚か。学習能力などない。丐幇の弟子に捕まれば、皆心躍る。『[江湖鬼蜮録](/ja/system/books/book_8005)』の手口は、すべてやられたことがある!何度試しても必ず引っかかる。奇人である。しかし誰かが眠らせて淫らなことをしようとすれば、彼女は夢中で剣で反撃する。それも目覚めているときより激しい剣招で、決して活口は残さない。
 
 [趙活](/ja/people/characters/player)は龍湘に救われた人々が『老天よ! この白衣菩薩がきて苦しみを救ってくださった!』と言ったと言う。[向無憂](/ja/people/characters/special408)は庶民が龍女侠のことを話すのを聞くと、みな『剣を手にした菩薩』だと言ったと聞く。
 
@@ -230,7 +230,7 @@ borderless: false
 
 風雨山を離れ、客舎で休息、目覚めて鶏腿がないのを見て詠んだ。
 
-> 嗚呼，早市無雞腿。
+> 嗚呼，早市無鶏腿。
 
 西武林戦後、自分は教養がないと言い張るのを否定して、自分で詞を作った。『長相思令・詠鶏腿』という、公式に[画像](https://www.facebook.com/photo.php?fbid=181922514361132&id=100076301525150&set=a.165167019370015)がある。
 
@@ -239,7 +239,7 @@ borderless: false
 
 この詩は熊が作ったもので、これだけではない。現在龍湘の一連の詩は限定ルートでしか見られない。[^10]
 
-## 結緣信物
+## 結縁信物
 
 <SpecialItemIcon :size="`medium`" :needLink="false" :no="1004" />
 
@@ -266,7 +266,7 @@ borderless: false
 -   虫は好きではないが、見ると悲鳴を上げることはない。暗いことは怖くないが、夜出ると灯りを持つ。[^23]
 -   天も地も怖くない。唯一怖いのは[温夫人](/ja/people/characters/special402)。[^23]
 -   [温夫人](/ja/people/characters/special402)の藤の棒は凶悪だが、心に傷を残さない。[^23]
--   武功は高強だが盗難に遭いやすく気づかず、[丐幫](/ja/people/factions/beggar-gang)にとっては絶好のカモである。
+-   武功は高強だが盗難に遭いやすく気づかず、[丐幇](/ja/people/factions/beggar-gang)にとっては絶好のカモである。
 
 ### 身体健康
 
@@ -279,7 +279,7 @@ borderless: false
 
 ### 人間関係
 
--   母親は金国先帝完顏允恭の出身、沂国公主完顏夢。[龍淵](/ja/people/characters/special2)は彼女を英姿颯爽で高貴優雅だと評し、自分には釣り合わないと言う。
+-   母親は金国先帝完顔允恭の出身、沂国公主完顔夢。[龍淵](/ja/people/characters/special2)は彼女を英姿颯爽で高貴優雅だと評し、自分には釣り合わないと言う。
 -   全[錦香宮](/ja/people/factions/jin-xiang-palace)の中で[龍湘](/ja/people/characters/girl8)だけが自発的に入宮しなかった。幼い頃から[温夫人](/ja/people/characters/special402)に連れられて育てられ、名義上は師徒だが、実質は母女に近い。
 -   ただし、伝説テキストではそう述べられているが、鳥熊は[温夫人](/ja/people/characters/special402)と龍湘は師弟の情だと述べている。[^12]
 -   [錦香宮](/ja/people/factions/jin-xiang-palace)でもっとも湘姉を寵愛する四人：[盛雪](/ja/people/characters/other12)、[温夫人](/ja/people/characters/special402)、[画中仙](/ja/people/characters/special813)、[明玉](/ja/people/characters/other18)。[^15]
@@ -290,7 +290,7 @@ borderless: false
 -   龍家の親類は[龍淵](/ja/people/characters/special2)だけになった。[^20]
 -   [王二壯](/ja/people/characters/special401)と[温夫人](/ja/people/characters/special402)の兄妹の情が、彼女が[趙活](/ja/people/characters/player)と兄弟分になりたい理由の一つ。[^21]
 
-### 結緣後
+### 結縁後
 
 -   宮装で「琴歌鳳求凰」を弾いて心意を表そうとしたが、[趙活](/ja/people/characters/player)は風雅を理解せず、龍湘に壁に押さえつけられて無理やりキスされた。
 -   成親後の龍湘は依然として顔が赤くなるタイプ。むやみに冷やかしたら、彼女は怒りと羞恥で混乱して、剣を抜く。[^8]
@@ -298,11 +298,11 @@ borderless: false
 -   [趙活](/ja/people/characters/player)と二人きりの時、甘えてみたくなるが、うまくできない。相手のために何かしようとすると、台所が火事になってしまう。[^12]
 -   鶏腿大亨ルート。鳥熊は稼ぎがそこまで多くなく、稼いだだけ使うタイプだと推測している。[^15]
 -   鶏腿大亨ルート。山中茶肆の具体的な場所はない。彼らは走り回るから。[^22]
--   鳥熊は結緣後に何人の子が生まれたかは言わず、なにしろこれは運の問題で、総じて彼女は非常に健康だと述べている。[^15][^19]
+-   鳥熊は結縁後に何人の子が生まれたかは言わず、なにしろこれは運の問題で、総じて彼女は非常に健康だと述べている。[^15][^19]
 
 ### 装備
 
--   配剣は[龍淵](/ja/people/characters/special2)が使った天觴剣。[火炎山劍閣](/ja/people/factions/mount-fire-palace)が鍛造したもの。しかし[龍淵](/ja/people/characters/special2)は重すぎると感じ、後に龍湘の母親の嗔嵐剣を授けた。[^20]
+-   配剣は[龍淵](/ja/people/characters/special2)が使った天觴剣。[火炎山剣閣](/ja/people/factions/mount-fire-palace)が鍛造したもの。しかし[龍淵](/ja/people/characters/special2)は重すぎると感じ、後に龍湘の母親の嗔嵐剣を授けた。[^20]
 -   天觴剣の剣頭・護手は、戦国の酒器『羽觴』。歴史は古く価値も計り知れないが、持ち主の龍湘本人は古董であることを知らない。
 -   [錦香宮](/ja/people/factions/jin-xiang-palace)の弟子は剣穂を編む。市販価格は高いが、龍湘が編んだものは売れず、自分で使う。『繞指柔剣』には多くの招式で剣穂を使う。敵の視線を遮ったり、剣路を掃いたりするが、龍湘は剣穂で人を斬るレベルにまで鍛え上げた。
 -   剣はすべて自分で手入れ。材料代以外の支出はほぼない。幸い剣は良い品で、耐久性がある。[^7]
@@ -314,7 +314,7 @@ borderless: false
 ### 武功
 
 -   [唐門](/ja/people/factions/tang-men)は攻撃の巧妙さを重視し、[錦香宮](/ja/people/factions/jin-xiang-palace)は柔勁を尊ぶ。力を重視しない派。龍湘は例外。
--   力は結緣女性キャラの中で二番目に大きい（一番は[郁竹](/ja/people/characters/girl6)）。ただしそこまで大きくはない。天觴剣は重いが、錦香宮は均衡を重視する派。筋肉が多すぎると協調性が低下する。[温夫人](/ja/people/characters/special402)は龍湘の食事管理をしている。[^25]
+-   力は結縁女性キャラの中で二番目に大きい（一番は[郁竹](/ja/people/characters/girl6)）。ただしそこまで大きくはない。天觴剣は重いが、錦香宮は均衡を重視する派。筋肉が多すぎると協調性が低下する。[温夫人](/ja/people/characters/special402)は龍湘の食事管理をしている。[^25]
 -   拳腿功夫はまあまあ。強項ではない。剣の使い手としても拳腿を活用する。[^9]
 -   西武林決戦。[上官隼](/ja/people/characters/special407)か[向無憂](/ja/people/characters/special408)に遭遇すれば、双剣に覚醒して絶世に踏み入る。
 -   鶏腿で殺人可能。<BadendIcon :no="32">生死簿 No.32</BadendIcon>
@@ -344,7 +344,7 @@ borderless: false
 -   本人は知らないが、酒量は生まれつき良好。[^12]
 -   酔っ払うと普段より大胆で口数が増え、人を傷つける敷居が下がる。ただ根本的には善良。[^12]
 -   姜記肉包は名物。醤香鶏茸風味がある。抑えられず見ると並んでしまう。[^15]
--   [錦香宮](/ja/people/factions/jin-xiang-palace)での小遣いと食費は制限があるが、結緣後の食費はあなた次第。乾パンや饅頭で済ませることもできる。[^15]
+-   [錦香宮](/ja/people/factions/jin-xiang-palace)での小遣いと食費は制限があるが、結縁後の食費はあなた次第。乾パンや饅頭で済ませることもできる。[^15]
 -   食べるのは上手で食べ物も大切にする。気に入らなくても廃棄しない。[^16]
 
 ### 雑務
@@ -367,15 +367,15 @@ borderless: false
 
 -   鳥熊は金国の国王になるエンディングを計画していない。[^10]
 -   誕生日は8月5日。[^24]
--   龍湘のキャラクター設定は何度も修正：最初は[瑞杏](/ja/people/characters/girl1)の金牌殺手で、有能で人望ある敵キャラ。龍湘の改動過程で錦香宮の『寂夜慈燈』[盛雪](/ja/people/characters/other12)が派生した。[^26]
+-   龍湘のキャラクター設定は何度も修正：最初は[瑞杏](/ja/people/characters/girl1)の金牌殺手で、有能で人望ある敵キャラ。龍湘の改動過程で錦香宮の『寂夜慈灯』[盛雪](/ja/people/characters/other12)が派生した。[^26]
 -   鳥熊は明かした：本来[瑞杏](/ja/people/characters/girl1) DLCで龍湘が光を放つ特別ストーリーを計画していたが、現段階では本体コンテンツの完善を優先。[^26]
 -   龍湘海捕令資料フォルダー周辺文案：[ソース](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
     > 犯人 錦香宮殺人鬼<br>
     > 掠舎殺人奪鶏腿十<br>
     > 悪不赦如揭此榜拿<br>
     > 得此人赴岳州府衙<br>
-    > 告報給賞白銀千兩<br>
-    > 如有隱匿知情不報<br>
+    > 告報給賞白銀千両<br>
+    > 如有隠匿知情不報<br>
     > 者依犯人同罪<br>
     > 岳州府衙
 
@@ -399,9 +399,9 @@ borderless: false
 [^1]: PTT C 洽 - [\[活俠\] 龍湘就是哈士奇](https://www.ptt.cc/bbs/C_Chat/M.1722945563.A.D40.html)
 [^2]: 鳥熊 FB，瑞笙介紹的[留言](https://www.facebook.com/obbstudio/posts/pfbid02gCxcNbx2fkaEZKNHnr9Wdph1y5BKppCJammvDELEC4dDnwoGGjyQVUz3rvAv5SLyl?comment_id=319038924213779&reply_comment_id=1762313354199156)
 [^3]: 2024/8/5 的[直播訪談影片](https://www.youtube.com/watch?v=JkSfhSi3P8w)、[整理文](https://www.ptt.cc/bbs/C_Chat/M.1722863467.A.4F8.html)
-[^4]: PTT C 洽 - [\[活俠\] 錦香宮相關小知識](https://www.ptt.cc/bbs/C_Chat/M.1725358722.A.1A8.html)
-[^5]: PTT C 洽 - [Re: \[活俠\] 錦香宮相關小知識](https://www.ptt.cc/bbs/C_Chat/M.1725417369.A.6F8.html)
-[^6]: PTT C 洽 - [Re: \[活俠\] 錦香宮相關小知識](https://www.ptt.cc/bbs/C_Chat/M.1725531255.A.803.html)
+[^4]: PTT C 洽 - [\[活俠\] 錦香宮相関小知識](https://www.ptt.cc/bbs/C_Chat/M.1725358722.A.1A8.html)
+[^5]: PTT C 洽 - [Re: \[活俠\] 錦香宮相関小知識](https://www.ptt.cc/bbs/C_Chat/M.1725417369.A.6F8.html)
+[^6]: PTT C 洽 - [Re: \[活俠\] 錦香宮相関小知識](https://www.ptt.cc/bbs/C_Chat/M.1725531255.A.803.html)
 [^7]: [問答集2024年9月#_2024-09-24](/ja/other/qna/202409)
 [^8]: [問答集2024年10月#_2024-10-08](/ja/other/qna/202410)
 [^9]: PTT C 洽－[\[活俠\] 龍湘小知識二則](https://www.ptt.cc/bbs/C_Chat/M.1728751231.A.9F7.html)
@@ -420,4 +420,4 @@ borderless: false
 [^23]: [問答集2024年11月#_2024-11-06](/ja/other/qna/202411)
 [^24]: Facebook－[原始鳥熊2025/8/5](https://www.facebook.com/share/v/15t9qW9isi/)
 [^25]: PTT C 洽－[\[活俠\] 奇怪的小知識](https://www.ptt.cc/bbs/C_Chat/M.1734956470.A.C8A.html)
-[^26]: 遊戲角落－[專訪原始鳥熊（3）假趙活是真的—你我身邊可能都有一個晁和](https://game.udn.com/game/story/122090/8118486)
+[^26]: 遊戯角落－[専訪原始鳥熊（3）假趙活是真的—你我身辺可能都有一個晁和](https://game.udn.com/game/story/122090/8118486)

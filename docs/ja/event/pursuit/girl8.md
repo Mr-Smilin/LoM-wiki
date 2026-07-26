@@ -1,6 +1,6 @@
 ---
-title: 龍湘結緣攻略
-description: 龍湘結緣攻略
+title: 龍湘結縁攻略
+description: 龍湘結縁攻略
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -15,7 +15,7 @@ tags:
 
 <p align="center"><img src="/images/characters/girl_8/girl8_drumstick.webp" style="width:300px"></p>
 
-## 結緣必要条件
+## 結縁必要条件
 <table>
 <tr>
 <td>番号</td>
@@ -54,7 +54,7 @@ tags:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 品性暴躁以下かつ📖「もう聞くな」を選んだ場合、🎲天命発動後に【≧80】「話す」を出す。
     <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 品性暴躁以下かつ📖「もう聞くな」を選び🎲天命発動後に【<60】「わざと斬りつけたいのか」を出した場合、または📖「本当に仕方ないな」を選んだ場合、再び🗡️決闘が発生する。敗北後に📖「俺は負けた、お前の悩みはもう聞けない」を選ばなければよい。
     <br>• 雑談📜「心の魔」を選び、想い人を尋ねられた際に📖「俺には想い人がいる、お前のことだ」を選択。</td>
-<td>このイベントは実際には4年目1月下旬まで発生可能だが、条件5の時点より後に発生させた場合は結緣できない。</td>
+<td>このイベントは実際には4年目1月下旬まで発生可能だが、条件5の時点より後に発生させた場合は結縁できない。</td>
 </tr>
 <tr>
 <td>4</td>
@@ -62,8 +62,8 @@ tags:
 <td><MarkdownWrapper>[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
 <td>決策の結果が唐門解散になってはいけない。</td>
 <td>• 唐門を解散し、かつ条件2を満たしている場合、後山に行くと以下が発生する:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 他にも結緣している相手がいて想い人が<Girl8Icon>龍湘</Girl8Icon>の場合、📖「湘姉、俺についてきてくれないか?」を選び、🗡️決闘に勝利後、📖「お前を行かせるつもりはない」を選ぶと、<MarkdownWrapper>[汗青書24：海辺に立つ人](/ja/event/ends/end-24)</MarkdownWrapper>に進み、結緣できなくなる。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. それ以外の場合、龍湘との三年の約束イベントが発生し、結緣できなくなる。</td>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 他にも結縁している相手がいて想い人が<Girl8Icon>龍湘</Girl8Icon>の場合、📖「湘姉、俺についてきてくれないか?」を選び、🗡️決闘に勝利後、📖「お前を行かせるつもりはない」を選ぶと、<MarkdownWrapper>[汗青書24：海辺に立つ人](/ja/event/ends/end-24)</MarkdownWrapper>に進み、結縁できなくなる。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. それ以外の場合、龍湘との三年の約束イベントが発生し、結縁できなくなる。</td>
 </tr>
 <tr>
 <td>5</td>
@@ -71,16 +71,16 @@ tags:
     <br>• または4年目1月下旬(西武林盟成立)</td>
 <td>龍湘の飛び鳩の便り</td>
 <td>• 条件3、4を満たして初めて発生する。
-    <br>• このイベントを完了し、道具【龍湘の髪簪】を入手すると結緣完了。</td>
-<td>• 戦闘の勝敗に関わらず龍湘と結緣できるが、龍湘との戦闘に敗北した場合(8ターン後の自動敗北を除く)は龍淵と会話できなくなる。
-    <br>• 2年目に留学-宿場ルートを進まなかった場合、<MarkdownWrapper>[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>イベントを経験しているため、ここで龍淵の展開差分及び📜「信義を守る」が追加され、秘笈<MarkdownWrapper>[《酩酊玄劍掌》](/ja/system/books/book_3010)</MarkdownWrapper>を入手できる。
-    <br>• 龍淵好感8以上なら、秘笈<MarkdownWrapper>[《龍淵七絕》](/ja/system/books/book_7013)</MarkdownWrapper>を入手できる。
+    <br>• このイベントを完了し、道具【龍湘の髪簪】を入手すると結縁完了。</td>
+<td>• 戦闘の勝敗に関わらず龍湘と結縁できるが、龍湘との戦闘に敗北した場合(8ターン後の自動敗北を除く)は龍淵と会話できなくなる。
+    <br>• 2年目に留学-宿場ルートを進まなかった場合、<MarkdownWrapper>[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>イベントを経験しているため、ここで龍淵の展開差分及び📜「信義を守る」が追加され、秘笈<MarkdownWrapper>[《酩酊玄剣掌》](/ja/system/books/book_3010)</MarkdownWrapper>を入手できる。
+    <br>• 龍淵好感8以上なら、秘笈<MarkdownWrapper>[《龍淵七絶》](/ja/system/books/book_7013)</MarkdownWrapper>を入手できる。
 </td>
 </tr>
 </table>
 
 
-## 結緣後に変化するイベント
+## 結縁後に変化するイベント
 <table>
 <tr>
 <td>番号</td>
@@ -91,7 +91,7 @@ tags:
 </tr>
 <tr>
 <td>1</td>
-<td>結緣後の任意の時点</td>
+<td>結縁後の任意の時点</td>
 <td>龍湘と温泉に入る</td>
 <td>下山して温泉に入る際、温泉の外で龍湘に付き添うランダムイベントが発生することがある。</td>
 <td>心相+50</td>
@@ -111,7 +111,7 @@ tags:
 <td><MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper></td>
 <td>• 龍湘が最終決戦に参加できる。
     <br>• 最終決戦勝利後、汗青書<MarkdownWrapper>[《鶏もも大尽》](/ja/event/ends/end-44)</MarkdownWrapper>に進める。</td>
-<td>複数人と結緣している場合、滅門ルート結末の結緣優先度(v1.0.3201.1)：
+<td>複数人と結縁している場合、滅門ルート結末の結縁優先度(v1.0.3201.1)：
     <br><Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon></td>
 </tr>
 <tr>
@@ -119,9 +119,9 @@ tags:
 <td>4年目2月中旬残り2回の行動</td>
 <td><MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
 <td>会話が分岐する。</td>
-<td>• 必要条件2さえ満たしていれば、<Girl8Icon>龍湘</Girl8Icon>はこの展開に参加する。結緣は必須ではない。
+<td>• 必要条件2さえ満たしていれば、<Girl8Icon>龍湘</Girl8Icon>はこの展開に参加する。結縁は必須ではない。
     <br>• 大院での決闘時に🎲【≧65】「間に合った」以外の結果を出し、龍湘が対戦相手と戦う際に再び🎲【≧50】を出すことを推奨。覚醒イベントが発生する。
-    <br>• 戦闘後に龍湘を探しに行く際、龍湘と結緣していると、あの有名な<MarkdownWrapper>[〈長相思令・鶏もも詠〉](https://www.facebook.com/obbstudio/posts/pfbid0WLR1HnAc1N9dph7B7ooa8ZF4S1EEfYbqAvcs4eK88t8AfsQfr8h8Hn6b5efe52pAl)</MarkdownWrapper>を聞けなくなる。</td>
+    <br>• 戦闘後に龍湘を探しに行く際、龍湘と結縁していると、あの有名な<MarkdownWrapper>[〈長相思令・鶏もも詠〉](https://www.facebook.com/obbstudio/posts/pfbid0WLR1HnAc1N9dph7B7ooa8ZF4S1EEfYbqAvcs4eK88t8AfsQfr8h8Hn6b5efe52pAl)</MarkdownWrapper>を聞けなくなる。</td>
 </tr>
 <tr>
 <td>5</td>

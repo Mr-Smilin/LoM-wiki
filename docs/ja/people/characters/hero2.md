@@ -1,5 +1,5 @@
 ---
-title: 齊壬 (セイジン)
+title: 斉壬 (セイジン)
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -11,9 +11,9 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="齊壬">
+	<ChTab title="斉壬">
 		<Ch src='/images/characters/hero2/normal.webp' position='right'/>
-		<ChName nameZh='齊壬' nameEn='Qi Ren' position='right' />
+		<ChName nameZh='斉壬' nameEn='Qi Ren' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -46,7 +46,7 @@ tags:
 <br><br>
 武林大会への道中、唐門が招待状を出すよう要求。狂風暴雨のような攻撃は[龍湘](/ja/people/characters/girl8)に軽々と受け止められ、「女。お前を覚えておく。」と言って去った。
 <br><br>
-武林大会での対戦招待。[点蒼派](/ja/people/factions/dian-cang-sect)の[聽海生](/ja/people/characters/special203)に一剣で雲関を破られ敗北。才能は悪くない、興味があれば修行に来い、と言われた。
+武林大会での対戦招待。[点蒼派](/ja/people/factions/dian-cang-sect)の[聴海生](/ja/people/characters/special203)に一剣で雲関を破られ敗北。才能は悪くない、興味があれば修行に来い、と言われた。
 
 ## 備考
 

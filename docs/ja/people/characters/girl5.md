@@ -198,7 +198,7 @@ aside: false
 
 > 「同時にお前は妻でもあるのだ。このように師を裏切り門を滅ぼそうとする畜生め。」
 
-[崆峒派](/ja/people/factions/kong-tong-sect)・奪魄門現代掌門の嫡傳女弟子。江湖人は奪魄幽蘭と称す。
+[崆峒派](/ja/people/factions/kong-tong-sect)・奪魄門現代掌門の嫡伝女弟子。江湖人は奪魄幽蘭と称す。
 
 <br>
 
@@ -256,15 +256,15 @@ aside: false
 
 <br>
 
-## 結緣過程
+## 結縁過程
 
 ::: warning
 攻略情報を含みます。閲覧は自己責任で。
 :::
 
-詳細は<MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
+詳細は<MarkdownWrapper>[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
 
-## 結緣信物
+## 結縁信物
 
 <SpecialItemIcon :size="`medium`" :needLink="false" :no="1002" />
 
@@ -289,15 +289,15 @@ aside: false
 ## 武功
 
 -   [崆峒派](/ja/people/factions/kong-tong-sect)で彼女と匹敵できるのは、[火龍仙君](/ja/people/characters/special204)と[丹霞子](/ja/people/characters/special404)のみ。
--   奪魄掌門がかつて武力で彼女に嫡傳女弟子の地位を譲らせようと強要したが、かえって両腕を捻り折られ、頭を足で踏みにじられた。以来、崆峒の長老たちに顔向けできず、隠棲して修行に励んでいる。
--   常日頃から、鐵拳門が製造した奇兵・鋼骨傘を用いる。傘柄の機関を起動すると、鋭い刃が飛び出す。攻防一体、水火不侵。
--   雪山に赴いた際、[雪山派](/ja/people/factions/mount-snow-sect)の秘伝点穴手法「冰川拂穴手」を用いて、[趙活](/ja/people/characters/player)を動けなくした。
+-   奪魄掌門がかつて武力で彼女に嫡伝女弟子の地位を譲らせようと強要したが、かえって両腕を捻り折られ、頭を足で踏みにじられた。以来、崆峒の長老たちに顔向けできず、隠棲して修行に励んでいる。
+-   常日頃から、鉄拳門が製造した奇兵・鋼骨傘を用いる。傘柄の機関を起動すると、鋭い刃が飛び出す。攻防一体、水火不侵。
+-   雪山に赴いた際、[雪山派](/ja/people/factions/mount-snow-sect)の秘伝点穴手法「冰川払穴手」を用いて、[趙活](/ja/people/characters/player)を動けなくした。
 -   [上官隼](/ja/people/characters/special407)との対決で、[雪山派](/ja/people/factions/mount-snow-sect)の「梅顫枝頭」を用いて金背龍王刀を振り開こうと試みた。
--   奪魄幽靈爪は無影爪の上位版武功。夏侯蘭が用いる奪魄幽靈爪の招数は奪魄門のもので、心法は雪山派のもの。名前は同じだが、優劣は天地の差。彼女が[趙活](/ja/people/characters/player)に伝授したのは彼女自身の版本である。[^8]
+-   奪魄幽霊爪は無影爪の上位版武功。夏侯蘭が用いる奪魄幽霊爪の招数は奪魄門のもので、心法は雪山派のもの。名前は同じだが、優劣は天地の差。彼女が[趙活](/ja/people/characters/player)に伝授したのは彼女自身の版本である。[^8]
 
 ## 人際関係
 
--   かつて[唐布衣](/ja/people/characters/brother1.md)・[解無塵](/ja/people/characters/special808)と他の二人と共に旅をし、極樂左使を撃破した。
+-   かつて[唐布衣](/ja/people/characters/brother1.md)・[解無塵](/ja/people/characters/special808)と他の二人と共に旅をし、極楽左使を撃破した。
 -   室内で傘を開くと鬼を招くという説がある。これは[呼延菊](/ja/people/characters/special822)の霊魂を留めるために開いたもの。昼間でも光が届かぬ林に住まう原因もこれである。
 -   [上官螢](/ja/people/characters/girl4.md)と指腹為婚の約があったが、[雪山派](/ja/people/factions/mount-snow-sect)が滅門され、話は沙汰止みとなった。
 -   [南宮深](/ja/people/characters/special102)のことを三下だと思っているが、南宮老太爺のことは敬重の対象と見ており、[唐中翎](/ja/people/characters/master.md)も甚だ尊敬している。
@@ -321,7 +321,7 @@ aside: false
 -   ~~ククク。俺は妻にして師の魅力が欲しい！~~
 -   生粋の蘭州人である。[^3]
 -   奪魄森林に住んでいるが、実は最近一、二年で引っ越してきたばかりだという。奪魄門が鬱陶しいのが理由らしい。
--   奪魄森林に一人住まいする食糧問題。森の小動物を狩って食べたり、森を出て鐵拳門の人が育てる菜を無断で採ったり、時には街に買いに行ったりする。[^2]
+-   奪魄森林に一人住まいする食糧問題。森の小動物を狩って食べたり、森を出て鉄拳門の人が育てる菜を無断で採ったり、時には街に買いに行ったりする。[^2]
 -   森の樹屋に長く住んでいたため、蚊が多かった。しかし蚊取り線香も蚊帳も用意していなかった。[趙活](/ja/people/characters/player)に指摘されて初めて気づいた。その後、蝋燭に火をつけて四、五時間にわたって蚊を焼き続け、蚊への復讐に没頭した。狂気的である。
 -   少女時代は温柔で奥ゆかしく、愛情に満ちていた。弱者を保護し、不正に立ち向かった。武力より対話を好む傾向がある。[^2]
 -   火鍋が好きである。[^2]
@@ -337,7 +337,7 @@ aside: false
     > 心狠手辣殺人如麻
     > 如揭此榜拿得此人
     > 赴涼州府衙告報給
-    > 賞白銀千兩如有隱
+    > 賞白銀千両如有隠
     > 匿知情不報者依犯
     > 人同罪
     > 涼州府衙
@@ -350,7 +350,7 @@ aside: false
 [^6]: オリジナル鳥熊FB - [2025/11/10生日賀文](https://www.facebook.com/obbstudio/posts/pfbid02t8cCaMxrwWdbiHAfPC6xYiG8nTreNr8CLXBut1eYJh6uQ9HCpUrhXBH1QToEJmgJl)
 [^7]: オリジナル鳥熊FB - [2023/4/22](https://www.facebook.com/obbstudio/posts/pfbid0Nz42C8exkZ4EWfiGR9FKW1jazjBzxY2BfRT1BhSSBXgLdjrPGVtVDzXTwGJc3aUyl)
 [^8]: バハムート - [【情報】鳥熊問答集](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2998&tnum=19)
-[^9]: オリジナル鳥熊FB - [為想い人送上色紙結果揭曉](https://www.facebook.com/obbstudio/posts/pfbid02MDjcxrtxWP6Ufuaj7f4gxZSz9ddCJvXBFfbAwW15gTcv98Q651vodFrsDpoCNdN5l)
+[^9]: オリジナル鳥熊FB - [為想い人送上色紙結果揭暁](https://www.facebook.com/obbstudio/posts/pfbid02MDjcxrtxWP6Ufuaj7f4gxZSz9ddCJvXBFfbAwW15gTcv98Q651vodFrsDpoCNdN5l)
 
 ## ギャラリー
 

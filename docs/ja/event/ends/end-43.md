@@ -13,7 +13,7 @@ tags:
     - 徹底抗戦
     - 唐門滅亡
     - 夏侯蘭
-    - 結緣
+    - 結縁
 ---
 
 # {{ $frontmatter.title }}
@@ -28,11 +28,11 @@ tags:
 </EndBackground>
 
 ## 条件とルート
-<strong>条件：</strong><Girl5Icon>夏侯蘭</Girl5Icon>と結緣し、「徹底抗戦」シナリオ線に進入。<br>
+<strong>条件：</strong><Girl5Icon>夏侯蘭</Girl5Icon>と結縁し、「徹底抗戦」シナリオ線に進入。<br>
 **ルート：**<br>
 
-### 一、夏侯蘭と結緣
-<MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
+### 一、夏侯蘭と結縁
+<MarkdownWrapper>[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
 
 ### 二、唐門包囲戦
 1. 三年十二月上旬最後の行動前。[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で「徹底抗戦」シナリオ線に進入。
@@ -55,8 +55,8 @@ tags:
    + その他の結果：
      + **📖選項「全力で突破」**：⚔️混戦、勝敗は問わない。
      + **📖選項「一人も残さない」**：⚔️混戦、勝利必須→⚔️混戦、勝敗は問わない。
-6. 🗡️武林盟主[瑞笙](/ja/people/characters/special999)との決闘、勝利後、より優先度の高いキャラクターと結緣していない場合、結局に進入。
-   + ※唐門滅亡結局の結緣優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
+6. 🗡️武林盟主[瑞笙](/ja/people/characters/special999)との決闘、勝利後、より優先度の高いキャラクターと結縁していない場合、結局に進入。
+   + ※唐門滅亡結局の結縁優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 
 ## 分岐と変化
 

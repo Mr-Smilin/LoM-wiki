@@ -43,7 +43,7 @@ tags:
 
 既に滅門した門派で、大雪山に位置する。
 <br><br>
-雪山派の武功は内功・劍法に長けている。雪山心法は力を化して消融させることを旨として、内功を巡らして暖を取り、雪地の刺骨の寒冷を駆散する。
+雪山派の武功は内功・剣法に長けている。雪山心法は力を化して消融させることを旨として、内功を巡らして暖を取り、雪地の刺骨の寒冷を駆散する。
 <br><br>
 雪山夏侯掌門は上官家主[上官隼](/ja/people/characters/special407)と過命の交情があり、嘗て指腹為婚（生まれる前に親同士が取り決める婚約の風習）の約を交わした。
 <br clear="all">
@@ -62,7 +62,7 @@ tags:
 
 ## 秘笈
 
-- [奪魄幽靈爪](/ja/system/books/book_6007)
+- [奪魄幽霊爪](/ja/system/books/book_6007)
 - [雪山飛鴻爪](/ja/system/books/book_6009)
 - [登雲踏．望月](/ja/system/books/book_6008)
 - [雪山心法](/ja/system/books/book_7010)
@@ -71,6 +71,6 @@ tags:
 
 - ゲーム内の大雪山は甘粛一帯、崆峒山付近に位置し、現実の四川の大雪山山脈とは大きく異なる。別の山がモデルと推測され、鳥熊もあくまで参考程度と述べている[^1]
 - [夏侯蘭](/ja/people/characters/girl5)線を走る場合、[趙活](/ja/people/characters/player)は雪山派大弟子で、[樊嘯天](/ja/people/characters/special4)が雪山派の小師妹になる可能性がある
-- 雪山劍法があるとはいえ、[夏侯蘭](/ja/people/characters/girl5)は出劍したことがなく、すべて掌法を使う。ゲーム内でも[趙活](/ja/people/characters/player)と[解無塵](/ja/people/characters/special808)が雪山派に言及する際、軽く招を使った程度で、秘笈はない
+- 雪山剣法があるとはいえ、[夏侯蘭](/ja/people/characters/girl5)は出剣したことがなく、すべて掌法を使う。ゲーム内でも[趙活](/ja/people/characters/player)と[解無塵](/ja/people/characters/special808)が雪山派に言及する際、軽く招を使った程度で、秘笈はない
 
 [^1]: [問答集2024-09-24](/ja/other/qna/202409#_2024-09-24)

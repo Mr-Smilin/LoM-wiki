@@ -34,7 +34,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [溫夫人](/ja/people/characters/special402) (人間道法王)
+                    [温夫人](/ja/people/characters/special402) (人間道法王)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -68,7 +68,7 @@ tags:
 
 <br>
 
-江湖の人々は、泥教の者たちの挙動が怪しく、泥に浸かって邪教の経を唱えるのを見て、さらに餓鬼道や地獄道が各地で乱暴を働くこともあり、[極樂教](/ja/people/factions/elysium-school)に続く新たな魔教とみなしている。
+江湖の人々は、泥教の者たちの挙動が怪しく、泥に浸かって邪教の経を唱えるのを見て、さらに餓鬼道や地獄道が各地で乱暴を働くこともあり、[極楽教](/ja/people/factions/elysium-school)に続く新たな魔教とみなしている。
 
 <br clear="all">
 
@@ -86,7 +86,7 @@ tags:
 
 <br>
 
-人間道は[錦香宮](/ja/people/factions/jin-xiang-palace)に姿を変え、身寄りのない女性を受け入れ、江湖での評判は良かった。だが風雨山大会で[南宮淺](/ja/people/characters/special103)に暴かれ、法王[溫夫人](/ja/people/characters/special402)は[南宮遠](/ja/people/characters/special101)と殉死した。
+人間道は[錦香宮](/ja/people/factions/jin-xiang-palace)に姿を変え、身寄りのない女性を受け入れ、江湖での評判は良かった。だが風雨山大会で[南宮淺](/ja/people/characters/special103)に暴かれ、法王[温夫人](/ja/people/characters/special402)は[南宮遠](/ja/people/characters/special101)と殉死した。
 
 <br>
 
@@ -94,11 +94,11 @@ tags:
 
 <br>
 
-畜生道法王[王二壯](/ja/people/characters/special401)は[丐幫](/ja/people/factions/beggar-gang)新派に身を潜めていた。彼らは義侠を貫き、城内の民から深く敬われていたが、江陵囲城戦で突如牙を剥き、修羅道と結託した。防ぎようがなかった。最後は法王が[李富貴](/ja/people/characters/special809)の大義滅親により討たれ、[丐幫](/ja/people/factions/beggar-gang)旧派が奮起した。
+畜生道法王[王二壯](/ja/people/characters/special401)は[丐幇](/ja/people/factions/beggar-gang)新派に身を潜めていた。彼らは義侠を貫き、城内の民から深く敬われていたが、江陵囲城戦で突如牙を剥き、修羅道と結託した。防ぎようがなかった。最後は法王が[李富貴](/ja/people/characters/special809)の大義滅親により討たれ、[丐幇](/ja/people/factions/beggar-gang)旧派が奮起した。
 
 <br>
 
-餓鬼道の[白鯊幫](/ja/people/factions/white-shark-gang)は東海を荒らし回り、もっぱら[上官家](/ja/people/factions/shang-guan-family)と朝廷に楯突いている。法王[劉顎](/ja/people/characters/special1)は当今の海捕文書 (指名手配書) で懸賞首の第一位、賞金は[天王座](/ja/people/characters/special409)よりも高い。朝廷は幾度も海賊討伐の兵を海に出したが、ことごとく徒労に終わり、今なおこの海賊たちの根拠地は分かっていない。
+餓鬼道の[白鯊幇](/ja/people/factions/white-shark-gang)は東海を荒らし回り、もっぱら[上官家](/ja/people/factions/shang-guan-family)と朝廷に楯突いている。法王[劉顎](/ja/people/characters/special1)は当今の海捕文書 (指名手配書) で懸賞首の第一位、賞金は[天王座](/ja/people/characters/special409)よりも高い。朝廷は幾度も海賊討伐の兵を海に出したが、ことごとく徒労に終わり、今なおこの海賊たちの根拠地は分かっていない。
 
 ## 五色泥
 
@@ -114,14 +114,14 @@ tags:
 
 ## 秘笈
 
-- [歷戰血書](/ja/system/books/book_4010)
-- [溫陽活血符](/ja/system/books/book_8100)
+- [歴戦血書](/ja/system/books/book_4010)
+- [温陽活血符](/ja/system/books/book_8100)
 
 ## 備考
 
-- [溫陽活血符](/ja/system/books/book_8100)の記述と、泥教の医者が六道峽から来ていることから見て、天道は医学を学んでいたのかもしれない。~~医学では大宋を救えない~~
-- [歷戰血書](/ja/system/books/book_4010)の記述によれば、修羅道法王は戦場の将軍、大宋の護国の神将であろう。
-- 風雨山大会で、[釋明](/ja/people/characters/special826)は[唐門](/ja/people/factions/tang-men)が修羅道であり、[唐老魔](/ja/people/characters/master)が修羅道法王だと誹謗したが、笑い飛ばしておけばよい。
+- [温陽活血符](/ja/system/books/book_8100)の記述と、泥教の医者が六道峽から来ていることから見て、天道は医学を学んでいたのかもしれない。~~医学では大宋を救えない~~
+- [歴戦血書](/ja/system/books/book_4010)の記述によれば、修羅道法王は戦場の将軍、大宋の護国の神将であろう。
+- 風雨山大会で、[釈明](/ja/people/characters/special826)は[唐門](/ja/people/factions/tang-men)が修羅道であり、[唐老魔](/ja/people/characters/master)が修羅道法王だと誹謗したが、笑い飛ばしておけばよい。
 - [杏花仙](/ja/people/characters/girl1)の当初の計画では、畜生道に続いて泥教は地獄道、天道、餓鬼道、最後に人間道の順で滅びるはずだったが、結果的には人間道が最初に事を起こしてしまった。ただこの言葉から、杏花仙の中では修羅道はとうに滅んだ扱いだったことが分かる。
 - 六大門派にはみな補佐役がいる。鳥熊いわく、泥教にもいるかもしれない、ただあなたが知らないだけ。腹心はもしかするとごく平凡な見た目で、しかし謀略も武功も一級品なのかもしれない。[^2]
 - [劉顎](/ja/people/characters/special1)は[錦香宮](/ja/people/factions/jin-xiang-palace)、天道、地獄道などを訪れたことがあるが、すべての法王が各道に滞在した経験を持つわけではない。[^3]

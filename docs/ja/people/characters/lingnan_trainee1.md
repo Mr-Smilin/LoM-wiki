@@ -31,7 +31,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [南溪](/ja/people/characters/special829) (師姉)
+                    [南渓](/ja/people/characters/special829) (師姉)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -46,7 +46,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [米歐寬](/ja/people/characters/lingnan_trainee3) (師妹)
+                    [米欧寬](/ja/people/characters/lingnan_trainee3) (師妹)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -64,4 +64,4 @@ tags:
 <br><br>
 十歳になるかならぬかで軽功を習得。人家の庭に忍び込んで盗み、放火。ある日ばれて捕まり、刑律では最低でも五十回の鞭打ち。とっさに思いついて、盗撮には罰する法律がないと気づき、人家の娘の入浴を盗撮するために侵入したのだと嘘をついて、[葉雲裳](/ja/people/characters/girl2)の背に宝の地図が彫られていると言って視線をそらし、逃げ出した。こうして葉家兄妹は江湖人に追われるようになった。このことについて得意気で、[陳倔](/ja/people/characters/lingnan_trainee4)とどちらがすごいかを争っている。
 
-武林大会で[唐門](/ja/people/factions/tang-men)が魔教の党派だと誹謗。その後、客舎で[南溪](/ja/people/characters/special829)に遭い、一剣で殺される。
+武林大会で[唐門](/ja/people/factions/tang-men)が魔教の党派だと誹謗。その後、客舎で[南渓](/ja/people/characters/special829)に遭い、一剣で殺される。

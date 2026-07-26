@@ -1,6 +1,6 @@
 ---
-title: 唐默鈴結緣攻略
-description: 唐默鈴結緣攻略
+title: 唐默鈴結縁攻略
+description: 唐默鈴結縁攻略
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -15,7 +15,7 @@ tags:
 
 <p align="center"><img src="/images/characters/girl_0/special1.webp" style="width:300px"></p>
 
-## 結緣必要条件
+## 結縁必要条件
 <table>
 
 <tr>
@@ -54,13 +54,13 @@ tags:
 <td>小師妹招親-<MarkdownWrapper>[小師妹の帰る先](/ja/event/simple/3-05-1-師妹的歸宿)</MarkdownWrapper></td>
 <td>• 条件1、2を満たす必要がある
     <br>• 後山で🎲天命が発動し、【≧50】「小師妹は俺のものだ!」を出す。
-    <br>• <Girl0Icon>唐默鈴</Girl0Icon>好感≧60で、結緣イベントが発生する。
-    <br>• 会話後に道具【小師妹の香嚢】を入手し、結緣完了。</td>
+    <br>• <Girl0Icon>唐默鈴</Girl0Icon>好感≧60で、結縁イベントが発生する。
+    <br>• 会話後に道具【小師妹の香嚢】を入手し、結縁完了。</td>
 <td>好感≧60の条件について: 実際のところ条件1、2を満たして普通にプレイしていれば達成できる。</td>
 </tr>
 </table>
 
-## 結緣後に変化するイベント
+## 結縁後に変化するイベント
 <table>
 
 <tr>
@@ -73,7 +73,7 @@ tags:
 
 <tr>
 <td>1</td>
-<td>結緣後の任意の時点</td>
+<td>結縁後の任意の時点</td>
 <td>厨房「小師妹の代役」</td>
 <td>このイベントの挿絵が変化する。</td>
 <td></td>
@@ -81,7 +81,7 @@ tags:
 
 <tr>
 <td>2</td>
-<td>結緣後の任意の時点</td>
+<td>結縁後の任意の時点</td>
 <td>下山して繁華街を巡る</td>
 <td>新たに<Girl0Icon>唐默鈴</Girl0Icon>との同行イベント「道を教える」が追加される。</td>
 <td>心相+30</td>
@@ -89,7 +89,7 @@ tags:
 
 <tr>
 <td>3</td>
-<td>結緣後の任意の時点</td>
+<td>結縁後の任意の時点</td>
 <td>後山での修練「小師妹の焼き魚」</td>
 <td>断った場合の結果が、<Girl0Icon>唐默鈴</Girl0Icon>と一緒に修練する内容に変わる。</td>
 <td>武学+3、心相+5</td>
@@ -151,7 +151,7 @@ tags:
 <td>• <Girl0Icon>唐默鈴</Girl0Icon>が最終決戦に参加できる。
     <br>• 最終決戦勝利後、汗青書<MarkdownWrapper>[《唐門の薪火》](/ja/event/ends/end-37)</MarkdownWrapper>に進める。</td>
 <td>• 梁有詩が葉雲裳を救出するイベントが発生していた場合、結末の展開が異なる。
-    <br>• 複数人と結緣している場合、滅門ルート結末の結緣優先度(v1.0.3201.1)：
+    <br>• 複数人と結縁している場合、滅門ルート結末の結縁優先度(v1.0.3201.1)：
     <br><Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 </td>
 </tr>

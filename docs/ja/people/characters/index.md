@@ -26,17 +26,17 @@ tags:
     { text: '崆峒派' },
     { text: '飛天門' },
     { text: '奪魄門' },
-    { text: '鐵拳門' },
+    { text: '鉄拳門' },
     { text: '玄功門' },
-    { text: '丐幫'},
-    { text: '滄幫'},
-    { text: '飛石幫' },
-	{ text: '白鯊幫'},
-	{ text: '極樂教' },
+    { text: '丐幇'},
+    { text: '滄幇'},
+    { text: '飛石幇' },
+	{ text: '白鯊幇'},
+	{ text: '極楽教' },
 	{ text: '泥教' },
-	{ text: '千燈樓' },
+	{ text: '千灯楼' },
 	{ text: '錦香宮' },
-	{ text: '火炎山劍閣' },
+	{ text: '火炎山剣閣' },
     { text: '大宋' },
     { text: '大金' },
 	{ text: '大理' },
@@ -45,7 +45,7 @@ tags:
     { text: '孤雲山派' },
 	{ text: '嶺南派' },
     { text: '杏花林' },
-    { text: '耕陽讀書齋' },
+    { text: '耕陽読書齋' },
     { text: 'その他' }
   ]">
 
@@ -71,7 +71,7 @@ tags:
 </tr>
 <tr>
 	<td>[唐錚](/ja/people/characters/brother2)</td>
-	<td>蜀中唐門<br>錦香宮<br>泥教 - 人間道<br>千燈樓</td>
+	<td>蜀中唐門<br>錦香宮<br>泥教 - 人間道<br>千灯楼</td>
 </tr>
 <tr>
 	<td>[唐陞](/ja/people/characters/brother3)</td>
@@ -90,7 +90,7 @@ tags:
 	<td>蜀中唐門</td>
 </tr>
 <tr>
-	<td>[唐小樓](/ja/people/characters/aunt2)</td>
+	<td>[唐小楼](/ja/people/characters/aunt2)</td>
 	<td>蜀中唐門</td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ tags:
 </tr>
 <tr>
 	<td>[許大鯨](/ja/people/characters/big_shock1)</td>
-	<td>滄幫<br>蜀中唐門</td>
+	<td>滄幇<br>蜀中唐門</td>
 </tr>
 <tr>
 	<td>[晁和](/ja/people/characters/special208)</td>
@@ -107,18 +107,18 @@ tags:
 </tr>
 <tr>
 	<td>[石公遠](/ja/people/characters/special7)</td>
-	<td>飛石幫</td>
+	<td>飛石幇</td>
 </tr>
 <tr>
 	<td>[石夫人](/ja/people/characters/special815)</td>
-	<td>飛石幫</td>
+	<td>飛石幇</td>
 </tr>
 <tr>
-	<td>[觀雲客](/ja/people/characters/special202)</td>
+	<td>[観雲客](/ja/people/characters/special202)</td>
 	<td>点蒼派</td>
 </tr>
 <tr>
-	<td>[聽海生](/ja/people/characters/special203)</td>
+	<td>[聴海生](/ja/people/characters/special203)</td>
 	<td>点蒼派</td>
 </tr>
 <tr>
@@ -135,34 +135,34 @@ tags:
 </tr>
 <tr>
 	<td>[王二壯](/ja/people/characters/special401)</td>
-	<td>丐幫<br>泥教 - 畜牲道</td>
+	<td>丐幇<br>泥教 - 畜牲道</td>
 </tr>
 <tr>
 	<td>[李富貴](/ja/people/characters/special809)</td>
-	<td>丐幫</td>
+	<td>丐幇</td>
 </tr>
 <tr>
 	<td>[樊嘯天](/ja/people/characters/special4)</td>
-	<td>丐幫<br>雪山派</td>
+	<td>丐幇<br>雪山派</td>
 </tr>
 <tr>
 	<td>[阿叔](/ja/people/characters/other17)</td>
-	<td>丐幫</td>
+	<td>丐幇</td>
 </tr>
 <tr>
 	<td>[龍淵](/ja/people/characters/special2)</td>
-	<td>丐幫</td>
+	<td>丐幇</td>
 </tr>
 <tr>
 	<td>[千金叟](/ja/people/characters/other19)</td>
-	<td>丐幫</td>
+	<td>丐幇</td>
 </tr>
 <tr>
-	<td>[覺慧](/ja/people/characters/special410)</td>
+	<td>[覚慧](/ja/people/characters/special410)</td>
 	<td>嵩山派 - 北院</td>
 </tr>
 <tr>
-	<td>[覺醒](/ja/people/characters/monk2)</td>
+	<td>[覚醒](/ja/people/characters/monk2)</td>
 	<td>嵩山派 - 北院</td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ tags:
 	<td>嵩山派 - 北院</td>
 </tr>
 <tr>
-	<td>[釋明](/ja/people/characters/special826)</td>
+	<td>[釈明](/ja/people/characters/special826)</td>
 	<td>嵩山派 - 南院</td>
 </tr>
 <tr>
@@ -191,7 +191,7 @@ tags:
 </tr>
 <tr>
 	<td>[金烏上人](/ja/people/characters/special207)</td>
-	<td>崆峒派 - 飛天門<br>千燈樓</td>
+	<td>崆峒派 - 飛天門<br>千灯楼</td>
 </tr>
 <tr>
 	<td>[丹霞子](/ja/people/characters/special404)</td>
@@ -203,35 +203,35 @@ tags:
 </tr>
 <tr>
 	<td>[虞小梅](/ja/people/characters/girl3)</td>
-	<td>崆峒派 - 飛天門<br>千燈樓<br>攻略可能ヒロイン(未完成)</td>
+	<td>崆峒派 - 飛天門<br>千灯楼<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
 	<td>[火閃電](/ja/people/characters/firebird1)</td>
 	<td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
-	<td>[顏疆](/ja/people/characters/trainee204)</td>
+	<td>[顔疆](/ja/people/characters/trainee204)</td>
 	<td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
 	<td>[雷謙](/ja/people/characters/special804)</td>
-	<td>崆峒派 - 鐵拳門</td>
+	<td>崆峒派 - 鉄拳門</td>
 </tr>
 <tr>
 	<td>[孟瞋](/ja/people/characters/other1)</td>
-	<td>崆峒派 - 鐵拳門</td>
+	<td>崆峒派 - 鉄拳門</td>
 </tr>
 <tr>
 	<td>[郁竹](/ja/people/characters/girl6)</td>
-	<td>崆峒派 - 鐵拳門<br>攻略可能ヒロイン(未完成)</td>
+	<td>崆峒派 - 鉄拳門<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
-	<td>[童大蟲](/ja/people/characters/trainee214)</td>
-	<td>崆峒派 - 鐵拳門</td>
+	<td>[童大虫](/ja/people/characters/trainee214)</td>
+	<td>崆峒派 - 鉄拳門</td>
 </tr>
 <tr>
 	<td>[勾魂叟](/ja/people/characters/special806)</td>
-	<td>崆峒派 - 奪魄門<br>千燈樓</td>
+	<td>崆峒派 - 奪魄門<br>千灯楼</td>
 </tr>
 <tr>
 	<td>[夏侯蘭](/ja/people/characters/girl5)</td>
@@ -247,7 +247,7 @@ tags:
 </tr>
 <tr>
 	<td>[魏菊](/ja/people/characters/girl7)</td>
-	<td>崆峒派 - 玄功門<br>耕陽讀書齋<br>攻略可能ヒロイン(未完成)</td>
+	<td>崆峒派 - 玄功門<br>耕陽読書齋<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
 	<td>[呼延菊](/ja/people/characters/special822)</td>
@@ -267,7 +267,7 @@ tags:
 </tr>
 <tr>
 	<td>[申屠龍](/ja/people/characters/special405)</td>
-	<td>青城派<br>極樂教<br>千燈樓</td>
+	<td>青城派<br>極楽教<br>千灯楼</td>
 </tr>
 <tr>
 	<td>[向無憂](/ja/people/characters/special408)</td>
@@ -278,7 +278,7 @@ tags:
 	<td>峨嵋派</td>
 </tr>
 <tr>
-	<td>[溫無畏](/ja/people/characters/other13)</td>
+	<td>[温無畏](/ja/people/characters/other13)</td>
 	<td>峨嵋派</td>
 </tr>
 <tr>
@@ -286,7 +286,7 @@ tags:
 	<td>錦香宮<br>攻略可能ヒロイン</td>
 </tr>
 <tr>
-	<td>[溫夫人](/ja/people/characters/special402)</td>
+	<td>[温夫人](/ja/people/characters/special402)</td>
 	<td>錦香宮<br>泥教 - 人間道</td>
 </tr>
 <tr>
@@ -303,7 +303,7 @@ tags:
 </tr>
 <tr>
 	<td>[段純青](/ja/people/characters/other15)</td>
-	<td>火炎山劍閣</td>
+	<td>火炎山剣閣</td>
 </tr>
 <tr>
 	<td>[南宮橫](/ja/people/characters/special104)</td>
@@ -323,11 +323,11 @@ tags:
 </tr>
 <tr>
 	<td>[上官螢](/ja/people/characters/girl4)</td>
-	<td>上官世家<br>滄幫<br>攻略可能ヒロイン(未完成)</td>
+	<td>上官世家<br>滄幇<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
 	<td>[上官隼](/ja/people/characters/special407)</td>
-	<td>上官世家<br>滄幫</td>
+	<td>上官世家<br>滄幇</td>
 </tr>
 <tr>
 	<td>[宋悲](/ja/people/characters/special800)</td>
@@ -342,7 +342,7 @@ tags:
 	<td>大宋</td>
 </tr>
 <tr>
-	<td>[完顏珣](/ja/people/characters/special819)</td>
+	<td>[完顔珣](/ja/people/characters/special819)</td>
 	<td>大金</td>
 </tr>
 <tr>
@@ -355,23 +355,23 @@ tags:
 </tr>
 <tr>
 	<td>[李仁友](/ja/people/characters/other7)</td>
-	<td>極樂教<br>千燈樓</td>
+	<td>極楽教<br>千灯楼</td>
 </tr>
 <tr>
 	<td>[袁無憲](/ja/people/characters/special823)</td>
-	<td>極樂教</td>
+	<td>極楽教</td>
 </tr>
 <tr>
 	<td>[荊紅](/ja/people/characters/special824)</td>
-	<td>極樂教<br>崆峒派 - 奪魄門</td>
+	<td>極楽教<br>崆峒派 - 奪魄門</td>
 </tr>
 <tr>
 	<td>[袁乘風](/ja/people/characters/other11)</td>
-	<td>極樂教<br>峨嵋派</td>
+	<td>極楽教<br>峨嵋派</td>
 </tr>
 <tr>
 	<td>[劉顎](/ja/people/characters/special1)</td>
-	<td>白鯊幫<br>泥教 - 餓鬼道</td>
+	<td>白鯊幇<br>泥教 - 餓鬼道</td>
 </tr>
 <tr>
 	<td>[趙逵](/ja/people/characters/special403)</td>
@@ -394,15 +394,15 @@ tags:
 	<td>孤雲山派</td>
 </tr>
 <tr>
-	<td>[孟仙謠](/ja/people/characters/special831)</td>
+	<td>[孟仙謡](/ja/people/characters/special831)</td>
 	<td>孤雲山派</td>
 </tr>
 <tr>
-	<td>[夏靈犀](/ja/people/characters/special825)</td>
+	<td>[夏霊犀](/ja/people/characters/special825)</td>
 	<td>孤雲山派</td>
 </tr>
 <tr>
-	<td>[南溪](/ja/people/characters/special829)</td>
+	<td>[南渓](/ja/people/characters/special829)</td>
 	<td>嶺南派<br>孤雲山派</td>
 </tr>
 <tr>
@@ -426,7 +426,7 @@ tags:
 	<td>杏花林<br>点蒼派</td>
 </tr>
 <tr>
-	<td>[樂屏](/ja/people/characters/special810)</td>
+	<td>[楽屏](/ja/people/characters/special810)</td>
 	<td>その他</td>
 </tr>
 <tr>
@@ -438,7 +438,7 @@ tags:
 	<td>その他</td>
 </tr>
 <tr>
-	<td>[齊壬](/ja/people/characters/hero2)</td>
+	<td>[斉壬](/ja/people/characters/hero2)</td>
 	<td>その他</td>
 </tr>
 <tr>
@@ -466,16 +466,16 @@ tags:
 	<td>大理</td>
 </tr>
 <tr>
-	<td>[鐵冠道人](/ja/people/characters/special212)</td>
+	<td>[鉄冠道人](/ja/people/characters/special212)</td>
 	<td>青城派</td>
 </tr>
 <tr>
 	<td>[無相祖師](/ja/people/characters/special212_2)</td>
-	<td>千燈樓</td>
+	<td>千灯楼</td>
 </tr>
 <tr>
 	<td>[李元棄](/ja/people/characters/special213)</td>
-	<td>極樂教</td>
+	<td>極楽教</td>
 </tr>
 <tr>
 	<td>[段智秀](/ja/people/characters/special833)</td>
@@ -486,7 +486,7 @@ tags:
 	<td>大理</td>
 </tr>
 <tr>
-	<td>[方獨弱](/ja/people/characters/special837)</td>
+	<td>[方独弱](/ja/people/characters/special837)</td>
 	<td>孤雲山派</td>
 </tr>
 <tr>
@@ -498,7 +498,7 @@ tags:
 	<td>嶺南派</td>
 </tr>
 <tr>
-	<td>[米歐寬](/ja/people/characters/lingnan_trainee3)</td>
+	<td>[米欧寬](/ja/people/characters/lingnan_trainee3)</td>
 	<td>嶺南派</td>
 </tr>
 <tr>

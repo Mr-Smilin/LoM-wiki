@@ -52,7 +52,7 @@ aside: false
 					称号
 				</ChTd>
 				<ChTd>
-					蒼松劍客(自稱)
+					蒼松剣客(自稱)
 				</ChTd>
 			</ChTr>
 			<ChTr>
