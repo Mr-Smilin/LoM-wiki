@@ -23,8 +23,12 @@ tags:
 <b>條件：</b>拜師<Girl5Icon>夏侯蘭</Girl5Icon>，雪山行，心上人為<Girl5Icon>夏侯蘭</Girl5Icon><br>
 <b>流程：</b><br>
 
-1. 進行夏侯蘭攻略流程，詳見[〈夏侯蘭結緣攻略〉](/event/pursuit/girl5)。
-2. 第三年七月中旬[[第三香]]登場：
-    1. **📖 抉擇：主動請纓**(開啟選項需要心繫：<Girl5Icon>夏侯蘭</Girl5Icon>)．
-    2. **🎲 天命：夏侯蘭的首肯......**(上限 30，➕ 加值：<Girl5Icon>夏侯蘭</Girl5Icon>好感度)：骰出**🧾【≧80】交給你**．
-    3. **🆚 決鬥：[第三香]**，敗北被殺死．
+方法一: 第三年雪山行輸給第三香
+    <br> &nbsp;&nbsp;&nbsp;&nbsp;1. 進行夏侯蘭攻略流程，詳見[〈夏侯蘭結緣攻略〉](/event/pursuit/girl5)。
+    <br> &nbsp;&nbsp;&nbsp;&nbsp;2. 第三年七月中旬[[第三香]]登場：
+    <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **📖 抉擇：主動請纓**(開啟選項需要心繫：<Girl5Icon>夏侯蘭</Girl5Icon>)．
+    <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **🎲 天命：夏侯蘭的首肯......**(上限 30，➕ 加值：<Girl5Icon>夏侯蘭</Girl5Icon>好感度)：骰出**🧾【≧80】交給你**．
+    <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **🆚 決鬥：[第三香]**，敗北被殺死．
+<br>
+<br>方法二: 第二年不留學破廟線輸給山賊
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;• 撞見襲擊唐門陰謀後，選上山報信，骰中山賊戰敗
