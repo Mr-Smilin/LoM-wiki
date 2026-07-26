@@ -1825,10 +1825,9 @@ tags:
             -
         </td>
         <td>
-            -
+            現版本無法完成。
         </td>
         <td>
-            <Girl5Icon>師傅</Girl5Icon>表示：
         </td>
     </tr>
     <tr>
