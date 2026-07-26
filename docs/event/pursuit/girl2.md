@@ -127,7 +127,7 @@ tags:
 </td>
 <td>• 欲增加<Girl2Icon>葉雲裳</Girl2Icon>好感，可在後山練功刷烤魚事件。
     <br>• 劍聖傳承必要條件: 比拚內力時🎲擲骰到【<99】「略遜一籌」，且谷底生活有閒聊📜「葉雲裳的武功」。
-    <br>• 若擁有技能<MarkdownWrapper>[《南宮護心訣》](/system/skill)</MarkdownWrapper>等級3，則對戰幻境南宮遠獲勝後，習得技能<MarkdownWrapper>[《偕老誓》](/system/skill)</MarkdownWrapper>。
+    <br>• 若擁有技能<MarkdownWrapper>[《南宮護心訣》](/system/skill)</MarkdownWrapper>等級3，則對戰幻境南宮遠獲勝後，會被新技能<MarkdownWrapper>[《偕老誓》](/system/skill)</MarkdownWrapper>取代。
     <br>• 結緣過程中，會獲得技能<MarkdownWrapper>[《九轉輪迴》](/system/skill)</MarkdownWrapper>。
 </td>
 </tr>
