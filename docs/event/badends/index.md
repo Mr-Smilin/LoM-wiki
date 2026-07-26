@@ -1628,7 +1628,7 @@ tags:
             -
         </td>
         <td>
-            拜<Girl5Icon>夏侯蘭</Girl5Icon>為師，<Girl0Icon>小師妹</Girl0Icon>比武招親圍毆戰役輸，<Girl5Icon>夏侯蘭</Girl5Icon>帶你殺上崆峒，與金烏上人戰鬥時戰敗，需要<Girl0Icon>小師妹</Girl0Icon>好感>50，且心上人為<Girl0Icon>小師妹</Girl0Icon>。
+            拜<Girl5Icon>夏侯蘭</Girl5Icon>為師，<Girl0Icon>小師妹</Girl0Icon>比武招親圍毆戰役輸，<Girl5Icon>夏侯蘭</Girl5Icon>帶你殺上崆峒，與金烏上人戰鬥時戰敗。
         </td>
         <td>
             -
