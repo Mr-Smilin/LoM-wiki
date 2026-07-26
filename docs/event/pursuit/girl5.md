@@ -30,7 +30,7 @@ tags:
 <td>1</td>
 <td>第二年二月上旬</td>
 <td><MarkdownWrapper>[留學討論](/event/simple/2-02-1-留學討論)</MarkdownWrapper></td>
-<td>• 唐門月會前貢獻度≧80點。
+<td>• 唐門月會前貢獻度≧50點。
     <br>• 月會中選擇📜「我想去崆峒派留學」。</td>
 <td></td>
 </tr>
