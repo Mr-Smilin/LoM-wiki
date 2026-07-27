@@ -173,7 +173,8 @@ tags:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 劇情變化。
     <br>• 若<Girl2Icon>葉雲裳</Girl2Icon>同行:
     <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 旅途事件: 劇情變化。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 劇情變化、華音閣增加葉雲裳學琴事件(共三次)。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 劇情變化。
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 錦香宮: 華音閣增加葉雲裳學琴事件，三次後觸發溫夫人劇情，可使西武林線📖「護衛三師兄」時得到雲裳彈琴的協助(故建議觸發)。
 </td>
 <td>目前葉雲舟同行綁定<Girl2Icon>葉雲裳</Girl2Icon>結緣，故也列出葉雲舟的劇情變化。</td>
 </tr>
