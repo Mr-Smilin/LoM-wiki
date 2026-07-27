@@ -245,7 +245,8 @@ tags:
 <td>9</td>
 <td>第四年二月中旬剩兩次行動</td>
 <td><MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
-<td>• <Girl2Icon>葉雲裳</Girl2Icon>參戰，多處劇情、戰鬥變化。
+<td>• 葉雲裳參與，劇情變化。
+    <br>• 若在錦香宮曾觸發<Girl2Icon>葉雲裳</Girl2Icon>向溫夫人學琴: 葉雲裳參戰，多處戰鬥變化。
     <br>• 📖「護衛三師兄」的第二場🗡️對決結束後，觸發🗡️對決無相祖師。
     <br>• 戰後📜「雲裳找你」時，若葉雲裳好感≧50，且滿足條件8中劍聖傳承條件，解鎖劍聖傳承事件。
 </td>
