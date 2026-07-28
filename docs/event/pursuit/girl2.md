@@ -59,7 +59,7 @@ tags:
 <td>月會中不選擇📜「我想去崆峒派留學」，直接📜「退席」。</td>
 <td>• 若擁有秘笈不足以將來修習至<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>等級3，建議此時向四師兄購買。
     <br>• 由於後面修練<MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>需要<MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級2，建議此時購買<MarkdownWrapper>[《羅漢拳譜》](/system/books/book_6001)</MarkdownWrapper>。
-    <br>• 若第四年西武林線欲習得劍聖極招，此時需購買<MarkdownWrapper>[《點蒼劍譜》](/system/books/book_2300)</MarkdownWrapper>。
+    <br>• 若第四年西武林線欲習得劍聖極招或同舟劍法，此時需購買<MarkdownWrapper>[《點蒼劍譜》](/system/books/book_2300)</MarkdownWrapper>。
 </td>
 </tr>
 
@@ -261,7 +261,7 @@ tags:
     <br>• 🎲擲骰到【≧50】「葉雲舟沒出現」，進入學習劍聖極招過程。
     <br>• 需擁有技能<MarkdownWrapper>[《點破雲關》](/system/skill)</MarkdownWrapper>，且未習得<MarkdownWrapper>[《同舟劍法》](/system/skill)</MarkdownWrapper>，才能根據🎲擲骰結果習得劍聖極招。
 </td>
-<td></td>
+<td>劍聖極招實際上並不強。</td>
 </tr>
 
 <tr>
