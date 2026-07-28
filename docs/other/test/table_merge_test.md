@@ -11,7 +11,7 @@ tags:
 
 這是一個測試用暫存檔。
 
-<div class="table-container">
+<div class="table-container" align="center">
 <table>
 <thead>
 <tr>
