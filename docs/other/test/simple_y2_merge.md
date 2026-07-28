@@ -1,6 +1,6 @@
 ---
-title: 合併表格測試
-description: 合併表格測試
+title: 第二年主支線大表格
+description: 第二年主支線大表格
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -9,7 +9,7 @@ tags:
     - 測試
 ---
 
-這是一個測試用暫存檔。
+因第二年分四條路線，表格形式與其他年份不同。
 
 <div class="table-container">
 <table>
@@ -17,10 +17,10 @@ tags:
 <tr>
     <th style="text-align: center">月</th>
     <th style="text-align: center">旬</th>
-    <th style="text-align: center">崆峒<br>留學</th>
+    <th style="text-align: center">崆峒留學</th>
     <th style="text-align: center">不留學<br>住客棧</th>
     <th style="text-align: center">不留學<br>住破廟</th>
-    <th style="text-align: center">青城<br>留學</th>
+    <th style="text-align: center">青城留學</th>
 </tr>        
 </thead>
     
