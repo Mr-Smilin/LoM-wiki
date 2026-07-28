@@ -23,5 +23,24 @@ tags:
     <th>青城<br>留學</th>
 </tr>        
 </thead>
+<tbody>
+<tr>
+    <td>一月</td>
+    <td>上旬</td>
+    <td colspan = 4></td>
+</tr>
+
+<tr>
+    <td>一月</td>
+    <td>中旬</td>
+    <td colspan = 4></td>
+</tr>
+
+<tr>
+    <td>一月</td>
+    <td>下旬</td>
+    <td colspan = 4>段考</td>
+</tr>
+</tbody>
 </table>
 </div>
