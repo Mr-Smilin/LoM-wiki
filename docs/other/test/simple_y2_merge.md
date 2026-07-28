@@ -172,8 +172,8 @@ tags:
     <td style="text-align: center">-</td>
     <td style="text-align: center">
         青城醒轉<br>
-        青城日常<br>
-        青城自由行動<br>
+        青城導覽<br>
+        青城排擠<br>
     </td>
 </tr>
 
@@ -206,7 +206,6 @@ tags:
     <td style="text-align: center">-</td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">
-        青城排擠<br>
         鄒博歸來<br>
     </td>
 </tr>
