@@ -25,19 +25,19 @@ tags:
 </thead>
 <tbody>
 <tr>
-    <td rowspan = 3>一月</td>
-    <td>上旬</td>
+    <td rowspan = 3>一</td>
+    <td>上</td>
     <td colspan = 4></td>
 </tr>
 
 <tr>
-    <td>中旬</td>
+    <td>中</td>
     <td colspan = 4></td>
 </tr>
 
 <tr>
-    <td>下旬</td>
-    <td text-align=center colspan = 4>段考</td>
+    <td>下</td>
+    <td colspan = 4 style="text-align: center">段考</td>
 </tr>
 </tbody>
 </table>
