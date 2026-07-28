@@ -15,8 +15,8 @@ tags:
 <table>
 <thead>
 <tr>
-    <th>月</th>
-    <th>旬</th>
+    <th style="text-align: center">月</th>
+    <th style="text-align: center">旬</th>
     <th style="text-align: center">崆峒<br>留學</th>
     <th style="text-align: center">不留學<br>住客棧</th>
     <th style="text-align: center">不留學<br>住破廟</th>
