@@ -620,7 +620,7 @@ tags:
 			<td>
 				<li>回到唐門</li>
 				<li>有人離開</li>
-				<li>四師兄歸來(需拜託伴手禮)</li>
+				<li>四師兄歸來</li>
 			</td>
 			<td>-</td>
 			<td>
@@ -634,8 +634,8 @@ tags:
 				<MarkdownWrapper>
                     [[眾人的決策]]
                 </MarkdownWrapper>
-				<li>唐門立繪：成立西武林盟(需李富貴好感2星或學問、戰術要求)</li>
-				<li>龍湘線-後山挑柴：決鬥 (攻略最晚觸發時間為一月下旬前)</li>
+				<li>唐門立繪：成立西武林盟</li>
+				<li>龍湘線-後山挑柴：決鬥</li>
 			</td>
 			<td>
 				<li>正心堂：四師兄出使方案</li>
@@ -669,12 +669,12 @@ tags:
 			<td>
 				<li>三師兄歸來</li>
                 <MarkdownWrapper>
-                [唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)【戰你娘親-頑抗到底線】
+                [唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)【不成立西武林】
                 </MarkdownWrapper>
 			</td>
 			<td>
 				<li>各門派答覆</li>
-				<li>龍湘線-飛鴿傳書(最晚觸發時間為一月下旬)</li>
+				<li>龍湘線-飛鴿傳書</li>
 			</td>
 		</tr>
 		<tr>
@@ -683,7 +683,7 @@ tags:
 			<td>
                 <MarkdownWrapper>
 				[西武林大會](/event/detailed_description/4-02-2-東西武林盟會戰)<br>
-                [唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)【成立西武林-頑抗到底線】
+                [唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)【成立西武林失敗】
                 </MarkdownWrapper>
 			</td>
 			<td>-</td>
