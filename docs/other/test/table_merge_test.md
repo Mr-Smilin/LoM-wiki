@@ -37,7 +37,7 @@ tags:
 
 <tr>
     <td>下旬</td>
-    <td colspan = 4>段考</td>
+    <td text-align=center colspan = 4>段考</td>
 </tr>
 </tbody>
 </table>
