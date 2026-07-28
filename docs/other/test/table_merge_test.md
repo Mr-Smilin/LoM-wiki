@@ -12,7 +12,9 @@ tags:
 這是一個測試用暫存檔。
 
 <div class="table-container">
-<table margin-left="auto" margin-right="auto">
+<table>
+<hspec align=center>
+<vspec align=center>
 <thead>
 <tr>
     <th>月</th>
@@ -42,5 +44,7 @@ tags:
     <td colspan = 4>段考</td>
 </tr>
 </tbody>
+</hspec>
+</vspec>
 </table>
 </div>
