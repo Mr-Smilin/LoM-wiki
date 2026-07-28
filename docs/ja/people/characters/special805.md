@@ -30,7 +30,7 @@ tags:
 					称号
 				</ChTd>
 				<ChTd>
-					阿鶴俠<br>~~樓梯俠~~
+					阿鶴俠<br>~~楼梯俠~~
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -50,7 +50,7 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
-	<ChTab title="出來玩！">
+	<ChTab title="出来玩！">
 		<Ch src='/images/characters/special805/special2.webp' position='right'/>
 		<ChName nameZh='阿鶴俠' nameEn='A He Xia' position='right' />
 	</ChTab>

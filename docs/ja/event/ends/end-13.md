@@ -30,7 +30,7 @@ tags:
 <strong>条件：なし。</strong><br>
 **流程：**<br>
 1. 第3年3月期間、練功場または後山に5回訪れ、[唐惟元](/ja/people/characters/brother4)が商隊参加を招待するイベントが発生し、2番目の選択肢で**📖【よろしい。】**を選ぶ
-2. 想い人が小師妹、小師妹好感度≧30かつ＜50、エンディングに進む．
+2. 想い人が唐默鈴、唐默鈴好感度≧30かつ＜50、エンディングに進む．
 
 ## 分岐と変化
 
@@ -47,13 +47,13 @@ tags:
 ### 保有銀両
 銀両≧10000を満たすかどうかが招待イベント部分の対話に影響、伝説文本に影響しない．
 
-### 四師兄の好感度
-[唐惟元](/ja/people/characters/brother4)好感度≧45、[唐惟元](/ja/people/characters/brother4)が主動的に商隊参加を招待。好感度＜45は三師兄の託しで招待、伝説文本に影響しない．
+### 唐惟元の好感度
+[唐惟元](/ja/people/characters/brother4)好感度≧45、[唐惟元](/ja/people/characters/brother4)が主動的に商隊参加を招待。好感度＜45は唐陞の託しで招待、伝説文本に影響しない．
 
 ### 第一の選択肢
 選択肢後の対話に影響、伝説文本に影響しない．
 
-### 大師兄と二師兄の好感度
+### 唐布衣と唐錚の好感度
 伝説文本に影響しない．
 + [唐布衣](/ja/people/characters/brother1)好感度≧45：[唐布衣](/ja/people/characters/brother1)が生前相声役者になりたかったことを知る．
 + [唐布衣](/ja/people/characters/brother1)好感度≧40かつ[唐布衣](/ja/people/characters/brother1)好感度≧[唐錚](/ja/people/characters/brother2)好感度：対話で[唐布衣](/ja/people/characters/brother1)に憧れを抱く、
@@ -61,4 +61,4 @@ tags:
 + [唐布衣](/ja/people/characters/brother1)好感度＜40かつ[唐錚](/ja/people/characters/brother2)好感度＜40：対話で[唐中翎](/ja/people/characters/master)掌門に憧れを抱く．
 
 ### 約束
-第2年2月上旬に小師妹と離別時に先に知らせるというイベントがあった場合(小師妹好感度≧40が必要)、別れる時に追加セリフが出現、伝説文本に影響しない．
+第2年2月上旬に唐默鈴と離別時に先に知らせるというイベントがあった場合(唐默鈴好感度≧40が必要)、別れる時に追加セリフが出現、伝説文本に影響しない．

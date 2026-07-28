@@ -91,7 +91,7 @@ BadendIcon は自動的にますます多くの詳細ページをインポート
 
 ---
 
-`<Girl[0-8]Icon>` リンクはデフォルトでキャラクター列傳ページにジャンプし、詳細は[夢境の想い人](/ja/people/dream-sweetheart.html)を参照してください
+`<Girl[0-8]Icon>` リンクはデフォルトでキャラクター列伝ページにジャンプし、詳細は[夢境の想い人](/ja/people/dream-sweetheart.html)を参照してください
 
 small(小型) 画像は 32 px × 32 px、  
 medium(中型) 画像は 100 px × 100 px です。  
@@ -142,7 +142,7 @@ medium(中型) 画像は 76 px × 88 px です。
 -   `<EndIcon>` : <EndIcon>汗青書</EndIcon>、no を指定しない場合、デフォルトクリックで汗青書リストにジャンプします。
 -   `<EndIcon no="49">` : <EndIcon no="49">汗青書 49：喪家之犬</EndIcon>、no を追加すると指定された番号の汗青書にジャンプします。
 
-以下のキャラクター アバターはデフォルトでキャラクター列傳ページにジャンプします：
+以下のキャラクター アバターはデフォルトでキャラクター列伝ページにジャンプします：
 
 -   `<Girl0Icon>` : <Girl0Icon>小師妹アバター</Girl0Icon>
 -   `<Girl1Icon>` : <Girl1Icon>瑞杏アバター</Girl1Icon>
@@ -479,12 +479,12 @@ HTML で囲まれたコンテンツ内の Markdown を解析するために使�
 <br>
 
 <InfoList position="left">
-  <Info title="列傳一" :open=true>
+  <Info title="列伝一" :open=true>
       錦香宮に師事し、剣法精妙な美しき佳人。<br>
       父の足跡をたどって進み、四方で俠を行いたいと願う。<br>
       しかし、世事に疎いため、意外に簡単に騙される。
   </Info>
-  <Info title="列傳二">
+  <Info title="列伝二">
     父の記憶は今ほんのわずかだ。<br>
     遠い記憶では、彼は彼女の小さな頭を撫でて、<br>
     微笑んで出かけたが、二度と帰ってこなかった。<br>

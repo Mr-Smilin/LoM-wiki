@@ -19,11 +19,11 @@ tags:
 
 <br>
 
-武林は古来「一幫三家六大派」と称され、百年以上もこの言い方が続いています。時代の推移とともに、月は星に変わり、江湖の門派は栄衰を繰り返し、六大派の美名も常に移り変わります。
+武林は古来「一幇三家六大派」と称され、百年以上もこの言い方が続いています。時代の推移とともに、月は星に変わり、江湖の門派は栄衰を繰り返し、六大派の美名も常に移り変わります。
 
 <br>
 
-唯一、丐幫だけは常に存在し続けます。朝廷が軍を派遣して殲滅しようとしても、消滅させることはできません。
+唯一、丐幇だけは常に存在し続けます。朝廷が軍を派遣して殲滅しようとしても、消滅させることはできません。
 
 ## 三大世家
 
@@ -42,23 +42,23 @@ tags:
 -   [点蒼派](/ja/people/factions/dian-cang-sect)
 -   [崆峒派](/ja/people/factions/kong-tong-sect)
 
-## 大幫派
+## 大幇派
 
--   [丐幫](/ja/people/factions/beggar-gang)
--   [滄幫](/ja/people/factions/cang-gang)
--   [飛石幫](/ja/people/factions/flying-stone-gang)
--   [白鯊幫](/ja/people/factions/white-shark-gang)
+-   [丐幇](/ja/people/factions/beggar-gang)
+-   [滄幇](/ja/people/factions/cang-gang)
+-   [飛石幇](/ja/people/factions/flying-stone-gang)
+-   [白鯊幇](/ja/people/factions/white-shark-gang)
 
 ## 邪派組織
 
--   [極樂教](/ja/people/factions/elysium-school)
+-   [極楽教](/ja/people/factions/elysium-school)
 -   [泥教](/ja/people/factions/mud-school)
 
-## 宮樓
+## 宮楼
 
--   [千燈樓](/ja/people/factions/thousand-lantern-tower)
+-   [千灯楼](/ja/people/factions/thousand-lantern-tower)
 -   [錦香宮](/ja/people/factions/jin-xiang-palace)
--   [火炎山劍閣](/ja/people/factions/mount-fire-palace)
+-   [火炎山剣閣](/ja/people/factions/mount-fire-palace)
 
 ## 国家
 
@@ -72,7 +72,7 @@ tags:
 -   [雪山派](/ja/people/factions/mount-snow-sect)
 -   [孤雲山派](/ja/people/factions/mount-guyun-sect)
 -   [杏花林](/ja/people/factions/apricot-forest)
--   [耕陽讀書齋](/ja/people/factions/geng-yang-study)
+-   [耕陽読書齋](/ja/people/factions/geng-yang-study)
 -   [嶺南派](/ja/people/factions/lingnan-sect)
 
 ## 旧設定

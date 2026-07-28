@@ -92,14 +92,14 @@ aside: false
 
 ## 奇遇
 
--   江陵事件では[王幫主](/ja/people/characters/special401)が彼のために洗髄してくれたが、あまりありがたがっていない。
+-   江陵事件では[王幇主](/ja/people/characters/special401)が彼のために洗髄してくれたが、あまりありがたがっていない。
 -   武林大会の前に三つの奇遇がある: [杏花林](/ja/people/factions/apricot-forest)の老和尚が運気凝神の法を教え、[大猿猴](/ja/people/characters/other11)が筋骨を鍛え、[東海龍王](/ja/people/characters/special407)が刀法を教える。
 -   南宮扇法はまだ会得しておらず、剣の方が慣れている。奇遇の後は刀に持ち替えた。
 
 ## 備考
 
--   武林大会で[袁無憲](/ja/people/characters/special823)に唆され、錦香宮が泥教であることを公衆の面前で暴き、間接的に[父](/ja/people/characters/special101)と[溫夫人](/ja/people/characters/special402)の死を招いた。後に[南宮深](/ja/people/characters/special102)によって南宮家を追放された。
+-   武林大会で[袁無憲](/ja/people/characters/special823)に唆され、錦香宮が泥教であることを公衆の面前で暴き、間接的に[父](/ja/people/characters/special101)と[温夫人](/ja/people/characters/special402)の死を招いた。後に[南宮深](/ja/people/characters/special102)によって南宮家を追放された。
 -   人物造形と描写があまりに物議を醸すため、討論スレで彼の名が出るたびに荒れて脱線することから、いつしか「劫串俠」(スレ荒らし俠) の名が付いた。
 -   南宮世家に戻って認親する前から「阿淺」と呼ばれていた。[大公子](/ja/people/characters/special102)に対して低姿勢に振る舞う意味合いがある[^1]。
 
-[^1]: PTT C 洽－[Re:\[活俠\] 討論-溫夫人的愛恨，南宮淺的身世](https://www.ptt.cc/bbs/C_Chat/M.1732263454.A.6E8.html)
+[^1]: PTT C 洽－[Re:\[活俠\] 討論-温夫人的愛恨，南宮淺的身世](https://www.ptt.cc/bbs/C_Chat/M.1732263454.A.6E8.html)

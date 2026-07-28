@@ -6,7 +6,7 @@ sidebar: false
 borderless: false
 tags:
     - 人物
-    - 廣州唐門
+    - 広州唐門
 ---
 
 # {{ $frontmatter.title }}
@@ -49,7 +49,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[釋明](/ja/people/characters/special826) (協力者)
+					[釈明](/ja/people/characters/special826) (協力者)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -61,7 +61,7 @@ tags:
 
 <br>
 
-下山後、広州に旅居し、広州唐門を創設して[唐衫](/ja/people/characters/special811)を弟子にした。蜀中の[唐門](/ja/people/factions/tang-men)が衰退したのを見て、[釋明](/ja/people/characters/special826)、[上官世家](/ja/people/factions/shang-guan-family)と協力し、唐門の位を簒奪しようとしたが、最終的に敗北した。
+下山後、広州に旅居し、広州唐門を創設して[唐衫](/ja/people/characters/special811)を弟子にした。蜀中の[唐門](/ja/people/factions/tang-men)が衰退したのを見て、[釈明](/ja/people/characters/special826)、[上官世家](/ja/people/factions/shang-guan-family)と協力し、唐門の位を簒奪しようとしたが、最終的に敗北した。
 
 <br>
 
@@ -74,6 +74,6 @@ tags:
 -   [唐中翎](/ja/people/characters/master)と対戦する場合、飛燕流星翎一撃で解決され、掌門の病状によって負傷して去るか、または手脚の筋を切断されて去る。
 -   [夏侯蘭](/ja/people/characters/girl5)線の場合、彼女に重傷まで叩かれて去る。
 -   [虞小梅](/ja/people/characters/girl3)が現場にいれば、[火龍仙君](/ja/people/characters/special204)との間に義兄弟の契りがあると言い、蹴られること二度。
--   門規に従えば、唐門の叛徒は伝喚を受けずに再び唐門の故地を踏めば、宗祠に連行されて叩頭して懺悔させられ、掌刑に従わせられて法に基づく処罰を受け、その結末はほとんどの場合死よりも悲劇的である。
+-   門規に従えば、唐門の裏切り者は伝喚を受けずに再び唐門の故地を踏めば、宗祠に連行されて叩頭して懺悔させられ、掌刑に従わせられて法に基づく処罰を受け、その結末はほとんどの場合死よりも悲劇的である。
 -   もし[趙活](/ja/people/characters/player)が悪人なら、<EndIcon no="8">蜀中唐門を背反する</EndIcon>ことができ、結果は悲劇的。
 -   [葉雲裳](/ja/people/characters/girl2)線では、毒を下ろしたのは自分ではないと言い、『万霊油』の薬方を渡す。

@@ -10,10 +10,10 @@ tags:
     - 汗青書
     - エンディング
     - 鶏もも大尽
-    - 最後まで抵抗
+    - 徹底抗戦
     - 唐門滅亡
     - 龍湘
-    - 結緣
+    - 結縁
 ---
 
 # {{ $frontmatter.title }}
@@ -28,19 +28,11 @@ tags:
 
 ## 条件とルート
 
-<strong>条件：</strong>想い人が<Girl8Icon>龍湘</Girl8Icon>、<Girl8Icon>龍湘</Girl8Icon>と結緣、「最後まで抵抗」シナリオ線に進入。<br>
+<strong>条件：</strong>想い人が<Girl8Icon>龍湘</Girl8Icon>、<Girl8Icon>龍湘</Girl8Icon>と結縁、「徹底抗戦」シナリオ線に進入。<br>
 **ルート：**<br>
 
-### 一、龍湘と結緣
-1. 三年十月中旬武林大会、錦香宮の正体が暴露された後、<Girl8Icon>龍湘</Girl8Icon>が唐門に投靠した時、**📖選項「周りの冷たい眼差しを顧みず龍湘を受け入れる」**を選択、<Girl8Icon>龍湘</Girl8Icon>が唐門加入。
-2. 三年十二月上旬最後の行動前。[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)で「最後まで抵抗」シナリオ線に進入。
-3. 三年十一月中旬～三年十二月下旬間、後山で薪割りをしていると、ランダムに<Girl8Icon>龍湘</Girl8Icon>が剣を練習しているのを見かけ、**📖選項「俺が剣の使い方を教えてやる」**を選択、🗡️<Girl8Icon>龍湘</Girl8Icon>と決闘、勝負は無関係。
-   + 龍湘の剣練習イベントは実際には四年一月下旬まで発動可能だが、飛び鴿伝書を受け取った後に発動した場合、結緣できない。
-5. **📜議題「初対面の時」**と**📜議題「初対面の時」**(先後順序は無関係)→**📜議題「龍湘の心事」**(議題開放には想い人が<Girl8Icon>龍湘</Girl8Icon>である必要)、
-6. **🎲運命：龍湘の反応......**(上限70、➕加値：<Girl8Icon>龍湘</Girl8Icon>好感度/2)：**🧾【≧60】言う**→**📜議題「心魔」**→**📖選項「俺の想い人は、お前だ。」**。
-7. 飛び鴿伝書を受け取る、過程は無関係、<span style='color: #FF1493;'><Girl8Icon>龍湘</Girl8Icon>と結緣</span>、【**龍湘の髪簪**】獲得。
-   + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が1️⃣西武林盟成立の決策：四年一月下旬、飛び鴿伝書受け取り。
-   + [衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)が2️⃣西武林盟不成立の決策：三年十二月下旬、飛び鴿伝書受け取り。
+### 一、龍湘と結縁
+<MarkdownWrapper>[〈龍湘結縁攻略〉](/ja/event/pursuit/girl8)</MarkdownWrapper>を参照。
 
 ### 二、唐門包囲戦
 1. 唐門包囲戦：開始時期は[衆人の決策](/ja/event/detailed_description/3-12-1-眾人的決策)の結果で異なる
@@ -56,14 +48,14 @@ tags:
      + 前の結果が**🧾【≦30】ほぼ全員去った**：🗡️武林盟群俠との決闘、勝利必須。
      + その他：⚔️混戦、勝利必須。
    + **🧾【＞30】三人の高手**：相手が誰でも、🗡️決闘勝利必須。
-   + **🧾【≦30】一人の絶頂高手**：🗡️[萬里鵬程](/ja/people/characters/special6)との決闘、勝利必須。
+   + **🧾【≦30】一人の絶頂高手**：🗡️[万里鵬程](/ja/people/characters/special6)との決闘、勝利必須。
 4. 山を下りて戦う：
    + 前の結果が**🧾【≦30】ほぼ全員去った**：🗡️武林盟群俠との決闘、勝利必須
    + その他：
      + **📖選項「全力で突破」**：⚔️混戦、勝負は無関係。
      + **📖選項「一人も残さない」**：⚔️混戦、勝利必須→⚔️混戦、勝負は無関係。
-5. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)との決闘、勝利後、より優先度の高いキャラクターと結緣していない場合、結局に進入。
-   + ※唐門滅亡結局の結緣優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
+5. 🗡️武林盟主-[瑞笙](/ja/people/characters/special999)との決闘、勝利後、より優先度の高いキャラクターと結縁していない場合、結局に進入。
+   + ※唐門滅亡結局の結縁優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 
 ## 分岐と変化
 
