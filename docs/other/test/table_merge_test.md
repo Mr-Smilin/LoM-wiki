@@ -42,7 +42,7 @@ tags:
 <tr>
     <td>一月</td>
     <td>下旬</td>
-    <td colspan = 4><p style="text-align: center;">段考</p></td>
+    <td colspan = 4>段考</td>
 </tr>
 </tbody>
 </table>
