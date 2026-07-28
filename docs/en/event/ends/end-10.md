@@ -38,7 +38,7 @@ Away from the hustle and bustle of the world, separated by time, the rest of you
     - **📖Choice: Hesitation**→**📖Choice: Senior Brother must not die**→**📖Choice: Hesitation**→**📖Choice: Senior Brother must not die**→**📖Choice: Determination**.
     - **📖Choice: Hesitation**→**📖Choice: Senior Brother must not die**→**📖Choice: Hesitation**→**📖Choice: Senior Brother must not die**→**📖Choice: Hesitation**.
 5. After <Girl3Icon>Yu Xiaomei</Girl3Icon> appears, choose **📖Choice: Wrap Up**.
-6. **With affection for <Girl6Icon>Yu Zhu</Girl6Icon> at ≥45, choose **📖Choice: Would you like to come to my house?\*\*, to enter the ending.
+6. With affection for <Girl6Icon>Yu Zhu</Girl6Icon> at ≥45, choose **📖Choice: Would you like to come to my house?**, to enter the ending.
 
 ## Divergence and Changes
 

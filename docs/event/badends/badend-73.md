@@ -20,7 +20,8 @@ tags:
 
 ## 條件與流程
 
-<b>條件：</b>拜師<Girl5Icon>夏侯蘭</Girl5Icon>，雪山行，心上人為<Girl5Icon>夏侯蘭</Girl5Icon><br>
+<b>條件：</b>方法一 — 拜師<Girl5Icon>夏侯蘭</Girl5Icon>，雪山行，心上人為<Girl5Icon>夏侯蘭</Girl5Icon><br>
+&nbsp;&nbsp;&nbsp;&nbsp;方法二 — 第二年不留學走破廟線(不需拜師、雪山行與心上人條件)<br>
 <b>流程：</b><br>
 方法一: 第三年雪山行輸給第三香。
 <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 進行夏侯蘭攻略流程，詳見[〈夏侯蘭結緣攻略〉](/event/pursuit/girl5)。

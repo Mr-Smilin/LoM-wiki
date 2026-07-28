@@ -34,6 +34,7 @@
     "magic-string": "^0.30.10",
     "mark.js": "^8.11.1",
     "markdown-it": "^14.1.0",
+    "markdown-it-cjk-friendly": "^2.0.2",
     "markdown-it-footnote": "^4.0.0",
     "minisearch": "^6.3.0",
     "mitt": "^3.0.1",
