@@ -12,9 +12,7 @@ tags:
 這是一個測試用暫存檔。
 
 <div class="table-container">
-<table>
-<hspec align="center"></hspec>
-<vspec align="center"></vspec>
+<table margin-left="auto" margin-right="auto">
 <thead>
 <tr>
     <th>月</th>
