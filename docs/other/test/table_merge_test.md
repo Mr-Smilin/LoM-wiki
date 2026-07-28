@@ -13,6 +13,8 @@ tags:
 
 <div class="table-container">
 <table>
+<hspec align="center"></hspec>
+<vspec align="center"></vspec>
 <thead>
 <tr>
     <th>月</th>
@@ -23,9 +25,6 @@ tags:
     <th>青城<br>留學</th>
 </tr>        
 </thead>
-    
-<hspec rowgroup=tbody align="center"></hspec>
-<vspec rowgroup=tbody align="center"></vspec>
 <tbody>
 <tr>
     <td>一月</td>
