@@ -11,7 +11,7 @@ tags:
 
 這是一個測試用暫存檔。
 
-<div class="table-container" align="center">
+<div class="table-container">
 <table>
 <thead>
 <tr>
@@ -39,7 +39,7 @@ tags:
 <tr>
     <td>一月</td>
     <td>下旬</td>
-    <td colspan = 4>段考</td>
+    <td colspan = 4><p style="text-align: center;">段考</p></td>
 </tr>
 </tbody>
 </table>
