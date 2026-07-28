@@ -23,6 +23,9 @@ tags:
     <th>青城<br>留學</th>
 </tr>        
 </thead>
+    
+<hspec rowgroup=tbody align="center"></hspec>
+<vspec rowgroup=tbody align="center"></vspec>
 <tbody>
 <tr>
     <td>一月</td>
