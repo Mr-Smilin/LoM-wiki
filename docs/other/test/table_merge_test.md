@@ -147,9 +147,9 @@ tags:
     </td>
 </tr>
 <tr>
-    <td rowspan = 2>中</td>
-    <td rowspan = 2>-</td>
-    <td rowspan = 2>-</td>
+    <td rowspan = 2 style="text-align: center">中</td>
+    <td rowspan = 2 style="text-align: center">-</td>
+    <td rowspan = 2 style="text-align: center">-</td>
     <td colspan = 2 style="text-align: center">
         破廟密謀<br>
         唐門報信<br>
