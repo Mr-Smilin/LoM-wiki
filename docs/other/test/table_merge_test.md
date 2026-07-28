@@ -13,8 +13,6 @@ tags:
 
 <div class="table-container">
 <table>
-<hspec align=center>
-<vspec align=center>
 <thead>
 <tr>
     <th>月</th>
@@ -27,24 +25,20 @@ tags:
 </thead>
 <tbody>
 <tr>
-    <td>一月</td>
+    <td rowspan = 3>一月</td>
     <td>上旬</td>
     <td colspan = 4></td>
 </tr>
 
 <tr>
-    <td>一月</td>
     <td>中旬</td>
     <td colspan = 4></td>
 </tr>
 
 <tr>
-    <td>一月</td>
     <td>下旬</td>
     <td colspan = 4>段考</td>
 </tr>
 </tbody>
-</hspec>
-</vspec>
 </table>
 </div>
