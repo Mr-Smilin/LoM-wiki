@@ -317,6 +317,7 @@ tags:
             [破廟密謀](/event/simple/2-08-2-破廟密謀)<br>
             [唐門報信](/event/simple/2-08-2-唐門報信)<br>
             唐門迎敵<br>
+            密謀落幕<br>
         </MarkdownWrapper>
     </td>
 </tr>
