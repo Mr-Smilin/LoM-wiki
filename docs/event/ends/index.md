@@ -100,6 +100,7 @@ tags:
 </td>
 <td>
 <span style="color: Gray;">【離開唐門】</span><br>
+完成「偷懶怪」系列事件。<br>
 <MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，選擇攻打唐門獲勝。<br>
 </td>
 </tr>
