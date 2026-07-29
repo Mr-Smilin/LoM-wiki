@@ -1765,7 +1765,7 @@ tags:
         </td>
         <td>
             <Girl5Icon>夏侯蘭</Girl5Icon>線，在雪山派找吃的時候骰到豬，與豬戰鬥時戰敗<br>
-            破廟線，選上山報信，骰中野豬戰敗。<br>
+            破廟線<MarkdownWrapper>[「唐門報信」](/event/simple/2-08-2-唐門報信)</MarkdownWrapper>事件中，遭遇野豬戰敗。<br>
             青城留學，常風觀散步遇到野豬，對決戰敗。
         </td>
         <td>
@@ -1787,7 +1787,7 @@ tags:
         </td>
         <td>
             <Girl5Icon>夏侯蘭</Girl5Icon>線，選擇自請與第三香戰鬥時戰敗，需要心上人為<Girl5Icon>夏侯蘭</Girl5Icon>。<br>
-            破廟線，選上山報信，骰中山賊戰敗
+            破廟線<MarkdownWrapper>[「唐門報信」](/event/simple/2-08-2-唐門報信)</MarkdownWrapper>事件中，遭遇山賊戰敗。<br>
         </td>
         <td>
             不知所云
