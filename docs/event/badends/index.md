@@ -1057,7 +1057,7 @@ tags:
             元-佚名《來生債》
         </td>
         <td>
-            <Girl0Icon>小師妹</Girl0Icon>比武招親事件，出現選項，選擇「群毆」戰敗。 
+            <Girl0Icon>小師妹</Girl0Icon>比武招親事件，出現選項，選擇「群毆」戰敗。<br>
             <MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，選擇跑路、戰勝、道德<40。<br>
         </td>
         <td>
