@@ -401,9 +401,11 @@ tags:
         四師兄江陵回歸<br>
     </td>
     <td style="text-align: center">
-        比試人選<br>
-        江湖救急<br>
-        指指點點<br>
+        <MarkdownWrapper>
+            比試人選<br>
+            江湖救急<br>
+            [指指點點](/event/simple/2-10-2-指指點點)<br>
+		</MarkdownWrapper>        
     </td>
 </tr>
 
@@ -419,17 +421,21 @@ tags:
     <td style="text-align: center">中</td>
     <td colspan = 3 style="text-align: center">-</td>
     <td style="text-align: center">
-        指指點點<br>
+        <MarkdownWrapper>
+            [指指點點](/event/simple/2-10-2-指指點點)<br>
+		</MarkdownWrapper>  
     </td>
 </tr>
 <tr>
     <td style="text-align: center">下</td>
     <td colspan = 3 style="text-align: center">-</td>
     <td style="text-align: center">
-        指指點點<br>
-        青城段考<br>
-        趙逵上山<br>
-        逃離青城<br>
+        <MarkdownWrapper>
+            [指指點點](/event/simple/2-10-2-指指點點)<br>
+            青城段考<br>
+            趙逵上山<br>
+            逃離青城<br>
+		</MarkdownWrapper> 
     </td>
 </tr>
 
