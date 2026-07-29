@@ -471,7 +471,7 @@ tags:
         </td>
         <td>
             唐門沒有收留葉家兄妹，留學崆峒派，江陵圍城戰前最後一夜，選擇打拳散心，處事≦40(知禮)會到宅外練功，轉盤骰到80以上，與女飛賊決鬥戰敗 <br> 
-            破廟線，選我先考慮一下後戰敗
+            見<MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，多個被殺結局。<br>
         </td>
         <td>
             -
@@ -730,6 +730,7 @@ tags:
             -
         </td>
         <td>
+            <MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，選擇攻打唐門戰敗。<br>
             第二年十二月下旬，廣州唐門來襲，背叛唐門（道德為壞人以下），並且被掌門或小師妹殺死
         </td>
         <td>
@@ -1057,6 +1058,7 @@ tags:
         </td>
         <td>
             <Girl0Icon>小師妹</Girl0Icon>比武招親事件，出現選項，選擇「群毆」戰敗。 
+            <MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，選擇跑路、戰勝、道德<40。<br>
         </td>
         <td>
             道德為壞人以下且沒拜師<Girl5Icon>夏侯蘭</Girl5Icon>
@@ -2252,7 +2254,7 @@ tags:
             -
         </td>
         <td>
-            破廟線 > 遇到一群怪人 > 怪人們走後 > 選「總之先考慮一下」 >  選「事不宜遲立刻上山報信」 >  選「倒在地上假裝屍體」 >  選「靜觀其變」 >  骰「這傢伙長得真醜，就刺他吧。」
+            <MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，躺在地上裝死被刺死。<br>
         </td>
         <td>
             <MarkdownWrapper>~~基金投資有賺有賠，申購前應詳閱公開說明書。~~</MarkdownWrapper>
@@ -2274,7 +2276,7 @@ tags:
             -
         </td>
         <td>
-            性情為謹慎的時候，在破廟線最後那段會多一個趕緊跑路的選項，選了之後會遇到敵人戰敗即好了
+            <MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，選擇跑路且戰敗。<br>
         </td>
         <td>
             -
