@@ -79,8 +79,8 @@ tags:
 <td>5</td>
 <td>第二年八月中旬</td>
 <td>破廟密謀</td>
-<td>• 在破廟得知陰謀後不可選擇📜「攻打唐門」或📜「跑路」。
-    <br>• 夜晚迎敵不要離開唐門(僅選擇大門才可能離開)。
+<td>• 在<MarkdownWrapper>[「破廟陰謀」](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件不可選擇📜「攻打唐門」或📜「跑路」。
+    <br>• <MarkdownWrapper>[「唐門迎敵」](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件不要🚩離開山路(僅選擇大門才可能離開)。
     <br>• 🗡️戰役過後(勝負無關)，需心上人為<Girl2Icon>葉雲裳</Girl2Icon>，以觸發青城留學。
 </td>
 <td>• 留學期間，因為主線是寫死的，故除了生存下去外沒有必要條件。
