@@ -154,7 +154,7 @@ tags:
     <td colspan = 2 style="text-align: center">
         <MarkdownWrapper>
             [破廟密謀](/event/simple/2-08-2-破廟密謀)<br>
-            唐門報信<br>
+            [唐門報信](/event/simple/2-08-2-唐門報信)<br>
             唐門迎敵<br>
         </MarkdownWrapper>
     </td>
