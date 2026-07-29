@@ -100,7 +100,7 @@ tags:
 </td>
 <td>
 <span style="color: Gray;">【離開唐門】</span><br>
-被趕出唐門，最終一事無成，泯於人海。
+<MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，選擇攻打唐門獲勝。<br>
 </td>
 </tr>
 <tr>
@@ -314,7 +314,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <span style="color: Gray;">【離開唐門】</span><br>
 <span style="color: #FF1493;">【破廟線】</span><br>
 不留學，負氣離開唐門，送小師妹(或加上葉雲裳)回唐門後，依然選擇永遠離開唐門，退隱江湖。<br>
-性情為謹慎的時候，在破廟線最後那段會多一個趕緊跑路的選項，遇到敵人並戰勝
+<MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，選擇跑路、戰勝、道德≥40。<br>
 </td>
 </tr>
 <tr>
