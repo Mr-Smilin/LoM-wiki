@@ -2,7 +2,7 @@
 title: 瑞杏 (ズイキョウ)
 tags:
     - 人物
-    - 可攻略女角
+    - 攻略可能ヒロイン
     - 杏花林
 aside: false
 ---
@@ -59,7 +59,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[萬里鵬程](/ja/people/characters/special6) (駕夫)
+					[万里鵬程](/ja/people/characters/special6) (駕夫)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -69,7 +69,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[溫夫人](/ja/people/characters/special402) (師父)
+					[温夫人](/ja/people/characters/special402) (師父)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -91,7 +91,7 @@ aside: false
 
 <br><br>
 
-江湖の騒乱から四国の戦禍に至るまで、すべてはこの人物が幕後に潜んで一手に操ってきたもの。万里の山河を碁盤に見立て、[溫夫人](/ja/people/characters/special402)と、[趙擴](/ja/people/characters/special817)と、[完顏珣](/ja/people/characters/special819)と、[成吉思汗](/ja/people/characters/special210)と対局する。衆生はみな盤上の石にすぎず、その生き死にを自分で選ぶことはできない。
+江湖の騒乱から四国の戦禍に至るまで、すべてはこの人物が幕後に潜んで一手に操ってきたもの。万里の山河を碁盤に見立て、[温夫人](/ja/people/characters/special402)と、[趙擴](/ja/people/characters/special817)と、[完顔珣](/ja/people/characters/special819)と、[成吉思汗](/ja/people/characters/special210)と対局する。衆生はみな盤上の石にすぎず、その生き死にを自分で選ぶことはできない。
 
 <br><br>
 
@@ -100,16 +100,18 @@ aside: false
 ## 備考
 
 -   ~~ブスフェチ~~
--   [錦香宮](/ja/people/factions/jin-xiang-palace)の宮殿の元の持ち主。11歳のとき、この宮殿を弟子入りの礼物にして、錦香閣の[溫夫人](/ja/people/characters/special402)から人の心を学んだ
--   上の続き: [溫夫人](/ja/people/characters/special402)が武林大会で口にした「杏花仙に願をかけて借りた十年」から逆算すると、瑞杏は21歳と思われる
+-   [錦香宮](/ja/people/factions/jin-xiang-palace)の宮殿の元の持ち主。11歳のとき、この宮殿を弟子入りの礼物にして、錦香閣の[温夫人](/ja/people/characters/special402)から人の心を学んだ
+-   上の続き: [温夫人](/ja/people/characters/special402)が武林大会で口にした「杏花仙に願をかけて借りた十年」から逆算すると、瑞杏は21歳と思われる
 -   大宋皇帝 ([趙擴](/ja/people/characters/special817)) でさえ、彼女の前では下手に出るしかない
 -   [趙活](/ja/people/characters/player)に好意を持っており、彼のためなら星も摘んでみせる。ただし、どれほど愛しているかは秘密。[^1]
 -   夢の中で錦嚢を開くと、想い人が強制的に変わる
--   鷹人 ([萬里鵬程](/ja/people/characters/special6)) と点蒼劍聖 ([無名](/ja/people/characters/special406)) が彼女の輿を担いでいる
+-   鷹人 ([万里鵬程](/ja/people/characters/special6)) と点蒼剣聖 ([無名](/ja/people/characters/special406)) が彼女の輿を担いでいる
 -   侍女として[書蓉](/ja/people/characters/special818)を従えている
 -   瑞家の族長であり、[瑞笙](/ja/people/characters/special999)に「自分を妹と認めろ」と要求している。認めなければ族譜から除名するとのこと
 -   瑞家は浮世離れした一族で、「山中に歳月なし」を自称する。そのため瑞杏の装いは前王朝ふうの襦裙 (じゅくん) に近い。生地はすべて西域渡りの風通しのよい上物で、刺繍こそないが、質素に見えて実はかなりの高級品
 -   髪を結ったり簪を挿したりするのは時間の無駄だと嫌っている。髪飾りはたいてい、彼女が考えごとでぼんやりしている隙を見計らって[書蓉](/ja/people/characters/special818)がこっそり着けたもの
+-   服飾は宋代よりも唐代の風格に近い
+-   <MarkdownWrapper>||[趙活](/ja/people/characters/player)が夢の中で出会う瑞杏と、実際の物語で世間の棋局を操る瑞杏は、別の時空の存在と見なしてよい。ただし瑞杏の物語は現時点では明かされていない||</MarkdownWrapper>
 
 ## ギャラリー
 

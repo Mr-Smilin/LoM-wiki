@@ -1,5 +1,5 @@
 ---
-title: 方獨弱 (ホウドクジャク)
+title: 方独弱 (ホウドクジャク)
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -12,7 +12,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="方獨弱">
+	<ChTab title="方独弱">
 		<Ch src='/images/characters/special837/normal.webp' position='right'/>
 		<ChName nameZh='方獨弱' nameEn='Fang Duruo' position='right' />
 		<ChTable>

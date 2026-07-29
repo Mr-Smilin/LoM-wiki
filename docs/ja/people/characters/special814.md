@@ -1,5 +1,5 @@
 ---
-title: 萬勝 (バンショウ)
+title: 万勝 (バンショウ)
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -11,7 +11,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="萬勝">
+	<ChTab title="万勝">
 		<Ch src='/images/characters/special814/normal.webp' position='right'/>
 		<ChName nameZh='萬勝' nameEn='Wan Sheng' position='right' />
 		<ChTable>
@@ -37,7 +37,7 @@ tags:
 
 <br>
 
-河南の『緑林皇帝』、萬勝『金刀万』。
+河南の『緑林皇帝』、万勝『金刀万』。
 
 <br>
 

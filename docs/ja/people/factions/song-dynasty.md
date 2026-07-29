@@ -56,7 +56,7 @@ tags:
 
 <br>
 
-武林との関係は不仲で、[唐門](/ja/people/factions/tang-men.md)の劫法場事件の後、暗中に[上官世家](/ja/people/factions/shang-guan-family.md)に唐門を弱体化させるよう命じ、これを滅ぼそうとしています。
+武林との関係は不仲で、[唐門](/ja/people/factions/tang-men.md)の刑場破り事件の後、暗中に[上官世家](/ja/people/factions/shang-guan-family.md)に唐門を弱体化させるよう命じ、これを滅ぼそうとしています。
 <br clear="all">
 
 ## 武林盟主

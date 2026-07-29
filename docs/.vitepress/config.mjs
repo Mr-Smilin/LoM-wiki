@@ -7,6 +7,8 @@ import {
 	GitChangelog,
 	GitChangelogMarkdownSection,
 } from "@nolebase/vitepress-plugin-git-changelog/vite";
+// CJK 強調記法 (「**強調**を選択」等、全角約物の直後に閉じ ** が来る場合の CommonMark 非対応を修正)
+import cjkFriendly from "markdown-it-cjk-friendly";
 // 註腳
 import footnote from "markdown-it-footnote";
 import { withMermaid } from "vitepress-plugin-mermaid";
@@ -632,7 +634,6 @@ const baseConfig = {
 						text: "人物",
 						items: [
 							{ text: "人物一覧", link: "/ja/people/characters/" },
-							{ text: "夢境の想い人", link: "/ja/people/dream-sweetheart" },
 							{ text: "称号一覧", link: "/ja/people/title-list" },
 							{ text: "陣営一覧", link: "/ja/people/factions/" },
 							{ text: "江湖の人々", link: "/ja/people/mobs/" },
@@ -675,6 +676,7 @@ const baseConfig = {
 							{ text: "風雲史 (実績)", link: "/ja/event/achievements" },
 							{ text: "生死簿 (バッドエンド)", link: "/ja/event/badends" },
 							{ text: "汗青書 (エンディング)", link: "/ja/event/ends" },
+							{ text: "夢境の想い人", link: "/ja/event/pursuit" },
 						],
 						activeMatch: "/ja/event/",
 					},
@@ -688,6 +690,7 @@ const baseConfig = {
 							},
 							{ text: "鳥熊 Q&A 集", link: "/ja/other/qna/" },
 							{ text: "用語対訳表", link: "/ja/glossary" },
+							{ text: "用語解説 (武侠ジャンル用語)", link: "/ja/other/terminology" },
 							{ text: "呼称表", link: "/ja/address-terms" },
 							{ text: "一人称表", link: "/ja/first-person-pronouns" },
 							{
@@ -927,15 +930,42 @@ const baseConfig = {
 		},
 		component: {
 			blockTags: [],
-			inlineTags: [],
+			// 行頭のアイコンコンポーネントがブロック扱いになると、その行が生 HTML として
+			// markdown 処理を素通りし、同じ行の **強調** が展開されない。インライン指定で回避する。
+			inlineTags: [
+				"AchievementIcon",
+				"BadendIcon",
+				"BookItemIcon",
+				"EndIcon",
+				"FoodItemIcon",
+				"Girl0Icon",
+				"Girl1Icon",
+				"Girl2Icon",
+				"Girl3Icon",
+				"Girl4Icon",
+				"Girl5Icon",
+				"Girl6Icon",
+				"Girl7Icon",
+				"Girl8Icon",
+				"MoodIcon",
+				"NewspaperItemIcon",
+				"SpecialItemIcon",
+				"TeaItemIcon",
+				"WineItemIcon",
+			],
 		},
 		config: (md) => {
+			// CJK 強調: 約物+助詞の連続で強調が閉じない CommonMark 挙動を CJK 拡張規則で置換
+			md.use(cjkFriendly);
+
 			// wikilinks
 			md.inline.ruler.before("link", "wikilink", (state, silent) => {
-				if (state.src.charAt(state.pos) === "<") {
+				// 走査位置そのものが [[ で始まる場合のみ処理する。未アンカーで exec すると
+				// 後方にある [[...]] にマッチし、その手前のテキストごと食い潰す。
+				if (state.src.charAt(state.pos) !== "[") {
 					return false;
 				}
-				const regex = /\[\[(.*?)\]\]/;
+				const regex = /^\[\[(.*?)\]\]/;
 				const match = regex.exec(state.src.slice(state.pos));
 				if (!match) return false;
 

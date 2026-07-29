@@ -1,5 +1,5 @@
 ---
-title: 米歐寬 (ベイオウカン)
+title: 米欧寬 (ベイオウカン)
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -12,7 +12,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="米歐寬">
+    <ChTab title="米欧寬">
         <Ch src='/images/characters/lingnan_trainee/trainee3_normal.webp' position='right'/>
         <ChName nameZh='米歐寬' nameEn='Mi O Kuan' position='right' />
         <ChTable>
@@ -31,7 +31,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [南溪](/ja/people/characters/special829) (師姉)
+                    [南渓](/ja/people/characters/special829) (師姉)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -58,7 +58,7 @@ tags:
     </ChTab>
 </ChTabs>
 
-> 「おお……おおお……成功した……誹謗に成功した。気持ちいい……!著名な蒼松劍客も、我が一張りの口で軽々と操られてしまい、我は責任も負わない。これが言葉の力だ!」
+> 「おお……おおお……成功した……誹謗に成功した。気持ちいい……!著名な蒼松剣客も、我が一張りの口で軽々と操られてしまい、我は責任も負わない。これが言葉の力だ!」
 
 [嶺南派](/ja/people/factions/lingnan-sect)弟子。嶺南四醜の一人。
 
@@ -66,4 +66,4 @@ tags:
 
 一本の剣を背負っているが、武功のない小二にも敵わない。
 
-武林大会で[唐門](/ja/people/factions/tang-men)を魔教の党派だと誹謗する。その後、客舎で[南溪](/ja/people/characters/special829)に遭い、一剣で殺される。
+武林大会で[唐門](/ja/people/factions/tang-men)を魔教の党派だと誹謗する。その後、客舎で[南渓](/ja/people/characters/special829)に遭い、一剣で殺される。

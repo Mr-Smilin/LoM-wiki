@@ -31,7 +31,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [南溪](/ja/people/characters/special829) (師姉)
+                    [南渓](/ja/people/characters/special829) (師姉)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -51,7 +51,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [米歐寬](/ja/people/characters/lingnan_trainee3) (師妹)
+                    [米欧寬](/ja/people/characters/lingnan_trainee3) (師妹)
                 </ChTd>
             </ChTr>
         </ChTable>
@@ -64,4 +64,4 @@ tags:
 <br><br>
 かつて臨安で[魏菊](/ja/people/characters/girl7)を貶めて中傷した。彼女は官界に入る前から同僚に恨まれるようになり、粗野な武官に無理やり下嫁させられて、一生詩を書かないと誓った。このことについて得意気にしており、[林志恆](/ja/people/characters/lingnan_trainee1)と誰が優れているかで言い争っている。
 <br><br>
-武林大会で[唐門](/ja/people/factions/tang-men)を魔教の党派だと誹謗した。その後、旅宿で[南溪](/ja/people/characters/special829)に遭い、一刀で斬られて死ぬ。
+武林大会で[唐門](/ja/people/factions/tang-men)を魔教の党派だと誹謗した。その後、旅宿で[南渓](/ja/people/characters/special829)に遭い、一刀で斬られて死ぬ。

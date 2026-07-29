@@ -13,7 +13,7 @@ tags:
 
 <BTable :stickyHeader=true searchMode="or"
   :tags="[
-    { text: '可攻略女角'},
+    { text: '攻略可能ヒロイン'},
     { text: '蜀中唐門'},
     { text: '広州唐門' },
     { text: '南宮世家' },
@@ -26,17 +26,17 @@ tags:
     { text: '崆峒派' },
     { text: '飛天門' },
     { text: '奪魄門' },
-    { text: '鐵拳門' },
+    { text: '鉄拳門' },
     { text: '玄功門' },
-    { text: '丐幫'},
-    { text: '滄幫'},
-    { text: '飛石幫' },
-	{ text: '白鯊幫'},
-	{ text: '極樂教' },
+    { text: '丐幇'},
+    { text: '滄幇'},
+    { text: '飛石幇' },
+	{ text: '白鯊幇'},
+	{ text: '極楽教' },
 	{ text: '泥教' },
-	{ text: '千燈樓' },
+	{ text: '千灯楼' },
 	{ text: '錦香宮' },
-	{ text: '火炎山劍閣' },
+	{ text: '火炎山剣閣' },
     { text: '大宋' },
     { text: '大金' },
 	{ text: '大理' },
@@ -45,7 +45,7 @@ tags:
     { text: '孤雲山派' },
 	{ text: '嶺南派' },
     { text: '杏花林' },
-    { text: '耕陽讀書齋' },
+    { text: '耕陽読書齋' },
     { text: 'その他' }
   ]">
 
@@ -54,43 +54,43 @@ tags:
 	<td>所属</td>
 </tr>
 <tr>
-	<td>[趙活](/ja/people/characters/player)</td>
+	<td><MarkdownWrapper>[趙活](/ja/people/characters/player)</MarkdownWrapper></td>
 	<td>蜀中唐門</td>
 </tr>
 <tr>
-	<td>[唐中翎](/ja/people/characters/master)</td>
+	<td><MarkdownWrapper>[唐中翎](/ja/people/characters/master)</MarkdownWrapper></td>
 	<td>蜀中唐門</td>
 </tr>
 <tr>
-	<td>[唐鹿](/ja/people/characters/other10)</td>
+	<td><MarkdownWrapper>[唐鹿](/ja/people/characters/other10)</MarkdownWrapper></td>
 	<td>蜀中唐門</td>
 </tr>
 <tr>
-	<td>[唐布衣](/ja/people/characters/brother1)</td>
+	<td><MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper></td>
 	<td>蜀中唐門</td>
 </tr>
 <tr>
-	<td>[唐錚](/ja/people/characters/brother2)</td>
-	<td>蜀中唐門<br>錦香宮<br>泥教 - 人間道<br>千燈樓</td>
+	<td><MarkdownWrapper>[唐錚](/ja/people/characters/brother2)</MarkdownWrapper></td>
+	<td>蜀中唐門<br>錦香宮<br>泥教 - 人間道<br>千灯楼</td>
 </tr>
 <tr>
-	<td>[唐陞](/ja/people/characters/brother3)</td>
+	<td><MarkdownWrapper>[唐陞](/ja/people/characters/brother3)</MarkdownWrapper></td>
 	<td>蜀中唐門</td>
 </tr>
 <tr>
-	<td>[唐惟元](/ja/people/characters/brother4)</td>
+	<td><MarkdownWrapper>[唐惟元](/ja/people/characters/brother4)</MarkdownWrapper></td>
 	<td>蜀中唐門</td>
 </tr>
 <tr>
-	<td>[唐默鈴](/ja/people/characters/girl0)</td>
-	<td>蜀中唐門<br>可攻略女角</td>
+	<td><MarkdownWrapper>[唐默鈴](/ja/people/characters/girl0)</MarkdownWrapper></td>
+	<td>蜀中唐門<br>攻略可能ヒロイン</td>
 </tr>
 <tr>
-	<td>[唐芳](/ja/people/characters/special832)</td>
+	<td><MarkdownWrapper>[唐芳](/ja/people/characters/special832)</MarkdownWrapper></td>
 	<td>蜀中唐門</td>
 </tr>
 <tr>
-	<td>[唐小樓](/ja/people/characters/aunt2)</td>
+	<td><MarkdownWrapper>[唐小楼](/ja/people/characters/aunt2)</MarkdownWrapper></td>
 	<td>蜀中唐門</td>
 </tr>
 <tr>
@@ -98,411 +98,411 @@ tags:
 	<td>峨嵋派<br>蜀中唐門</td>
 </tr>
 <tr>
-	<td>[許大鯨](/ja/people/characters/big_shock1)</td>
-	<td>滄幫<br>蜀中唐門</td>
+	<td><MarkdownWrapper>[許大鯨](/ja/people/characters/big_shock1)</MarkdownWrapper></td>
+	<td>滄幇<br>蜀中唐門</td>
 </tr>
 <tr>
-	<td>[晁和](/ja/people/characters/special208)</td>
+	<td><MarkdownWrapper>[晁和](/ja/people/characters/special208)</MarkdownWrapper></td>
 	<td>嶺南派<br>蜀中唐門<br>広州唐門</td>
 </tr>
 <tr>
-	<td>[石公遠](/ja/people/characters/special7)</td>
-	<td>飛石幫</td>
+	<td><MarkdownWrapper>[石公遠](/ja/people/characters/special7)</MarkdownWrapper></td>
+	<td>飛石幇</td>
 </tr>
 <tr>
-	<td>[石夫人](/ja/people/characters/special815)</td>
-	<td>飛石幫</td>
+	<td><MarkdownWrapper>[石夫人](/ja/people/characters/special815)</MarkdownWrapper></td>
+	<td>飛石幇</td>
 </tr>
 <tr>
-	<td>[觀雲客](/ja/people/characters/special202)</td>
+	<td><MarkdownWrapper>[観雲客](/ja/people/characters/special202)</MarkdownWrapper></td>
 	<td>点蒼派</td>
 </tr>
 <tr>
-	<td>[聽海生](/ja/people/characters/special203)</td>
+	<td><MarkdownWrapper>[聴海生](/ja/people/characters/special203)</MarkdownWrapper></td>
 	<td>点蒼派</td>
 </tr>
 <tr>
-	<td>[葉雲舟](/ja/people/characters/special3)</td>
+	<td><MarkdownWrapper>[葉雲舟](/ja/people/characters/special3)</MarkdownWrapper></td>
 	<td>点蒼派</td>
 </tr>
 <tr>
-	<td>[葉雲裳](/ja/people/characters/girl2)</td>
-	<td>点蒼派<br>可攻略女角</td>
+	<td><MarkdownWrapper>[葉雲裳](/ja/people/characters/girl2)</MarkdownWrapper></td>
+	<td>点蒼派<br>攻略可能ヒロイン</td>
 </tr>
 <tr>
-	<td>[葉雲啾](/ja/people/characters/girl2_2)</td>
+	<td><MarkdownWrapper>[葉雲啾](/ja/people/characters/girl2_2)</MarkdownWrapper></td>
 	<td>点蒼派</td>
 </tr>
 <tr>
-	<td>[王二壯](/ja/people/characters/special401)</td>
-	<td>丐幫<br>泥教 - 畜牲道</td>
+	<td><MarkdownWrapper>[王二壮](/ja/people/characters/special401)</MarkdownWrapper></td>
+	<td>丐幇<br>泥教 - 畜牲道</td>
 </tr>
 <tr>
-	<td>[李富貴](/ja/people/characters/special809)</td>
-	<td>丐幫</td>
+	<td><MarkdownWrapper>[李富貴](/ja/people/characters/special809)</MarkdownWrapper></td>
+	<td>丐幇</td>
 </tr>
 <tr>
-	<td>[樊嘯天](/ja/people/characters/special4)</td>
-	<td>丐幫<br>雪山派</td>
+	<td><MarkdownWrapper>[樊嘯天](/ja/people/characters/special4)</MarkdownWrapper></td>
+	<td>丐幇<br>雪山派</td>
 </tr>
 <tr>
-	<td>[阿叔](/ja/people/characters/other17)</td>
-	<td>丐幫</td>
+	<td><MarkdownWrapper>[阿叔](/ja/people/characters/other17)</MarkdownWrapper></td>
+	<td>丐幇</td>
 </tr>
 <tr>
-	<td>[龍淵](/ja/people/characters/special2)</td>
-	<td>丐幫</td>
+	<td><MarkdownWrapper>[龍淵](/ja/people/characters/special2)</MarkdownWrapper></td>
+	<td>丐幇</td>
 </tr>
 <tr>
-	<td>[千金叟](/ja/people/characters/other19)</td>
-	<td>丐幫</td>
+	<td><MarkdownWrapper>[千金叟](/ja/people/characters/other19)</MarkdownWrapper></td>
+	<td>丐幇</td>
 </tr>
 <tr>
-	<td>[覺慧](/ja/people/characters/special410)</td>
+	<td><MarkdownWrapper>[覚慧](/ja/people/characters/special410)</MarkdownWrapper></td>
 	<td>嵩山派 - 北院</td>
 </tr>
 <tr>
-	<td>[覺醒](/ja/people/characters/monk2)</td>
+	<td><MarkdownWrapper>[覚醒](/ja/people/characters/monk2)</MarkdownWrapper></td>
 	<td>嵩山派 - 北院</td>
 </tr>
 <tr>
-	<td>[福韞](/ja/people/characters/special206)</td>
+	<td><MarkdownWrapper>[福韞](/ja/people/characters/special206)</MarkdownWrapper></td>
 	<td>嵩山派 - 北院</td>
 </tr>
 <tr>
-	<td>[釋明](/ja/people/characters/special826)</td>
+	<td><MarkdownWrapper>[釈明](/ja/people/characters/special826)</MarkdownWrapper></td>
 	<td>嵩山派 - 南院</td>
 </tr>
 <tr>
-	<td>[尹志平](/ja/people/characters/special205)</td>
+	<td><MarkdownWrapper>[尹志平](/ja/people/characters/special205)</MarkdownWrapper></td>
 	<td>全真派</td>
 </tr>
 <tr>
-	<td>[丘處機](/ja/people/characters/special209)</td>
+	<td><MarkdownWrapper>[丘處機](/ja/people/characters/special209)</MarkdownWrapper></td>
 	<td>全真派</td>
 </tr>
 <tr>
-	<td>[郝大通](/ja/people/characters/other4)</td>
+	<td><MarkdownWrapper>[郝大通](/ja/people/characters/other4)</MarkdownWrapper></td>
 	<td>全真派</td>
 </tr>
 <tr>
-	<td>[火龍仙君](/ja/people/characters/special204)</td>
+	<td><MarkdownWrapper>[火龍仙君](/ja/people/characters/special204)</MarkdownWrapper></td>
 	<td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
-	<td>[金烏上人](/ja/people/characters/special207)</td>
-	<td>崆峒派 - 飛天門<br>千燈樓</td>
+	<td><MarkdownWrapper>[金烏上人](/ja/people/characters/special207)</MarkdownWrapper></td>
+	<td>崆峒派 - 飛天門<br>千灯楼</td>
 </tr>
 <tr>
-	<td>[丹霞子](/ja/people/characters/special404)</td>
+	<td><MarkdownWrapper>[丹霞子](/ja/people/characters/special404)</MarkdownWrapper></td>
 	<td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
-	<td>[阿鶴俠](/ja/people/characters/special805)</td>
+	<td><MarkdownWrapper>[阿鶴俠](/ja/people/characters/special805)</MarkdownWrapper></td>
 	<td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
-	<td>[虞小梅](/ja/people/characters/girl3)</td>
-	<td>崆峒派 - 飛天門<br>千燈樓<br>可攻略女角(未完成)</td>
+	<td><MarkdownWrapper>[虞小梅](/ja/people/characters/girl3)</MarkdownWrapper></td>
+	<td>崆峒派 - 飛天門<br>千灯楼<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
-	<td>[火閃電](/ja/people/characters/firebird1)</td>
+	<td><MarkdownWrapper>[火閃電](/ja/people/characters/firebird1)</MarkdownWrapper></td>
 	<td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
-	<td>[顏疆](/ja/people/characters/trainee204)</td>
+	<td><MarkdownWrapper>[顔疆](/ja/people/characters/trainee204)</MarkdownWrapper></td>
 	<td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
-	<td>[雷謙](/ja/people/characters/special804)</td>
-	<td>崆峒派 - 鐵拳門</td>
+	<td><MarkdownWrapper>[雷謙](/ja/people/characters/special804)</MarkdownWrapper></td>
+	<td>崆峒派 - 鉄拳門</td>
 </tr>
 <tr>
-	<td>[孟瞋](/ja/people/characters/other1)</td>
-	<td>崆峒派 - 鐵拳門</td>
+	<td><MarkdownWrapper>[孟瞋](/ja/people/characters/other1)</MarkdownWrapper></td>
+	<td>崆峒派 - 鉄拳門</td>
 </tr>
 <tr>
-	<td>[郁竹](/ja/people/characters/girl6)</td>
-	<td>崆峒派 - 鐵拳門<br>可攻略女角(未完成)</td>
+	<td><MarkdownWrapper>[郁竹](/ja/people/characters/girl6)</MarkdownWrapper></td>
+	<td>崆峒派 - 鉄拳門<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
-	<td>[童大蟲](/ja/people/characters/trainee214)</td>
-	<td>崆峒派 - 鐵拳門</td>
+	<td><MarkdownWrapper>[童大虫](/ja/people/characters/trainee214)</MarkdownWrapper></td>
+	<td>崆峒派 - 鉄拳門</td>
 </tr>
 <tr>
-	<td>[勾魂叟](/ja/people/characters/special806)</td>
-	<td>崆峒派 - 奪魄門<br>千燈樓</td>
+	<td><MarkdownWrapper>[勾魂叟](/ja/people/characters/special806)</MarkdownWrapper></td>
+	<td>崆峒派 - 奪魄門<br>千灯楼</td>
 </tr>
 <tr>
-	<td>[夏侯蘭](/ja/people/characters/girl5)</td>
-	<td>崆峒派 - 奪魄門<br>雪山派<br>可攻略女角</td>
+	<td><MarkdownWrapper>[夏侯蘭](/ja/people/characters/girl5)</MarkdownWrapper></td>
+	<td>崆峒派 - 奪魄門<br>雪山派<br>攻略可能ヒロイン</td>
 </tr>
 <tr>
-	<td>[余麟](/ja/people/characters/trainee224)</td>
+	<td><MarkdownWrapper>[余麟](/ja/people/characters/trainee224)</MarkdownWrapper></td>
 	<td>崆峒派 - 奪魄門</td>
 </tr>
 <tr>
-	<td>[第三香](/ja/people/characters/special820)</td>
+	<td><MarkdownWrapper>[第三香](/ja/people/characters/special820)</MarkdownWrapper></td>
 	<td>崆峒派 - 奪魄門<br>雪山派</td>
 </tr>
 <tr>
-	<td>[魏菊](/ja/people/characters/girl7)</td>
-	<td>崆峒派 - 玄功門<br>耕陽讀書齋<br>可攻略女角(未完成)</td>
+	<td><MarkdownWrapper>[魏菊](/ja/people/characters/girl7)</MarkdownWrapper></td>
+	<td>崆峒派 - 玄功門<br>耕陽読書齋<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
-	<td>[呼延菊](/ja/people/characters/special822)</td>
+	<td><MarkdownWrapper>[呼延菊](/ja/people/characters/special822)</MarkdownWrapper></td>
 	<td>崆峒派 - 玄功門</td>
 </tr>
 <tr>
-	<td>[閻羅生](/ja/people/characters/other2)</td>
+	<td><MarkdownWrapper>[閻羅生](/ja/people/characters/other2)</MarkdownWrapper></td>
 	<td>崆峒派 - 玄功門</td>
 </tr>
 <tr>
-	<td>[鞠冬音](/ja/people/characters/trainee234)</td>
+	<td><MarkdownWrapper>[鞠冬音](/ja/people/characters/trainee234)</MarkdownWrapper></td>
 	<td>崆峒派 - 玄功門</td>
 </tr>
 <tr>
-	<td>[鄒博](/ja/people/characters/special201)</td>
+	<td><MarkdownWrapper>[鄒博](/ja/people/characters/special201)</MarkdownWrapper></td>
 	<td>青城派</td>
 </tr>
 <tr>
-	<td>[申屠龍](/ja/people/characters/special405)</td>
-	<td>青城派<br>極樂教<br>千燈樓</td>
+	<td><MarkdownWrapper>[申屠龍](/ja/people/characters/special405)</MarkdownWrapper></td>
+	<td>青城派<br>極楽教<br>千灯楼</td>
 </tr>
 <tr>
-	<td>[向無憂](/ja/people/characters/special408)</td>
+	<td><MarkdownWrapper>[向無憂](/ja/people/characters/special408)</MarkdownWrapper></td>
 	<td>峨嵋派</td>
 </tr>
 <tr>
-	<td>[解無塵](/ja/people/characters/special808)</td>
+	<td><MarkdownWrapper>[解無塵](/ja/people/characters/special808)</MarkdownWrapper></td>
 	<td>峨嵋派</td>
 </tr>
 <tr>
-	<td>[溫無畏](/ja/people/characters/other13)</td>
+	<td><MarkdownWrapper>[温無畏](/ja/people/characters/other13)</MarkdownWrapper></td>
 	<td>峨嵋派</td>
 </tr>
 <tr>
-	<td>[龍湘](/ja/people/characters/girl8)</td>
-	<td>錦香宮<br>可攻略女角</td>
+	<td><MarkdownWrapper>[龍湘](/ja/people/characters/girl8)</MarkdownWrapper></td>
+	<td>錦香宮<br>攻略可能ヒロイン</td>
 </tr>
 <tr>
-	<td>[溫夫人](/ja/people/characters/special402)</td>
+	<td><MarkdownWrapper>[温夫人](/ja/people/characters/special402)</MarkdownWrapper></td>
 	<td>錦香宮<br>泥教 - 人間道</td>
 </tr>
 <tr>
-	<td>[畫中仙](/ja/people/characters/special813)</td>
+	<td><MarkdownWrapper>[画中仙](/ja/people/characters/special813)</MarkdownWrapper></td>
 	<td>錦香宮<br>泥教 - 人間道</td>
 </tr>
 <tr>
-	<td>[盛雪](/ja/people/characters/other12)</td>
+	<td><MarkdownWrapper>[盛雪](/ja/people/characters/other12)</MarkdownWrapper></td>
 	<td>錦香宮<br>泥教 - 人間道</td>
 </tr>
 <tr>
-	<td>[明玉](/ja/people/characters/other18)</td>
+	<td><MarkdownWrapper>[明玉](/ja/people/characters/other18)</MarkdownWrapper></td>
 	<td>錦香宮<br>泥教 - 人間道</td>
 </tr>
 <tr>
-	<td>[段純青](/ja/people/characters/other15)</td>
-	<td>火炎山劍閣</td>
+	<td><MarkdownWrapper>[段純青](/ja/people/characters/other15)</MarkdownWrapper></td>
+	<td>火炎山剣閣</td>
 </tr>
 <tr>
-	<td>[南宮橫](/ja/people/characters/special104)</td>
+	<td><MarkdownWrapper>[南宮橫](/ja/people/characters/special104)</MarkdownWrapper></td>
 	<td>南宮世家</td>
 </tr>
 <tr>
-	<td>[南宮遠](/ja/people/characters/special101)</td>
+	<td><MarkdownWrapper>[南宮遠](/ja/people/characters/special101)</MarkdownWrapper></td>
 	<td>南宮世家</td>
 </tr>
 <tr>
-	<td>[南宮深](/ja/people/characters/special102)</td>
+	<td><MarkdownWrapper>[南宮深](/ja/people/characters/special102)</MarkdownWrapper></td>
 	<td>南宮世家</td>
 </tr>
 <tr>
-	<td>[南宮淺](/ja/people/characters/special103)</td>
+	<td><MarkdownWrapper>[南宮淺](/ja/people/characters/special103)</MarkdownWrapper></td>
 	<td>南宮世家</td>
 </tr>
 <tr>
-	<td>[上官螢](/ja/people/characters/girl4)</td>
-	<td>上官世家<br>滄幫<br>可攻略女角(未完成)</td>
+	<td><MarkdownWrapper>[上官螢](/ja/people/characters/girl4)</MarkdownWrapper></td>
+	<td>上官世家<br>滄幇<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
-	<td>[上官隼](/ja/people/characters/special407)</td>
-	<td>上官世家<br>滄幫</td>
+	<td><MarkdownWrapper>[上官隼](/ja/people/characters/special407)</MarkdownWrapper></td>
+	<td>上官世家<br>滄幇</td>
 </tr>
 <tr>
-	<td>[宋悲](/ja/people/characters/special800)</td>
+	<td><MarkdownWrapper>[宋悲](/ja/people/characters/special800)</MarkdownWrapper></td>
 	<td>大宋</td>
 </tr>
 <tr>
-	<td>[趙擴](/ja/people/characters/special817)</td>
+	<td><MarkdownWrapper>[趙擴](/ja/people/characters/special817)</MarkdownWrapper></td>
 	<td>大宋</td>
 </tr>
 <tr>
-	<td>[趙方](/ja/people/characters/soldier31)</td>
+	<td><MarkdownWrapper>[趙方](/ja/people/characters/soldier31)</MarkdownWrapper></td>
 	<td>大宋</td>
 </tr>
 <tr>
-	<td>[完顏珣](/ja/people/characters/special819)</td>
+	<td><MarkdownWrapper>[完顔珣](/ja/people/characters/special819)</MarkdownWrapper></td>
 	<td>大金</td>
 </tr>
 <tr>
-	<td>[僕散安貞](/ja/people/characters/other6)</td>
+	<td><MarkdownWrapper>[僕散安貞](/ja/people/characters/other6)</MarkdownWrapper></td>
 	<td>大金</td>
 </tr>
 <tr>
-	<td>[成吉思汗](/ja/people/characters/special210)</td>
+	<td><MarkdownWrapper>[成吉思汗](/ja/people/characters/special210)</MarkdownWrapper></td>
 	<td>蒙古</td>
 </tr>
 <tr>
-	<td>[李仁友](/ja/people/characters/other7)</td>
-	<td>極樂教<br>千燈樓</td>
+	<td><MarkdownWrapper>[李仁友](/ja/people/characters/other7)</MarkdownWrapper></td>
+	<td>極楽教<br>千灯楼</td>
 </tr>
 <tr>
-	<td>[袁無憲](/ja/people/characters/special823)</td>
-	<td>極樂教</td>
+	<td><MarkdownWrapper>[袁無憲](/ja/people/characters/special823)</MarkdownWrapper></td>
+	<td>極楽教</td>
 </tr>
 <tr>
-	<td>[荊紅](/ja/people/characters/special824)</td>
-	<td>極樂教<br>崆峒派 - 奪魄門</td>
+	<td><MarkdownWrapper>[荊紅](/ja/people/characters/special824)</MarkdownWrapper></td>
+	<td>極楽教<br>崆峒派 - 奪魄門</td>
 </tr>
 <tr>
-	<td>[袁乘風](/ja/people/characters/other11)</td>
-	<td>極樂教<br>峨嵋派</td>
+	<td><MarkdownWrapper>[袁乘風](/ja/people/characters/other11)</MarkdownWrapper></td>
+	<td>極楽教<br>峨嵋派</td>
 </tr>
 <tr>
-	<td>[劉顎](/ja/people/characters/special1)</td>
-	<td>白鯊幫<br>泥教 - 餓鬼道</td>
+	<td><MarkdownWrapper>[劉顎](/ja/people/characters/special1)</MarkdownWrapper></td>
+	<td>白鯊幇<br>泥教 - 餓鬼道</td>
 </tr>
 <tr>
-	<td>[趙逵](/ja/people/characters/special403)</td>
+	<td><MarkdownWrapper>[趙逵](/ja/people/characters/special403)</MarkdownWrapper></td>
 	<td>泥教 - 地獄道<br>青城派</td>
 </tr>
 <tr>
-	<td>[車軒轅](/ja/people/characters/special409)</td>
+	<td><MarkdownWrapper>[車軒轅](/ja/people/characters/special409)</MarkdownWrapper></td>
 	<td>泥教 - 天道</td>
 </tr>
 <tr>
-	<td>[唐守鴻](/ja/people/characters/special812)</td>
+	<td><MarkdownWrapper>[唐守鴻](/ja/people/characters/special812)</MarkdownWrapper></td>
 	<td>広州唐門</td>
 </tr>
 <tr>
-	<td>[唐衫](/ja/people/characters/special811)</td>
+	<td><MarkdownWrapper>[唐衫](/ja/people/characters/special811)</MarkdownWrapper></td>
 	<td>広州唐門<br>蜀中唐門</td>
 </tr>
 <tr>
-	<td>[瑞笙](/ja/people/characters/special999)</td>
+	<td><MarkdownWrapper>[瑞笙](/ja/people/characters/special999)</MarkdownWrapper></td>
 	<td>孤雲山派</td>
 </tr>
 <tr>
-	<td>[孟仙謠](/ja/people/characters/special831)</td>
+	<td><MarkdownWrapper>[孟仙謡](/ja/people/characters/special831)</MarkdownWrapper></td>
 	<td>孤雲山派</td>
 </tr>
 <tr>
-	<td>[夏靈犀](/ja/people/characters/special825)</td>
+	<td><MarkdownWrapper>[夏霊犀](/ja/people/characters/special825)</MarkdownWrapper></td>
 	<td>孤雲山派</td>
 </tr>
 <tr>
-	<td>[南溪](/ja/people/characters/special829)</td>
+	<td><MarkdownWrapper>[南渓](/ja/people/characters/special829)</MarkdownWrapper></td>
 	<td>嶺南派<br>孤雲山派</td>
 </tr>
 <tr>
-	<td>[梁有詩](/ja/people/characters/special830)</td>
+	<td><MarkdownWrapper>[梁有詩](/ja/people/characters/special830)</MarkdownWrapper></td>
 	<td>孤雲山派</td>
 </tr>
 <tr>
-	<td>[瑞杏](/ja/people/characters/girl1)</td>
-	<td>杏花林<br>可攻略女角(未完成)</td>
+	<td><MarkdownWrapper>[瑞杏](/ja/people/characters/girl1)</MarkdownWrapper></td>
+	<td>杏花林<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
-	<td>[書蓉](/ja/people/characters/special818)</td>
+	<td><MarkdownWrapper>[書蓉](/ja/people/characters/special818)</MarkdownWrapper></td>
 	<td>杏花林<br>上官世家</td>
 </tr>
 <tr>
-	<td>[萬里鵬程](/ja/people/characters/special6)</td>
+	<td><MarkdownWrapper>[万里鵬程](/ja/people/characters/special6)</MarkdownWrapper></td>
 	<td>杏花林<br>嵩山派</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[無名](/ja/people/characters/special406)</MarkdownWrapper><br>(点蒼劍聖)</td>
+	<td><MarkdownWrapper>[無名](/ja/people/characters/special406)</MarkdownWrapper><br>(点蒼剣聖)</td>
 	<td>杏花林<br>点蒼派</td>
 </tr>
 <tr>
-	<td>[樂屏](/ja/people/characters/special810)</td>
+	<td><MarkdownWrapper>[楽屏](/ja/people/characters/special810)</MarkdownWrapper></td>
 	<td>その他</td>
 </tr>
 <tr>
-	<td>[辛儒](/ja/people/characters/special802)</td>
+	<td><MarkdownWrapper>[辛儒](/ja/people/characters/special802)</MarkdownWrapper></td>
 	<td>その他<br>蜀中唐門</td>
 </tr>
 <tr>
-	<td>[譚霸刀](/ja/people/characters/special801)</td>
+	<td><MarkdownWrapper>[譚霸刀](/ja/people/characters/special801)</MarkdownWrapper></td>
 	<td>その他</td>
 </tr>
 <tr>
-	<td>[齊壬](/ja/people/characters/hero2)</td>
+	<td><MarkdownWrapper>[斉壬](/ja/people/characters/hero2)</MarkdownWrapper></td>
 	<td>その他</td>
 </tr>
 <tr>
-	<td>[方震天](/ja/people/characters/other16)</td>
+	<td><MarkdownWrapper>[方震天](/ja/people/characters/other16)</MarkdownWrapper></td>
 	<td>その他</td>
 </tr>
 <tr>
-	<td>[萬勝](/ja/people/characters/special814)</td>
+	<td><MarkdownWrapper>[万勝](/ja/people/characters/special814)</MarkdownWrapper></td>
 	<td>その他</td>
 </tr>
 <tr>
-	<td>[呂翁](/ja/people/characters/special807)</td>
+	<td><MarkdownWrapper>[呂翁](/ja/people/characters/special807)</MarkdownWrapper></td>
 	<td>その他</td>
 </tr>
 <tr>
-	<td>[江行老](/ja/people/characters/special803)</td>
+	<td><MarkdownWrapper>[江行老](/ja/people/characters/special803)</MarkdownWrapper></td>
 	<td>その他</td>
 </tr>
 <tr>
-	<td>[花城四少](/ja/people/characters/group1)</td>
+	<td><MarkdownWrapper>[花城四少](/ja/people/characters/group1)</MarkdownWrapper></td>
 	<td>その他<br>南宮世家</td>
 </tr>
 <tr>
-	<td>[李紫穹](/ja/people/characters/special211)</td>
+	<td><MarkdownWrapper>[李紫穹](/ja/people/characters/special211)</MarkdownWrapper></td>
 	<td>大理</td>
 </tr>
 <tr>
-	<td>[鐵冠道人](/ja/people/characters/special212)</td>
+	<td><MarkdownWrapper>[鉄冠道人](/ja/people/characters/special212)</MarkdownWrapper></td>
 	<td>青城派</td>
 </tr>
 <tr>
-	<td>[無相祖師](/ja/people/characters/special212_2)</td>
-	<td>千燈樓</td>
+	<td><MarkdownWrapper>[無相祖師](/ja/people/characters/special212_2)</MarkdownWrapper></td>
+	<td>千灯楼</td>
 </tr>
 <tr>
-	<td>[李元棄](/ja/people/characters/special213)</td>
-	<td>極樂教</td>
+	<td><MarkdownWrapper>[李元棄](/ja/people/characters/special213)</MarkdownWrapper></td>
+	<td>極楽教</td>
 </tr>
 <tr>
-	<td>[段智秀](/ja/people/characters/special833)</td>
+	<td><MarkdownWrapper>[段智秀](/ja/people/characters/special833)</MarkdownWrapper></td>
 	<td>大理<br>点蒼派<br>青城派<br>嶺南派</td>
 </tr>
 <tr>
-	<td>[段婉清](/ja/people/characters/special836)</td>
+	<td><MarkdownWrapper>[段婉清](/ja/people/characters/special836)</MarkdownWrapper></td>
 	<td>大理</td>
 </tr>
 <tr>
-	<td>[方獨弱](/ja/people/characters/special837)</td>
+	<td><MarkdownWrapper>[方独弱](/ja/people/characters/special837)</MarkdownWrapper></td>
 	<td>孤雲山派</td>
 </tr>
 <tr>
-	<td>[林志恆](/ja/people/characters/lingnan_trainee1)</td>
+	<td><MarkdownWrapper>[林志恆](/ja/people/characters/lingnan_trainee1)</MarkdownWrapper></td>
 	<td>嶺南派</td>
 </tr>
 <tr>
-	<td>[阮蛋](/ja/people/characters/lingnan_trainee2)</td>
+	<td><MarkdownWrapper>[阮蛋](/ja/people/characters/lingnan_trainee2)</MarkdownWrapper></td>
 	<td>嶺南派</td>
 </tr>
 <tr>
-	<td>[米歐寬](/ja/people/characters/lingnan_trainee3)</td>
+	<td><MarkdownWrapper>[米欧寬](/ja/people/characters/lingnan_trainee3)</MarkdownWrapper></td>
 	<td>嶺南派</td>
 </tr>
 <tr>
-	<td>[陳倔](/ja/people/characters/lingnan_trainee4)</td>
+	<td><MarkdownWrapper>[陳倔](/ja/people/characters/lingnan_trainee4)</MarkdownWrapper></td>
 	<td>嶺南派</td>
 </tr>
 </BTable>

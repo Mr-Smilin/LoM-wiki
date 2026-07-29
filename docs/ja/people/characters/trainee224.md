@@ -61,7 +61,7 @@ tags:
 
 ## 備考
 
--   火護法の[顏疆](/ja/people/characters/trainee204)とは、顔を合わせれば殴り合うか口喧嘩するかである。
+-   火護法の[顔疆](/ja/people/characters/trainee204)とは、顔を合わせれば殴り合うか口喧嘩するかである。
 -   長らく閉関しており、自称・神功大成。[金烏上人](/ja/people/characters/special207)も[道法將軍](/ja/people/characters/special404)も敵ではないという。
 -   [趙活](/ja/people/characters/player)が季試で好成績を収めると、[勾魂叟](/ja/people/characters/special806)は彼に趙活を弟子に取るよう勧める。しかし、たとえ趙活が[夏侯蘭](/ja/people/characters/girl5)に弟子入りしていなくても、彼は趙活を眼中に入れない。
 -   [趙活](/ja/people/characters/player)が[夏侯蘭](/ja/people/characters/girl5)に弟子入りしている場合、[金烏上人](/ja/people/characters/special207)に従って唐門へ押しかけた際、夏侯蘭への配慮から趙活を見逃してくれる。

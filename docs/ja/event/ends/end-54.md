@@ -10,7 +10,7 @@ tags:
     - 汗青書
     - エンディング
     - 葉雲裳
-    - 結緣
+    - 結縁
 ---
 
 # {{ $frontmatter.title }}
@@ -25,4 +25,4 @@ tags:
 </EndBackground>
 
 ## 条件
-[葉雲裳](/ja/people/characters/girl2)結緣イベント内の、谷底で運功治療する異種真氣4連戦で、いずれかの戦闘に敗北。
+[葉雲裳](/ja/people/characters/girl2)結縁イベント内の、谷底で運功治療する異種真気4連戦で、いずれかの戦闘に敗北。

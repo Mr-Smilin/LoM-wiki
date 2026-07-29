@@ -29,7 +29,7 @@ tags:
 					称号
 				</ChTd>
 				<ChTd>
-					寂夜慈燈
+					寂夜慈灯
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -67,7 +67,7 @@ tags:
 </ChTabs>
 <br><br>
 
-[錦香宮](/ja/people/factions/jin-xiang-palace)の弟子。外号『寂夜慈燈』。
+[錦香宮](/ja/people/factions/jin-xiang-palace)の弟子。外号『寂夜慈灯』。
 
 錦香宮に在った時、毎晩灯を提げて高楼に上り、故郷を遠く眺めた。結果、湖上から夜遅く帰る漁民が、灯籠を持って人を導く彼女の親切を語り、外号は自然と広がった。
 

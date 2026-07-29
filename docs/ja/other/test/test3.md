@@ -69,5 +69,5 @@ tags:
 
 ## 秘笈
 
-- [歷戰血書](/ja/system/books/book_4010)
+- [歴戦血書](/ja/system/books/book_4010)
 - [温陽活血符](/ja/system/books/book_8100)

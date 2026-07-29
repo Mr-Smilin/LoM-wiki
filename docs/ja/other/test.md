@@ -78,7 +78,7 @@ tags:
         <td>1<span style='color: red;'>23</span></td>
         <td style='text-align: center'>123</td>
         <td><details><summary>クリックして展開~</summary>123</details></td>
-        <td>[龍湘](/ja/people/characters/girl8)</td>
+        <td><MarkdownWrapper>[龍湘](/ja/people/characters/girl8)</MarkdownWrapper></td>
         <td>[[龍湘]]</td>
     </tr>
 </BTable>
@@ -105,7 +105,7 @@ tags:
                 123
             </details>
         </td>
-        <td>[龍湘](/ja/people/characters/girl8)</td>
+        <td><MarkdownWrapper>[龍湘](/ja/people/characters/girl8)</MarkdownWrapper></td>
         <td>[[龍湘]]</td>
     </tr>
 </BTable>
@@ -222,7 +222,7 @@ tags:
       </ChTr>
       <ChTr>
         <ChTd position='center'>
-          湘姐、||錦香派殺人鬼||、||チキンレッグ侠||、||丐幫の移動財布||
+          湘姐、||錦香派殺人鬼||、||チキンレッグ侠||、||丐幇の移動財布||
         </ChTd>
       </ChTr>
       <ChTr>

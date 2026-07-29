@@ -6,7 +6,7 @@ sidebar: false
 borderless: false
 tags:
     - 人物
-    - 丐幫
+    - 丐幇
 ---
 
 # {{ $frontmatter.title }}
@@ -34,11 +34,11 @@ tags:
 </ChTabs>
 <br><br>
 
-丐幫の老乞食。本名は不明。[樊嘯天](/ja/people/characters/special4)を育てた人物で、彼女を「阿狗」と呼んでいる。
+丐幇の老乞食。本名は不明。[樊嘯天](/ja/people/characters/special4)を育てた人物で、彼女を「阿狗」と呼んでいる。
 
 <br>
 
-旧派こそ真の丐幫だと言う。[幫主](/ja/people/characters/special401)は偽乞食で、仁義道徳を並べ立てる偽君子だと語る。
+旧派こそ真の丐幇だと言う。[幇主](/ja/people/characters/special401)は偽乞食で、仁義道徳を並べ立てる偽君子だと語る。
 
 <br>
 

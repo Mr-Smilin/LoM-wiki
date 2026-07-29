@@ -1,5 +1,5 @@
 ---
-title: 鐵冠道人
+title: 鉄冠道人
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -12,7 +12,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="鐵冠道人">
+	<ChTab title="鉄冠道人">
 		<Ch src='/images/characters/special212/normal.webp' position='right'/>
 		<ChName nameZh='鐵冠道人' nameEn='Tie Guan Daoren' position='right' />
 		<ChTable>
