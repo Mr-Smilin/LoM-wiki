@@ -2399,7 +2399,8 @@ tags:
             -
         </td>
         <td>
-            破廟線回唐門通風報信後，不替葉雲裳擋掌【心上人不是葉雲裳】，九月上旬開啟拷問南宮家丁事件，需要修養>40，性情<80，選擇「精神摧殘」（道德≥40），過完回憶殺後替家丁求情，天命輪盤骰到「很可疑」即可獲得（影響數值的是二師兄好感）
+            破廟線，<MarkdownWrapper>[「唐門迎敵」](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>後未🚩「留學青城」，<MarkdownWrapper>[「拷問南宮己」](/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>事件中，<br>
+            選擇「精神傷害」，道德≥40且骰到【🎲≧70 想過爹娘嗎?】，再選擇「求情」後骰到【🎲＜20 很可疑】。<br>
         </td>
         <td>
             -
@@ -2419,7 +2420,7 @@ tags:
             -
         </td>
         <td>
-            破廟線，夜襲唐門時間中通報敵襲消息後不參與協防，選擇下山。<br>下山途中 roll 點未遭遇敵人，白天找到逃離的小師妹與葉雲裳，送回山上。<br>（關鍵條件為未參與協防，則不會受傷，不會觸發前往青城留學）。<br>留在唐門協助二師兄審問襲擊者，二師兄要你開藥櫃時手賤開其他的。
+            破廟線，<MarkdownWrapper>[「唐門迎敵」](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>後未🚩「留學青城」。<MarkdownWrapper>[「拷問南宮己」](/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>事件中，二師兄要你開藥櫃時手賤開其他的。
         </td>
         <td>
             -
@@ -2467,7 +2468,7 @@ tags:
             我都沒用力，你卻倒下了《西遊記後傳》
         </td>
         <td>
-            路線同 <BadendIcon :no="100">生死簿 No.100</BadendIcon> 夜襲唐門事件中未參戰，後續返回唐門，審問襲擊者時選擇肉體摧殘，開戰後戰敗。
+            破廟線，<MarkdownWrapper>[「唐門迎敵」](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>後未🚩「留學青城」。<MarkdownWrapper>[「拷問南宮己」](/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>事件中，審問時選擇肉體摧殘，開戰後戰敗。
         </td>
         <td>
             -
