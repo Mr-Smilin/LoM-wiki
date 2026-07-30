@@ -676,10 +676,12 @@ tags:
   <td rowspan = 3 style="text-align: center">十二</td>
   <td style="text-align: center">上</td>
   <td colspan = 4 style="text-align: center">
-    武林檄文<br>
-    唐門例會<br>
-    集思廣益<br>
-    [眾人的決策](/event/detailed_description/3-12-1-眾人的決策)<br>
+      <MarkdownWrapper>
+          武林檄文<br>
+          唐門例會<br>
+          集思廣益<br>
+          [眾人的決策](/event/detailed_description/3-12-1-眾人的決策)<br>
+      </MarkdownWrapper>    
   </td>
 </tr>
 <tr>
