@@ -27,7 +27,7 @@ tags:
     - <Girl8Icon>Long Xiang</Girl8Icon> with goodwill ≥30 will come to join the Tang Sect:
         - **📖 Choice: Ignore the cold eyes of others and take in Long Xiang**: ➡️3. <span style='color: Yellow;'>Support Jinxiang Palace</span>.
         - **📖 Choice: The situation is unclear, avoid implicating the sect, remain neutral for now**: ➡️2. Righteous sects besiege Jinxiang Palace
-2. Righteous sects besiege Jinxiang Palace: Fulfill the following conditions to trigger **📜 Topic: Support Jinxiang Palace: **.
+2. Righteous sects besiege Jinxiang Palace: Fulfill the following conditions to trigger **📜 Topic: Support Jinxiang Palace:**.
     1. Visit Jinxiang Palace on the way to the Martial Arts Conference (must happen in current version 1.0.3203.1).
     2. Jinxiang Palace is not expelled (when Lady Wen in Jinxiang Palace finds you for the second time, choose **📖 Choice: Nonsense** (requires Cultivation < 40 [Impulsive or Crazy], Temperament > 60 [Brave or Reckless]) → **📖 Choice: A hero doesn't suffer losses, leave**, and you will be expelled.
     3. Morality ≥60 [Good person, Hero] and Handling < 60 [Spoiled, Polite, Moderate].
