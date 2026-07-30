@@ -202,12 +202,12 @@ tags:
 <td>5</td>
 <td>第三年十二月中旬剩2行動點</td>
 <td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
-<td>• 新增📜「詢問葉雲舟」，若武林大會他有代表出戰，會獲得<MarkdownWrapper>[同舟劍譜](/system/books/book_2301)</MarkdownWrapper>(但若修練完成，後面就無法習得劍聖極招)。
+<td>• 新增📜「詢問葉雲舟」，若武林大會他有代表出戰，會獲得<MarkdownWrapper>[同舟劍譜](/system/books/book_2301)</MarkdownWrapper>。
     <br>• 若決策遣散唐門，女弟子房、男弟子房、煉丹爐劇情變化。
     <br>• 若決策遣散唐門，<MarkdownWrapper>[退隱江湖](/event/ends/end-25)</MarkdownWrapper>結局演出為<Girl2Icon>葉雲裳</Girl2Icon>版本。
     <br>• 若決策成立西武林，大戰準備期有許多劇情變化，下面只列出重要的。
 </td>
-<td></td>
+<td>同舟劍譜若修練完成，後面就無法習得劍聖極招，但一般來說同舟劍譜比較強。</td>
 </tr>
 
 <tr>
