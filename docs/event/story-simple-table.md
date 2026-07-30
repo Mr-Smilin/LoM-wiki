@@ -360,7 +360,11 @@ tags:
         </MarkdownWrapper>
     </td>
     <td style="text-align: center">-</td>
-    <td style="text-align: center">拷問南宮己</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+			[拷問南宮己](/event/simple/2-09-1-拷問南宮己)<br>
+        </MarkdownWrapper>        
+    </td>
     <td style="text-align: center">
         雲裳秘笈<br>
         虎嘯功<br>
