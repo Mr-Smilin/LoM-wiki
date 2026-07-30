@@ -62,17 +62,17 @@ tags:
 <hr />
 
 ### 性情が気量数値に影響
-例：趙活(蛮勇)、現在の気量17；対石幫主(蛮勇)、現在の気量10<br>
-　　趙活が攻撃で石幫主の口功に対抗し、攻撃が命中。<br>
-　　趙活(蛮勇)攻撃-5、次のターン回復7、最終+2、次のターン気量は19。<br>
-　　対石幫主(蛮勇)口功-3、攻撃を受ける+4、次のターン回復7、最終+8、次のターン気量は18。<br>
+例：趙活(無謀)、現在の気量17；対石幇主(無謀)、現在の気量10<br>
+　　趙活が攻撃で石幇主の口功に対抗し、攻撃が命中。<br>
+　　趙活(無謀)攻撃-5、次のターン回復7、最終+2、次のターン気量は19。<br>
+　　対石幇主(無謀)口功-3、攻撃を受ける+4、次のターン回復7、最終+8、次のターン気量は18。<br>
 　　
 <div style="width: 100%; display: flex; justify-content: center; margin: 20px 0;">
     <table border="1" style="border-collapse: collapse; width: auto; text-align: center;">
         <thead>
             <tr>
                 <th style="padding: 10px 15px;"></th>
-                <th style="padding: 10px 15px;">蛮勇</th>
+                <th style="padding: 10px 15px;">無謀</th>
                 <th style="padding: 10px 15px;">勇敢</th>
                 <th style="padding: 10px 15px;">中庸</th>
                 <th style="padding: 10px 15px;">慎重</th>

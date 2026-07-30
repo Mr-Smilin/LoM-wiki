@@ -1,0 +1,60 @@
+name: 日本語訳の修正報告
+description: docs/ja の翻訳漏れ・表記ゆれ・意味不明・リンク破損などを報告する
+title: "[ja訳] "
+labels: ["ja-translation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        docs/ja（日本語版）の翻訳の問題を報告してください。
+        **1報告 = 1箇所** を基本に、気づいた範囲だけで構いません（案や根拠は分かる範囲でOK）。
+  - type: dropdown
+    id: category
+    attributes:
+      label: 分類
+      description: 一番近いものを1つ
+      options:
+        - 中国語の残存（未訳の語彙・簡体字・残った記法）
+        - 表記ゆれ（同じ内容が場所により別の表記）
+        - 日本語として意味が通じない・文が破綻している
+        - リンク・記法の破損（リンク切れ・壊れたタグなど）
+        - 解説不足（漢文・書き下し・ゲーム用語が分かりにくい）
+        - その他
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: 対象ページ
+      description: ページの URL か、docs/ja からのパス
+      placeholder: 例) /ja/people/factions/tang-men もしくは該当ページの URL
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: 気になった箇所（現状）
+      description: 該当する文や語をそのまま貼ってください。複数あれば箇条書きで。
+      placeholder: |
+        例)
+        - 「性情が激烈」
+        - 「唐門藥典」のリンクがトップページに飛ぶ
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: こう直したい（任意）
+      description: 案があれば。分からなければ空欄で構いません。
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 根拠（任意）
+      description: 日本語化MOD訳・glossary・英語版・他ページの表記など、裏付けがあれば。
+  - type: checkboxes
+    id: acknowledge
+    attributes:
+      label: 確認事項
+      options:
+        - label: 人名・門派名・武功名などの固有名詞は、原文の漢字のままが正しい場合があると理解しています
+          required: false

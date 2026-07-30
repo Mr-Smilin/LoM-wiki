@@ -26,6 +26,6 @@ tags:
 <img class='guide-img' src='/images/engagement/tip2.webp' alt='敵情報'><div style="margin-top: 5px;"></div>
 赤い円の位置をクリックすると、自分の情報を確認できます<br>
 また敵の情報も確認できます<br>
-己を知り敵を知れば、百戦して殆ど危うからず<br><br><br><br>
+敵を知り己を知れば、百戦危うからず<br><br><br><br>
 
 (準備中)<br>

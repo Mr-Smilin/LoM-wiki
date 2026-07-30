@@ -1,12 +1,12 @@
 ---
-title: 火炎山劍閣
+title: 火炎山剣閣
 aside: true
 sidebar: false
 borderless: false
 outline: [2, 3]
 tags:
     - 陣営
-    - 火炎山劍閣
+    - 火炎山剣閣
 ---
 
 # {{ $frontmatter.title }}
@@ -36,7 +36,7 @@ tags:
 	</Info>
 </InfoList>
 
-銘劍を鍛造して価格を吊り上げ、宋金間を周旋して暴利を貪る軍火商人である。
+銘剣を鍛造して価格を吊り上げ、宋金間を周旋して暴利を貪る軍火商人である。
 
 <br>
 
@@ -47,6 +47,6 @@ tags:
 ## 備考
 
 - ゲーム地図上の火炎山は[崆峒派](/ja/people/factions/kong-tong-sect)崆峒山のやや南西にあり、地理位置から見ると新疆の火焰山ではなく、他の山を指していると思われる。
-- 天觴剣は火炎山劍閣が鍛造したものである。[^1]
+- 天觴剣は火炎山剣閣が鍛造したものである。[^1]
 
 [^1]: PTT C洽－[\[活俠\]龍湘と奇妙な雑学 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)

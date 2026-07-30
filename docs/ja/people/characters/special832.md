@@ -56,24 +56,24 @@ tags:
 
 実姉の後を追って[唐門](/ja/people/factions/tang-men)に入門したが、輩分は姉より一つ下になった。
 <br><br>
-[二師兄](/ja/people/characters/brother2)は女性患者を治療する際の疑いを避けるため、唐芳に針法を学ばせ、意図して育て上げた。かくして唐芳は、当代随一の医術を誇る[唐門](/ja/people/factions/tang-men)女弟子となった。
+[唐錚](/ja/people/characters/brother2)は女性患者を治療する際の疑いを避けるため、唐芳に針法を学ばせ、意図して育て上げた。かくして唐芳は、当代随一の医術を誇る[唐門](/ja/people/factions/tang-men)女弟子となった。
 <br><br>
 だが彼女は遅刻大王。遅刻の常習犯で、遅れても悪びれもしないタイプである。
 
 ## 医術
 
--   二師兄の指名で[葉雲裳](/ja/people/characters/girl2)への施針を任されている。[^1]
+-   唐錚の指名で[葉雲裳](/ja/people/characters/girl2)への施針を任されている。[^1]
 -   医術の腕はなかなかのもので、広い中原といえども、彼女より高明な医者を見つけるのは容易ではない。[^8]
 -   [葉雲裳](/ja/people/characters/girl2)が彼岸仙香の毒に倒れた際は、我が身を傷つけることも厭わず、禁術・北冥針でその厄を肩代わりし、辛うじて命を繋ぎ止めた。それを[段智秀](/ja/people/characters/special833)に疑われ、その場で激怒した。
--   毒に倒れた[葉雲裳](/ja/people/characters/girl2)をすぐに解毒できなかったことを深く責め、危険を承知で禁術・寂滅三摩地を使うことまで考えたが、[二師兄](/ja/people/characters/brother2)に厳しく一喝され思いとどまった。
+-   毒に倒れた[葉雲裳](/ja/people/characters/girl2)をすぐに解毒できなかったことを深く責め、危険を承知で禁術・寂滅三摩地を使うことまで考えたが、唐錚に厳しく一喝され思いとどまった。
 
-## 二師兄
+## 唐錚
 
--   唐芳の腕前はすべて[二師兄](/ja/people/characters/brother2)から直々に授かったもので、名目は師兄妹だが、実際は師弟に近い。二師兄を深く尊敬している。
--   [大師兄](/ja/people/characters/brother1)と[二師兄](/ja/people/characters/brother2)はかつて彼女の姉に片想いしていたが、それでも二師兄は唐芳にかなり厳しい。[^1][^6]
--   [二師兄](/ja/people/characters/brother2)が怖すぎるあまり、彼を避けて外を遊歴したまま帰らなかった。
--   片目を隠す髪型は[二師兄](/ja/people/characters/brother2)の真似で、本人はこれをかっこいいと思っている。[^6]
--   出奔した[二師兄](/ja/people/characters/brother2)と[唐仙兒](/ja/people/characters/special813)に出くわした際は、止めるどころか同行を望んだが、[二師兄](/ja/people/characters/brother2)に附骨釘で脈門を封じられて武功を廃され、それ以来ずいぶんと冷淡な性格になった。
+-   唐芳の腕前はすべて唐錚から直々に授かったもので、名目は師兄妹だが、実際は師弟に近い。唐錚を深く尊敬している。
+-   [唐布衣](/ja/people/characters/brother1)と唐錚はかつて彼女の姉に片想いしていたが、それでも唐錚は唐芳にかなり厳しい。[^1][^6]
+-   唐錚が怖すぎるあまり、彼を避けて外を遊歴したまま帰らなかった。
+-   片目を隠す髪型は唐錚の真似で、本人はこれをかっこいいと思っている。[^6]
+-   出奔した唐錚と[唐仙児](/ja/people/characters/special813)に出くわした際は、止めるどころか同行を望んだが、唐錚に附骨釘で脈門を封じられて武功を廃され、それ以来ずいぶんと冷淡な性格になった。
 
 ## 遅刻
 
@@ -93,7 +93,7 @@ tags:
 -   お尻は普通の人より少しだけ大きい。[^5]
 -   [八仙指](/ja/system/books/book_6012)の会話と記述から、姉の名前が唐芬であることが分かる。
 
-[^1]: 百度貼吧 - [新女角色突擊](https://tieba.baidu.com/p/9205413054?pn=1)17F (対話公開日 2024/10/5)
+[^1]: 百度貼吧 - [新女角色突撃](https://tieba.baidu.com/p/9205413054?pn=1)17F (対話公開日 2024/10/5)
 [^2]: 鳥熊 FB コメント、[リンク](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=1234364757878397&reply_comment_id=516592081152453&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)
 [^3]: 鳥熊 FB コメント、[リンク](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=2027078384407281&reply_comment_id=1334218897540686&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)
 [^4]: [問答集2024-10-07](/ja/other/qna/202410#_2024-10-07)、Part1。

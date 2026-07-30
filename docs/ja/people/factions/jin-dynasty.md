@@ -31,7 +31,7 @@ tags:
 			</ChTr>
 			<ChTr>
                 <ChTd position='center'>
-                    [完顏珣](/ja/people/characters/special819) (皇帝)
+                    [完顔珣](/ja/people/characters/special819) (皇帝)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -43,7 +43,7 @@ tags:
 	</Info>
 </InfoList>
 
-現任皇帝は金宣宗・完顏珣です（1163年4月18日－1224年1月14日）。
+現任皇帝は金宣宗・完顔珣です（1163年4月18日－1224年1月14日）。
 
 <br>
 
@@ -60,5 +60,5 @@ tags:
 
 ## 備考
 
-- 完顏珣と龍淵は過去に義兄弟の契りを結びましたが、[極樂教との決戦](/ja/event/stories/決戰極樂教)後に絶交しました。龍湘はその姪にあたります。
+- 完顔珣と龍淵は過去に義兄弟の契りを結びましたが、[極楽教との決戦](/ja/event/stories/決戰極樂教)後に絶交しました。龍湘はその姪にあたります。
 - [全真派](/ja/people/factions/quan-zhen-sect)と[嵩山派](/ja/people/factions/mount-song-sect)は一方が陝西に、もう一方が河南にあり、両方とも金国の領土です。両派ともに金国と友好関係にあるのに、いまだに中原六大派を自称しており、これは多くの人から非難されています。

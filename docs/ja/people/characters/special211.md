@@ -39,6 +39,6 @@ tags:
 
 大理大内の高手「御禁左提領天駟爽彥賁」。
 <br><br>
-多年前、内戒営の精兵八十名を率いて[寧陽郡主（段婉清）](/ja/people/characters/special836)を吐蕃茂洲蕃部に護送する任務を帯びたが、[葉雲舟](/ja/people/characters/special3)一行の襲撃に遭い、これを撃退した。
+多年前、内戒営の精兵八十名を率いて[寧陽郡主](/ja/people/characters/special836)を吐蕃茂洲蕃部に護送する任務を帯びたが、[葉雲舟](/ja/people/characters/special3)一行の襲撃に遭い、これを撃退した。
 <br><br>
 若し[無相祖師](/ja/people/characters/special212_2)が死亡すれば、西武林後の[申屠龍](/ja/people/characters/special405)場面で一時登場する。
