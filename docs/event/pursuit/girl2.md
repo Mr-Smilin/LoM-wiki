@@ -80,9 +80,9 @@ tags:
 <td>第二年八月中旬</td>
 <td>
     <MarkdownWrapper>
-        [「破廟密謀」](/event/simple/2-08-2-破廟密謀)<br>
-        [「唐門報信」](/event/simple/2-08-2-唐門報信)<br>
-        [「唐門迎敵」](/event/simple/2-08-2-唐門迎敵)<br>
+        [破廟密謀](/event/simple/2-08-2-破廟密謀)<br>
+        [唐門報信](/event/simple/2-08-2-唐門報信)<br>
+        [唐門迎敵](/event/simple/2-08-2-唐門迎敵)<br>
     </MarkdownWrapper>
 </td>
 <td>• <MarkdownWrapper>[「破廟密謀」](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>中不可選擇📜「攻打唐門」或📜「跑路」。
