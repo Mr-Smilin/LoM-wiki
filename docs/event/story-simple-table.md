@@ -679,7 +679,7 @@ tags:
     武林檄文<br>
     唐門例會<br>
     集思廣益<br>
-    眾人的決策<br>
+    [眾人的決策](/event/detailed_description/3-12-1-眾人的決策)<br>
   </td>
 </tr>
 <tr>
