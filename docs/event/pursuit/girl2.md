@@ -78,7 +78,13 @@ tags:
 <tr>
 <td>5</td>
 <td>第二年八月中旬</td>
-<td>破廟密謀</td>
+<td>
+    <MarkdownWrapper>
+        [「破廟密謀」](/event/simple/2-08-2-破廟密謀)<br>
+        [「唐門報信」](/event/simple/2-08-2-唐門報信)<br>
+        [「唐門迎敵」](/event/simple/2-08-2-唐門迎敵)<br>
+    </MarkdownWrapper>
+</td>
 <td>• <MarkdownWrapper>[「破廟密謀」](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>中不可選擇📜「攻打唐門」或📜「跑路」。
     <br>• <MarkdownWrapper>[「唐門迎敵」](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>中不要🚩離開山路(僅選擇大門可能離開)。
     <br>• 🗡️戰役過後(勝負無關)，需心上人為<Girl2Icon>葉雲裳</Girl2Icon>，以觸發青城留學。
