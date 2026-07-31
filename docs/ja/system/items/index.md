@@ -65,7 +65,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>焼き刀</td>
+        <td>焼刀子</td>
         <td>200</td>
         <td>3</td>
         <td>心相+60 / 品性-1</td>

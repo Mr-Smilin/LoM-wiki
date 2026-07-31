@@ -291,7 +291,7 @@ tags:
         <td><MarkdownWrapper>[《備急千金要方》](/ja/system/books/book_8101)</MarkdownWrapper><br><MarkdownWrapper>[《傷寒雑病論》](/ja/system/books/book_8102)</MarkdownWrapper></td>
     </tr>
     <tr>
-        <td>侵略如火</td>
+        <td>侵掠如火</td>
         <td>-</td>
         <td>戦術LVに基づいて攻撃を上昇（毎級+0.02増傷）</td>
         <td><MarkdownWrapper>[《楊家練兵操》](/ja/system/books/book_7004)</MarkdownWrapper></td>
