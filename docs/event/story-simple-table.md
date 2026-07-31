@@ -421,7 +421,9 @@ tags:
     <td style="text-align: center">中</td>
     <td style="text-align: center">-</td>
     <td colspan = 2 style="text-align: center">
-        四師兄江陵回歸<br>
+        <MarkdownWrapper>
+            [四師兄江陵回歸](/event/simple/2-10-2-四師兄江陵回歸)<br>
+		</MarkdownWrapper>  
     </td>
     <td style="text-align: center">
         <MarkdownWrapper>
