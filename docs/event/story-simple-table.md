@@ -100,7 +100,7 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
-                假字據<br>
+                [假字據](/event/simple/1-08-2-假字據)<br>
 				[假趙活登場](/event/simple/1-08-2-假趙活登場)<br>
 				</MarkdownWrapper>
 			</td>
