@@ -108,7 +108,7 @@ tags:
 				<MarkdownWrapper>
 				[晁和入門](/event/simple/1-08-3-晁和入門)<br>
 				[晁和搞鬼事件集](/event/simple/1-08-3-晁和搞鬼事件集)<br>
-                雲裳求醫<br>
+                [唐錚診斷](/event/simple/1-08-3-唐錚診斷)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
