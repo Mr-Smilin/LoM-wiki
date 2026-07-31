@@ -268,7 +268,7 @@ tags:
             [多人拜師](/event/simple/2-05-1-多人拜師)<br>
             [唐門例會](/event/simple/2-05-1-多人拜師)<br>
 			[峨嵋狄傲](/event/simple/2-05-1-峨嵋狄傲)<br>
-            溪邊玩水<br>
+            [溪邊玩水](/event/simple/2-05-1-溪邊玩水)<br>
         </MarkdownWrapper>
     </td>
 </tr>
