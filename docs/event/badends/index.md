@@ -2399,8 +2399,7 @@ tags:
             -
         </td>
         <td>
-            破廟線，<MarkdownWrapper>[「唐門迎敵」](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>後未🚩「留學青城」，<MarkdownWrapper>[「拷問南宮己」](/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>事件中，<br>
-            選擇「精神傷害」，道德≥40且骰到【🎲≧70 想過爹娘嗎?】，再選擇「求情」後骰到【🎲＜20 很可疑】。<br>
+            <MarkdownWrapper>[「拷問南宮己」](/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>事件中，替南宮己求情後骰到【🎲＜20 很可疑】。<br>
         </td>
         <td>
             -
@@ -2420,7 +2419,7 @@ tags:
             -
         </td>
         <td>
-            破廟線，<MarkdownWrapper>[「唐門迎敵」](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>後未🚩「留學青城」。<MarkdownWrapper>[「拷問南宮己」](/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>事件中，二師兄要你開藥櫃時手賤開其他的。
+            <MarkdownWrapper>[「拷問南宮己」](/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>事件中，開藥櫃時手賤開其他的。
         </td>
         <td>
             -
@@ -2468,7 +2467,7 @@ tags:
             我都沒用力，你卻倒下了《西遊記後傳》
         </td>
         <td>
-            破廟線，<MarkdownWrapper>[「唐門迎敵」](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>後未🚩「留學青城」。<MarkdownWrapper>[「拷問南宮己」](/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>事件中，審問時選擇肉體摧殘，開戰後戰敗。
+            <MarkdownWrapper>[「拷問南宮己」](/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>事件中，審問選擇「肉體摧殘」並戰敗。<br>
         </td>
         <td>
             -
