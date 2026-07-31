@@ -298,7 +298,9 @@ tags:
     <td style="text-align: center">上</td>
     <td style="text-align: center">-</td>
     <td colspan = 3 style="text-align: center">
-         重回外堡
+         <MarkdownWrapper>
+            [重回外堡](/event/simple/2-07-1-重回外堡)<br>
+        </MarkdownWrapper>
     </td>
 </tr>
 
