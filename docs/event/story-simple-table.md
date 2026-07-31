@@ -239,7 +239,7 @@ tags:
     <td style="text-align: center">-</td>
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
-            [唐門鬧鬼](/event/simple/2-03-3-唐門鬧鬼)<br>
+            唐門鬧鬼<br>
         </MarkdownWrapper>        
     </td>
 </tr>
