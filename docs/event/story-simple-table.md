@@ -329,8 +329,16 @@ tags:
     </td>
 </tr>
 <tr>
-    <td style="text-align: center"><MarkdownWrapper>[唐門戰後](/event/simple/2-08-2-唐門戰後)</MarkdownWrapper></td>
-    <td style="text-align: center">重傷夢境</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+            [唐門戰後](/event/simple/2-08-2-唐門戰後)
+        </MarkdownWrapper>
+    </td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+            [重傷夢境](/event/simple/2-08-2-重傷夢境)
+        </MarkdownWrapper>
+    </td>
 </tr>
 <tr>
     <td style="text-align: center">下</td>
