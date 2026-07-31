@@ -34,7 +34,7 @@ tags:
 				[大師兄找樂子](/event/simple/1-04-1-大師兄找樂子)<br>
 				[後山推人](/event/simple/1-04-1-後山推人)<br>
                 同門關懷<br>
-                偷懶怪<br>
+                [偷懶怪](/event/simple/1-04-1-偷懶怪)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
