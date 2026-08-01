@@ -1,6 +1,6 @@
 ---
-title: 汗青書48：武林の伝説 (武林傳奇)
-description: 汗青書48：武林の伝説
+title: 汗青書48：武林伝説 (武林傳奇)
+description: 汗青書48：武林伝説
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -9,16 +9,14 @@ tags:
     - ends
     - 汗青書
     - エンディング
-    - 武林の伝説
+    - 武林伝説
     - 西武林盟
 ---
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=48 title="武林の伝説">
-耕陽読書斎がお前の事跡を書物に編さんし、市場へ発行した。<br>
-唐門の活俠の大名は一朝にして中原に広がり、知らぬものなし。<br>
-お前の名は今この時より、伝説となり、万人に敬われる。<br>
+<EndBackground no=48 title="武林伝説">
+<ruby>耕陽読書斎<rt>こうようどくしょさい</rt></ruby>はあなたの事跡を書物に編み、世に売り出した。<br><ruby>唐門<rt>とうもん</rt></ruby>活侠の大名は一朝にして<ruby>中原<rt>ちゅうげん</rt></ruby>じゅうに知れ渡り、<br>知らぬ者も、聞かぬ者もいなかった。<br>あなたの名は今日より後、<br>伝説となり、万人の崇敬を受ける。<br>
 <br>
 </EndBackground>
 

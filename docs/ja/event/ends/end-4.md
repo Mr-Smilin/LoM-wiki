@@ -15,9 +15,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=4 title="唐門の裏切り者">
-あなたは唐門を裏切った。生存のため、栄華のためと言うが、<br>
-心の奥底では、血よりも濃い<br>
-師弟の絆を裏切ったことを知っている。<br>
+あなたは<ruby>唐門<rt>とうもん</rt></ruby>を裏切った。<br>生きるためだ、栄華のためだと口では言う。<br>だが心の奥底では知っている。<br>血よりも濃いあの<ruby>師弟<rt>してい</rt></ruby>の情を、自分が裏切ったことを。<br>
 <br>
 <br>
 </EndBackground>

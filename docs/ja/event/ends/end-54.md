@@ -16,7 +16,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=54 title="君とともに">
-何度輪廻しようとも、彼女のために冥河を渡り、地獄を越えることを願う。<br>
+幾度輪廻を巡ろうとも、<br>彼女のためなら冥河を渉り、地獄をも越えていく。<br>
 <br>
 <br>
 <br>

@@ -17,10 +17,8 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=50 title="峨嵋派の弟子">
-お前は峨嵋派の弟子となり、他の者と同じ待遇と義務を享受する。<br>
-武林の一員として幾つかの武林大事に参加し、功もなく過ちもなく、<br>
-年老いて隠退した。<br>
+<EndBackground no=50 title="峨嵋弟子">
+あなたは<ruby>峨嵋<rt>がび</rt></ruby>の弟子となり、<br>周りと同じ待遇と義務を受け入れた。<br><ruby>武林<rt>ぶりん</rt></ruby>の一員としていくつかの大事に関わり、<br>功もなく過もなく、老いて退いた。<br>
 <br>
 <br>
 </EndBackground>

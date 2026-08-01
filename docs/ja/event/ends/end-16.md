@@ -15,8 +15,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=16 title="猿鶴虫沙">
-『抱朴子』日く：「周穆王南征，一軍盡化，君子為<br>
-猿為鶴，小人為虫為沙。」死後尽く黄土に帰る。<br>
+『<ruby>抱朴子<rt>ほうぼくし</rt></ruby>』に<ruby>曰<rt>いわ</rt></ruby>く、<br>「周の穆王南征するや、一軍ことごとく化し、<br><ruby>君子<rt>くんし</rt></ruby>は猿と鶴に、小人は虫と沙になった」と。<br>死ねば皆、等しく黄土に帰る。<br>
 <br>
 <br>
 <br>
