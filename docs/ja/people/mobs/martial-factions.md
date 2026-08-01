@@ -132,7 +132,7 @@ tags:
     </tr>
 </table>
 
-### 姚某/許姑娘
+### 姚さん・許さん (姚某/許姑娘)
 
 <img src="/images/mobs/jin-xiang-palace/trainee1_normal.webp" style="width:200px;" />
 <table>

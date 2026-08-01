@@ -127,7 +127,7 @@ tags:
         <td><MarkdownWrapper>[《流星剣譜》](/ja/system/books/book_2001)</MarkdownWrapper>LV10</td>
     </tr>
     <tr>
-        <td>君子風</td>
+        <td>君子の風</td>
         <td>-</td>
         <td>性情・処世・品性が中庸の時、ダメージと軽減をそれぞれ20%上昇</td>
         <td><MarkdownWrapper>[《孔夫子剣》](/ja/system/books/book_2006)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《君子論剣》](/ja/system/books/book_2003)</MarkdownWrapper>LV10</td>
@@ -162,7 +162,7 @@ tags:
     <tr>
         <td>逐浪訣</td>
         <td></td>
-        <td>現在のコンボ数に基づいて、攻撃に追加確率で【失衡】を引き起こす</td>
+        <td>現在のコンボ数に基づいて、攻撃に追加確率で【蹌踉】を引き起こす</td>
         <td><MarkdownWrapper>[《逐浪訣》](/ja/system/books/book_7014)</MarkdownWrapper></td>
     </tr>
     <tr>
@@ -250,11 +250,11 @@ tags:
         <td>蛮勇</td>
         <td></td>
         <td>攻撃が暗器に中断されない。ただし受けるダメージ+50%（攻撃が暗器と対面する時のみ）
-<br>勇猛果敢を獲得しない</td>
+<br>不撓不屈を獲得しない</td>
         <td>不明。一部の蛮勇敵NPC技能</td>
     </tr>
     <tr>
-        <td>勇猛果敢</td>
+        <td>不撓不屈</td>
         <td></td>
         <td>性情が無謀・勇敢の時限定。攻撃が暗器に阻止されない</td>
         <td>暗器に命中した後に発動</td>
@@ -291,7 +291,7 @@ tags:
         <td><MarkdownWrapper>[《備急千金要方》](/ja/system/books/book_8101)</MarkdownWrapper><br><MarkdownWrapper>[《傷寒雑病論》](/ja/system/books/book_8102)</MarkdownWrapper></td>
     </tr>
     <tr>
-        <td>侵略如火</td>
+        <td>侵掠如火</td>
         <td>-</td>
         <td>戦術LVに基づいて攻撃を上昇（毎級+0.02増傷）</td>
         <td><MarkdownWrapper>[《楊家練兵操》](/ja/system/books/book_7004)</MarkdownWrapper></td>

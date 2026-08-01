@@ -186,7 +186,7 @@ tags:
 エンディング11
 </td>
 <td style="color: #a83232;">
-<EndIcon no="11">魂、故郷へ帰る</EndIcon>
+<EndIcon no="11">落葉帰根</EndIcon>
 </td>
 <td>
 <span style="color: #B22222;">【小梅拉致】</span>
@@ -224,7 +224,7 @@ tags:
 エンディング14
 </td>
 <td style="color: #a83232;">
-<EndIcon no="14">世で最も寂しい事は、君と遠く別れし時</EndIcon>
+<EndIcon no="14"><ruby>天下<rt>てんか</rt>寂寥<rt>せきりょう</rt></ruby>の事、君と<ruby>闊別<rt>かつべつ</rt></ruby>する時</EndIcon>
 </td>
 <td>
 <span style="color: #EEE8AA;">【四師兄と商売】</span>
@@ -237,7 +237,7 @@ tags:
 エンディング15
 </td>
 <td style="color: #a83232;">
-<EndIcon no="15">世で最も寂しい事は、君と遠く別れし時</EndIcon>
+<EndIcon no="15"><ruby>天下<rt>てんか</rt>寂寥<rt>せきりょう</rt></ruby>の事、君と<ruby>闊別<rt>かつべつ</rt></ruby>する時</EndIcon>
 </td>
 <td>
 <span style="color: #EEE8AA;">【四師兄と商売】</span>
@@ -309,7 +309,7 @@ tags:
 エンディング21
 </td>
 <td style="color: #a83232;">
-<EndIcon no="21">江湖引退</EndIcon>
+<EndIcon no="21"><ruby>江湖<rt>こうこ</rt></ruby>引退</EndIcon>
 </td>
 <td>
 <span style="color: Gray;">【唐門離脱】</span><br>
@@ -363,7 +363,7 @@ tags:
 エンディング25
 </td>
 <td style="color: #a83232;">
-<EndIcon no="25">江湖引退</EndIcon>
+<EndIcon no="25"><ruby>江湖<rt>こうこ</rt></ruby>引退</EndIcon>
 </td>
 <td>
 <span style="color: #006F86;">【唐門解散】</span><br>
@@ -405,7 +405,7 @@ tags:
 エンディング28
 </td>
 <td style="color: #a83232;">
-<EndIcon no="28">血河刀</EndIcon>
+<EndIcon no="28"><ruby>血河刀<rt>けっかとう</rt></ruby></EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
@@ -420,7 +420,7 @@ tags:
 エンディング29
 </td>
 <td style="color: #a83232;">
-<EndIcon no="29">龐統の再来</EndIcon>
+<EndIcon no="29"><ruby>龐統<rt>ほうとう</rt></ruby>の再来</EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
@@ -510,7 +510,7 @@ tags:
 エンディング36
 </td>
 <td style="color: #a83232;">
-<EndIcon no="36">唐門の暗器</EndIcon>
+<EndIcon no="36"><ruby>唐門<rt>とうもん</rt></ruby>の<ruby>暗器<rt>あんき</rt></ruby></EndIcon>
 </td>
 <td>
 <span style="color: #DC0000;">【唐門滅亡】</span><br>
@@ -522,7 +522,7 @@ tags:
 エンディング37
 </td>
 <td style="color: #a83232;">
-<EndIcon no="37">唐門の薪火</EndIcon>
+<EndIcon no="37"><ruby>唐門<rt>とうもん</rt></ruby>の火種</EndIcon>
 </td>
 <td>
 <span style="color: #DC0000;">【唐門滅亡】</span>
@@ -536,7 +536,7 @@ tags:
 エンディング38
 </td>
 <td style="color: #a83232;">
-<EndIcon no="38">神州の旅人</EndIcon>
+<EndIcon no="38"><ruby>神州<rt>しんしゅう</rt></ruby>の旅人</EndIcon>
 </td>
 <td>
 <span style="color: #DC0000;">【唐門滅亡】</span>
@@ -565,7 +565,7 @@ tags:
 エンディング40
 </td>
 <td style="color: #a83232;">
-<EndIcon no="40">小梅の秘蔵っ子</EndIcon>
+<EndIcon no="40"><ruby>小梅<rt>しゃおめい</rt></ruby>の秘蔵っ子</EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
@@ -595,7 +595,7 @@ tags:
 エンディング42
 </td>
 <td style="color: #a83232;">
-<EndIcon no="42">隠世の大儒</EndIcon>
+<EndIcon no="42">隠世の<ruby>大儒<rt>たいじゅ</rt></ruby></EndIcon>
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
@@ -638,7 +638,7 @@ tags:
 エンディング45
 </td>
 <td style="color: #a83232;">
-<EndIcon no="45">最後の唐門弟子</EndIcon>
+<EndIcon no="45">最後の<ruby>唐門<rt>とうもん</rt></ruby>弟子</EndIcon>
 </td>
 <td>
 <span style="color: #DC0000;">【唐門滅亡】</span><br>
@@ -662,7 +662,7 @@ tags:
 エンディング47
 </td>
 <td style="color: #a83232;">
-<EndIcon no="47">君が願いし、江湖の道</EndIcon>
+<EndIcon no="47">君が願いし、<ruby>江湖<rt>こうこ</rt></ruby>の道</EndIcon>
 </td>
 <td>
 <span style="color: Yellow;">【西武林盟】</span><br>
@@ -674,7 +674,7 @@ tags:
 エンディング48
 </td>
 <td style="color: #a83232;">
-<EndIcon no="48">武林の伝説</EndIcon>
+<EndIcon no="48"><ruby>武林<rt>ぶりん</rt></ruby>伝説</EndIcon>
 </td>
 <td>
 <span style="color: Yellow;">【西武林盟】</span><br>
@@ -698,7 +698,7 @@ tags:
 エンディング50
 </td>
 <td style="color: #a83232;">
-<EndIcon no="50">峨嵋弟子</EndIcon>
+<EndIcon no="50"><ruby>峨嵋<rt>がび</rt></ruby>弟子</EndIcon>
 </td>
 <td>
 <span style="color: #FF1493;">【結縁？】</span><br>

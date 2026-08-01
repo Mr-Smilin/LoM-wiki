@@ -33,8 +33,8 @@ tags:
 </td>
 <td><MarkdownWrapper>[武穆王の宝蔵談義](/ja/event/simple/1-08-1-談論武穆王寶藏)</MarkdownWrapper></td>
 <td>• 以下いずれかの条件を満たすと、このイベントが自動発生する:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 唐陞好感≧25。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 江湖快報を3部以上購入。
+    <br>1. 唐陞好感≧25。
+    <br>2. 江湖快報を3部以上購入。
 </td>
 <td>• 江湖快報は月に1部しか購入できない。</td>
 </tr>
@@ -167,12 +167,12 @@ tags:
 </td>
 <td>錦香宮への道中及び滞在</td>
 <td>• 葉雲舟が同行する場合:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 道中イベント: 展開が変化し、葉雲舟が戦役に参加できる。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 展開が変化する。
+    <br>1. 道中イベント: 展開が変化し、葉雲舟が戦役に参加できる。
+    <br>2. 錦香宮: 展開が変化する。
     <br>• <Girl2Icon>葉雲裳</Girl2Icon>が同行する場合:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 道中イベント: 展開が変化する。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 展開が変化する。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 錦香宮: 華音閣で葉雲裳が琴を習うイベントが追加され、3回終えると温夫人の展開が発生する。これにより西武林ルートの📖「三師兄を護衛する」で雲裳の琴による支援を得られるため、発生させることを推奨する。
+    <br>1. 道中イベント: 展開が変化する。
+    <br>2. 錦香宮: 展開が変化する。
+    <br>3. 錦香宮: 華音閣で葉雲裳が琴を習うイベントが追加され、3回終えると温夫人の展開が発生する。これにより西武林ルートの📖「三師兄を護衛する」で雲裳の琴による支援を得られるため、発生させることを推奨する。
 </td>
 <td>現バージョンでは葉雲舟の同行は<Girl2Icon>葉雲裳</Girl2Icon>との結縁に紐づいているため、葉雲舟側の展開もあわせて記載する。</td>
 </tr>
@@ -182,12 +182,12 @@ tags:
 <td>3年目10月中旬</td>
 <td>武林大会</td>
 <td>• 葉雲舟が同行する場合:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 展開が変化する。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 唐門代表として比武に参加させられる。
+    <br>1. 展開が変化する。
+    <br>2. 唐門代表として比武に参加させられる。
     <br>• <Girl2Icon>葉雲裳</Girl2Icon>が同行する場合:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 展開が変化する。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 投票の結果、唐門が武林の公敵になり、かつ📖「葉雲裳に付き添ってもらう」を選ぶと、<MarkdownWrapper>[風雲史《悪人は悪人が制す (惡人自有惡人磨)》](/ja/event/achievements/#風雲史-No.19)</MarkdownWrapper>を解除できる。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 宿屋での休憩時、📖「湯浴み」の後📖「階下で飲む」を選ぶと南渓のイベントが発生し、葉家に関する展開があり、また<MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper>や<MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>で南渓が加勢するため、発生させることを推奨する。
+    <br>1. 展開が変化する。
+    <br>2. 投票の結果、唐門が武林の公敵になり、かつ📖「葉雲裳に付き添ってもらう」を選ぶと、<MarkdownWrapper>[風雲史《悪人は悪人が制す (惡人自有惡人磨)》](/ja/event/achievements/#風雲史-No.19)</MarkdownWrapper>を解除できる。
+    <br>3. 宿屋での休憩時、📖「湯浴み」の後📖「階下で飲む」を選ぶと南渓のイベントが発生し、葉家に関する展開があり、また<MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper>や<MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>で南渓が加勢するため、発生させることを推奨する。
 </td>
 <td>現バージョンでは葉雲舟の同行は<Girl2Icon>葉雲裳</Girl2Icon>との結縁に紐づいているため、葉雲舟側の展開もあわせて記載する。</td>
 </tr>
@@ -277,9 +277,9 @@ tags:
 
 ## 備考
 • 条件2で葉家兄妹が唐門に滞在することになると、結縁に必須ではないが<Girl2Icon>葉雲裳</Girl2Icon>が絡む随時イベントが発生するようになる。発生時期が固定されていないため、上表の条件の合間に挟まる。
-<br>&nbsp;&nbsp;&nbsp;&nbsp;• <MarkdownWrapper>[葉雲裳の診察とお出かけ](/ja/event/simple/1-08-3-雲裳問診出遊)</MarkdownWrapper>: 1年目8月下旬〜2年目3月に発生。葉雲裳の内傷が判明し、唐錚が治療を引き受ける経緯が語られる。
-<br>&nbsp;&nbsp;&nbsp;&nbsp;• <MarkdownWrapper>[紙札遊戯の対決](/ja/event/simple/1-09-2-紙牌對決)</MarkdownWrapper>: <MarkdownWrapper>[唐芳の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)</MarkdownWrapper>後、1年目9月中旬〜2年目5月下旬の毎月上旬に抽選。🎲天運で「葉雲裳の反則的な制圧」が出ると好感が上がる。
-<br>• <Girl2Icon>葉雲裳</Girl2Icon>を結縁せずただ生存させたいだけの場合、条件1・条件2を満たし、青城に留学せず(条件5参照)、条件7の🎲「葉雲裳の抵抗」と📖「葉雲舟を引き止める」を達成すればよい。ただしこの場合、彼女が再び登場するのは西武林ルートの最終決戦に勝利した時と[汗青書37：唐門の薪火](/ja/event/ends/end-37)の結末のみとなる。
+<br>• <MarkdownWrapper>[唐錚の診断](/ja/event/simple/1-08-3-唐錚診斷)・[葉雲裳とのお出かけ](/ja/event/simple/1-08-3-雲裳問診出遊)</MarkdownWrapper>: 1年目8月下旬〜2年目3月に発生。葉雲裳の内傷が判明し、唐錚が治療を引き受ける経緯が語られる。
+<br>• <MarkdownWrapper>[紙札遊戯の対決](/ja/event/simple/1-09-2-紙牌對決)</MarkdownWrapper>: <MarkdownWrapper>[唐芳の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)</MarkdownWrapper>後、1年目9月中旬〜2年目5月下旬の毎月上旬に抽選。🎲天運で「葉雲裳の反則的な制圧」が出ると好感が上がる。
+<br>• <Girl2Icon>葉雲裳</Girl2Icon>を結縁せずただ生存させたいだけの場合、条件1・条件2を満たし、青城に留学せず(条件5参照)、条件7の🎲「葉雲裳の抵抗」と📖「葉雲舟を引き止める」を達成すればよい。ただしこの場合、彼女が再び登場するのは西武林ルートの最終決戦に勝利した時と[汗青書37：唐門の火種](/ja/event/ends/end-37)の結末のみとなる。
 <br>• このルートは多くの武学の修練を要求し、また金銭を消費するサブイベントも多いため、2周目以降の資源が充実した状態での攻略を推奨する。
 <br>• 本ページは現時点で主に[〈活俠傳イベント及び分岐まとめ〉](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)を参考に執筆しており、まだ繰り返しの検証を経ていない。
 <br>• 唐芳が帰らない不具合(v1.0.5000.13): 2年目1月下旬に条件1を満たし、かつ2月下旬になってから条件2を満たした場合、イベント同士の間隔設定により「唐芳の帰還」イベントが発生しなくなる。ただし唐芳が本ルートの重要な展開を欠席することはない。彼女に関する展開の大半は「唐芳の帰還」の発生を判定条件にしていないためである。

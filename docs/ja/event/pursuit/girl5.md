@@ -71,8 +71,8 @@ tags:
 <td>3年目6月上旬</td>
 <td><MarkdownWrapper>[雪山への旅](/ja/event/simple/3-06-1-雪山行)</MarkdownWrapper></td>
 <td>• 出発前の準備:
-    <br> &nbsp;&nbsp;&nbsp;&nbsp;1. 想い人が<Girl5Icon>夏侯蘭</Girl5Icon>であることを確認。
-    <br> &nbsp;&nbsp;&nbsp;&nbsp;2. 酒を持っていない場合、出発前に何らかの酒を購入しておく(必須ではないが強く推奨)。
+    <br> 1. 想い人が<Girl5Icon>夏侯蘭</Girl5Icon>であることを確認。
+    <br> 2. 酒を持っていない場合、出発前に何らかの酒を購入しておく(必須ではないが強く推奨)。
     <br>• 条件4を満たした後、唐門月例会議に📜「雪山行」が自動的に追加される。
     <br>• この選択肢を選ぶと、<Girl5Icon>夏侯蘭</Girl5Icon>と共に雪山へ向かう。
 </td>
@@ -86,16 +86,16 @@ tags:
 <td>3年目7月中旬</td>
 <td><MarkdownWrapper>[雪山の約束](/ja/event/simple/3-07-2-雪山之約)</MarkdownWrapper></td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>の心法伝授の際、3回の機会すべてで📖「抵抗」を選び、かつ4回の🎲天命のうち少なくとも1回は【=99】「抵抗」成功を出す必要がある:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 2回目の📖「抵抗」選択には酒を持っている必要がある。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 3回目の📖「抵抗」選択には想い人が夏侯蘭である必要がある。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. <MarkdownWrapper>[運命収束の力](/ja/event/achievements/#風雲史-No.16)</MarkdownWrapper>を持っていない場合、少なくとも夏侯蘭好感≧49がないと1回も成功しない。
+    <br>1. 2回目の📖「抵抗」選択には酒を持っている必要がある。
+    <br>2. 3回目の📖「抵抗」選択には想い人が夏侯蘭である必要がある。
+    <br>3. <MarkdownWrapper>[運命収束の力](/ja/event/achievements/#風雲史-No.16)</MarkdownWrapper>を持っていない場合、少なくとも夏侯蘭好感≧49がないと1回も成功しない。
     <br>• 抵抗に成功すると夏侯蘭が危篤に陥る展開が発生し、続けて🗡️夏侯蘭と決闘、勝利すれば結縁イベントに進む。
     <br>• イベント終了後に道具【夏侯蘭の髪帯】を入手し、結縁成功。</td>
 <td>• 伝授を受け入れるか抵抗に失敗すると、<Girl5Icon>夏侯蘭</Girl5Icon>は死去し、スキル<MarkdownWrapper>[玄黄納心綱](/ja/system/skill)</MarkdownWrapper>(展開の記念品、効果なし)を獲得する。
     <br>• 酒の種類によって展開が異なり、優先度は以下の通り:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. <MarkdownWrapper>[菊花酒](/ja/event/simple/3-07-2-雪山之約)</MarkdownWrapper>: 第三香を撃破した後、🎲【≧70】「見逃す」、続けて🎲【≧60】「何もない」を出す。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. <MarkdownWrapper>[猿酒](/ja/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[帰路での襲撃](/ja/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>で唐布衣が危篤の際に📖「お前が隠して飲ませなかった猿酒だな」を選択、同年3月上旬に後山で入手。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. その他の酒。
+    <br>1. <MarkdownWrapper>[菊花酒](/ja/event/simple/3-07-2-雪山之約)</MarkdownWrapper>: 第三香を撃破した後、🎲【≧70】「見逃す」、続けて🎲【≧60】「何もない」を出す。
+    <br>2. <MarkdownWrapper>[猿酒](/ja/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[帰路での襲撃](/ja/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>で唐布衣が危篤の際に📖「お前が隠して飲ませなかった猿酒だな」を選択、同年3月上旬に後山で入手。
+    <br>3. その他の酒。
     <br>• 🗡️夏侯蘭との決闘に敗北した場合、<MarkdownWrapper>[生死簿74：花との合葬](/ja/event/badends/badend-74)</MarkdownWrapper>に進む。</td>
 </tr>
 
@@ -146,7 +146,7 @@ tags:
     <br>• または4年目2月中旬(西武林盟成立)</td>
 <td>夏侯蘭に付き添う</td>
 <td>• 大門から下山すると<Girl5Icon>夏侯蘭</Girl5Icon>と付き添うイベントが発生する。
-    <br>• 他にも結縁している相手がいる場合、いずれかの付き添いイベントが修羅場イベントに差し替えられ、🗡️決闘に敗北すると<MarkdownWrapper>[生死簿82：かの封印されしエクゾディアのごとく](/ja/event/badends/#生死簿-No.82)</MarkdownWrapper>に進む。</td>
+    <br>• 他にも結縁している相手がいる場合、いずれかの付き添いイベントが修羅場イベントに差し替えられ、🗡️決闘に敗北すると<MarkdownWrapper>[生死簿82：かの暗黒大法師のごとく](/ja/event/badends/#生死簿-No.82)</MarkdownWrapper>に進む。</td>
 <td>このイベントを発生させない場合、残り行動回数2の時点で夏侯蘭が待ちぼうけを食らうイベントが自動発生する。</td>
 </tr>
 

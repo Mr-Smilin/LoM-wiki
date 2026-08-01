@@ -1,6 +1,6 @@
 ---
-title: 汗青書49：異郷の客 (喪家之犬)
-description: 汗青書49：異郷の客
+title: 汗青書49：宿無し犬 (喪家之犬)
+description: 汗青書49：宿無し犬
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -9,14 +9,14 @@ tags:
     - ends
     - 汗青書
     - エンディング
-    - 異郷の客
+    - 宿無し犬
     - 南宮深
 ---
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=49 title="異郷の客">
-お前には風雨をしのぐ家があるが、もはや帰る故郷はない。<br>
+<EndBackground no=49 title="宿無し犬">
+あなたには雨風をしのぐ家がある。<br>だが、帰れる故郷はもう無い。<br>
 <br>
 <br>
 <br>
@@ -54,4 +54,4 @@ tags:
 + <Girl0Icon>唐默鈴</Girl0Icon>：東海へ逃げる
 + <Girl5Icon>夏侯蘭</Girl5Icon>：大雪山へ戻る
 + <Girl8Icon>龍湘</Girl8Icon>：金国へ逃げる
-※異郷の客の結縁優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+※宿無し犬の結縁優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>

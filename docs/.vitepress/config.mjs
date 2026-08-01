@@ -868,7 +868,7 @@ const baseConfig = {
 									link: "/ja/other/guide/mechanism/surrender",
 								},
 								{
-									text: "命運について",
+									text: "運命について",
 									link: "/ja/other/guide/mechanism/destiny",
 								},
 								{

@@ -1,6 +1,6 @@
 ---
-title: 汗青書11：故郷へ帰る魂 (魂歸故里)
-description: 汗青書11：故郷へ帰る魂
+title: 汗青書11：落葉帰根 (魂歸故里)
+description: 汗青書11：落葉帰根
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -9,14 +9,14 @@ tags:
     - ends
     - 汗青書
     - 結局
-    - 故郷へ帰る魂
+    - 落葉帰根
     - 虞小梅
 ---
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=11 title="故郷へ帰る魂">
-おかえりなさい。<br>
+<EndBackground no=11 title="落葉帰根">
+おかえり。<br>
 <br>
 <br>
 <br>

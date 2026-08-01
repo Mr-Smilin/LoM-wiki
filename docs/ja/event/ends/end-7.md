@@ -15,7 +15,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=7 title="孤独死">
-万籁倶に寂しく、天地無声にして、あなたはついに安寧を見いだした。<br>
+<ruby>万籟<rt>ばんらい</rt></ruby>は寂として、天地に音無し。<br>あなたはようやく、安寧を見つけた。<br>
 <br>
 <br>
 <br>

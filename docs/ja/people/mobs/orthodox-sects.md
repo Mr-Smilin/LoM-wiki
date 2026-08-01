@@ -68,7 +68,7 @@ tags:
 
 ## 峨嵋派
 
-### 木達/霍郎/葉辰A
+### 木達/霍さん (霍郎)/葉辰A
 
 <img src="/images/mobs/emei-sect/trainee1_normal.webp" style="width:200px;" />
 <table>

@@ -105,7 +105,7 @@ tags:
 
 ## 女性の村人
 
-### 朱嬸
+### 朱おばさん (朱嬸)
 
 <img src="/images/mobs/folks/female1_normal.webp" style="width:200px;" />
 <table>
@@ -175,7 +175,7 @@ tags:
     </tr>
 </table>
 
-### 孫嬸
+### 孫おばさん (孫嬸)
 
 <img src="/images/mobs/folks/female6_normal.webp" style="width:200px;" />
 <table>

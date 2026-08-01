@@ -149,7 +149,7 @@ tags:
     <br>• または4年目2月中旬残り2回の行動(西武林盟成立失敗により徹底抗戦)</td>
 <td><MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper></td>
 <td>• <Girl0Icon>唐默鈴</Girl0Icon>が最終決戦に参加できる。
-    <br>• 最終決戦勝利後、汗青書<MarkdownWrapper>[《唐門の薪火》](/ja/event/ends/end-37)</MarkdownWrapper>に進める。</td>
+    <br>• 最終決戦勝利後、汗青書<MarkdownWrapper>[汗青書37：唐門の火種](/ja/event/ends/end-37)</MarkdownWrapper>に進める。</td>
 <td>• 梁有詩が葉雲裳を救出するイベントが発生していた場合、結末の展開が異なる。
     <br>• 複数人と結縁している場合、滅門ルート結末の結縁優先度(v1.0.3201.1)：
     <br><Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>

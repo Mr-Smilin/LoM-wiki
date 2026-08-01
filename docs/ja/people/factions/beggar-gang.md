@@ -110,7 +110,7 @@ tags:
 
 ## 秘笈
 
-- [揍狗拳](/ja/system/books/book_3002)
+- [打狗拳](/ja/system/books/book_3002)
 - [阿摩搪牆拳](/ja/system/books/book_4040)
 - [蓮花落](/ja/system/books/book_7001)
 - [八荒奪路逃](/ja/system/books/book_4030)

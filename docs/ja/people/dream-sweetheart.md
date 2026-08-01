@@ -94,7 +94,7 @@ tags:
     <tr>
         <td><Girl1Icon :size="`medium`" href="/ja/people/characters/girl1">瑞杏</Girl1Icon></td>
         <td>1</td>
-        <td>錦嚢を開く<br>(命運100が必要)</td>
+        <td>錦嚢を開く<br>(運命100が必要)</td>
         <td></td>
         <td></td>
         <td>現バージョンでは攻略不可</td>
