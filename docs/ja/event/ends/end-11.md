@@ -15,7 +15,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=11 title=落葉帰根">
+<EndBackground no=11 title="落葉帰根">
 おかえり。<br>
 <br>
 <br>
