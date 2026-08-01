@@ -33,8 +33,8 @@ tags:
 </td>
 <td><MarkdownWrapper>[談論武穆王寶藏](/event/simple/1-08-1-談論武穆王寶藏)</MarkdownWrapper></td>
 <td>• 滿足以下任一條件，以自動觸發此事件:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 唐陞好感≧25。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 購買三份以上江湖快報。
+    <br>1. 唐陞好感≧25。
+    <br>2. 購買三份以上江湖快報。
 </td>
 <td>• 江湖快報每月僅能購買一份。</td>
 </tr>
@@ -173,12 +173,12 @@ tags:
 </td>
 <td>前往及留宿錦香宮</td>
 <td>• 若葉雲舟同行:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 旅途事件: 劇情變化、葉雲舟可參與戰役。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 劇情變化。
+    <br>1. 旅途事件: 劇情變化、葉雲舟可參與戰役。
+    <br>2. 錦香宮: 劇情變化。
     <br>• 若<Girl2Icon>葉雲裳</Girl2Icon>同行:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 旅途事件: 劇情變化。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 錦香宮: 劇情變化。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 錦香宮: 華音閣增加葉雲裳學琴事件，三次後觸發溫夫人劇情，可使西武林線📖「護衛三師兄」時得到雲裳彈琴的協助(故建議觸發)。
+    <br>1. 旅途事件: 劇情變化。
+    <br>2. 錦香宮: 劇情變化。
+    <br>3. 錦香宮: 華音閣增加葉雲裳學琴事件，三次後觸發溫夫人劇情，可使西武林線📖「護衛三師兄」時得到雲裳彈琴的協助(故建議觸發)。
 </td>
 <td>目前葉雲舟同行綁定<Girl2Icon>葉雲裳</Girl2Icon>結緣，故也列出葉雲舟的劇情變化。</td>
 </tr>
@@ -188,12 +188,12 @@ tags:
 <td>第三年十月中旬</td>
 <td>武林大會</td>
 <td>• 若葉雲舟同行:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 劇情變化。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 可讓他代表唐門參加比武。
+    <br>1. 劇情變化。
+    <br>2. 可讓他代表唐門參加比武。
     <br>• 若<Girl2Icon>葉雲裳</Girl2Icon>同行:
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;1. 劇情變化。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;2. 若投票後唐門成為武林公敵，且選擇📖「讓葉雲裳陪伴」，可解鎖<MarkdownWrapper>[風雲史《惡人自有惡人磨》](/event/achievements/#風雲史-No.19)</MarkdownWrapper>。
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;3. 客棧休憩時，📖「洗澡」再📖「下樓喝酒」可觸發南溪劇情，有葉家相關劇情，且<MarkdownWrapper>[唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper>或<MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>時南溪會加入，故建議觸發。
+    <br>1. 劇情變化。
+    <br>2. 若投票後唐門成為武林公敵，且選擇📖「讓葉雲裳陪伴」，可解鎖<MarkdownWrapper>[風雲史《惡人自有惡人磨》](/event/achievements/#風雲史-No.19)</MarkdownWrapper>。
+    <br>3. 客棧休憩時，📖「洗澡」再📖「下樓喝酒」可觸發南溪劇情，有葉家相關劇情，且<MarkdownWrapper>[唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper>或<MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>時南溪會加入，故建議觸發。
 </td>
 <td>目前葉雲舟同行綁定<Girl2Icon>葉雲裳</Girl2Icon>結緣，故也列出葉雲舟的劇情變化。</td>
 </tr>
