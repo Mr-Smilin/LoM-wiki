@@ -495,9 +495,9 @@ tags:
     <td rowspan = 3 style="text-align: center">十二</td>
     <td style="text-align: center">上</td>
     <td colspan = 4 style="text-align: center">
-        葉雲舟の帰還<br>
-        葉雲舟、借金を返す<br>
         <MarkdownWrapper>
+        [葉雲舟の帰還](/ja/event/simple/2-12-1-葉雲舟歸來)<br>
+        [葉雲舟の返済](/ja/event/simple/2-12-1-葉雲舟還錢)<br>
         [大師兄、刺金行の顛末](/ja/event/simple/2-12-1-大師兄刺金行)<br>
         </MarkdownWrapper>
         <li>唐門例会</li>
@@ -799,6 +799,7 @@ tags:
       大戦前夜<br>
       伴侶との約束<br>
       [唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)<br>
+      [飛俠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)<br>
     </MarkdownWrapper>
   </td>
   <td colspan = 2 style="text-align: center">
@@ -849,6 +850,7 @@ tags:
   <td style="text-align: center">
     <MarkdownWrapper>
       [東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)<br>
+      [飛俠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)<br>
     </MarkdownWrapper>
   </td>
 </tr>

@@ -152,9 +152,9 @@ aside: false
 ## 備考
 
 -   行商の都合で常に寝室では眠らない。だが彼が帰ってくる時、皆が眠れないほど部屋が狭くなる。
--   揚げたてを愛食する。
+-   揚げパンの油条（ユウティアオ）が好物。
 -   廃廟ルートにおいて[趙活](/ja/people/characters/player)が青城に療傷に赴いたと聞き、すぐに探しに向かった。だが青城掌門に土産を買うことを望まなかったので、青城山鎮に住み続けることになった。青城山鎮都江客栈の楚掌櫃とは古い付き合いがあり、彼が困窮していた時に一筆の救命銭を与えた。これで恩を盾に永久住店特権を獲得した。
--   [葉雲裳](/ja/people/characters/girl2.md)に四師肥と呼ばれている。散々からかわれている。
+-   [葉雲裳](/ja/people/characters/girl2)に四師肥と呼ばれている。散々からかわれている。
 
 [^1]: [問答集2024-10-08](/ja/other/qna/202410)
 [^2]: Facebook - [オリジナル鳥熊2024/6/1](https://www.facebook.com/obbstudio/posts/pfbid02DWHjzPLdRguLBns6wSeWRQUC1DcNr4nRNhgGfytbghiHANhircvTyAGndWyktv5Dl)

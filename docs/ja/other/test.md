@@ -242,7 +242,7 @@ tags:
       </ChTr>
       <ChTr>
         <ChTd position='center'>
-          絵の中の仙(師姐)
+          絵の中の仙(師姉)
         </ChTd>
       </ChTr>
       <ChTr>

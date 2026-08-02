@@ -34,4 +34,4 @@ tags:
 3. 錦香宮を支持し、⚔️ 戦役の勝敗は影響しない。**🆚 決闘：[上官隼](/ja/people/characters/special407)** または **🆚 決闘：[南宮深](/ja/people/characters/special102)**、敗北後に殺される。
 
 ## 豆知識
-<Girl0Icon>唐默鈴</Girl0Icon>の代表的な武功は「天地無声勢」である。
+<Girl0Icon>唐默鈴</Girl0Icon>の代表的な武功は「天地無音勢」である。

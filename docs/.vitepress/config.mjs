@@ -694,6 +694,10 @@ const baseConfig = {
 							{ text: "呼称表", link: "/ja/address-terms" },
 							{ text: "一人称表", link: "/ja/first-person-pronouns" },
 							{
+								text: "日本語化MOD 版別変更点",
+								link: "/ja/other/jp-mod-changes",
+							},
+							{
 								text: "解析データ",
 								items: [
 									{

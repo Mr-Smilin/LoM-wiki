@@ -81,8 +81,8 @@ aside: false
   <Tab title="列伝二">
 	本名は王春暁。祖先の代からずっと武官で、王春暁も恩恵を受けて、定遠郎に封じられた。<br><br>
 	だが彼は文質彬彬で、武功よりもむしろ詩を吟じたり囲碁をしたりするのが好きだった。兵書も読んではいたが、戦場に出て国を守ることを考えると、すぐに震えが止まらなくなったのだ。<br><br>
-	[南宮遠](/ja/people/characters/special101)と知り合い、[蘇迎香](/ja/people/characters/special402)と邂逅してから、美しい人の好意を得るために、仕方なく江湖に入って活動することになった。<br><br>
-	彼はあらゆる点で[南宮遠](/ja/people/characters/special101)より優れていたが、蘇迎香の目には[南宮遠](/ja/people/characters/special101)しか映っていなかった。王春暁はこのため深く傷つき、泣きじゃくって自暴自棄になり、涙ながらに東林寺へ走って出家さえ願った。こうして人生を変えるきっかけに出会ったのだ。<br><br>
+	<MarkdownWrapper>[南宮遠](/ja/people/characters/special101)</MarkdownWrapper>と知り合い、<MarkdownWrapper>[蘇迎香](/ja/people/characters/special402)</MarkdownWrapper>と邂逅してから、美しい人の好意を得るために、仕方なく江湖に入って活動することになった。<br><br>
+	彼はあらゆる点で<MarkdownWrapper>[南宮遠](/ja/people/characters/special101)</MarkdownWrapper>より優れていたが、蘇迎香の目には<MarkdownWrapper>[南宮遠](/ja/people/characters/special101)</MarkdownWrapper>しか映っていなかった。王春暁はこのため深く傷つき、泣きじゃくって自暴自棄になり、涙ながらに東林寺へ走って出家さえ願った。こうして人生を変えるきっかけに出会ったのだ。<br><br>
 	彼は春眠大師に弟子入りし、ただ仏法を学びたいと思っていただけだった。ところが春眠大師はどうしても彼に武功を修行させようと強要した。王春暁はずっと後になって知った――彼の師父こそが東十三州の武覇王、伝説の紅蓬王だったのだ。
   </Tab>
 </Tabs>

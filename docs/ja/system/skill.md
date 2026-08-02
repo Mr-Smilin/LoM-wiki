@@ -350,7 +350,7 @@ tags:
     <tr>
         <td>三教合一</td>
         <td>1~5</td>
-        <td>既に習得した儒道釈学に基づいて内功を上昇</td>
+        <td>既に習得した儒学・道学・仏学に基づいて内功を上昇</td>
         <td><MarkdownWrapper>[《全真天遁剣法》](/ja/system/books/book_2401)</MarkdownWrapper></td>
     </tr>    <tr>
         <td>寂滅三摩地</td>

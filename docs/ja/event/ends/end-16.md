@@ -30,9 +30,12 @@ tags:
 
 <strong>条件：</strong><Girl5Icon>夏侯蘭</Girl5Icon>に師事していない<br>
 **フロー：**<br>
-1. 三年目五月上旬、比武招親の夜に[金烏上人](/ja/people/characters/special207)が襲来。**📜「武徳を無視して袋叩きにする」**を選択、⚔️混戦で敗戦。道徳≧40【中庸、好人、侠客】なら本エンディングに到達。
+1. 三年目五月上旬、比武招親の夜に[金烏上人](/ja/people/characters/special207)が襲来。**📜「武徳を無視して袋叩きにする」**を選択、⚔️混戦で敗戦。道徳≧40【中庸、善人、侠客】なら本エンディングに到達。
 
 ## 分岐と変化
 
 ### 唐默鈴同行時の下山
 <Girl0Icon>唐默鈴</Girl0Icon>が同行して下山する場合（想い人が<Girl0Icon>唐默鈴</Girl0Icon>で、かつ<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50が必要）、<Girl0Icon>唐默鈴</Girl0Icon>は[金烏上人](/ja/people/characters/special207)に点穴され連れ去られるが、伝説テキストには影響しない。
+
+### 葉雲舟同行時の下山
+<Girl0Icon>唐默鈴</Girl0Icon>が同行して下山する場合に限り、[葉雲舟](/ja/people/characters/special3)が唐門に残っていると彼が<Girl0Icon>唐默鈴</Girl0Icon>を奪い返すため、本エンディングではなく<BadendIcon :no="42">生死簿 No.42</BadendIcon>「宿無し犬の末路」に到達する。この場合に本エンディングへ進むには、それまでに[葉雲舟](/ja/people/characters/special3)が唐門を離れている必要がある。<Girl0Icon>唐默鈴</Girl0Icon>が同行しない場合は<BadendIcon :no="42">生死簿 No.42</BadendIcon>の条件を満たさないため、[葉雲舟](/ja/people/characters/special3)の去就は本エンディングの到達可否に影響しない。
