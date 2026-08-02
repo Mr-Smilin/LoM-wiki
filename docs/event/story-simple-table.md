@@ -66,7 +66,7 @@ tags:
 			<td>六月</td>
 			<td>
 				<MarkdownWrapper>
-				[貢獻評點](/event/simple/1-06-1-貢獻評點)<br>
+				[貢獻評點](/event/simple/1-05-1-貢獻評點)<br>
 				[掌門的安排](/event/simple/1-06-1-掌門的安排)<br>
 				</MarkdownWrapper>
 			</td>
