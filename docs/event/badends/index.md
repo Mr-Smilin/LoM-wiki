@@ -2318,7 +2318,7 @@ tags:
             -
         </td>
         <td>
-            青城線，道德為惡棍，申屠龍把脈的時候決鬥並打贏。
+            青城線<MarkdownWrapper>[「青城醒轉」](/event/simple/2-08-3-青城醒轉)</MarkdownWrapper>事件，道德為惡棍，申屠龍把脈的時候決鬥並打贏。
         </td>
         <td>
             -
