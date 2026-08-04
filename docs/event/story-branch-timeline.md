@@ -10,6 +10,11 @@ tags:
 
 # {{ $frontmatter.title }}
 
+::: warning
+因事件繁雜不易以總覽方式列出內容，本頁面久未更新，請使用[主支線簡易表格](/event/story-simple-table)進入各事件頁面。
+:::
+<br>
+
 <div class="timeline-container">
 
 ## 週期性事件
@@ -647,7 +652,5 @@ tags:
 </BTable>
 </div>
 
-::: warning
-這是一個正在施工的頁面，敬請期待更多內容。
+## 備註
 <a href="https://docs.google.com/spreadsheets/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o/preview?gid=1043011068#gid=1043011068" target="_blank">點此進入原始資料</a>
-:::
