@@ -354,7 +354,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
             [青城醒轉](/event/simple/2-08-3-青城醒轉)<br>
-            青城導覽<br>
+            [青城導覽](/event/simple/2-08-3-青城導覽)<br>
             青城排擠<br>
         </MarkdownWrapper>
     </td>
