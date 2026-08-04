@@ -129,7 +129,7 @@ tags:
 ## 計策
 
 -   [決戦極楽教](/ja/event/stories/決戰極樂教)の最後で、西夏の援軍を断って、極楽教の指導者たちを華山に追い詰め、彼らを正派との決死戦に追い込むという献策をした。
--   唐門が葉家兄妹を受け入れているのは彼らを軟禁して宝物を奪うためだと疑った。[段智秀](/ja/people/characters/special833)が[葉雲裳](/ja/people/characters/girl2)を唐門から逃がそうとして南宮世家に助けを求めたが拒否され、その隙をついた[温夫人](/ja/people/characters/special402)に唆されて事件を起こされた。これが唐門夜襲事件を引き起こした。一方、[杏花仙](/ja/people/characters/girl1)は計謀に計謀で対抗して、錦香宮の弟子の名義で錦囊を贈って人を傷つけようとしたが、温夫人は予想していなかった。
+-   唐門が葉家兄妹を受け入れているのは彼らを軟禁して宝物を奪うためだと疑った。[段智秀](/ja/people/characters/special833)が[葉雲裳](/ja/people/characters/girl2)を唐門から逃がそうとして南宮世家に助けを求めたが拒否され、その隙をついた[温夫人](/ja/people/characters/special402)に唆されて事件を起こされた。これが唐門夜襲事件を引き起こした。一方、[杏花仙](/ja/people/characters/girl1)は計謀に計謀で対抗して、錦香宮の弟子の名義で錦嚢を贈って人を傷つけようとしたが、温夫人は予想していなかった。
 -   [趙活](/ja/people/characters/player)は[温夫人](/ja/people/characters/special402)にとって予期しない異数だ。彼の行動は彼女の計算の中に入っていない。
 -   錦香宮が風雨山で剣鞘の絹紐が燃えた時に生じた毒煙は、実は温夫人が事前に[唐錚](/ja/people/characters/brother2)に頼んで密かに準備させたものだ。
 

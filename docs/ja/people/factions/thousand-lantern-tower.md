@@ -87,7 +87,7 @@ tags:
 
 <br>
 
-第三代千面人魔、楊玄奇。前武林盟主[龍淵](/ja/people/characters/special2)を追殺するため、眉山鎮川泉酒家の店小二に化身して3年、掌櫃の娘と成親し、妻子はすでに出産しています。[龍淵](/ja/people/characters/special2)の一席話と[杏花林](/ja/people/factions/apricot-forest)から求めた錦囊を見て、初心を改めて暗から明へ、両人は監視する千灯楼の殺し手を引き出すため一戦を演じ、楊某の家族を[錦香宮](/ja/people/factions/jin-xiang-palace.md)に送り届けました。残念ながら千灯楼の魔爪から逃れられず、西武林戦に[唐門](/ja/people/factions/tang-men.md)進攻に強制参加させられました。
+第三代千面人魔、楊玄奇。前武林盟主[龍淵](/ja/people/characters/special2)を追殺するため、眉山鎮川泉酒家の店小二に化身して3年、掌櫃の娘と成親し、妻子はすでに出産しています。[龍淵](/ja/people/characters/special2)の一席話と[杏花林](/ja/people/factions/apricot-forest)から求めた錦嚢を見て、初心を改めて暗から明へ、両人は監視する千灯楼の殺し手を引き出すため一戦を演じ、楊某の家族を[錦香宮](/ja/people/factions/jin-xiang-palace.md)に送り届けました。残念ながら千灯楼の魔爪から逃れられず、西武林戦に[唐門](/ja/people/factions/tang-men.md)進攻に強制参加させられました。
 
 <br>
 

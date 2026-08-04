@@ -329,7 +329,7 @@ tags:
         <td>秘笈<MarkdownWrapper>[《金鐘罩》](/ja/system/books/book_1030)</MarkdownWrapper></td>
     </tr>
     <tr>
-        <td>点蒼快剣</td>
+        <td>点蒼瞬剣</td>
         <td>1~4</td>
         <td>軽功に基づいて刀剣を上昇（毎級2%転化率、最高8%）</td>
         <td><MarkdownWrapper>[《点蒼剣譜》](/ja/system/books/book_2300)</MarkdownWrapper><br><MarkdownWrapper>[《雲裳剣法》](/ja/system/books/book_2302)</MarkdownWrapper></td>
@@ -343,7 +343,7 @@ tags:
     <tr>
         <td>孟子曰</td>
         <td>-</td>
-        <td>敵が怒っている時に発動。口撃が【戦神語録】に変化（口撃と同じ気を消費）
+        <td>敵が怒っている時に発動。口功が【戦神語録】に変化（口功と同じ気を消費）
 <br>敵の行動を無効にして【内傷】を引き起こす</td>
         <td><MarkdownWrapper>[《戦神語録》](/ja/system/books/book_8007)</MarkdownWrapper></td>
     </tr>

@@ -112,7 +112,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2300`">点蒼剣譜</BookItemIcon></td>
-        <td>刀剣10<br>軽功10<br>点蒼快剣LV2<br>点破雲関</td>
+        <td>刀剣10<br>軽功10<br>点蒼瞬剣LV2<br>点破雲関</td>
         <td>50</td>
         <td>刀剣10 (LV6)</td>
         <td>四書イベント<br>牛買いイベント－葉家兄妹にお金をもらって入手<br>二年一月上旬－唐惟元から購入<br>二年崆峒派留学－無色広場の街歩き、唐惟元から購入 ($2500)</td>
@@ -128,7 +128,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`2302`">雲裳剣法</BookItemIcon></td>
-        <td>刀剣+8<br>点蒼快剣LV2</td>
+        <td>刀剣+8<br>点蒼瞬剣LV2</td>
         <td>50</td>
         <td>学問20</td>
         <td>三年一月上旬－葉家との別れ (葉雲裳好感&gt;5★で贈与)</td>
@@ -138,7 +138,7 @@ tags:
         <td><BookItemIcon :no="`2303`">点蒼棒法</BookItemIcon></td>
         <td>刀剣5<br>做人没有下限LV1<br>戦術LV1<br>難知如陰LV1<br>道徳-5</td>
         <td>50</td>
-        <td>道徳&lt;40<br>または<br>点蒼快剣LV1</td>
+        <td>道徳&lt;40<br>または<br>点蒼瞬剣LV1</td>
         <td>二年青城留学で九月下旬までに、3回修練していじめイベントを発生させ、ダイス【申屠龍的抵抗】</td>
         <td></td>
     </tr>
@@ -196,8 +196,8 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`3002`">揍狗拳</BookItemIcon></td>
-        <td>拳掌5<br>揍狗拳</td>
+        <td><BookItemIcon :no="`3002`">打狗拳</BookItemIcon></td>
+        <td>拳掌5<br>打狗拳</td>
         <td>25</td>
         <td>拳掌10</td>
         <td>二年崆峒派留学－鉄拳門の季試で勝利 (諸説あり)<br>囲城イベント－阿牛を診療した後、阿牛を人質に決闘</td>

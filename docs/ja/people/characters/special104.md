@@ -1,5 +1,5 @@
 ---
-title: 南宮橫 (ナングウオウ)
+title: 南宮橫 (ナンキュウコウ)
 aside: false
 outline: [2, 3]
 sidebar: false

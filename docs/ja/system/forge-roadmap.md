@@ -23,12 +23,12 @@ tags:
 } }%%
 graph TB
   subgraph 鍛冶場 - 装備 - 武器
-    A[唐門小劍<img src="/LoM-wiki/images/items/swords/icon_sword_01.webp"><br>必要：なし]
-    B[唐門菁英小劍<img src="/LoM-wiki/images/items/swords/icon_sword_10.webp"><br>必要：装備レベル5<br>門派規模2]
-    C[唐門傳承小劍<img src="/LoM-wiki/images/items/swords/icon_sword_20.webp"><br>必要：装備レベル10<br>門派規模2]
-    D[切魚刀<img src="/LoM-wiki/images/items/swords/icon_sword_11.webp"><br>必要：装備レベル5<br>門派規模2]
+    A[唐門短剣<img src="/LoM-wiki/images/items/swords/icon_sword_01.webp"><br>必要：なし]
+    B[唐門精鋭短剣<img src="/LoM-wiki/images/items/swords/icon_sword_10.webp"><br>必要：装備レベル5<br>門派規模2]
+    C[唐門伝承短剣<img src="/LoM-wiki/images/items/swords/icon_sword_20.webp"><br>必要：装備レベル10<br>門派規模2]
+    D[魚切り包丁<img src="/LoM-wiki/images/items/swords/icon_sword_11.webp"><br>必要：装備レベル5<br>門派規模2]
     E[玉霄神匕<img src="/LoM-wiki/images/items/swords/icon_sword_21.webp"><br>必要：装備レベル10]
-    F[瀝泉小劍<img src="/LoM-wiki/images/items/swords/icon_sword_22.webp"><br>必要：装備レベル10<br>門派規模2]
+    F[瀝泉短剣<img src="/LoM-wiki/images/items/swords/icon_sword_22.webp"><br>必要：装備レベル10<br>門派規模2]
     G[金錢劍<img src="/LoM-wiki/images/items/swords/icon_sword_12.webp"><br>必要：装備レベル10]
   end
 
@@ -93,7 +93,7 @@ graph TB
     B[軽量化<img src="/LoM-wiki/images/items/equips/icon_equip_11.webp"><br>必要：装備レベル5<br>門派規模2]
     C[護心鏡<img src="/LoM-wiki/images/items/equips/icon_equip_10.webp"><br>必要：装備レベル10<br>門派規模2]
     D[密密縫<img src="/LoM-wiki/images/items/equips/icon_equip_20.webp"><br>必要：装備レベル10<br>門派規模3]
-    E[牛皮制服<img src="/LoM-wiki/images/items/equips/icon_equip_22.webp"><br>必要：装備レベル10<br>門派規模2]
+    E[牛革の制服<img src="/LoM-wiki/images/items/equips/icon_equip_22.webp"><br>必要：装備レベル10<br>門派規模2]
     F[紙甲<img src="/LoM-wiki/images/items/equips/icon_equip_21.webp"><br>必要：装備レベル10<br>門派規模3]
   end
 
@@ -149,8 +149,8 @@ graph TB
   subgraph 鍛冶場 - 暗器 - 平射
     A[脱手鏢<img src="/LoM-wiki/images/items/knifes/icon_knife_01.webp"><br>必要：なし]
     B[飛梭<img src="/LoM-wiki/images/items/knifes/icon_knife_11.webp"><br>必要：装備レベル5<br>門派規模2]
-    C[無形箭<img src="/LoM-wiki/images/items/knifes/icon_knife_21.webp"><br>必要：装備レベル10<br>門派規模3]
-    D[鐵橄欖<img src="/LoM-wiki/images/items/knifes/icon_knife_10.webp"><br>必要：装備レベル10<br>門派規模2]
+    C[無形矢<img src="/LoM-wiki/images/items/knifes/icon_knife_21.webp"><br>必要：装備レベル10<br>門派規模3]
+    D[鉄橄欖<img src="/LoM-wiki/images/items/knifes/icon_knife_10.webp"><br>必要：装備レベル10<br>門派規模2]
   end
 
   %% アップグレード矢印（黄色）+ テキスト
@@ -193,9 +193,9 @@ graph TB
 } }%%
 graph TB
   subgraph 鍛冶場 - 暗器 - 投射
-    A[鞭炮<img src="/LoM-wiki/images/items/balls/icon_ball_01.webp"><br>必要：なし]
-    B[流星箭<img src="/LoM-wiki/images/items/balls/icon_ball_11.webp"><br>必要：装備レベル5<br>門派規模2]
-    C[雷火彈<img src="/LoM-wiki/images/items/balls/icon_ball_20.webp"><br>必要：装備レベル10<br>門派規模3]
+    A[爆竹<img src="/LoM-wiki/images/items/balls/icon_ball_01.webp"><br>必要：なし]
+    B[流星矢<img src="/LoM-wiki/images/items/balls/icon_ball_11.webp"><br>必要：装備レベル5<br>門派規模2]
+    C[雷火弾<img src="/LoM-wiki/images/items/balls/icon_ball_20.webp"><br>必要：装備レベル10<br>門派規模3]
     D[神奇球<img src="/LoM-wiki/images/items/balls/icon_ball_10.webp"><br>必要：装備レベル10<br>門派規模2]
   end
 

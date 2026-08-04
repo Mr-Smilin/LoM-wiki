@@ -24,34 +24,34 @@ tags:
     <tr>
         <td><Girl4Icon :size="`medium`" href="/ja/people/characters/girl4">上官螢</Girl4Icon></td>
         <td>4</td>
-        <td>すらりと背が高い</td>
-        <td>率直で朗らか</td>
-        <td>特に有能</td>
+        <td>背が高くて<ruby>窈窕<rt>ようちょう</rt></ruby>な姿をしているはず</td>
+        <td>素直で明るい</td>
+        <td>すごく有能</td>
         <td>現バージョンでは攻略不可</td>
     </tr>
     <tr>
         <td><Girl8Icon :size="`medium`" href="/ja/people/characters/girl8">龍湘</Girl8Icon></td>
         <td>8</td>
-        <td>すらりと背が高い</td>
-        <td>率直で朗らか</td>
-        <td>少し抜けている</td>
+        <td>背が高くて<ruby>窈窕<rt>ようちょう</rt></ruby>な姿をしているはず</td>
+        <td>素直で明るい</td>
+        <td>ちょっと抜けてる</td>
         <td><MarkdownWrapper>[〈龍湘結縁攻略〉](/ja/event/pursuit/girl8)</MarkdownWrapper>を参照
             <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
         <td><Girl3Icon :size="`medium`" href="/ja/people/characters/girl3">虞小梅</Girl3Icon></td>
         <td>3</td>
-        <td>すらりと背が高い</td>
-        <td>率直で朗らか</td>
-        <td>破天荒</td>
+        <td>背が高くて<ruby>窈窕<rt>ようちょう</rt></ruby>な姿をしているはず</td>
+        <td>素直で明るい</td>
+        <td>ちょっと狂ってる感じ</td>
         <td>現バージョンでは攻略不可
             <br>2026/09/15アップデートで実装予定</td>
     </tr>
     <tr>
         <td><Girl5Icon :size="`medium`" href="/ja/people/characters/girl5">夏侯蘭</Girl5Icon></td>
         <td>5</td>
-        <td>すらりと背が高い</td>
-        <td>物静かで優雅</td>
+        <td>背が高くて<ruby>窈窕<rt>ようちょう</rt></ruby>な姿をしているはず</td>
+        <td>お淑やかで優雅</td>
         <td></td>
         <td><MarkdownWrapper>[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照
             <br>(⚠️ネタバレ注意)</td>
@@ -59,42 +59,42 @@ tags:
     <tr>
         <td><Girl2Icon :size="`medium`" href="/ja/people/characters/girl2">葉雲裳</Girl2Icon></td>
         <td>2</td>
-        <td>小柄で華奢</td>
+        <td>小柄で可愛らしい</td>
         <td>活発で明るい</td>
-        <td>病弱</td>
+        <td>華奢で弱々しい</td>
         <td><MarkdownWrapper>[〈葉雲裳結縁攻略〉](/ja/event/pursuit/girl2)</MarkdownWrapper>を参照
             <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
         <td><Girl0Icon :size="`medium`" href="/ja/people/characters/girl0">唐默鈴</Girl0Icon></td>
         <td>0</td>
-        <td>小柄で華奢</td>
-        <td>もの静かで従順</td>
-        <td>無垢な心</td>
+        <td>小柄で可愛らしい</td>
+        <td>大人しくて従順</td>
+        <td>無垢な心の持ち主</td>
         <td><MarkdownWrapper>[〈唐默鈴結縁攻略〉](/ja/event/pursuit/girl0)</MarkdownWrapper>を参照
             <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
         <td><Girl7Icon :size="`medium`" href="/ja/people/characters/girl7">魏菊</Girl7Icon></td>
         <td>7</td>
-        <td>小柄で華奢</td>
-        <td>もの静かで従順</td>
-        <td>教養があり礼儀正しい</td>
+        <td>小柄で可愛らしい</td>
+        <td>大人しくて従順</td>
+        <td>教養があり、良家の令嬢</td>
         <td>現バージョンでは攻略不可</td>
     </tr>
     <tr>
         <td><Girl6Icon :size="`medium`" href="/ja/people/characters/girl6">郁竹</Girl6Icon></td>
         <td>6</td>
-        <td>小柄で華奢</td>
-        <td>もの静かで従順</td>
-        <td>力は山を抜き気は世を蓋う</td>
+        <td>小柄で可愛らしい</td>
+        <td>大人しくて従順</td>
+        <td>心の優しさ云々より、あいつの力は山を抜き、気は世を蓋う</td>
         <td>現バージョンでは攻略不可
             <br>2026/09/15アップデートで実装予定</td>
     </tr>
     <tr>
         <td><Girl1Icon :size="`medium`" href="/ja/people/characters/girl1">瑞杏</Girl1Icon></td>
         <td>1</td>
-        <td>錦嚢を開く<br>(運命100が必要)</td>
+        <td><ruby>錦嚢<rt>きんのう</rt></ruby>を開ける<br>(運命100が必要)</td>
         <td></td>
         <td></td>
         <td>現バージョンでは攻略不可</td>
