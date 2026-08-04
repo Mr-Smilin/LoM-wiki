@@ -13,7 +13,6 @@ tags:
 ::: warning
 因事件繁雜不易以總覽方式列出內容，本頁面久未更新，請使用[主支線簡易表格](/event/story-simple-table)進入各事件頁面。
 :::
-<br>
 
 <div class="timeline-container">
 
