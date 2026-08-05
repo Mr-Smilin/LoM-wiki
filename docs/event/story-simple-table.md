@@ -356,9 +356,9 @@ tags:
             [青城醒轉](/event/simple/2-08-3-青城醒轉)<br>
             [青城導覽](/event/simple/2-08-3-青城導覽)<br>
             [青城排擠](/event/simple/2-08-3-青城排擠)<br>
-            初入常風觀<br>
-            初入上清宮<br>
-            道長地位<br>
+            [初入常風觀](/event/simple/2-08-3-初入常風觀)<br>
+            [初入上清宮](/event/simple/2-08-3-初入上清宮)<br>
+            [道長地位](/event/simple/2-08-3-道長地位)<br>
         </MarkdownWrapper>
     </td>
 </tr>
