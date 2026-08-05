@@ -381,9 +381,11 @@ tags:
         </MarkdownWrapper>        
     </td>
     <td style="text-align: center">
-        雲裳秘笈<br>
-        虎嘯功<br>
-        雲裳逗留<br>
+        <MarkdownWrapper>
+            [雲裳秘笈](/event/simple/2-09-1-雲裳秘笈)<br>
+            虎嘯功<br>
+            雲裳逗留<br>
+        </MarkdownWrapper>
     </td>
 </tr>
 <tr>
