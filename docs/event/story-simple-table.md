@@ -356,6 +356,9 @@ tags:
             [青城醒轉](/event/simple/2-08-3-青城醒轉)<br>
             [青城導覽](/event/simple/2-08-3-青城導覽)<br>
             [青城排擠](/event/simple/2-08-3-青城排擠)<br>
+            初入常風觀<br>
+            初入上清宮<br>
+            道長地位<br>
         </MarkdownWrapper>
     </td>
 </tr>
@@ -394,6 +397,8 @@ tags:
     <td style="text-align: center">-</td>
     <td style="text-align: center">
         鄒博歸來<br>
+        鄒博嘉勉<br>
+        申屠遇襲<br>
     </td>
 </tr>
 
