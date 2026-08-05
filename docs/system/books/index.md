@@ -67,7 +67,7 @@ tags:
         <td>刀劍2<br>嘴力3<br>性情+3<br>處世+3</td>
         <td>15</td>
         <td></td>
-        <td>1. 三年四月上旬－四師兄買物($2000)<br>2. 招親事件劇情(心上人唐默鈴)<br>3. 青城留學九月下旬之前，修練三次觸發<MarkdownWrapper>[「青城排擠」](/event/simple/2-08-3-青城排擠)</MarkdownWrapper>事件，轉盤【申屠龍抵抗】獲得點蒼棒法。<br>之後九月上~二年十月中雲裳送秘笈，轉盤【黑龍劍】獲得。</td>
+        <td>1. 三年四月上旬－四師兄買物($2000)<br>2. 招親事件劇情(心上人唐默鈴)<br>3. 青城留學九月下旬之前，修練三次觸發<MarkdownWrapper>[「青城排擠」](/event/simple/2-08-3-青城排擠)</MarkdownWrapper>事件，轉盤【申屠龍抵抗】獲得點蒼棒法。<br>之後九月上~二年十月中<MarkdownWrapper>[「雲裳秘笈」](/event/simple/2-09-1-雲裳秘笈)</MarkdownWrapper>事件，轉盤【黑龍劍】獲得。</td>
         <td>2000</td>
     </tr>
     <tr>
@@ -107,7 +107,7 @@ tags:
         <td>刀劍6<br>體力5<br>性情+5<br>處世+5</td>
         <td>25</td>
         <td></td>
-        <td>青城留學九月下旬之前，修練三次觸發<MarkdownWrapper>[「青城排擠」](/event/simple/2-08-3-青城排擠)</MarkdownWrapper>事件，轉盤【申屠龍抵抗】獲得點蒼棒法。<br>之後九月上~二年十月中雲裳送秘笈，轉盤【黑龍劍】獲得。</td>
+        <td>青城留學九月下旬之前，修練三次觸發<MarkdownWrapper>[「青城排擠」](/event/simple/2-08-3-青城排擠)</MarkdownWrapper>事件，轉盤【申屠龍抵抗】獲得點蒼棒法。<br>之後九月上~二年十月中<MarkdownWrapper>[「雲裳秘笈」](/event/simple/2-09-1-雲裳秘笈)</MarkdownWrapper>事件，轉盤【黑龍劍】獲得。</td>
         <td></td>
     </tr>
     <tr>
