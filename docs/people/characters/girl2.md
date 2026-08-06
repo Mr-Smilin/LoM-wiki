@@ -139,6 +139,14 @@ aside: false
 			nameZh='大哭'
 			nameEn='Cry'/>
 	</ChTab>
+	<ChTab title="又哭又笑">
+		<Ch 
+			src='/images/characters/girl_2/cry_laugh.webp' 
+			position='center'/>
+		<ChName
+			nameZh='又哭又笑'
+			nameEn='Cry Laugh'/>
+	</ChTab>
 	<ChTab title="認真">
 		<Ch 
 			src='/images/characters/girl_2/serious.webp' 
