@@ -127,6 +127,29 @@ tags:
         <td></td>
     </tr>
     <tr>
+        <td>中藥蜜餞</td>
+        <td>賣價?</td>
+        <td></td>
+        <td>心相+80、體力+1、抗毒+1、抗麻+1</td>
+        <td>休息選飲食</td>
+        <td>
+            <MarkdownWrapper>[「唐芳歸來」](/event/simple/1-09-1-唐芳歸來)</MarkdownWrapper>事件中，天命【🎲≧70 全部找回了】再選擇👉「留著自己吃」獲得。<br>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>豆沙包</td>
+        <td>賣價?</td>
+        <td></td>
+        <td>體力+1、內力-1、抗毒+1、抗麻+1、<br>
+            心相+100(心上人為葉雲裳)或心相+30(心上人非葉雲裳)</td>
+        <td>休息選飲食</td>
+        <td>
+            <MarkdownWrapper>[「青城醒轉」](/event/simple/2-08-3-青城醒轉)</MarkdownWrapper>事件中，未接住餐盒後，葉雲裳給予。<br>
+        </td>
+        <td>是唐芳為雲裳做的藥膳。</td>
+    </tr>
+    <tr>
         <td>降真香</td>
         <td>賣價?</td>
         <td></td>
@@ -145,19 +168,7 @@ tags:
         <td>不明</td>
         <td>夏侯蘭路線在雪山放生第三香，選擇「丹藥」</td>
         <td></td>
-    </tr>
-    <tr>
-        <td>豆沙包</td>
-        <td>賣價?</td>
-        <td></td>
-        <td>體力+1、內力-1、抗毒+1、抗麻+1、<br>
-            心相+100(心上人為葉雲裳)或心相+30(心上人非葉雲裳)</td>
-        <td>休息選飲食</td>
-        <td>
-            <MarkdownWrapper>[「青城醒轉」](/event/simple/2-08-3-青城醒轉)</MarkdownWrapper>事件中，未接住餐盒後，葉雲裳給予。<br>
-        </td>
-        <td>是唐芳為雲裳做的藥膳。</td>
-    </tr>
+    </tr>    
     <tr>
         <td>大師兄的塗鴉</td>
         <td></td>
