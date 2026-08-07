@@ -687,6 +687,10 @@ tags:
                 失魂醒轉<br>
 				回到唐門<br>
 				門人辭別<br>
+                醒轉失憶(無可救藥)<br>
+                四師兄閒聊(無可救藥)<br>
+                禁止打雜(無可救藥)<br>
+                懷念師妹(無可救藥)<br>
 			</td>
 			<td>-</td>
 			<td>
@@ -706,6 +710,7 @@ tags:
 <tr>
   <th rowspan = 2 style="text-align: center">月</th>
   <th rowspan = 2 style="text-align: center">旬</th>
+  <th rowspan = 2 style="text-align: center">無可救藥</th>
   <th colspan = 2 style="text-align: center">不成立西武林</th>
   <th colspan = 2 style="text-align: center">成立西武林</th>
 </tr>
@@ -721,6 +726,10 @@ tags:
 <tr>
   <td rowspan = 3 style="text-align: center">十二</td>
   <td style="text-align: center">上</td>
+  <td style="text-align: center">
+      唐門會議<br>
+      後山之約<br>
+  </td>
   <td colspan = 4 style="text-align: center">
       <MarkdownWrapper>
           武林檄文<br>
@@ -732,6 +741,9 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">中</td>
+  <td style="text-align: center">
+      師妹回訪
+  </td>
   <td style="text-align: center">
     告別唐門<br>
   </td>
@@ -745,6 +757,7 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">下</td>
+  <td style="text-align: center"></td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     龍湘結緣<br>
@@ -759,6 +772,10 @@ tags:
 <tr>
   <td rowspan = 3 style="text-align: center">一</td>
   <td style="text-align: center">上</td>
+  <td style="text-align: center">
+      唐門會議<br>
+      通緝雲舟<br>
+  </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     師妹回訪<br>
@@ -770,6 +787,7 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">中</td>
+  <td style="text-align: center">唐門覆滅</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     <MarkdownWrapper>
@@ -787,6 +805,7 @@ tags:
   <td style="text-align: center">下</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
+  <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
     青城回音<br>
     中小門派回音<br>
@@ -801,12 +820,14 @@ tags:
   <td style="text-align: center">上</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
+  <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
     師妹回訪<br>
   </td>
 </tr>
 <tr>
   <td rowspan = 2 style="text-align: center">中</td>
+  <td rowspan = 2 style="text-align: center">-</td>
   <td rowspan = 2 style="text-align: center">-</td>
   <td rowspan = 2 style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
@@ -831,6 +852,7 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
+  <td style="text-align: center">-</td>
   <td style="text-align: center">
     後山切磋<br>
     劍聖傳承<br>
@@ -841,6 +863,7 @@ tags:
 <tr>
   <td rowspan = 4 style="text-align: center">三</td>
   <td style="text-align: center">上</td>
+  <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
