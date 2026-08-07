@@ -746,8 +746,9 @@ tags:
   <td style="text-align: center">上</td>
   <td style="text-align: center">
       唐門會議<br>
-      決戰菜市場<br>
-      反攻飛石幫<br>
+      決戰市場<br>
+      反攻飛石<br>
+      送禮飛石<br>
       投靠魔教<br>
       段考<br>
       後山之約<br>
@@ -763,9 +764,7 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">中</td>
-  <td style="text-align: center">
-      師妹回訪
-  </td>
+  <td style="text-align: center">-</td>
   <td style="text-align: center">
     告別唐門<br>
   </td>
@@ -779,7 +778,9 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">下</td>
-  <td style="text-align: center">-</td>
+  <td style="text-align: center">
+      師妹回訪
+  </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     龍湘結緣<br>
