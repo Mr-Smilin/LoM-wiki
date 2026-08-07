@@ -506,7 +506,7 @@ tags:
 </div>
 <br>
 
-## 第三年: 一月至十一月
+## 第三年: 一月至十月
 為節省版面，本表以月/旬方式呈現。
 
 <div class="table-container">
@@ -681,28 +681,12 @@ tags:
 			</td>
 			<td>-</td>
 		</tr>
-		<tr>
-			<td>十一月</td>
-			<td>
-                失魂醒轉<br>
-				回到唐門<br>
-				門人辭別<br>
-                醒轉失憶(無可救藥)<br>
-                四師兄閒聊(無可救藥)<br>
-                禁止打雜(無可救藥)<br>
-                懷念師妹(無可救藥)<br>
-			</td>
-			<td>-</td>
-			<td>
-				龍湘心事<br>
-			</td>
-		</tr>
 	</table>
 </div>
 <br>
 
-## 第三年十二月至第四年
-因劇情有四條路線，本表以時間/路線方式呈現。
+## 第三年十一月至第四年
+因劇情有五條路線，本表以時間/路線方式呈現。
 
 <div class="table-container">
 <table>
@@ -724,10 +708,48 @@ tags:
 
 <tbody>
 <tr>
+  <td rowspan = 3 style="text-align: center">十一</td>
+  <td style="text-align: center">上</td>
+  <td style="text-align: center">
+      <MarkdownWrapper>
+          醒轉失憶<br>
+          四師兄閒聊<br>
+          禁止打雜<br>
+          懷念師妹<br>
+      </MarkdownWrapper>
+  </td>
+  <td colspan = 4 style="text-align: center">
+      <MarkdownWrapper>
+          失魂醒轉<br>
+          回到唐門<br>
+          門人辭別<br>
+      </MarkdownWrapper>    
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center">中</td>
+  <td style="text-align: center">-</td>
+  <td colspan = 4 style="text-align: center">
+      <MarkdownWrapper>
+          龍湘心事<br>
+      </MarkdownWrapper>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center">下</td>
+  <td style="text-align: center">-</td>
+  <td colspan = 4 style="text-align: center">-</td>
+</tr>
+    
+<tr>
   <td rowspan = 3 style="text-align: center">十二</td>
   <td style="text-align: center">上</td>
   <td style="text-align: center">
       唐門會議<br>
+      決戰菜市場<br>
+      反攻飛石幫<br>
+      投靠魔教<br>
+      段考<br>
       後山之約<br>
   </td>
   <td colspan = 4 style="text-align: center">
@@ -757,7 +779,7 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">下</td>
-  <td style="text-align: center"></td>
+  <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     龍湘結緣<br>
