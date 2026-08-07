@@ -117,7 +117,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[初識龍湘](/event/simple/1-09-1-初識龍湘)<br>
-                唐芳歸來<br>
+                [唐芳歸來](/event/simple/1-09-1-唐芳歸來)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
