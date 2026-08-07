@@ -102,6 +102,7 @@ tags:
 				<MarkdownWrapper>
                 [假字據](/event/simple/1-08-2-假字據)<br>
 				[假趙活登場](/event/simple/1-08-2-假趙活登場)<br>
+                [師妹交友](/event/simple/1-08-2-師妹交友)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
