@@ -161,6 +161,17 @@ tags:
         <td></td>
     </tr>
     <tr>
+        <td>湘妃魚糕</td>
+        <td>賣價?</td>
+        <td></td>
+        <td>體力-1、抗毒+1、廚藝+2、心相30<br></td>
+        <td>休息選飲食</td>
+        <td>
+            <MarkdownWrapper>[「四師兄訪青城」](/event/simple/2-10-1-四師兄訪青城)</MarkdownWrapper>事件中，選擇👉「送」，再擲骰到【🎲≥80 江陵特產(垃圾)】。<br>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
         <td>龍象豹力子丹</td>
         <td></td>
         <td></td>
