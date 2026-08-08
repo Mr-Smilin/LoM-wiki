@@ -426,7 +426,9 @@ tags:
     </td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">
-        四師兄來訪<br>
+        <MarkdownWrapper>
+			[四師兄訪青城](/event/simple/2-10-1-四師兄訪青城)<br>
+        </MarkdownWrapper>
     </td>
 </tr>
 <tr>
