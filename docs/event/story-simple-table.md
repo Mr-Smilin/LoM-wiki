@@ -399,9 +399,11 @@ tags:
     <td style="text-align: center">-</td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">
-        鄒博歸來<br>
-        鄒博嘉勉<br>
-        申屠遇襲<br>
+        <MarkdownWrapper>
+            [鄒博歸來](/event/simple/2-09-3-鄒博歸來)<br>
+            [鄒博嘉勉](/event/simple/2-09-3-鄒博嘉勉)<br>
+            [申屠遇襲](/event/simple/2-09-3-申屠遇襲)<br>
+        </MarkdownWrapper>
     </td>
 </tr>
 
