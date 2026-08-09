@@ -442,8 +442,8 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
             [遭遇段智秀](/event/simple/2-10-2-遭遇段智秀)<br>
-            雲裳商議<br>
-            江湖救急<br>
+            [雲裳商議](/event/simple/2-10-2-雲裳商議)<br>
+            [投餵雲裳](/event/simple/2-10-2-投餵雲裳)<br>
             [指指點點](/event/simple/2-10-2-指指點點)<br>
 		</MarkdownWrapper>        
     </td>
