@@ -6,7 +6,7 @@
              :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'center bottom' }"></div>
         <div :class="['layer-2',imageAnima]"
              :style="{ '--background-image': `url(${imageSrc})`, '--background-position': 'center bottom' }"></div>
-        <div v-if="nameMain" :class="['name',imageAnima]">
+        <div v-if="nameMain" :class="['name','character-meet-name',imageAnima]">
             <p>{{ nameTitle }}</p>
             <span>{{ nameMain }}</span>
         </div>
@@ -310,4 +310,3 @@ export default {
     }
 }
 </style>
-  
