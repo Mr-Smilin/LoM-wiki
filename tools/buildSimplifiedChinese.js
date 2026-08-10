@@ -6,7 +6,10 @@
 // 转换规则:
 // - 使用 OpenCC (opencc-js) 的 tw2sp 方案 (台湾繁体 → 大陆简体 + 常用词汇)，
 //   例如 資訊→信息、設定→设置、儲存→保存；游戏专名只做字形转换 (活俠傳→活侠传)。
-// - 保护 code fence 与 inline code，不转换其中内容。
+// - code fence 按语言处理: markdown/无语言示例块转换中文文本 (教学示例与 clean-* 模板
+//   的主体内容), 其它语言 (bash/js 等) 转换注释与字符串中的中文; 两类都保护 URL、
+//   链接目标与路径 token，ASCII 标识符/组件名不受转换影响。
+// - 行内代码中的中文同样转换 (多为界面文案示例)，其中的 URL 保持原样。
 // - YAML frontmatter 逐行处理: 链接系 key (link/href/src/url) 的值只走 transformUrl，
 //   其余行按普通文本转换 (key 名与路径均为 ASCII，不受转换影响)。
 // - 站内绝对链接 (如 /event/badends) 若目标页面在 root 文档中实际存在，则重写为
@@ -144,7 +147,8 @@ function transformTextWithLinks(text) {
     return out;
 }
 
-// 转换非 code fence 行; inline code 段保持原样
+// 转换非 code fence 行; inline code 段中的中文也转换 (多为界面文案/示例文字),
+// 但其中的 URL 保持原样 (config.mjs 等 ASCII 标识符不受转换影响)
 // 链接参照定义 ([label]: url) 的 URL 走 transformUrl; 脚注定义 ([^n]: 正文) 不在此列, 按普通文本处理
 function transformInline(line) {
     // 无自定义标题的 container 指令补上简体标签 (全局 container 标签为繁体且无法按 locale 配置)
@@ -157,28 +161,95 @@ function transformInline(line) {
     if (refDef) return refDef[1] + transformUrl(refDef[2]) + refDef[3];
     return line
         .split(/(`+[^`]*?`+)/g)
-        .map((seg, i) => (i % 2 === 1 ? seg : transformTextWithLinks(seg)))
+        .map((seg, i) => (i % 2 === 1 ? convertInlineCode(seg) : transformTextWithLinks(seg)))
         .join("");
 }
 
-// 逐行扫描, code fence (``` 或 ~~~) 内的行原样保留
+// 行内代码: 转换其中的中文字形, URL 保持原样
+function convertInlineCode(seg) {
+    return seg
+        .split(/(https?:\/\/[^\s`]+)/g)
+        .map((part, i) => (i % 2 === 1 ? part : convert(part)))
+        .join("");
+}
+
+// Markdown 示例代码块 (markdown/md/无语言): 转换中文文本,
+// 链接/图片只转换可见标签, 目标地址与 HTML 属性值、URL 保持原样 (不加重写, 保持示例语义)
+function convertExampleMarkdown(line) {
+    const RE =
+        /(!?\[[^\]]*\]\()([^)\s]+)(\s*(?:"[^"]*")?\))|(\b(?:href|src)="[^"]+")|(https?:\/\/[^\s)"'<]+)/g;
+    let out = "";
+    let last = 0;
+    for (const m of line.matchAll(RE)) {
+        out += convertWithInlineCode(line.slice(last, m.index));
+        if (m[2] !== undefined) {
+            const label = m[1].replace(/^(!?\[)([^\]]*)(\]\()$/, (a, p, t, s) => p + convert(t) + s);
+            out += label + m[2] + m[3];
+        } else {
+            out += m[0];
+        }
+        last = m.index + m[0].length;
+    }
+    out += convertWithInlineCode(line.slice(last));
+    return out;
+}
+
+function convertWithInlineCode(text) {
+    return text
+        .split(/(`+[^`]*?`+)/g)
+        .map((seg, i) => (i % 2 === 1 ? convertInlineCode(seg) : convert(seg)))
+        .join("");
+}
+
+// 代码示例块 (bash/js/vue 等): 转换中文 (注释与示例字符串),
+// 但保护 URL 与路径 token (真实文件名/路径不可转换)
+function convertCodeText(line) {
+    const RE = /(https?:\/\/[^\s)"'<]+)|((?:~|\.{1,2})?\/[^\s"'`<>]+)/g;
+    let out = "";
+    let last = 0;
+    for (const m of line.matchAll(RE)) {
+        out += convert(line.slice(last, m.index));
+        out += m[0];
+        last = m.index + m[0].length;
+    }
+    out += convert(line.slice(last));
+    return out;
+}
+
+// 逐行扫描处理 code fence:
+// - 围栏行本身原样保留 (嵌套示例里长度 ≥ 外层才视为闭合, 支持 ```` 内嵌 ```)
+// - markdown/md/无语言块按 Markdown 示例转换, 其它语言按代码示例转换
+const MARKDOWN_FENCE_LANGS = new Set(["", "md", "markdown"]);
 function transformBody(body) {
     const lines = body.split("\n");
     const out = [];
-    let fenceMarker = null;
+    let fence = null; // { marker, len, lang }
     for (const line of lines) {
-        const fence = line.match(/^\s*(`{3,}|~{3,})/);
-        if (fence) {
-            const marker = fence[1][0];
-            if (fenceMarker === null) {
-                fenceMarker = marker;
-            } else if (marker === fenceMarker && /^\s*(`{3,}|~{3,})\s*$/.test(line)) {
-                fenceMarker = null;
+        if (fence !== null) {
+            const close = line.match(/^\s*(`{3,}|~{3,})\s*$/);
+            if (close && close[1][0] === fence.marker && close[1].length >= fence.len) {
+                fence = null;
+                out.push(line);
+                continue;
             }
+            out.push(
+                MARKDOWN_FENCE_LANGS.has(fence.lang)
+                    ? convertExampleMarkdown(line)
+                    : convertCodeText(line)
+            );
+            continue;
+        }
+        const open = line.match(/^\s*(`{3,}|~{3,})([^`]*)$/);
+        if (open) {
+            fence = {
+                marker: open[1][0],
+                len: open[1].length,
+                lang: (open[2].trim().split(/\s+/)[0] || "").toLowerCase(),
+            };
             out.push(line);
             continue;
         }
-        out.push(fenceMarker === null ? transformInline(line) : line);
+        out.push(transformInline(line));
     }
     return out.join("\n");
 }

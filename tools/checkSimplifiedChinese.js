@@ -4,10 +4,11 @@
 //       或直接 node ./tools/checkSimplifiedChinese.js (要求 docs/zh-hans 已存在)。
 // 发现残留时 exit 1 并逐字列出命中位置，干净时 exit 0。
 //
-// 扫描前会剥离以下区域 (与 buildSimplifiedChinese.js 的保护规则一致):
-// - code fence (``` / ~~~) 与 inline code: 示例模板按设计保持繁体原文
-// - Markdown 链接/图片目标、HTML href/src 属性值、链接参照定义:
+// 扫描前剥离以下 token (与 buildSimplifiedChinese.js 的保护规则一致):
+// - Markdown 链接/图片目标、HTML href/src 属性值、链接参照定义、http(s) URL:
 //   URL 路径保持繁体文件名属正常 (如 /images/.../菜雞預覽教學01.webp)
+// - 代码块中的路径 token (含 / 的绝对/相对路径)
+// code fence 与 inline code 中的中文文本在生成器中会被转换, 因此也在扫描范围内。
 //
 // OpenCC 单字表的已知误报 (这些字在简体语境是正确写法) 记录在 CHAR_WHITELIST，
 // 若出现新的误报请直接补充该表。
@@ -26,39 +27,19 @@ const convert = OpenCC.Converter({ from: "twp", to: "cn" });
 // 乾 (乾坤/乾隆, qián 读音保留)、吒 (哪吒)
 const CHAR_WHITELIST = new Set(["么", "著", "乾", "吒"]);
 
-// 剥离 code fence / inline code / URL 后的待扫描行
-function stripProtected(body) {
-    const lines = body.split("\n");
-    const out = [];
-    let fence = null;
-    for (const line of lines) {
-        const f = line.match(/^\s*(`{3,}|~{3,})/);
-        if (f) {
-            if (fence === null) {
-                fence = f[1][0];
-            } else if (f[1][0] === fence && /^\s*(`{3,}|~{3,})\s*$/.test(line)) {
-                fence = null;
-            }
-            continue;
-        }
-        if (fence) continue;
-        out.push(
-            line
-                .replace(/`+[^`]*?`+/g, "")
-                .replace(/(!?\[[^\]]*\]\()[^)\s]+(\s*(?:"[^"]*")?\))/g, "$1$2")
-                .replace(/\b(?:href|src)="[^"]+"/g, "")
-                .replace(/^\s{0,3}\[(?!\^)[^\]]+\]:[ \t]*\S+\s*$/, "")
-        );
-    }
-    return out.join("\n");
+// 剥离 URL / 链接目标 / 属性值 / 路径 token 后的待扫描文本
+function stripProtected(text) {
+    return text
+        .replace(/!?\[[^\]]*\]\([^)\s]+(\s*"[^"]*")?\)/g, (m) => m.replace(/\(.*/, "()"))
+        .replace(/\b(?:href|src)="[^"]+"/g, "")
+        .replace(/https?:\/\/[^\s)"'<]+/g, "")
+        .replace(/(?:~|\.{1,2})?\/[^\s"'`<>]+/g, "")
+        .replace(/^\s{0,3}\[(?!\^)[^\]]+\]:[ \t]*\S+\s*$/gm, "");
 }
 
 const hits = new Map(); // char -> { to, count, samples: [file:line] }
 function scanFile(file, rel) {
-    let text = fs.readFileSync(file, "utf8");
-    const fm = text.match(/^---\r?\n[\s\S]*?\r?\n---(?:\r?\n|$)/);
-    const body = fm ? text.slice(fm[0].length) : text;
-    const scanned = (fm ? fm[0] + "\n" : "") + stripProtected(body);
+    const scanned = stripProtected(fs.readFileSync(file, "utf8"));
     const lines = scanned.split("\n");
     for (let i = 0; i < lines.length; i++) {
         for (const ch of lines[i]) {
