@@ -12,6 +12,8 @@
 // - 行内代码中的中文同样转换 (多为界面文案示例)，其中的 URL 保持原样。
 // - YAML frontmatter 逐行处理: 链接系 key (link/href/src/url) 的值只走 transformUrl，
 //   其余行按普通文本转换 (key 名与路径均为 ASCII，不受转换影响)。
+// - 简体页面是构建生成物，不具有独立 Git 源文件，因此统一关闭 editLink、lastUpdated
+//   与 Nolebase Git Changelog；浏览器标题后缀改为简体「活侠传wiki」。
 // - 站内绝对链接 (如 /event/badends) 若目标页面在 root 文档中实际存在，则重写为
 //   /zh-hans/ 前缀; 外链、mailto、/images|/font|/json 等 public 资产、
 //   /en|/ja 链接与相对链接保持不变。
@@ -51,6 +53,16 @@ const CONTAINER_LABELS = {
     info: "📃内容",
     details: "📖详细内容",
 };
+
+// 简体镜像页的派生内容标记。源页面若显式设置这些字段，也由生成规则覆盖，避免
+// 指向不存在的 docs/zh-hans Git 文件或显示错误的 Git 更新时间/历史。
+const GENERATED_FRONTMATTER = [
+    "editLink: false",
+    "lastUpdated: false",
+    "gitChangelog: false",
+    'titleTemplate: "活侠传wiki"',
+];
+const GENERATED_FRONTMATTER_KEYS = /^(?:editLink|lastUpdated|gitChangelog|titleTemplate):\s*/;
 
 // 收集源文档文件列表 (相对 docs/ 的路径, 统一为 / 分隔)
 function collectSourceFiles() {
@@ -278,6 +290,15 @@ function transformFrontmatter(fm) {
         .join("\n");
 }
 
+function applyGeneratedFrontmatter(fm) {
+    const base = fm
+        .split("\n")
+        .filter((line) => !GENERATED_FRONTMATTER_KEYS.test(line))
+        .join("\n")
+        .replace(/\n+$/, "");
+    return [base, ...GENERATED_FRONTMATTER].filter(Boolean).join("\n");
+}
+
 // 镜像到 zh-hans 后文件比 root 深一级, 指向排除目录 (如 .vitepress) 的相对 import
 // 需要补一层 ../ (与 docs/en、docs/ja 中既有写法 './../.vitepress/...' 一致)
 function fixRelativeImports(text) {
@@ -297,9 +318,11 @@ function fixRelativeImports(text) {
 
 function transformMarkdown(content) {
     const fm = content.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
-    if (!fm) return fixRelativeImports(transformBody(content));
-    const body = content.slice(fm[0].length);
-    return `---\n${transformFrontmatter(fm[1])}\n---\n${fixRelativeImports(transformBody(body))}`;
+    const body = fm ? content.slice(fm[0].length) : content;
+    const convertedBody = fixRelativeImports(transformBody(body));
+    const convertedFrontmatter = fm ? transformFrontmatter(fm[1]) : "";
+    const generatedFrontmatter = applyGeneratedFrontmatter(convertedFrontmatter);
+    return `---\n${generatedFrontmatter}\n---\n${convertedBody}`;
 }
 
 function main() {
