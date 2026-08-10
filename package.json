@@ -10,7 +10,8 @@
     "build": "npm run docs:build",
     "docs:dev": "node ./tools/buildSimplifiedChinese.js && node ./tools/buildLocalePageManifest.js && node ./tools/buildWikiLinkIndex.js && vitepress dev docs",
     "docs:build": "node ./tools/buildNewsList.js && node ./tools/buildBadendList.js && node ./tools/buildSimplifiedChinese.js && node ./tools/buildLocalePageManifest.js && node ./tools/buildContributors.js && node ./tools/buildWikiLinkIndex.js && node ./tools/buildConvertToWebp.js && vitepress build docs",
-    "docs:preview": "vitepress preview docs --port 4173"
+    "docs:preview": "vitepress preview docs --port 4173",
+    "check:zh-cn": "node ./tools/buildSimplifiedChinese.js && node ./tools/checkSimplifiedChinese.js"
   },
   "dependencies": {
     "@nolebase/vitepress-plugin-git-changelog": "^2.2.2",
