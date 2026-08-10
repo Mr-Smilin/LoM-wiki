@@ -35,6 +35,15 @@ const ASSET_PREFIXES = fs
     .readdirSync(path.join(DOCS, "public"))
     .map((name) => `/${name}/`);
 
+// 与 config.mjs 的 markdown.container 全局标签一致的简体版
+const CONTAINER_LABELS = {
+    tip: "💡提示",
+    warning: "⚠️警告",
+    danger: "☢️危险",
+    info: "📃内容",
+    details: "📖详细内容",
+};
+
 // 收集源文档文件列表 (相对 docs/ 的路径, 统一为 / 分隔)
 function collectSourceFiles() {
     const files = [];
@@ -135,9 +144,16 @@ function transformTextWithLinks(text) {
     return out;
 }
 
-// 转换非 code fence 行; inline code 段保持原样; 参照式链接定义的 URL 走 transformUrl
+// 转换非 code fence 行; inline code 段保持原样
+// 链接参照定义 ([label]: url) 的 URL 走 transformUrl; 脚注定义 ([^n]: 正文) 不在此列, 按普通文本处理
 function transformInline(line) {
-    const refDef = line.match(/^(\s{0,3}\[[^\]]+\]:[ \t]*)(\S+)(\s*)$/);
+    // 无自定义标题的 container 指令补上简体标签 (全局 container 标签为繁体且无法按 locale 配置)
+    const container = line.match(/^(\s*:::\s*)(tip|warning|danger|info|details)\s*$/i);
+    if (container) {
+        const label = CONTAINER_LABELS[container[2].toLowerCase()];
+        return `${container[1]}${container[2].toLowerCase()} ${label}`;
+    }
+    const refDef = line.match(/^(\s{0,3}\[(?!\^)[^\]]+\]:[ \t]*)(\S+)(\s*)$/);
     if (refDef) return refDef[1] + transformUrl(refDef[2]) + refDef[3];
     return line
         .split(/(`+[^`]*?`+)/g)
