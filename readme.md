@@ -139,7 +139,17 @@ npm run dev
 
 ## 國際化 | i18n
 
-文檔支持繁體中文、English、日本語。
+文檔支持繁體中文、简体中文、English、日本語。
+
+简体中文以繁體中文 root 文檔作為唯一內容來源，建置或啟動開發伺服器前由 `tools/buildSimplifiedChinese.js` 自動產生至 `docs/zh-hans/`。`docs/zh-hans/` 是可重建的生成目錄，已加入 `.gitignore`，請勿直接編輯或提交其中檔案；若要修正文案或資料，請修改對應的繁體中文 root 文檔。
+
+生成器會處理正文、frontmatter、Markdown/程式碼範例、Mermaid 文字、站內連結與 VitePress include，並使用 OpenCC 加上少量台灣慣用異體字對照產生符合中國大陸習慣的簡體內容。可執行：
+
+```sh
+npm run check:zh-hans
+```
+
+重新生成並檢查簡體頁面與主要共享 UI 中是否仍有可辨識的繁體殘留。由於 `docs/zh-hans/` 本身不進入 Git，生成頁面不建立獨立的 edit link、last updated 或 Git changelog；歷史與修改來源以對應的繁體 root 檔案為準。
 
 ## 許可 | Licence
 
