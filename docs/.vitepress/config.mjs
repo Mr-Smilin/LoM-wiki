@@ -503,8 +503,8 @@ const baseConfig = {
 						text: "协助编辑",
 						items: [
 							{ text: "如何开始", link: "/zh-hans/develop/1-start" },
-							{ text: "设置档项目说明", link: "/zh-hans/develop/2-vitepress" },
-							{ text: "本地运行(进阶)", link: "/zh-hans/develop/3-run-local" },
+							{ text: "配置文件项说明", link: "/zh-hans/develop/2-vitepress" },
+							{ text: "本地运行(高级)", link: "/zh-hans/develop/3-run-local" },
 							{
 								text: "Markdown 编辑须知",
 								items: [
@@ -552,8 +552,8 @@ const baseConfig = {
 							text: "协助编辑",
 							items: [
 								{ text: "如何开始", link: "/zh-hans/develop/1-start" },
-								{ text: "设置档项目说明", link: "/zh-hans/develop/2-vitepress" },
-								{ text: "本地运行(进阶)", link: "/zh-hans/develop/3-run-local" },
+								{ text: "配置文件项说明", link: "/zh-hans/develop/2-vitepress" },
+								{ text: "本地运行(高级)", link: "/zh-hans/develop/3-run-local" },
 								{
 									text: "Markdown 编辑须知",
 									items: [
@@ -604,7 +604,7 @@ const baseConfig = {
 									link: "/zh-hans/other/guide/1-game-objective",
 								},
 								{
-									text: "一开始应该做些甚么？",
+									text: "一开始应该做什么？",
 									link: "/zh-hans/other/guide/2-how-to-start",
 								},
 								{
@@ -675,7 +675,7 @@ const baseConfig = {
 				},
 				editLink: {
 					pattern: "https://github.com/Mr-Smilin/LoM-wiki/edit/main/docs/:path",
-					text: "在 Github 上编辑此页面",
+					text: "在 GitHub 上编辑此页面",
 				},
 			},
 		},

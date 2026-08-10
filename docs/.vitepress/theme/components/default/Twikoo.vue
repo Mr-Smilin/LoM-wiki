@@ -1,15 +1,25 @@
 <script setup>
 import { ref, onMounted } from "vue";
-import { useRouter } from "vitepress";
+import { useRouter, useData } from "vitepress";
 
 const envId = "https://twikoo-db.netlify.app/.netlify/functions/twikoo";
 const twikooJs = ref(null);
 const router = useRouter();
+const { localeIndex } = useData();
+
+// 评论区语言跟随当前语系 (Twikoo 支持 zh-cn/zh-tw/zh-hk/en/ja, 未设置时按浏览器语言, 这里按站点语系固定)
+const TWIKOO_LANGS = {
+	root: "zh-TW",
+	"zh-hans": "zh-CN",
+	en: "en",
+	ja: "ja",
+};
 
 function initTwikoo() {
 	try {
 		twikoo.init({
 			envId,
+			lang: TWIKOO_LANGS[localeIndex.value] || "zh-TW",
 			onCommentLoaded: initLightGallery,
 		});
 	} catch (e) {}

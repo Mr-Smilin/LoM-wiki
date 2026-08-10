@@ -1,7 +1,7 @@
-// 扫描 docs/zh-hans/ 生成物中残留的繁体字。
-//
-// 用法: npm run check:zh-hans (先重新生成 docs/zh-hans 再扫描)，
-//       或直接 node ./tools/checkSimplifiedChinese.js (要求 docs/zh-hans 已存在)。
+// 扫描两处:
+// 1. docs/zh-hans/ 生成物 (最终简体 Markdown)
+// 2. docs/.vitepress/theme/ 共享组件中 zh-hans 实际会显示的字符串
+//    (i18n 字典里的 "zh-hans": "..." 值, 以及 localeIndex === "zh-hans" ? "..." 三元分支)
 // 发现残留时 exit 1 并逐字列出命中位置，干净时 exit 0。
 //
 // 扫描前剥离以下 token (与 buildSimplifiedChinese.js 的保护规则一致):
@@ -38,18 +38,36 @@ function stripProtected(text) {
 }
 
 const hits = new Map(); // char -> { to, count, samples: [file:line] }
+function recordChar(ch, rel, lineNo) {
+    if (ch.codePointAt(0) < 0x2e80 || CHAR_WHITELIST.has(ch)) return;
+    const c = convert(ch);
+    if (c === ch) return;
+    if (!hits.has(ch)) hits.set(ch, { to: c, count: 0, samples: [] });
+    const h = hits.get(ch);
+    h.count++;
+    if (h.samples.length < 3) h.samples.push(`${rel}:${lineNo}`);
+}
+
+// 扫描生成的简体 Markdown
 function scanFile(file, rel) {
     const scanned = stripProtected(fs.readFileSync(file, "utf8"));
     const lines = scanned.split("\n");
     for (let i = 0; i < lines.length; i++) {
         for (const ch of lines[i]) {
-            if (ch.codePointAt(0) < 0x2e80 || CHAR_WHITELIST.has(ch)) continue;
-            const c = convert(ch);
-            if (c !== ch) {
-                if (!hits.has(ch)) hits.set(ch, { to: c, count: 0, samples: [] });
-                const h = hits.get(ch);
-                h.count++;
-                if (h.samples.length < 3) h.samples.push(`${rel}:${i + 1}`);
+            recordChar(ch, rel, i + 1);
+        }
+    }
+}
+
+// 扫描共享组件中 zh-hans 分支的字符串 ("zh-hans": "..." / localeIndex === "zh-hans" ? "...", 单双引号均可)
+function scanComponent(file, rel) {
+    const lines = fs.readFileSync(file, "utf8").split("\n");
+    const RE =
+        /"zh-hans":\s*"((?:[^"\\]|\\.)*)"|'zh-hans':\s*'((?:[^'\\]|\\.)*)'|===\s*"zh-hans"\s*\?\s*"((?:[^"\\]|\\.)*)"|===\s*'zh-hans'\s*\?\s*'((?:[^'\\]|\\.)*)'/g;
+    for (let i = 0; i < lines.length; i++) {
+        for (const m of lines[i].matchAll(RE)) {
+            for (const ch of m[1] || m[2] || m[3] || m[4] || "") {
+                recordChar(ch, rel, i + 1);
             }
         }
     }
@@ -66,15 +84,32 @@ function walk(dir) {
     }
 }
 
+function walkComponents(dir) {
+    for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+        const p = path.join(dir, e.name);
+        if (e.isDirectory()) {
+            walkComponents(p);
+        } else if (/\.(vue|js)$/.test(e.name) && !COMPONENT_SCAN_EXCLUDE.has(p)) {
+            scanComponent(p, path.relative(ROOT, p));
+        }
+    }
+}
+
+// 生成物不纳入组件扫描 (wikiLinkIndex 的 "zh-hans" 值是页面路径, 繁体文件名属正常)
+const COMPONENT_SCAN_EXCLUDE = new Set([
+    path.join(ROOT, "docs", ".vitepress", "theme", "script", "wikiLinkIndex.js"),
+]);
+
 if (!fs.existsSync(DIR)) {
     console.error("docs/zh-hans 不存在，请先运行 node ./tools/buildSimplifiedChinese.js");
     process.exit(2);
 }
 
 walk(DIR);
+walkComponents(path.join(ROOT, "docs", ".vitepress", "theme"));
 
 if (hits.size === 0) {
-    console.log("checkSimplifiedChinese: 未发现残留繁体字 (docs/zh-hans 干净)");
+    console.log("checkSimplifiedChinese: 未发现残留繁体字 (docs/zh-hans 与共享组件 zh-hans 字符串均干净)");
     process.exit(0);
 }
 
