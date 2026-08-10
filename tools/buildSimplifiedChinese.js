@@ -151,6 +151,13 @@ function transformTextWithLinks(text) {
 // 但其中的 URL 保持原样 (config.mjs 等 ASCII 标识符不受转换影响)
 // 链接参照定义 ([label]: url) 的 URL 走 transformUrl; 脚注定义 ([^n]: 正文) 不在此列, 按普通文本处理
 function transformInline(line) {
+    // VitePress include 指令: <!--@include: @/path.md--> 目标为 root 页面时改指 zh-hans 镜像,
+    // 否则简体页面会把繁体原文 include 进来 (江湖快报正文即属此类)
+    const inc = line.match(/^(\s*<!--\s*@include:\s*)@(\/[^\s>{]+)((?:\{[^}]*\})?\s*-->\s*)$/);
+    if (inc) {
+        if (pageExists(inc[2])) return `${inc[1]}@/zh-hans${inc[2]}${inc[3]}`;
+        return line;
+    }
     // 无自定义标题的 container 指令补上简体标签 (全局 container 标签为繁体且无法按 locale 配置)
     const container = line.match(/^(\s*:::\s*)(tip|warning|danger|info|details)\s*$/i);
     if (container) {
