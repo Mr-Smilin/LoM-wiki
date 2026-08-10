@@ -4,7 +4,7 @@
 import { onMounted, watch, ref } from 'vue'
 import { useData } from 'vitepress'
 
-const { site, theme, page } = useData()
+const { site, theme, page, localeIndex } = useData()
 const origin = ref('')
 
 onMounted(() => {
@@ -27,7 +27,7 @@ function updateMetaTags() {
 
   const title = page.value.frontmatter.title || site.value.title
   const description = page.value.frontmatter.description || site.value.description
-  const siteName = site.value.title
+  const siteName = localeIndex.value === "zh-hans" ? "活侠传wiki" : site.value.title
   const type = "article"
   const locale = site.value.lang
   const tags = page.value.frontmatter.tags || []
@@ -63,5 +63,5 @@ function updateMetaTags() {
 
 onMounted(updateMetaTags)
 
-watch(() => [page.value.frontmatter.tags, page.value.frontmatter.title, page.value.frontmatter.description], updateMetaTags, { deep: true })
+watch(() => [page.value.frontmatter.tags, page.value.frontmatter.title, page.value.frontmatter.description, localeIndex.value], updateMetaTags, { deep: true })
 </script>
