@@ -13,9 +13,9 @@ const NotFound = defineAsyncComponent(() => import("./default/NotFound.vue"));
 import { useThemeTransition } from '../script/themeTransition.js';
 const { toggleAppearance } = useThemeTransition();
 
-// 瀏覽數標籤跟隨語系 (僅 zh-cn 需切換, 其餘維持既有繁體)
+// 瀏覽數標籤跟隨語系 (僅 zh-hans 需切換, 其餘維持既有繁體)
 const { localeIndex } = useData();
-const visitorLabel = computed(() => (localeIndex.value === "zh-cn" ? "浏览数：" : "瀏覽數："));
+const visitorLabel = computed(() => (localeIndex.value === "zh-hans" ? "浏览数：" : "瀏覽數："));
 
 // onMounted(() => {
 // 	import('bootstrap/dist/js/bootstrap.bundle.min.js');

@@ -37,10 +37,10 @@ export default {
     setup(props) {
         const prefix = useLocalePrefix();
         const { localeIndex } = useData();
-        // 錨點 id 對應各語系 achievements 頁的 <td id="..."> (en: Chronicles, zh-cn: 风云史, 其餘: 風雲史)
+        // 錨點 id 對應各語系 achievements 頁的 <td id="..."> (en: Chronicles, zh-hans: 风云史, 其餘: 風雲史)
         const anchorLabel = computed(() => {
             if (localeIndex.value === 'en') return 'Chronicles';
-            if (localeIndex.value === 'zh-cn') return '风云史';
+            if (localeIndex.value === 'zh-hans') return '风云史';
             return '風雲史';
         });
         return {

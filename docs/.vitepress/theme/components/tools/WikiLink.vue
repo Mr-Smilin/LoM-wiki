@@ -35,7 +35,7 @@ const parsedLink = computed(() => {
 })
 
 const linkPath = computed(() => {
-    // 索引值按 locale 分组 ({ root, en, ja, "zh-cn" })，优先取当前语系页面，
+    // 索引值按 locale 分组 ({ root, en, ja, "zh-hans" })，优先取当前语系页面，
     // 该语系没有此页面时回退 root (繁體中文)，再退到任一已存在的语系
     const entry = wikiLinkIndex[parsedLink.value.pagePath]
     if (entry) {

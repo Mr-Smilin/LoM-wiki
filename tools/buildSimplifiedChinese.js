@@ -1,6 +1,6 @@
-// 以繁體中文 root 文档为源，自动生成简体中文 locale (docs/zh-cn/)。
+// 以繁體中文 root 文档为源，自动生成简体中文 locale (docs/zh-hans/)。
 //
-// 与 buildLocalePageManifest.js 等其它生成物一样，docs/zh-cn/ 整体为生成物，禁止手编辑。
+// 与 buildLocalePageManifest.js 等其它生成物一样，docs/zh-hans/ 整体为生成物，禁止手编辑。
 // 每次运行先全量删除再重新生成，因此源页面删除后不会残留失效页面，可重复运行且结果稳定。
 //
 // 转换规则:
@@ -10,7 +10,7 @@
 // - YAML frontmatter 逐行处理: 链接系 key (link/href/src/url) 的值只走 transformUrl，
 //   其余行按普通文本转换 (key 名与路径均为 ASCII，不受转换影响)。
 // - 站内绝对链接 (如 /event/badends) 若目标页面在 root 文档中实际存在，则重写为
-//   /zh-cn/ 前缀; 外链、mailto、/images|/font|/json 等 public 资产、
+//   /zh-hans/ 前缀; 外链、mailto、/images|/font|/json 等 public 资产、
 //   /en|/ja 链接与相对链接保持不变。
 // - URL 的路径部分永远不转换 (文件名/图片名保持繁体原名)，锚点部分跟随标题文字转换。
 // - 文件名与目录结构保持与 root 一致 (仅转换文件内容)，因此相对链接与锚点无需改名。
@@ -21,11 +21,11 @@ const OpenCC = require("opencc-js");
 
 const ROOT = path.resolve(__dirname, "..");
 const DOCS = path.join(ROOT, "docs");
-const OUT_DIR = path.join(DOCS, "zh-cn");
-const LOCALE_PREFIX = "/zh-cn";
+const OUT_DIR = path.join(DOCS, "zh-hans");
+const LOCALE_PREFIX = "/zh-hans";
 
 // 不作为源文档遍历的目录 (其它 locale / VitePress 配置 / 静态资产)
-const EXCLUDE_DIRS = new Set(["en", "ja", "zh-cn", ".vitepress", "public"]);
+const EXCLUDE_DIRS = new Set(["en", "ja", "zh-hans", ".vitepress", "public"]);
 
 // 台湾繁体 → 大陆简体 (含词汇转换, 等价 tw2sp)
 const convert = OpenCC.Converter({ from: "twp", to: "cn" });
@@ -101,12 +101,12 @@ function pageExists(urlPath) {
 }
 
 // 处理单个 URL: 路径部分保持原样 (繁体文件名/图片名不可转换)，
-// 锚点部分跟随转换后的标题文字转换; 站内已存在页面加 /zh-cn 前缀
+// 锚点部分跟随转换后的标题文字转换; 站内已存在页面加 /zh-hans 前缀
 function transformUrl(url) {
     if (!url || /^(?:https?:|mailto:|tel:|data:|javascript:|\/\/)/i.test(url)) {
         return url;
     }
-    if (/^\/(?:en|ja|zh-cn)(?:\/|$)/.test(url)) return url; // 已带 locale 前缀
+    if (/^\/(?:en|ja|zh-hans)(?:\/|$)/.test(url)) return url; // 已带 locale 前缀
     const m = url.match(/^([^?#]*)([?#][\s\S]*)?$/);
     const pathPart = m[1];
     let suffix = m[2] || "";
@@ -195,7 +195,7 @@ function transformFrontmatter(fm) {
         .join("\n");
 }
 
-// 镜像到 zh-cn 后文件比 root 深一级, 指向排除目录 (如 .vitepress) 的相对 import
+// 镜像到 zh-hans 后文件比 root 深一级, 指向排除目录 (如 .vitepress) 的相对 import
 // 需要补一层 ../ (与 docs/en、docs/ja 中既有写法 './../.vitepress/...' 一致)
 function fixRelativeImports(text) {
     return text.replace(
@@ -238,7 +238,7 @@ function main() {
         }
         count++;
     }
-    console.log(`Simplified Chinese locale generated: ${count} files -> docs/zh-cn`);
+    console.log(`Simplified Chinese locale generated: ${count} files -> docs/zh-hans`);
 }
 
 main();

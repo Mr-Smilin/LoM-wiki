@@ -48,10 +48,10 @@
   
   const emit = defineEmits(['update:searchQuery', 'update:searchMode', 'filtered-rows'])
   
-  // 搜索框佔位文字跟隨語系 (僅 zh-cn 需切換, 其餘維持既有繁體)
+  // 搜索框佔位文字跟隨語系 (僅 zh-hans 需切換, 其餘維持既有繁體)
   const { localeIndex } = useData();
   const searchPlaceholder = computed(() =>
-    localeIndex.value === 'zh-cn'
+    localeIndex.value === 'zh-hans'
       ? '搜索... (多个关键字用空格分隔)'
       : '搜索... (多個關鍵字用空格分隔)'
   );

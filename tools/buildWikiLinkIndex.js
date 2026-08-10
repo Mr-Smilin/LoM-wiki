@@ -3,12 +3,12 @@ const path = require("path");
 const matter = require("gray-matter");
 
 // 各 locale 的页面可能存在同名 frontmatter title (例如繁简字形相同的标题)，
-// 因此索引值按 locale 分组: { [title]: { root: "...", "zh-cn": "...", ... } }。
+// 因此索引值按 locale 分组: { [title]: { root: "...", "zh-hans": "...", ... } }。
 // WikiLink 组件查表时优先取当前 locale 的页面，缺失时回退 root。
 function localeOf(relativePath) {
   if (relativePath.startsWith("en/")) return "en";
   if (relativePath.startsWith("ja/")) return "ja";
-  if (relativePath.startsWith("zh-cn/")) return "zh-cn";
+  if (relativePath.startsWith("zh-hans/")) return "zh-hans";
   return "root";
 }
 

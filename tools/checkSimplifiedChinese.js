@@ -1,7 +1,7 @@
-// 扫描 docs/zh-cn/ 生成物中残留的繁体字。
+// 扫描 docs/zh-hans/ 生成物中残留的繁体字。
 //
-// 用法: npm run check:zh-cn (先重新生成 docs/zh-cn 再扫描)，
-//       或直接 node ./tools/checkSimplifiedChinese.js (要求 docs/zh-cn 已存在)。
+// 用法: npm run check:zh-hans (先重新生成 docs/zh-hans 再扫描)，
+//       或直接 node ./tools/checkSimplifiedChinese.js (要求 docs/zh-hans 已存在)。
 // 发现残留时 exit 1 并逐字列出命中位置，干净时 exit 0。
 //
 // 扫描前会剥离以下区域 (与 buildSimplifiedChinese.js 的保护规则一致):
@@ -17,7 +17,7 @@ const path = require("path");
 const OpenCC = require("opencc-js");
 
 const ROOT = path.resolve(__dirname, "..");
-const DIR = path.join(ROOT, "docs", "zh-cn");
+const DIR = path.join(ROOT, "docs", "zh-hans");
 
 // 台湾繁体 → 大陆简体, 与生成器相同
 const convert = OpenCC.Converter({ from: "twp", to: "cn" });
@@ -86,14 +86,14 @@ function walk(dir) {
 }
 
 if (!fs.existsSync(DIR)) {
-    console.error("docs/zh-cn 不存在，请先运行 node ./tools/buildSimplifiedChinese.js");
+    console.error("docs/zh-hans 不存在，请先运行 node ./tools/buildSimplifiedChinese.js");
     process.exit(2);
 }
 
 walk(DIR);
 
 if (hits.size === 0) {
-    console.log("checkSimplifiedChinese: 未发现残留繁体字 (docs/zh-cn 干净)");
+    console.log("checkSimplifiedChinese: 未发现残留繁体字 (docs/zh-hans 干净)");
     process.exit(0);
 }
 

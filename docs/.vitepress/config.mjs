@@ -314,7 +314,7 @@ const baseConfig = {
 			provider: "algolia",
 			options: {
 				locales: {
-					"zh-cn": {
+					"zh-hans": {
 						placeholder: "在这输入喔",
 						translations: {
 							button: {
@@ -422,61 +422,61 @@ const baseConfig = {
 			label: "繁體中文",
 			lang: "zh-TW",
 		},
-		"zh-cn": {
+		"zh-hans": {
 			label: "简体中文",
-			lang: "zh-CN",
-			link: "/zh-cn/",
+			lang: "zh-Hans",
+			link: "/zh-hans/",
 			themeConfig: {
 				nav: [
 					{
 						text: "人物",
 						items: [
-							{ text: "人物列表", link: "/zh-cn/people/characters/" },
-							{ text: "称号列表", link: "/zh-cn/people/title-list" },
-							{ text: "阵营列表", link: "/zh-cn/people/factions/" },
-							{ text: "江湖众生相", link: "/zh-cn/people/mobs/" },
+							{ text: "人物列表", link: "/zh-hans/people/characters/" },
+							{ text: "称号列表", link: "/zh-hans/people/title-list" },
+							{ text: "阵营列表", link: "/zh-hans/people/factions/" },
+							{ text: "江湖众生相", link: "/zh-hans/people/mobs/" },
 						],
-						activeMatch: "/zh-cn/people/",
+						activeMatch: "/zh-hans/people/",
 					},
 					{
 						text: "系统",
 						items: [
-							{ text: "门派设施", link: "/zh-cn/system/facility" },
-							{ text: "秘笈列表", link: "/zh-cn/system/books/" },
-							{ text: "技能效果", link: "/zh-cn/system/skill" },
-							{ text: "对战指南", link: "/zh-cn/system/engagement/battle-ui" },
-							{ text: "炼丹效果", link: "/zh-cn/system/pills" },
-							{ text: "锻冶场、炼丹房开发路线图", link: "/zh-cn/system/forge-roadmap" },
-							{ text: "道具列表", link: "/zh-cn/system/items" },
-							{ text: "养成指令", link: "/zh-cn/system/training" },
-							{ text: "原声带", link: "/zh-cn/system/soundtrack" },
+							{ text: "门派设施", link: "/zh-hans/system/facility" },
+							{ text: "秘笈列表", link: "/zh-hans/system/books/" },
+							{ text: "技能效果", link: "/zh-hans/system/skill" },
+							{ text: "对战指南", link: "/zh-hans/system/engagement/battle-ui" },
+							{ text: "炼丹效果", link: "/zh-hans/system/pills" },
+							{ text: "锻冶场、炼丹房开发路线图", link: "/zh-hans/system/forge-roadmap" },
+							{ text: "道具列表", link: "/zh-hans/system/items" },
+							{ text: "养成指令", link: "/zh-hans/system/training" },
+							{ text: "原声带", link: "/zh-hans/system/soundtrack" },
 						],
-						activeMatch: "/zh-cn/system/",
+						activeMatch: "/zh-hans/system/",
 					},
 					{
 						text: "事件",
 						items: [
 							{
 								text: "主支线年表",
-								link: "/zh-cn/event/story-branch-timeline",
+								link: "/zh-hans/event/story-branch-timeline",
 							},
 							{
 								text: "主支线简易表格",
-								link: "/zh-cn/event/story-simple-table",
+								link: "/zh-hans/event/story-simple-table",
 							},
-							{ text: "风云史(成就)", link: "/zh-cn/event/achievements" },
-							{ text: "生死簿(骤死结局)", link: "/zh-cn/event/badends" },
-							{ text: "汗青书(结局)", link: "/zh-cn/event/ends" },
-							{ text: "梦境心上人", link: "/zh-cn/event/pursuit" },
+							{ text: "风云史(成就)", link: "/zh-hans/event/achievements" },
+							{ text: "生死簿(骤死结局)", link: "/zh-hans/event/badends" },
+							{ text: "汗青书(结局)", link: "/zh-hans/event/ends" },
+							{ text: "梦境心上人", link: "/zh-hans/event/pursuit" },
 						],
-						activeMatch: "/zh-cn/event/",
+						activeMatch: "/zh-hans/event/",
 					},
 					{
 						text: "其他",
 						items: [
-							{ text: "江湖快报(官方更新)", link: "/zh-cn/other/news" },
-							{ text: "游戏指南", link: "/zh-cn/other/guide/1-game-objective" },
-							{ text: "鸟熊问答集", link: "/zh-cn/other/qna/" },
+							{ text: "江湖快报(官方更新)", link: "/zh-hans/other/news" },
+							{ text: "游戏指南", link: "/zh-hans/other/guide/1-game-objective" },
+							{ text: "鸟熊问答集", link: "/zh-hans/other/qna/" },
 							{
 								text: "拆包资料",
 								items: [
@@ -491,42 +491,42 @@ const baseConfig = {
 								items: [
 									{
 										text: "汗青书(结局) 图片生成器",
-										link: "/zh-cn/other/image-generator/end",
+										link: "/zh-hans/other/image-generator/end",
 									},
 								],
 							},
-							{ text: "唐门图书馆(google sheet)", link: "/zh-cn/other/lom-sheet" },
+							{ text: "唐门图书馆(google sheet)", link: "/zh-hans/other/lom-sheet" },
 						],
-						activeMatch: "/zh-cn/other/",
+						activeMatch: "/zh-hans/other/",
 					},
 					{
 						text: "协助编辑",
 						items: [
-							{ text: "如何开始", link: "/zh-cn/develop/1-start" },
-							{ text: "设置档项目说明", link: "/zh-cn/develop/2-vitepress" },
-							{ text: "本地运行(进阶)", link: "/zh-cn/develop/3-run-local" },
+							{ text: "如何开始", link: "/zh-hans/develop/1-start" },
+							{ text: "设置档项目说明", link: "/zh-hans/develop/2-vitepress" },
+							{ text: "本地运行(进阶)", link: "/zh-hans/develop/3-run-local" },
 							{
 								text: "Markdown 编辑须知",
 								items: [
 									{
 										text: "基本知识",
-										link: "/zh-cn/develop/4-example",
+										link: "/zh-hans/develop/4-example",
 									},
 									{
 										text: "常见用法",
-										link: "/zh-cn/develop/4-1-template.md",
+										link: "/zh-hans/develop/4-1-template.md",
 									},
 									{
 										text: "LoM-wiki 公开组件",
-										link: "/zh-cn/develop/4-2-wiki-template.md",
+										link: "/zh-hans/develop/4-2-wiki-template.md",
 									},
 									{
 										text: "人物列传组件",
-										link: "/zh-cn/develop/4-3-character-template.md",
+										link: "/zh-hans/develop/4-3-character-template.md",
 									},
 									{
 										text: "江湖快报(官方更新)页面模块说明",
-										link: "/zh-cn/develop/4-4-news-template.md",
+										link: "/zh-hans/develop/4-4-news-template.md",
 									},
 								],
 							},
@@ -535,11 +535,11 @@ const baseConfig = {
 								items: [
 									{
 										text: "干净模板",
-										link: "/zh-cn/develop/clean-template.md",
+										link: "/zh-hans/develop/clean-template.md",
 									},
 									{
 										text: "角色页面模板",
-										link: "/zh-cn/develop/clean-character-template.md",
+										link: "/zh-hans/develop/clean-character-template.md",
 									},
 								],
 							},
@@ -547,35 +547,35 @@ const baseConfig = {
 					},
 				],
 				sidebar: {
-					"/zh-cn/develop/": [
+					"/zh-hans/develop/": [
 						{
 							text: "协助编辑",
 							items: [
-								{ text: "如何开始", link: "/zh-cn/develop/1-start" },
-								{ text: "设置档项目说明", link: "/zh-cn/develop/2-vitepress" },
-								{ text: "本地运行(进阶)", link: "/zh-cn/develop/3-run-local" },
+								{ text: "如何开始", link: "/zh-hans/develop/1-start" },
+								{ text: "设置档项目说明", link: "/zh-hans/develop/2-vitepress" },
+								{ text: "本地运行(进阶)", link: "/zh-hans/develop/3-run-local" },
 								{
 									text: "Markdown 编辑须知",
 									items: [
 										{
 											text: "Markdown 基本知识",
-											link: "/zh-cn/develop/4-example",
+											link: "/zh-hans/develop/4-example",
 										},
 										{
 											text: "Markdown 常见用法",
-											link: "/zh-cn/develop/4-1-template.md",
+											link: "/zh-hans/develop/4-1-template.md",
 										},
 										{
 											text: "LoM-wiki 公开组件",
-											link: "/zh-cn/develop/4-2-wiki-template.md",
+											link: "/zh-hans/develop/4-2-wiki-template.md",
 										},
 										{
 											text: "人物列传组件",
-											link: "/zh-cn/develop/4-3-character-template.md",
+											link: "/zh-hans/develop/4-3-character-template.md",
 										},
 										{
 											text: "江湖快报(官方更新)页面模块说明",
-											link: "/zh-cn/develop/4-4-news-template.md",
+											link: "/zh-hans/develop/4-4-news-template.md",
 										},
 									],
 								},
@@ -584,87 +584,87 @@ const baseConfig = {
 									items: [
 										{
 											text: "干净模板",
-											link: "/zh-cn/develop/clean-template.md",
+											link: "/zh-hans/develop/clean-template.md",
 										},
 										{
 											text: "角色页面模板",
-											link: "/zh-cn/develop/clean-character-template.md",
+											link: "/zh-hans/develop/clean-character-template.md",
 										},
 									],
 								},
 							],
 						},
 					],
-					"/zh-cn/other/guide/": [
+					"/zh-hans/other/guide/": [
 						{
 							text: "游戏指南",
 							items: [
 								{
 									text: "游戏目标",
-									link: "/zh-cn/other/guide/1-game-objective",
+									link: "/zh-hans/other/guide/1-game-objective",
 								},
 								{
 									text: "一开始应该做些甚么？",
-									link: "/zh-cn/other/guide/2-how-to-start",
+									link: "/zh-hans/other/guide/2-how-to-start",
 								},
 								{
 									text: "关于行动点",
-									link: "/zh-cn/other/guide/mechanism/action-point",
+									link: "/zh-hans/other/guide/mechanism/action-point",
 								},
 								{
 									text: "关于心相",
-									link: "/zh-cn/other/guide/mechanism/mood",
+									link: "/zh-hans/other/guide/mechanism/mood",
 								},
 								{
 									text: "关于贡献度",
-									link: "/zh-cn/other/guide/mechanism/contribution",
+									link: "/zh-hans/other/guide/mechanism/contribution",
 								},
 								{
 									text: "关于能力值",
-									link: "/zh-cn/other/guide/mechanism/attribute",
+									link: "/zh-hans/other/guide/mechanism/attribute",
 								},
 								{
 									text: "关于心上人",
-									link: "/zh-cn/other/guide/mechanism/dream-sweetheart",
+									link: "/zh-hans/other/guide/mechanism/dream-sweetheart",
 								},
 								{
 									text: "关于投降",
-									link: "/zh-cn/other/guide/mechanism/surrender",
+									link: "/zh-hans/other/guide/mechanism/surrender",
 								},
 								{
 									text: "关于命运",
-									link: "/zh-cn/other/guide/mechanism/destiny",
+									link: "/zh-hans/other/guide/mechanism/destiny",
 								},
 								{
 									text: "关于四师兄商店",
-									link: "/zh-cn/other/guide/mechanism/brother4-selling",
+									link: "/zh-hans/other/guide/mechanism/brother4-selling",
 								},
 							],
 						},
 					],
-					"/zh-cn/system/engagement/": [
+					"/zh-hans/system/engagement/": [
 						{
 							text: "对战指南",
 							items: [
 								{
 									text: "对战界面",
-									link: "/zh-cn/system/engagement/battle-ui",
+									link: "/zh-hans/system/engagement/battle-ui",
 								},
 								{
 									text: "对战指令",
-									link: "/zh-cn/system/engagement/battle-commands",
+									link: "/zh-hans/system/engagement/battle-commands",
 								},
 								{
 									text: "人物状态",
-									link: "/zh-cn/system/engagement/status",
+									link: "/zh-hans/system/engagement/status",
 								},
 								{
 									text: "运行中技能",
-									link: "/zh-cn/system/engagement/skills",
+									link: "/zh-hans/system/engagement/skills",
 								},
 								{
 									text: "小建议",
-									link: "/zh-cn/system/engagement/battle-tips",
+									link: "/zh-hans/system/engagement/battle-tips",
 								},
 							],
 						},
