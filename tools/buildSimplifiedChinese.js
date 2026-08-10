@@ -31,7 +31,12 @@ const LOCALE_PREFIX = "/zh-hans";
 const EXCLUDE_DIRS = new Set(["en", "ja", "zh-hans", ".vitepress", "public"]);
 
 // 台湾繁体 → 大陆简体 (含词汇转换, 等价 tw2sp)
-const convert = OpenCC.Converter({ from: "twp", to: "cn" });
+const openccConvert = OpenCC.Converter({ from: "twp", to: "cn" });
+
+// OpenCC 未覆盖的台湾惯用异体字, 追加一层替换 (姪→侄 等)
+const VARIANTS = require("./zhHansVariantMap");
+const VARIANT_RE = new RegExp(`[${Object.keys(VARIANTS).join("")}]`, "g");
+const convert = (text) => openccConvert(text).replace(VARIANT_RE, (ch) => VARIANTS[ch]);
 
 // docs/public/ 下的静态资产前缀 (如 /images/ /font/ /json/) 不做链接重写
 const ASSET_PREFIXES = fs

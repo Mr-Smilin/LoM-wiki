@@ -23,6 +23,9 @@ const DIR = path.join(ROOT, "docs", "zh-hans");
 // 台湾繁体 → 大陆简体, 与生成器相同
 const convert = OpenCC.Converter({ from: "twp", to: "cn" });
 
+// OpenCC 未覆盖的台湾惯用异体字 (与生成器共用同一张表, 命中即算残留)
+const VARIANTS = require("./zhHansVariantMap");
+
 // 单字转换的已知误报: 么 (什么/怎么)、著 (著名/著作, 大陆规范保留)、
 // 乾 (乾坤/乾隆, qián 读音保留)、吒 (哪吒)
 const CHAR_WHITELIST = new Set(["么", "著", "乾", "吒"]);
@@ -40,7 +43,7 @@ function stripProtected(text) {
 const hits = new Map(); // char -> { to, count, samples: [file:line] }
 function recordChar(ch, rel, lineNo) {
     if (ch.codePointAt(0) < 0x2e80 || CHAR_WHITELIST.has(ch)) return;
-    const c = convert(ch);
+    const c = VARIANTS[ch] || convert(ch);
     if (c === ch) return;
     if (!hits.has(ch)) hits.set(ch, { to: c, count: 0, samples: [] });
     const h = hits.get(ch);
