@@ -21,7 +21,7 @@ export default {
         return {
             randomVariable: 0,
             contentIndex: 0,
-            locale: "zh", // zh | en | ja，於 created() 依路徑判定
+            locale: "zh", // zh | zh-cn | en | ja，於 created() 依路徑判定
             content: {},
             // UI 固定文字（非角色台詞）
             ui: {
@@ -113,9 +113,11 @@ export default {
         }
     },
     computed: {
-        // 語系前綴：zh 為空, 其餘為 /en 或 /ja
+        // 語系前綴：zh 為空, zh-cn 為 /zh-cn, 其餘為 /en 或 /ja
         localePrefix() {
-            return this.locale === "zh" ? "" : `/${this.locale}`;
+            if (this.locale === "zh") return "";
+            if (this.locale === "zh-cn") return "/zh-cn";
+            return `/${this.locale}`;
         },
         homeLink() {
             return withBase(`${this.localePrefix}/`);
@@ -154,12 +156,13 @@ export default {
         document.querySelectorAll("body>div.lg-container").forEach(e => e.remove());
     },
     methods: {
-        // 依網址路徑判定語系 (base 為 /LoM-wiki/, 故 /en/、/ja/ 前綴可辨識)
+        // 依網址路徑判定語系 (base 為 /LoM-wiki/, 故 /en/、/ja/、/zh-cn/ 前綴可辨識)
         detectLocale() {
             if (typeof window === "undefined") return "zh";
             const p = window.location.pathname;
             if (/\/en\//.test(p)) return "en";
             if (/\/ja\//.test(p)) return "ja";
+            if (/\/zh-cn\//.test(p)) return "zh-cn";
             return "zh";
         },
         // 取多語欄位; 缺該語系則回退繁中

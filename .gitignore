@@ -25,5 +25,6 @@ docs/public/json/contributors.json
 docs/public/json/badend_list.json
 docs/.vitepress/theme/data/locale_page_manifest.json
 docs/.vitepress/theme/script/wikiLinkIndex.js
+docs/zh-cn
 /docs/.vitepress/theme/components/private/text-characters-transition
 /.claude/*
