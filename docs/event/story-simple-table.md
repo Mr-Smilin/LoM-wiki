@@ -454,7 +454,9 @@ tags:
     <td style="text-align: center">上</td>
     <td colspan = 3 style="text-align: center">唐門例會</td>
     <td style="text-align: center">
-        雲裳倒地<br>
+        <MarkdownWrapper>
+            [雲裳倒地](/event/simple/2-11-1-雲裳倒地)<br>
+		</MarkdownWrapper>
     </td>
 </tr>
 <tr>
