@@ -475,7 +475,7 @@ tags:
         <MarkdownWrapper>
             [指指點點](/event/simple/2-10-2-指指點點)<br>
             [青城段考](/event/simple/2-11-3-青城段考)<br>
-            趙逵上山<br>
+            [趙逵上山](/event/simple/2-11-3-趙逵上山)<br>
             逃離青城<br>
 		</MarkdownWrapper> 
     </td>
