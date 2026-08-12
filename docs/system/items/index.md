@@ -127,6 +127,17 @@ tags:
         <td></td>
     </tr>
     <tr>
+        <td>鹽醃山豬肉</td>
+        <td>賣價?</td>
+        <td></td>
+        <td>心相+50、體力+1</td>
+        <td>休息選飲食</td>
+        <td>
+            不留學破廟線，<MarkdownWrapper>[「唐門報信」](/event/simple/2-08-2-唐門報信)</MarkdownWrapper>時山路對決野豬，<MarkdownWrapper>[「唐門迎敵」](/event/simple/2-08-2-唐門迎敵)時點選大門，再【🎲＜50 沒碰上】獲得。</MarkdownWrapper><br>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
         <td>中藥蜜餞</td>
         <td>賣價?</td>
         <td></td>
