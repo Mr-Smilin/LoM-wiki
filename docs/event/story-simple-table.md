@@ -485,7 +485,9 @@ tags:
     <td rowspan = 4 style="text-align: center">十二</td>
     <td rowspan = 2 style="text-align: center">上</td>
     <td style="text-align: center">
-        大師兄刺金行
+        <MarkdownWrapper>
+            [大師兄刺金行](/event/simple/2-12-1-大師兄刺金行)<br>
+        </MarkdownWrapper>
     </td>
     <td style="text-align: center">-</td>
     <td colspan = 4 style="text-align: center">
