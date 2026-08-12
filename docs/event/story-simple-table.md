@@ -489,7 +489,9 @@ tags:
     </td>
     <td style="text-align: center">-</td>
     <td colspan = 4 style="text-align: center">
-        葉雲舟歸來<br>
+        <MarkdownWrapper>
+            葉雲舟歸來(/event/simple/2-12-1-葉雲舟歸來)<br>
+        </MarkdownWrapper>
     </td>
 </tr>
 <tr>
@@ -502,7 +504,7 @@ tags:
     <td style="text-align: center">中</td>
     <td colspan = 4 style="text-align: center">
         <MarkdownWrapper>
-				[門派宣戰](/event/simple/2-12-2-門派宣戰)<br>
+		    [門派宣戰](/event/simple/2-12-2-門派宣戰)<br>
         </MarkdownWrapper>
     </td>
 </tr>
