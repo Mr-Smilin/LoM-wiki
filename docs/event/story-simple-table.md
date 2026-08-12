@@ -490,7 +490,7 @@ tags:
     <td style="text-align: center">-</td>
     <td colspan = 4 style="text-align: center">
         <MarkdownWrapper>
-            葉雲舟歸來(/event/simple/2-12-1-葉雲舟歸來)<br>
+            [葉雲舟歸來](/event/simple/2-12-1-葉雲舟歸來)<br>
         </MarkdownWrapper>
     </td>
 </tr>
