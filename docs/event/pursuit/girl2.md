@@ -98,8 +98,8 @@ tags:
 <tr>
 <td>6</td>
 <td>第二年十二月上旬</td>
-<td>葉雲舟歸來</td>
-<td><Girl2Icon>葉雲裳</Girl2Icon>好感≧30，且技能<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>等級≧3，以觸發聽說《寂滅三摩地》。</td>
+<td><MarkdownWrapper>[葉雲舟歸來](/event/simple/2-12-1-葉雲舟歸來)</MarkdownWrapper></td>
+<td><Girl2Icon>葉雲裳</Girl2Icon>好感≧30，且技能<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>等級≧3，以觸發🚩「聽說寂滅三摩地」。</td>
 <td><MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級造成對話變化。</td>
 </tr>
 
