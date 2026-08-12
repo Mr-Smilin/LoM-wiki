@@ -516,7 +516,7 @@ tags:
         <MarkdownWrapper>
 			[掌門議事](/event/simple/2-12-3-掌門議事)<br>
 			[唐門內戰](/event/simple/2-12-3-唐門內戰)<br>
-            唐守鴻處置
+            [唐守鴻處置](/event/simple/2-12-3-唐守鴻處置)<br>
         </MarkdownWrapper>
     </td>
 </tr>
