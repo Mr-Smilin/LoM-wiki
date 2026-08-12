@@ -496,8 +496,10 @@ tags:
 </tr>
 <tr>
     <td colspan = 4 style="text-align: center">
-        葉雲舟還錢<br>
-        唐門例會<br>
+        <MarkdownWrapper>
+            [葉雲舟還錢](/event/simple/2-12-1-葉雲舟還錢)<br>
+            唐門例會<br>
+        </MarkdownWrapper>
     </td>
 </tr>
 <tr>
