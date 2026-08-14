@@ -288,7 +288,7 @@ tags:
         <td></td>
         <td>觸發喪家之犬結局</td>
         <td>事件道具</td>
-        <td><MarkdownWrapper>[「谷底生活」](/event/simple/3-05-1-谷底生活)</MarkdownWrapper>中，第五天拾獲物品【🎲≥50 某人的黑歷史】。</td>
+        <td></td>
         <td></td>
     </tr>
 </table>
