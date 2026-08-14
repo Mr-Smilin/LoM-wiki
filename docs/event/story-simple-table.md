@@ -664,7 +664,9 @@ tags:
 				</MarkdownWrapper>
 			</td>
 			<td>
-                兄妹對決
+                <MarkdownWrapper>
+				    [兄妹對決](/event/simple/3-07-3-兄妹對決)<br>
+				</MarkdownWrapper>
             </td>
 		</tr>
 		<tr>
