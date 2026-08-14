@@ -157,7 +157,7 @@ tags:
 				<MarkdownWrapper>
 				[捉拿譚霸刀](/event/simple/1-11-1-捉拿譚霸刀)<br>
 				[初到江陵](/event/simple/1-11-1-初到江陵)<br>
-				[初到江陵](/event/simple/1-11-1-啟程赴壽宴)<br>
+				[啟程赴宴](/event/simple/1-11-1-啟程赴壽宴)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -222,8 +222,9 @@ tags:
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
             [留學生來訪](/event/simple/2-03-1-留學生來訪)<br>
+            留學生衝突<br>
+            唐門例會<br>
         </MarkdownWrapper>
-        唐門例會<br>
     </td>
 </tr>
 <tr>
@@ -251,6 +252,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
 			[衣服遭竊](/event/simple/2-04-1-衣服遭竊)<br>
+            [季試宣傳]<br>
 			[奪魄森林事件集](/event/simple/2-04-1-奪魄森林事件集)<br>
 			[練功分心](/event/simple/2-04-1-練功分心)<br>
 			[崆峒搶劫](/event/simple/2-04-1-崆峒搶劫)<br>
@@ -267,7 +269,7 @@ tags:
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
             [多人拜師](/event/simple/2-05-1-多人拜師)<br>
-            [唐門例會](/event/simple/2-05-1-多人拜師)<br>
+            唐門例會<br>
 			[峨嵋狄傲](/event/simple/2-05-1-峨嵋狄傲)<br>
             [溪邊玩水](/event/simple/2-05-1-溪邊玩水)<br>
         </MarkdownWrapper>
@@ -435,6 +437,7 @@ tags:
     <td style="text-align: center">中</td>
     <td style="text-align: center">
         <MarkdownWrapper>
+            雲裳重逢<br>
             小梅投靠<br>
 		</MarkdownWrapper>
     </td>
@@ -710,7 +713,7 @@ tags:
                 龍湘夜遊<br>
 			</td>
 			<td>
-				人間道<br>
+				辭別錦香<br>
 				武林大會<br>
                 大會歸途<br>
 			</td>
