@@ -137,7 +137,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <td>
 <span style="color: #B0DCD5;">【葉雲裳】</span><br>
 南宮壽宴拒絕陪大師兄說相聲，並衝動逃離一切。<br>
-雲裳線打贏鐵冠道人的隱藏壞結局。
+<MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>子事件<MarkdownWrapper>[「山道之戰」](/event/simple/3-05-1-山道之戰)</MarkdownWrapper>中打贏鐵冠道人。
 </td>
 </tr>
 <tr>
@@ -754,7 +754,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 </td>
 <td>
 <span style="color: #B0DCD5;">【葉雲裳】</span><br>
-於谷底治療葉雲裳時，四連戰輸掉任何一場，與她共赴黃泉。
+<MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「九轉療傷」](/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>中，幻境連戰輸掉任何一場，與她共赴黃泉。
 </td>
 </tr>
 </BTable>
