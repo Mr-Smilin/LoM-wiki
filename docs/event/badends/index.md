@@ -495,7 +495,8 @@ tags:
             -
         </td>
         <td>
-            江陵攻城事件，心上人是<Girl7Icon>魏菊</Girl7Icon>，王二壯叫陣時，轉盤骰到「不妙的人」，趙活會接第二掌，選擇接受<Girl7Icon>小菊</Girl7Icon>運功治療，轉盤骰到<80：爆體而亡(基本上限40，內力正向加值)。
+            江陵攻城事件，心上人是<Girl7Icon>魏菊</Girl7Icon>，王二壯叫陣時，轉盤骰到「不妙的人」，趙活會接第二掌，選擇接受<Girl7Icon>小菊</Girl7Icon>運功治療，轉盤骰到<80：爆體而亡(基本上限40，內力正向加值)。<br>
+            <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「山道之戰」](/event/simple/3-05-1-山道之戰)</MarkdownWrapper>中，與鐵冠道人比內力時，擲骰到【🎲＜40 死】。<br>
         </td>
         <td>
             -
@@ -2514,7 +2515,8 @@ tags:
             護花使者
         </td>
         <td>
-            葉雲裳線，三年五月小師妹出嫁事件，追葉雲裳離開唐門，遭遇段智秀與鐡冠道人。戰勝段智秀后敗於鐡冠道人。<br>注意若敗於段智秀則直接進入劇情，不會與鐡冠道人開戰
+            <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「山道之戰」](/event/simple/3-05-1-山道之戰)</MarkdownWrapper>中，先戰勝段智秀。<br>
+            接著戰鐡冠道人時，未滿4回合落敗。<br>
         </td>
         <td>
             -
@@ -2534,7 +2536,7 @@ tags:
             -
         </td>
         <td>
-            跟雲裳在谷底 她找藥草 骰到有毒的藥草 道德低可以吸她的手
+           <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「谷底生活」](/event/simple/3-05-1-谷底生活)</MarkdownWrapper>時，第三天採得藥草【🎲≥66 劇毒的藥草】，且道德＜40，選擇👉「對，必須用嘴吸出來(騙人)」。<br>
         </td>
         <td>
             -
