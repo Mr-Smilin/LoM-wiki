@@ -9,4 +9,4 @@ tags:
     - test
 ---
 
-[test](/event/ends/end-7)
+- [test](/event/ends/end-7)
