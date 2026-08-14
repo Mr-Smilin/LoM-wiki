@@ -155,7 +155,9 @@ tags:
 <tr>
 <td>1</td>
 <td>第三年七月下旬</td>
-<td>葉氏兄妹對決</td>
+<td>
+    <MarkdownWrapper>[兄妹對決](/event/simple/3-07-3-兄妹對決)</MarkdownWrapper>
+</td>
 <td>若葉雲舟好感≧40，觸發此事件。</td>
 <td></td>
 </tr>
@@ -163,8 +165,10 @@ tags:
 <tr>
 <td>2</td>
 <td>第三年八月下旬</td>
-<td>邀請葉氏兄妹同行武林大會</td>
-<td>• 前往大門可邀請葉雲舟同行。
+<td>
+    <MarkdownWrapper>[邀請葉雲舟](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>
+</td>
+<td>• 前往大門可邀請葉雲舟同行武林大會。
     <br>• 若要<Girl2Icon>葉雲裳</Girl2Icon>同行，需要📖「幫她求情」。
 </td>
 <td>建議讓她同行，但若選擇📖「妳問妳哥」有其他劇情可看。</td>
@@ -182,7 +186,7 @@ tags:
     <br>• 若<Girl2Icon>葉雲裳</Girl2Icon>同行:
     <br>1. 旅途事件: 劇情變化。
     <br>2. 錦香宮: 劇情變化。
-    <br>3. 錦香宮: 華音閣增加葉雲裳學琴事件，三次後觸發溫夫人劇情，可使西武林線📖「護衛三師兄」時得到雲裳彈琴的協助(故建議觸發)。
+    <br>3. 錦香宮: 華音閣增加葉雲裳學琴事件，三次後觸發🚩溫夫人授琴雲裳，可使西武林線📖「護衛三師兄」時得到雲裳彈琴的協助(故建議觸發)。
 </td>
 <td>目前葉雲舟同行綁定<Girl2Icon>葉雲裳</Girl2Icon>結緣，故也列出葉雲舟的劇情變化。</td>
 </tr>
@@ -229,7 +233,7 @@ tags:
 <td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬(成立西武林盟決策)
 </td>
-<td>葉雲裳陪伴</td>
+<td>伴侶之約</td>
 <td>至女弟子房可觸發與<Girl2Icon>葉雲裳</Girl2Icon>玩牌事件。</td>
 <td>若不觸發此事件，則剩兩次行動時自動觸發<Girl2Icon>葉雲裳</Girl2Icon>等不到你的事件。</td>
 </tr>
@@ -264,7 +268,7 @@ tags:
 <tr>
 <td>10</td>
 <td>第四年二月下旬</td>
-<td>劍聖傳承</td>
+<td><MarkdownWrapper>[劍聖傳承](/event/simple/4-02-3-劍聖傳承)</MarkdownWrapper></td>
 <td>• 若有解鎖此事件，大門下山可觸發。
     <br>• 🎲擲骰到【≧50】「葉雲舟沒出現」，進入學習劍聖極招過程。
     <br>• 需擁有技能<MarkdownWrapper>[《點破雲關》](/system/skill)</MarkdownWrapper>，且未習得<MarkdownWrapper>[《同舟劍法》](/system/skill)</MarkdownWrapper>，才能根據🎲擲骰結果習得劍聖極招。
@@ -275,7 +279,7 @@ tags:
 <tr>
 <td>11</td>
 <td>第四年三月上旬</td>
-<td>武林盟主對決(西武林線)</td>
+<td>眉山決戰</td>
 <td>• 劇情有<Girl2Icon>葉雲裳</Girl2Icon>陪同。
     <br>• 若終戰後瑞笙死亡，且<MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>中有擊殺無相祖師，此處劇情變化。
     <br>• 結局畫面與葉雲裳相伴。
