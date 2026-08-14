@@ -754,7 +754,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 </td>
 <td>
 <span style="color: #B0DCD5;">【葉雲裳】</span><br>
-<MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「九轉療傷」](/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>中，幻境連戰輸掉任何一場，與她共赴黃泉。
+<MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「九轉療傷」](/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>中，幻境連戰輸掉任何一場。
 </td>
 </tr>
 </BTable>
