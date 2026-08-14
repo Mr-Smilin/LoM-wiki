@@ -354,7 +354,8 @@ tags:
         <td>1~5</td>
         <td>根據已精通之儒道釋學提升內力</td>
         <td>《全真天遁劍法》</td>
-    </tr>    <tr>
+    </tr>    
+    <tr>
         <td>寂滅三摩地</td>
         <td>-</td>
         <td>拯救葉雲裳的關鍵技能</td>
@@ -364,7 +365,9 @@ tags:
         <td>九轉輪迴</td>
         <td>-</td>
         <td>可抵擋致命攻擊，並恢復滿血</td>
-        <td>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>子事件<MarkdownWrapper>[「九轉療傷」](/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>中，結緣葉雲裳後獲得。</td>
+        <td>
+            <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>子事件<MarkdownWrapper>[「九轉療傷」](/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>中，結緣葉雲裳後獲得。
+</td>
     </tr>
     <tr>
         <td>同舟劍法</td>
