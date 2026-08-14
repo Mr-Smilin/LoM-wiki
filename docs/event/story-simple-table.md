@@ -912,9 +912,11 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
-    後山切磋<br>
-    劍聖傳承<br>
-    探訪戰友<br>
+      <MarkdownWrapper>
+          後山切磋<br>
+          [劍聖傳承](/event/simple/4-02-3-劍聖傳承)<br>
+          探訪戰友<br>
+      </MarkdownWrapper>    
   </td>
 </tr>
 
