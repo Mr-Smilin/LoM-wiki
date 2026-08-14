@@ -122,7 +122,10 @@ tags:
 <tr>
 <td>8</td>
 <td>第三年五月上旬</td>
-<td><MarkdownWrapper>[師妹招親](/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper></td>
+<td>
+    <MarkdownWrapper>[師妹招親](/event/simple/3-05-1-師妹招親後半)</MarkdownWrapper><br>
+    <MarkdownWrapper>[雲裳結緣](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper><br>
+</td>
 <td>• 先確保心上人為<Girl2Icon>葉雲裳</Girl2Icon>、葉雲裳好感≧50、秘笈<MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>修練完畢。
     <br>• 對葉雲裳對策連續三次選擇📖「軟性對策」。
     <br>• 若🗡️對決段智秀獲勝，則🗡️對決鐵冠道人時，需撐四回合以上且最終戰鬥落敗。
