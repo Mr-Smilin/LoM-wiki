@@ -74,7 +74,8 @@ tags:
         <td>偕老誓</td>
         <td>-</td>
         <td>可抵擋致命攻擊，並恢復氣力。</td>
-        <td>雲裳線戰勝南宮遠真氣後由南宮護心訣蛻變而成</td>
+        <td><MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>
+子事件<MarkdownWrapper>[「九轉療傷」](/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>時，有南宮護心訣3級且戰勝幻境南宮遠。</td>
     </tr>
     <tr>
         <td>勇氣</td>
@@ -364,7 +365,8 @@ tags:
         <td>九轉輪迴</td>
         <td>-</td>
         <td>可抵擋致命攻擊，並恢復滿血</td>
-        <td>雲裳線完成以寂滅三摩地拯救葉雲裳後獲得</td>
+        <td>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>
+子事件<MarkdownWrapper>[「九轉療傷」](/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>中，結緣葉雲裳後獲得。</td>
     </tr>
     <tr>
         <td>同舟劍法</td>
