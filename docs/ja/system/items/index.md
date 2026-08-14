@@ -21,21 +21,20 @@ tags:
     <tr>
         <td>名称</td>
         <td>価格</td>
-        <td>購入上限</td>
+        <td>1回の購入上限</td>
         <td>効果</td>
         <td>使用方法</td>
-        <td>制限</td>
+        <td>獲得方法</td>
         <td>備考</td>
     </tr>
     <tr>
         <td>色紙</td>
         <td>50</td>
         <td>5</td>
-        <td>心相+70</td>
+        <td>心相+70(想い人が<MarkdownWrapper>[唐默鈴](/ja/people/characters/girl0)</MarkdownWrapper>)<br>心変わり+2(想い人が唐默鈴以外)</td>
         <td>休息で折り紙を選択</td>
-        <td>想い人は<MarkdownWrapper>[唐默鈴](/ja/people/characters/girl0)</MarkdownWrapper>である必要がある</td>
-        <td>通常は節約・道徳維持・心相回復に最適。低心相(苦い顔、34未満)時は折り紙一回で満タン回復するが、食べ物も役に立つかもしれない。唐門を離れると折り紙はできない。
-<br>別：想い人を変更したい場合(唐默鈴でない時)は部屋で折り紙をして変心ポイントを増やし、十分に高いと夢のイベントが発動する。</td>
+        <td>四師兄の商店</td>
+        <td>安価な心相回復手段</td>
     </tr>
     <tr>
         <td>サトウキビ</td>
@@ -113,9 +112,9 @@ tags:
         <td>峨嵋雪芽</td>
         <td>500</td>
         <td>5</td>
-        <td>武功修練材料 心相+60 / 品性+2</td>
-        <td>修練時に自動使用</td>
-        <td></td>
+        <td>心相+60 / 品性+2</td>
+        <td>休息で飲食を選択</td>
+        <td>四師兄の商店</td>
         <td></td>
     </tr>
     <tr>
@@ -124,8 +123,53 @@ tags:
         <td></td>
         <td>心相+80 / 団結-1</td>
         <td>休息で飲食を選択</td>
+        <td>下山時に抽選で発生する龍湘の肉まん購入イベントで、並んで購入する (龍湘の財布がまた奪われた!!)</td>
         <td></td>
-        <td>外出して並んで購入する必要がある(龍湘の財布がまた奪われた!!)</td>
+    </tr>
+    <tr>
+        <td>塩漬けイノシシ肉</td>
+        <td>売価?</td>
+        <td></td>
+        <td>心相+50、体力+1</td>
+        <td>休息で飲食を選択</td>
+        <td><MarkdownWrapper>留学しない廃寺ルートで、[唐門への報告](/ja/event/simple/2-08-2-唐門報信)の山道で猪と対決し、[唐門の迎撃](/ja/event/simple/2-08-2-唐門迎敵)で大門を選択、さらに【＜50】出くわさなかった を引くと入手。</MarkdownWrapper></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>漢方蜜漬け</td>
+        <td>売価?</td>
+        <td></td>
+        <td>心相+80、体力+1、抗毒+1、抗麻+1</td>
+        <td>休息で飲食を選択</td>
+        <td><MarkdownWrapper>[唐芳の帰還](/ja/event/simple/1-09-1-唐芳歸來)で、天運【≧70】全部見つかった の後に👉「自分で食べる」を選ぶと入手。</MarkdownWrapper></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>あんこまん</td>
+        <td>売価?</td>
+        <td></td>
+        <td>体力+1、内功-1、抗毒+1、抗麻+1、<br>心相+100(想い人が葉雲裳)または心相+30(想い人が葉雲裳以外)</td>
+        <td>休息で飲食を選択</td>
+        <td><MarkdownWrapper>[青城での目覚め](/ja/event/simple/2-08-3-青城醒轉)で、青城弟子がひっくり返した食事を受け止められなかった場合に入手。</MarkdownWrapper></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>降真香</td>
+        <td>売価?</td>
+        <td></td>
+        <td>体力+1、内功+2、品性+2、抗毒-1、抗麻-1、心相+40</td>
+        <td>休息で飲食を選択</td>
+        <td><MarkdownWrapper>[青城の案内](/ja/event/simple/2-08-3-青城導覽)で、食事をひっくり返した青城弟子の謝罪に対し👉「謝罪の誠意は?」を選ぶと入手。</MarkdownWrapper></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>湘妃魚ケーキ</td>
+        <td>売価?</td>
+        <td></td>
+        <td>心相+30、体力-1、抗毒+1、料理+2</td>
+        <td>休息で飲食を選択</td>
+        <td><MarkdownWrapper>[四師兄の青城訪問](/ja/event/simple/2-10-1-四師兄訪青城)で、贈り物を選び天運【≧80】江陵の特産 を引くと入手。</MarkdownWrapper></td>
+        <td></td>
     </tr>
     <tr>
         <td>龍象豹力子丹</td>

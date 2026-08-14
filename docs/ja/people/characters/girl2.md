@@ -139,6 +139,14 @@ aside: false
 			nameZh='大泣き'
 			nameEn='Cry'/>
 	</ChTab>
+	<ChTab title="泣き笑い">
+		<Ch 
+			src='/images/characters/girl_2/cry_laugh.webp' 
+			position='center'/>
+		<ChName
+			nameZh='泣き笑い'
+			nameEn='Cry Laugh'/>
+	</ChTab>
 	<ChTab title="真面目">
 		<Ch 
 			src='/images/characters/girl_2/serious.webp' 
@@ -385,7 +393,7 @@ aside: false
 -   見ただけで[盤古開天破](/ja/system/books/book_2011)と[斬天黒翼双龍剣](/ja/system/books/book_2005)を覚えてしまう。
 -   体が弱くなければ、おそらく兄の[葉雲舟](/ja/people/characters/special3)より武の素質がある。
 -   [葉雲舟](/ja/people/characters/special3)・[段智秀](/ja/people/characters/special833)らわずか4人で隊列から郡主を連れ去るという大胆な計画を立案した。
--   自分と[趙活](/ja/people/characters/player)・[唐芳](/ja/people/characters/special832)たちが青城から無傷で撤退する計画を立案した(詳細は[段智秀来襲・青城脱出](/ja/event/simple/2-09-3-段智秀來襲)を参照)。
+-   自分と[趙活](/ja/people/characters/player)・[唐芳](/ja/people/characters/special832)たちが青城から無傷で撤退する計画を立案した(詳細は[段智秀との遭遇](/ja/event/simple/2-10-2-遭遇段智秀)を参照)。
 -   [趙活](/ja/people/characters/player)と一緒に錦香宮へ行った場合、短い滞在期間で琴の技芸を習得し、審査に合格するだけでなく、自分で変奏までできるようになり、[温夫人](/ja/people/characters/special402)から琴を1面贈られる。
 -   風雨山の上で唐門がデマで中傷されるのを見て、パオズ1個で、デマを流した[晁和](/ja/people/characters/special208)を惨死させ、[釈明](/ja/people/characters/special826)の評判を地に落とした。
 -   遊戯王に似たカードゲームを自作し、有名な俠士たちを絵札にした。

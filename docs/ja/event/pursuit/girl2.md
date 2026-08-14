@@ -70,7 +70,8 @@ tags:
 <td>• まず想い人が<Girl2Icon>葉雲裳</Girl2Icon>であることを確認。
     <br>• 📖「廃寺」を選択。</td>
 <td>• このイベント自体は想い人を要求しないが、これ以降は心変わりポイントを得にくくなる。
-    <br>• <Girl2Icon>葉雲裳</Girl2Icon>好感≧30なら、📖「宿屋」を選んでも強制的に廃寺行きになる。
+    <br>• この時点で<Girl2Icon>葉雲裳</Girl2Icon>好感≧30に到達しておくとよい。以降の会話が多く変わる。
+    <br>• 葉雲裳好感≧30なら、📖「宿屋」を選んでも強制的に廃寺行きになる。
     <br>• 唐門を出る前に秘笈<MarkdownWrapper>[金剛腿](/ja/system/books/book_4001)</MarkdownWrapper>の購入を検討してもよい(<MarkdownWrapper>[仏学](/ja/system/skill)</MarkdownWrapper>レベル1を得られるが、後にも他の仏学書がある)。
 </td>
 </tr>
@@ -91,8 +92,8 @@ tags:
 <tr>
 <td>6</td>
 <td>2年目12月上旬</td>
-<td>葉雲舟の帰還</td>
-<td><Girl2Icon>葉雲裳</Girl2Icon>好感≧30、かつスキル<MarkdownWrapper>[医術](/ja/system/skill)</MarkdownWrapper>レベル≧3で、《寂滅三摩地》について聞くイベントが発生する。</td>
+<td><MarkdownWrapper>[葉雲舟の帰還](/ja/event/simple/2-12-1-葉雲舟歸來)</MarkdownWrapper></td>
+<td><Girl2Icon>葉雲裳</Girl2Icon>好感≧30、かつスキル<MarkdownWrapper>[医術](/ja/system/skill)</MarkdownWrapper>レベル≧3で、🚩「寂滅三摩地について聞いた」が立つ。</td>
 <td><MarkdownWrapper>[仏学](/ja/system/skill)</MarkdownWrapper>のレベルによって会話が変化する。</td>
 </tr>
 
@@ -115,7 +116,10 @@ tags:
 <tr>
 <td>8</td>
 <td>3年目5月上旬</td>
-<td><MarkdownWrapper>[小師妹の比武招親 前半](/ja/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper></td>
+<td>
+    <MarkdownWrapper>[小師妹の比武招親 後半](/ja/event/simple/3-05-1-師妹招親後半)</MarkdownWrapper><br>
+    <MarkdownWrapper>[雲裳と結ばれる](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper><br>
+</td>
 <td>• まず想い人が<Girl2Icon>葉雲裳</Girl2Icon>、葉雲裳好感≧50、秘笈<MarkdownWrapper>[九転残篇](/ja/system/books/book_8109)</MarkdownWrapper>の修練完了を確認。
     <br>• 葉雲裳への対応で3回連続📖「軟性対策」を選択。
     <br>• 🗡️段智秀との決闘に勝利した場合、続く🗡️鉄冠道人との決闘では4ラウンド以上持ちこたえた上で、最終的に敗北する必要がある。
@@ -277,9 +281,9 @@ tags:
 
 ## 備考
 • 条件2で葉家兄妹が唐門に滞在することになると、結縁に必須ではないが<Girl2Icon>葉雲裳</Girl2Icon>が絡む随時イベントが発生するようになる。発生時期が固定されていないため、上表の条件の合間に挟まる。
-<br>• <MarkdownWrapper>[唐錚の診断](/ja/event/simple/1-08-3-唐錚診斷)・[葉雲裳とのお出かけ](/ja/event/simple/1-08-3-雲裳問診出遊)</MarkdownWrapper>: 1年目8月下旬〜2年目3月に発生。葉雲裳の内傷が判明し、唐錚が治療を引き受ける経緯が語られる。
-<br>• <MarkdownWrapper>[紙札遊戯の対決](/ja/event/simple/1-09-2-紙牌對決)</MarkdownWrapper>: <MarkdownWrapper>[唐芳の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)</MarkdownWrapper>後、1年目9月中旬〜2年目5月下旬の毎月上旬に抽選。🎲天運で「葉雲裳の反則的な制圧」が出ると好感が上がる。
+<br>• <MarkdownWrapper>[唐錚の診断](/ja/event/simple/1-08-3-唐錚診斷)・[山を下りての遠出](/ja/event/simple/1-09-2-下山郊遊)</MarkdownWrapper>: 1年目8月下旬〜2年目3月に発生。葉雲裳の内傷が判明し、唐錚が治療を引き受ける経緯が語られる。
+<br>• <MarkdownWrapper>[紙札遊戯の対決](/ja/event/simple/1-09-2-卡牌決鬥)</MarkdownWrapper>: <MarkdownWrapper>[唐芳の帰還](/ja/event/simple/1-09-1-唐芳歸來)</MarkdownWrapper>後、1年目9月中旬〜2年目5月下旬の毎月上旬に抽選。🎲天運で「葉雲裳の反則的な制圧」が出ると好感が上がる。
 <br>• <Girl2Icon>葉雲裳</Girl2Icon>を結縁せずただ生存させたいだけの場合、条件1・条件2を満たし、青城に留学せず(条件5参照)、条件7の🎲「葉雲裳の抵抗」と📖「葉雲舟を引き止める」を達成すればよい。ただしこの場合、彼女が再び登場するのは西武林ルートの最終決戦に勝利した時と[汗青書37：唐門の火種](/ja/event/ends/end-37)の結末のみとなる。
 <br>• このルートは多くの武学の修練を要求し、また金銭を消費するサブイベントも多いため、2周目以降の資源が充実した状態での攻略を推奨する。
 <br>• 本ページは現時点で主に[〈活俠傳イベント及び分岐まとめ〉](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)を参考に執筆しており、まだ繰り返しの検証を経ていない。
-<br>• 唐芳が帰らない不具合(v1.0.5000.13): 2年目1月下旬に条件1を満たし、かつ2月下旬になってから条件2を満たした場合、イベント同士の間隔設定により「唐芳の帰還」イベントが発生しなくなる。ただし唐芳が本ルートの重要な展開を欠席することはない。彼女に関する展開の大半は「唐芳の帰還」の発生を判定条件にしていないためである。
+<br>• 唐芳が帰らない不具合(v1.0.5000.13): 2年目1月下旬に条件1を満たし、かつ2月下旬になってから条件2を満たした場合、イベント同士の間隔設定により<MarkdownWrapper>[唐芳の帰還](/ja/event/simple/1-09-1-唐芳歸來)</MarkdownWrapper>イベントが発生しなくなる。ただし唐芳が本ルートの重要な展開を欠席することはない。彼女に関する展開の大半は「唐芳の帰還」の発生を判定条件にしていないためである。

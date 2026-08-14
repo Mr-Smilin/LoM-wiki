@@ -34,6 +34,7 @@ tags:
 				[大師兄が楽しみを探す](/ja/event/simple/1-04-1-大師兄找樂子)<br>
 				[後山で人を押す](/ja/event/simple/1-04-1-後山推人)<br>
 				[食い逃げ事件](/ja/event/simple/1-04-1-霸王餐事件)<br>
+				[同門の気遣い](/ja/event/simple/1-04-1-同門關懷)<br>
 				[怠け者](/ja/event/simple/1-04-1-偷懶怪)<br>
 				[四師兄との切磋](/ja/event/simple/1-04-1-切磋四師兄)<br>
 				</MarkdownWrapper>
@@ -104,6 +105,7 @@ tags:
 				<MarkdownWrapper>
 				[偽の借用書](/ja/event/simple/1-08-2-假字據)<br>
 				[偽趙活登場](/ja/event/simple/1-08-2-假趙活登場)<br>
+				[師妹の新しい友達](/ja/event/simple/1-08-2-師妹交友)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -111,7 +113,7 @@ tags:
 				[晁和の入門](/ja/event/simple/1-08-3-晁和入門)<br>
 				[晁和搞鬼イベント集](/ja/event/simple/1-08-3-晁和搞鬼事件集)<br>
 				[丐幇と嵩山の喧嘩](/ja/event/simple/1-08-3-丐幫與嵩山打架)<br>
-				[唐錚の診断](/ja/event/simple/1-08-3-唐錚診斷)・[葉雲裳とのお出かけ](/ja/event/simple/1-08-3-雲裳問診出遊)<br>
+				[唐錚の診断](/ja/event/simple/1-08-3-唐錚診斷)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -120,7 +122,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[龍湘との出会い](/ja/event/simple/1-09-1-初識龍湘)<br>
-				[唐芳師姉の帰還](/ja/event/simple/2-11-1-唐芳師姉帰還)<br>
+				[唐芳の帰還](/ja/event/simple/1-09-1-唐芳歸來)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -131,7 +133,8 @@ tags:
 				[仏法教育](/ja/event/simple/1-09-2-佛法教育)<br>
 				[龍湘、盗難に遭う](/ja/event/simple/1-09-2-龍湘遭竊)<br>
 				[龍湘の告発](/ja/event/simple/1-09-3-龍湘告官)<br>
-				[紙札遊戯の対決](/ja/event/simple/1-09-2-紙牌對決)<br>
+				[紙札遊戯の対決](/ja/event/simple/1-09-2-卡牌決鬥)<br>
+				[山を下りての遠出](/ja/event/simple/1-09-2-下山郊遊)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -358,14 +361,12 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
         [青城での療養](/ja/event/detailed_description/2-08-5-青城療傷)<br>
-        </MarkdownWrapper>
-        青城で目覚める<br>
-        青城見学<br>
-        仲間外れにされる<br>
-        <MarkdownWrapper>
-        [唐芳の問診](/ja/event/simple/2-08-6-唐芳問診)<br>
-        [葉雲裳の秘笈ガチャ2](/ja/event/simple/2-08-7-葉雲裳秘笈2)<br>
-        [青城観光](/ja/event/simple/2-08-8-青城遊覽)<br>
+        [青城での目覚め](/ja/event/simple/2-08-3-青城醒轉)<br>
+        [青城の案内](/ja/event/simple/2-08-3-青城導覽)<br>
+        [青城での爪弾き](/ja/event/simple/2-08-3-青城排擠)<br>
+        [初めての常風観](/ja/event/simple/2-08-3-初入常風觀)<br>
+        [初めての上清宮](/ja/event/simple/2-08-3-初入上清宮)<br>
+        [道長の地位](/ja/event/simple/2-08-3-道長地位)<br>
         </MarkdownWrapper>
     </td>
 </tr>
@@ -385,11 +386,10 @@ tags:
     <td style="text-align: center"><MarkdownWrapper>[南宮己の拷問](/ja/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper></td>
     <td style="text-align: center">
         <MarkdownWrapper>
-        [四師兄の青城訪問](/ja/event/simple/2-09-2-四師兄行商)<br>
+        [雲裳の秘笈](/ja/event/simple/2-09-1-雲裳秘笈)<br>
+        [申屠の贈り物](/ja/event/simple/2-09-1-申屠贈禮)<br>
+        [雲裳の逗留](/ja/event/simple/2-09-1-雲裳逗留)<br>
         </MarkdownWrapper>
-        雲裳の秘伝書<br>
-        虎嘯功<br>
-        葉雲裳の逗留<br>
     </td>
 </tr>
 <tr>
@@ -403,9 +403,10 @@ tags:
     <td style="text-align: center">-</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-        [段智秀来襲](/ja/event/simple/2-09-3-段智秀來襲)<br>
+        [鄒博の帰還](/ja/event/simple/2-09-3-鄒博歸來)<br>
+        [鄒博の激励](/ja/event/simple/2-09-3-鄒博嘉勉)<br>
+        [申屠の受難](/ja/event/simple/2-09-3-申屠遇襲)<br>
         </MarkdownWrapper>
-        鄒博の帰還<br>
     </td>
 </tr>
 
@@ -428,7 +429,9 @@ tags:
     </td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">
-        四師兄の来訪<br>
+        <MarkdownWrapper>
+            [四師兄の青城訪問](/ja/event/simple/2-10-1-四師兄訪青城)<br>
+        </MarkdownWrapper>
     </td>
 </tr>
 <tr>
@@ -439,8 +442,9 @@ tags:
     </td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            比試の人選<br>
-            江湖の急を救う<br>
+            [段智秀との遭遇](/ja/event/simple/2-10-2-遭遇段智秀)<br>
+            [雲裳との相談](/ja/event/simple/2-10-2-雲裳商議)<br>
+            [雲裳へのえさやり](/ja/event/simple/2-10-2-投餵雲裳)<br>
             [後ろ指を指されて](/ja/event/simple/2-10-2-指指點點)<br>
 		</MarkdownWrapper>        
     </td>
@@ -464,8 +468,7 @@ tags:
     <td colspan = 3 style="text-align: center">唐門例会</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-        葉雲裳、倒れる<br>
-        青城滞在が続く。[枯栄神功上卷](/ja/system/books/book_7017)の入手機会 (未収録)<br>
+        [雲裳が倒れる](/ja/event/simple/2-11-1-雲裳倒地)<br>
         </MarkdownWrapper>
     </td>
 </tr>
@@ -484,9 +487,9 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
             [後ろ指を指されて](/ja/event/simple/2-10-2-指指點點)<br>
-            青城派の定期試験<br>
-            趙逵、山に上る<br>
-            青城からの脱出<br>
+            [青城の段階試験](/ja/event/simple/2-11-3-青城段考)<br>
+            [趙逵の登山](/ja/event/simple/2-11-3-趙逵上山)<br>
+            [青城からの脱出](/ja/event/simple/2-11-3-逃離青城)<br>
 		</MarkdownWrapper> 
     </td>
 </tr>
@@ -517,6 +520,7 @@ tags:
         <MarkdownWrapper>
 			[掌門会議](/ja/event/simple/2-12-3-掌門議事)<br>
 			[唐門内戦](/ja/event/simple/2-12-3-唐門內戰)<br>
+			[唐守鴻の処遇](/ja/event/simple/2-12-3-唐守鴻處置)<br>
         </MarkdownWrapper>
     </td>
 </tr>
@@ -525,7 +529,7 @@ tags:
 </div>
 <br>
 
-## 第三年：一月〜十一月
+## 第三年：一月〜十月
 省スペースのため、本表は月/旬形式で表示する。
 
 <div class="table-container">
@@ -600,7 +604,11 @@ tags:
 				[唐門の婚事協議](/ja/event/simple/3-04-1-唐門議婚)<br>
 				</MarkdownWrapper>
 			</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[雲裳の心配事](/ja/event/simple/3-04-2-雲裳心事)<br>
+				</MarkdownWrapper>
+			</td>
 			<td>-</td>
 		</tr>
 		<tr>
@@ -614,9 +622,18 @@ tags:
 				[小師妹の帰る先](/ja/event/simple/3-05-1-師妹的歸宿)<br>
 				[恩讐の果て](/ja/event/simple/3-05-1-恩仇盡頭)<br>
 				[雲裳と結ばれる](/ja/event/simple/3-05-1-雲裳結緣)<br>
+				[雲裳との決別](/ja/event/simple/3-05-1-雲裳訣別)<br>
+				[山道の戦い](/ja/event/simple/3-05-1-山道之戰)<br>
+				[谷底での生活](/ja/event/simple/3-05-1-谷底生活)<br>
+				[九転の療傷](/ja/event/simple/3-05-1-九轉療傷)<br>
+				[谷底からの脱出](/ja/event/simple/3-05-1-離開谷底)<br>
 				</MarkdownWrapper>
 			</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[雲裳の死](/ja/event/simple/3-05-3-雲裳之死)<br>
+				</MarkdownWrapper>
+			</td>
 			<td>
 				<MarkdownWrapper>
 				[樹屋を建造する](/ja/event/simple/3-05-3-建造樹屋)<br>
@@ -698,27 +715,12 @@ tags:
 			</td>
 			<td>-</td>
 		</tr>
-		<tr>
-			<td>十一月</td>
-			<td>
-				<MarkdownWrapper>
-				<li>[唐門に帰る](/ja/event/detailed_description/3-11-1-回到唐門#唐門に帰る-回到唐門)</li>
-				<li>[弟子が暇乞いする](/ja/event/detailed_description/3-11-1-回到唐門#弟子が暇乞いする-弟子想告辭)</li>
-				<li>[四師兄が帰る](/ja/event/detailed_description/3-11-1-回到唐門#四師兄が帰る-四師兄歸來)</li>
-				<li>[覚醒夢](/ja/event/simple/3-11-1-清醒夢)</li>
-				</MarkdownWrapper>
-			</td>
-			<td>-</td>
-			<td>
-				<li>龍湘ルート：閑話</li>
-			</td>
-		</tr>
 	</table>
 </div>
 <br>
 
-## 第三年12月〜第四年
-ストーリーに4つの分岐ルートがあるため、本表は時間/ルート形式で表示する。
+## 第三年11月〜第四年
+ストーリーに5つの分岐ルートがあるため、本表は時間/ルート形式で表示する。
 
 <div class="table-container">
 <table>
@@ -726,6 +728,7 @@ tags:
 <tr>
   <th rowspan = 2 style="text-align: center">月</th>
   <th rowspan = 2 style="text-align: center">旬</th>
+  <th rowspan = 2 style="text-align: center">無可救薬</th>
   <th colspan = 2 style="text-align: center">西武林盟不成立</th>
   <th colspan = 2 style="text-align: center">西武林盟成立</th>
 </tr>
@@ -739,8 +742,48 @@ tags:
 
 <tbody>
 <tr>
+  <td rowspan = 3 style="text-align: center">十一</td>
+  <td style="text-align: center">上</td>
+  <td style="text-align: center">
+      目覚めと記憶喪失<br>
+      四師兄との雑談<br>
+      雑用の禁止<br>
+      師妹を懐かしむ<br>
+  </td>
+  <td colspan = 4 style="text-align: center">
+      <MarkdownWrapper>
+      <li>[唐門に帰る](/ja/event/detailed_description/3-11-1-回到唐門#唐門に帰る-回到唐門)</li>
+      <li>[弟子が暇乞いする](/ja/event/detailed_description/3-11-1-回到唐門#弟子が暇乞いする-弟子想告辭)</li>
+      <li>[四師兄が帰る](/ja/event/detailed_description/3-11-1-回到唐門#四師兄が帰る-四師兄歸來)</li>
+      <li>[覚醒夢](/ja/event/simple/3-11-1-清醒夢)</li>
+      </MarkdownWrapper>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center">中</td>
+  <td style="text-align: center">-</td>
+  <td colspan = 4 style="text-align: center">
+      龍湘ルート：閑話<br>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: center">下</td>
+  <td style="text-align: center">-</td>
+  <td colspan = 4 style="text-align: center">-</td>
+</tr>
+
+<tr>
   <td rowspan = 3 style="text-align: center">十二</td>
   <td style="text-align: center">上</td>
+  <td style="text-align: center">
+    唐門会議<br>
+    市場での決戦<br>
+    飛石幇への反攻<br>
+    飛石幇への贈り物<br>
+    魔教への身寄せ<br>
+    段階試験<br>
+    裏山の約束<br>
+  </td>
   <td colspan = 4 style="text-align: center">
     武林からの檄文<br>
     唐門例会<br>
@@ -752,6 +795,7 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">中</td>
+  <td style="text-align: center">-</td>
   <td style="text-align: center">
     唐門に別れを告げる<br>
   </td>
@@ -765,6 +809,9 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">下</td>
+  <td style="text-align: center">
+    小師妹の再訪<br>
+  </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     龍湘との結縁<br>
@@ -779,6 +826,10 @@ tags:
 <tr>
   <td rowspan = 3 style="text-align: center">一</td>
   <td style="text-align: center">上</td>
+  <td style="text-align: center">
+    唐門会議<br>
+    雲舟の指名手配<br>
+  </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     <MarkdownWrapper>
@@ -793,6 +844,7 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">中</td>
+  <td style="text-align: center">唐門の滅亡</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     <MarkdownWrapper>
@@ -811,6 +863,7 @@ tags:
   <td style="text-align: center">下</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
+  <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
     青城からの返答<br>
     中小門派からの返答<br>
@@ -825,6 +878,7 @@ tags:
   <td style="text-align: center">上</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
+  <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
     <MarkdownWrapper>
     [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)<br>
@@ -834,6 +888,7 @@ tags:
 </tr>
 <tr>
   <td rowspan = 2 style="text-align: center">中</td>
+  <td rowspan = 2 style="text-align: center">-</td>
   <td rowspan = 2 style="text-align: center">-</td>
   <td rowspan = 2 style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
@@ -859,6 +914,7 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
+  <td style="text-align: center">-</td>
   <td style="text-align: center">
     後山での切磋<br>
     剣聖の伝承<br>
@@ -867,8 +923,9 @@ tags:
 </tr>
 
 <tr>
-  <td rowspan = 4 style="text-align: center">三</td>
+  <td style="text-align: center">三</td>
   <td style="text-align: center">上</td>
+  <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
