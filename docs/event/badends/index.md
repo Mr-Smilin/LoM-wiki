@@ -1041,8 +1041,11 @@ tags:
             -
         </td>
         <td>
-            <font color=#FF0000>【目前版本無法達成】</font><br>
-            <Girl0Icon>小師妹</Girl0Icon>比武招親當晚，金烏上人來襲，<Girl0Icon>小師妹</Girl0Icon>同行下山(需要心上人<Girl0Icon>小師妹</Girl0Icon>)，葉雲舟或瑞笙同行下山（目前版本無法達成），選擇圍毆，輸掉團戰。
+            <Girl0Icon>小師妹</Girl0Icon>比武招親當晚，金烏上人來襲，小師妹同行下山(需心上人唐默鈴、唐默鈴好感≥50)，且葉雲舟或瑞笙同行下山，選擇圍毆，輸掉團戰。<br>
+            葉雲舟同行方法如下:<br>
+            • 有<MarkdownWrapper>[收留葉氏兄妹](/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>，且曾<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>。<br>
+            • 在<MarkdownWrapper>[葉氏兄妹離去](/event/simple/3-01-1-葉氏兄妹離去)</MarkdownWrapper>時，讓他們留下。<br>
+            • <MarkdownWrapper>[比武招親](/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper>前，將心上人改為唐默鈴，或葉雲裳好感＜50。<br>
         </td>
         <td>
             光看這描述還以為走到了Normal End去了。
@@ -2407,6 +2410,7 @@ tags:
         </td>
         <td>
             <MarkdownWrapper>[「拷問南宮己」](/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>事件中，替南宮己求情後骰到【🎲＜20 很可疑】。<br>
+            需求: 修養＞40，且性情＜80，且道德≥40，且唐錚好感＜20(無命運收束)或＜70(有命運收束)。<br>            
         </td>
         <td>
             -
