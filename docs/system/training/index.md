@@ -46,18 +46,21 @@ text: '修養-',
 		<td :unsortable="true">地點</td>
 		<td :unsortable="true">指令</td>
 		<td :unsortable="true">事件</td>
-		<td :unsortable="true">貢獻<br>變化</td>
-		<td :unsortable="true">心相<br>變化</td>
+		<td :unsortable="true">貢獻</td>
+		<td :unsortable="true">心相</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`normal`" />(心相:33~64)<br>
+			<MoodIcon :mood="`normal`" /><br>
+            (心相:33~64)<br>
             基礎效果
 		</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`high`" />(心相≥65)<br>
+			<MoodIcon :mood="`high`" /><br>
+            (心相≥65)<br>
             額外效果
 		</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`bad`" />(心相:0~32)<br>
+			<MoodIcon :mood="`bad`" /><br>
+            (心相:0~32)<br>
             額外效果
 		</td>
         <td :unsortable="true">機率權值</td>
@@ -83,7 +86,7 @@ text: '修養-',
 		<td>工作輕鬆</td>
 		<td>11</td>
 		<td>-12</td>
-		<td>修養+1<br>處世-1<br>向心-1<br>掌門好感+1</td>
+		<td>修養+1<br>處世-1<br>向心-1<br>唐中翎好感+1</td>
 		<td>修養+1<br>處世+1</td>
 		<td>-</td>
 		<td>-</td>
