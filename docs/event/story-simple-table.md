@@ -222,7 +222,7 @@ tags:
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
             [留學生來訪](/event/simple/2-03-1-留學生來訪)<br>
-            留學生衝突<br>
+            [留學生衝突](/event/simple/2-03-1-留學生衝突)<br>
             唐門例會<br>
         </MarkdownWrapper>
     </td>
