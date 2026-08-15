@@ -252,7 +252,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
 			[衣服遭竊](/event/simple/2-04-1-衣服遭竊)<br>
-            [季試宣傳]<br>
+            季試消息<br>
 			[奪魄森林事件集](/event/simple/2-04-1-奪魄森林事件集)<br>
 			[練功分心](/event/simple/2-04-1-練功分心)<br>
 			[崆峒搶劫](/event/simple/2-04-1-崆峒搶劫)<br>
@@ -437,7 +437,7 @@ tags:
     <td style="text-align: center">中</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            雲裳重逢<br>
+            [雲裳重逢](/event/simple/2-10-2-雲裳重逢)<br>
             小梅投靠<br>
 		</MarkdownWrapper>
     </td>
