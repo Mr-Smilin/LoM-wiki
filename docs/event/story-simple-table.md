@@ -53,7 +53,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				    [貢獻評點](/event/simple/1-05-1-貢獻評點)<br>
-                    [運功療傷](/event/simple/1-05-1-運功療傷)<br><br>
+                    [運功療傷](/event/simple/1-05-1-運功療傷)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
