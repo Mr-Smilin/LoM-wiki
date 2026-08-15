@@ -410,7 +410,7 @@ tags:
 </tr>
 
 <tr>
-    <td rowspan = 2 style="text-align: center">十</td>
+    <td rowspan = 3 style="text-align: center">十</td>
     <td style="text-align: center">上</td>
     <td style="text-align: center">
         <MarkdownWrapper>
