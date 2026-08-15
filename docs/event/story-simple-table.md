@@ -732,7 +732,7 @@ tags:
 <tr>
   <th rowspan = 2 style="text-align: center">月</th>
   <th rowspan = 2 style="text-align: center">旬</th>
-  <th rowspan = 2 style="text-align: center">無可救藥</th>
+  <th rowspan = 2 style="text-align: center">無可救藥<br>(Demo)</th>
   <th colspan = 2 style="text-align: center">不成立西武林</th>
   <th colspan = 2 style="text-align: center">成立西武林</th>
 </tr>
