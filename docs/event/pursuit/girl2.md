@@ -131,10 +131,10 @@ tags:
     <br>• 若🗡️對決段智秀獲勝，則🗡️對決鐵冠道人時，需撐四回合以上且最終戰鬥落敗。
     <br>• 與鐵冠道人比拚內力時，不可🎲擲骰到【<40】「死」。
     <br>• 對戰異種真氣(幻境對手)時皆需獲勝，即進入結緣過程。
-    <br>• 完成此事件，獲得道具【葉雲裳的梳子】後，即完成結緣。
+    <br>• 完成此事件，獲得道具<MarkdownWrapper>[【葉雲裳的梳子】](/people/characters/girl2.html#結緣信物)</MarkdownWrapper>後，即完成結緣。
 </td>
 <td>• 欲增加<Girl2Icon>葉雲裳</Girl2Icon>好感，可在後山練功刷烤魚事件。
-    <br>• 劍聖傳承必要條件: 比拚內力時🎲擲骰到【<99】「略遜一籌」，且谷底生活有閒聊📜「葉雲裳的武功」。
+    <br>• 劍聖傳承必要條件: 比拚內力時🎲擲骰到【<99】「略遜一籌」，且<MarkdownWrapper>[谷底生活](/event/simple/3-05-1-谷底生活)</MarkdownWrapper>有閒聊📜「葉雲裳的武功」。
     <br>• 若擁有技能<MarkdownWrapper>[《南宮護心訣》](/system/skill)</MarkdownWrapper>等級3，則對戰幻境南宮遠獲勝後，會被新技能<MarkdownWrapper>[《偕老誓》](/system/skill)</MarkdownWrapper>取代。
     <br>• 結緣過程中，會獲得技能<MarkdownWrapper>[《九轉輪迴》](/system/skill)</MarkdownWrapper>。
 </td>
