@@ -210,7 +210,7 @@ tags:
             我在絕情谷底
         </td>
         <td>
-            後山砍柴事件（事件摔落）
+            後山砍柴事件（事件摔落）<br>
             <Girl0Icon>小師妹</Girl0Icon>出嫁後女弟子房低心相觸發
         </td>
         <td>
@@ -303,7 +303,7 @@ tags:
         </td>
         <td>
             賀禮選殺死南宮世仇，到江陵上街閒逛，輪盤選擇熟悉的人(觸發辛儒師姐打工項目)，決鬥丐幫戰敗 <br>
-            破廟線，防守煉丹房戰敗可觸發
+            破廟線，<MarkdownWrapper>[唐門迎敵](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>事件防守煉丹房戰敗可觸發
         </td>
         <td>
             -
@@ -343,11 +343,9 @@ tags:
             -
         </td>
         <td>
-            途徑一:<br>
-            1.崆峒派賭坊累積贏5000元觸發打劫事件時選擇不給錢，並在戰鬥時戰敗。<br>
-            2.崆峒派留學入玄宮門，小梅帶逛崆峒派在玄宮洞碰到魏菊時，選擇站到魏菊那邊，後續與玄宮弟子決鬥戰敗。(整個莫名其妙，疑似bug)<br>
-            途徑二:<br>
-            青城留學線結尾，<MarkdownWrapper>[逃離青城](/event/simple/2-11-3-逃離青城)</MarkdownWrapper>時守夜遇山賊戰敗。<br>
+            1. 崆峒派賭坊累積贏5000元觸發打劫事件時選擇不給錢，並在戰鬥時戰敗。<br>
+            2. 崆峒派留學入玄宮門，小梅帶逛崆峒派在玄宮洞碰到魏菊時，選擇站到魏菊那邊，後續與玄宮弟子決鬥戰敗。(整個莫名其妙，疑似bug)<br>
+            3. 青城留學線結尾，<MarkdownWrapper>[逃離青城](/event/simple/2-11-3-逃離青城)</MarkdownWrapper>時守夜遇山賊戰敗。<br>
         </td>
         <td>
             -
@@ -474,8 +472,8 @@ tags:
             -
         </td>
         <td>
-            唐門沒有收留葉家兄妹，留學崆峒派，江陵圍城戰前最後一夜，選擇打拳散心，處事≦40(知禮)會到宅外練功，轉盤骰到80以上，與女飛賊決鬥戰敗 <br> 
-            見<MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，多個被殺結局。<br>
+            1. 唐門沒有收留葉家兄妹，留學崆峒派，江陵圍城戰前最後一夜，選擇打拳散心，處事≦40(知禮)會到宅外練功，轉盤骰到80以上，與女飛賊決鬥戰敗 <br> 
+            2. 見<MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，多個被殺結局。<br>
         </td>
         <td>
             -
@@ -495,8 +493,8 @@ tags:
             -
         </td>
         <td>
-            江陵攻城事件，心上人是<Girl7Icon>魏菊</Girl7Icon>，王二壯叫陣時，轉盤骰到「不妙的人」，趙活會接第二掌，選擇接受<Girl7Icon>小菊</Girl7Icon>運功治療，轉盤骰到<80：爆體而亡(基本上限40，內力正向加值)。<br>
-            <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「山道之戰」](/event/simple/3-05-1-山道之戰)</MarkdownWrapper>中，與鐵冠道人比內力時，擲骰到【🎲＜40 死】。<br>
+            1. 江陵攻城事件，心上人是<Girl7Icon>魏菊</Girl7Icon>，王二壯叫陣時，轉盤骰到「不妙的人」，趙活會接第二掌，選擇接受<Girl7Icon>小菊</Girl7Icon>運功治療，轉盤骰到<80：爆體而亡(基本上限40，內力正向加值)。<br>
+            2. <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「山道之戰」](/event/simple/3-05-1-山道之戰)</MarkdownWrapper>中，與鐵冠道人比內力時，擲骰到【🎲＜40 死】。<br>
         </td>
         <td>
             -
@@ -735,8 +733,8 @@ tags:
             -
         </td>
         <td>
-            <MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，選擇攻打唐門戰敗。<br>
-            第二年十二月下旬，廣州唐門來襲，背叛唐門（道德為壞人以下），並且被掌門或小師妹殺死
+            1. <MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，選擇攻打唐門戰敗。<br>
+            2. 第二年十二月下旬，廣州唐門來襲，背叛唐門（道德為壞人以下），並且被掌門或小師妹殺死
         </td>
         <td>
             <MarkdownWrapper>~~還好你生在一個唐老魔退隱的時代。~~</MarkdownWrapper>
@@ -1042,10 +1040,9 @@ tags:
         </td>
         <td>
             <Girl0Icon>小師妹</Girl0Icon>比武招親當晚，金烏上人來襲，小師妹同行下山(需心上人唐默鈴、唐默鈴好感≥50)，且葉雲舟或瑞笙同行下山，選擇圍毆，輸掉團戰。<br>
-            葉雲舟同行方法如下:<br>
-            • 有<MarkdownWrapper>[收留葉氏兄妹](/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>，且曾<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>。<br>
-            • 在<MarkdownWrapper>[葉氏兄妹離去](/event/simple/3-01-1-葉氏兄妹離去)</MarkdownWrapper>時，讓他們留下。<br>
-            • <MarkdownWrapper>[比武招親](/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper>前，將心上人改為唐默鈴，或葉雲裳好感＜50。<br>
+            • 葉雲舟同行方法: 有<MarkdownWrapper>[收留葉氏兄妹](/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>、曾<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>。
+            <MarkdownWrapper>[葉氏兄妹離去](/event/simple/3-01-1-葉氏兄妹離去)</MarkdownWrapper>時，讓他們留下。
+            <MarkdownWrapper>[比武招親](/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper>前，將心上人改為唐默鈴，或葉雲裳好感＜50。<br>
         </td>
         <td>
             光看這描述還以為走到了Normal End去了。
@@ -1065,8 +1062,8 @@ tags:
             元-佚名《來生債》
         </td>
         <td>
-            <Girl0Icon>小師妹</Girl0Icon>比武招親事件，出現選項，選擇「群毆」戰敗。<br>
-            <MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，選擇跑路、戰勝、道德<40。<br>
+            1. <Girl0Icon>小師妹</Girl0Icon>比武招親事件，出現選項，選擇「群毆」戰敗。<br>
+            2. <MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，選擇跑路、戰勝、道德<40。<br>
         </td>
         <td>
             道德為壞人以下且沒拜師<Girl5Icon>夏侯蘭</Girl5Icon>
@@ -1086,12 +1083,12 @@ tags:
             -
         </td>
         <td>
-            <Girl0Icon>小師妹</Girl0Icon>比武招親時，選項選擇「群毆」勝利，追擊戰與第二位飛天弟子或第三位奪魂弟子決鬥戰敗 + 逃跑失敗。<br>
-            ※留學崆峒派並加入飛天門或奪魂門，對應門派弟子的決鬥會跳過。<br>
-            ※同行下山的人數2人以上時，會跳過第二場飛天弟子決鬥，同行3人(小師妹、葉雲舟、瑞笙)時，連第三場奪場弟子決鬥都會跳過。(目前版本正常同行者最多只有小師妹)
+            <Girl0Icon>小師妹</Girl0Icon>比武招親時，選項選擇「群毆」勝利，追擊戰與第二位飛天弟子或第三位奪魄弟子決鬥戰敗 + 逃跑失敗。<br>
+            ※留學崆峒派並加入飛天或奪魄門，對應門派弟子的決鬥會跳過。<br>
+            ※同行下山的人數2人以上時，會跳過第二場飛天弟子決鬥，同行3人(小師妹、葉雲舟、瑞笙)時，連第三場奪魄弟子決鬥都會跳過。<br>
         </td>
-        <td>
-            此死法一般見於戰場上。
+        <td>            
+            此死法一般見於戰場上。<br>
         </td>
     </tr>
     <tr>
@@ -1193,7 +1190,6 @@ tags:
             開發出彼岸仙香再繼續開發成鳥水仙，
             在<Girl4Icon>上官螢</Girl4Icon>唐門送禮事件（門派資產≧-9000 or 不留學二年四月中強制觸發)，
             選擇焚香，選擇威脅，與上官螢決鬥戰敗並戰敗。<br>
-            ※目前疑似有bug，過程中不能讀檔
         </td>
         <td>
             -
@@ -1302,15 +1298,13 @@ tags:
             你就像那些不經打的家具一樣脆弱不堪，<br>
             碰你兩下就四分五裂。
         </td>
+        <td>-</td>
         <td>
-            1. 買回外堡後，男弟子房觸發公差事件，下山和尚VS乞丐混戰打完，轉盤骰到「你的戰敗」。<br>
-            2. 破廟初遇<Girl8Icon>龍湘</Girl8Icon>事件未達成互稱姊弟，後續與<Girl8Icon>龍湘</Girl8Icon>決鬥戰敗。<br>
-            3. 不留學客棧線，離開唐門遇到龍淵與千面人魔時，與龍淵或千面人魔其中一人決鬥戰敗。
-            4. 青城留學線，<MarkdownWrapper>[趙逵上山](/event/simple/2-11-3-趙逵上山)</MarkdownWrapper>時道德＞40被趙逵留住，且趙逵、鄒博對掌時選擇👉「動」，再擲骰到【🎲≥70 突破被封穴道】。
-        </td>
-        <td>
-            大師兄vs龍湘時戰敗
-            千面人事件與龍淵或千面人對招被打死也能獲得
+            1. <MarkdownWrapper>[抓公差](/event/simple/1-09-2-四師兄抓公差)</MarkdownWrapper>事件: 大師兄vs龍湘時戰敗。<br>
+            2. <MarkdownWrapper>[和尚與乞丐](/event/simple/1-08-3-丐幫與嵩山打架)</MarkdownWrapper>事件，下山和尚VS乞丐混戰打完，轉盤骰到「你的戰敗」。<br>
+            3. 破廟初遇<Girl8Icon>龍湘</Girl8Icon>事件未達成互稱姊弟，後續與<Girl8Icon>龍湘</Girl8Icon>決鬥戰敗。<br>
+            4. 不留學客棧線，離開唐門遇到龍淵與千面人魔時，與龍淵或千面人魔其中一人決鬥戰敗。<br>
+            5. 青城留學線，<MarkdownWrapper>[趙逵上山](/event/simple/2-11-3-趙逵上山)</MarkdownWrapper>時道德＞40被趙逵留住，且趙逵、鄒博對掌時選擇👉「動」，再擲骰到【🎲≥70 突破被封穴道】。<br>
         </td>
         <td>
             這結局額外文字描述同樣適用於<br>
@@ -1617,8 +1611,8 @@ tags:
             -
         </td>
         <td>
-            去武林大會的大地圖移動，隨機遭遇全真教人馬，沒有官兵護衛且門派規模＜3會出現選項，選擇「竟敢瞧不起唐門，欠揍！」，與全真長老決鬥敗戰。<br>
-            青城線中，選擇上清宮-道士下山，有機會遇到決鬥事件，戰敗即可。
+            1. 去武林大會的大地圖移動，隨機遭遇全真教人馬，沒有官兵護衛且門派規模＜3會出現選項，選擇「竟敢瞧不起唐門，欠揍！」，與全真長老決鬥敗戰。<br>
+            2. 青城線中，選擇上清宮-道士下山，有機會遇到決鬥事件，戰敗即可。
         </td>
         <td>
             足以表現道士的心境，劫後餘生。<br>
@@ -1659,10 +1653,10 @@ tags:
             -
         </td>
         <td>
-            組成西武林盟，<Girl5Icon>夏侯蘭</Girl5Icon>結緣，武林大會沒支援錦香宮(武林大會上不能收留<Girl8Icon>龍湘</Girl8Icon>，否則強制支援錦香宮)，
+            1. 組成西武林盟，<Girl5Icon>夏侯蘭</Girl5Icon>結緣，武林大會沒支援錦香宮(武林大會上不能收留<Girl8Icon>龍湘</Girl8Icon>，否則強制支援錦香宮)，
             丹霞子沒加入唐門(不能派四師兄向崆峒派求援且失敗)，
             並在唐門圍攻戰中，選擇出擊，之後在萬里鵬程使用音波功時選擇「緊閉大門」，內力≧20＆性情≧20(否則觸發<BadendIcon :no="84">生死簿84-「被嚇死」</BadendIcon>)，發生<Girl5Icon>夏侯蘭</Girl5Icon>出擊，與萬里鵬程戰鬥時戰敗。<br>
-            破廟線，防守伙房戰敗可觸發
+            2. 破廟線，防守伙房戰敗可觸發
         </td>
         <td>
             活俠傳中防禦功能稱為『備揍』，<br>
@@ -1773,10 +1767,10 @@ tags:
             -
         </td>
         <td>
-            <Girl5Icon>夏侯蘭</Girl5Icon>線，在雪山派找吃的時候骰到豬，與豬戰鬥時戰敗<br>
-            破廟線<MarkdownWrapper>[「唐門報信」](/event/simple/2-08-2-唐門報信)</MarkdownWrapper>事件中，遭遇野豬戰敗。<br>
-            青城留學，常風觀散步遇到野豬，對決戰敗。<br>
-            青城留學結尾，<MarkdownWrapper>[逃離青城](/event/simple/2-11-3-逃離青城)</MarkdownWrapper>時擲骰到「森林之怒」攔路，對決落敗。<br>
+            1. <Girl5Icon>夏侯蘭</Girl5Icon>線，在雪山派找吃的時候骰到豬，與豬戰鬥時戰敗<br>
+            2. 破廟線<MarkdownWrapper>[「唐門報信」](/event/simple/2-08-2-唐門報信)</MarkdownWrapper>事件中，遭遇野豬戰敗。<br>
+            3. 青城留學，常風觀散步遇到野豬，對決戰敗。<br>
+            4. 青城留學結尾，<MarkdownWrapper>[逃離青城](/event/simple/2-11-3-逃離青城)</MarkdownWrapper>時擲骰到「森林之怒」攔路，對決落敗。<br>
         </td>
         <td>
             -
@@ -1796,8 +1790,8 @@ tags:
             -
         </td>
         <td>
-            <Girl5Icon>夏侯蘭</Girl5Icon>線，選擇自請與第三香戰鬥時戰敗，需要心上人為<Girl5Icon>夏侯蘭</Girl5Icon>。<br>
-            破廟線<MarkdownWrapper>[「唐門報信」](/event/simple/2-08-2-唐門報信)</MarkdownWrapper>事件中，遭遇山賊戰敗。<br>
+            1. <Girl5Icon>夏侯蘭</Girl5Icon>線，選擇自請與第三香戰鬥時戰敗，需要心上人為<Girl5Icon>夏侯蘭</Girl5Icon>。<br>
+            2. 破廟線<MarkdownWrapper>[「唐門報信」](/event/simple/2-08-2-唐門報信)</MarkdownWrapper>事件中，遭遇山賊戰敗。<br>
         </td>
         <td>
             不知所云
@@ -1857,8 +1851,8 @@ tags:
             -
         </td>
         <td>
-            在武林大會前，停留在錦香宮時溫夫人會把你叫去第二次，第二次選項選擇「狗屁不通」(需要修養＜40：暴躁or瘋狂、性情＞60：勇敢or莽夫)，之後選擇「賴著不走」，與溫夫人決鬥，勝敗都是劇情殺。<br>
-            破廟線，夜襲唐門中，反覆選擇防守弟子房。
+            1. 在武林大會前，停留在錦香宮時溫夫人會把你叫去第二次，第二次選項選擇「狗屁不通」(需要修養＜40：暴躁or瘋狂、性情＞60：勇敢or莽夫)，之後選擇「賴著不走」，與溫夫人決鬥，勝敗都是劇情殺。<br>
+            2. 破廟線，夜襲唐門中，反覆選擇防守弟子房。
         </td>
         <td>
             恭喜你找到了喔。
@@ -1923,14 +1917,12 @@ tags:
         </td>
         <td>
             武林大會選擇支持錦香宮，團戰輸贏不重要，後續決鬥敗給上官隼或南宮深。<br><br>
-            武林大會支持錦香宮條件：<br>
-            一、<Girl8Icon>龍湘</Girl8Icon>在武林大會上投靠唐門時(需要<Girl8Icon>龍湘</Girl8Icon>好感≧30)，選擇「不顧旁人冷眼收留<Girl8Icon>龍湘</Girl8Icon>」，會強制支持錦香宮<br>
-            <br>或<br><br>
-            二、在武林大會上未收留<Girl8Icon>龍湘</Girl8Icon>(<Girl8Icon>龍湘</Girl8Icon>沒來投靠唐門or<Girl8Icon>龍湘</Girl8Icon>要來投靠唐門時，選擇「局勢未明瞭，避免連累師門，先不表態」)：<br>
-                1. 處事＜60<br>
-                2. 道德≧60<br>
-                3. 前往武林大會路上前往錦香宮作客(目前版本必發生) <br>
-                4. 錦香宮行沒被趕出來(在錦香宮溫夫人第二次找時，第二次的選項選擇「狗屁不通」(需要修養＜40：暴躁or瘋狂、性情＞60：勇敢or莽夫)，後面選擇「好漢不吃眼前虧，走」，就會被趕出來)
+            武林大會上支持錦香宮條件(擇一)：<br>
+            一、<Girl8Icon>龍湘</Girl8Icon>好感≧30以觸發她投靠唐門，並選擇「不顧旁人冷眼收留龍湘」。<br>
+            二、若龍湘未投靠，或未收留她，則需:<br>
+                1. 處事＜60且道德≧60<br>
+                2. 前往武林大會路上前往錦香宮作客(目前版本必發生) <br>
+                3. 辭別錦香時沒被趕出來(趕出來: 選擇「狗屁不通」(需修養＜40、性情＞60)，並選擇「好漢不吃眼前虧，走」)
         </td>
         <td>
             -
@@ -2024,7 +2016,7 @@ tags:
             就可以宣告遊戲勝利。
         </td>
         <td>
-            -
+            同時結緣夏侯蘭及任何其他女角，第四年大戰前「伴侶之約」時，進入任何一位伴侶的約定場所，觸發對決夏侯蘭並落敗。<br>
         </td>
         <td>
             事實上也叫做五馬分屍、<br>
@@ -2519,7 +2511,7 @@ tags:
             護花使者
         </td>
         <td>
-            <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「山道之戰」](/event/simple/3-05-1-山道之戰)</MarkdownWrapper>中，先戰勝段智秀。<br>
+            <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「山道之戰」](/event/simple/3-05-1-山道之戰)</MarkdownWrapper>中，先戰勝段智秀。
             接著戰鐡冠道人時，未滿4回合落敗。<br>
         </td>
         <td>
