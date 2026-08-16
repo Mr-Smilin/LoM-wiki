@@ -708,6 +708,40 @@ tags:
         </td>
 		<td>-</td>
 	</tr>
+    <tr>
+		<td>唐門</td>
+		<td>鍛治場<br>打鐵<br>修先判斷</td>
+		<td>繼續打鐵</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            無優先事件，接續打鐵事件判斷<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 50</td>
+		<td>
+            無<MarkdownWrapper>[「兵器毀損」](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>狀態
+        </td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>唐門</td>
+		<td>鍛治場<br>打鐵<br>修先判斷</td>
+		<td>修復兵器</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            消除<MarkdownWrapper>[「兵器毀損」](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>狀態。<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 50</td>
+		<td>
+            有<MarkdownWrapper>[「兵器毀損」](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>狀態
+        </td>
+		<td>-</td>
+	</tr>
 	<tr>
 		<td>唐門</td>
 		<td>鍛治場<br>打鐵</td>
@@ -717,7 +751,26 @@ tags:
 		<td>鍛造+5</td>
 		<td>鍛造+3</td>
 		<td>-</td>
+		<td>基礎: 50</td>
 		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>唐門</td>
+		<td>鍛治場<br>打鐵</td>
+		<td>頭暈腦脹</td>
+		<td>10</td>
+		<td>-25</td>
+		<td>
+			• 修養-1、鍛造+5、名聲+1<br>
+            • 若🚩四師兄在唐門: 銀兩+1000、唐惟元好感+1<br>
+		</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 基礎: 25<br>
+            • 心相≤30: +30<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
@@ -727,10 +780,14 @@ tags:
 		<td>心有雜念</td>
 		<td>10</td>
 		<td>-66</td>
-		<td>鍛造+5<br>命運+1</td>
+		<td>鍛造+5、命運+1</td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
+		<td>
+            • 基礎: 10<br>
+            • 處世≥60: +5<br>
+            • 心相≤30: +30<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
@@ -740,40 +797,42 @@ tags:
 		<td>品質良好</td>
 		<td>10</td>
 		<td>-16</td>
-		<td>鍛造+8<br>刀劍+1<br>修養-1</td>
+		<td>鍛造+8、刀劍+1、修養-1</td>
 		<td>-</td>
-		<td>比正常少了<br>刀劍+1</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>唐門</td>
-		<td>鍛治場<br>打鐵</td>
-		<td>頭暈腦脹</td>
-		<td>10</td>
-		<td>-25</td>
+		<td>刀劍-1</td>
 		<td>
-			修養-1<br>鍛造+5<br>名聲+1<br>※四師兄在唐門<br>銀兩+1000<br>四師兄好感+1
-		</td>
+            • 基礎: 25<br>
+            • 心相≥50: +30<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
+    </tr>
 	<tr>
 		<td>唐門</td>
 		<td>鍛治場<br>打鐵</td>
-		<td>留學生想偷窺秘方</td>
+		<td>留學生想<br>偷窺秘方</td>
 		<td>10</td>
 		<td>-26</td>
-		<td>修養-1<br>處事+1</td>
+		<td>
+            • 修養-1、處世+1<br>
+            • 🚩留學糾紛+2<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
-		<td>• 最早第二年二月下旬<br>• 最晚第二年八月下旬</td>
-		<td></td>
+		<td>
+            • 基礎: 30<br>
+            • 心相≤30: +20<br>
+        </td>
+		<td>
+            • 最早第二年二月下旬<br>
+            • 最晚第二年八月下旬<br>
+            • 🚩留學糾紛≥0。<br>
+        </td>
+		<td>
+            若🚩留學糾紛≥5: <br>
+            會觸發<MarkdownWrapper>[留學生衝突](/event/simple/2-03-1-留學生衝突)</MarkdownWrapper>事件<br>
+            ，並設置🚩留學糾紛=-1。<br>
+        </td>
 	</tr>
 	<tr>
 		<td>唐門</td>
@@ -782,12 +841,17 @@ tags:
 		<td>10</td>
 		<td>-6</td>
 		<td>
-			鍛造+5<br>銀兩+1000<br>名聲+1<br>※有該派留學弟子<br>青城好感+1<br>全真好感+1<br>峨嵋好感+1<br>崆峒好感+1<br>嵩山好感+1<br>點蒼好感+1
+			• 名聲+1、鍛造+5、銀兩+1000<br>
+            • 六大派好感度: 各有1/3機率會+1<br>
 		</td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
-		<td>• 最早第二年二月下旬<br>• 最晚第二年八月下旬<br>• 🚩<MarkdownWrapper>[留學糾紛=-1](/event/simple/2-03-1-留學生衝突)</MarkdownWrapper></td>
+		<td>基礎: 25</td>
+		<td>
+            • 最早第二年二月下旬<br>
+            • 最晚第二年八月下旬<br>
+            • 🚩<MarkdownWrapper>[留學糾紛=-1](/event/simple/2-03-1-留學生衝突)</MarkdownWrapper><br>
+        </td>
 		<td></td>
 	</tr>
 	<tr>
@@ -3409,6 +3473,7 @@ tags:
 ## 備註
 • 心相65為綠臉，但是會有黃臉的額外加成<br>
 • 基礎效果 + 額外效果 = 實際效果。如低心相時，(基礎學問+2) + (低心相學問-1) = 實際學問+1<br>
+• 本條目參考[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)撰寫。<br>
 <br>
 <BTable
 	:stickyHeader="true"
