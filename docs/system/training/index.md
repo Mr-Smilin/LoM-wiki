@@ -830,8 +830,8 @@ tags:
         </td>
 		<td>
             若🚩留學糾紛≥5: <br>
-            會觸發<MarkdownWrapper>[留學生衝突](/event/simple/2-03-1-留學生衝突)</MarkdownWrapper>事件<br>
-            ，並設置🚩留學糾紛=-1。<br>
+            • 觸發<MarkdownWrapper>[留學生衝突](/event/simple/2-03-1-留學生衝突)</MarkdownWrapper>事件<br>
+            • 事件後設置🚩留學糾紛=-1<br>
         </td>
 	</tr>
 	<tr>
