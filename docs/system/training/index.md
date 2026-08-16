@@ -13,35 +13,7 @@ tags:
 本條目施工中。
 :::
 
-<BTable
-	:stickyHeader="true"
-	:tags="[
-{
-text: '道德+',
-},
-{
-text: '道德-',
-},
-{
-text: '名聲+',
-},
-{
-text: '名聲-',
-},
-{
-text: '性情+',
-},
-{
-text: '性情-',
-},
-{
-text: '修養+',
-},
-{
-text: '修養-',
-},
-]"
->
+<Table>
 	<tr>
 		<td :unsortable="true">地點</td>
 		<td :unsortable="true">指令</td>
@@ -95,9 +67,7 @@ text: '修養-',
 		<td>-</td>
 		<td>基礎: 50</td>
 		<td>-</td>
-		<td>
-            
-        </td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>唐門</td>
@@ -3227,6 +3197,39 @@ text: '修養-',
 		<td>-</td>
 		<td>-</td>
 	</tr>
-</BTable>
+</Table>
 
-註：心相65為綠臉，但是會有黃臉的額外加成
+## 備註
+• 心相65為綠臉，但是會有黃臉的額外加成
+• 基礎效果 + 額外效果 = 實際效果。如低心相時，(基礎學問+2) + (低心相學問-1) = 實際學問+1。
+
+<BTable
+	:stickyHeader="true"
+	:tags="[
+{
+text: '道德+',
+},
+{
+text: '道德-',
+},
+{
+text: '名聲+',
+},
+{
+text: '名聲-',
+},
+{
+text: '性情+',
+},
+{
+text: '性情-',
+},
+{
+text: '修養+',
+},
+{
+text: '修養-',
+},
+]"
+>
+</Btable>
