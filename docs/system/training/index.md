@@ -561,16 +561,17 @@ tags:
 		<td>後山<br>砍柴</td>
 		<td>路人俠</td>
 		<td>13</td>
-		<td>-10</td>
-		<td>輕功+1</td>
+		<td>-20</td>
 		<td>
+            • 輕功+1<br>
             • 觸發🆚對決路人俠:<br>
             • 落敗: 進入<MarkdownWrapper>[生死簿09:《搞失蹤》](/event/badends/#生死簿-No.9)</MarkdownWrapper><br>
             • 獲勝: 👉放生: 道德+2、名聲+1。👉推下山谷: 道德-2。<br>
         </td>
-		<td>輕功-1</td>
 		<td>-</td>
+		<td>輕功-1</td>
 		<td>基礎: 20</td>
+		<td>-</td>
 		<td>
             • 路人俠是誰取決於遊戲時間:<br>
             • ≤一年六月下、≤一年十二月下、≤二年六月下<br>
@@ -624,6 +625,7 @@ tags:
             🚩葉雲裳在唐門:<br>
             • 👉 玩水時間: 心相+20、廚藝+1，唐默鈴好感+2、葉雲裳+2。心上人非葉雲裳或唐默鈴則變心+3<br>
             • 👉 不能打亂計畫: 進入「繼續修練」<br>
+            <br>
             🚩葉雲裳不在唐門:<br>
             • 👉 捉魚時間: 心相+20、廚藝+1、唐默鈴好感+2。心上人非唐默鈴則變心+3<br>
             • 👉 不能打亂計畫，且未🚩和唐默鈴結緣: 進入「繼續修練」<br>
@@ -634,7 +636,7 @@ tags:
 		<td>基礎: 25</td>
 		<td>
             • 🚩小師妹在唐門<br>
-            • 無🚩關閉後山烤魚(<MarkdownWrapper>[後山安葬](/event/simple/3-01-3-後山安葬)</MarkdownWrapper>到一波暫平<MarkdownWrapper>[一波暫平](/event/simple/3-02-1-一波暫平)</MarkdownWrapper>)<br>
+            • 無🚩關閉後山烤魚(<MarkdownWrapper>[後山安葬](/event/simple/3-01-3-後山安葬)</MarkdownWrapper>到<MarkdownWrapper>[一波暫平](/event/simple/3-02-1-一波暫平)</MarkdownWrapper>)<br>
         </td>
 		<td>-</td>
 	</tr>
