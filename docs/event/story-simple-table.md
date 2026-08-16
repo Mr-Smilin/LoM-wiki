@@ -701,7 +701,7 @@ tags:
 			</td>
 			<td>
                 <MarkdownWrapper>
-                    邀請夏侯蘭<br>
+                    [邀請夏侯蘭](/event/simple/3-08-3-邀請夏侯蘭)<br>
                 </MarkdownWrapper>
             </td>
 		</tr>
