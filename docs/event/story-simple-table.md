@@ -695,7 +695,7 @@ tags:
 			</td>
 			<td>
                 <MarkdownWrapper>
-                    大會請帖<br>
+                    [大會請帖](/event/simple/3-08-2-大會請帖)<br>
 				    [邀請葉雲舟](/event/simple/3-08-2-邀請葉雲舟)<br>
                 </MarkdownWrapper>
 			</td>
