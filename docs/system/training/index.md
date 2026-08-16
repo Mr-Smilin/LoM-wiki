@@ -10,7 +10,7 @@ tags:
 
 # {{ $frontmatter.title }}
 ::: warning
-本條目施工中。
+本條目施工中，暫時轉為普通表格(無搜尋功能)方便排錯。
 :::
 
 <Table>
