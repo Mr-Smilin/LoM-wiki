@@ -361,4 +361,7 @@ aside: false
 	<div>
         <img src="/images/collab/20241220_toranoana/photo_17.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
     </div>
+	<div>
+        <img src="/images/characters/girl_5/childhood.webp" alt="童年立繪，來自官方雪山派後日談影片" style="width:200px; margin:5px"/>
+    </div>
 </div>
