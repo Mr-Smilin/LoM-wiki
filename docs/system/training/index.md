@@ -343,7 +343,7 @@ tags:
 	</tr>
     <tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴<br>優先判斷</td>
+		<td>後山<br>挑柴<br>優先判斷</td>
 		<td>繼續挑柴</td>
 		<td>-</td>
 		<td>-</td>
@@ -358,7 +358,7 @@ tags:
 	</tr>
     <tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴<br>優先判斷</td>
+		<td>後山<br>挑柴<br>優先判斷</td>
 		<td>龍湘練劍</td>
 		<td>13</td>
 		<td>-20</td>
@@ -383,7 +383,7 @@ tags:
 	</tr>
     <tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴</td>
+		<td>後山<br>挑柴</td>
 		<td>穩健幹活</td>
 		<td>13</td>
 		<td>-20</td>
@@ -396,7 +396,7 @@ tags:
 	</tr>
     <tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴</td>
+		<td>後山<br>挑柴</td>
 		<td>扭傷腳</td>
 		<td>13</td>
 		<td>-31</td>
@@ -412,7 +412,7 @@ tags:
 	</tr>
 	<tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴</td>
+		<td>後山<br>挑柴</td>
 		<td>大難不死</td>
 		<td>13</td>
 		<td>-60</td>
@@ -428,7 +428,7 @@ tags:
 	</tr>
     <tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴</td>
+		<td>後山<br>挑柴</td>
 		<td>踏崩岩壁</td>
 		<td>-</td>
 		<td>-</td>
@@ -446,7 +446,7 @@ tags:
 	</tr>
     <tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴</td>
+		<td>後山<br>挑柴</td>
 		<td>抄捷徑</td>
 		<td>13</td>
 		<td>-5</td>
@@ -462,7 +462,7 @@ tags:
 	</tr>
     <tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴</td>
+		<td>後山<br>挑柴</td>
 		<td>無敵號與<br>一團廢紙</td>
 		<td>13<br>+10</td>
 		<td>-20</td>
@@ -486,7 +486,7 @@ tags:
 	</tr>
     <tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴</td>
+		<td>後山<br>挑柴</td>
 		<td>利用陷阱</td>
 		<td>13</td>
 		<td>-20</td>
@@ -507,7 +507,7 @@ tags:
 	</tr>
     <tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴</td>
+		<td>後山<br>挑柴</td>
 		<td>誤踩陷阱</td>
 		<td>13</td>
 		<td>-20</td>
@@ -528,7 +528,7 @@ tags:
 	</tr>
     <tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴</td>
+		<td>後山<br>挑柴</td>
 		<td>挖礦</td>
 		<td>13</td>
 		<td>-20</td>
@@ -547,7 +547,7 @@ tags:
 	</tr>
     <tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴</td>
+		<td>後山<br>挑柴</td>
 		<td>維修棧道</td>
 		<td>13<br>+5</td>
 		<td>-20</td>
@@ -562,7 +562,7 @@ tags:
 	</tr>
     <tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴</td>
+		<td>後山<br>挑柴</td>
 		<td>登崖眺望</td>
 		<td>-</td>
 		<td>-20</td>
@@ -582,7 +582,7 @@ tags:
 	</tr>
     <tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴</td>
+		<td>後山<br>挑柴</td>
 		<td>採藥</td>
 		<td>13<br>+10</td>
 		<td>-10</td>
@@ -598,7 +598,7 @@ tags:
 	</tr>
 	<tr>
 		<td>唐門</td>
-		<td>後山<br>砍柴</td>
+		<td>後山<br>挑柴</td>
 		<td>路人俠</td>
 		<td>13</td>
 		<td>-20</td>
@@ -624,7 +624,7 @@ tags:
 		<td>繼續修練</td>
 		<td>0</td>
 		<td>-</td>
-		<td>無小師妹烤魚，接續練武事件判斷</td>
+		<td>無優先事件，接續練武事件判斷</td>
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 50</td>
