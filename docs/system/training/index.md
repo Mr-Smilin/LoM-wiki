@@ -188,7 +188,7 @@ tags:
             • 🚩四師兄在唐門<br>
             • 🚩掌門在唐門<br>
         </td>
-		<td></td>
+		<td>-</td>
 	</tr>
     <tr>
 		<td>唐門</td>
@@ -249,7 +249,7 @@ tags:
 		<td>內力-1</td>
 		<td>基礎: 50</td>
 		<td>-</td>
-		<td></td>
+		<td>-</td>
 	</tr>
     <tr>
 		<td>唐門</td>
@@ -353,8 +353,8 @@ tags:
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 50</td>
-		<td></td>
-		<td></td>
+		<td>-</td>
+		<td>-</td>
 	</tr>
     <tr>
 		<td>唐門</td>
@@ -524,7 +524,7 @@ tags:
             • 🚩葉雲舟在唐門<br>
             • 🚩葉雲裳在唐門<br>
         </td>
-		<td></td>
+		<td>-</td>
 	</tr>
     <tr>
 		<td>唐門</td>
@@ -855,7 +855,7 @@ tags:
             • 最晚第二年八月下旬<br>
             • 🚩<MarkdownWrapper>[留學糾紛=-1](/event/simple/2-03-1-留學生衝突)</MarkdownWrapper><br>
         </td>
-		<td></td>
+		<td>-</td>
 	</tr>    
     <tr>
 		<td>唐門</td>
@@ -1147,7 +1147,7 @@ tags:
             • 心相≤30: +30<br>
         </td>
 		<td>-</td>
-		<td></td>
+		<td>-</td>
 	</tr>
     <tr>
 		<td>唐門</td>
@@ -1596,7 +1596,7 @@ tags:
             • 最晚第二年八月中旬<br>
             • 🚩<MarkdownWrapper>[留學糾紛=-1](/event/simple/2-03-1-留學生衝突)</MarkdownWrapper><br>
         </td>
-		<td></td>
+		<td>-</td>
 	</tr>
     <tr>
 		<td>唐門</td>
@@ -1704,7 +1704,7 @@ tags:
             • 輕功≥20: +10<br>
         </td>
 		<td>🚩小師妹在唐門</td>
-		<td></td>
+		<td>-</td>
 	</tr>
     <tr>
 		<td>唐門</td>
@@ -1720,7 +1720,7 @@ tags:
             • 最早第三年五月上旬<br>
             • 🚩小師妹不在唐門<br>
         </td>
-		<td></td>
+		<td>-</td>
 	</tr>
     <tr>
 		<td>唐門</td>
@@ -1739,7 +1739,7 @@ tags:
             • 最早第三年五月上旬<br>
             • 🚩小師妹不在唐門<br>
         </td>
-		<td></td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>唐門</td>
@@ -1756,7 +1756,7 @@ tags:
             • 🚩小師妹不在唐門<br>
             • 心相≤15<br>
         </td>
-		<td></td>
+		<td>-</td>
 	</tr>  
     <tr>
 		<td>唐門</td>
@@ -1925,7 +1925,7 @@ tags:
             • 🚩晁和在唐門<br>
             • 最多觸發三次<br>
         </td>
-		<td></td>
+		<td>-</td>
 	</tr>
     <tr>
 		<td>下山</td>
@@ -1944,7 +1944,7 @@ tags:
             • 曾觸發<MarkdownWrapper>[四師兄抓公差](/event/simple/1-09-2-四師兄抓公差)</MarkdownWrapper><br>
             • 一次性事件，不可重複觸發<br>
         </td>
-		<td></td>
+		<td>-</td>
 	</tr>
     <tr>
 		<td>下山</td>
@@ -1979,7 +1979,7 @@ tags:
     <tr>
 		<td>下山</td>
 		<td>外出<br>優先判斷</td>
-		<td>李富貴跑腿</td>
+		<td>李富貴<br>跑腿</td>
 		<td>-</td>
 		<td>-</td>
 		<td>
@@ -2007,7 +2007,7 @@ tags:
     <tr>
 		<td>下山</td>
 		<td>外出<br>優先判斷</td>
-		<td>李富貴喝涼水</td>
+		<td>李富貴<br>喝涼水</td>
 		<td>-</td>
 		<td>-</td>
 		<td>
@@ -2035,7 +2035,27 @@ tags:
 		<td>-</td>
 		<td>基礎: 20</td>
 		<td>🚩李富貴在唐門</td>
-		<td></td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>下山</td>
+		<td>外出<br>優先判斷</td>
+		<td>福韞<br>強制淨化</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 性情≤40: 對話差分<br>
+            • 道德+1、學問+1、福韞好感+1<br>
+            • 取消🚩揍過福韞<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 40</td>
+		<td>
+            • 🚩福韞在唐門<br>
+            • 曾🚩揍過福韞<br>
+        </td>
+		<td>-</td>
 	</tr>
     <tr>
 		<td>下山</td>
@@ -2048,7 +2068,7 @@ tags:
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
-		<td></td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>下山</td>
@@ -2061,7 +2081,7 @@ tags:
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
-		<td></td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>下山</td>
@@ -2076,7 +2096,7 @@ tags:
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
-		<td></td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>下山</td>
@@ -2102,7 +2122,7 @@ tags:
 		<td>-</td>
 		<td>-</td>
 		<td>四師兄在唐門</td>
-		<td></td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>下山</td>
@@ -2301,7 +2321,7 @@ tags:
 		<td>-</td>
 		<td>-</td>
 		<td>• 葉雲舟在唐門<br>🚩葉雲舟削劍次數≥5</td>
-		<td></td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>下山</td>
@@ -2481,7 +2501,7 @@ tags:
 		<td>-</td>
 		<td>-</td>
 		<td>葉雲舟在唐門</td>
-		<td></td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>下山</td>
@@ -3046,7 +3066,7 @@ tags:
 		<td>對應門派<br>修練<br>優先判斷</td>
 		<td>無特殊事件</td>
 		<td>0</td>
-		<td></td>
+		<td>-</td>
 		<td>接續對應門派修練事件</td>
 		<td>-</td>
 		<td>-</td>
@@ -3059,7 +3079,7 @@ tags:
 		<td>對應門派<br>修練<br>優先判斷</td>
 		<td>小梅跑步</td>
 		<td>0</td>
-		<td></td>
+		<td>-</td>
 		<td>接續小梅跑步事件</td>
 		<td>-</td>
 		<td>-</td>
