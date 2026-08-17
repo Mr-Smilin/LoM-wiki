@@ -30,6 +30,7 @@ tags:
 				[初遇大師兄](/event/simple/1-04-1-初識唐布衣)<br>
 				[初遇二師兄](/event/simple/1-04-1-初識唐錚)<br>
 				[初遇四師兄](/event/simple/1-04-1-初識唐惟元)<br>
+                [遭遇小師妹](/event/simple/1-04-1-遭遇小師妹)<br>
 				[小師妹練操](/event/simple/1-04-1-小師妹練操)<br>
 				[大師兄找樂子](/event/simple/1-04-1-大師兄找樂子)<br>
 				[後山推人](/event/simple/1-04-1-後山推人)<br>
