@@ -36,6 +36,7 @@ tags:
 				[後山推人](/event/simple/1-04-1-後山推人)<br>
                 [同門關懷](/event/simple/1-04-1-同門關懷)<br>
                 [偷懶怪](/event/simple/1-04-1-偷懶怪)<br>
+                [龍湘霸王餐](/event/simple/1-04-1-龍湘霸王餐)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
