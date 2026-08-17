@@ -1962,7 +1962,6 @@ tags:
             • 敗: <MarkdownWrapper>[生死簿86:《被肉包噎死》](/badends/#生死簿-No.86)(/system/items/)</MarkdownWrapper><br>
             • 勝: 武學+4、銀兩+1000、名聲+2、獲得姜記肉包x5(接續下行)<br>
             • 勝: 上官螢好感-3、唐中翎好感-3、宋悲好感-2、丐幫好感+2<br>
-            <br>
 		</td>
 		<td>-</td>
 		<td>-</td>
