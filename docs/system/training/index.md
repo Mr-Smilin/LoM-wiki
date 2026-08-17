@@ -22,20 +22,20 @@ tags:
 		<td :unsortable="true">心相</td>
 		<td :unsortable="true">
 			<MoodIcon :mood="`normal`" /><br>
-            (心相:33~64)<br>
+            心相:33~64<br>
             基礎效果
 		</td>
 		<td :unsortable="true">
 			<MoodIcon :mood="`high`" /><br>
-            (心相≥65)<br>
+            心相:65~100<br>
             額外效果
 		</td>
 		<td :unsortable="true">
 			<MoodIcon :mood="`bad`" /><br>
-            (心相:0~32)<br>
+            心相:0~32<br>
             額外效果
 		</td>
-        <td :unsortable="true">機率權值</td>
+        <td :unsortable="true">機率權重</td>
 		<td :unsortable="true">必要條件</td>
         <td>備註</td>
 	</tr>
@@ -211,7 +211,7 @@ tags:
             • 學問≥50<br>
         </td>
 		<td>-</td>
-	</tr>
+	</tr>    
     <tr>
 		<td>唐門</td>
 		<td>正心堂<br>冥想</td>
@@ -340,7 +340,7 @@ tags:
 		<td>基礎: 25</td>
 		<td>-</td>
 		<td>-</td>
-	</tr>
+	</tr>    
     <tr>
 		<td>唐門</td>
 		<td>後山<br>挑柴<br>優先判斷</td>
@@ -617,7 +617,7 @@ tags:
             • ≤一年六月下、≤一年十二月下、≤二年六月下<br>
             • ≤二年十二月下、≤三年六月下、≤四年六月下<br>
         </td>
-	</tr>
+	</tr>    
 	<tr>
 		<td>唐門</td>
 		<td>後山<br>練武<br>優先判斷</td>
@@ -707,7 +707,7 @@ tags:
             • 一次性事件，不可重複觸發<br>
         </td>
 		<td>-</td>
-	</tr>
+	</tr>    
     <tr>
 		<td>唐門</td>
 		<td>鍛治場<br>打鐵<br>修先判斷</td>
@@ -842,7 +842,7 @@ tags:
 		<td>-6</td>
 		<td>
 			• 名聲+1、鍛造+5、銀兩+1000<br>
-            • 六大派好感度: 各有1/3機率會+1<br>
+            • 六大派好感度: 各有33%機率會+1<br>
 		</td>
 		<td>-</td>
 		<td>-</td>
@@ -853,6 +853,40 @@ tags:
             • 🚩<MarkdownWrapper>[留學糾紛=-1](/event/simple/2-03-1-留學生衝突)</MarkdownWrapper><br>
         </td>
 		<td></td>
+	</tr>    
+    <tr>
+		<td>唐門</td>
+		<td>講經堂<br>庶務</td>
+		<td>大有學問</td>
+		<td>12</td>
+		<td>-16</td>
+		<td>
+            • 學問+1、修養+1<br>
+            • 若性情＞20: 性情-1<br>
+            • 唐陞好感+1<br>
+        </td>
+		<td>學問+1</td>
+		<td>-</td>
+		<td>基礎: 50</td>
+		<td>🚩三師兄在唐門</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>唐門</td>
+		<td>講經堂<br>庶務</td>
+		<td>心煩意亂</td>
+		<td>12<br>+5</td>
+		<td>-16</td>
+		<td>
+            • 學問+1、體力-1<br>
+            • 若性情＞20: 性情-1<br>
+            • 唐陞好感+1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 25</td>
+		<td>🚩三師兄在唐門</td>
+		<td>-</td>
 	</tr>
 	<tr>
 		<td>唐門</td>
@@ -860,37 +894,192 @@ tags:
 		<td>誘騙招募</td>
 		<td>12</td>
 		<td>-16</td>
-		<td>名聲 2<br>門人 2<br>道德-1</td>
+		<td>
+            道德-1、名聲+2、門人+2<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
+		<td>
+            • 基礎: 10<br>
+            • 道德＜20: +50<br>
+        </td>
 		<td>-</td>
+		<td>-</td>
+	</tr>    
+    <tr>
+		<td>唐門</td>
+		<td>煉丹房<br>煉丹<br>優先判斷</td>
+		<td>苦命葉雲舟</td>
+		<td>10</td>
+		<td>-16</td>
+		<td>
+			👉去幫葉雲舟: <br>
+            • 處世+1、煉丹+3、刀劍+1<br>
+            • 葉雲舟好感+2、二師兄好感-1<br>
+            <br>
+			👉不管葉雲舟:<br>
+            • 接續煉丹事件判斷<br>
+		</td>
+		<td>-</td>
+		<td>👉去幫:<br>刀劍-1</td>
+		<td>
+            機率 40%(見備註)
+        </td>
+		<td>
+            • 🚩唐錚在唐門<br>
+            • 🚩葉雲舟在唐門<br>
+        </td>
+		<td>
+            • 此事件機率是另設隨機數決定，並非以機率權重表示<br>
+            • 若👉不管葉雲舟，新事件會再扣心相，但貢獻不再加<br>
+        </td>
+	</tr>
+    <tr>
+		<td>唐門</td>
+		<td>煉丹房<br>煉丹</td>
+		<td>滿意成果</td>
+		<td>10</td>
+		<td>-16</td>
+		<td>煉丹+5</td>
+		<td>煉丹+3</td>
+		<td>-</td>
+		<td>基礎: 50</td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>唐門</td>
-		<td>講經堂<br>庶務</td>
-		<td>大有學問</td>
-		<td>12</td>
+		<td>煉丹房<br>煉丹</td>
+		<td>簡化配方</td>
+		<td>10</td>
 		<td>-16</td>
-		<td>學問 1<br>修養 1<br>性情-1<br>三師兄好感 1</td>
-		<td>學問 1</td>
+		<td>煉丹+3、處世+1、向心+2、名聲-2</td>
 		<td>-</td>
 		<td>-</td>
+		<td>
+            • 基礎: 25<br>
+            • 性情≥60: +5<br>
+            • 心相≤30: +40<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>唐門</td>
-		<td>講經堂<br>庶務</td>
-		<td>心煩意亂</td>
-		<td>12+5</td>
+		<td>煉丹房<br>煉丹</td>
+		<td>異想天開</td>
+		<td>10</td>
 		<td>-16</td>
-		<td>學問 1<br>體力-1<br>性情-1<br>三師兄好感 1</td>
+		<td>
+            • 煉丹+10、抗毒+1、抗麻+1<br>
+            • 道德-1、名聲-1、向心-5            
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 基礎: 25<br>
+            • 性情≥60: +5<br>
+            • 心相≤30: +40<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>唐門</td>
+		<td>煉丹房<br>煉丹</td>
+		<td>狗血淋頭</td>
+		<td>10</td>
+		<td>-22</td>
+		<td>
+            • 煉丹+5、命運+1<br>
+            • 唐錚好感+1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 基礎: 10<br>
+            • 心相＜30: +40<br>
+        </td>
+		<td>🚩唐錚在唐門</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>唐門</td>
+		<td>煉丹房<br>煉丹</td>
+		<td>觸類旁通</td>
+		<td>10</td>
+		<td>+10</td>
+		<td>
+            • 煉丹+8<br>
+            • 若道德≥40: 道德-1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 基礎: 25<br>
+            • 心相≥70: +40<br>
+        </td>>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>唐門</td>
+		<td>煉丹房<br>煉丹</td>
+		<td>全神貫注</td>
+		<td>10</td>
+		<td>-20</td>
+		<td>
+            • 煉丹+10、處世-1<br>
+            • 唐錚好感+2<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
+		<td>🚩唐錚在唐門</td>
 		<td>-</td>
+	</tr>
+    <tr>
+		<td>唐門</td>
+		<td>煉丹房<br>煉丹</td>
+		<td>留學生壞壞</td>
+		<td>10</td>
+		<td>-21</td>
+		<td>
+            • 煉丹+5、向心-1、名聲-1<br>
+            • 🚩留學糾紛+1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 25</td>
+		<td>
+            • 最早第二年二月下旬<br>
+            • 最晚第二年八月下旬<br>
+            • 🚩留學糾紛≥0<br>
+        </td>
+		<td>
+            若🚩留學糾紛≥5: <br>
+            • 觸發<MarkdownWrapper>[留學生衝突](/event/simple/2-03-1-留學生衝突)</MarkdownWrapper>事件<br>
+            • 事件後設置🚩留學糾紛=-1<br>
+        </td>
+	</tr>
+    <tr>
+		<td>唐門</td>
+		<td>煉丹房<br>煉丹</td>
+		<td>留學生友好</td>
+		<td>10</td>
+		<td>-6</td>
+		<td>
+			• 煉丹+5、學問+1<br>
+            • 六大派好感度: 各有33%機率會+1<br>
+		</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 最早第二年二月下旬<br>
+            • 最晚第二年八月下旬<br>
+            • 🚩<MarkdownWrapper>[留學糾紛=-1](/event/simple/2-03-1-留學生衝突)</MarkdownWrapper><br>
+        </td>
 		<td>-</td>
 	</tr>
 	<tr>
@@ -900,138 +1089,25 @@ tags:
 		<td>10</td>
 		<td>-16</td>
 		<td>
-			▲ 不要這樣啦<br>對決<br>勝：武學+2、虞小梅好感-?<br>敗：武學+2、向心力+1<br>▲
-			我來幫妳<br>道德-2、虞小梅好感+2、四師兄好感-3
+			👉不要這樣啦: 觸發對決<br>
+            • 勝: 檢定全武學點數: 武學+2(＜200)或+5(＜120)，虞小梅好感-2<br>
+            • 敗：武學+2(全武學＜120)、向心+1<br>
+            <br>
+			👉我來幫妳:<br>
+            • 道德-2<br>
+            • 虞小梅好感+2、唐惟元好感-3<br>
 		</td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
-		<td>• 最晚第二年十二月下旬<br>• 小梅在唐門<br>• 一次性，不可重複觸發</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>唐門</td>
-		<td>煉丹房<br>煉丹</td>
-		<td>苦命葉雲舟</td>
-		<td>10</td>
-		<td>-16</td>
+		<td>基礎: 30</td>
 		<td>
-			▲ 去幫葉雲舟<br>處世+1、煉丹+3、刀劍+1、<br>葉雲舟好感+2、二師兄好感-1<br>▲
-			不管葉雲舟<br>再抽一個事件
-		</td>
+            • 最晚第二年十二月下旬<br>
+            • 🚩小梅在唐門<br>
+            • 一次性事件，不可重複觸發
+        </td>
 		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>• 唐錚在唐門<br>• 葉雲舟在唐門</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>唐門</td>
-		<td>煉丹房<br>煉丹</td>
-		<td>滿意成果</td>
-		<td>10</td>
-		<td>-16</td>
-		<td>煉丹+5</td>
-		<td>煉丹+3</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>唐門</td>
-		<td>煉丹房<br>煉丹</td>
-		<td>觸類旁通</td>
-		<td>10</td>
-		<td>4</td>
-		<td>煉丹+8<br>道德-1</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>唐門</td>
-		<td>煉丹房<br>煉丹</td>
-		<td>狗血淋頭</td>
-		<td>10</td>
-		<td>-22</td>
-		<td>煉丹+5<br>命運+1<br>二師兄好感+1</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>唐錚在唐門</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>唐門</td>
-		<td>煉丹房<br>煉丹</td>
-		<td>全神貫注</td>
-		<td>10</td>
-		<td>-20</td>
-		<td>煉丹+10<br>處世-1<br>二師兄好感+2</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>唐錚在唐門</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>唐門</td>
-		<td>煉丹房<br>煉丹</td>
-		<td>簡化配方</td>
-		<td>10</td>
-		<td>-16</td>
-		<td>煉丹+3<br>處世+1<br>向心+2<br>名聲-2</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>唐門</td>
-		<td>煉丹房<br>煉丹</td>
-		<td>異想天開</td>
-		<td>10</td>
-		<td>-16</td>
-		<td>煉丹+10<br>抗毒+1<br>抗麻+1<br>道德-1<br>名聲-1<br>向心-5</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>唐門</td>
-		<td>煉丹房<br>煉丹</td>
-		<td>留學生壞壞</td>
-		<td>10</td>
-		<td>-21</td>
-		<td>向心力-1<br>名聲-1<br>煉丹+5</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>• 最早第二年二月下旬<br>• 最晚第二年八月下旬</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>唐門</td>
-		<td>煉丹房<br>煉丹</td>
-		<td>留學生友好</td>
-		<td>10</td>
-		<td>-6</td>
-		<td>
-			學問+1<br>煉丹+5<br>※有該派留學弟子<br>青城好感+1<br>全真好感+1<br>峨嵋好感+1<br>崆峒好感+1<br>嵩山好感+1<br>點蒼好感+1
-		</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>• 最早第二年二月下旬<br>• 最晚第二年八月下旬<br>• 🚩<MarkdownWrapper>[留學糾紛=-1](/event/simple/2-03-1-留學生衝突)</MarkdownWrapper></td>
-		<td>-</td>
-	</tr>
-	<tr>
+	</tr> 
+    <tr>
 		<td>唐門</td>
 		<td>伙房<br>掌廚</td>
 		<td>狂放廚藝</td>
