@@ -771,6 +771,7 @@ tags:
           失魂醒轉<br>
           回到唐門<br>
           門人辭別<br>
+          [接風四師兄](/event/simple/3-11-1-接風四師兄)<br>
       </MarkdownWrapper>    
   </td>
 </tr>
