@@ -1657,58 +1657,107 @@ tags:
         </td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>唐門</td>
 		<td>女弟子房<br>埋伏</td>
-		<td>守護小師妹</td>
-		<td>-</td>
-		<td>80</td>
-		<td>道德-、性情-、輕功+1</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>有機率死亡（死法：摔死）</td>
-	</tr>
-	<tr>
-		<td>唐門</td>
-		<td>女弟子房<br>埋伏</td>
-		<td>守護小師妹（被發現）</td>
+		<td>吊起來打</td>
 		<td>-</td>
 		<td>-20</td>
-		<td>道德-、性情-、輕功+1、命運+1<br>小師妹好感-</td>
+		<td>
+            • 道德-2、性情-1、輕功+1、命運+1<br>
+            • 未🚩和唐默鈴結緣: 唐默鈴好感-1<br>
+            • 唐布衣好感+1、劉顎好感+1<br>
+        </td>
 		<td>-</td>
+		<td>輕功-1</td>
+		<td>基礎: 20</td>
+		<td>🚩小師妹在唐門</td>
 		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
+	</tr>                
 	<tr>
 		<td>唐門</td>
+		<td>女弟子房<br>埋伏</td>
+		<td>開窗擊墜</td>
+		<td>-</td>
+		<td>50</td>
+		<td>進入<MarkdownWrapper>[生死簿02:《摔死》](/event/badends/#生死簿-No.2)</MarkdownWrapper></td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 基礎: 3<br>
+            • 輕功≥30: -3<br>
+        </td>
+		<td>🚩小師妹在唐門</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>唐門</td>
+		<td>女弟子房<br>埋伏</td>
+		<td>無可譴責</td>
+		<td>-</td>
+		<td>80</td>
+		<td>道德-2、性情-1、輕功+1</td>
+		<td>-</td>
+		<td>輕功-1</td>
+		<td>
+            • 基礎: 30<br>
+            • 輕功≥20: +10<br>
+        </td>
+		<td>🚩小師妹在唐門</td>
+		<td></td>
+	</tr>
+    <tr>
+		<td>唐門</td>
 		<td>女弟子房<br>折紙鶴</td>
-		<td>散心</td>
+		<td>一絲暖意</td>
+		<td>0</td>
+		<td>80</td>
+		<td>修養+1</td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 60</td>
+		<td>
+            • 時間≥三年五月上旬<br>
+            • 🚩小師妹不在唐門<br>
+        </td>
+		<td></td>
+	</tr>
+    <tr>
+		<td>唐門</td>
+		<td>女弟子房<br>折紙鶴</td>
+		<td>揉成一團</td>
 		<td>0</td>
 		<td>40</td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
-		<td>小師妹出嫁後</td>
-		<td>有機率死亡</td>
+		<td>
+            • 基礎: 30<br>
+            • 心相≤30: +20<br>
+        </td>
+		<td>
+            • 時間≥三年五月上旬<br>
+            • 🚩小師妹不在唐門<br>
+        </td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>唐門</td>
 		<td>女弟子房<br>折紙鶴</td>
-		<td>緬懷過往</td>
+		<td>踏向深谷</td>
 		<td>0</td>
-		<td>80</td>
-		<td>修養+</td>
+		<td>-</td>
+		<td>進入<MarkdownWrapper>[生死簿08:《我在唐門谷底》](/event/badends/#生死簿-No.8)</MarkdownWrapper></td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
-		<td>小師妹出嫁後</td>
-		<td>有機率死亡</td>
-	</tr>
+		<td>基礎: 30</td>
+		<td>
+            • 時間≥三年五月上旬<br>
+            • 🚩小師妹不在唐門<br>
+            • 心相≤15<br>
+        </td>
+		<td></td>
+	</tr>    
 	<tr>
 		<td>唐門</td>
 		<td>男弟子房<br>休息</td>
