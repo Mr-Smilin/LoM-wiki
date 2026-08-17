@@ -1959,7 +1959,7 @@ tags:
             <br>
             👉 砸店(需道德＜40且性情≥60):<br>
             • 道德-2，觸發🆚戰江湖拳師<br>
-            • 敗: <MarkdownWrapper>[生死簿86:《被肉包噎死》](/badends/#生死簿-No.86)(/system/items/)</MarkdownWrapper><br>
+            • 敗: <MarkdownWrapper>[生死簿86:《被肉包噎死》](/event/badends/#生死簿-No.86)</MarkdownWrapper><br>
             • 勝: 武學+4、銀兩+1000、名聲+2、獲得姜記肉包x5(接續下行)<br>
             • 勝: 上官螢好感-3、唐中翎好感-3、宋悲好感-2、丐幫好感+2<br>
 		</td>
