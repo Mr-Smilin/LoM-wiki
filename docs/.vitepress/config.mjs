@@ -71,6 +71,10 @@ const baseConfig = {
 						text: "主支線簡易表格",
 						link: "/event/story-simple-table",
 					},
+					{
+						text: "開幕前史年表",
+						link: "/event/pre-game-timeline",
+					},
 					{ text: "風雲史(成就)", link: "/event/achievements" },
 					{ text: "生死簿(驟死結局)", link: "/event/badends" },
 					{ text: "汗青書(結局)", link: "/event/ends" },
@@ -421,6 +425,10 @@ const baseConfig = {
 								link: "/en/event/story-simple-table",
 							},
 							{
+								text: "Pre-Game History Timeline",
+								link: "/en/event/pre-game-timeline",
+							},
+							{
 								text: "Chronicles of Glory(Achievement)",
 								link: "/en/event/achievements",
 							},
@@ -672,6 +680,10 @@ const baseConfig = {
 							{
 								text: "シナリオ簡易表",
 								link: "/ja/event/story-simple-table",
+							},
+							{
+								text: "開幕前史年表",
+								link: "/ja/event/pre-game-timeline",
 							},
 							{ text: "風雲史 (実績)", link: "/ja/event/achievements" },
 							{ text: "生死簿 (バッドエンド)", link: "/ja/event/badends" },
