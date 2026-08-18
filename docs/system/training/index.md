@@ -2539,7 +2539,7 @@ tags:
 		<td>+20</td>
 		<td>
             • 李富貴好感+1<br>
-            • 無秘笈<MarkdownWrapper>[《蓮花落》](/books/book_7001)</MarkdownWrapper>: 獲得該秘笈<br>
+            • 無秘笈<MarkdownWrapper>[《蓮花落》](/system/books/book_7001)</MarkdownWrapper>: 獲得該秘笈<br>
         </td>
 		<td>-</td>
 		<td>-</td>
@@ -2586,10 +2586,11 @@ tags:
             • 勝: 武學+4、設置🚩揍過福韞<br>
             <br>
             👉 給你(需銀兩≥10): <br>
-            • 道德+1、學問+1、銀兩-10、福韞好感+1，複合檢定:<br>
+            • 道德+1、學問+1、銀兩-10、福韞好感+1<br>
+            • 複合檢定(不符合才會接下一個檢定):<br>
             • <MarkdownWrapper>[佛學](/system/skill)</MarkdownWrapper>等級=0: 若無秘笈<MarkdownWrapper>[《羅漢拳譜》](/system/books/book_6001)</MarkdownWrapper>，獲得之<br>
-            • <MarkdownWrapper>[佛學](/system/skill)</MarkdownWrapper>等級≥1，且道德≥60: 若無秘笈<MarkdownWrapper>[《金剛腿》](/system/books/book_4001)</MarkdownWrapper>，獲得之<br>
-            • <MarkdownWrapper>[佛學](/system/skill)</MarkdownWrapper>等級≥2，且道德≥60，且福韞好感≥10: 若無秘笈<MarkdownWrapper>[《金鐘罩》](/system/books/book_1030)</MarkdownWrapper>，獲得之<br>
+            • 佛學等級≥1，且道德≥60: 若無秘笈<MarkdownWrapper>[《金剛腿》](/system/books/book_4001)</MarkdownWrapper>，獲得之<br>
+            • 佛學等級≥2，且道德≥60，且福韞好感≥10: 若無秘笈<MarkdownWrapper>[《金鐘罩》](/system/books/book_1030)</MarkdownWrapper>，獲得之<br>
         </td>
 		<td>-</td>
 		<td>-</td>
