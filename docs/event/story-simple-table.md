@@ -27,14 +27,8 @@ tags:
 				<MarkdownWrapper>
                 [遊戲開局](/event/simple/1-04-1-遊戲開局)<br> 
 				[第一晚](/event/simple/1-04-1-第一晚)<br> 
-				[初遇大師兄](/event/simple/1-04-1-初識唐布衣)<br>
-				[初遇二師兄](/event/simple/1-04-1-初識唐錚)<br>
-				[初遇四師兄](/event/simple/1-04-1-初識唐惟元)<br>
-                [遭遇小師妹](/event/simple/1-04-1-遭遇小師妹)<br>
-				[小師妹練操](/event/simple/1-04-1-小師妹練操)<br>
-				[大師兄找樂子](/event/simple/1-04-1-大師兄找樂子)<br>
-				[後山推人](/event/simple/1-04-1-後山推人)<br>
-                [同門關懷](/event/simple/1-04-1-同門關懷)<br>
+                [各設施初始事件](/event/simple/1-04-1-各設施初始事件)<br>
+				[後山推人](/event/simple/1-04-1-後山推人)<br>                
                 [偷懶怪](/event/simple/1-04-1-偷懶怪)<br>
                 [龍湘霸王餐](/event/simple/1-04-1-龍湘霸王餐)<br>
 				</MarkdownWrapper>
