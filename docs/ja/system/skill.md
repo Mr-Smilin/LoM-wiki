@@ -74,7 +74,7 @@ tags:
         <td>偕老の誓い</td>
         <td>-</td>
         <td>致命的な攻撃を防ぎ、気力を回復できます。</td>
-        <td>雲裳ルートで南宮遠の真気に勝利した後、南宮護心訣から蛻変</td>
+        <td><MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「九転の療傷」](/ja/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>にて、南宮護心訣LV3を持ち、かつ幻境の南宮遠に勝利した場合。</td>
     </tr>
     <tr>
         <td>勇気</td>
@@ -247,6 +247,12 @@ tags:
         <td>なし。滅門ルート終戦瑞笙で、補助者点蒼双尊技能</td>
     </tr>
     <tr>
+        <td>絶世</td>
+        <td>-</td>
+        <td>圧倒的な気迫で相手が本能的に強張り、一時動けなくなる。相手を攻撃不能にする</td>
+        <td>不明。鉄冠道人(無相祖師)の戦役技能</td>
+    </tr>
+    <tr>
         <td>蛮勇</td>
         <td></td>
         <td>攻撃が暗器に中断されない。ただし受けるダメージ+50%（攻撃が暗器と対面する時のみ）
@@ -362,7 +368,8 @@ tags:
         <td>九転輪廻</td>
         <td>-</td>
         <td>致命的な攻撃をブロックして、血を完全に回復できます</td>
-        <td>雲裳ルートで寂滅三摩地で葉雲裳を救った後に獲得</td>
+        <td><MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「九転の療傷」](/ja/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>にて、葉雲裳と結縁した後に獲得する。
+</td>
     </tr>
     <tr>
         <td>同舟剣法</td>

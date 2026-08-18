@@ -27,15 +27,10 @@ tags:
 				<MarkdownWrapper>
                 [ゲーム開始](/ja/event/simple/1-04-1-遊戲開局)<br> 
 				[最初の夜](/ja/event/simple/1-04-1-第一晚)<br> 
-				[大師兄唐布衣との初対面](/ja/event/simple/1-04-1-初識唐布衣)<br>
-				[二師兄唐錚との初対面](/ja/event/simple/1-04-1-初識唐錚)<br>
-				[四師兄唐惟元との初対面](/ja/event/simple/1-04-1-初識唐惟元)<br>
-				[小師妹の修行](/ja/event/simple/1-04-1-小師妹練操)<br>
-				[大師兄が楽しみを探す](/ja/event/simple/1-04-1-大師兄找樂子)<br>
+				[各施設の初期イベント](/ja/event/simple/1-04-1-各設施初始事件)<br>
 				[後山で人を押す](/ja/event/simple/1-04-1-後山推人)<br>
-				[食い逃げ事件](/ja/event/simple/1-04-1-霸王餐事件)<br>
-				[同門の気遣い](/ja/event/simple/1-04-1-同門關懷)<br>
 				[怠け者](/ja/event/simple/1-04-1-偷懶怪)<br>
+				[龍湘の食い逃げ](/ja/event/simple/1-04-1-龍湘霸王餐)<br>
 				[四師兄との切磋](/ja/event/simple/1-04-1-切磋四師兄)<br>
 				</MarkdownWrapper>
 			</td>
@@ -55,6 +50,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[貢献度評点](/ja/event/simple/1-05-1-貢獻評點)<br>
+				[運功による治療](/ja/event/simple/1-05-1-運功療傷)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -232,9 +228,9 @@ tags:
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
             [留学生の来訪](/ja/event/simple/2-03-1-留學生來訪)<br>
-            [留学生の乱闘](/ja/event/simple/2-02-2-留學生鬥毆)<br>
+            [留学生同士の衝突](/ja/event/simple/2-03-1-留學生衝突)<br>
+            唐門例会<br>
         </MarkdownWrapper>
-        <li>唐門例会</li>
     </td>
 </tr>
 <tr>
@@ -262,6 +258,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
 			[衣服が盗まれる](/ja/event/simple/2-04-1-衣服遭竊)<br>
+			[季試の知らせ](/ja/event/simple/2-04-1-季試消息)<br>
 			[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)<br>
 			[修練に気が散る](/ja/event/simple/2-04-1-練功分心)<br>
 			[崆峒での強盗](/ja/event/simple/2-04-1-崆峒搶劫)<br>
@@ -436,7 +433,11 @@ tags:
 </tr>
 <tr>
     <td style="text-align: center">中</td>
-    <td style="text-align: center">-</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+            [雲裳との再会](/ja/event/simple/2-10-2-雲裳重逢)<br>
+		</MarkdownWrapper>
+    </td>
     <td colspan = 2 style="text-align: center">
         <MarkdownWrapper>[四師兄の江陵からの帰還](/ja/event/simple/2-10-2-四師兄江陵回歸)</MarkdownWrapper><br>
     </td>
@@ -453,7 +454,7 @@ tags:
     <td style="text-align: center">下</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-			[小梅が訪ねてくる](/ja/event/simple/2-10-3-小梅上門)<br>
+			[小梅、唐門を頼る](/ja/event/simple/2-10-3-小梅投靠)<br>
 			[虞小梅がらみのランダムイベント](/ja/event/simple/2-10-3-虞小梅相關)<br>
         </MarkdownWrapper>
     </td>
@@ -671,7 +672,11 @@ tags:
 				[雪山の約束](/ja/event/simple/3-07-2-雪山之約)<br>
 				</MarkdownWrapper>
 			</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[兄妹対決](/ja/event/simple/3-07-3-兄妹對決)<br>
+				</MarkdownWrapper>
+			</td>
 		</tr>
 		<tr>
 			<td>八月</td>
@@ -682,10 +687,15 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
-				<li>[武林大会の招待状](/ja/event/simple/3-08-3-武林大會請柬)</li>
+				[大会の招待状](/ja/event/simple/3-08-2-大會請帖)<br>
+				[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)<br>
 				</MarkdownWrapper>
 			</td>
-			<td>-</td>
+			<td>
+				<MarkdownWrapper>
+				[夏侯蘭を誘う](/ja/event/simple/3-08-3-邀請夏侯蘭)<br>
+				</MarkdownWrapper>
+			</td>
 		</tr>
 		<tr>
 			<td>九月</td>
@@ -708,7 +718,7 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
-				<li>錦香宮主の請願</li>
+				<li>温夫人の付託</li>
 				<li>[武林大会編](/ja/event/detailed_description/3-08-2-武林大會)</li>
 				<li>[武林大会からの帰路](/ja/event/detailed_description/3-10-2-武林大會歸途)</li>
 				</MarkdownWrapper>
@@ -728,7 +738,7 @@ tags:
 <tr>
   <th rowspan = 2 style="text-align: center">月</th>
   <th rowspan = 2 style="text-align: center">旬</th>
-  <th rowspan = 2 style="text-align: center">無可救薬</th>
+  <th rowspan = 2 style="text-align: center">無可救薬<br>(Demo)</th>
   <th colspan = 2 style="text-align: center">西武林盟不成立</th>
   <th colspan = 2 style="text-align: center">西武林盟成立</th>
 </tr>
@@ -756,6 +766,7 @@ tags:
       <li>[弟子が暇乞いする](/ja/event/detailed_description/3-11-1-回到唐門#弟子が暇乞いする-弟子想告辭)</li>
       <li>[四師兄が帰る](/ja/event/detailed_description/3-11-1-回到唐門#四師兄が帰る-四師兄歸來)</li>
       <li>[覚醒夢](/ja/event/simple/3-11-1-清醒夢)</li>
+      <li>[四師兄を出迎える](/ja/event/simple/3-11-1-接風四師兄)</li>
       </MarkdownWrapper>
   </td>
 </tr>
@@ -916,9 +927,11 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
-    後山での切磋<br>
-    剣聖の伝承<br>
-    戦友を訪ねる<br>
+      <MarkdownWrapper>
+          後山での切磋<br>
+          [剣聖の伝承](/ja/event/simple/4-02-3-劍聖傳承)<br>
+          戦友を訪ねる<br>
+      </MarkdownWrapper>
   </td>
 </tr>
 

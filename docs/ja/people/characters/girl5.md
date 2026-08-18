@@ -352,4 +352,7 @@ aside: false
 	<div>
         <img src="/images/collab/20241220_toranoana/photo_17.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
+	<div>
+        <img src="/images/characters/girl_5/childhood.webp" alt="幼少期の立ち絵、公式の雪山派後日談動画より" style="width:200px; margin:5px"/>
+    </div>
 </div>

@@ -137,7 +137,7 @@ tags:
 <td>
 <span style="color: #B0DCD5;">【葉雲裳】</span><br>
 南宮の寿宴で唐布衣との相声を拒み、衝動的にすべてから逃げ出す。<br>
-葉雲裳ルートで鉄冠道人に勝つ隠しバッドエンド。
+<MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「山道の戦い」](/ja/event/simple/3-05-1-山道之戰)</MarkdownWrapper>で鉄冠道人に勝つ。
 </td>
 </tr>
 <tr>
@@ -751,7 +751,7 @@ tags:
 </td>
 <td>
 <span style="color: #B0DCD5;">【葉雲裳】</span><br>
-谷底で葉雲裳を治療する際、四連戦で任意の一戦に敗北し、彼女と共に黄泉へ。
+<MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「九転の療傷」](/ja/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>で、幻境連戦のいずれかの戦闘に敗北する。
 </td>
 </tr>
 </BTable>
