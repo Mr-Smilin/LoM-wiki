@@ -37,8 +37,12 @@ export default {
     setup(props) {
         const prefix = useLocalePrefix();
         const { localeIndex } = useData();
-        // 錨點 id 對應各語系 achievements 頁的 <td id="..."> (en: Chronicles, 其餘: 風雲史)
-        const anchorLabel = computed(() => localeIndex.value === 'en' ? 'Chronicles' : '風雲史');
+        // 錨點 id 對應各語系 achievements 頁的 <td id="..."> (en: Chronicles, zh-hans: 风云史, 其餘: 風雲史)
+        const anchorLabel = computed(() => {
+            if (localeIndex.value === 'en') return 'Chronicles';
+            if (localeIndex.value === 'zh-hans') return '风云史';
+            return '風雲史';
+        });
         return {
             // this requires the same format for ItemPages
             itemPageUrl: computed(() => withBase(`${prefix.value}/event/achievements#${anchorLabel.value}-No.${props.no}`))

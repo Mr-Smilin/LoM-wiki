@@ -2,7 +2,8 @@
 <script setup>
 // import { onMounted } from 'vue';
 import DefaultTheme from "vitepress/theme";
-import { defineAsyncComponent, provide } from "vue";
+import { defineAsyncComponent, provide, computed } from "vue";
+import { useData } from "vitepress";
 import Twikoo from "./default/Twikoo.vue";
 import Borderless from "./default/Borderless.vue";
 import MetaManager from "./default/MetaManager.vue";
@@ -11,6 +12,10 @@ const { Layout } = DefaultTheme;
 const NotFound = defineAsyncComponent(() => import("./default/NotFound.vue"));
 import { useThemeTransition } from '../script/themeTransition.js';
 const { toggleAppearance } = useThemeTransition();
+
+// 瀏覽數標籤跟隨語系 (僅 zh-hans 需切換, 其餘維持既有繁體)
+const { localeIndex } = useData();
+const visitorLabel = computed(() => (localeIndex.value === "zh-hans" ? "浏览数：" : "瀏覽數："));
 
 // onMounted(() => {
 // 	import('bootstrap/dist/js/bootstrap.bundle.min.js');
@@ -35,7 +40,7 @@ provide('toggle-appearance', async (event) => {
 		</template>
 		<template #doc-before>
 			<p class="post-visitor">
-				瀏覽數：<span id="twikoo_visitors">0</span>
+				{{ visitorLabel }}<span id="twikoo_visitors">0</span>
 			</p>
 		</template>
 		<template #doc-after>

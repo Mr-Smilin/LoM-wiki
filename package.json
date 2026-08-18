@@ -8,9 +8,10 @@
   "scripts": {
     "dev": "npm run docs:dev",
     "build": "npm run docs:build",
-    "docs:dev": "node ./tools/buildLocalePageManifest.js && node ./tools/buildWikiLinkIndex.js && vitepress dev docs",
-    "docs:build": "node ./tools/buildNewsList.js && node ./tools/buildBadendList.js && node ./tools/buildLocalePageManifest.js && node ./tools/buildContributors.js && node ./tools/buildWikiLinkIndex.js && node ./tools/buildConvertToWebp.js && vitepress build docs",
-    "docs:preview": "vitepress preview docs --port 4173"
+    "docs:dev": "node ./tools/buildSimplifiedChinese.js && node ./tools/buildLocalePageManifest.js && node ./tools/buildWikiLinkIndex.js && vitepress dev docs",
+    "docs:build": "node ./tools/buildNewsList.js && node ./tools/buildBadendList.js && node ./tools/buildSimplifiedChinese.js && node ./tools/checkSimplifiedChinese.js && node ./tools/buildLocalePageManifest.js && node ./tools/buildContributors.js && node ./tools/buildWikiLinkIndex.js && node ./tools/buildConvertToWebp.js && vitepress build docs",
+    "docs:preview": "vitepress preview docs --port 4173",
+    "check:zh-hans": "node ./tools/buildSimplifiedChinese.js && node ./tools/checkSimplifiedChinese.js"
   },
   "dependencies": {
     "@nolebase/vitepress-plugin-git-changelog": "^2.2.2",
@@ -39,6 +40,7 @@
     "minisearch": "^6.3.0",
     "mitt": "^3.0.1",
     "nanoid": "^5.0.7",
+    "opencc-js": "^1.4.1",
     "perfect-debounce": "^1.0.0",
     "picocolors": "^1.0.1",
     "postcss": "^8.4.39",

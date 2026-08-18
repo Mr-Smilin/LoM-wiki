@@ -17,7 +17,7 @@
       </button>
       <input 
         v-model="localSearchQuery"
-        placeholder="搜索... (多個關鍵字用空格分隔)"
+        :placeholder="searchPlaceholder"
         class="search-input"
       />
     </div>
@@ -35,7 +35,8 @@
 </template>
   
   <script setup>
-  import { ref, watch, watchEffect } from 'vue';
+  import { ref, watch, watchEffect, computed } from 'vue';
+  import { useData } from 'vitepress';
   import { stripMarkdown } from '../../../script/markdownText.js';
   
   const props = defineProps({
@@ -46,6 +47,14 @@
   })
   
   const emit = defineEmits(['update:searchQuery', 'update:searchMode', 'filtered-rows'])
+  
+  // 搜索框佔位文字跟隨語系 (僅 zh-hans 需切換, 其餘維持既有繁體)
+  const { localeIndex } = useData();
+  const searchPlaceholder = computed(() =>
+    localeIndex.value === 'zh-hans'
+      ? '搜索... (多个关键字用空格分隔)'
+      : '搜索... (多個關鍵字用空格分隔)'
+  );
   
   const localSearchQuery = ref(props.searchQuery || '');
   const localSearchMode = ref(props.searchMode || 'and');

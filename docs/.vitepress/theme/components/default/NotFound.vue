@@ -21,35 +21,39 @@ export default {
         return {
             randomVariable: 0,
             contentIndex: 0,
-            locale: "zh", // zh | en | ja，於 created() 依路徑判定
+            locale: "zh", // zh | zh-hans | en | ja，於 created() 依路徑判定
             content: {},
             // UI 固定文字（非角色台詞）
             ui: {
-                home: { zh: "返回首頁", en: "Back to Home", ja: "トップへ戻る" },
+                home: { zh: "返回首頁", "zh-hans": "返回首页", en: "Back to Home", ja: "トップへ戻る" },
                 // {name} / {p} 由 probabilityLabel 帶入
                 probability: {
                     zh: "{name}結緣機率：{p} %",
+                    "zh-hans": "{name}结缘概率：{p} %",
                     en: "Chance of meeting {name}: {p} %",
                     ja: "{name}との遭遇確率：{p} %"
                 }
             },
             contents: [
                 {
-                    name: { zh: "小師妹", en: "Little Sister", ja: "小師妹" },
+                    name: { zh: "小師妹", "zh-hans": "小师妹", en: "Little Sister", ja: "小師妹" },
                     image: withBase(`/images/characters/girl_0/normal.webp`),
                     mainMessage: {
                         zh: "抱歉，小師妹找不到回唐門的路。",
+                        "zh-hans": "抱歉，小师妹找不到回唐门的路。",
                         en: "Sorry, Little Sister can't find her way back to the Tang Sect.",
                         ja: "ごめんなさい、小師妹は唐門への帰り道が見つかりません。"
                     },
                     subMessage: {
                         zh: "啊⋯⋯，師兄可以揹我回唐門嗎？",
+                        "zh-hans": "啊⋯⋯，师兄可以背我回唐门吗？",
                         en: "Um... big brother, could you carry me back to the Tang Sect?",
                         ja: "あの……お兄さん、唐門まで背負って帰ってくれませんか？"
                     },
                     customButton: {
                         text: {
                             zh: "你發現前方頁面壞了，只好去鍛冶場借工具修理。",
+                            "zh-hans": "你发现前方页面坏了，只好去锻冶场借工具修理。",
                             en: "The page ahead is broken, so you head to the forge to borrow tools to fix it.",
                             ja: "この先のページが壊れているので、鍛冶場で道具を借りて直すことにした。"
                         },
@@ -59,21 +63,24 @@ export default {
                     checkValue: 1000000 * 0.2122  //檢定值
                 },
                 {
-                    name: { zh: "葉小妹", en: "Sister Ye", ja: "葉小妹" },
+                    name: { zh: "葉小妹", "zh-hans": "叶小妹", en: "Sister Ye", ja: "葉小妹" },
                     image: withBase(`/images/characters/girl_2/gloomy2.webp`),
                     mainMessage: {
                         zh: "抱歉，葉小妹找不到你要的頁面。",
+                        "zh-hans": "抱歉，叶小妹找不到你要的页面。",
                         en: "Sorry, Sister Ye can't find the page you're looking for.",
                         ja: "ごめん、葉小妹はあなたの探しているページを見つけられない。"
                     },
                     subMessage: {
                         zh: "醒醒吧肥仔～找不到就自己動手做啊～",
+                        "zh-hans": "醒醒吧肥仔～找不到就自己动手做啊～",
                         en: "Wake up, chubby~ If you can't find it, just make it yourself~",
                         ja: "目を覚ませデブ〜 見つからないなら自分で作ればいいじゃん〜"
                     },
                     customButton: {
                         text: {
                             zh: "經不起挑釁動手做",
+                            "zh-hans": "经不起挑衅动手做",
                             en: "Can't resist the taunt — start building",
                             ja: "挑発に乗って自分で作る"
                         },
@@ -83,21 +90,24 @@ export default {
                     checkValue: 1000000 * 0.7231  //檢定值
                 },
                 {
-                    name: { zh: "雞腿俠", en: "Drumstick Hero", ja: "鶏もも侠" },
+                    name: { zh: "雞腿俠", "zh-hans": "鸡腿侠", en: "Drumstick Hero", ja: "鶏もも侠" },
                     image: withBase(`/images/characters/girl_8/girl8_drumstick.webp`),
                     mainMessage: {
                         zh: "抱歉，龍湘把你要的頁面當雞腿吃了。",
+                        "zh-hans": "抱歉，龙湘把你要的页面当鸡腿吃了。",
                         en: "Sorry, Long Xiang ate the page you wanted as if it were a drumstick.",
                         ja: "ごめん、龍湘があなたの探すページを鶏もも肉だと思って食べちゃった。"
                     },
                     subMessage: {
                         zh: "龍湘開心地望著你，希望你還能提供更多雞腿。",
+                        "zh-hans": "龙湘开心地望着你，希望你还能提供更多鸡腿。",
                         en: "Long Xiang looks at you happily, hoping you'll offer more drumsticks.",
                         ja: "龍湘は嬉しそうにあなたを見て、もっと鶏ももをくれることを期待している。"
                     },
                     customButton: {
                         text: {
                             zh: "你感到無奈，只好重新做一頁餵她",
+                            "zh-hans": "你感到无奈，只好重新做一页喂她",
                             en: "Feeling helpless, you make a new page to feed her.",
                             ja: "仕方なく、あなたは彼女に食べさせる新しいページを作る。"
                         },
@@ -113,9 +123,11 @@ export default {
         }
     },
     computed: {
-        // 語系前綴：zh 為空, 其餘為 /en 或 /ja
+        // 語系前綴：zh 為空, zh-hans 為 /zh-hans, 其餘為 /en 或 /ja
         localePrefix() {
-            return this.locale === "zh" ? "" : `/${this.locale}`;
+            if (this.locale === "zh") return "";
+            if (this.locale === "zh-hans") return "/zh-hans";
+            return `/${this.locale}`;
         },
         homeLink() {
             return withBase(`${this.localePrefix}/`);
@@ -154,12 +166,13 @@ export default {
         document.querySelectorAll("body>div.lg-container").forEach(e => e.remove());
     },
     methods: {
-        // 依網址路徑判定語系 (base 為 /LoM-wiki/, 故 /en/、/ja/ 前綴可辨識)
+        // 依網址路徑判定語系 (base 為 /LoM-wiki/, 故 /en/、/ja/、/zh-hans/ 前綴可辨識)
         detectLocale() {
             if (typeof window === "undefined") return "zh";
             const p = window.location.pathname;
             if (/\/en\//.test(p)) return "en";
             if (/\/ja\//.test(p)) return "ja";
+            if (/\/zh-hans\//.test(p)) return "zh-hans";
             return "zh";
         },
         // 取多語欄位; 缺該語系則回退繁中

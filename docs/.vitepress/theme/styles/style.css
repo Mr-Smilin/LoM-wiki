@@ -12,6 +12,12 @@
     font-family: 'DFT_S5';
     src: url('/font/DFXingShuStd-W5.otf') format('opentype');
   }
+
+  /* DFT_S5 (華康行書) 为繁中字库, 缺简体字形 (龙/兰/门/云 等会消失)。
+     仅 CharacterMeet 的简体人物标题改用支持简体的楷体系统字, 避免污染其它 .name 元素。 */
+  html[lang="zh-Hans"] .character-meet-name {
+    font-family: 'Kaiti SC', 'STKaiti', 'KaiTi', 'Microsoft YaHei', sans-serif;
+  }
   
   :root{
     /* 導航欄高度 */

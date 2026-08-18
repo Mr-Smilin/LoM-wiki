@@ -1,6 +1,6 @@
 <template>
   <div class="attributes-table-container" :class="[attributesPosition,{'mobile':isMobile}]" :style="{ transform: tableTransform }">
-    <button @click="toggleTable" class="toggle-button">摺疊</button>
+    <button @click="toggleTable" class="toggle-button">{{ toggleLabel }}</button>
     <table v-if="haveData" class="attributes-table">
       <CharacterTr v-for="(trData,trIndex) in table" :key="trIndex">
         <CharacterTd v-for="(tdData,tdIndex) in trData" :key="tdIndex" :isTitle="tdIndex === 0" :position="tdIndex === 0 ? 'center' : 'left'">
@@ -16,6 +16,7 @@
 
 <script>
 import { inject, ref , computed} from 'vue';
+import { useData } from 'vitepress';
 import CharacterTr from './CharacterTr.vue';
 import CharacterTd from './CharacterTd.vue';
 
@@ -39,6 +40,10 @@ export default {
   setup(props) {
     const isMobile = inject('isMobile');
 
+    // 摺疊按鈕文字跟隨語系 (僅 zh-hans 需切換, 其餘維持既有繁體)
+    const { localeIndex } = useData();
+    const toggleLabel = computed(() => (localeIndex.value === 'zh-hans' ? '折叠' : '摺疊'));
+
     const tableVisible = ref(true);
 
     const attributesPosition = computed(() => props.position || 'left');
@@ -54,6 +59,7 @@ export default {
       attributesPosition,
       tableTransform,
       toggleTable,
+      toggleLabel,
       haveData,
       isMobile,
     };

@@ -86,6 +86,12 @@ export default {
                         openInCurrentPage: "在完整頁面中打開",
                     },
                 },
+                "zh-Hans": {
+                    popup: {
+                        loading: "加载中...",
+                        openInCurrentPage: "在完整页面中打开",
+                    },
+                },
             },
         });
         // import 歷史貢獻
@@ -102,6 +108,19 @@ export default {
                     contributors: {
                         title: "貢獻者",
                         noData: "無貢獻者",
+                    },
+                },
+                "zh-Hans": {
+                    noLogs: "该文章无历史贡献",
+                    noContributors: "该文章无贡献者",
+                    viewFullHistory: "查看完整历史贡献",
+                    changelog: {
+                        title: "历史贡献",
+                        noData: "无历史贡献",
+                    },
+                    contributors: {
+                        title: "贡献者",
+                        noData: "无贡献者",
                     },
                 },
             },

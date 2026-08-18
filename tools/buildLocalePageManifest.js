@@ -22,6 +22,7 @@ const LOCALE_EVENT_DIRS = {
     root: path.join(ROOT, "docs", "event"),
     ja: path.join(ROOT, "docs", "ja", "event"),
     en: path.join(ROOT, "docs", "en", "event"),
+    "zh-hans": path.join(ROOT, "docs", "zh-hans", "event"),
 };
 
 // <eventDir>/<section>/<prefix>-<番号>.md の番号一覧を昇順で返す。
