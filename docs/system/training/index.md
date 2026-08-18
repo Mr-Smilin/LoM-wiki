@@ -152,8 +152,8 @@ tags:
 		<td>唐門</td>
 		<td>正心堂<br>焚香</td>
 		<td>
-            三師兄與掌門<br>
-            談論古今<br>
+            三師兄與掌<br>
+            門談論古今<br>
         </td>
 		<td>11</td>
 		<td>-12</td>
@@ -1429,7 +1429,7 @@ tags:
     <tr>
 		<td>唐門</td>
 		<td>練功場<br>團練</td>
-		<td>三師兄<br>帶操</td>
+		<td>三師兄帶操</td>
 		<td>0</td>
 		<td>-16</td>
 		<td>
@@ -1445,7 +1445,7 @@ tags:
     <tr>
 		<td>唐門</td>
 		<td>練功場<br>團練</td>
-		<td>二師兄<br>帶操</td>
+		<td>二師兄帶操</td>
 		<td>0</td>
 		<td>-16</td>
 		<td>
@@ -1460,7 +1460,7 @@ tags:
     <tr>
 		<td>唐門</td>
 		<td>練功場<br>團練</td>
-		<td>四師兄<br>帶操</td>
+		<td>四師兄帶操</td>
 		<td>0</td>
 		<td>-10</td>
 		<td>
@@ -1476,7 +1476,7 @@ tags:
     <tr>
 		<td>唐門</td>
 		<td>練功場<br>團練</td>
-		<td>大師兄<br>帶操</td>
+		<td>大師兄帶操</td>
 		<td>0</td>
 		<td>-10</td>
 		<td>
@@ -1597,7 +1597,7 @@ tags:
     <tr>
 		<td>唐門</td>
 		<td>練功場<br>團練</td>
-		<td>留學弟子超團結</td>
+		<td>留學弟子<br>超團結</td>
 		<td>0</td>
 		<td>-16</td>
 		<td>
@@ -1777,9 +1777,9 @@ tags:
 	</tr>  
     <tr>
 		<td>唐門</td>
-		<td>男弟子房<br>賭博</td>
-		<td>0</td>
-		<td>-</td>
+		<td>男弟子房<br>賭博</td>		
+		<td>賭博</td>
+        <td>0</td>
 		<td>20</td>
 		<td>
             觸發🎲天命(上限99):<br>
@@ -2626,7 +2626,7 @@ tags:
     <tr>
 		<td>下山</td>
 		<td>鬧市<br>逛街</td>
-		<td>小師妹得意</td>
+		<td>小師妹<br>得意洋洋</td>
 		<td>-</td>
 		<td>-</td>
 		<td>
