@@ -46,7 +46,7 @@ tags:
         <td>坦率開朗</td>
         <td>瘋瘋癲癲</td>
         <td>目前版本無法攻略
-            <br>預計2026/09/15更新開放</td>
+            <br>預計2026/10/15更新開放</td>
     </tr>
     <tr>
         <td><Girl5Icon :size="`medium`">夏侯蘭</Girl5Icon></td>
@@ -90,7 +90,7 @@ tags:
         <td>恬靜溫馴</td>
         <td>力拔山兮氣蓋世</td>
         <td>目前版本無法攻略
-            <br>預計2026/09/15更新開放</td>
+            <br>預計2026/10/15更新開放</td>
     </tr>
     <tr>
         <td><Girl1Icon :size="`medium`">瑞杏</Girl1Icon></td>

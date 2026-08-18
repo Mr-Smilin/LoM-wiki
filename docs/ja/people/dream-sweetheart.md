@@ -45,7 +45,7 @@ tags:
         <td>素直で明るい</td>
         <td>ちょっと狂ってる感じ</td>
         <td>現バージョンでは攻略不可
-            <br>2026/09/15アップデートで実装予定</td>
+            <br>2026/10/15アップデートで実装予定</td>
     </tr>
     <tr>
         <td><Girl5Icon :size="`medium`" href="/ja/people/characters/girl5">夏侯蘭</Girl5Icon></td>
@@ -89,7 +89,7 @@ tags:
         <td>大人しくて従順</td>
         <td>心の優しさ云々より、あいつの力は山を抜き、気は世を蓋う</td>
         <td>現バージョンでは攻略不可
-            <br>2026/09/15アップデートで実装予定</td>
+            <br>2026/10/15アップデートで実装予定</td>
     </tr>
     <tr>
         <td><Girl1Icon :size="`medium`" href="/ja/people/characters/girl1">瑞杏</Girl1Icon></td>
