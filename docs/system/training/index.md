@@ -3447,7 +3447,7 @@ tags:
 		<td>疲勞<br>一掃而空</td>
 		<td>-</td>
 		<td>+15<br>+55</td>
-		<td>-</td></td>
+		<td>-</td>
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 50</td>
