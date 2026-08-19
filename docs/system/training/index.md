@@ -4070,42 +4070,27 @@ tags:
     <tr>
 		<td>崆峒</td>
 		<td>奪魄森林<br>修練<br>優先判斷</td>
-		<td>無優先事件</td>
+		<td>奪魄森林<br>優先事件集</td>
 		<td>-</td>
 		<td>-</td>
 		<td>
-            無優先事件，接續奪魄森林隨機事件<br>            
+            首次造訪奪魄森林，必定觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>，不進入其他事件<br>
+            <br>
+            以下為各優先事件及其觸發條件<br>
+            • 無優先事件(權重20，可重複觸發): 接續奪魄森林隨機事件<br> 
+            • <MarkdownWrapper>[飛俠武功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(權重50，一次性事件): 曾觸發<MarkdownWrapper>[昔日同伴](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            • <MarkdownWrapper>[助你收心](/event/simple/2-04-1-練功分心)</MarkdownWrapper>(權重50，一次性事件): 曾觸發<MarkdownWrapper>[何故覷探](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            • <MarkdownWrapper>[修繕樹屋](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(權重50，一次性事件): 夏侯蘭好感≥20<br>
+            • <MarkdownWrapper>[鐵傘秘密](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(權重50，一次性事件): 夏侯蘭好感≥20<br>
+            • <MarkdownWrapper>[蘭字由來](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(權重50，一次性事件): 夏侯蘭好感≥15<br>
+            • <MarkdownWrapper>[雪山始末](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(權重50，一次性事件): 夏侯蘭好感≥30，且🚩<MarkdownWrapper>[可聊雪山始末](/event/simple/2-04-1-練功分心)</MarkdownWrapper><br>
         </td>
 		<td>-</td>
 		<td>-</td>
-		<td>基礎: 20</td>
+		<td>-</td>
 		<td>🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper></td>
-		<td>
-            首次造訪奪魄森林:<br>
-            必定觸發<MarkdownWrapper>[初入奪魄森林](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
-            ，不會進入優先事件<br>
-        </td>
-	</tr>
-    <tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練<br>優先判斷</td>
-		<td>昔日同伴</td>
-		<td>-</td>
-		<td>-</td>
-		<td>
-            • 觸發<MarkdownWrapper>[昔日同伴](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>閒聊事件<br>
-            • 事件過後，接續奪魄森林修練隨機事件<br>
-        </td>
-		<td>-</td>
-		<td>-</td>
-		<td>基礎: 50</td>
-		<td>
-            • 🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper><br>
-            • 觸發「不置可否」隨機事件兩次後<br>
-            • 一次性事件，不可重複觸發<br>
-        </td>
-		<td>-</td>
-	</tr>                
+		<td></td>
+	</tr>   
     <tr>
 		<td>崆峒</td>
 		<td>奪魄森林<br>修練</td>
