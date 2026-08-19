@@ -4083,9 +4083,29 @@ tags:
 		<td>
             首次造訪奪魄森林:<br>
             必定觸發<MarkdownWrapper>[初入奪魄森林](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
-            ，不會判斷優先事件<br>
+            ，不會進入優先事件<br>
         </td>
 	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練<br>優先判斷</td>
+		<td>昔日同伴</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 觸發<MarkdownWrapper>[昔日同伴](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>閒聊事件<br>
+            • 事件過後，接續奪魄森林修練隨機事件<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 50</td>
+		<td>
+            • 🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper><br>
+            • 觸發「不置可否」隨機事件兩次後<br>
+            • 一次性事件，不可重複觸發<br>
+        </td>
+		<td>-</td>
+	</tr>                
     <tr>
 		<td>崆峒</td>
 		<td>奪魄森林<br>修練</td>
