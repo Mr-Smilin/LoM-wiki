@@ -4076,14 +4076,14 @@ tags:
 		<td>
             首次造訪奪魄森林，必定觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>，不進入其他事件<br>
             <br>
-            以下為各優先事件及其觸發條件<br>
-            • 無優先事件(權重20，可重複觸發): 接續奪魄森林隨機事件<br> 
-            • <MarkdownWrapper>[飛俠武功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(權重50，一次性事件): 曾觸發<MarkdownWrapper>[昔日同伴](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
-            • <MarkdownWrapper>[助你收心](/event/simple/2-04-1-練功分心)</MarkdownWrapper>(權重50，一次性事件): 曾觸發<MarkdownWrapper>[何故覷探](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
-            • <MarkdownWrapper>[修繕樹屋](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(權重50，一次性事件): 夏侯蘭好感≥20<br>
-            • <MarkdownWrapper>[鐵傘秘密](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(權重50，一次性事件): 夏侯蘭好感≥20<br>
-            • <MarkdownWrapper>[蘭字由來](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(權重50，一次性事件): 夏侯蘭好感≥15<br>
-            • <MarkdownWrapper>[雪山始末](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(權重50，一次性事件): 夏侯蘭好感≥30，且🚩<MarkdownWrapper>[可聊雪山始末](/event/simple/2-04-1-練功分心)</MarkdownWrapper><br>
+            以下為各優先事件(機率權重)及觸發條件<br>
+            • 無優先事件(20): 接續奪魄森林隨機事件，可重複<br> 
+            • <MarkdownWrapper>[飛俠武功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(50): 曾觸發<MarkdownWrapper>[昔日同伴](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>，一次性<br>
+            • <MarkdownWrapper>[助你收心](/event/simple/2-04-1-練功分心)</MarkdownWrapper>(50): 曾觸發<MarkdownWrapper>[何故覷探](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>，一次性<br>
+            • <MarkdownWrapper>[修繕樹屋](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(50): 夏侯蘭好感≥20，一次性<br>
+            • <MarkdownWrapper>[鐵傘秘密](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(50): 夏侯蘭好感≥20，一次性<br>
+            • <MarkdownWrapper>[蘭字由來](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(50): 夏侯蘭好感≥15，一次性<br>
+            • <MarkdownWrapper>[雪山始末](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(50): 夏侯蘭好感≥30，且🚩<MarkdownWrapper>[可聊雪山始末](/event/simple/2-04-1-練功分心)</MarkdownWrapper>，一次性<br>
         </td>
 		<td>-</td>
 		<td>-</td>
@@ -4094,91 +4094,138 @@ tags:
     <tr>
 		<td>崆峒</td>
 		<td>奪魄森林<br>修練</td>
-		<td>不置可否</td>
-		<td>-</td>
-		<td>-5</td>
-		<td>武學+5</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練</td>
 		<td>藉口一堆</td>
 		<td>-</td>
 		<td>-10</td>
-		<td>武學+2<br>嘴力+2<br>夏侯蘭好感-2</td>
+		<td>
+            • 武學+2<br>
+            • 嘴力+2、夏侯蘭好感-1</td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
+		<td>
+            • 基礎: 20<br>
+            • 心相≤50: +10<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>崆峒</td>
 		<td>奪魄森林<br>修練</td>
 		<td>亂打一氣</td>
 		<td>-</td>
-		<td>-10</td>
-		<td>武學+2<br>命運+1<br>夏侯蘭好感+2</td>
+		<td>-30</td>
+		<td>
+            • 武學+2<br>
+            • 命運+1、夏侯蘭+2<br> 
+            • 心上人非夏侯蘭: 變心+1<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
+		<td>
+            • 基礎: 20<br>
+            • 心相≤30: +20<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>崆峒</td>
 		<td>奪魄森林<br>修練</td>
 		<td>鋤草功</td>
 		<td>-</td>
 		<td>0</td>
-		<td>武學+2<br>體力+1<br>刀劍+1<br>夏侯蘭好感+2</td>
+		<td>
+            • 武學+2<br>
+            • 體力+2、刀劍+1、夏侯蘭好感+2</td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
+		<td>
+            • 基礎: 20<br>
+            • 心相≥50: +20<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>崆峒</td>
 		<td>奪魄森林<br>修練</td>
-		<td>流轉如意</td>
+		<td>不置可否</td>
 		<td>-</td>
-		<td>-10</td>
-		<td>武學+7<br>拳掌+1<br>夏侯蘭好感+1</td>
+		<td>-5</td>
+		<td>
+            • 武學+2<br>
+            • 武學+3<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
+		<td>
+            • 基礎: 40<br>
+            • 心相≤30: +20<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
-		<td>行招走式</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>崆峒</td>
 		<td>奪魄森林<br>修練</td>
 		<td>得心應手</td>
 		<td>-</td>
 		<td>-10</td>
-		<td>武學+7<br>刀劍+2<br>夏侯蘭好感+1</td>
+		<td>
+            • 武學+2<br>
+            • 武學+5、刀劍+2<br>
+            • 夏侯蘭好感+1<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
+		<td>
+            • 基礎: 25<br>
+            • 心相≤30: -25<br>
+            • 心相≤60: -10<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
-		<td>刀劍兵器</td>
 	</tr>
-	<tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練</td>
+		<td>流轉如意</td>
+		<td>-</td>
+		<td>-10</td>
+		<td>
+            • 武學+2<br>
+            • 武學+5、拳掌+1<br>
+            • 夏侯蘭好感+1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 基礎: 25<br>
+            • 心相≤30: -25<br>
+            • 心相≤60: -10<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
 		<td>崆峒</td>
 		<td>奪魄森林<br>修練</td>
 		<td>必殺心得</td>
 		<td>-</td>
 		<td>-20</td>
-		<td>武學+6<br>拳掌+2<br>刀劍+2<br>夏侯蘭好感+2</td>
+		<td>
+            • 武學+2<br>
+            • 武學+4、拳掌+2、刀劍+2<br>
+            • 夏侯蘭好感+2<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
+		<td>
+            • 基礎: 20<br>
+            • 心相≤40: -10<br>
+            • 心相≤80: -10<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
