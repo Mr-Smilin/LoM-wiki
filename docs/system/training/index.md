@@ -21,20 +21,20 @@ tags:
 		<td :unsortable="true">貢獻</td>
 		<td :unsortable="true">心相</td>
 		<td :unsortable="true">
-            心相<br>
 			<MoodIcon :mood="`normal`" /><br>            
+            心相:<br>
             33~64<br>
             基礎效果
 		</td>
 		<td :unsortable="true">
-			心相<br>
             <MoodIcon :mood="`high`" /><br>            
+            心相:<br>
             65~100<br>
             額外效果
 		</td>
 		<td :unsortable="true">
-            心相<br>
 			<MoodIcon :mood="`bad`" /><br>            
+            心相:<br>
             0~32<br>
             額外效果
 		</td>
