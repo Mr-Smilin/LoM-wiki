@@ -213,6 +213,8 @@ tags:
         <MarkdownWrapper>
 			[崆峒留學](/event/simple/2-03-1-崆峒留學)<br>
 			[初入鐵拳巷](/event/simple/2-03-1-初入鐵拳巷)<br>
+            [窩居衝突](/event/simple/2-03-1-窩居衝突)<br>
+			[崆峒搶劫](/event/simple/2-03-1-崆峒搶劫)<br>
 		</MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">
@@ -251,8 +253,6 @@ tags:
             [季試消息](/event/simple/2-04-1-季試消息)<br>
 			[奪魄森林事件集](/event/simple/2-04-1-奪魄森林事件集)<br>
 			[練功分心](/event/simple/2-04-1-練功分心)<br>
-			[崆峒搶劫](/event/simple/2-04-1-崆峒搶劫)<br>
-			[窩居衝突](/event/simple/2-04-1-窩居衝突)<br>
         </MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">唐門例會<br></td>
