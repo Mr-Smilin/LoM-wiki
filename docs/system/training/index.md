@@ -3799,6 +3799,7 @@ tags:
 		<td>-</td>
 		<td>
             👉 無視: 性情-1、虞小梅好感-2，接續對應門派修練事件<br>
+            <br>
             👉 追上去: 接續小梅跑步隨機事件<br>            
         </td>
 		<td>-</td>
@@ -4066,6 +4067,116 @@ tags:
 		<td>-</td>
 		<td>-</td>
 	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練<br>優先判斷</td>
+		<td>無優先事件</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            無優先事件，接續奪魄森林隨機事件<br>            
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 20</td>
+		<td>🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper></td>
+		<td>
+            首次造訪奪魄森林:<br>
+            必定觸發<MarkdownWrapper>[初入奪魄森林](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            ，不會判斷優先事件<br>
+        </td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練</td>
+		<td>不置可否</td>
+		<td>-</td>
+		<td>-5</td>
+		<td>武學+5</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練</td>
+		<td>藉口一堆</td>
+		<td>-</td>
+		<td>-10</td>
+		<td>武學+2<br>嘴力+2<br>夏侯蘭好感-2</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練</td>
+		<td>亂打一氣</td>
+		<td>-</td>
+		<td>-10</td>
+		<td>武學+2<br>命運+1<br>夏侯蘭好感+2</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練</td>
+		<td>鋤草功</td>
+		<td>-</td>
+		<td>0</td>
+		<td>武學+2<br>體力+1<br>刀劍+1<br>夏侯蘭好感+2</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練</td>
+		<td>流轉如意</td>
+		<td>-</td>
+		<td>-10</td>
+		<td>武學+7<br>拳掌+1<br>夏侯蘭好感+1</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>行招走式</td>
+	</tr>
+	<tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練</td>
+		<td>得心應手</td>
+		<td>-</td>
+		<td>-10</td>
+		<td>武學+7<br>刀劍+2<br>夏侯蘭好感+1</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>刀劍兵器</td>
+	</tr>
+	<tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練</td>
+		<td>必殺心得</td>
+		<td>-</td>
+		<td>-20</td>
+		<td>武學+6<br>拳掌+2<br>刀劍+2<br>夏侯蘭好感+2</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
 	<tr>
 		<td>崆峒</td>
 		<td>鐵拳巷<br>打鐵</td>
@@ -4218,97 +4329,6 @@ tags:
 		<td>-</td>
 		<td>-12</td>
 		<td>武學+6<br>學問+1<br>性情-1</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練</td>
-		<td>不置可否</td>
-		<td>-</td>
-		<td>-5</td>
-		<td>武學+5</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練</td>
-		<td>藉口一堆</td>
-		<td>-</td>
-		<td>-10</td>
-		<td>武學+2<br>嘴力+2<br>夏侯蘭好感-2</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練</td>
-		<td>亂打一氣</td>
-		<td>-</td>
-		<td>-10</td>
-		<td>武學+2<br>命運+1<br>夏侯蘭好感+2</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練</td>
-		<td>鋤草功</td>
-		<td>-</td>
-		<td>0</td>
-		<td>武學+2<br>體力+1<br>刀劍+1<br>夏侯蘭好感+2</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練</td>
-		<td>流轉如意</td>
-		<td>-</td>
-		<td>-10</td>
-		<td>武學+7<br>拳掌+1<br>夏侯蘭好感+1</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>行招走式</td>
-	</tr>
-	<tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練</td>
-		<td>得心應手</td>
-		<td>-</td>
-		<td>-10</td>
-		<td>武學+7<br>刀劍+2<br>夏侯蘭好感+1</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>刀劍兵器</td>
-	</tr>
-	<tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練</td>
-		<td>必殺心得</td>
-		<td>-</td>
-		<td>-20</td>
-		<td>武學+6<br>拳掌+2<br>刀劍+2<br>夏侯蘭好感+2</td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
