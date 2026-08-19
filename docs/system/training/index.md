@@ -2793,7 +2793,7 @@ tags:
 		<td>10<br>+6</td>
 		<td>-12</td>
 		<td>門派資產+50</td>
-		<td>門派資產+50</td>
+		<td>門派資<br>產+50</td>
 		<td>-</td>
 		<td>
             • 基礎: 30<br>
@@ -3478,7 +3478,7 @@ tags:
             • 道德+1、嘴力+1、處世+1、向心-1<br>
 		</td>
 		<td>-</td>
-		<td>若嘴力<br>+1:<br>嘴力-1</td>
+		<td>👉有蛇:<br>嘴力-1</td>
 		<td>基礎: 20</td>
 		<td>-</td>
 		<td>-</td>
@@ -3507,6 +3507,73 @@ tags:
 		<td>-</td>
 		<td>基礎: 15</td>
 		<td>🚩和龍湘結緣</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>窩居</td>
+		<td>無所事事</td>
+		<td>-</td>
+		<td>+20<br>+40</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 50</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>窩居</td>
+		<td>有人張望</td>
+		<td>-</td>
+		<td>+20</td>
+		<td>
+            • 性情≤40: 性情+2<br>
+            • 性情＞40: 處世+2、性情-2<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 15</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>窩居</td>
+		<td>小梅破門</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 心相+20<br>
+            • 心上人為虞小梅: 心相+40、輕功+2、虞小梅好感+1、崆峒派好感-1<br>
+            • 心上人非虞小梅: 心相+20、輕功+1、虞小梅好感+1、崆峒派好感-1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 基礎: 25<br>
+            • 虞小梅好感≥15: +25<br>
+        </td>
+		<td>觸發過<MarkdownWrapper>[鶴手出遊](/event/simple/2-03-2-鶴手出遊)</MarkdownWrapper></td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>窩居</td>
+		<td>聚眾嘲笑</td>
+		<td>-</td>
+		<td>+20</td>
+		<td>
+            觸發「聚眾嘲笑」事件<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 基礎: 25<br>
+            • 心相<60: +40<br>
+        </td>
+		<td>-</td>
 		<td>-</td>
 	</tr>
     <tr>
@@ -4131,45 +4198,6 @@ tags:
 		<td>-</td>
 		<td>-20</td>
 		<td>武學+6<br>拳掌+2<br>刀劍+2<br>夏侯蘭好感+2</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>崆峒</td>
-		<td>窩居</td>
-		<td>無所事事</td>
-		<td>-</td>
-		<td>60</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>崆峒</td>
-		<td>窩居</td>
-		<td>出來玩</td>
-		<td>-</td>
-		<td>40</td>
-		<td>輕功+1<br>虞小梅好感+1</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>崆峒</td>
-		<td>窩居</td>
-		<td>別派觀望</td>
-		<td>-</td>
-		<td>20</td>
-		<td>處事+<br>性情-</td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
