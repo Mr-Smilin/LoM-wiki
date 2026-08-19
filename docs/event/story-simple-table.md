@@ -213,7 +213,6 @@ tags:
         <MarkdownWrapper>
 			[崆峒留學](/event/simple/2-03-1-崆峒留學)<br>
 			[初入鐵拳巷](/event/simple/2-03-1-初入鐵拳巷)<br>
-            [聚眾嘲笑](/event/simple/2-03-1-聚眾嘲笑)<br>
 		</MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">
