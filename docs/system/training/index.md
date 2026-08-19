@@ -21,18 +21,21 @@ tags:
 		<td :unsortable="true">貢獻</td>
 		<td :unsortable="true">心相</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`normal`" /><br>
-            心相:33~64<br>
+            心相<br>
+			<MoodIcon :mood="`normal`" /><br>            
+            33~64<br>
             基礎效果
 		</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`high`" /><br>
-            心相:65~100<br>
+			心相<br>
+            <MoodIcon :mood="`high`" /><br>            
+            65~100<br>
             額外效果
 		</td>
 		<td :unsortable="true">
-			<MoodIcon :mood="`bad`" /><br>
-            心相:0~32<br>
+            心相<br>
+			<MoodIcon :mood="`bad`" /><br>            
+            0~32<br>
             額外效果
 		</td>
         <td :unsortable="true">機率權重</td>
