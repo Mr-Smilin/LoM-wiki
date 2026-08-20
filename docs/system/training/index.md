@@ -1885,7 +1885,7 @@ tags:
 		<td>-</td>
 	</tr>                
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外出<br>優先</td>
 		<td>無優先事件</td>
 		<td>-</td>
@@ -1900,7 +1900,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外出<br>優先</td>
 		<td>小梅亂入</td>
 		<td>-</td>
@@ -1935,7 +1935,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外出<br>優先</td>
 		<td>我有帶秘笈</td>
 		<td>-</td>
@@ -1955,7 +1955,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外出<br>優先</td>
 		<td>龍湘遭竊</td>
 		<td>-</td>
@@ -1974,7 +1974,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外出<br>優先</td>
 		<td>姜記肉包</td>
 		<td>-</td>
@@ -2003,7 +2003,7 @@ tags:
         </td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外出<br>優先</td>
 		<td>李富貴<br>跑腿</td>
 		<td>-</td>
@@ -2032,7 +2032,7 @@ tags:
         </td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外出<br>優先</td>
 		<td>李富貴<br>喝涼水</td>
 		<td>-</td>
@@ -2069,7 +2069,7 @@ tags:
         </td>
 	</tr>                
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外出<br>優先</td>
 		<td>福韞<br>強制淨化</td>
 		<td>-</td>
@@ -2089,7 +2089,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>行商</td>
 		<td>不多不少</td>
 		<td>16</td>
@@ -2102,7 +2102,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>行商</td>
 		<td>包袱被割</td>
 		<td>16<br>-10</td>
@@ -2118,7 +2118,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>行商</td>
 		<td>賭博輸光</td>
 		<td>16<br>-10</td>
@@ -2145,7 +2145,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>行商</td>
 		<td>爭相搶購</td>
 		<td>16</td>
@@ -2165,7 +2165,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>行商</td>
 		<td>滿載而歸</td>
 		<td>16</td>
@@ -2187,7 +2187,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>行商</td>
 		<td>長途行商</td>
 		<td>16</td>
@@ -2209,7 +2209,7 @@ tags:
 		<td>共扣行動次數2</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>逛街舒心</td>
 		<td>-</td>
@@ -2222,7 +2222,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>包袱被割</td>
 		<td>-20</td>
@@ -2238,7 +2238,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>飛石尋釁</td>
 		<td>-</td>
@@ -2262,7 +2262,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>何方妖孽</td>
 		<td>-</td>
@@ -2282,7 +2282,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>胸口碎大石</td>
 		<td>-</td>
@@ -2303,7 +2303,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>丐幫搶菜</td>
 		<td>-</td>
@@ -2320,7 +2320,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>填飽舒心</td>
 		<td>-</td>
@@ -2333,7 +2333,7 @@ tags:
 		<td>心相判定在加心相之後</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>摺紙藝人</td>
 		<td>-</td>
@@ -2352,7 +2352,7 @@ tags:
 		<td>心相判定在加心相之後</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>茶肆吃麵</td>
 		<td>-</td>
@@ -2365,7 +2365,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>贈送蔬果</td>
 		<td>-</td>
@@ -2378,7 +2378,7 @@ tags:
 		<td>目前無法滿足條件</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>女俠戰龍湘</td>
 		<td>-</td>
@@ -2394,7 +2394,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>山賊戰龍湘</td>
 		<td>-</td>
@@ -2417,7 +2417,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>龍湘打客人</td>
 		<td>-</td>
@@ -2442,7 +2442,7 @@ tags:
         </td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>龍湘算錯帳</td>
 		<td>-</td>
@@ -2466,7 +2466,7 @@ tags:
         </td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>龍湘燒廚房</td>
 		<td>-</td>
@@ -2490,7 +2490,7 @@ tags:
         </td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>李富貴<br>胸口碎大石</td>
 		<td>-</td>
@@ -2509,7 +2509,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>李富貴<br>弄蛇成功</td>
 		<td>-</td>
@@ -2527,7 +2527,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>李富貴<br>弄蛇失敗</td>
 		<td>-</td>
@@ -2552,7 +2552,7 @@ tags:
         </td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>李富貴<br>弄蛇大成功</td>
 		<td>-</td>
@@ -2575,7 +2575,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>李富貴<br>釣魚</td>
 		<td>-</td>
@@ -2591,7 +2591,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>偶遇福韞</td>
 		<td>-</td>
@@ -2619,7 +2619,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>帶小師妹<br>下山認路</td>
 		<td>-</td>
@@ -2644,7 +2644,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>小師妹<br>得意洋洋</td>
 		<td>-</td>
@@ -2661,7 +2661,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>混世魔王</td>
 		<td>-</td>
@@ -2684,7 +2684,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>鬧市<br>逛街</td>
 		<td>監護人</td>
 		<td>-</td>
@@ -2708,7 +2708,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外堡<br>管家<br>優先</td>
 		<td>無優先事件</td>
 		<td>-</td>
@@ -2724,7 +2724,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外堡<br>管家<br>優先</td>
 		<td>龍湘與福韞</td>
 		<td>10</td>
@@ -2757,7 +2757,7 @@ tags:
         </td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外堡<br>管家</td>
 		<td>死皮賴臉</td>
 		<td>10</td>
@@ -2780,7 +2780,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外堡<br>管家</td>
 		<td>住戶打群架</td>
 		<td>10</td>
@@ -2806,7 +2806,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外堡<br>管家</td>
 		<td>收到租金</td>
 		<td>10<br>+6</td>
@@ -2822,7 +2822,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外堡<br>管家</td>
 		<td>打掃環境</td>
 		<td>10</td>
@@ -2844,7 +2844,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外堡<br>管家</td>
 		<td>孝敬唐門</td>
 		<td>10<br>+6</td>
@@ -2862,7 +2862,7 @@ tags:
         </td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外堡<br>管家</td>
 		<td>樹下說法</td>
 		<td>10</td>
@@ -2881,7 +2881,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外堡<br>管家</td>
 		<td>福韞與<br>葉雲舟</td>
 		<td>10</td>
@@ -2900,7 +2900,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外堡<br>管家</td>
 		<td>福韞與<br>葉雲裳</td>
 		<td>10</td>
@@ -2919,7 +2919,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外堡<br>管家</td>
 		<td>苦命葉雲舟</td>
 		<td>10</td>
@@ -2935,7 +2935,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外堡<br>管家</td>
 		<td>葉雲舟削劍</td>
 		<td>10</td>
@@ -2963,7 +2963,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>外堡<br>管家</td>
 		<td>葉雲舟教劍</td>
 		<td>10</td>
@@ -2982,7 +2982,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>茶肆<br>茶博士<br>優先</td>
 		<td>無優先事件</td>
 		<td>-</td>
@@ -2998,7 +2998,7 @@ tags:
 		<td>目前茶肆無其他優先事件</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>茶肆<br>茶博士</td>
 		<td>茶水太燙</td>
 		<td>10</td>
@@ -3021,7 +3021,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>茶肆<br>茶博士</td>
 		<td>店前打鬥</td>
 		<td>10</td>
@@ -3037,7 +3037,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>茶肆<br>茶博士</td>
 		<td>飛石找碴</td>
 		<td>10</td>
@@ -3054,7 +3054,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>茶肆<br>茶博士</td>
 		<td>丐幫尋釁</td>
 		<td>10</td>
@@ -3078,7 +3078,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>茶肆<br>茶博士</td>
 		<td>請你吃瓜</td>
 		<td>10</td>
@@ -3098,7 +3098,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>茶肆<br>茶博士</td>
 		<td>午後小雨</td>
 		<td>10</td>
@@ -3117,7 +3117,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>茶肆<br>茶博士</td>
 		<td>魏菊茶匠</td>
 		<td>10</td>
@@ -3138,7 +3138,7 @@ tags:
 		<td>目前(v1.0.5000.13)<br>版本中無法觸發<br></td>
 	</tr>                
 	<tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>茶肆<br>茶博士</td>
 		<td>龍湘點茶</td>
 		<td>10</td>
@@ -3155,7 +3155,7 @@ tags:
 		<td>-</td>
 	</tr>	
 	<tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診<br>優先</td>
 		<td>無優先事件</td>
 		<td>-</td>
@@ -3173,7 +3173,7 @@ tags:
         </td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診<br>優先</td>
 		<td>葉雲舟煎藥</td>
 		<td>-</td>
@@ -3196,7 +3196,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診</td>
 		<td>帶水果報恩</td>
 		<td>10</td>
@@ -3211,7 +3211,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診</td>
 		<td>一致認同</td>
 		<td>10</td>
@@ -3227,7 +3227,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診</td>
 		<td>醫治公子哥</td>
 		<td>10</td>
@@ -3243,7 +3243,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診</td>
 		<td>醫治黑狗</td>
 		<td>10</td>
@@ -3259,7 +3259,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診</td>
 		<td>醫療糾紛</td>
 		<td>10</td>
@@ -3281,7 +3281,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診</td>
 		<td>醫治妓女</td>
 		<td>10<br>+20</td>
@@ -3298,7 +3298,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診</td>
 		<td>無償治老人</td>
 		<td>10</td>
@@ -3311,7 +3311,7 @@ tags:
 		<td>🚩老人留書: 現版本<br>(v1.0.5000.13)無法增加</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診</td>
 		<td>無償治瞎子</td>
 		<td>10</td>
@@ -3324,7 +3324,7 @@ tags:
 		<td>🚩瞎子留書: 現版本<br>(v1.0.5000.13)無法增加</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診</td>
 		<td>無償治瘸子</td>
 		<td>10</td>
@@ -3337,7 +3337,7 @@ tags:
 		<td>🚩瘸子留書: 現版本<br>(v1.0.5000.13)無法增加</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診</td>
 		<td>富人<br>投桃報李</td>
 		<td>10</td>
@@ -3350,7 +3350,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診</td>
 		<td>飛石幫患者</td>
 		<td>10</td>
@@ -3367,7 +3367,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>藥鋪<br>坐診</td>
 		<td>丐幫弟子<br>求診</td>
 		<td>10</td>
@@ -3384,7 +3384,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>義田<br>耕耘<br>優先</td>
 		<td>無優先事件</td>
 		<td>-</td>
@@ -3400,7 +3400,7 @@ tags:
 		<td>目前義田無其他優先事件</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>義田<br>耕耘</td>
 		<td>踏實努力</td>
 		<td>12</td>
@@ -3413,7 +3413,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>義田<br>耕耘</td>
 		<td>剷掉<br>魏菊白菜</td>
 		<td>12</td>
@@ -3429,7 +3429,7 @@ tags:
 		<td>現(v1.0.5000.13)<br>版本無法觸發</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>義田<br>耕耘</td>
 		<td>魏菊<br>一起耕田</td>
 		<td>12</td>
@@ -3445,7 +3445,7 @@ tags:
 		<td>現(v1.0.5000.13)<br>版本無法觸發</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>溫泉<br>優先</td>
 		<td>無優先事件</td>
 		<td>-</td>
@@ -3461,7 +3461,7 @@ tags:
 		<td>目前溫泉無其他優先事件</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>溫泉</td>
 		<td>疲勞<br>一掃而空</td>
 		<td>-</td>
@@ -3474,7 +3474,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>溫泉</td>
 		<td>師兄弟偷窺</td>
 		<td>-</td>
@@ -3503,7 +3503,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>溫泉</td>
 		<td>涼棚垮了</td>
 		<td>-</td>
@@ -3516,7 +3516,7 @@ tags:
 		<td>-</td>
 	</tr>
     <tr>
-		<td>下山</td>
+		<td>大門</td>
 		<td>溫泉</td>
 		<td>龍湘泡溫泉</td>
 		<td>-</td>
