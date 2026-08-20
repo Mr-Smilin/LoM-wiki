@@ -707,18 +707,15 @@ tags:
 			</td>
 			<td>-</td>
 			<td>
-				錦香宮邀請<br>
+                <MarkdownWrapper>
+                    [錦香宮事件集](/event/simple/3-09-3-錦香宮事件集)<br>
+                </MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
 			<td>十月</td>
+			<td>-</td>
 			<td>
-				留宿錦香宮<br>
-                錦香宮導覽<br>
-                龍湘夜遊<br>
-			</td>
-			<td>
-				溫夫人託付<br>
 				武林大會<br>
                 大會歸途<br>
 			</td>
