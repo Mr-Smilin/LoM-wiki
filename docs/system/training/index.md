@@ -4070,27 +4070,129 @@ tags:
     <tr>
 		<td>崆峒</td>
 		<td>奪魄森林<br>修練<br>優先判斷</td>
-		<td>奪魄森林<br>優先事件集</td>
+		<td>無優先事件</td>
 		<td>-</td>
 		<td>-</td>
 		<td>
-            首次造訪奪魄森林，必定觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>，不進入其他事件<br>
-            <br>
-            以下為各優先事件(機率權重)及觸發條件<br>
-            • 無優先事件(20): 接續奪魄森林隨機事件，可重複<br> 
-            • <MarkdownWrapper>[飛俠武功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(50): 曾觸發<MarkdownWrapper>[昔日同伴](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>，一次性<br>
-            • <MarkdownWrapper>[助你收心](/event/simple/2-04-1-練功分心)</MarkdownWrapper>(50): 曾觸發<MarkdownWrapper>[何故覷探](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>，一次性<br>
-            • <MarkdownWrapper>[修繕樹屋](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(50): 夏侯蘭好感≥20，一次性<br>
-            • <MarkdownWrapper>[鐵傘秘密](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(50): 夏侯蘭好感≥20，一次性<br>
-            • <MarkdownWrapper>[蘭字由來](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(50): 夏侯蘭好感≥15，一次性<br>
-            • <MarkdownWrapper>[雪山始末](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(50): 夏侯蘭好感≥30，且🚩<MarkdownWrapper>[可聊雪山始末](/event/simple/2-04-1-練功分心)</MarkdownWrapper>，一次性<br>
+            接續奪魄森林隨機事件<br> 
         </td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
-		<td>🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper></td>
+		<td>20</td>
+		<td>
+            已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+        </td>
 		<td></td>
-	</tr>   
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練<br>優先判斷</td>
+		<td>飛俠武功</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            觸發<MarkdownWrapper>[飛俠武功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>事件<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>50</td>
+		<td>
+            • 已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            • 已觸發<MarkdownWrapper>[昔日同伴](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+        </td>
+		<td>一次性事件</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練<br>優先判斷</td>
+		<td>練功分心</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            觸發<MarkdownWrapper>[練功分心](/event/simple/2-04-1-練功分心)</MarkdownWrapper>事件<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>50</td>
+		<td>
+            • 已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            • 已觸發<MarkdownWrapper>[何故覷探](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+        </td>
+		<td>一次性事件</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練<br>優先判斷</td>
+		<td>修繕樹屋</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            觸發<MarkdownWrapper>[修繕樹屋](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>事件<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>50</td>
+		<td>
+            • 已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            • 夏侯蘭好感≥20<br>
+        </td>
+		<td>一次性事件</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練<br>優先判斷</td>
+		<td>鐵傘秘密</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            觸發<MarkdownWrapper>[鐵傘秘密](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>事件<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>50</td>
+		<td>
+            • 已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            • 夏侯蘭好感≥20<br>
+        </td>
+		<td>一次性事件</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練<br>優先判斷</td>
+		<td>蘭字由來</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            觸發<MarkdownWrapper>[蘭字由來](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(50)事件<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>50</td>
+		<td>
+            • 已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            • 夏侯蘭好感≥15<br>
+        </td>
+		<td>一次性事件</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄森林<br>修練<br>優先判斷</td>
+		<td>雪山始末</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            觸發<MarkdownWrapper>[雪山始末](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>事件<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>50</td>
+		<td>
+            • 已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            • 🚩<MarkdownWrapper>[可聊雪山始末](/event/simple/2-04-1-練功分心)</MarkdownWrapper><br>
+            • 夏侯蘭好感≥30<br>
+        </td>
+		<td>一次性事件</td>
+	</tr>
     <tr>
 		<td>崆峒</td>
 		<td>奪魄森林<br>修練</td>
