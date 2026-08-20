@@ -4079,9 +4079,7 @@ tags:
 		<td>-</td>
 		<td>-</td>
 		<td>20</td>
-		<td>
-            已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
-        </td>
+		<td>-</td>
 		<td></td>
 	</tr>
     <tr>
@@ -4097,8 +4095,7 @@ tags:
 		<td>-</td>
 		<td>50</td>
 		<td>
-            • 已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
-            • 已觸發<MarkdownWrapper>[昔日同伴](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            已觸發<MarkdownWrapper>[昔日同伴](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
         </td>
 		<td>一次性事件</td>
 	</tr>
@@ -4115,8 +4112,7 @@ tags:
 		<td>-</td>
 		<td>50</td>
 		<td>
-            • 已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
-            • 已觸發<MarkdownWrapper>[何故覷探](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            已觸發<MarkdownWrapper>[何故覷探](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
         </td>
 		<td>一次性事件</td>
 	</tr>
@@ -4133,8 +4129,7 @@ tags:
 		<td>-</td>
 		<td>50</td>
 		<td>
-            • 已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
-            • 夏侯蘭好感≥20<br>
+            夏侯蘭好感≥20<br>
         </td>
 		<td>一次性事件</td>
 	</tr>
@@ -4151,8 +4146,7 @@ tags:
 		<td>-</td>
 		<td>50</td>
 		<td>
-            • 已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
-            • 夏侯蘭好感≥20<br>
+            夏侯蘭好感≥20<br>
         </td>
 		<td>一次性事件</td>
 	</tr>
@@ -4163,14 +4157,13 @@ tags:
 		<td>-</td>
 		<td>-</td>
 		<td>
-            觸發<MarkdownWrapper>[蘭字由來](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>(50)事件<br>
+            觸發<MarkdownWrapper>[蘭字由來](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>事件<br>
         </td>
 		<td>-</td>
 		<td>-</td>
 		<td>50</td>
 		<td>
-            • 已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
-            • 夏侯蘭好感≥15<br>
+            夏侯蘭好感≥15<br>
         </td>
 		<td>一次性事件</td>
 	</tr>
@@ -4187,7 +4180,6 @@ tags:
 		<td>-</td>
 		<td>50</td>
 		<td>
-            • 已觸發<MarkdownWrapper>[初次練功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
             • 🚩<MarkdownWrapper>[可聊雪山始末](/event/simple/2-04-1-練功分心)</MarkdownWrapper><br>
             • 夏侯蘭好感≥30<br>
         </td>
@@ -4480,44 +4472,162 @@ tags:
 		<td>-</td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄峰<br>下棋<br>優先判斷</td>
+		<td>棋力判斷</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            檢定「棋力」=學問x2+修養x2+<MarkdownWrapper>[戰術](/system/skill)</MarkdownWrapper>等級x44:<br>
+            • 棋力＜250: 設置🚩棋力低<br>
+            • 棋力＜650: 設置🚩棋力中br>
+            • 棋力≧650: 設置🚩棋力高<br>
+            <br>
+            接續奪魄峰下棋隨機事件<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
 		<td>崆峒</td>
 		<td>奪魄峰<br>下棋</td>
-		<td>捉住破綻</td>
+		<td>難分難解<br>惜敗</td>
+		<td>-</td>
+		<td>-22</td>
+		<td>
+            • 武學+2<br>
+            • 學問+1、修養+1、銀兩-100、武學+2<br>
+        </td>
+		<td>武學+2</td>
+		<td>武學-2</td>
+		<td>基礎: 40</td>
+		<td>🚩棋力低</td>
+		<td>心相檢定在扣心相之前</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄峰<br>下棋</td>
+		<td>苦苦求活</td>
+		<td>-</td>
+		<td>-32</td>
+		<td>
+            • 武學+2<br>
+            • 學問+2、性情-1、修養-1、銀兩-100<br>
+            • 武學+2<br>
+        </td>
+		<td>武學+2</td>
+		<td>武學-2<br>學問-1</td>
+		<td>基礎: 20</td>
+		<td>🚩棋力低</td>
+		<td>心相檢定在扣心相之前</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄峰<br>下棋</td>
+		<td>難分難解<br>險勝</td>
+		<td>-</td>
+		<td>+8</td>
+		<td>
+            • 武學+2<br>
+            • 學問+1、性情-1、銀兩+100<br>
+            • 武學+2、學問+1<br>
+        </td>
+		<td>武學+2</td>
+		<td>武學-2<br>學問-1</td>
+		<td>基礎: 40</td>
+		<td>🚩棋力低</td>
+		<td>心相檢定在扣心相之前</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄峰<br>下棋</td>
+		<td>周旋<br>略遜一籌</td>
+		<td>-</td>
+		<td>-12</td>
+		<td>
+            • 武學+2<br>
+            • 性情-1、學問+1、武學+2<br>
+            • 武學+2<br>
+        </td>
+		<td>武學+2</td>
+		<td>武學-2</td>
+		<td>
+            • 基礎: 35<br>
+            • 心相≤30: +50<br>
+        </td>
+		<td>🚩棋力中</td>
+		<td>心相檢定在扣心相之前</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄峰<br>下棋</td>
+		<td>不費<br>吹灰之力</td>
+		<td>-</td>
+		<td>-12</td>
+		<td>
+            • 武學+2<br>
+            • 性情+2、修養-1、銀兩+100<br>
+            • 武學+2<br>
+        </td>
+		<td>武學+2</td>
+		<td>武學-2</td>
+		<td>基礎: 30</td>
+		<td>🚩棋力中</td>
+		<td>心相檢定在扣心相之前</td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>奪魄峰<br>下棋</td>
+		<td>捉住破綻<br>勝出</td>
 		<td>-</td>
 		<td>-2</td>
-		<td>武學+6<br>性情+1<br>學問+2<br>銀兩+100</td>
+		<td>
+            • 武學+2<br>
+            • 性情+1、學問+2、銀兩+100<br>
+        </td>
+		<td>武學+4</td>
 		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
+		<td>基礎: 35</td>
+		<td>🚩棋力中</td>
+		<td>心相檢定在扣心相之前</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>崆峒</td>
 		<td>奪魄峰<br>下棋</td>
-		<td>輕鬆取勝</td>
+		<td>徹底擊潰</td>
 		<td>-</td>
 		<td>-12</td>
-		<td>武學+6<br>性情+2<br>修養-1<br>銀兩+100</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
+		<td>
+            • 武學+2<br>
+            • 道德-1、名聲+1、銀兩+100<br>
+            • 武學+2<br>
+        </td>
+		<td>武學+2<br>名聲+1</td>
+		<td>武學-2</td>
+		<td>基礎: 30</td>
+		<td>🚩棋力高</td>
+		<td>心相檢定在扣心相之前</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>崆峒</td>
 		<td>奪魄峰<br>下棋</td>
-		<td>略有所得</td>
+		<td>俐落擊敗</td>
 		<td>-</td>
 		<td>-12</td>
-		<td>武學+6<br>學問+1<br>性情-1</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
+		<td>
+            • 武學+2<br>
+            • 修養-1、名聲+1、銀兩+100<br>
+            • 武學+2、名聲+1<br>
+        </td>
+		<td>武學+2<br>名聲+1</td>
+		<td>武學-2<br>名聲-1</td>
+		<td>基礎: 50</td>
+		<td>🚩棋力高</td>
+		<td>心相檢定在扣心相之前</td>
 	</tr>
 	<tr>
 		<td>江陵<br>圍城</td>
