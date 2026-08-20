@@ -4095,7 +4095,7 @@ tags:
             • <MarkdownWrapper>[修繕樹屋](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>: 夏侯蘭好感≥20<br>
             • <MarkdownWrapper>[鐵傘秘密](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>: 夏侯蘭好感≥20<br>
             • <MarkdownWrapper>[蘭字由來](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>: 夏侯蘭好感≥15<br>
-            • <MarkdownWrapper>[雪山始末](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>: 夏侯蘭好感≥30，且🚩<MarkdownWrapper>[可聊雪山始末](/event/simple/2-04-1-練功分心)</MarkdownWrapper><br>
+            • <MarkdownWrapper>[雪山始末](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>: 夏侯蘭好感≥30，且🚩<MarkdownWrapper>[可聊雪山始末](/event/simple/2-04-1-助你收心)</MarkdownWrapper><br>
             <br>
             除「助你收心」會結束行動之外，其他事件結束後皆接續奪魄森林修練隨機事件<br>
         </td>
@@ -4635,134 +4635,184 @@ tags:
 		<td>-</td>
 		<td>-</td>
 	</tr>
-	<tr>
-		<td style="text-align: center">離家<br>出走</td>
-		<td style="text-align: center">**釣魚**</td>
-		<td style="text-align: center">收穫豐富</td>
-		<td style="text-align: center">-</td>
-		<td style="text-align: center">10</td>
-		<td style="text-align: center">銀兩+200</td>
-		<td style="text-align: center">-</td>
-		<td style="text-align: center">-</td>
-		<td>-</td>
-		<td>-</td>
-		<td style="text-align: center">-</td>
-	</tr>
-	<tr>
+    <tr>
 		<td>離家<br>出走</td>
-		<td>釣魚</td>
-		<td>沒什麼收穫</td>
+		<td>無所事事<br>釣魚</td>
+		<td>收穫不佳</td>
 		<td>-</td>
-		<td>20</td>
+		<td>+20</td>
 		<td>修養+1</td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
+		<td>基礎: 20</td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>離家<br>出走</td>
-		<td>釣魚</td>
+		<td>無所事事<br>釣魚</td>
 		<td>女式衣裙</td>
 		<td>-</td>
-		<td>30</td>
-		<td>贏（真的不是我）：武學+2 道德+1 修養+1 處世-1 黃酒+1</td>
+		<td>-</td>
+		<td>
+            觸發🆚戰峨嵋弟子<br>
+            <br>
+            敗: 心相-30、命運+1、🚩被關次數+1<br>
+            <br>
+            勝: 觸發選項<br>
+            👉 按進河裡: 道德-3、性情+1、修養-1、銀兩+500<br>
+            👉 真的不是我: 道德+1、修養+1、處世-1、心相+30、獲得<MarkdownWrapper>[黃酒](/system/items/)</MarkdownWrapper>x1<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>可以利用此事件刷黃酒</td>
-	</tr>
-	<tr>
-		<td>離家<br>出走</td>
-		<td>釣魚</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>贏（扔水）：</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
+		<td>基礎: 10</td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>離家<br>出走</td>
-		<td>釣魚</td>
+		<td>無所事事<br>釣魚</td>
+		<td>收穫豐富</td>
+		<td>-</td>
+		<td>+10</td>
+		<td>銀兩+200</td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
-		<td>輸：</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
+		<td>基礎: 20</td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>離家<br>出走</td>
-		<td>鬧市閒逛</td>
-		<td>假裝自己有家可歸</td>
+		<td>無所事事<br>鬧市閒遊</td>
+		<td>隨意吃喝</td>
 		<td>-</td>
-		<td>20</td>
+		<td>+20</td>
 		<td>銀兩-50</td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
+		<td>基礎: 20</td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>離家<br>出走</td>
-		<td>流連賭坊</td>
+		<td>無所事事<br>流連賭坊</td>
 		<td>十賭九詐</td>
 		<td>-</td>
 		<td>-30</td>
-		<td>銀兩-2000 道德-1 修養-1 處世+1</td>
+		<td>道德-1、處世+1、修養-1、銀兩-2000</td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
+		<td>基礎: 40</td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>離家<br>出走</td>
-		<td>流連賭坊</td>
+		<td>無所事事<br>流連賭坊</td>
+		<td>小賺一把</td>
+		<td>-</td>
+		<td>+20</td>
+		<td>道德-1、處世+1、修養-1、銀兩+500</td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 10</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>離家<br>出走</td>
+		<td>無所事事<br>流連賭坊</td>
 		<td>大賺一把</td>
 		<td>-</td>
-		<td>30</td>
-		<td>銀兩+1000 道德-1 修養-1 名聲-1 處世+1</td>
+		<td>+30</td>
+		<td>道德-1、處世+1、修養-1、名聲-1、銀兩+1000</td>
 		<td>-</td>
 		<td>-</td>
-		<td>-</td>
+		<td>基礎: 5</td>
 		<td>-</td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>離家<br>出走</td>
-		<td>客棧飲茶</td>
-		<td>裝模作樣</td>
-		<td>-</td>
-		<td>30</td>
-		<td>銀兩-100 學問+1 處世-1</td>
+		<td>無所事事<br>客棧飲茶</td>
 		<td>-</td>
 		<td>-</td>
+		<td>+30</td>
+		<td>學問+1、處世-1、銀兩-100</td>
 		<td>-</td>
 		<td>-</td>
+		<td>-</td>
+		<td>
+            • 銀兩≥100<br>
+            • 🚩<MarkdownWrapper>[離家出走住客棧](/event/simple/2-06-1-離家出走)</MarkdownWrapper><br>
+        </td>
 		<td>-</td>
 	</tr>
-	<tr>
+    <tr>
 		<td>離家<br>出走</td>
 		<td>獨自練功</td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
+		<td>
+            • 心相＜35: 心相-5、修養-1<br>
+            • 心相≧35: 武學+5、心相-10<br>
+            <br>
+            • 開啟修練介面<br>
+        </td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
+	</tr>
+    <tr>
+		<td>離家<br>出走</td>
+		<td>打工<br>義田</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-15</td>
+		<td>
+            • 銀兩+200、體力+1<br>
+            • 性情±1、處世±1、修養±1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>有建設義田，對話差分</td>
+	</tr>
+    <tr>
+		<td>離家<br>出走</td>
+		<td>打工<br>鐵鋪打鐵</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-20</td>
+		<td>
+            • 銀兩+500、鍛造+5<br>
+            • 開啟鍛冶介面<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>相較唐門打鐵，此處不扣修養<br>，且一定賺錢，十分值得</td>
+	</tr>
+    <tr>
+		<td>離家<br>出走</td>
+		<td>打工<br>大宋閒漢</td>
+		<td>-</td>
+		<td>-</td>
+		<td>-15</td>
+		<td>
+            銀兩+800、名聲-1、性情-1、處世-1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>-</td>
+		<td>🚩<MarkdownWrapper>[離家出走住破廟](/event/simple/2-06-1-離家出走)</MarkdownWrapper></td>
 		<td>-</td>
 	</tr>
 </Table>
