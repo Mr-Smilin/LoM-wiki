@@ -14,7 +14,7 @@ tags:
 	:stickyHeader="true"
 	:tags="[
 {
-text: '唐門',
+text: '唐家大院',
 },
 {
 text: '大門',
