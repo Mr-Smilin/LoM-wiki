@@ -164,7 +164,7 @@ tags:
 
 <tr>
 <td>2</td>
-<td>第三年八月下旬</td>
+<td>第三年八月中旬</td>
 <td>
     <MarkdownWrapper>[邀請葉雲舟](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>
 </td>
