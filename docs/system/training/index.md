@@ -13,34 +13,86 @@ tags:
 本條目施工中，暫時轉為普通表格(無搜尋功能)方便排錯。
 :::
 
-<Table>
+<BTable
+	:stickyHeader="true"
+	:tags="[
+{
+text: '道德+',
+},
+{
+text: '道德-',
+},
+{
+text: '名聲+',
+},
+{
+text: '名聲-',
+},
+{
+text: '性情+',
+},
+{
+text: '性情-',
+},
+{
+text: '修養+',
+},
+{
+text: '修養-',
+},
+{
+text: '唐門',
+},
+{
+text: '大門',
+},
+{
+text: '崆峒',
+},
+{
+text: '離家出走',
+},
+{
+text: '青城',
+},
+{
+text: '江陵圍城',
+},
+{
+text: '雪山',
+},
+{
+text: '錦香宮',
+},
+]"
+>
 	<tr>
 		<td :unsortable="true" style="text-align: center">地點</td>
-		<td :unsortable="true">指令</td>
-		<td :unsortable="true">事件</td>
-		<td :unsortable="true">貢獻</td>
-		<td :unsortable="true">心相</td>
-		<td :unsortable="true">
+		<td :unsortable="true" style="text-align: center">指令</td>
+		<td :unsortable="true" style="text-align: center">事件</td>
+		<td :unsortable="true" style="text-align: center">貢獻</td>
+		<td :unsortable="true" style="text-align: center">心相</td>
+		<td :unsortable="true" style="text-align: center">
 			<MoodIcon :mood="`normal`" /><br>            
             心相:<br>
             33~64<br>
             基礎效果
 		</td>
-		<td :unsortable="true">
+		<td :unsortable="true" style="text-align: center">
             <MoodIcon :mood="`high`" /><br>            
             心相:<br>
             65~100<br>
             額外效果
 		</td>
-		<td :unsortable="true">
+		<td :unsortable="true" style="text-align: center">
 			<MoodIcon :mood="`bad`" /><br>            
             心相:<br>
             0~32<br>
             額外效果
 		</td>
-        <td :unsortable="true">機率權重</td>
-		<td :unsortable="true">必要條件</td>
-        <td>備註</td>
+        <td :unsortable="true" style="text-align: center">機率權重</td>
+		<td :unsortable="true" style="text-align: center">必要條件</td>
+        <td :unsortable="true" style="text-align: center">備註</td>
 	</tr>
     <tr>
 		<td>唐門</td>
@@ -5980,7 +6032,7 @@ tags:
 		<td>-</td>
 	</tr>
                 
-</Table>
+</BTable>
 
 ## 備註
 - 心相65為綠臉，但有黃臉的額外加成。<br>
@@ -5997,33 +6049,3 @@ tags:
     6. 反之，若未寫接續該指令隨機事件，代表優先事件結束時消耗行動點，行動回合結束。<br>
 - 本條目參考[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)撰寫。<br>
 <br>
-<BTable
-	:stickyHeader="true"
-	:tags="[
-{
-text: '道德+',
-},
-{
-text: '道德-',
-},
-{
-text: '名聲+',
-},
-{
-text: '名聲-',
-},
-{
-text: '性情+',
-},
-{
-text: '性情-',
-},
-{
-text: '修養+',
-},
-{
-text: '修養-',
-},
-]"
->
-</Btable>
