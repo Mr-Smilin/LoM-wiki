@@ -15,7 +15,7 @@ tags:
 
 <Table>
 	<tr>
-		<td :unsortable="true" align="center">地點</td>
+		<td :unsortable="true" style="text-align: center">地點</td>
 		<td :unsortable="true">指令</td>
 		<td :unsortable="true">事件</td>
 		<td :unsortable="true">貢獻</td>
