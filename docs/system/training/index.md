@@ -15,7 +15,7 @@ tags:
 
 <Table>
 	<tr>
-		<td :unsortable="true">地點</td>
+		<td :unsortable="true" align="center">地點</td>
 		<td :unsortable="true">指令</td>
 		<td :unsortable="true">事件</td>
 		<td :unsortable="true">貢獻</td>
@@ -5904,7 +5904,7 @@ tags:
 		<td>-</td>
 		<td>-</td>
 		<td>
-            除下列「華音閣」隨機事件外，請見「錦香宮自由行動」<br>
+            除下列「華音閣」隨機事件外，請見<MarkdownWrapper>[「錦香宮自由行動」](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper><br>
         </td>
 		<td>-</td>
 		<td>-</td>
