@@ -4901,7 +4901,248 @@ tags:
             無🚩葉雲裳先回唐門<br>
         </td>
 		<td>🚩葉雲裳先回唐門:<br>目前無法觸發</td>
-	</tr>           
+	</tr> 
+    <tr>
+		<td>青城</td>
+		<td>常風觀<br>修練</td>
+		<td>正常修練</td>
+		<td>-</td>
+		<td>-20</td>
+		<td>
+            • 武學+5<br>
+            • 開啟修練介面<br>
+        </td>
+		<td>心相≥60:<br>武學+3</td>
+		<td>-</td>
+		<td>
+            基礎: 100<br>
+        </td>
+		<td>-</td>
+		<td>心相判定在扣心相之後</td>
+	</tr> 
+    <tr>
+		<td>青城</td>
+		<td>常風觀<br>修練</td>
+		<td>申屠龍切磋</td>
+		<td>-</td>
+		<td>-20</td>
+		<td>
+            • 武學+5<br>
+            <br>
+            全武學點數檢定:<br>
+            • 全武學≥100: 武學+4、申屠龍好感+1<br>
+            • 100＞全武學≥50: 武學+2<br>
+            • 全武學＜50: 申屠龍好感-1<br>
+            <br>
+            • 開啟修練介面<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            基礎: 50<br>
+        </td>
+		<td>申屠龍好感≥15</td>
+		<td>-</td>
+	</tr> 
+    <tr>
+		<td>青城</td>
+		<td>常風觀<br>散步</td>
+		<td>獨自烤魚</td>
+		<td>-</td>
+		<td>+20</td>
+		<td>
+            修養+1、處世±1、廚藝+1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            基礎: 50<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+	</tr> 
+    <tr>
+		<td>青城</td>
+		<td>常風觀<br>散步</td>
+		<td>雲裳烤魚</td>
+		<td>-</td>
+		<td>+30</td>
+		<td>
+            修養+1、廚藝+1、葉雲裳好感+1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            基礎: 30<br>
+        </td>
+		<td>
+            無🚩葉雲裳先回唐門<br>
+        </td>
+		<td>🚩葉雲裳先回唐門:<br>目前無法觸發</td>
+	</tr>
+    <tr>
+		<td>青城</td>
+		<td>常風觀<br>散步</td>
+		<td>吟嘯徐行</td>
+		<td>-</td>
+		<td>+30</td>
+		<td>
+            • 修養+1、處世+1<br>
+            • 🚩青城散步+1、🚩青城功勳-1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            基礎: 30<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+	</tr> 
+    <tr>
+		<td>青城</td>
+		<td>常風觀<br>散步</td>
+		<td>雲裳散步</td>
+		<td>-</td>
+		<td>+30</td>
+		<td>
+            葉雲裳好感+1，🚩青城散步+1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            基礎: 30<br>
+        </td>
+		<td>
+            • 🚩青城散步≥3<br>
+            • 無🚩葉雲裳先回唐門<br>
+        </td>
+		<td>🚩葉雲裳先回唐門:<br>目前無法觸發</td>
+	</tr>
+    <tr>
+		<td>青城</td>
+		<td>常風觀<br>散步</td>
+		<td>申屠龍散步</td>
+		<td>-</td>
+		<td>+30</td>
+		<td>
+            • 學問+1，申屠龍好感+1<br>
+            • 🚩青城散步+1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 基礎: 30<br>
+            • 有<MarkdownWrapper>[機率增加](/event/simple/2-09-3-申屠遇襲)</MarkdownWrapper>: +30<br>
+        </td>
+		<td>🚩青城散步≥3</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>青城</td>
+		<td>常風觀<br>散步</td>
+		<td>似有所悟</td>
+		<td>-</td>
+		<td>+40</td>
+		<td>
+            • 修養+2、處世+1<br>
+            • 🚩青城散步+1、🚩青城功勳-1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            基礎: 20<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+	</tr> 
+    <tr>
+		<td>青城</td>
+		<td>常風觀<br>散步</td>
+		<td>遭遇野豬</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            觸發 🆚戰野豬:<br>
+            <br>
+            敗: <MarkdownWrapper>[生死簿72:《被豬拱死》](/badends/badend-72)</MarkdownWrapper><br>
+            <br>
+            勝: 觸發選項:<br>
+            👉 賣掉: 銀兩+1000<br>
+            👉 一起吃: 處世+1、葉雲裳好感+1、申屠龍好感+1、青城派好感+1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            基礎: 30<br>
+        </td>
+		<td>🚩青城散步≥3</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>青城</td>
+		<td>常風觀<br>散步</td>
+		<td>妖孽受死</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            觸發 🆚戰路人俠:<br>
+            <br>
+            敗: 心相-40、名聲-2、🚩青城功勳-1<br>
+            <br>
+            勝: 武學+3，觸發選項:<br>
+            👉 縱放: 道德+1、處世+1、名聲-1<br>
+            👉 殺害: 修養-1、性情+1、貢獻度+15、青城派好感-2，道德檢定:<br>
+            • 道德≥80: 道德-2<br>
+            • 80＞道德≥60: 道德-1<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            基礎: 30<br>
+        </td>
+		<td>🚩青城散步≥3</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>青城</td>
+		<td>常風觀<br>散步</td>
+		<td>申屠遇襲</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            觸發<MarkdownWrapper>[申屠遇襲](/event/simple/2-09-3-申屠遇襲)</MarkdownWrapper>事件<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            基礎: 100<br>
+        </td>
+		<td>
+            • 最早第二年九月下旬<br>
+            • 一次性事件，不可重複觸發<br>
+        </td>
+		<td></td>
+	</tr> 
+    <tr>
+		<td>青城</td>
+		<td>常風觀<br>散步</td>
+		<td>道長地位</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            觸發<MarkdownWrapper>[道長地位](/event/simple/2-08-3-道長地位)</MarkdownWrapper>事件<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            基礎: 80<br>
+        </td>
+		<td>
+            • 申屠龍好感≥10<br>
+            • 一次性事件，不可重複觸發<br>
+        </td>
+		<td></td>
+	</tr> 
     <tr>
 		<td>雪山</td>
 		<td>閒聊<br>夏侯蘭</td>
