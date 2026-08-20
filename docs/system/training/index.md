@@ -4481,7 +4481,7 @@ tags:
 		<td>
             檢定「棋力」=學問x2+修養x2+<MarkdownWrapper>[戰術](/system/skill)</MarkdownWrapper>等級x44:<br>
             • 棋力＜250: 設置🚩棋力低<br>
-            • 棋力＜650: 設置🚩棋力中br>
+            • 棋力＜650: 設置🚩棋力中<br>
             • 棋力≧650: 設置🚩棋力高<br>
             <br>
             接續奪魄峰下棋隨機事件<br>
