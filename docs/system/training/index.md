@@ -4085,105 +4085,27 @@ tags:
     <tr>
 		<td>崆峒</td>
 		<td>奪魄森林<br>修練<br>優先</td>
-		<td>飛俠武功</td>
+		<td>一次性<br>優先事件集</td>
 		<td>-</td>
 		<td>-</td>
 		<td>
-            觸發<MarkdownWrapper>[飛俠武功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>事件<br>
+            以下為一次性優先事件及觸發條件:<br>
+            • <MarkdownWrapper>[飛俠武功](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>: 已觸發<MarkdownWrapper>[昔日同伴](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            • <MarkdownWrapper>[助你收心](/event/simple/2-04-1-助你收心)</MarkdownWrapper>: 已觸發<MarkdownWrapper>[何故覷探](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            • <MarkdownWrapper>[修繕樹屋](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>: 夏侯蘭好感≥20<br>
+            • <MarkdownWrapper>[鐵傘秘密](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>: 夏侯蘭好感≥20<br>
+            • <MarkdownWrapper>[蘭字由來](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>: 夏侯蘭好感≥15<br>
+            • <MarkdownWrapper>[雪山始末](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>: 夏侯蘭好感≥30，且🚩<MarkdownWrapper>[可聊雪山始末](/event/simple/2-04-1-練功分心)</MarkdownWrapper><br>
+            <br>
+            除「助你收心」外，事件結束後皆接續修練隨機事件<br>
         </td>
 		<td>-</td>
 		<td>-</td>
-		<td>基礎: 50</td>
+		<td>皆為<br>基礎: 50</td>
 		<td>
-            已觸發<MarkdownWrapper>[昔日同伴](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
+            <br>
         </td>
-		<td>一次性事件</td>
-	</tr>
-    <tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練<br>優先</td>
-		<td>練功分心</td>
-		<td>-</td>
-		<td>-</td>
-		<td>
-            觸發<MarkdownWrapper>[練功分心](/event/simple/2-04-1-練功分心)</MarkdownWrapper>事件<br>
-        </td>
-		<td>-</td>
-		<td>-</td>
-		<td>基礎: 50</td>
-		<td>
-            已觸發<MarkdownWrapper>[何故覷探](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
-        </td>
-		<td>一次性事件</td>
-	</tr>
-    <tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練<br>優先</td>
-		<td>修繕樹屋</td>
-		<td>-</td>
-		<td>-</td>
-		<td>
-            觸發<MarkdownWrapper>[修繕樹屋](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>事件<br>
-        </td>
-		<td>-</td>
-		<td>-</td>
-		<td>基礎: 50</td>
-		<td>
-            夏侯蘭好感≥20<br>
-        </td>
-		<td>一次性事件</td>
-	</tr>
-    <tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練<br>優先</td>
-		<td>鐵傘秘密</td>
-		<td>-</td>
-		<td>-</td>
-		<td>
-            觸發<MarkdownWrapper>[鐵傘秘密](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>事件<br>
-        </td>
-		<td>-</td>
-		<td>-</td>
-		<td>基礎: 50</td>
-		<td>
-            夏侯蘭好感≥20<br>
-        </td>
-		<td>一次性事件</td>
-	</tr>
-    <tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練<br>優先</td>
-		<td>蘭字由來</td>
-		<td>-</td>
-		<td>-</td>
-		<td>
-            觸發<MarkdownWrapper>[蘭字由來](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>事件<br>
-        </td>
-		<td>-</td>
-		<td>-</td>
-		<td>基礎: 50</td>
-		<td>
-            夏侯蘭好感≥15<br>
-        </td>
-		<td>一次性事件</td>
-	</tr>
-    <tr>
-		<td>崆峒</td>
-		<td>奪魄森林<br>修練<br>優先</td>
-		<td>雪山始末</td>
-		<td>-</td>
-		<td>-</td>
-		<td>
-            觸發<MarkdownWrapper>[雪山始末](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper>事件<br>
-        </td>
-		<td>-</td>
-		<td>-</td>
-		<td>基礎: 50</td>
-		<td>
-            • 🚩<MarkdownWrapper>[可聊雪山始末](/event/simple/2-04-1-練功分心)</MarkdownWrapper><br>
-            • 夏侯蘭好感≥30<br>
-        </td>
-		<td>一次性事件</td>
+		<td>因一次性事件性質相似<br>集合為同一項目</td>
 	</tr>
     <tr>
 		<td>崆峒</td>
@@ -4201,7 +4123,7 @@ tags:
             • 心相≤50: +10<br>
         </td>
 		<td>-</td>
-		<td>-</td>
+		<td>兩次後觸發<MarkdownWrapper>[何故覷探](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper></td>
 	</tr>
     <tr>
 		<td>崆峒</td>
@@ -4258,7 +4180,7 @@ tags:
             • 心相≤30: +20<br>
         </td>
 		<td>-</td>
-		<td>-</td>
+		<td>兩次後觸發<MarkdownWrapper>[昔日同伴](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper></td>
 	</tr>
     <tr>
 		<td>崆峒</td>
