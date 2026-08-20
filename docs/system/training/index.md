@@ -4078,7 +4078,7 @@ tags:
         </td>
 		<td>-</td>
 		<td>-</td>
-		<td>20</td>
+		<td>基礎: 20</td>
 		<td>-</td>
 		<td></td>
 	</tr>
@@ -4093,7 +4093,7 @@ tags:
         </td>
 		<td>-</td>
 		<td>-</td>
-		<td>50</td>
+		<td>基礎: 50</td>
 		<td>
             已觸發<MarkdownWrapper>[昔日同伴](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
         </td>
@@ -4110,7 +4110,7 @@ tags:
         </td>
 		<td>-</td>
 		<td>-</td>
-		<td>50</td>
+		<td>基礎: 50</td>
 		<td>
             已觸發<MarkdownWrapper>[何故覷探](/event/simple/2-04-1-奪魄森林事件集)</MarkdownWrapper><br>
         </td>
@@ -4127,7 +4127,7 @@ tags:
         </td>
 		<td>-</td>
 		<td>-</td>
-		<td>50</td>
+		<td>基礎: 50</td>
 		<td>
             夏侯蘭好感≥20<br>
         </td>
@@ -4144,7 +4144,7 @@ tags:
         </td>
 		<td>-</td>
 		<td>-</td>
-		<td>50</td>
+		<td>基礎: 50</td>
 		<td>
             夏侯蘭好感≥20<br>
         </td>
@@ -4161,7 +4161,7 @@ tags:
         </td>
 		<td>-</td>
 		<td>-</td>
-		<td>50</td>
+		<td>基礎: 50</td>
 		<td>
             夏侯蘭好感≥15<br>
         </td>
@@ -4178,7 +4178,7 @@ tags:
         </td>
 		<td>-</td>
 		<td>-</td>
-		<td>50</td>
+		<td>基礎: 50</td>
 		<td>
             • 🚩<MarkdownWrapper>[可聊雪山始末](/event/simple/2-04-1-練功分心)</MarkdownWrapper><br>
             • 夏侯蘭好感≥30<br>
