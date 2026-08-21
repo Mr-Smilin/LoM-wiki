@@ -9,11 +9,11 @@ tags:
 ---
 
 # {{ $frontmatter.title }}
-
-本表列出大部分的養成指令隨機事件，建議透過搜尋功能篩選，撰寫原則請見備註。<br>
 <br>
+本表列出大部分的養成指令隨機事件，建議透過搜尋功能篩選，撰寫原則請見備註。<br>
 
-## 事件及條件搜尋
+
+## 事件列表
 
 <BTable
 	:stickyHeader="true"
@@ -6029,17 +6029,17 @@ text: '葉雲裳好感+',
             <br>
             前途無量錦香弟子:<br>
             • 敗: 武學+2、心相-10、名聲+1、錦香宮好感+1，獲得稱號<MarkdownWrapper>[風度翩翩醜郎君](/people/title-list)</MarkdownWrapper>。若🚩和虞小梅結緣: 虞小梅好感-1<br>
-            • 勝: 武學+4、心相-20、🚩指導錦香弟子次數+1<br>
+            • 勝: 武學+4、心相-20<br>
             <br>
             老成持重錦香弟子:<br>
             • 敗: 武學+2<br>
-            • 勝: 武學+4、名聲+1、🚩指導錦香弟子次數+1<br>
+            • 勝: 武學+4、名聲+1<br>
         </td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
 		<td>-</td>
-		<td>🚩指導錦香弟子次數≥3:<br>郁竹或虞小梅<MarkdownWrapper>[妒忌事件](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper>之前置條件</td>
+		<td>獲勝3次以上為<br>郁竹或虞小梅<MarkdownWrapper>[妒忌事件](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper>之前置條件</td>
 	</tr>
                 
 </BTable>
