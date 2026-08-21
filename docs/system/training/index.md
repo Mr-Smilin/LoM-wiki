@@ -5940,7 +5940,7 @@ text: '葉雲裳好感+',
 		<td>-</td>
 		<td>-</td>
 		<td>
-            除下列華音閣、武英殿事件外，其餘請見<MarkdownWrapper>[「錦香宮自由行動」](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper><br>
+            除下列華音閣事件外，其餘請見<MarkdownWrapper>[「錦香宮自由行動」](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper><br>
         </td>
 		<td>-</td>
 		<td>-</td>
@@ -6014,32 +6014,6 @@ text: '葉雲裳好感+',
 		<td>基礎: 30</td>
 		<td>🚩小師妹同行武林大會</td>
 		<td>-</td>
-	</tr>
-    <tr>
-		<td>錦香宮</td>
-		<td>武英殿</td>
-		<td>修練</td>
-		<td>-</td>
-		<td>-</td>
-		<td>
-            若首次進入，觸發介紹劇情: 性情≤40，對話差分。<br>
-            <br>
-            對決對象，觸發🎲天命(上限99):<br>
-            • 【＜60 前途無量】、【≥60 老成持重】<br>
-            <br>
-            前途無量錦香弟子:<br>
-            • 敗: 武學+2、心相-10、名聲+1、錦香宮好感+1，獲得稱號<MarkdownWrapper>[風度翩翩醜郎君](/people/title-list)</MarkdownWrapper>。若🚩和虞小梅結緣: 虞小梅好感-1<br>
-            • 勝: 武學+4、心相-20<br>
-            <br>
-            老成持重錦香弟子:<br>
-            • 敗: 武學+2<br>
-            • 勝: 武學+4、名聲+1<br>
-        </td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>獲勝3次以上為<br>郁竹或虞小梅<MarkdownWrapper>[妒忌事件](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper>之前置條件</td>
 	</tr>
                 
 </BTable>
