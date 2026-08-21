@@ -3620,7 +3620,7 @@ text: '葉雲裳好感+',
 		<td>-</td>
 		<td>+20</td>
 		<td>
-            觸發<MarkdownWrapper>[「窩居衝突」](/event/simple/2-04-1-窩居衝突)</MarkdownWrapper>事件<br>
+            觸發<MarkdownWrapper>[「窩居衝突」](/event/simple/2-03-1-窩居衝突)</MarkdownWrapper>事件<br>
         </td>
 		<td>-</td>
 		<td>-</td>
