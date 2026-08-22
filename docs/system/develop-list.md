@@ -2743,7 +2743,7 @@ tags:
   </tr>
   <tr>
     <td style="text-align: center">戰役-陷阱傷害</td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">20</td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
@@ -2849,7 +2849,7 @@ tags:
   </tr>
   <tr>
     <td style="text-align: center">戰役-陷阱傷害</td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">30</td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
@@ -2925,17 +2925,17 @@ tags:
         <li>門派規模2<br></li>
     </td>
     <td style="text-align: center">決鬥-暗器傷害</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">4</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">12</td>
+    <td style="text-align: center">16</td>
+    <td style="text-align: center">20</td>
+    <td style="text-align: center">24</td>
+    <td style="text-align: center">28</td>
+    <td style="text-align: center">32</td>
+    <td style="text-align: center">36</td>
+    <td style="text-align: center">40</td>
     <td rowspan=6>
         <li>
             🚩<MarkdownWrapper>[破廟線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<MarkdownWrapper>[唐門迎敵](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper><br>
@@ -2948,73 +2948,73 @@ tags:
   </tr>
   <tr>
     <td style="text-align: center">戰役-陷阱傷害</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">9</td>
+    <td style="text-align: center">12</td>
+    <td style="text-align: center">16</td>
+    <td style="text-align: center">19</td>
+    <td style="text-align: center">23</td>
+    <td style="text-align: center">26</td>
+    <td style="text-align: center">30</td>
+    <td style="text-align: center">33</td>
+    <td style="text-align: center">37</td>
+    <td style="text-align: center">40</td>
   </tr>
   <tr>
     <td style="text-align: center">單級鍛造</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">6</td>
+    <td style="text-align: center">7</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">9</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
   </tr>
   <tr>
     <td style="text-align: center">累積鍛造</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">16</td>
+    <td style="text-align: center">23</td>
+    <td style="text-align: center">31</td>
+    <td style="text-align: center">40</td>
+    <td style="text-align: center">50</td>
+    <td style="text-align: center">60</td>
+    <td style="text-align: center">70</td>
+    <td style="text-align: center">80</td>
   </tr>
   <tr>
     <td style="text-align: center">單級銀兩</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">360</td>
+    <td style="text-align: center">420</td>
+    <td style="text-align: center">480</td>
+    <td style="text-align: center">540</td>
+    <td style="text-align: center">600</td>
+    <td style="text-align: center">600</td>
+    <td style="text-align: center">600</td>
+    <td style="text-align: center">600</td>
   </tr>
   <tr>
     <td style="text-align: center">累積銀兩</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">600</td>
+    <td style="text-align: center">960</td>
+    <td style="text-align: center">1380</td>
+    <td style="text-align: center">1920</td>
+    <td style="text-align: center">2520</td>
+    <td style="text-align: center">3120</td>
+    <td style="text-align: center">3720</td>
+    <td style="text-align: center">4320</td>
+    <td style="text-align: center">4920</td>
   </tr>
 
 </table>
@@ -3772,6 +3772,6 @@ tags:
 
 ## 備註
 • 取消開發項目時，退回已投資的鍛造/煉丹點數90%、銀兩90%。<br>
-• 項目一旦解鎖後，若取消轉為開發其他項目，並再回頭開發同項目時，不需要再滿足解鎖條件。<br>
+• 項目解鎖後，若取消並再回頭開發時，不需再滿足解鎖條件的等級。但項目需正確，如護心鏡仍需唐門制服處於開發中。<br>
 • 已獲得的項目才能解鎖，若未獲得，即便滿足開發條件，也不會在未來獲得時直接解鎖。<br>
 • 本條目資料參考[活俠傳資料彙總](https://docs.google.com/spreadsheets/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o)撰寫。<br>
