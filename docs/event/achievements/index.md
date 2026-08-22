@@ -100,7 +100,6 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`06`">一心一意</AchievementIcon></td>
         <td>你挨過需要藉口的年紀，認定了心上人，就至死不渝。</td>
         <td>變心做夢時，都選擇同一個人。<br>
-            且儘可能迴避掉所有能加好感度的女角事件。
         </td>
         <td></td>
         <td>~~切記不要手滑點錯選項。~~</td>
