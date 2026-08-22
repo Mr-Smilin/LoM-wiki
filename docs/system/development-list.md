@@ -21,7 +21,7 @@ tags:
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">開發條件</th>
-    <th style="text-align: center">素質名稱\等級</th>
+    <th style="text-align: center">素質\等級</th>
     <th style="text-align: center">0</th>
     <th style="text-align: center">1</th>
     <th style="text-align: center">2</th>
@@ -295,7 +295,7 @@ tags:
     <td style="text-align: center">27</td>
     <td style="text-align: center">30</td>
     <td rowspan=8>
-        1. 🚩<MarkdownWrapper>[破廟線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，未🚩<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>，<MarkdownWrapper>[唐門戰後](/event/simple/2-08-2-唐門戰後)</MarkdownWrapper>中獲得。<br>
+        <li>🚩<MarkdownWrapper>[破廟線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<br>未🚩<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>，<MarkdownWrapper>[唐門戰後](/event/simple/2-08-2-唐門戰後)</MarkdownWrapper>中獲得。<br></li>
         2. 🚩<MarkdownWrapper>[客棧線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<MarkdownWrapper>[回歸唐門](/event/simple/2-10-1-回歸唐門)</MarkdownWrapper>中獲得。<br>
         3. <MarkdownWrapper>[雲裳線](/event/pursuit/girl2)</MarkdownWrapper>，<MarkdownWrapper>[谷底生活](/event/simple/3-05-1-谷底生活)</MarkdownWrapper>時🎲【兵器殘骸】獲得。<br>
     </td>
@@ -851,7 +851,7 @@ tags:
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">開發條件</th>
-    <th style="text-align: center">素質名稱\等級</th>
+    <th style="text-align: center">素質\等級</th>
     <th style="text-align: center">0</th>
     <th style="text-align: center">1</th>
     <th style="text-align: center">2</th>
@@ -1493,7 +1493,7 @@ tags:
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">開發條件</th>
-    <th style="text-align: center">素質名稱\等級</th>
+    <th style="text-align: center">素質\等級</th>
     <th style="text-align: center">0</th>
     <th style="text-align: center">1</th>
     <th style="text-align: center">2</th>
@@ -2069,7 +2069,7 @@ tags:
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">開發條件</th>
-    <th style="text-align: center">素質名稱\等級</th>
+    <th style="text-align: center">素質\等級</th>
     <th style="text-align: center">0</th>
     <th style="text-align: center">1</th>
     <th style="text-align: center">2</th>
@@ -2631,7 +2631,7 @@ tags:
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">開發條件</th>
-    <th style="text-align: center">素質名稱\等級</th>
+    <th style="text-align: center">素質\等級</th>
     <th style="text-align: center">0</th>
     <th style="text-align: center">1</th>
     <th style="text-align: center">2</th>
@@ -2936,7 +2936,7 @@ tags:
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">開發條件</th>
-    <th style="text-align: center">素質名稱\等級</th>
+    <th style="text-align: center">素質\等級</th>
     <th style="text-align: center">0</th>
     <th style="text-align: center">1</th>
     <th style="text-align: center">2</th>
