@@ -3707,8 +3707,8 @@ tags:
   </tr>
   <tr>
     <td style="text-align: center">睡丹<br><img src="/public/images/items/medis/icon_medi_05.webp" style="width:100px"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">25</td>
+    <td style="text-align: center">500</td>
     <td style="text-align: center"></td>
     <td style="text-align: center">
         體力+5<br>
@@ -3718,7 +3718,8 @@ tags:
     </td>
     <td>
         <li>
-            🚩<MarkdownWrapper>[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>時，天命擲骰到<br>
+            🚩<MarkdownWrapper>[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>時，<br>
+            選擇難辦的要求，並天命擲骰到<br>
             【🎲≧70 好啦，土特產就土特產】，再<br>
             選「聽說華山有神仙，而神仙有靈丹」<br>
             <MarkdownWrapper>門人辭別</MarkdownWrapper>後，在男弟子房閒聊<br>
@@ -3734,7 +3735,13 @@ tags:
     <td style="text-align: center">萬靈油</td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">
+        體力+1<br>
+        內力+1<br>
+        抗毒+1<br>
+        抗麻+1<br>
+        心相 +50<br>
+    </td>
     <td style="text-align: center"></td>
     <td>
         <li>
