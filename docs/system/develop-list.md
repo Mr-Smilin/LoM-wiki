@@ -3727,9 +3727,9 @@ tags:
     <td>
         <li>
             🚩<MarkdownWrapper>[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>時，選擇<br>
-            難辦的要求，並天命擲骰到<br>
-            【🎲≧70 好啦，土特產就土特產】，再<br>
-            選「聽說華山有神仙，而神仙有靈丹」。<br>
+            難辦的要求，並天命擲骰<br>
+            【🎲≧70 土特產】，<br>
+            再選「神仙有靈丹」。<br>
             <MarkdownWrapper>門人辭別</MarkdownWrapper>後，在男弟子房閒聊<br>
             「以前托你打聽的事」獲得。<br>
         </li>
