@@ -1315,8 +1315,8 @@ tags:
     <td style="text-align: center">70</td>
     <td rowspan=7>
         <li>
-            🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper>，<MarkdownWrapper>[雪山之約](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>時<br>
-            ，由夏侯蘭出戰第三香，且後續擲<br>
+            🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper>，<MarkdownWrapper>[雪山之約](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>時，<br>
+            由夏侯蘭出戰第三香，且後續擲<br>
             骰【🎲＜70 無情殺害】。<br>
         </li>
         <li>
@@ -1846,8 +1846,8 @@ tags:
     <td rowspan=11>
         <li>初始</li>
         <li>
-            🚩<MarkdownWrapper>[大師兄負傷](/event/simple/3-01-1-大師兄負傷)</MarkdownWrapper>時<br>
-            使大師兄痊癒，<br>
+            🚩<MarkdownWrapper>[大師兄負傷](/event/simple/3-01-1-大師兄負傷)</MarkdownWrapper>時使<br>
+            大師兄痊癒，臥雲崗<br>
             <MarkdownWrapper>[回程客棧](/event/simple/3-01-3-圍觀臥雲崗)</MarkdownWrapper>時，閒聊<br>
             「金剛神槍指」獲得。<br>
         </li>
