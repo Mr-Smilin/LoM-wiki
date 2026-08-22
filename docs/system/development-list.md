@@ -543,7 +543,7 @@ tags:
     <td style="text-align: center">32</td>
     <td style="text-align: center">36</td>
     <td style="text-align: center">40</td>
-    <td rowspan=7 style="text-align: center">
+    <td rowspan=7>
         1. 🚩<MarkdownWrapper>[無可救藥線](/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>，月會選擇投靠魔教、不是空穴來風、我認識劉顎。夢醒後消失。<br>
     </td>
     <td rowspan=7 style="text-align: center"></td>
@@ -648,7 +648,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=7 style="text-align: center">
+    <td rowspan=7>
         虞小梅結緣相關，v1.0.500.13尚未解鎖。
     </td>
     <td rowspan=7 style="text-align: center"></td>
@@ -753,7 +753,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center">15</td>
-    <td rowspan=7 style="text-align: center">
+    <td rowspan=7>
         <MarkdownWrapper>[青城醒轉](/event/simple/2-08-3-青城醒轉)</MarkdownWrapper>時道德＜40、翻箱倒櫃、🎲【錢?】獲得。
     </td>
     <td rowspan=7 style="text-align: center"></td>
