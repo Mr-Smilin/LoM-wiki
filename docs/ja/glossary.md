@@ -37,13 +37,13 @@ title: 用語対訳表
 | 上官螢 | ジョウカンケイ ★ | シャングァンイン | Shangguan Ying | |
 | 唐默鈴 | トウモクリン ★ | タンモーリン | Tang Mo Ling | 小師妹 (ショウシマイ ★ / Junior Sister) と呼ばれる |
 | 唐布衣 | トウフイ ★ | タンブーイー | Tang Bu Yi | 大師兄。異名「飛俠」(Flying Knight) |
-| 唐錚 | トウソウ ★ | タンジェン | Tang Zheng | 二師兄 |
-| 唐陞 | トウショウ ★ | タンシェン | Tang Sheng | 三師兄 |
+| 唐錚 | トウソウ ★ | タンジョン | Tang Zheng | 二師兄 |
+| 唐陞 | トウショウ ★ | タンション | Tang Sheng | 三師兄 |
 | 唐惟元 | トウイゲン ★ | タンウェイユエン | Tang Wei Yuan | 四師兄 |
 | 唐中翎 | トウチュウレイ ★ | タンジョンリン | Tang Zhong Ling | 師匠 |
 | 唐嬌嬌 | トウジョジョ ★ | タンジャオジャオ | Tang Jiao Jiao | MOD読みは半ピンイン風(嬌嬌=ジョジョ) |
 | 雷謙 | ライケン ★ | レイチエン | Lei Qian | |
-| 成吉思汗 | チンギス・カン ★ | チェンジースーハン | Genghis Khan | 慣用は「ハン」だが MOD 表記は「カン」 |
+| 成吉思汗 | チンギス・カン ★ | | Genghis Khan | 慣用は「ハン」だが MOD 表記は「カン」。モンゴル語由来の人名のためピンイン表記は割愛 |
 | 画中仙 (原文: 畫中仙) | | | | 「畫」は新字体化の例外対象(2026-07-24訂正)。読み未確認 |
 
 その他の全人物 (約115名) も同様に**原文表記のまま**使用します。
@@ -140,6 +140,10 @@ title: 用語対訳表
 | 收束 (擲骰範囲選択) | 収束 | Convergence | ★MOD (System/DiceRange)。天命擲骰の判定範囲を選べるシステム名 |
 | 投降 | 降参 | Surrender | |
 | 外姓弟子 | 外弟子 | External Disciple | 唐姓以外の門下弟子。内門武功の修習は許されない |
+| 廚藝 | 料理 | Cooking | ★MOD (Position/title/cook)。養成コマンド表の料理スキル (伙房の炊事等で上昇) |
+| 醫術 | 医術 | Medicine | ★MOD (PlayerTalent/Name/2101) |
+| 兵器毀損 (状態) | 兵器損壊 | | ★MOD (PlayerTalent/Name/9110)。東西武林盟会戦で付く状態。鍛冶場の鍛冶で解除 |
+| 代掌門 | 代掌門 | Acting Sect Leader | ★MOD (会話文「代掌門を務めるこの私」)。「掌門代理」としない |
 
 ## 施設
 
@@ -148,6 +152,7 @@ title: 用語対訳表
 | 溫泉 | 温泉 | Hot Spring | |
 | 藥舖 | 薬屋 | Apothecary | ★MOD。自由行動メニュー・場所名・対話とも薬屋 (薬舗は3件のみ) |
 | 茶肆 | 茶屋 (茶肆) | Tea House | |
+| 鬧市 | 市場 | Market | 外出コマンドの行き先「鬧市逛街」=「市場で街歩き」 |
 | 義田 | 義田 | Charitable Farm | ★MOD。自由行動メニューと対話は義田、Facility/Name のみ共有田 |
 | 外堡 | 外堡 | Outer Fort | ★MOD |
 | 行商 | 行商 | Merchant Trading | |

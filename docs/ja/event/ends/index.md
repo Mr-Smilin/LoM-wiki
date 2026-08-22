@@ -148,6 +148,7 @@ tags:
 <EndIcon no="8">煮られた犬</EndIcon>
 </td>
 <td>
+<span style="color: Gray;">【唐門離脱】</span><br>
 広州の唐門が唐門を襲撃する際、唐門を裏切ることを選ぶ。
 </td>
 </tr>
@@ -253,6 +254,7 @@ tags:
 <EndIcon no="16">猿鶴虫沙</EndIcon>
 </td>
 <td>
+<span style="color: #AA0000;">【戦死】</span><br>
 唐默鈴の比武招親、金烏上人襲来の夜。無作法に集団リンチされ、敗北して武林の笑いものになり、唐門閉鎖後は無派の身となり、護国戦場で戦死。
 </td>
 </tr>
@@ -453,6 +455,9 @@ tags:
 <EndIcon no="31">伝説の人</EndIcon>
 </td>
 <td>
+<span style="color: #006F86;">【唐門解散】</span>
+<span style="color: #00BFFF;">【夏侯蘭】</span>
+<span style="color: #FF1493;">【結縁】</span><br>
 夏侯蘭と結縁する高道徳の唐門解散エンディング。
 </td>
 </tr>

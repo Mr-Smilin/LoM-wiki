@@ -54,7 +54,7 @@ tags:
     <br>• 🗡️峨嵋弟子との決闘3戦目(勝敗問わず)の後、📖「師礼で拝謝」を選択。</td>
 <td>• この条件を満たすと<Girl5Icon>夏侯蘭</Girl5Icon>に師事することになり、奪魄森林での修練が解禁される。これが好感度を稼ぐ主な手段。
     <br>• 留学が終わるまでにできるだけ夏侯蘭好感≧40に到達しておく。
-    <br>• 修練の派生イベントで<MarkdownWrapper>[樊嘯天が夏侯蘭に師事する](/ja/event/simple/2-04-1-練功分心)</MarkdownWrapper>を選ぶと、以降の一部展開と結末演出に影響するため、初めて夏侯蘭ルートを進める場合は樊を弟子入りさせないことを推奨。
+    <br>• 修練の派生イベントで<MarkdownWrapper>[心を集中させるのを手伝う](/ja/event/simple/2-04-1-助你收心)</MarkdownWrapper>で樊嘯天が夏侯蘭に師事する展開を選ぶと、以降の一部展開と結末演出に影響するため、初めて夏侯蘭ルートを進める場合は樊を弟子入りさせないことを推奨。
     <br>• 5月下旬の<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>は結縁必要条件ではないが、三戦全勝かつ樊嘯天が弟子入りしていなければ道具<MarkdownWrapper>[【崆峒磨喝楽】](/ja/system/items)</MarkdownWrapper>(展開の記念品、効果なし)を入手できる。また第三戦で瑞笙に敗北するのは、後に<MarkdownWrapper>[雪山飛鴻爪](/ja/system/books/book_6009)</MarkdownWrapper>を入手するための必要条件。</td>
 </tr>
 
@@ -134,7 +134,7 @@ tags:
 <td>3年目12月中旬、残り行動回数2</td>
 <td><MarkdownWrapper>[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>を訪ねられる。
-    <br>• <MarkdownWrapper>[樊嘯天が夏侯蘭に師事する](/ja/event/simple/2-04-1-練功分心)</MarkdownWrapper>かつこの時点で唐門にいる場合、会話が分岐する。
+    <br>• <MarkdownWrapper>[心を集中させるのを手伝う](/ja/event/simple/2-04-1-助你收心)</MarkdownWrapper>で樊嘯天が夏侯蘭に師事しており、かつこの時点で唐門にいる場合、会話が分岐する。
     <br>• 唐門解散を決断した場合、修練場と男弟子房の展開が分岐する。
     <br>• 唐門解散を決断した場合、<MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が夏侯蘭と共に雪山へ登るバージョンに変わるほか、道徳≧60なら<MarkdownWrapper>[汗青書31：伝説の人](/ja/event/ends/end-31)</MarkdownWrapper>に進める。</td>
 <td></td>
@@ -156,7 +156,7 @@ tags:
     <br>• または4年目2月中旬残り2回の行動(西武林盟成立失敗により徹底抗戦)</td>
 <td><MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper></td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>の助言に従い唐門を離れると、<MarkdownWrapper>[汗青書34：生ける屍](/ja/event/ends/end-34)</MarkdownWrapper>に進む。
-    <br>• 夏侯蘭の助言に従わず、かつ<MarkdownWrapper>[樊嘯天が夏侯蘭に師事する](/ja/event/simple/2-04-1-練功分心)</MarkdownWrapper>場合、夏侯蘭は参戦しない(結末には影響しない)。
+    <br>• 夏侯蘭の助言に従わず、かつ<MarkdownWrapper>[心を集中させるのを手伝う](/ja/event/simple/2-04-1-助你收心)</MarkdownWrapper>で樊嘯天が夏侯蘭に師事している場合、夏侯蘭は参戦しない(結末には影響しない)。
     <br>• 夏侯蘭の助言に従わず、かつ樊嘯天が師事していない場合、夏侯蘭は最終決戦に参加する。
     <br>• 最終決戦勝利後、<MarkdownWrapper>[汗青書43：寵を失う](/ja/event/ends/end-43)</MarkdownWrapper>に進む。</td>
 <td>• 夏侯蘭の最終決戦での支援スキルは、雪山行で<MarkdownWrapper>[雪山飛鴻爪](/ja/system/books/book_6009)</MarkdownWrapper>と<MarkdownWrapper>[奪魄幽霊爪](/ja/system/books/book_6007)</MarkdownWrapper>のどちらを入手したかによって決まる(必要条件3の備考を参照)。

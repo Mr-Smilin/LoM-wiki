@@ -20,13 +20,15 @@ This list page contains serious spoilers. If you care about your gaming experien
     { text: '【Long Xiang】' },
     { text: '【Fate】' },
     { text: '【Fate?】' },
+    { text: '【Ruined Temple Route】' },
+    { text: '【Qingcheng Study Abroad】' },
     { text: '【Xiaomei Kidnapping】' },
     { text: '【Accompanying Fourth Senior Brother on Business】' },
     { text: '【Leaving Tang Sect】' },
     { text: '【Died in Battle】' },
     { text: '【Disbanding Tang Sect】' },
-    { text: '【Tang Sect Annihilation】' },
-    { text: '【Western Wulin Alliance】' }
+    { text: '【Tangmen Destruction】' },
+    { text: '【Western Martial Arts Alliance】' }
     ]">
 
 <tr>
@@ -357,6 +359,7 @@ Ending 21
 <td>
 <!-- Ending Summary -->
 <span style="color: Gray;">【Leaving Tang Sect】</span><br>
+<span style="color: #FF1493;">【Ruined Temple Route】</span><br>
 Not studying, leaving the Tang Sect in anger, sending the junior sister (or including Ye Yunshang) back to the Tang Sect, still choosing to leave the Tang Sect forever and retire from the world.
 </td>
 </tr>
@@ -485,11 +488,196 @@ Ending 29
 </td>
 <td style="color: #a83232;">
 <!-- Ending Name -->
-Re
+Pang Tong Reborn
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: red;">【Cannot be achieved in the current version】</span><br>
+<span style="color: #006F86;">【Disbanding Tang Sect】</span>
+<span style="color: #70AA39;">【Yu Zhu】</span>
+<span style="color: #FF1493;">【Fate】</span><br>
+A high moral ending of disbanding the Tang Sect with a bond with Yu Zhu.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.30">
+<!-- Ending Number -->
+Ending 30
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+Mountain Recluse
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: red;">【Cannot be achieved in the current version】</span><br>
+<span style="color: #006F86;">【Disbanding Tang Sect】</span>
+<span style="color: Gold;">【Wei Ju】</span>
+<span style="color: #FF1493;">【Fate】</span><br>
+An ending of disbanding the Tang Sect with a bond with Wei Ju.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.31">
+<!-- Ending Number -->
+Ending 31
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+<EndIcon no="31">Legendary Figure</EndIcon>
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: #006F86;">【Disbanding Tang Sect】</span>
+<span style="color: #00BFFF;">【Xiahou Lan】</span>
+<span style="color: #FF1493;">【Fate】</span><br>
+A high moral ending of disbanding the Tang Sect with a bond with Xiahou Lan.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.32">
+<!-- Ending Number -->
+Ending 32
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+<EndIcon no="32">Die for Belief</EndIcon>
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: #AA0000;">【Died in Battle】</span><br>
+Died in battle to uphold one's own will.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.33">
+<!-- Ending Number -->
+Ending 33
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+<EndIcon no="33">Total Annihilation</EndIcon>
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: Yellow;">【Western Martial Arts Alliance】</span><br>
+During the war between the Eastern and Western Martial Arts Alliances, wiped out while defending the outer stronghold.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.34">
+<!-- Ending Number -->
+Ending 34
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+<EndIcon no="34">The Walking Dead</EndIcon>
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: #00BFFF;">【Xiahou Lan】</span>
+<span style="color: #FF1493;">【Fate】</span><br>
+During the crisis of Tangmen's destruction, followed Xiahou Lan's order and fled Tangmen.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.35">
+<!-- Ending Number -->
+Ending 35
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+<EndIcon no="35">Generously Sacrifice</EndIcon>
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: #AA0000;">【Died in Battle】</span><br>
+Died in battle defending Tangmen's main compound.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.36">
+<!-- Ending Number -->
+Ending 36
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+<EndIcon no="36">Tang Sect's Hidden Weapons</EndIcon>
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: #DC0000;">【Tangmen Destruction】</span><br>
+During Tangmen's destruction, broke through the siege to reach the martial arts alliance leader, but lost to them.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.37">
+<!-- Ending Number -->
+Ending 37
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+<EndIcon no="37">Passing on the Torch of Tang Sect</EndIcon>
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: #DC0000;">【Tangmen Destruction】</span>
+<span style="color: #E34234;">【Tang Moling】</span>
+<span style="color: #FF1493;">【Fate】</span><br>
+After becoming engaged to Tang Moling, during Tangmen's destruction, broke through the siege to reach the martial arts alliance leader and defeated them, becoming a survivor of Tangmen.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.38">
+<!-- Ending Number -->
+Ending 38
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+Wanderer of the Divine Land
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: #DC0000;">【Tangmen Destruction】</span>
+<span style="color: #B0DCD5;">【Ye Yunshang】</span>
+<span style="color: #FF1493;">【Fate】</span><br>
+Bonded with Ye Yunshang, during Tangmen's destruction, broke through the siege to reach the martial arts alliance leader and defeated them, becoming a survivor of Tangmen.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.39">
+<!-- Ending Number -->
+Ending 39
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+Regional Tycoon
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: red;">【Currently Unachievable】</span><br>
+<span style="color: #DC0000;">【Tangmen Destruction】</span>
+<span style="color: MediumOrchid;">【Shangguan Ying】</span>
+<span style="color: #FF1493;">【Fate】</span><br>
+Bonded with Shangguan Ying, during Tangmen's destruction, broke through the siege to reach the martial arts alliance leader and defeated them, becoming a survivor of Tangmen.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.40">
+<!-- Ending Number -->
+Ending 40
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+Xiaomei's Little Secret
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: red;">【Currently Unachievable】</span><br>
+<span style="color: #DC0000;">【Tangmen Destruction】</span>
 <span style="color: #FF2D51;">【Yu Xiaomei】</span>
 <span style="color: #FF1493;">【Fate】</span><br>
-Fate with Yu Xiaomei, during the Tangmen massacre, escaped from the mountain and defeated the leader of the martial arts alliance to become a survivor of Tangmen.
-
+Bonded with Yu Xiaomei, during Tangmen's destruction, broke through the siege to reach the martial arts alliance leader and defeated them, becoming a survivor of Tangmen.
 </td>
 </tr>
 <tr>
@@ -660,6 +848,67 @@ Ending 50
 <span style="color: #FF1493;">【Fate?】</span><br>
 Defeated and married Tang Jiaojiao who came to study at Tangmen, and joined the Emei sect after marriage.
 
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.51">
+<!-- Ending Number -->
+Ending 51
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+<EndIcon no="51">Pathetic Death</EndIcon>
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: #FF1493;">【Ruined Temple Route】</span><br>
+Unable to beat Tang Dajing, you are covered by the second senior brother; you lose again, and he is utterly disappointed in you.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.52">
+<!-- Ending Number -->
+Ending 52
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+<EndIcon no="52">Living in Disgrace</EndIcon>
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: #FF1493;">【Ruined Temple Route】</span><br>
+Fail to defend Tangmen, sneak away, get caught by bandits, and are brutally tortured.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.53">
+<!-- Ending Number -->
+Ending 53
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+<EndIcon no="53">Self-Made Prison</EndIcon>
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: #bfdcb0;">【Qingcheng Study Abroad】</span>
+<span style="color: #B0DCD5;">【Ye Yunshang】</span><br>
+A hidden bad ending at the start of the Qingcheng study-abroad arc, with Morality above the villain threshold, defeating Shen Tulong.
+</td>
+</tr>
+<tr>
+<td id="History-Book-No.54">
+<!-- Ending Number -->
+Ending 54
+</td>
+<td style="color: #a83232;">
+<!-- Ending Name -->
+<EndIcon no="54">With You</EndIcon>
+</td>
+<td>
+<!-- Ending Summary -->
+<span style="color: #B0DCD5;">【Ye Yunshang】</span><br>
+Lose any single battle of the consecutive illusion-realm fights in the "Nine Revolutions Healing" sub-event of "Bonding with Yunshang".
 </td>
 </tr>
 </BTable>

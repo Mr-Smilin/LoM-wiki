@@ -20,7 +20,7 @@ tags:
 
 ## ネタバレ防止：唐嬌嬌がお出迎え
 
-<img height="300" width="300" src="/images/characters/big_trainee_girl_1/jojo.webp">
+<p align="center"><img height="300" width="300" src="/images/characters/big_trainee_girl_1/jojo.webp"></p>
 
 <div class="table-content">
 

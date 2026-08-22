@@ -156,7 +156,7 @@ tags:
 
 <tr>
 <td>2</td>
-<td>3年目8月下旬</td>
+<td>3年目8月中旬</td>
 <td><MarkdownWrapper>[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper></td>
 <td>• 大門に行くと葉雲舟を武林大会に同行するよう誘える。
     <br>• <Girl2Icon>葉雲裳</Girl2Icon>を同行させたい場合は、📖「彼女のために口添えする」を選ぶ必要がある。

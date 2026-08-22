@@ -260,6 +260,7 @@ borderless: false
 ### 身体健康
 
 -   身長174。南宋では巨人に等しい。[^3]しかし既に成長期は過ぎ、もう背は伸びない。[^8]
+-   宋代の人骨発掘調査でも女性の平均身長は156cm前後とされており、174cmは当時としてかなりの高身長にあたる。[^27]
 -   尻は中程度の大きさ。[^10]
 -   薬を好まず、必要時は我慢するが、滅多に病気しない。[^12]
 -   万霊丹を服用した後、[上官隼](/ja/people/characters/special407)と同じく百毒不侵。[^12]
@@ -410,3 +411,4 @@ borderless: false
 [^24]: Facebook－[原始鳥熊2025/8/5](https://www.facebook.com/share/v/15t9qW9isi/)
 [^25]: PTT C 洽－[\[活俠\] 奇怪的小知識](https://www.ptt.cc/bbs/C_Chat/M.1734956470.A.C8A.html)
 [^26]: 遊戯角落－[専訪原始鳥熊（3）假趙活是真的—你我身辺可能都有一個晁和](https://game.udn.com/game/story/122090/8118486)
+[^27]: 人類学学報－[郑州地区汉唐宋成年居民的身高研究](https://www.anthropol.ac.cn/CN/abstract/abstract1746.shtml)
