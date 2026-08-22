@@ -38,7 +38,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=8 style="text-align: center">唐門小劍</td>
+    <td rowspan=8 style="text-align: center"><img src="/LoM-wiki/images/items/swords/icon_sword_01.webp" style="width:100px"><br>唐門小劍</td>
     <td rowspan=8 style="text-align: center">無</td>
     <td style="text-align: center">決鬥-捅人傷害</td>
     <td style="text-align: center">-</td>
