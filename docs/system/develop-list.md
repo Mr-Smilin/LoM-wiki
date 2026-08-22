@@ -12,7 +12,7 @@ tags:
 ---
 
 # {{ $frontmatter.title }}
-開發路線請見[鍛冶場、煉丹房開發路線圖](/system/forge-roadmap)。<br>
+- 開發路線請見[鍛冶場、煉丹房開發路線圖](/system/forge-roadmap)。<br>
 
 ## 鍛冶場-裝備-武器
 <table>
