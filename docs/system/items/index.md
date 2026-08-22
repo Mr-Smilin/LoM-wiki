@@ -15,8 +15,6 @@ tags:
 
 # 道具列表
 
-資料來源：https://docs.google.com/spreadsheets/u/0/?authuser=0&usp=sheets_web
-
 <table>
     <tr>
         <td>名稱</td>
@@ -294,3 +292,7 @@ tags:
         <td></td>
     </tr>
 </table>
+
+## 備註
+- 煉丹房靈丹效果請見[開發項目列表](/system/develop-list#煉丹房-靈丹)。
+- 資料來源：https://docs.google.com/spreadsheets/u/0/?authuser=0&usp=sheets_web
