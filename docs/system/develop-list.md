@@ -886,7 +886,7 @@ tags:
     <td rowspan=7 style="text-align: center"></td>
   </tr>
   <tr>
-    <td style="text-align: center">戰役-門人血量</td>
+    <td style="text-align: center">戰役-全體血量</td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">5</td>
     <td style="text-align: center">10</td>
@@ -1213,7 +1213,7 @@ tags:
     <td style="text-align: center"></td>
   </tr>
   <tr>
-    <td style="text-align: center">戰役-門人血量</td>
+    <td style="text-align: center">戰役-全體血量</td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
@@ -1440,7 +1440,7 @@ tags:
     <td rowspan=7 style="text-align: center"></td>
   </tr>
   <tr>
-    <td style="text-align: center">戰役-門人血量</td>
+    <td style="text-align: center">戰役-全體血量</td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
