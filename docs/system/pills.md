@@ -10,4 +10,4 @@ tags:
 ---
 
 # {{ $frontmatter.title }}
-本條目已併入[開發項目列表](/system/develop-list#煉丹房-毒藥)條目。<br>
+- 本條目已併入[開發項目列表](/system/develop-list#煉丹房-毒藥)條目。<br>
