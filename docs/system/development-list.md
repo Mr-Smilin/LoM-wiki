@@ -294,10 +294,10 @@ tags:
     <td style="text-align: center">24</td>
     <td style="text-align: center">27</td>
     <td style="text-align: center">30</td>
-    <td rowspan=8 style="text-align: center">
-        1. 🚩<MarkdownWrapper>[離家出走住破廟](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，未🚩<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>，<MarkdownWrapper>[唐門戰後](/event/simple/2-08-2-唐門戰後)</MarkdownWrapper>事件中獲得。<br>
-        2. 🚩<MarkdownWrapper>[離家出走住客棧](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<MarkdownWrapper>[回歸唐門](/event/simple/2-10-1-回歸唐門)</MarkdownWrapper>事件中獲得。<br>
-        3. <MarkdownWrapper>[葉雲裳結緣線](/event/pursuit/girl2)</MarkdownWrapper>，<MarkdownWrapper>[谷底生活](/event/simple/3-05-1-谷底生活)</MarkdownWrapper>第5天時擲骰【🎲＜50 古老的兵器殘骸】獲得。<br>
+    <td rowspan=8>
+        1. 🚩<MarkdownWrapper>[破廟線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，未🚩<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>，<MarkdownWrapper>[唐門戰後](/event/simple/2-08-2-唐門戰後)</MarkdownWrapper>中獲得。<br>
+        2. 🚩<MarkdownWrapper>[客棧線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<MarkdownWrapper>[回歸唐門](/event/simple/2-10-1-回歸唐門)</MarkdownWrapper>中獲得。<br>
+        3. <MarkdownWrapper>[雲裳線](/event/pursuit/girl2)</MarkdownWrapper>，<MarkdownWrapper>[谷底生活](/event/simple/3-05-1-谷底生活)</MarkdownWrapper>時🎲【兵器殘骸】獲得。<br>
     </td>
     <td rowspan=8 style="text-align: center"></td>
   </tr>
@@ -420,8 +420,8 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center">85</td>
-    <td rowspan=8 style="text-align: center">
-        <MarkdownWrapper>[葉雲裳結緣線](/event/pursuit/girl2)</MarkdownWrapper>，🚩<MarkdownWrapper>[葉雲舟同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，大會後客棧觸發嶺南派劇情時，葉雲舟好感≥40獲得。<br>
+    <td rowspan=8>
+        🚩<MarkdownWrapper>[葉雲舟同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，客棧南溪劇情後，葉雲舟好感≥40獲得。<br>
     </td>
     <td rowspan=8 style="text-align: center"></td>
   </tr>
@@ -544,7 +544,7 @@ tags:
     <td style="text-align: center">36</td>
     <td style="text-align: center">40</td>
     <td rowspan=7 style="text-align: center">
-        1. 🚩<MarkdownWrapper>[無可救藥線](/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>，月會選擇投靠魔教、不是空穴來風、我認識劉顎。出無可救藥線後無法保留。<br>
+        1. 🚩<MarkdownWrapper>[無可救藥線](/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>，月會選擇投靠魔教、不是空穴來風、我認識劉顎。夢醒後消失。<br>
     </td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
@@ -649,7 +649,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=7 style="text-align: center">
-        虞小梅結緣相關，v1.0.500.13尚未解鎖
+        虞小梅結緣相關，v1.0.500.13尚未解鎖。
     </td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
@@ -754,7 +754,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center">15</td>
     <td rowspan=7 style="text-align: center">
-        🚩<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>，<MarkdownWrapper>[青城醒轉](/event/simple/2-08-3-青城醒轉)</MarkdownWrapper>時道德＜40、選擇翻箱倒櫃、【🎲＜66 錢?】獲得。
+        <MarkdownWrapper>[青城醒轉](/event/simple/2-08-3-青城醒轉)</MarkdownWrapper>時道德＜40、翻箱倒櫃、🎲【錢?】獲得。
     </td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
