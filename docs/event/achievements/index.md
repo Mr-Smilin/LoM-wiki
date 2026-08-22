@@ -49,10 +49,11 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`01`">師門砥柱</AchievementIcon></td>
         <td>你從此刻脫胎換骨，像你從前望著大師兄，師弟妹們也信賴你。</td>
         <td>
-            1. 唐門後期會議選 舉辦段考 骰自己監考 (目前未確認) <br>
-            2. 在<Girl0Icon>小師妹</Girl0Icon>比武招親事件中擊殺金烏上人，下面有兩種辦法可以觸發擊殺金烏的劇情： <br>
-            a. 與大師兄一起下山並觸發金烏假死偷襲劇情。<br>
-            b. 不與大師兄下山，不能與<Girl3Icon>小梅</Girl3Icon>有高好感，並且醫術達五級，在救大師兄時會有人偷襲，選停止醫治，並在後續戰鬥中獲勝(包括金烏上人)。
+            第一階段: 臥雲崗(飛俠落地)事件需觸發金烏假死:<br>
+            1. 若與大師兄一起下山: 遇見金烏上人後，對決結果需非輸給小梅。<br>
+            2. 若不與大師兄下山: 需<Girl3Icon>小梅</Girl3Icon>不在唐門，並且救治大師兄，被人偷襲時選擇收功，並在後續勝過金烏上人。<br>
+            <br>
+            第二階段: 在<Girl0Icon>小師妹</Girl0Icon>比武招親事件中擊殺金烏上人<br>
         </td>
         <td></td>
         <td></td>
@@ -61,7 +62,7 @@ tags:
         <td id="風雲史-No.02">02</td>
         <td><AchievementIcon :size="`medium`" :no="`02`">煩人修仙</AchievementIcon></td>
         <td>你沒學會仙術，倒是越來越會吹牛。</td>
-        <td>在崆峒派留學時去飛天殿修仙事件觸發五次嘴砲。</td>
+        <td>在崆峒派留學時去飛天殿修仙五次。</td>
         <td></td>
         <td></td>
     </tr>
@@ -69,7 +70,7 @@ tags:
         <td id="風雲史-No.03">03</td>
         <td><AchievementIcon :size="`medium`" :no="`03`">懦夫救星</AchievementIcon></td>
         <td>誰不想成為命運寵兒，出手掀翻天地，回家妻妾成群。但你還得活著，必須清醒。</td>
-        <td>與大師兄一起下山，在之後的戰鬥中對上金烏上人，獲勝後被金烏打暈自動觸發取得。</td>
+        <td>臥雲崗事件選擇下山，回程對戰金烏上人，戰鬥落敗或者獲勝後【＜70 中招】，被金烏打暈自動觸發取得。</td>
         <td></td>
         <td></td>
     </tr>
@@ -88,9 +89,8 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`05`">自戀</AchievementIcon></td>
         <td>你不是沒有人愛的，起碼你愛你自己，你表現得很好。</td>
         <td>
-            獲得【自戀】技能，目前有兩個方法可以取得：<br>
-            1. 開局照鏡子事件時選擇長得還不錯<br>
-            2. 改變心上人時，選擇不認識的人。
+            方法1. 開局照鏡子事件時選擇長得還不錯<br>
+            方法2. 變心夢時，選擇不認識的人。
         </td>
         <td></td>
         <td>可惜 Bad End 總是寫上~~沒有人愛你~~</td>
@@ -99,7 +99,7 @@ tags:
         <td id="風雲史-No.06">06</td>
         <td><AchievementIcon :size="`medium`" :no="`06`">一心一意</AchievementIcon></td>
         <td>你挨過需要藉口的年紀，認定了心上人，就至死不渝。</td>
-        <td>變心做夢時，都選擇同一個人。<br>
+        <td>未做過變心夢；或變心夢時，都選擇同一個人。<br>
         </td>
         <td></td>
         <td>~~切記不要手滑點錯選項。~~</td>
@@ -120,7 +120,7 @@ tags:
         <td id="風雲史-No.08">08</td>
         <td><AchievementIcon :size="`medium`" :no="`08`">揍我</AchievementIcon></td>
         <td>武林盟主和千面人魔留在你身上的傷，就是你光榮的印記。</td>
-        <td>第二年選擇不留學，<br>
+        <td>第二年選擇不留學並入住客棧，<br>
             在千面人魔與龍淵事件時選擇「老子要打死你們兩個」後獲得。</td>
         <td></td>
         <td>~~像你這種要求，我這輩子從來沒有見過。~~</td>
@@ -221,7 +221,7 @@ tags:
         <td id="風雲史-No.19">19</td>
         <td><AchievementIcon :size="`medium`" :no="`19`">惡人自有惡人磨</AchievementIcon></td>
         <td>區區晁和，無恥無腦，哪裡惡得過她？</td>
-        <td>與<Girl2Icon>葉雲裳</Girl2Icon>結緣並帶她去武林大會(見<MarkdownWrapper>[〈葉雲裳結緣攻略〉](/event/pursuit/girl2)</MarkdownWrapper>)，且武林大會中反對唐門居多即可。</td>
+        <td>與<Girl2Icon>葉雲裳</Girl2Icon>結緣並帶她去武林大會(見<MarkdownWrapper>[〈葉雲裳結緣攻略〉](/event/pursuit/girl2)</MarkdownWrapper>)，離開時各派投票結果為唐門被留下，上前解釋時選擇「讓葉雲裳陪伴」。</td>
         <td></td>
         <td>v1.0.5000.0版本後新增</td>
     </tr>
