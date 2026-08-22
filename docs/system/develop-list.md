@@ -1080,7 +1080,11 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7>
+        <li>🚩<MarkdownWrapper>[破廟線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<MarkdownWrapper>[唐門迎敵](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper><br>
+            時，協防講經堂並擲骰到<br>
+            【🎲＜33 紙甲圖紙】獲得</li>
+    </td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1186,7 +1190,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8 style="text-align: center">初始</td>
     <td rowspan=8 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1306,7 +1310,17 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=8>
+        <li>
+            🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)/MarkdownWrapper>，<MarkdownWrapper>[雪山之約](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>時<br>
+            ，由夏侯蘭出戰第三香，且後續處置<br>
+            為【🎲＜70 無情殺害】。<br>
+        </li>
+        <li>
+            🚩<MarkdownWrapper>[和夏侯蘭結緣](/event/pursuit/girl5)/MarkdownWrapper>，<MarkdownWrapper>[邀請夏侯蘭](/event/simple/3-08-3-邀請夏侯蘭)</MarkdownWrapper>時<br>
+            ，選擇不是、襲擊，並對決落敗。<br>
+        </li>
+    </td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1412,7 +1426,12 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7>
+        <li>
+            🚩<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)/MarkdownWrapper>，<MarkdownWrapper>[青城段考](/event/simple/2-11-3-青城段考)</MarkdownWrapper>時<br>
+            ，劇情自動獲得。<br>
+        </li>
+    </td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1539,7 +1558,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9 style="text-align: center">初始</td>
     <td rowspan=9 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1673,7 +1692,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=10 style="text-align: center"></td>
+    <td rowspan=10 style="text-align: center">初始</td>
     <td rowspan=10 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1821,7 +1840,14 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=11 style="text-align: center"></td>
+    <td rowspan=11>
+        <li>初始</li>
+        <li>
+            🚩<MarkdownWrapper>[大師兄負傷](/event/simple/3-01-1-大師兄負傷)/MarkdownWrapper>時使大師兄痊癒，<br>
+            <MarkdownWrapper>[回程客棧](/event/simple/3-01-3-圍觀臥雲崗)</MarkdownWrapper>時，閒聊<br>
+            「金剛神槍指」獲得。<br>
+        </li>
+    </td>
     <td rowspan=11 style="text-align: center"></td>
   </tr>
   <tr>
@@ -1983,7 +2009,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8 style="text-align: center">初始</td>
     <td rowspan=8 style="text-align: center"></td>
   </tr>
   <tr>
@@ -2124,7 +2150,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9 style="text-align: center">初始</td>
     <td rowspan=9 style="text-align: center"></td>
   </tr>
   <tr>
@@ -2258,7 +2284,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9 style="text-align: center">初始</td>
     <td rowspan=9 style="text-align: center"></td>
   </tr>
   <tr>
@@ -2392,7 +2418,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=10 style="text-align: center"></td>
+    <td rowspan=10 style="text-align: center">初始</td>
     <td rowspan=10 style="text-align: center"></td>
   </tr>
   <tr>
@@ -2540,8 +2566,8 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=9 style="text-align: center"></td>
-    <td rowspan=9 style="text-align: center"></td>
+    <td rowspan=9 style="text-align: center">初始</td>
+    <td rowspan=9 style="text-align: center">戰役中會絆住自己，慎用</td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-血毒</td>
@@ -2695,7 +2721,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=6 style="text-align: center"></td>
+    <td rowspan=6 style="text-align: center">初始</td>
     <td rowspan=6 style="text-align: center"></td>
   </tr>
   <tr>
@@ -2787,7 +2813,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=7 style="text-align: center"></td>
+    <td rowspan=7 style="text-align: center">初始</td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
   <tr>
@@ -2893,7 +2919,13 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=6 style="text-align: center"></td>
+    <td rowspan=6>
+        <li>
+            🚩<MarkdownWrapper>[破廟線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<MarkdownWrapper>[唐門迎敵](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper><br>
+            時，協防講經堂並擲骰到<br>
+            【🎲＜66 猛火油櫃圖紙】獲得<br>
+        </li>
+    </td>
     <td rowspan=6 style="text-align: center"></td>
   </tr>
   <tr>
@@ -3006,7 +3038,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8 style="text-align: center">初始</td>
     <td rowspan=8 style="text-align: center"></td>
   </tr>
   <tr>
@@ -3126,7 +3158,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8 style="text-align: center">初始</td>
     <td rowspan=8 style="text-align: center"></td>
   </tr>
   <tr>
@@ -3246,7 +3278,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=12 style="text-align: center"></td>
+    <td rowspan=12 style="text-align: center">初始</td>
     <td rowspan=12 style="text-align: center"></td>
   </tr>
   <tr>
@@ -3422,7 +3454,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=12 style="text-align: center"></td>
+    <td rowspan=12 style="text-align: center">初始</td>
     <td rowspan=12 style="text-align: center"></td>
   </tr>
   <tr>
@@ -3603,7 +3635,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">初始</td>
     <td style="text-align: center"></td>
   </tr>
   <tr>
@@ -3614,7 +3646,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">初始</td>
     <td style="text-align: center"></td>
   </tr>
   <tr>
@@ -3625,7 +3657,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">初始</td>
     <td style="text-align: center"></td>
   </tr>
   <tr>
@@ -3637,7 +3669,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">初始</td>
     <td style="text-align: center"></td>
   </tr>
   <tr>
@@ -3646,7 +3678,15 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td>
+        <li>
+            🚩<MarkdownWrapper>[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)/MarkdownWrapper>時，天命擲骰到<br>
+            【🎲≧70 好啦，土特產就土特產】，再<br>
+            選「聽說華山有神仙，而神仙有靈丹」<br>
+            <MarkdownWrapper>門人辭別</MarkdownWrapper>後，在男弟子房閒聊<br>
+            「以前托你打聽的事」獲得。<br>
+        </li>
+    </td>
     <td style="text-align: center"></td>
   </tr>
   <tr>
@@ -3655,7 +3695,13 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td>
+        <li>
+            曾經🚩<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)/MarkdownWrapper>，且<br>
+            <MarkdownWrapper>[唐門內戰](/event/simple/2-12-3-唐門內戰)/MarkdownWrapper>時🚩捉住唐守鴻，<br>
+            <MarkdownWrapper>[唐守鴻處置](/event/simple/2-12-3-唐守鴻處置)</MarkdownWrapper>時自動獲得。<br>
+        </li>
+    </td>
     <td style="text-align: center"></td>
   </tr>  
 
