@@ -1316,8 +1316,8 @@ tags:
     <td rowspan=7>
         <li>
             🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper>，<MarkdownWrapper>[雪山之約](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>時，<br>
-            由夏侯蘭出戰第三香，且後續擲<br>
-            骰【🎲＜70 無情殺害】。<br>
+            由夏侯蘭出戰第三香，且後續<br>
+            擲骰【🎲＜70 無情殺害】。<br>
         </li>
         <li>
             🚩<MarkdownWrapper>[和夏侯蘭結緣](/event/pursuit/girl5)</MarkdownWrapper>，<MarkdownWrapper>[邀請夏侯蘭](/event/simple/3-08-3-邀請夏侯蘭)</MarkdownWrapper>時<br>
@@ -3759,8 +3759,8 @@ tags:
     </td>
     <td>
         <li>
-            🚩<MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>、<br>
-            🚩<MarkdownWrapper>[葉雲裳同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>、<br>
+            若🚩<MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>、<br>
+            🚩<MarkdownWrapper>[葉雲裳同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，<br>
             前往錦香宮時選擇搭船，<br>
             此物可防止雲裳暈船。<br>
         </li>
