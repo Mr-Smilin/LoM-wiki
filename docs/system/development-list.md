@@ -157,9 +157,8 @@ tags:
   <tr>
     <td rowspan=8 style="text-align: center">唐門菁英小劍</td>
     <td rowspan=8 style="text-align: center">
-        門派等級2<br>
-        <br>
-        唐門小劍等級5<br>
+        <li>門派等級2<br></li>
+        <li>唐門小劍<br>等級5<br></li>
     </td>
     <td style="text-align: center">決鬥-捅人傷害</td>
     <td style="text-align: center">-</td>
@@ -278,9 +277,8 @@ tags:
   <tr>
     <td rowspan=8 style="text-align: center">唐門傳承小劍</td>
     <td rowspan=8 style="text-align: center">
-        門派等級3<br>
-        <br>
-        唐門菁英小劍等級10<br>
+        <li>門派等級3<br></li>
+        <li>唐門菁英小<br>劍等級10<br></li>
     </td>
     <td style="text-align: center">決鬥-捅人傷害</td>
     <td style="text-align: center">-</td>
@@ -295,9 +293,9 @@ tags:
     <td style="text-align: center">27</td>
     <td style="text-align: center">30</td>
     <td rowspan=8>
-        <li>🚩<MarkdownWrapper>[破廟線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<br>未🚩<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>，<MarkdownWrapper>[唐門戰後](/event/simple/2-08-2-唐門戰後)</MarkdownWrapper>中獲得。<br></li>
-        2. 🚩<MarkdownWrapper>[客棧線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<MarkdownWrapper>[回歸唐門](/event/simple/2-10-1-回歸唐門)</MarkdownWrapper>中獲得。<br>
-        3. <MarkdownWrapper>[雲裳線](/event/pursuit/girl2)</MarkdownWrapper>，<MarkdownWrapper>[谷底生活](/event/simple/3-05-1-谷底生活)</MarkdownWrapper>時🎲【兵器殘骸】獲得。<br>
+        <li>🚩<MarkdownWrapper>[破廟線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，未🚩<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>，<br><MarkdownWrapper>[唐門戰後](/event/simple/2-08-2-唐門戰後)</MarkdownWrapper>中獲得。<br></li>
+        <li>2. 🚩<MarkdownWrapper>[客棧線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<MarkdownWrapper>[回歸唐門](/event/simple/2-10-1-回歸唐門)</MarkdownWrapper>中獲得。<br></li>
+        <li>3. <MarkdownWrapper>[葉雲裳結緣線](/event/pursuit/girl2)</MarkdownWrapper>，<MarkdownWrapper>[谷底生活](/event/simple/3-05-1-谷底生活)</MarkdownWrapper>時<br>擲骰【🎲＜50 古老的兵器殘骸】獲得。<br></li>
     </td>
     <td rowspan=8 style="text-align: center"></td>
   </tr>
@@ -404,9 +402,8 @@ tags:
   <tr>
     <td rowspan=8 style="text-align: center">瀝泉小劍</td>
     <td rowspan=8 style="text-align: center">
-        門派等級3<br>
-        <br>
-        唐門菁英小劍等級10<br>
+        <li>門派等級3<br></li>
+        <li>唐門菁英小<br>劍等級10<br></li>
     </td>
     <td style="text-align: center">決鬥-捅人傷害</td>
     <td style="text-align: center"></td>
@@ -421,7 +418,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center">85</td>
     <td rowspan=8>
-        🚩<MarkdownWrapper>[葉雲舟同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，客棧南溪劇情後，葉雲舟好感≥40獲得。<br>
+        🚩<MarkdownWrapper>[葉雲舟同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，<br>大會後客棧觸發嶺南派劇情，<br>葉雲舟好感≥40獲得。<br>
     </td>
     <td rowspan=8 style="text-align: center"></td>
   </tr>
@@ -527,9 +524,8 @@ tags:
   <tr>
     <td rowspan=7 style="text-align: center">切魚刀</td>
     <td rowspan=7 style="text-align: center">
-        門派等級2<br>
-        <br>
-        唐門小劍等級5<br>
+        <li>門派等級2<br></li>
+        <li>唐門小劍<br>等級5<br></li>
     </td>
     <td style="text-align: center">決鬥-捅人傷害</td>
     <td style="text-align: center">-</td>
@@ -544,7 +540,7 @@ tags:
     <td style="text-align: center">36</td>
     <td style="text-align: center">40</td>
     <td rowspan=7>
-        1. 🚩<MarkdownWrapper>[無可救藥線](/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>，月會選擇投靠魔教、不是空穴來風、我認識劉顎。夢醒後消失。<br>
+        <li>🚩<MarkdownWrapper>[無可救藥線](/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>，月會選擇<br>投靠魔教、不是空穴來風、<br>我認識劉顎，即可獲得。<br>離開無可救藥線後消失。<br></li>
     </td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
@@ -649,7 +645,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=7>
-        虞小梅結緣相關，v1.0.500.13尚未解鎖。
+        <li>虞小梅結緣相關，<br>v1.0.500.13尚未解鎖。</li>
     </td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
