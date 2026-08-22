@@ -17,7 +17,7 @@ tags:
 :::
 
 ## 鍛冶場-裝備-武器
-<table>
+<center><table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
@@ -847,7 +847,7 @@ tags:
 
 ## 鍛冶場-裝備-防具
 
-<table>
+<center><table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
@@ -1528,7 +1528,7 @@ tags:
 
 ## 鍛冶場-暗器-平射
 
-<table>
+<center><table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
@@ -2121,7 +2121,7 @@ tags:
 
 ## 鍛冶場-暗器-拋射
 
-<table>
+<center><table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
@@ -2703,7 +2703,7 @@ tags:
 
 ## 鍛冶場-暗器-陷阱
 
-<table>
+<center><table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
@@ -3021,7 +3021,7 @@ tags:
 
 ## 鍛冶場-煉丹-毒藥
 
-<table>
+<center><table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
@@ -3636,7 +3636,7 @@ tags:
 
 • 每完成一級產出一顆，可重複開發。<br>
 
-<table>
+<center><table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
