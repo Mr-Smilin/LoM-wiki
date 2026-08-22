@@ -1191,7 +1191,12 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=8 style="text-align: center">初始</td>
-    <td rowspan=8 style="text-align: center"></td>
+    <td rowspan=8 style="text-align: center">
+        <li>
+            目前仍是素質<br>
+            最佳的護甲<br>
+        </li>
+    </td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-額外血量</td>
@@ -2419,7 +2424,13 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=10 style="text-align: center">初始</td>
-    <td rowspan=10 style="text-align: center"></td>
+    <td rowspan=10 style="text-align: center">
+        <li>
+            戰役中對我方<br>
+            傷害也很高，<br>
+            注意避開範圍<br>
+        </li>
+    </td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-暗器骰子</td>
@@ -3632,9 +3643,15 @@ tags:
   <tr>
     <td style="text-align: center">南螫礜石散<br><img src="/public/images/items/medis/icon_medi_01.webp" style="width:100px"></td>
     <td style="text-align: center">無</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">15</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">
+        陰陽+10<br>
+        體力+2<br>
+        內力+1<br>
+        抗毒+2<br>
+        心相+30<br>
+    </td>
     <td style="text-align: center">初始</td>
     <td style="text-align: center"></td>
   </tr>
@@ -3643,9 +3660,15 @@ tags:
     <td style="text-align: center">
         南螫礜石散<br>開發中<br>
     </td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">15</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">
+        陰陽-10<br>
+        體力+1<br>
+        內力+2<br>
+        抗麻+2<br>
+        心相+30<br>
+    </td>
     <td style="text-align: center">初始</td>
     <td style="text-align: center"></td>
   </tr>
@@ -3654,9 +3677,15 @@ tags:
     <td style="text-align: center">
         南螫礜石散<br>開發中<br>
     </td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">15</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">
+        陰陽-10<br>
+        修養+5<br>
+        性情-2<br>
+        向心+3<br>
+        心相+50<br>
+    </td>
     <td style="text-align: center">初始</td>
     <td style="text-align: center"></td>
   </tr>
@@ -3666,9 +3695,13 @@ tags:
         <li>穿心龍膽湯<br>開發中<br></li>
         <li>門派規模2<br></li>
     </td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">25</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">
+        抗毒+3<br>
+        抗麻+3<br>
+        心相+50<br>
+    </td>
     <td style="text-align: center">初始</td>
     <td style="text-align: center"></td>
   </tr>
@@ -3677,7 +3710,12 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">
+        體力+5<br>
+        內力+5<br>
+        心相+80<br>
+        行動-1<br>
+    </td>
     <td>
         <li>
             🚩<MarkdownWrapper>[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>時，天命擲骰到<br>
@@ -3687,7 +3725,10 @@ tags:
             「以前托你打聽的事」獲得。<br>
         </li>
     </td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">
+        剩餘行動≧2<br>
+        時才能用
+    </td>
   </tr>
   <tr>
     <td style="text-align: center">萬靈油</td>
@@ -3702,7 +3743,14 @@ tags:
             <MarkdownWrapper>[唐守鴻處置](/event/simple/2-12-3-唐守鴻處置)</MarkdownWrapper>時自動獲得。<br>
         </li>
     </td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">
+        <li>
+            若🚩<MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>、<br>
+            🚩葉雲裳同行武林大會、<br>
+            前往錦香宮時選擇搭船，<br>
+            此物可防止雲裳暈船。<br>
+        </li>
+    </td>
   </tr>  
 
 </table>
