@@ -1315,7 +1315,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
-    <td rowspan=8>
+    <td rowspan=7>
         <li>
             🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper>，<MarkdownWrapper>[雪山之約](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>時<br>
             ，由夏侯蘭出戰第三香，且後續處置<br>
@@ -1848,7 +1848,8 @@ tags:
     <td rowspan=11>
         <li>初始</li>
         <li>
-            🚩<MarkdownWrapper>[大師兄負傷](/event/simple/3-01-1-大師兄負傷)</MarkdownWrapper>時使大師兄痊癒，<br>
+            🚩<MarkdownWrapper>[大師兄負傷](/event/simple/3-01-1-大師兄負傷)</MarkdownWrapper>時<br>
+            使大師兄痊癒，<br>
             <MarkdownWrapper>[回程客棧](/event/simple/3-01-3-圍觀臥雲崗)</MarkdownWrapper>時，閒聊<br>
             「金剛神槍指」獲得。<br>
         </li>
@@ -2578,7 +2579,12 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=9 style="text-align: center">初始</td>
-    <td rowspan=9>戰役中會絆住<br>自己，慎用</td>
+    <td rowspan=9>
+        <li>
+            戰役中會絆住<br>
+            自己，慎用
+        </li>
+    </td>
   </tr>
   <tr>
     <td style="text-align: center">決鬥-血毒</td>
@@ -2934,7 +2940,8 @@ tags:
         <li>
             🚩<MarkdownWrapper>[破廟線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<MarkdownWrapper>[唐門迎敵](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper><br>
             時，協防講經堂並擲骰到<br>
-            【🎲＜66 猛火油櫃圖紙】獲得<br>
+            【🎲＜66 猛火油櫃圖紙】<br>
+            後獲得<br>
         </li>
     </td>
     <td rowspan=6></td>
@@ -3718,10 +3725,10 @@ tags:
     </td>
     <td>
         <li>
-            🚩<MarkdownWrapper>[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>時，<br>
-            選擇難辦的要求，並天命擲骰到<br>
+            🚩<MarkdownWrapper>[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>時，選擇<br>
+            難辦的要求，並天命擲骰到<br>
             【🎲≧70 好啦，土特產就土特產】，再<br>
-            選「聽說華山有神仙，而神仙有靈丹」<br>
+            選「聽說華山有神仙，而神仙有靈丹」。<br>
             <MarkdownWrapper>門人辭別</MarkdownWrapper>後，在男弟子房閒聊<br>
             「以前托你打聽的事」獲得。<br>
         </li>
