@@ -11,7 +11,7 @@ tags:
 ---
 
 ## {{ $frontmatter.title }}
-各項目詳細資料請見[開發項目列表](/system/develop-list)。<br>
+- 各項目詳細資料請見[開發項目列表](/system/develop-list)。<br>
 
 ### 鍛冶場 - 裝備 - 武器
 ```mermaid
