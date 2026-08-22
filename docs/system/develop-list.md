@@ -843,7 +843,7 @@ tags:
     <td style="text-align: center">2950</td>
   </tr>
 
-</table>
+</table></center>
 
 ## 鍛冶場-裝備-防具
 
@@ -1524,7 +1524,7 @@ tags:
     <td style="text-align: center">4250</td>
   </tr>
   
-</table>
+</table></center>
 
 ## 鍛冶場-暗器-平射
 
@@ -2117,7 +2117,7 @@ tags:
     <td style="text-align: center"></td>
   </tr>
   
-</table>
+</table></center>
 
 ## 鍛冶場-暗器-拋射
 
@@ -2699,7 +2699,7 @@ tags:
     <td style="text-align: center"></td>
   </tr>
 
-</table>
+</table></center>
 
 ## 鍛冶場-暗器-陷阱
 
@@ -3017,7 +3017,7 @@ tags:
     <td style="text-align: center">4800</td>
   </tr>
 
-</table>
+</table></center>
 
 ## 鍛冶場-煉丹-毒藥
 
@@ -3630,7 +3630,7 @@ tags:
     <td style="text-align: center"></td>
   </tr>
 
-</table>
+</table></center>
 
 ## 鍛冶場-煉丹-靈丹
 
@@ -3768,7 +3768,7 @@ tags:
     </td>
   </tr>  
 
-</table>
+</table></center>
 
 ## 備註
 • 取消開發項目時，退回已投資的鍛造/煉丹點數90%、銀兩90%。<br>
