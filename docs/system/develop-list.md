@@ -17,7 +17,7 @@ tags:
 :::
 
 ## 鍛冶場-裝備-武器
-<Table>
+<table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
@@ -847,7 +847,7 @@ tags:
 
 ## 鍛冶場-裝備-防具
 
-<Table>
+<table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
@@ -1179,17 +1179,17 @@ tags:
         <li>門派規模2<br></li>
     </td>
     <td style="text-align: center">決鬥-備揍減免</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">15</td>
+    <td style="text-align: center">20</td>
+    <td style="text-align: center">25</td>
+    <td style="text-align: center">30</td>
+    <td style="text-align: center">35</td>
+    <td style="text-align: center">40</td>
+    <td style="text-align: center">45</td>
+    <td style="text-align: center">50</td>
     <td rowspan=8 style="text-align: center">初始</td>
     <td rowspan=8>
         <li>
@@ -1200,101 +1200,101 @@ tags:
   </tr>
   <tr>
     <td style="text-align: center">決鬥-額外血量</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">30</td>
+    <td style="text-align: center">60</td>
+    <td style="text-align: center">90</td>
+    <td style="text-align: center">120</td>
+    <td style="text-align: center">150</td>
+    <td style="text-align: center">180</td>
+    <td style="text-align: center">210</td>
+    <td style="text-align: center">240</td>
+    <td style="text-align: center">270</td>
+    <td style="text-align: center">300</td>
   </tr>
   <tr>
     <td style="text-align: center">戰役-全體血量</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">20</td>
+    <td style="text-align: center">30</td>
+    <td style="text-align: center">40</td>
+    <td style="text-align: center">50</td>
+    <td style="text-align: center">60</td>
+    <td style="text-align: center">70</td>
+    <td style="text-align: center">80</td>
+    <td style="text-align: center">90</td>
+    <td style="text-align: center">100</td>
   </tr>
   <tr>
     <td style="text-align: center">戰役-防禦等級</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">3</td>
+    <td style="text-align: center">3</td>
+    <td style="text-align: center">3</td>
+    <td style="text-align: center">4</td>
+    <td style="text-align: center">4</td>
+    <td style="text-align: center">5</td>
   </tr>
   <tr>
     <td style="text-align: center">單級鍛造</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">6</td>
+    <td style="text-align: center">7</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">9</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
   </tr>
   <tr>
     <td style="text-align: center">累積鍛造</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">16</td>
+    <td style="text-align: center">23</td>
+    <td style="text-align: center">31</td>
+    <td style="text-align: center">40</td>
+    <td style="text-align: center">50</td>
+    <td style="text-align: center">60</td>
+    <td style="text-align: center">70</td>
+    <td style="text-align: center">80</td>
   </tr>
   <tr>
     <td style="text-align: center">單級銀兩</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">350</td>
+    <td style="text-align: center">400</td>
+    <td style="text-align: center">450</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
   </tr>
   <tr>
     <td style="text-align: center">累積銀兩</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">800</td>
+    <td style="text-align: center">1150</td>
+    <td style="text-align: center">1550</td>
+    <td style="text-align: center">2000</td>
+    <td style="text-align: center">2500</td>
+    <td style="text-align: center">3000</td>
+    <td style="text-align: center">3500</td>
+    <td style="text-align: center">4000</td>
   </tr>
 
   <tr>
@@ -1463,7 +1463,7 @@ tags:
     <td style="text-align: center">1</td>
     <td style="text-align: center">1</td>
     <td style="text-align: center">1</td>
-    <td style="text-align: center">1/td>
+    <td style="text-align: center">1</td>
     <td style="text-align: center">1</td>
     <td style="text-align: center">2</td>
   </tr>
@@ -1528,7 +1528,7 @@ tags:
 
 ## 鍛冶場-暗器-平射
 
-<Table>
+<table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
@@ -2121,7 +2121,7 @@ tags:
 
 ## 鍛冶場-暗器-拋射
 
-<Table>
+<table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
@@ -2703,7 +2703,7 @@ tags:
 
 ## 鍛冶場-暗器-陷阱
 
-<Table>
+<table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
@@ -3021,7 +3021,7 @@ tags:
 
 ## 鍛冶場-煉丹-毒藥
 
-<Table>
+<table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
@@ -3636,7 +3636,7 @@ tags:
 
 • 每完成一級產出一顆，可重複開發。<br>
 
-<Table>
+<table>
   <tr>
     <th style="text-align: center">項目名稱</th>
     <th style="text-align: center">解鎖條件</th>
