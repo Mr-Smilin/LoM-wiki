@@ -294,8 +294,8 @@ tags:
     <td style="text-align: center">30</td>
     <td rowspan=8>
         <li>🚩<MarkdownWrapper>[破廟線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，未🚩<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>，<br><MarkdownWrapper>[唐門戰後](/event/simple/2-08-2-唐門戰後)</MarkdownWrapper>中獲得。<br></li>
-        <li>2. 🚩<MarkdownWrapper>[客棧線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<MarkdownWrapper>[回歸唐門](/event/simple/2-10-1-回歸唐門)</MarkdownWrapper>中獲得。<br></li>
-        <li>3. <MarkdownWrapper>[葉雲裳結緣線](/event/pursuit/girl2)</MarkdownWrapper>，<MarkdownWrapper>[谷底生活](/event/simple/3-05-1-谷底生活)</MarkdownWrapper>時<br>擲骰【🎲＜50 古老的兵器殘骸】獲得。<br></li>
+        <li>🚩<MarkdownWrapper>[客棧線](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，<MarkdownWrapper>[回歸唐門](/event/simple/2-10-1-回歸唐門)</MarkdownWrapper>中獲得。<br></li>
+        <li><MarkdownWrapper>[葉雲裳結緣線](/event/pursuit/girl2)</MarkdownWrapper>，<MarkdownWrapper>[谷底生活](/event/simple/3-05-1-谷底生活)</MarkdownWrapper>時<br>【🎲＜50 古老的兵器殘骸】獲得。<br></li>
     </td>
     <td rowspan=8 style="text-align: center"></td>
   </tr>
@@ -750,7 +750,8 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center">15</td>
     <td rowspan=7>
-        <MarkdownWrapper>[青城醒轉](/event/simple/2-08-3-青城醒轉)</MarkdownWrapper>時道德＜40、翻箱倒櫃、🎲【錢?】獲得。
+        <MarkdownWrapper>[青城醒轉](/event/simple/2-08-3-青城醒轉)</MarkdownWrapper>時道德＜40，選擇<br>
+        翻箱倒櫃，再【🎲＜66 錢?】獲得。
     </td>
     <td rowspan=7 style="text-align: center"></td>
   </tr>
