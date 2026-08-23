@@ -3770,7 +3770,7 @@ tags:
 </table>
 
 ## 備註
-• 取消開發項目時，退回已投資的鍛造/煉丹點數90%、銀兩90%。<br>
-• 項目解鎖後，若取消並再回頭開發時，不需再滿足解鎖條件的等級。但項目需正確，如護心鏡仍需唐門制服處於開發中。<br>
-• 已獲得的項目才能解鎖，若未獲得，即便滿足開發條件，也不會在未來獲得時直接解鎖。<br>
-• 本條目資料參考[活俠傳資料彙總](https://docs.google.com/spreadsheets/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o)撰寫。<br>
+- 取消開發項目時，退回已投資的鍛造/煉丹點數90%、銀兩90%。<br>
+- 項目解鎖後，若取消並再回頭開發時，不需再滿足解鎖條件的等級。但項目需正確，如護心鏡仍需唐門制服處於開發中。<br>
+- 已獲得的項目才能解鎖，若未獲得，即便滿足開發條件，也不會在未來獲得時直接解鎖。<br>
+- 本條目資料參考[活俠傳資料彙總](https://docs.google.com/spreadsheets/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o)及[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)撰寫。<br>
