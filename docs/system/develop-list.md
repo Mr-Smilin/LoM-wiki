@@ -645,7 +645,7 @@ tags:
     <td style="text-align: center"></td>
     <td style="text-align: center"></td>
     <td rowspan=7>
-        <li>虞小梅結緣相關，<br>v1.0.500.13尚未解鎖。</li>
+        <li>虞小梅結緣相關，<br>v1.0.5000.13尚未解鎖。</li>
     </td>
     <td rowspan=7></td>
   </tr>
