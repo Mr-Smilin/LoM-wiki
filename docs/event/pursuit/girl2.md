@@ -197,13 +197,16 @@ tags:
 <td>武林大會</td>
 <td>• 若葉雲舟同行:
     <br>1. 劇情變化。
-    <br>2. 可讓他代表唐門參加比武。
+    <br>2. 可讓他代表唐門參加比武，但需趙活未挑戰上官隼。
     <br>• 若<Girl2Icon>葉雲裳</Girl2Icon>同行:
     <br>1. 劇情變化。
     <br>2. 若投票後唐門成為武林公敵，且選擇📖「讓葉雲裳陪伴」，可解鎖<MarkdownWrapper>[風雲史《惡人自有惡人磨》](/event/achievements/#風雲史-No.19)</MarkdownWrapper>。
     <br>3. 客棧休憩時，📖「洗澡」再📖「下樓喝酒」可觸發南溪劇情，有葉家相關劇情，且<MarkdownWrapper>[唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper>或<MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>時南溪會加入，故建議觸發。
 </td>
-<td>目前葉雲舟同行綁定<Girl2Icon>葉雲裳</Girl2Icon>結緣，故也列出葉雲舟的劇情變化。</td>
+<td>
+    • 目前葉雲舟同行綁定<Girl2Icon>葉雲裳</Girl2Icon>結緣，故也列出葉雲舟的劇情變化。
+    <br> • 若葉雲舟未代表唐門出戰，他後續會離開唐門，將無法觸發南溪劇情，故建議讓他代表。
+</td>
 </tr>
 
 <tr>
