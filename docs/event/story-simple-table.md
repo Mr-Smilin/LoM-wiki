@@ -703,7 +703,9 @@ tags:
 		<tr>
 			<td>九月</td>
 			<td>
-				前往武林大會<br>
+                <MarkdownWrapper>
+                    [前往武林大會](/event/simple/3-09-1-前往武林大會)<br>
+                </MarkdownWrapper>
 			</td>
 			<td>-</td>
 			<td>
