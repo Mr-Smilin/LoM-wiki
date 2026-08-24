@@ -1263,7 +1263,7 @@ tags:
         <td>
             1.聽到關於葉家兄妹的江湖傳聞後，下山在客棧發生葉家兄妹事件，選擇上樓或在樓下等，後續與點蒼弟子決鬥時戰敗。<br>
             ※四師兄買牛事件就算不幫忙買藥救<Girl2Icon>葉雲裳</Girl2Icon>也能發生，此時會變成第一次見到葉家兄妹，但是<Girl2Icon>葉雲裳</Girl2Icon>會直接叫阿活為趙哥哥。疑似存在bug。<br>
-            2.前往武林大會路上，隨機遭遇點蒼派人馬，沒有官兵護衛時出現選項，選擇「挑選代表，一對一切磋」，決鬥戰敗。
+            2.<MarkdownWrapper>[「前往武林大會」](/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>旅途前半，隨機<MarkdownWrapper>[遭遇點蒼派](/event/simple/3-09-1-遭遇點蒼派)</MarkdownWrapper>，沒有🚩<MarkdownWrapper>[宋悲同行](/event/simple/3-09-1-遭遇官兵)</MarkdownWrapper>時出現選項，選擇「挑選代表，一對一切磋」，決鬥戰敗。
         </td>
         <td>
             -
@@ -1590,8 +1590,7 @@ tags:
             出自杜甫 《蜀相》，描述出師伐魏未捷而病亡軍中。
         </td>
         <td>
-            往武林大會在大地圖移動時，隨機遭遇泥教勢力：地獄道鬼卒(地獄道)、餓鬼道海賊(白鯊幫)時，沒有官兵護送會出現選項，選擇「全力應戰」，混戰戰敗。<br>
-            ※遭遇畜生道殘黨(丐幫) 戰敗也不會進生死簿。
+            <MarkdownWrapper>[前往武林大會](/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>時，隨機遭遇<MarkdownWrapper>[地獄道](/event/simple/3-09-1-地獄道攔路)</MarkdownWrapper>或<MarkdownWrapper>[餓鬼道](/event/simple/3-09-1-餓鬼道攔路)</MarkdownWrapper>時，沒有🚩<MarkdownWrapper>[宋悲同行](/event/simple/3-09-1-遭遇官兵)</MarkdownWrapper>會出現選項，選擇「全力迎戰」，混戰戰敗。<br>
         </td>
         <td>
             唐門也在蜀中，這是巧合嗎？<br>
@@ -1613,7 +1612,7 @@ tags:
             -
         </td>
         <td>
-            1. 去武林大會的大地圖移動，隨機遭遇全真教人馬，沒有官兵護衛且門派規模＜3會出現選項，選擇「竟敢瞧不起唐門，欠揍！」，與全真長老決鬥敗戰。<br>
+            1. <MarkdownWrapper>[前往武林大會](/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>旅途後半，隨機<MarkdownWrapper>[遭遇全真教](/event/simple/3-09-1-遭遇全真教)</MarkdownWrapper>，沒有🚩<MarkdownWrapper>[宋悲同行](/event/simple/3-09-1-遭遇官兵)</MarkdownWrapper>且門派規模＜3會出現選項，選擇「竟敢瞧不起唐門，欠揍！」，與全真長老決鬥敗戰。<br>
             2. 青城線中，選擇上清宮-道士下山，有機會遇到決鬥事件，戰敗即可。
         </td>
         <td>
