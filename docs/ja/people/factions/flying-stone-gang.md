@@ -87,7 +87,8 @@ tags:
 ## 備考
 
 - Deep♂Rock♂Fantasy：[連結](https://www.facebook.com/photo/?fbid=172733621791491&set=a.117318193999701)
-- ゲーム第三年時点での人数は、[滄幇](/ja/people/factions/cang-gang)・[白鯊幇](/ja/people/factions/white-shark-gang)を上回り、[丐幇](/ja/people/factions/beggar-gang)に次ぎ、少なくとも数万人の幇眾を擁している。
+- 創設から二十年足らずで数百人の幇眾を抱えて江湖三大幇と肩を並べるまでになり、さらに黒白を問わず来る者を拒まなかった直近二年で急膨張した。ゲーム第三年時点での人数は、[滄幇](/ja/people/factions/cang-gang)・[白鯊幇](/ja/people/factions/white-shark-gang)を上回り、[丐幇](/ja/people/factions/beggar-gang)に次ぎ、少なくとも数万人の幇眾を擁している。
+- 幇規で民生を乱すことを禁じており、入門者の素行は問わないが幇規は守らせる。
 - 飛石幇は轎夫の仕事まで請け負い、新しい轎と精鋭な人員で、他の老舗轎夫たちの商売を圧迫している。蜀中のみならず江陵にも飛石幇の支舵があり、渡口に多くの幇眾を雇用している。
 - 飛石幇が[唐門](/ja/people/factions/tang-men)に難題を吹きかける一因は嫉妬であり、同じく蜀中で育った若者たちは[唐門](/ja/people/factions/tang-men)の高弟のように、歩く時に風が起こるようになりたいと憧れていた。恨みが氷解してからは、共に戦場へ赴くことができ、光栄に浴することになった。
 - 西武林が外堡を買い戻さなかった場合、飛石幇が[唐門](/ja/people/factions/tang-men)のために買い戻していただろう。財力は豊かだった。
