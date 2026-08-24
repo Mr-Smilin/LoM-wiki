@@ -23,6 +23,10 @@ tags:
 - [[問答集2024年10月]]
 - [[問答集2024年11月]]
 
+## 專訪
+
+- [[專訪鳥熊鼠蟲 129題訪談]] — 巴哈姆特板友 K.T. 對原始森林四人的全129題文字專訪 (2026年5月)
+
 ## 江湖軼聞錄
 
 [連結](https://docs.google.com/spreadsheets/d/1ZtmvgQqblKddvBsJF-5HRT5byotuNW7M4SwGBLFRoOQ/edit?usp=sharing)<br>
