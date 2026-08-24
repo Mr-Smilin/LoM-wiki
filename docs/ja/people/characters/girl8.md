@@ -358,6 +358,7 @@ borderless: false
 -   鳥熊は金国の国王になるエンディングを計画していない。[^10]
 -   誕生日は8月5日。[^24]
 -   龍湘のキャラクター設定は何度も修正：最初は[瑞杏](/ja/people/characters/girl1)の金牌殺手で、有能で人望ある敵キャラ。龍湘の改動過程で錦香宮の『寂夜慈灯』[盛雪](/ja/people/characters/other12)が派生した。[^26]
+-   後のインタビューでの補足：最初の龍湘は萬里鵬程と対等に渡り合う冷酷な超級殺し屋で結縁不可。「錦香宮殺人魔」は本当に殺し屋で、錦香宮にいながら[瑞杏](/ja/people/characters/girl1)に近い派閥に属し、その指図で[温夫人](/ja/people/characters/special402)をそばで監視する役どころだった。[^28]
 -   鳥熊は明かした：本来[瑞杏](/ja/people/characters/girl1) DLCで龍湘が光を放つ特別ストーリーを計画していたが、現段階では本体コンテンツの完善を優先。[^26]
 -   龍湘海捕令資料フォルダー周辺文案：[ソース](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
     > 犯人 錦香宮殺人鬼<br>
@@ -412,3 +413,4 @@ borderless: false
 [^25]: PTT C 洽－[\[活俠\] 奇怪的小知識](https://www.ptt.cc/bbs/C_Chat/M.1734956470.A.C8A.html)
 [^26]: 遊戯角落－[専訪原始鳥熊（3）假趙活是真的—你我身辺可能都有一個晁和](https://game.udn.com/game/story/122090/8118486)
 [^27]: 人類学学報－[郑州地区汉唐宋成年居民的身高研究](https://www.anthropol.ac.cn/CN/abstract/abstract1746.shtml)
+[^28]: [専訪鳥熊鼠虫 129題訪談](/ja/other/qna/interview-129)の第5篇

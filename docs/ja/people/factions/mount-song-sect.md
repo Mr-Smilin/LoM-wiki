@@ -103,3 +103,9 @@ tags:
 - [那由它劫指](/ja/system/books/book_4005)
 - [羅漢拳譜](/ja/system/books/book_6001)
 - [金鐘罩](/ja/system/books/book_1030)
+
+## 備考
+
+-   嵩山派の弟子は寺の修繕費を集める行脚で下山した際、唐門練功塔 (もともと眉山にあった仏塔で、戦乱で僧に捨てられた後に[唐門](/ja/people/factions/tang-men)が占領したもの) に掛単 (寄宿) している。[趙活](/ja/people/characters/player)が低道徳で練功塔に挑戦して敗れると、魔性が深すぎるとして僧に嵩山へ連れ帰られ強制留学になるのはこのためである。[^1]
+
+[^1]: [専訪鳥熊鼠虫 129題訪談](/ja/other/qna/interview-129)の第5篇

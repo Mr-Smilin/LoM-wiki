@@ -401,6 +401,7 @@ tags:
 -   年嵩の外姓弟子は[唐門](/ja/people/factions/tang-men)を出るよう勧められるため、趙活は老けて見られないよう、定期的に髭を剃っている。[^1]
 -   炒め物のとき時々気が触れたように胡椒粉を大量に入れるが、実は特に胡椒粉が好きなわけではない。[^1]
 -   趙活の家族はみな平凡な顔立ちの庶民で、彼だけが特別「精緻」な顔立ちである。[^3]
+-   趙活の遺伝子は劣勢で、より強い側の遺伝子に取って代わられる — つまり醜顔はほぼ遺伝しない。[^7]
 
 [^1]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^2]: バハムート－[【心得】趙活の日常生活を見て、本当に「これぞ伝説」とは言えない](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2966)
@@ -408,6 +409,7 @@ tags:
 [^4]: Facebook－[原始鳥熊 2023/4/1](https://www.facebook.com/obbstudio/posts/pfbid0VNvvCPjbVhaF58qbcrBF42j6oFCzFvQnxb4vbqRqBHYDRnWzwoGc6KSk6L81qTsEl)
 [^5]: [問答集2024-10-25](/ja/other/qna/202410#_2024-10-25)
 [^6]: Facebook－[原始鳥熊2023/3/24](https://www.facebook.com/photo.php?fbid=227827013104015&set=p.227827013104015&type=3)
+[^7]: [専訪鳥熊鼠虫 129題訪談](/ja/other/qna/interview-129)の第5篇
 
 ## ギャラリー
 

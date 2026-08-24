@@ -721,7 +721,7 @@ tags:
 			<td>九月</td>
 			<td>
 				<MarkdownWrapper>
-				<li>[武林大会へ向かう](/ja/event/simple/3-09-1-赴武林大會)</li>
+				<li>[武林大会へ向かう](/ja/event/simple/3-09-1-前往武林大會)</li>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>

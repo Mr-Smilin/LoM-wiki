@@ -450,7 +450,7 @@ aside: false
 -   v1.0.5000 で攻略が解禁された。更新予告動画：[リンク](https://www.youtube.com/watch?v=FRnzV4GRNd0)
 -   葉雲裳の本性：[リンク](https://www.facebook.com/obbstudio/photos/p.173499981714855/173499981714855/?type=3)
 -   元の姓は「花」。[^4]
--   雲裳の「裳」は ㄕㄤ (shang) と読む。[^8]雲裳という名前は、雲公の衣裳となって、彼のために風雨を遮るという意味。
+-   雲裳の「裳」は ㄕㄤ (shang) と読む。[^8]公式読音は軽声で、熊本人の発音は一声寄り。[^9]雲裳という名前は、雲公の衣裳となって、彼のために風雨を遮るという意味。
 -   ~~趙活の妹分・趙アニャ~~
 -   見よ、私の点蒼棒法！聴雲棒！
 -   甘い物が大好きで、特に冰糖葫蘆 (タンフールー)。買って買って！[趙活](/ja/people/characters/player)が手に入れた食べ物はすべて彼女に横取りされる。
@@ -471,6 +471,7 @@ aside: false
 [^6]: Facebook - [オリジナル鳥熊2023/8/22](https://www.facebook.com/obbstudio/posts/pfbid06P9XSSoB9zaqws972XaHpJ5sXynEpiUkp9i1QS1nDEWdTRXxENnw761tbxKCS16Al)
 [^7]: Facebook - [オリジナル鳥熊2024/6/1](https://www.facebook.com/obbstudio/posts/pfbid02DWHjzPLdRguLBns6wSeWRQUC1DcNr4nRNhgGfytbghiHANhircvTyAGndWyktv5Dl)
 [^8]: PTT - [\[活俠\] 雲裳：我不念ㄔㄤˊ我念ㄕㄤ啦](https://www.ptt.cc/bbs/C_Chat/M.1757573965.A.CC3.html)
+[^9]: [専訪鳥熊鼠虫 129題訪談](/ja/other/qna/interview-129)の第5篇
 
 ## ギャラリー
 

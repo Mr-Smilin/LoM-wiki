@@ -23,6 +23,10 @@ tags:
 - [問答集2024年10月](/ja/other/qna/202410)
 - [問答集2024年11月](/ja/other/qna/202411)
 
+## インタビュー
+
+- [専訪鳥熊鼠虫 129題訪談](/ja/other/qna/interview-129) — バハムート板スレ主 K.T. による全129題の文字インタビュー (2026年5月)
+
 ## 江湖軼聞録
 
 [リンク](https://docs.google.com/spreadsheets/d/1ZtmvgQqblKddvBsJF-5HRT5byotuNW7M4SwGBLFRoOQ/edit?usp=sharing)<br>
