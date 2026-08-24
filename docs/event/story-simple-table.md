@@ -123,7 +123,6 @@ tags:
                 [丐幫與嵩山打架](/event/simple/1-08-3-丐幫與嵩山打架)<br>
 				[初識李富貴、樊嘯天](/event/simple/1-09-2-初識李富貴、樊嘯天)<br>
 				[初識福韞](/event/simple/1-09-2-初識福韞)<br>
-				[佛法教育](/event/simple/1-09-2-佛法教育)<br>
 				[龍湘遭竊](/event/simple/1-09-2-龍湘遭竊)<br>
                 [卡牌決鬥](/event/simple/1-09-2-卡牌決鬥)<br>
                 [下山郊遊](/event/simple/1-09-2-下山郊遊)<br>
