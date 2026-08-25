@@ -3841,7 +3841,7 @@ text: '葉雲裳好感+',
         </td>
 		<td>-</td>
 		<td>-</td>
-		<td>機率: <br>(虞小梅好感+1)<br>/101</td>
+		<td>機率: <br>(虞小梅好感+1)/101</td>
 		<td>觸發過<MarkdownWrapper>[鶴手出遊](/event/simple/2-03-2-鶴手出遊)</MarkdownWrapper></td>
 		<td>若未觸發此事件，接續修練事件<br></td>
 	</tr>
