@@ -719,8 +719,9 @@ tags:
 			<td>十月</td>
 			<td>-</td>
 			<td>
-				武林大會<br>
-                大會歸途<br>
+				<MarkdownWrapper>
+                    [武林大會](/event/simple/3-10-2-武林大會)<br>
+                </MarkdownWrapper>
 			</td>
 			<td>-</td>
 		</tr>
