@@ -140,7 +140,7 @@ title: 用語対訳表
 | 收束 (擲骰範囲選択) | 収束 | Convergence | ★MOD (System/DiceRange)。天命擲骰の判定範囲を選べるシステム名 |
 | 投降 | 降参 | Surrender | |
 | 外姓弟子 | 外弟子 | External Disciple | 唐姓以外の門下弟子。内門武功の修習は許されない |
-| 廚藝 | 料理 | Cooking | ★MOD (Position/title/cook)。養成コマンド表の料理スキル (伙房の炊事等で上昇) |
+| 廚藝 | 料理 | Cooking | ★MOD (Position/title/cook)。養成コマンド表の料理スキル (厨房の炊事等で上昇) |
 | 醫術 | 医術 | Medicine | ★MOD (PlayerTalent/Name/2101) |
 | 兵器毀損 (状態) | 兵器損壊 | | ★MOD (PlayerTalent/Name/9110)。東西武林盟会戦で付く状態。鍛冶場の鍛冶で解除 |
 | 代掌門 | 代掌門 | Acting Sect Leader | ★MOD (会話文「代掌門を務めるこの私」)。「掌門代理」としない |

@@ -1,6 +1,6 @@
 ---
-title: 汗青書8：煮られた犬 (被煮的狗)
-description: 汗青書8：煮られた犬
+title: 汗青書8：煮られた狗 (被煮的狗)
+description: 汗青書8：煮られた狗
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -9,12 +9,12 @@ tags:
     - ends
     - 汗青書
     - エンディング
-    - 煮られた犬
+    - 煮られた狗
 ---
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=8 title="煮られた犬">
+<EndBackground no=8 title="煮られた狗">
 狡兎死して<ruby>走狗<rt>そうく</rt></ruby>煮らる、<br>この哀れな犬はもう何の役にも立たない。<br>口先だけの約束でいいように騙されてくれるのだから、<br>実に都合の良い存在だ。<br>
 <br>
 <br>

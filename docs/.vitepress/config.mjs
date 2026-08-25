@@ -960,11 +960,11 @@ const baseConfig = {
 								text: "対戦ガイド",
 								link: "/ja/system/engagement/battle-ui",
 							},
-							{ text: "煉丹効果", link: "/ja/system/pills" },
 							{
 								text: "鍛冶場・煉丹房 開発ロードマップ",
 								link: "/ja/system/forge-roadmap",
 							},
+							{ text: "開発項目一覧", link: "/ja/system/develop-list" },
 							{ text: "道具一覧", link: "/ja/system/items" },
 							{ text: "養成コマンド", link: "/ja/system/training" },
 							{ text: "サウンドトラック", link: "/ja/system/soundtrack" },

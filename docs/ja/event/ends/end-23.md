@@ -1,6 +1,6 @@
 ---
-title: 汗青書23：宦海浮沉 (宦海浮沉)
-description: 汗青書23：宦海浮沉
+title: 汗青書23：宦海浮沈 (宦海浮沉)
+description: 汗青書23：宦海浮沈
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -19,7 +19,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=23 title="宦海浮沉">
+<EndBackground no=23 title="宦海浮沈">
 あなたは官界の処世を覚えた。上には媚びへつらい、<br>下には横暴に。顔の醜さなど、権勢さえ大きければ、<br>誰も陰口ひとつ叩けはしない。ただ、押し黙った<br>人々が、生涯訪ねて来なかった<ruby>江湖<rt>こうこ</rt></ruby>の旧友たちが、<br>心の底であなたを蔑んでいなかったかどうか。<br>それは、分からない。<br>
 </EndBackground>
 

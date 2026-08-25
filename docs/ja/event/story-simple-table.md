@@ -126,7 +126,6 @@ tags:
 				[四師兄、人手を駆り出す](/ja/event/simple/1-09-2-四師兄抓公差)<br>
 				[李富貴・樊嘯天との出会い](/ja/event/simple/1-09-2-初識李富貴、樊嘯天)<br>
 				[福韞との出会い](/ja/event/simple/1-09-2-初識福韞)<br>
-				[仏法教育](/ja/event/simple/1-09-2-佛法教育)<br>
 				[龍湘、盗難に遭う](/ja/event/simple/1-09-2-龍湘遭竊)<br>
 				[龍湘の告発](/ja/event/simple/1-09-3-龍湘告官)<br>
 				[紙札遊戯の対決](/ja/event/simple/1-09-2-卡牌決鬥)<br>
@@ -709,6 +708,8 @@ tags:
 				<MarkdownWrapper>
 				[大会の招待状](/ja/event/simple/3-08-2-大會請帖)<br>
 				[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)<br>
+				[虞小梅を誘う](/ja/event/simple/3-08-2-邀請虞小梅)<br>
+				[郁竹を誘う](/ja/event/simple/3-08-2-邀請郁竹)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>

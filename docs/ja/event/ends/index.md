@@ -145,7 +145,7 @@ tags:
 エンディング8
 </td>
 <td style="color: #a83232;">
-<EndIcon no="8">煮られた犬</EndIcon>
+<EndIcon no="8">煮られた狗</EndIcon>
 </td>
 <td>
 <span style="color: Gray;">【唐門離脱】</span><br>
