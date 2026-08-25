@@ -28,8 +28,8 @@ tags:
 <td>1</td>
 <td>第三年九月下旬
     <br>及第三年十月上旬</td>
-<td>留宿錦香宮</td>
-<td><Girl8Icon>龍湘</Girl8Icon>好感度≧40，觸發夜遊談心事件，並傾聽她的煩惱。</td>
+<td><MarkdownWrapper>[錦香宮作客](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper></td>
+<td><Girl8Icon>龍湘</Girl8Icon>好感度≧40，觸發<MarkdownWrapper>[龍湘夜遊](/event/simple/3-09-3-龍湘夜遊)</MarkdownWrapper>，事件過程不重要。</td>
 <td>好感度刷法: 
     <br>• 在唐門時可刷外堡的龍湘聽講事件，需先觸發<MarkdownWrapper>[初識福韞](/event/simple/1-09-2-初識福韞)</MarkdownWrapper>
     及<MarkdownWrapper>[龍湘遭竊](/event/simple/1-09-2-龍湘遭竊)</MarkdownWrapper>事件。
