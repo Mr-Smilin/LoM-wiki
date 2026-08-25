@@ -78,8 +78,7 @@ tags:
         <td id="風雲史-No.04">04</td>
         <td><AchievementIcon :size="`medium`" :no="`04`">人間道</AchievementIcon></td>
         <td>普天之下，唯有唐門敢與世俗成見為敵，所以溫夫人將未來託付予你。</td>
-        <td>在武林大會前，與錦香宮主會面時，<br>
-            骰子判定骰到少俠留步
+        <td><MarkdownWrapper>[溫夫人託付](/event/simple/3-10-2-溫夫人託付)</MarkdownWrapper>時，成功觸發溫夫人讓你【🎲 少俠留步】
         </td>
         <td></td>
         <td></td>
