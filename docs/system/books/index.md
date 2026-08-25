@@ -488,7 +488,11 @@ tags:
         <td>內力10<br>性情靠中<br>處世靠中<br>道德靠中<br>修養靠中</td>
         <td>50</td>
         <td></td>
-        <td>目前無法獲得(ver 1.0.5000.5)</td>
+        <td>
+            曾在🚩崆峒地牢救小梅(v1.0.5000.13尚未解鎖)。<MarkdownWrapper>[參觀錦香宮](/event/simple/3-09-3-參觀錦香宮)</MarkdownWrapper>時嚮導人選【🎲＜35 畫中仙】。
+            <MarkdownWrapper>[錦香宮自由行動](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper>時選擇<MarkdownWrapper>[挑戰畫中仙](/event/simple/3-09-3-挑戰畫中仙)</MarkdownWrapper>。
+            挑戰畫中仙後，心上人非虞小梅，修練玄燭心經的人選擇👉「我來練」獲得。<br>
+        </td>
         <td></td>
     </tr>
     <tr>
