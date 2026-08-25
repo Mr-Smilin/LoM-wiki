@@ -1871,7 +1871,9 @@ tags:
             所以人家不想讓你活了。
         </td>
         <td>
-            -
+            曾在🚩崆峒地牢救小梅(v1.0.5000.13尚未解鎖)。<MarkdownWrapper>[參觀錦香宮](/event/simple/3-09-3-參觀錦香宮)</MarkdownWrapper>時嚮導人選【🎲＜35 畫中仙】。
+            <MarkdownWrapper>[錦香宮自由行動](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper>時選擇<MarkdownWrapper>[挑戰畫中仙](/event/simple/3-09-3-挑戰畫中仙)</MarkdownWrapper>，
+            且挑戰人選【🎲≥60 我來】，觸發戰畫中仙後落敗進入。
         </td>
         <td>
             -
