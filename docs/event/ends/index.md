@@ -63,7 +63,7 @@ tags:
 結局 1
 </td>
 <td style="color: #a83232;">
-回歸隱居
+回疆隱居
 </td>
 <td>
 <span style="color: red;">【目前版本無法達成】</span>
@@ -275,7 +275,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 結局 18
 </td>
 <td style="color: #a83232;">
-被關到死
+被關到老
 </td>
 <td>
 <span style="color: red;">【目前版本無法達成】</span><br>
