@@ -405,7 +405,7 @@ text: '葉雲裳好感+',
             • 👉 讓她靜一靜: 接續挑柴隨機事件<br>
             • 👉 我來告訴你，用劍: 🆚對決龍湘<br>
             • 勝：武學+6，敗：武學+2、龍湘好感+1<br>
-            • 若初次觸發，且曾與龍湘夜遊: 接龍湘心事<br>
+            • 若初次觸發，且曾觸發<MarkdownWrapper>[龍湘夜遊](/event/simple/3-09-3-龍湘夜遊)</MarkdownWrapper>: 接龍湘心事<br>
         </td>
 		<td>-</td>
 		<td>-</td>
@@ -417,7 +417,7 @@ text: '葉雲裳好感+',
         </td>
 		<td>
 			• 龍湘心事為結緣龍湘必要事件<br>
-            • <text style="color : red">待撰寫</text>: 龍湘夜遊及龍湘心事事件<br>
+            • <text style="color : red">待撰寫</text>: 龍湘心事事件<br>
 		</td>
 	</tr>
     <tr>
