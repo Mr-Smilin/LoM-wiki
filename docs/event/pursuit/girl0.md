@@ -115,7 +115,7 @@ tags:
 </td>
 <td>• 旅途事件: 戰役可設置<Girl0Icon>唐默鈴</Girl0Icon>參加、多處劇情變化。
     <br>• 錦香宮: 多處劇情變化。
-    <br>• 錦香宮: 華音閣聽龍湘演奏事件改為小師妹崇拜版本。</td>
+    <br>• 錦香宮: 華音閣增加<MarkdownWrapper>[「小師妹鼓掌」](/system/training/)</MarkdownWrapper>事件。</td>
 <td></td>
 </tr>
 
