@@ -3740,9 +3740,9 @@ tags:
   </tr>
   <tr>
     <td style="text-align: center">萬靈油</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center"><text style="color:red">待測</text></td>
+    <td style="text-align: center"><text style="color:red">待測</text></td>
+    <td style="text-align: center"><text style="color:red">待測</text></td>
     <td style="text-align: center">
         體力+1<br>
         內力+1<br>
