@@ -74,7 +74,7 @@ tags:
 <tr>
 <td>1</td>
 <td>結緣後任意時間點</td>
-<td>伙房「小師妹代班」</td>
+<td>伙房<MarkdownWrapper>[「小師妹代班」](/system/training/)</MarkdownWrapper></td>
 <td>本事件插圖改變。</td>
 <td></td>
 </tr>
@@ -83,14 +83,14 @@ tags:
 <td>2</td>
 <td>結緣後任意時間點</td>
 <td>下山鬧市逛街</td>
-<td>新增<Girl0Icon>唐默鈴</Girl0Icon>同遊事件「教她認路」。</td>
+<td>新增<Girl0Icon>唐默鈴</Girl0Icon>同遊事件<MarkdownWrapper>[「得意洋洋」](/system/training/)</MarkdownWrapper>。</td>
 <td>心相+30</td>
 </tr>
 
 <tr>
 <td>3</td>
 <td>結緣後任意時間點</td>
-<td>後山練功「小師妹烤魚」</td>
+<td>後山練功<MarkdownWrapper>[「小師妹烤魚」](/system/training/)</MarkdownWrapper></td>
 <td>拒絕的結果改為與<Girl0Icon>唐默鈴</Girl0Icon>一起練功。</td>
 <td>武學+3、心相+5</td>
 </tr>
@@ -98,7 +98,7 @@ tags:
 <tr>
 <td>5</td>
 <td>第三年八月中旬</td>
-<td>武林大會請帖</td>
+<td><MarkdownWrapper>[大會請帖](/event/simple/3-08-2-大會請帖)</MarkdownWrapper></td>
 <td>若唐陞好感≧35，且滿足下列條件，可讓<Girl0Icon>唐默鈴</Girl0Icon>同行武林大會:
     <br>• 若道德≧60，三師兄直接讓你帶她去。
     <br>• 若道德＜60，選擇「可以(撒謊)」才可以帶去。</td>
@@ -109,7 +109,10 @@ tags:
 <td>6</td>
 <td>第三年九月上旬
     <br>到第四年十月上旬</td>
-<td>前往及留宿錦香宮</td>
+<td>
+    <li><MarkdownWrapper>[前往武林大會](/event/simple/3-09-1-前往武林大會)</MarkdownWrapper></li>
+    <li><MarkdownWrapper>[錦香宮作客](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper></li>
+</td>
 <td>• 旅途事件: 戰役可設置<Girl0Icon>唐默鈴</Girl0Icon>參加、多處劇情變化。
     <br>• 錦香宮: 多處劇情變化。
     <br>• 錦香宮: 華音閣聽龍湘演奏事件改為小師妹崇拜版本。</td>
@@ -119,7 +122,7 @@ tags:
 <tr>
 <td>6</td>
 <td>第三年十月中旬</td>
-<td>武林大會</td>
+<td><MarkdownWrapper>[武林大會](/event/simple/3-10-2-武林大會)</MarkdownWrapper></td>
 <td>• 多處劇情變化。
     <br>• <Girl0Icon>唐默鈴</Girl0Icon>可參與戰役及決鬥。</td>
 <td></td>
