@@ -176,7 +176,7 @@ It can repel insects and snakes, but prolonged exposure can be poisonous.
 
 -   Introduction by Bird Bear FB: [Link](https://www.facebook.com/obbstudio/photos/pb.100076301525150.-2207520000/119387850459402/?type=3)
 -   Birthday is on 3/24.
--   She was born on a day when the Tang Sect was at war with another sect. [^6]
+-   She was born on a day when the Tang Sect was at war with the [Point Cang Faction](/en/people/factions/dian-cang-sect) (during the Point Cang challenge to Tangmen in the [Pre-Game History Timeline](/en/event/pre-game-timeline)). [^6]
 -   The first female protagonist designed by Xiong, originally intended to be the only romanceable character, and also Xiong's favorite character.
 -   Loves eating grilled fish, a lifelong love for grilled fish!
 -   When she sees someone feeling down, she will pat them on the back with her small hands to cheer them up. She firmly believes that her small hands possess a mysterious power to heal people's hearts, which works wonders on her father, elder martial brother, and second martial brother. If it doesn't work on you, try patting a few more times.
