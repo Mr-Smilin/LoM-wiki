@@ -3739,10 +3739,13 @@ tags:
     </td>
   </tr>
   <tr>
-    <td style="text-align: center">萬靈油</td>
-    <td style="text-align: center"><text style="color:red">待測</text></td>
-    <td style="text-align: center"><text style="color:red">待測</text></td>
-    <td style="text-align: center"><text style="color:red">待測</text></td>
+    <td style="text-align: center">萬靈油<br><img src="/images/items/medis/icon_medi_22.webp" style="width:100px"></td>
+    <td style="text-align: center">
+        <li>南螫礜石散<br>開發中<br></li>
+        <li>門派規模2<br></li>
+    </td>
+    <td style="text-align: center">25</td>
+    <td style="text-align: center">750</td>
     <td style="text-align: center">
         體力+1<br>
         內力+1<br>
