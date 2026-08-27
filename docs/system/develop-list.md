@@ -3647,7 +3647,7 @@ tags:
   </tr>
 
   <tr>
-    <td style="text-align: center">南螫礜石散<br><img src="/images/items/medis/icon_medi_01.webp" style="width:100px"></td>
+    <td style="text-align: center">南蝥礜石散<br><img src="/images/items/medis/icon_medi_01.webp" style="width:100px"></td>
     <td style="text-align: center">無</td>
     <td style="text-align: center">15</td>
     <td style="text-align: center">300</td>
@@ -3664,7 +3664,7 @@ tags:
   <tr>
     <td style="text-align: center">穿心龍膽湯<br><img src="/images/items/medis/icon_medi_02.webp" style="width:100px"></td>
     <td style="text-align: center">
-        <li>南螫礜石散<br>開發中<br></li>
+        <li>南蝥礜石散<br>開發中<br></li>
     </td>
     <td style="text-align: center">15</td>
     <td style="text-align: center">300</td>
@@ -3681,7 +3681,7 @@ tags:
   <tr>
     <td style="text-align: center">乖乖水<br><img src="/images/items/medis/icon_medi_04.webp" style="width:100px"></td>
     <td style="text-align: center">
-        <li>南螫礜石散<br>開發中<br></li>
+        <li>南蝥礜石散<br>開發中<br></li>
     </td>
     <td style="text-align: center">15</td>
     <td style="text-align: center">300</td>
@@ -3714,7 +3714,7 @@ tags:
   <tr>
     <td style="text-align: center">睡丹<br><img src="/images/items/medis/icon_medi_05.webp" style="width:100px"></td>
     <td style="text-align: center">
-        <li>南螫礜石散<br>開發中<br></li>
+        <li>南蝥礜石散<br>開發中<br></li>
     </td>
     <td style="text-align: center">25</td>
     <td style="text-align: center">500</td>
@@ -3741,7 +3741,7 @@ tags:
   <tr>
     <td style="text-align: center">萬靈油<br><img src="/images/items/medis/icon_medi_22.webp" style="width:100px"></td>
     <td style="text-align: center">
-        <li>南螫礜石散<br>開發中<br></li>
+        <li>南蝥礜石散<br>開發中<br></li>
         <li>門派規模2<br></li>
     </td>
     <td style="text-align: center">25</td>
