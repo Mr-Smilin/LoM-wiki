@@ -3765,8 +3765,9 @@ tags:
             若🚩<MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>、<br>
             🚩<MarkdownWrapper>[葉雲裳同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，<br>
             前往錦香宮時選擇搭船，<br>
-            已解鎖此物可防止雲裳暈船<br>
-            (不需要真的做出成品)。<br>
+            已解鎖此物可防止雲裳暈船。<br>
+            只要曾經長按解鎖過就行，<br>
+            不需要真的做出成品。<br>
         </li>
     </td>
   </tr>  
