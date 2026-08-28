@@ -41,7 +41,7 @@ tags:
       <li>影響劇情分歧，如<MarkdownWrapper>[師妹招親觀戰的點評](/event/simple/3-05-1-師妹招親後半)</MarkdownWrapper></li>
       <li><MarkdownWrapper>[增加單次修練最大消費點數](https://www.pttweb.cc/bbs/C_Chat/M.1722466578.A.B4D)</MarkdownWrapper>(最高25，全武學335時達到)</li>
       <li><MarkdownWrapper>[增加對決中的氣力上限](https://www.pttweb.cc/bbs/C_Chat/M.1785185363.A.B41)</MarkdownWrapper>(最高85，全武學350時達到)</li>
-      <li>增加對決中看破對方意圖的機率(待確認)</li>
+      <li>可能增加對決中看破對方意圖的機率(待確認)</li>
     </td>
     <td>
       <li>遊戲中任何可獲得武學點數的方式</li>
