@@ -61,7 +61,7 @@ tags:
     </td>
     <td>
       <li>影響劇情分歧，如觸發<MarkdownWrapper>[治療大師兄](/event/detailed_description/4-02-2-飛俠歸來)</MarkdownWrapper></li>
-      <li>部分項目的解鎖，如開發<MarkdownWrapper>[唐門牙粉](/system/facility)</MarkdownWrapper></li>
+      <li>項目的解鎖，如開發<MarkdownWrapper>[唐門牙粉](/system/facility)</MarkdownWrapper></li>
       <li><MarkdownWrapper>[增加單次煉丹最大消費點數](https://www.pttweb.cc/bbs/C_Chat/M.1722466578.A.B4D)</MarkdownWrapper>(最高25，全煉丹486時達到)</li>
     </td>
     <td>
@@ -82,7 +82,7 @@ tags:
     </td>
     <td>
       <li>影響劇情分歧，如<MarkdownWrapper>東西武林盟會戰後替夏侯蘭修傘</MarkdownWrapper></li>
-      <li>部分項目的解鎖，如開發<MarkdownWrapper>[變重石鎖](/system/facility)</MarkdownWrapper></li>
+      <li>項目的解鎖，如開發<MarkdownWrapper>[變重石鎖](/system/facility)</MarkdownWrapper></li>
       <li><MarkdownWrapper>[增加單次鍛造最大消費點數](https://www.pttweb.cc/bbs/C_Chat/M.1722466578.A.B4D)</MarkdownWrapper>(最高25，全鍛造495時達到)</li>
     </td>
     <td>
@@ -108,7 +108,7 @@ tags:
     <td>
       <li>主要透過<MarkdownWrapper>[伙房工作指令](/system/training/)</MarkdownWrapper>增加</li>
       <li>其他指令的烹飪事件可增加，如後山修練烤魚</li>
-      <li>部分劇情可獲得，如<MarkdownWrapper>[唐門財務改善](/event/simple/1-08-1-唐門財務改善)</MarkdownWrapper>中獲得廚具</li>
+      <li>劇情可獲得，如<MarkdownWrapper>[唐門財務改善](/event/simple/1-08-1-唐門財務改善)</MarkdownWrapper>中獲得廚具</li>
     </td>
     <td></td>
   </tr>
@@ -122,7 +122,7 @@ tags:
     </td>
     <td>
       <li>達10點以上觸發變心夢，夢後歸零</li>
-      <li>影響部分劇情分歧，如<MarkdownWrapper>[前往武林大會](/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>時的對話</li>
+      <li>影響劇情分歧，如<MarkdownWrapper>[前往武林大會](/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>時的對話</li>
     </td>
     <td>
       <li>主要透過劇情增減</li>
@@ -160,8 +160,8 @@ tags:
       <li>影響劇情分歧，如<MarkdownWrapper>[武林大會](/event/simple/3-10-2-武林大會)</MarkdownWrapper>中各派投票的天命補正值</li>
     </td>
     <td>
-      <li>部分劇情可增減，如<MarkdownWrapper>[前往武林大會](/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>時泥教攔路事件</li>
-      <li>部分<MarkdownWrapper>[養成指令](/system/training/)</MarkdownWrapper>可增減，如唐門留學生事件</li>
+      <li>劇情可增減，如<MarkdownWrapper>[前往武林大會](/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>時泥教攔路事件</li>
+      <li><MarkdownWrapper>[養成指令](/system/training/)</MarkdownWrapper>可增減，如唐門留學生事件</li>
     </td>
     <td></td>
   </tr>
