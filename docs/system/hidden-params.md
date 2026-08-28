@@ -12,7 +12,7 @@ tags:
 
 # {{ $frontmatter.title }}
 ::: warning
-- 本條目處於草創階段，歡迎補充。<br>
+- 本條目處於草創階段。<br>
 :::
 
 ## 簡介
@@ -129,7 +129,10 @@ tags:
       <li>部份<MarkdownWrapper>[養成指令](/system/training/)</MarkdownWrapper>可增減，如男弟子房摺紙</li>
     </td>
     <td>
-      <li>可透過增加多少變心點後觸發變心夢，來推估當前數值</li>
+      <li>
+          可透過增加多少變心點後觸發變<br>
+          心夢，來推估當前數值(需先存檔)
+      </li>
     </td>
   </tr>
 
