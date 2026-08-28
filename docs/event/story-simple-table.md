@@ -947,3 +947,6 @@ tags:
 </tbody>
 </table>
 </div>
+
+## 備註
+- 事件腳本中常涉及的隱藏參數，請見[隱藏參數列表](/system/hidden-params)。
