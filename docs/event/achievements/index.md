@@ -109,8 +109,8 @@ tags:
         <td>有夢想不是壞事，但人要務實。</td>
         <td>
             一個周目內達成以下兩項：<br>
-            第一年六月談論掌門人選選擇自己，<br>
-            且在第三年十月武林盟主事件選擇自己當盟主。
+            第一年六月<MarkdownWrapper>[談論掌門人選](/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>選擇自己，<br>
+            且在第三年十月<MarkdownWrapper>[武林大會](/event/simple/3-10-2-武林大會)</MarkdownWrapper>事件<MarkdownWrapper>[選擇自己當盟主](/event/simple/3-10-2-盟主誕生)</MarkdownWrapper>。
         </td>
         <td></td>
         <td></td>
