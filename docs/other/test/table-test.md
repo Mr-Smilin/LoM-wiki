@@ -37,7 +37,7 @@ tags:
     </td>
     <td> 
       • <MarkdownWrapper>[link 1](#1)</MarkdownWrapper><br>
-      • <MarkdownWrapper>[link 2](#2)</MarkdownWrapper><br>
+      • <MarkdownWrapper>[link 2](#"拜會孤雲山")</MarkdownWrapper><br>
       • <MarkdownWrapper>[link 3](#3)</MarkdownWrapper><br>
       • <br>
       • <br>
@@ -72,7 +72,7 @@ tags:
     <td></td>
   </tr>
 
-  <tr id = 2>
+  <tr id = "拜會孤雲山">
     <td>拜會崆峒</td>
     <td>
       接續「談話選擇」階段<br>
