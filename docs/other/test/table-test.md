@@ -30,8 +30,8 @@ tags:
     <th>備註</th>
   </tr>
 
-  <tr>
-    <td id = 1>拜會丐幫</td>
+  <tr id = 1>
+    <td>拜會丐幫</td>
     <td>
       接續「談話選擇」階段<br>
     </td>
@@ -72,8 +72,8 @@ tags:
     <td></td>
   </tr>
 
-  <tr>
-    <td id = 2>拜會崆峒</td>
+  <tr id = 2>
+    <td>拜會崆峒</td>
     <td>
       接續「談話選擇」階段<br>
     </td>
@@ -114,8 +114,8 @@ tags:
     <td></td>
   </tr>
 
-  <tr>
-    <td id = 3>拜會全真</td>
+  <tr id = 3>
+    <td>拜會全真</td>
     <td>
       接續「談話選擇」階段<br>
     </td>
