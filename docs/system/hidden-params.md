@@ -115,7 +115,7 @@ tags:
 
   <tr>
     <td style="text-align: center">
-      變心點數
+      變心
     </td>
     <td>
       對心上人的不忠誠度
