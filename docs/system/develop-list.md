@@ -416,7 +416,7 @@ tags:
     <td style="text-align: center">77</td>
     <td style="text-align: center">85</td>
     <td rowspan=8>
-        <li>🚩<MarkdownWrapper>[葉雲舟同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，<br>且大會中途未離開唐門<br>(即趙活未挑戰上官隼)，<br>大會後客棧觸發嶺南派劇情，<br>葉雲舟好感≥40獲得。<br></li>
+        <li>🚩<MarkdownWrapper>[葉雲舟同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，<br>且大會中途未離開唐門<br>(即趙活未挑戰上官隼，<br>且🚩<MarkdownWrapper>[葉雲舟代表唐門出戰](/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>)，<br>大會後客棧觸發嶺南派劇情，<br>葉雲舟好感≥40獲得。<br></li>
     </td>
     <td rowspan=8></td>
   </tr>
