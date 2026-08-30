@@ -28,7 +28,7 @@ tags:
                 [ゲーム開始](/ja/event/simple/1-04-1-遊戲開局)<br> 
 				[最初の夜](/ja/event/simple/1-04-1-第一晚)<br> 
 				[各施設の初期イベント](/ja/event/simple/1-04-1-各設施初始事件)<br>
-				[後山で人を押す](/ja/event/simple/1-04-1-後山推人)<br>
+				[後山で突き落とされる](/ja/event/simple/1-04-1-後山推人)<br>
 				[怠け者](/ja/event/simple/1-04-1-偷懶怪)<br>
 				[龍湘の食い逃げ](/ja/event/simple/1-04-1-龍湘霸王餐)<br>
 				[四師兄との切磋](/ja/event/simple/1-04-1-切磋四師兄)<br>

@@ -600,7 +600,7 @@ text: '葉雲裳好感+',
 		<td>-</td>
 		<td>-20</td>
 		<td>
-			<MarkdownWrapper>[後山で人を押す](/ja/event/simple/1-04-1-後山推人)</MarkdownWrapper>イベントが発生<br>
+			<MarkdownWrapper>[後山で突き落とされる](/ja/event/simple/1-04-1-後山推人)</MarkdownWrapper>イベントが発生<br>
 		</td>
 		<td>-</td>
 		<td>-</td>

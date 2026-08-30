@@ -27,6 +27,7 @@ tags:
 | 約二十年前 | 武林第三次同盟：[決戦極楽教](/ja/event/stories/決戰極樂教) | 盟主[龍淵](/ja/people/characters/special2)が武林を率いて[極楽教](/ja/people/factions/elysium-school)を討伐、旧魔教は滅亡。唐門・嵩山派は共に大きな打撃を受ける |
 | (決戦極楽教の後まもなく～約十年前) | [点蒼派](/ja/people/factions/dian-cang-sect)の唐門への挑戦 | 決戦極楽教で毒薬を飲んで無理に功力を高めた後遺症を抱えたまま[唐中翎](/ja/people/characters/master)が応戦。長引いた戦いの最中に師娘[唐鹿](/ja/people/characters/other10)が世を去った |
 | 十数年前 | [江陵府官道の穀物奪取事件](/ja/event/stories/江陵府官道劫糧案) | 官糧が奪われ、[南宮世家](/ja/people/factions/nan-gong-family)が長年濡れ衣を着せられる |
+| 十数年前 | 大理の政変 ([大理段氏の帝系](/ja/other/dali-duan-lineage)) | 高氏の権臣が段氏傍系の末裔・五歳の[段智秀](/ja/people/characters/special833)を担いで政変を起こし失敗。段智秀は世子位と忠国公府の継承権を奪われ[点蒼派](/ja/people/factions/dian-cang-sect)へ流刑となる |
 | 約十年前 | [錦香宮](/ja/people/factions/jin-xiang-palace)の洞庭移転 | 杏花仙[瑞杏](/ja/people/characters/girl1)が宮殿を弟子入りの礼として献上、閣を挙げて洞庭湖に移り住む |
 | 極楽教滅亡後、数年～十年の間 | [白風峒変乱](/ja/event/stories/白風峒變亂) | 逃亡した極楽左使が「[李元棄](/ja/people/characters/special213)」と名乗り郴州で挙兵、最終的に討ち取られる |
 | (白風峒変乱と同時期) | [岳家軍の兵符](/ja/event/stories/岳家軍兵符) | 葉家が三代守り抜いた岳家軍の兵符の秘密が露見し、一族が滅門。兄妹は孤児となる |
@@ -63,6 +64,7 @@ tags:
 
 - **[青城論道](/ja/event/stories/青城論道)**(二十数年前)：崆峒の[火龍仙君](/ja/people/characters/special204)、全真の[丘處機](/ja/people/characters/special209)、[郝大通](/ja/people/characters/other4)、青城の[鄒博](/ja/people/characters/special201)、[趙逵](/ja/people/characters/special403)が一堂に会し論道した。この場で[火龍仙君](/ja/people/characters/special204)に道籍を曲解された[趙逵](/ja/people/characters/special403)は、その後の決戦極楽教で左護法の[李元棄](/ja/people/characters/special213)の魔功に敗れたことをきっかけに性情がいっそう残忍になり、最終的に[泥教](/ja/people/factions/mud-school)の地獄道法王に堕落した。
 - **[唐門](/ja/people/factions/tang-men)の刑場破り**：掌門就任前の[唐中翎](/ja/people/characters/master)が、少年の[唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2)を率いて、権貴に罪を得て斬首されかけていた[唐陞](/ja/people/characters/brother3)を刑場から救い出した。これは美談だが、以後十数年にわたり唐門は朝廷に目の敵にされ、[大宋](/ja/people/factions/song-dynasty)皇帝が[上官世家](/ja/people/factions/shang-guan-family)に唐門弱体化を命じる遠因となった。
+- **大理の政変**(十数年前)：大理では建国以来、太祖・段思平の直系と弟・段思良の系統が帝位を奪い合い、権臣の高氏が皇帝を次々に出家させて実権を握ってきた。憲宗・段和誉に抑え込まれていた高氏は、宣宗・段智興が国庫を傾けて六十の寺院を建てた頃、傍系の末裔で当時五歳の[段智秀](/ja/people/characters/special833)を担いで政変を起こしたが失敗。仏を崇める先帝は幼い段智秀の命を取らず、点蒼派へ流刑にした。段智秀が[松煙閣](/ja/other/dali-duan-lineage#松煙閣と段智秀)を預かりながら「高くも低くもある」身分に置かれている経緯であり、帝系の全体は[大理段氏の帝系](/ja/other/dali-duan-lineage)にまとめた。
 - **[点蒼派](/ja/people/factions/dian-cang-sect)の唐門への挑戦**：決戦極楽教の直後、その弱り目につけこんで挑んできた[点蒼派](/ja/people/factions/dian-cang-sect)に、後遺症を抱えたままの[唐中翎](/ja/people/characters/master)が応戦した。戦いは意外なほど長引き、その最中に師娘[唐鹿](/ja/people/characters/other10)が幼い[唐默鈴](/ja/people/characters/girl0)を残して世を去った。掌門は[無名](/ja/people/characters/special406)(点蒼剣聖)を打ち倒したが唐門の痛手も大きく、[南宮世家](/ja/people/factions/nan-gong-family)家主の仲裁で剣聖を封剣隠退させ、点蒼の撤退と引き換えた。
     - [唐默鈴](/ja/people/characters/girl0)の列伝(母の死後十年間の折り鶴)と第一年時点の推定15歳から、師娘の死は開幕の約十年前。つまり戦いは決戦極楽教の直後から約十年続き、[趙活](/ja/people/characters/player)の入門もこの間にあたる。師娘は死の間際、小師妹の世話を趙活に託している。
 
