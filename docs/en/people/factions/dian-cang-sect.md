@@ -97,6 +97,8 @@ Legend has it that the former Point Cang Sword Saint was aloof and proud, challe
 <br><br>
 To preserve the sanctity of the Sword Saint's residence, it is strictly guarded at all times. Only Point Cang disciples who have made significant contributions are allowed to enter the Sword Abode for three days to comprehend martial arts. Those who can grasp the three sword intents left by the Sword Saint will be named the contemporary Sword Saint, a position even more revered than the head of Point Cang, with even the Emperor of Dali showing respect.
 <br><br>
+An Emperor of Dali has himself held the title: Xianzong, Duan Heyu, trained at Point Cang as a boy and, with his family's internal art mastered, was known as the Point Cang Sword Saint of his day (see [Dali Duan Imperial Lineage](/en/other/dali-duan-lineage)).
+<br><br>
 [[Ye Yunshang]] displayed exceptional talent, creating the fourth move of the Sword Saint [[Yunshang Sword Art|“Roaming the Hometown with Fragrant Sleeves, Spring Weeps at Dawn, Don’t Hold Back”]] after sneaking in for a brief moment in his childhood.
 
 ## Grudge with the Tang Sect
