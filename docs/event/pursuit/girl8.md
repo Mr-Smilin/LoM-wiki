@@ -38,7 +38,7 @@ tags:
 <tr>
 <td>2</td>
 <td>第三年十月中旬</td>
-<td><MarkdownWrapper>[武林大會](/event/simple/3-10-2-唐門抉擇)</MarkdownWrapper></td>
+<td><MarkdownWrapper>[武林大會](/event/simple/3-10-2-錦香真相.html#龍湘求助)</MarkdownWrapper></td>
 <td><Girl8Icon>龍湘</Girl8Icon>好感度≧30，錦香宮被揭發後，選擇📖「不顧旁人冷眼收留龍湘」。</td>
 <td></td>
 </tr>
