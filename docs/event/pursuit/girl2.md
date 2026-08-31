@@ -90,8 +90,8 @@ tags:
     <br>• <MarkdownWrapper>[「唐門迎敵」](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>中不要🚩離開山路(僅選擇大門可能離開)。
     <br>• 🗡️戰役過後(勝負無關)，需心上人為<Girl2Icon>葉雲裳</Girl2Icon>，以觸發青城留學。
 </td>
-<td>• 留學期間，因為主線是寫死的，故除了生存下去外沒有必要條件。
-    <br>• 但由於留學歸來後主線緊湊，強烈建議留學期間達成<Girl2Icon>葉雲裳</Girl2Icon>好感≧30，以及修練完<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>等級3。
+<td>• 留學期間，因為主線是寫死的，故除了生存下去外沒有必要條件。<br>
+    • 但由於留學歸來後主線緊湊，強烈建議留學期間達成<Girl2Icon>葉雲裳</Girl2Icon>好感≧30，以及修練完<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>等級3。<br>
 </td>
 </tr>
 
@@ -100,22 +100,25 @@ tags:
 <td>第二年十二月上旬</td>
 <td><MarkdownWrapper>[葉雲舟歸來](/event/simple/2-12-1-葉雲舟歸來)</MarkdownWrapper></td>
 <td><Girl2Icon>葉雲裳</Girl2Icon>好感≧30，且技能<MarkdownWrapper>[《醫術》](/system/skill)</MarkdownWrapper>等級≧3，以觸發🚩「聽說寂滅三摩地」。</td>
-<td><MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級造成對話變化。</td>
+<td>
+    • 為減輕下一階段時間壓力，建議修練至<MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級2。<br>
+    • 若無佛學類秘笈，可考慮購買<MarkdownWrapper>[《太祖長拳》](/system/books/book_3001)</MarkdownWrapper>或<MarkdownWrapper>[《金鐘罩》](/system/books/book_1030)</MarkdownWrapper>。<br>
+</td>
 </tr>
 
 <tr>
 <td>7</td>
 <td>第三年一月上旬</td>
 <td><MarkdownWrapper>[葉氏兄妹離去](/event/simple/3-01-1-葉氏兄妹離去)</MarkdownWrapper></td>
-<td>• 先確保心上人為<Girl2Icon>葉雲裳</Girl2Icon>。
-    <br>• 葉雲舟的想法🎲擲骰到【≧80】「葉雲裳的抵抗」(若無<MarkdownWrapper>[命運收束之力](/event/achievements/#風雲史-No.16)</MarkdownWrapper>，需葉雲裳好感≧30)。
-    <br>• 你的建議選擇📖「勸葉雲舟留」。
-    <br>• 與唐芳談話後可獲得<MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>。
+<td>• 先確保心上人為<Girl2Icon>葉雲裳</Girl2Icon>。<br>
+    • 葉雲舟的想法🎲擲骰到【≧80】「葉雲裳的抵抗」(若無<MarkdownWrapper>[命運收束之力](/event/achievements/#風雲史-No.16)</MarkdownWrapper>，需葉雲裳好感≧30)。<br>
+    • 你的建議選擇📖「勸葉雲舟留」。<br>
+    • 與唐芳談話後可獲得<MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>。<br>
 </td>
-<td>• <MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級造成對話變化。
-    <br>• <MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>需在第三年五月上旬前修練完畢。
-    <br>• <MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>需<MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級2，若不足可在四月上旬前購買<MarkdownWrapper>[《太祖長拳》](/system/books/book_3001)</MarkdownWrapper>或<MarkdownWrapper>[《金鐘罩》](/system/books/book_1030)</MarkdownWrapper>修練。
-    <br>• 若有餘裕，也建議購買並修練<MarkdownWrapper>[《南宮心法》](/system/books/book_7012)</MarkdownWrapper>。
+<td>
+    • <MarkdownWrapper>[《九轉殘篇》](/system/books/book_8109)</MarkdownWrapper>需在第三年五月上旬前修練完畢。<br>
+    • 修練《九轉殘篇》需<MarkdownWrapper>[《佛學》](/system/skill)</MarkdownWrapper>等級2(見上一階段備註)。<br>
+    • 若有餘裕，也建議購買並修練<MarkdownWrapper>[《南宮心法》](/system/books/book_7012)</MarkdownWrapper>。<br>
 </td>
 </tr>
 
