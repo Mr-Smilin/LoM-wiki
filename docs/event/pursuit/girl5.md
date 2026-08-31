@@ -115,7 +115,7 @@ tags:
 <tr>
 <td>1</td>
 <td>第三年八月下旬</td>
-<td>邀請夏侯蘭</td>
+<td><MarkdownWrapper>[邀請夏侯蘭](/event/simple/3-08-3-邀請夏侯蘭)</MarkdownWrapper></td>
 <td>• 此時從大門下山可以選擇📜「邀請夏侯蘭」一起前往武林大會。
     <br>• 無論過程如何，<Girl5Icon>夏侯蘭</Girl5Icon>不會一同前往。</td>
 <td>若選擇📖「不是」、再📖「襲擊夏侯蘭」，並且🗡️對決落敗，可以解鎖防具<MarkdownWrapper>[密密縫](/system/forge-roadmap)</MarkdownWrapper>，不過素質不如護心鏡。</td>
@@ -144,7 +144,7 @@ tags:
 <td>4</td>
 <td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬(成立西武林盟)</td>
-<td>陪伴夏侯蘭</td>
+<td>伴侶之約</td>
 <td>• 從大門下山可觸發與<Girl5Icon>夏侯蘭</Girl5Icon>陪伴事件。
     <br>• 若有其他結緣者，則觸發任一人的陪伴劇情，會被修羅場事件取代，若🗡️對決落敗會進入<MarkdownWrapper>[生死簿82: 跟黑暗大法師一樣](/event/badends/#生死簿-No.82)</MarkdownWrapper>。</td>
 <td>若不觸發此事件，則剩2行動點時自動觸發夏侯蘭等不到你的事件。</td>
