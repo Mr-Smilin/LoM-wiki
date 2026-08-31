@@ -38,7 +38,7 @@ tags:
 <tr>
 <td>2</td>
 <td>第三年十月中旬</td>
-<td>武林大會</td>
+<td><MarkdownWrapper>[武林大會](/event/simple/3-10-2-唐門抉擇)</MarkdownWrapper></td>
 <td><Girl8Icon>龍湘</Girl8Icon>好感度≧30，錦香宮被揭發後，選擇📖「不顧旁人冷眼收留龍湘」。</td>
 <td></td>
 </tr>
@@ -46,9 +46,12 @@ tags:
 <td>3</td>
 <td>第三年十一月中旬起，
     <br>到條件5時間點為止</td>
-<td>龍湘後山練劍</td>
+<td>
+    <li><MarkdownWrapper>[龍湘練劍](/system/training/)</MarkdownWrapper></li>
+    <li>龍湘心事</li>
+</td>
 <td>• 先確保心上人為<Girl8Icon>龍湘</Girl8Icon>
-    <br>• 至後山挑柴隨機觸發本事件(需滿足條件2)，選擇📖「我來告訴你，用劍」。
+    <br>• 至後山挑柴隨機觸發<MarkdownWrapper>[龍湘練劍](/system/training/)</MarkdownWrapper>(需滿足條件2)，選擇📖「我來告訴你，用劍」。
     <br>• 無論勝負，閒聊(需滿足條件1)完📜「初識之時」與📜「錦香宮」後，選擇📜「龍湘的心事」(需心上人為龍湘)，接著滿足以下任一條件:
     <br>1. 若修養中庸以上，觸發🎲天命並擲骰到【≧60】「說」。
     <br>2. 若修養暴躁以下，且選擇📖「不了我不問了」，觸發🎲天命後擲骰到【≧80】「說」。
@@ -69,7 +72,7 @@ tags:
 <td>5</td>
 <td>• 第三年十二月下旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年一月下旬(成立西武林盟)</td>
-<td>龍湘飛鴿傳書</td>
+<td>龍湘結緣</td>
 <td>• 需滿足條件3、4才能觸發。
     <br>• 完成此事件，獲得道具【龍湘的髮簪】後，即完成結緣。</td>
 <td>• 無論戰鬥輸贏都能與龍湘結緣，但若戰鬥輸給龍湘(8回合後的自動落敗除外)會無法與龍淵對話。
@@ -92,7 +95,7 @@ tags:
 <tr>
 <td>1</td>
 <td>結緣後任意時間點</td>
-<td>龍湘泡溫泉</td>
+<td><MarkdownWrapper>[龍湘泡溫泉](/system/training/)</MarkdownWrapper></td>
 <td>下山泡溫泉時，可以觸發在溫泉外陪伴龍湘的隨機事件。</td>
 <td>心相+50</td>
 </tr>
@@ -100,7 +103,7 @@ tags:
 <td>2</td>
 <td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬(成立西武林盟)</td>
-<td>後山陪伴</td>
+<td>伴侶之約</td>
 <td>至後山可觸發與龍湘約會劇情。</td>
 <td>若不觸發此事件，則剩2行動點時自動觸發龍湘等不到你的事件。</td>
 </tr>
@@ -126,7 +129,7 @@ tags:
 <tr>
 <td>5</td>
 <td>第四年三月上旬</td>
-<td>武林盟主對決(西武林線)</td>
+<td>眉山決戰</td>
 <td>• 劇情有龍湘陪同。
     <br>• 結局畫面與龍湘相伴。
     <br>• 戰勝可達成<MarkdownWrapper>[風雲史《忘憂俠侶》](/event/achievements/#風雲史-No.14)</MarkdownWrapper>。</td>
