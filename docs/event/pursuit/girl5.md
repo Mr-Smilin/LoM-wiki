@@ -179,7 +179,7 @@ tags:
 <tr>
 <td>7</td>
 <td>第四年三月上旬</td>
-<td>武林盟主對決(西武林線)</td>
+<td>眉山決戰</td>
 <td>• 劇情有<Girl5Icon>夏侯蘭</Girl5Icon>陪同。
     <br>• 結局畫面與夏侯蘭相伴。
     <br>• 戰勝可達成<MarkdownWrapper>[風雲史《雪山派大弟子》](/event/achievements/#風雲史-No.12)</MarkdownWrapper>。</td>
