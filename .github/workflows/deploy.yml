@@ -48,6 +48,8 @@ jobs:
       - name: Build with VitePress
         run: npm run docs:build # 或 pnpm docs:build / yarn docs:build / bun run docs:build
         env:
+          # 頁面數成長後，預設 heap (約 4GB) 會在 render 階段 OOM，故提高上限
+          NODE_OPTIONS: --max-old-space-size=8192
           ALGOLIA_ID: ${{ secrets.ALGOLIA_ID }}
           ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
           GOOGLE_ANALYTICS: ${{ secrets.GOOGLE_ANALYTICS }}
