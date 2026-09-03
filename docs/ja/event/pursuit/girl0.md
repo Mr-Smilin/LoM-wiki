@@ -138,7 +138,7 @@ tags:
 <td>8</td>
 <td>• 4年目1月中旬(西武林盟を成立せず徹底抗戦)
     <br>• または4年目2月中旬(西武林盟成立)</td>
-<td>小師妹に付き添う</td>
+<td>伴侶の約束</td>
 <td>女弟子房に行くと<Girl0Icon>唐默鈴</Girl0Icon>の髪を梳くイベントが発生する。</td>
 <td>このイベントを発生させない場合、残り行動回数2の時点で<Girl0Icon>唐默鈴</Girl0Icon>が待ちぼうけを食らうイベントが自動発生する。</td>
 </tr>
@@ -169,7 +169,7 @@ tags:
 <tr>
 <td>11</td>
 <td>4年目3月上旬</td>
-<td>武林盟主決戦(西武林ルート)</td>
+<td>眉山決戦</td>
 <td>• <Girl0Icon>唐默鈴</Girl0Icon>が同行する展開になる。
     <br>• 結末画面で唐默鈴が寄り添う。
     <br>• 勝利すると<MarkdownWrapper>[風雲史《唐門の婿殿》](/ja/event/achievements/#風雲史-No.13)</MarkdownWrapper>を達成できる。</td>

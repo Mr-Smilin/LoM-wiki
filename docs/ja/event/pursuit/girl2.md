@@ -94,7 +94,10 @@ tags:
 <td>2年目12月上旬</td>
 <td><MarkdownWrapper>[葉雲舟の帰還](/ja/event/simple/2-12-1-葉雲舟歸來)</MarkdownWrapper></td>
 <td><Girl2Icon>葉雲裳</Girl2Icon>好感≧30、かつスキル<MarkdownWrapper>[医術](/ja/system/skill)</MarkdownWrapper>レベル≧3で、🚩「寂滅三摩地について聞いた」が立つ。</td>
-<td><MarkdownWrapper>[仏学](/ja/system/skill)</MarkdownWrapper>のレベルによって会話が変化する。</td>
+<td>
+    • 次の段階の時間的余裕を作るため、<MarkdownWrapper>[仏学](/ja/system/skill)</MarkdownWrapper>レベル2まで修練しておくとよい。<br>
+    • 仏学系の秘笈がない場合は、<MarkdownWrapper>[太祖長拳](/ja/system/books/book_3001)</MarkdownWrapper>または<MarkdownWrapper>[金鐘罩](/ja/system/books/book_1030)</MarkdownWrapper>の購入を検討する。<br>
+</td>
 </tr>
 
 <tr>
@@ -106,9 +109,8 @@ tags:
     <br>• あなたの提案は📖「葉雲舟を引き止める」を選択。
     <br>• 唐芳との会話後に<MarkdownWrapper>[九転残篇](/ja/system/books/book_8109)</MarkdownWrapper>を入手できる。
 </td>
-<td>• <MarkdownWrapper>[仏学](/ja/system/skill)</MarkdownWrapper>のレベルによって会話が変化する。
-    <br>• <MarkdownWrapper>[九転残篇](/ja/system/books/book_8109)</MarkdownWrapper>は3年目5月上旬までに修練を終える必要がある。
-    <br>• <MarkdownWrapper>[九転残篇](/ja/system/books/book_8109)</MarkdownWrapper>には<MarkdownWrapper>[仏学](/ja/system/skill)</MarkdownWrapper>レベル2が必要で、不足している場合は4月上旬までに<MarkdownWrapper>[太祖長拳](/ja/system/books/book_3001)</MarkdownWrapper>または<MarkdownWrapper>[金鐘罩](/ja/system/books/book_1030)</MarkdownWrapper>を購入して修練するとよい。
+<td>• <MarkdownWrapper>[九転残篇](/ja/system/books/book_8109)</MarkdownWrapper>は3年目5月上旬までに修練を終える必要がある。
+    <br>• 九転残篇の修練には<MarkdownWrapper>[仏学](/ja/system/skill)</MarkdownWrapper>レベル2が必要 (前段階の備考を参照)。
     <br>• 余裕があれば<MarkdownWrapper>[南宮心法](/ja/system/books/book_7012)</MarkdownWrapper>の購入・修練もあわせて推奨する。
 </td>
 </tr>

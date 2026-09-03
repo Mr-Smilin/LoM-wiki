@@ -115,7 +115,7 @@ tags:
 <tr>
 <td>1</td>
 <td>3年目8月下旬</td>
-<td>夏侯蘭を誘う</td>
+<td><MarkdownWrapper>[夏侯蘭を誘う](/ja/event/simple/3-08-3-邀請夏侯蘭)</MarkdownWrapper></td>
 <td>• このタイミングで大門から下山すると📜「夏侯蘭を誘う」を選び、武林大会に一緒に向かえる。
     <br>• 経過に関わらず、<Girl5Icon>夏侯蘭</Girl5Icon>は同行しない。</td>
 <td>📖「違う」、さらに📖「夏侯蘭を襲撃する」を選び🗡️決闘に敗北すると、防具<MarkdownWrapper>[密密縫](/ja/system/forge-roadmap)</MarkdownWrapper>を解禁できるが、性能は護心鏡に劣る。</td>
@@ -144,7 +144,7 @@ tags:
 <td>4</td>
 <td>• 4年目1月中旬(西武林盟を成立せず徹底抗戦)
     <br>• または4年目2月中旬(西武林盟成立)</td>
-<td>夏侯蘭に付き添う</td>
+<td>伴侶の約束</td>
 <td>• 大門から下山すると<Girl5Icon>夏侯蘭</Girl5Icon>と付き添うイベントが発生する。
     <br>• 他にも結縁している相手がいる場合、いずれかの付き添いイベントが修羅場イベントに差し替えられ、🗡️決闘に敗北すると<MarkdownWrapper>[生死簿82：かの暗黒大法師のごとく](/ja/event/badends/#生死簿-No.82)</MarkdownWrapper>に進む。</td>
 <td>このイベントを発生させない場合、残り行動回数2の時点で夏侯蘭が待ちぼうけを食らうイベントが自動発生する。</td>
@@ -179,7 +179,7 @@ tags:
 <tr>
 <td>7</td>
 <td>4年目3月上旬</td>
-<td>武林盟主決戦(西武林ルート)</td>
+<td>眉山決戦</td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>が同行する展開になる。
     <br>• 結末画面で夏侯蘭が寄り添う。
     <br>• 勝利すると<MarkdownWrapper>[風雲史《雪山派大弟子》](/ja/event/achievements/#風雲史-No.12)</MarkdownWrapper>を達成できる。</td>
