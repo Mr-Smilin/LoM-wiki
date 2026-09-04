@@ -78,7 +78,12 @@ tags:
         <td id="風雲史-No.04">04</td>
         <td><AchievementIcon :size="`medium`" :no="`04`">人間道</AchievementIcon></td>
         <td>普天之下，唯有唐門敢與世俗成見為敵，所以溫夫人將未來託付予你。</td>
-        <td><MarkdownWrapper>[溫夫人託付](/event/simple/3-10-2-溫夫人託付)</MarkdownWrapper>時，成功觸發溫夫人讓你【🎲 少俠留步】
+        <td>
+            <MarkdownWrapper>[溫夫人託付](/event/simple/3-10-2-溫夫人託付#託付宮人)</MarkdownWrapper>時，不可選擇👉「狗屁不通」，<br>
+            再滿足需錦香宮好感≥5，並天命擲骰使溫夫人讓你【🎲 少俠留步】:
+            <li>(骰子🎲上限50，道德、性情補正，處世扣除)</li>
+            <li>若錦香宮好感=5或6: 需擲骰🎲≥80</li>
+            <li>若錦香宮好感≥7: 需擲骰🎲≥50</li>
         </td>
         <td></td>
         <td></td>
