@@ -43,7 +43,15 @@ jobs:
           cache: npm # 或 pnpm / yarn
       - name: Setup Pages
         uses: actions/configure-pages@v4
+      - name: Cache node_modules
+        uses: actions/cache@v4
+        id: nm-cache
+        with:
+          path: node_modules
+          # node20 寫死：sharp 等原生套件按 node ABI 編譯，升級 node 版本時務必同步改此數字
+          key: node-modules-${{ runner.os }}-node20-${{ hashFiles('package-lock.json') }}
       - name: Install dependencies
+        if: steps.nm-cache.outputs.cache-hit != 'true' # 命中則整段跳過，省下約 7 分鐘
         run: npm ci # 或 pnpm install / yarn install / bun install
       - name: Build with VitePress
         run: npm run docs:build # 或 pnpm docs:build / yarn docs:build / bun run docs:build
