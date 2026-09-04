@@ -9,7 +9,7 @@
     "dev": "npm run docs:dev",
     "build": "npm run docs:build",
     "docs:dev": "node ./tools/buildSimplifiedChinese.js && node ./tools/buildLocalePageManifest.js && node ./tools/buildWikiLinkIndex.js && vitepress dev docs",
-    "docs:build": "node ./tools/buildNewsList.js && node ./tools/buildBadendList.js && node ./tools/buildSimplifiedChinese.js && node ./tools/checkSimplifiedChinese.js && node ./tools/buildLocalePageManifest.js && node ./tools/buildContributors.js && node ./tools/buildWikiLinkIndex.js && node ./tools/buildConvertToWebp.js && vitepress build docs",
+    "docs:build": "node ./tools/buildNewsList.js && node ./tools/buildBadendList.js && node ./tools/buildSimplifiedChinese.js && node ./tools/checkSimplifiedChinese.js && node ./tools/buildLocalePageManifest.js && node ./tools/buildContributors.js && node ./tools/buildWikiLinkIndex.js && node ./tools/buildConvertToWebp.js && node --max-old-space-size=8192 ./node_modules/vitepress/bin/vitepress.js build docs",
     "docs:preview": "vitepress preview docs --port 4173",
     "check:zh-hans": "node ./tools/buildSimplifiedChinese.js && node ./tools/checkSimplifiedChinese.js"
   },
