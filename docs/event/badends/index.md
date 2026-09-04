@@ -1944,7 +1944,7 @@ tags:
             -
         </td>
         <td>
-            南宮淺好感≧40，在武林大會追上南宮淺，打輸南宮淺
+            南宮淺好感≧40，在武林大會<MarkdownWrapper>[向南宮家致哀](/event/simple/3-10-2-戰後閒聊#致哀南宮)</MarkdownWrapper>時選擇<MarkdownWrapper>[追南宮淺](/event/simple/3-10-2-追南宮淺)</MarkdownWrapper>，對決南宮淺落敗
         </td>
         <td>
             這叫...一物剋一物？
@@ -1992,7 +1992,8 @@ tags:
             -
         </td>
         <td>
-            -
+            <MarkdownWrapper>[武林大會](/event/simple/3-10-2-武林大會)</MarkdownWrapper>大戰後<MarkdownWrapper>[向南宮家致哀](/event/simple/3-10-2-戰後閒聊#致哀南宮)</MarkdownWrapper>時，
+            選擇👉<MarkdownWrapper>[「追南宮淺」](/event/simple/3-10-2-追南宮淺)</MarkdownWrapper>，追上後對決南宮淺獲勝，選擇👉「追不上也要打你一頓」，對戰袁無憲落敗
         </td>
         <td>
             -
