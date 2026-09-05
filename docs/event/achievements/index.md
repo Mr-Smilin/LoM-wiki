@@ -79,7 +79,7 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`04`">人間道</AchievementIcon></td>
         <td>普天之下，唯有唐門敢與世俗成見為敵，所以溫夫人將未來託付予你。</td>
         <td>
-            錦香宮作客尾聲<MarkdownWrapper>[溫夫人託付](/event/simple/3-10-2-溫夫人託付#託付宮人)</MarkdownWrapper>時，不可選擇👉「狗屁不通」，再滿足需錦香宮好感≥5，並天命擲骰使溫夫人讓你留步:<br>
+            錦香宮作客尾聲<MarkdownWrapper>[溫夫人託付](/event/simple/3-10-2-溫夫人託付#託付宮人)</MarkdownWrapper>時，溫夫人問答第二題不可選擇👉「狗屁不通」。接著再滿足錦香宮好感≥5，並天命擲骰使溫夫人讓你留步:<br>
             • 骰子🎲上限50，道德、性情補正，處世扣除<br>
             • 若錦香宮好感=5或6: 需【🎲≥80 少俠留步】<br>
             • 若錦香宮好感≥7: 需【🎲≥50 少俠留步】<br>
