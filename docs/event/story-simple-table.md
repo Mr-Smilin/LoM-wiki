@@ -734,7 +734,7 @@ tags:
 
 ## 第三年十一月至第四年
 因劇情有五條路線，本表以時間/路線方式呈現。
-標示 🚧未實裝 的事件在遊戲資料中存在，但現版本不會觸發。
+標示 🚧 代表事件未實裝，在遊戲資料中存在，但現版本不會觸發。
 
 <div class="table-container">
 <table>
@@ -850,7 +850,7 @@ tags:
   </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
-    瑞笙來訪🚧未實裝<br>
+    🚧瑞笙來訪<br>
     師妹回訪<br>
   </td>
   <td colspan = 2 style="text-align: center">
@@ -895,7 +895,7 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
-    瑞笙來訪🚧未實裝<br>
+    🚧瑞笙來訪<br>
     師妹回訪<br>
   </td>
 </tr>
