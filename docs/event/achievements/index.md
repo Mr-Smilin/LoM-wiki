@@ -224,7 +224,7 @@ tags:
         <td id="風雲史-No.19">19</td>
         <td><AchievementIcon :size="`medium`" :no="`19`">惡人自有惡人磨</AchievementIcon></td>
         <td>區區晁和，無恥無腦，哪裡惡得過她？</td>
-        <td>與<Girl2Icon>葉雲裳</Girl2Icon>結緣並帶她去武林大會(見<MarkdownWrapper>[〈葉雲裳結緣攻略〉](/event/pursuit/girl2)</MarkdownWrapper>)，離開時各派投票結果為唐門被留下，上前解釋時選擇「讓葉雲裳陪伴」。</td>
+        <td><MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>並<MarkdownWrapper>[讓她同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，離開時<MarkdownWrapper>[各派投票結果](/event/simple/3-10-2-公審唐門#公審總結)</MarkdownWrapper>為唐門成為武林公敵，<MarkdownWrapper>[上前解釋](/event/simple/3-10-2-武林公敵)</MarkdownWrapper>時選擇「讓葉雲裳陪伴」。</td>
         <td></td>
         <td>v1.0.5000.0版本後新增</td>
     </tr>
