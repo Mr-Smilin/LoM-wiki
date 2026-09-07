@@ -2557,7 +2557,7 @@ tags:
             同名游戲 undertale
         </td>
         <td>
-            <MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>並進入西武林線，於<MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>時選擇「護衛三師兄」，對戰無相祖師第一場未達8回合落敗，或第二場落敗。
+            <MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>並進入西武林線，於<MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>時選擇「護衛三師兄」，前兩場獲勝後，對戰無相祖師的第一場未達8回合落敗，或第二場落敗。
         </td>
         <td>
             -
