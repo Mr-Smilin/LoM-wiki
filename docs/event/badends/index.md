@@ -2557,7 +2557,7 @@ tags:
             同名游戲 undertale
         </td>
         <td>
-            葉妹結緣線西武林盟，唐門攻防戰，留守在山上護衛三師兄，roll 點抽選敵人時抽到千面人魔戰敗
+            <MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>並進入西武林線，於<MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>時選擇「護衛三師兄」，對戰無相祖師第一場未達8回合落敗，或第二場落敗。
         </td>
         <td>
             -
