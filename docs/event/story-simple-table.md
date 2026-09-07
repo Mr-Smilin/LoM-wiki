@@ -687,15 +687,15 @@ tags:
 			<td>八月</td>
 			<td>
                 <MarkdownWrapper>
-				    唐門例會：[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)
+				    [四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)
                 </MarkdownWrapper>
 			</td>
 			<td>
                 <MarkdownWrapper>
                     [大會請帖](/event/simple/3-08-2-大會請帖)<br>
 				    [邀請葉雲舟](/event/simple/3-08-2-邀請葉雲舟)<br>
-                    [邀請虞小梅](/event/simple/3-08-2-邀請虞小梅)<br>
-                    [邀請郁竹](/event/simple/3-08-2-邀請郁竹)<br>
+                    🚧[邀請虞小梅](/event/simple/3-08-2-邀請虞小梅)<br>
+                    🚧[邀請郁竹](/event/simple/3-08-2-邀請郁竹)<br>
                 </MarkdownWrapper>
 			</td>
 			<td>
@@ -734,8 +734,7 @@ tags:
 
 ## 第三年十一月至第四年
 
-- 因劇情有五條路線，本表以時間/路線方式呈現。
-- 標示 🚧 代表事件未實裝，在遊戲資料中存在，但現版本不會觸發。
+因劇情有五條路線，本表以時間/路線方式呈現。
 
 <div class="table-container">
 <table>
@@ -953,4 +952,6 @@ tags:
 </div>
 
 ## 備註
+
+- 標示 🚧 代表事件未實裝，在遊戲資料中存在，但現版本不會觸發。
 - 事件腳本中常涉及的隱藏參數，請見[隱藏參數列表](/system/hidden-params)。
