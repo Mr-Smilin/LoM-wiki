@@ -701,15 +701,15 @@ tags:
 			<td>八月</td>
 			<td>
                 <MarkdownWrapper>
-				唐門例会：[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)<br>
+				[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)<br>
                 </MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
 				[大会の招待状](/ja/event/simple/3-08-2-大會請帖)<br>
 				[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)<br>
-				[虞小梅を誘う](/ja/event/simple/3-08-2-邀請虞小梅)<br>
-				[郁竹を誘う](/ja/event/simple/3-08-2-邀請郁竹)<br>
+				🚧未実装 [虞小梅を誘う](/ja/event/simple/3-08-2-邀請虞小梅)<br>
+				🚧未実装 [郁竹を誘う](/ja/event/simple/3-08-2-邀請郁竹)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -759,8 +759,8 @@ tags:
 <br>
 
 ## 第三年11月〜第四年
+
 ストーリーに5つの分岐ルートがあるため、本表は時間/ルート形式で表示する。
-🚧未実装 を付したイベントは、ゲームデータ上は存在するが現行版では発生しない。
 
 <div class="table-container">
 <table>
@@ -874,7 +874,7 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     <MarkdownWrapper>
-    [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)【滅門ルート】🚧未実装<br>
+    🚧未実装 [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)【滅門ルート】<br>
     </MarkdownWrapper>
     小師妹の再訪<br>
   </td>
@@ -922,7 +922,7 @@ tags:
   <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
     <MarkdownWrapper>
-    [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)🚧未実装<br>
+    🚧未実装 [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)<br>
     </MarkdownWrapper>
     小師妹の再訪<br>
   </td>
@@ -1000,3 +1000,7 @@ tags:
 		</tr>
 	</table>
 </div>
+
+## 備考
+
+- 🚧未実装 を付したイベントは、ゲームデータ上は存在するが現行版では発生しない。

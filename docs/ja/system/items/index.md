@@ -31,7 +31,10 @@ tags:
         <td>色紙</td>
         <td>50</td>
         <td>5</td>
-        <td>心相+70(想い人が<MarkdownWrapper>[唐默鈴](/ja/people/characters/girl0)</MarkdownWrapper>)<br>心変わり+2(想い人が唐默鈴以外)</td>
+        <td>
+            <li>想い人が<MarkdownWrapper>[唐默鈴](/ja/people/characters/girl0)</MarkdownWrapper>の場合: 心相+70</li>
+            <li>想い人が唐默鈴以外の場合: 心変わり+2</li>
+        </td>
         <td>休息で折り紙を選択</td>
         <td>四師兄の商店</td>
         <td>安価な心相回復手段</td>
@@ -148,7 +151,10 @@ tags:
         <td>あんこまん</td>
         <td>売価?</td>
         <td></td>
-        <td>体力+1、内功-1、抗毒+1、抗麻+1、<br>心相+100(想い人が葉雲裳)または心相+30(想い人が葉雲裳以外)</td>
+        <td><li>体力+1、内功-1、抗毒+1、抗麻+1</li>
+            <li>想い人が葉雲裳の場合: 心相+100</li>
+            <li>想い人が葉雲裳以外の場合: 心相+30</li>
+        </td>
         <td>休息で飲食を選択</td>
         <td><MarkdownWrapper>[青城での目覚め](/ja/event/simple/2-08-3-青城醒轉)で、青城弟子がひっくり返した食事を受け止められなかった場合に入手。</MarkdownWrapper></td>
         <td></td>

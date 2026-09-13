@@ -2537,7 +2537,7 @@ tags:
             同名ゲーム『undertale』
         </td>
         <td>
-            葉雲裳結縁ルートで西武林盟を結成し、唐門攻防戦で山に残って<MarkdownWrapper>[唐陞](/ja/people/characters/brother3)</MarkdownWrapper>を護衛。ダイスで敵を抽選したときに千面人魔を引き、敗北する
+            <MarkdownWrapper>[葉雲裳結縁攻略](/ja/event/pursuit/girl2)</MarkdownWrapper>で結縁して西武林ルートに入り、<MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>で「三師兄を守る」を選択。前 2 戦に勝った後、無相祖師との 1 戦目で 8 ラウンドに達する前に敗北するか、2 戦目で敗北する。
         </td>
         <td>
             -

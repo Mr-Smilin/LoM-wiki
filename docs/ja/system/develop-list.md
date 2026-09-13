@@ -416,7 +416,16 @@ tags:
     <td style="text-align: center">77</td>
     <td style="text-align: center">85</td>
     <td rowspan=8>
-        <li>🚩「葉雲舟が武林大会に同行」(<MarkdownWrapper>[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>)、<br>かつ大会の途中で唐門を離れていない<br>(= 趙活が上官隼に挑戦せず、<br>🚩「葉雲舟が唐門代表として出場」(<MarkdownWrapper>[点蒼の逆徒](/ja/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>))。<br>大会後に宿屋で嶺南派のシナリオが発生し、<br>葉雲舟好感≥40なら入手。<br></li>
+        <li>
+            🚩「葉雲舟が武林大会に同行」(<MarkdownWrapper>[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>参照)、<br>
+            かつ大会の途中で唐門を離れていない<br>
+            (= 趙活が上官隼に挑戦せず、<br>
+            🚩「葉雲舟が唐門代表として出場」(<MarkdownWrapper>[点蒼の逆徒](/ja/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>参照))。<br>
+            大会後の<MarkdownWrapper>[宿屋での休息](/ja/event/simple/3-10-2-客棧休憩)</MarkdownWrapper>で、<br>
+            先に入浴してから階下で酒を飲み、<br>
+            <MarkdownWrapper>[南溪の夜の来訪](/ja/event/simple/3-10-2-南溪夜訪)</MarkdownWrapper>イベントを発生させ、<br>
+            葉雲舟好感≥40なら入手。<br>
+        </li>
     </td>
     <td rowspan=8></td>
   </tr>

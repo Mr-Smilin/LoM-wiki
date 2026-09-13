@@ -233,7 +233,7 @@ tags:
         <td id="風雲史-No.19">19</td>
         <td><AchievementIcon :size="`medium`" :no="`19`">悪人は悪人が制す (惡人自有惡人磨)</AchievementIcon></td>
         <td>たかが<ruby>晁和<rt>ちょうほう</rt></ruby>、恥知らずの能無しごときが、<br>どうして彼女より悪くなれようか？</td>
-        <td><Girl2Icon>葉雲裳</Girl2Icon>と結縁して武林大会に連れて行く(<MarkdownWrapper>[〈葉雲裳結縁攻略〉](/ja/event/pursuit/girl2)</MarkdownWrapper>を参照)、離れる際の各派の投票結果が「唐門は残留」となり、前に出て釈明する時に「葉雲裳に付き添ってもらう」を選ぶと取得。</td>
+        <td><MarkdownWrapper>[葉雲裳結縁攻略](/ja/event/pursuit/girl2)</MarkdownWrapper>で結縁し、<MarkdownWrapper>[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>で武林大会に同行させる。会場を離れる際の<MarkdownWrapper>[各派の投票結果](/ja/event/simple/3-10-2-公審唐門#公審總結)</MarkdownWrapper>で唐門が武林の公敵となり、<MarkdownWrapper>[前に出て釈明する](/ja/event/simple/3-10-2-武林公敵#對策選擇)</MarkdownWrapper>ときに「葉雲裳に付き添ってもらう」を選ぶと取得。</td>
         <td></td>
         <td>v1.0.5000.0版本以後に追加</td>
     </tr>
