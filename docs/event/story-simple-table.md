@@ -768,7 +768,7 @@ tags:
   </td>
   <td colspan = 4 style="text-align: center">
       <MarkdownWrapper>
-          失魂醒轉<br>
+          [失魂醒轉](/event/simple/3-11-1-失魂醒轉)<br>
           [返抵唐門](/event/simple/3-11-1-返抵唐門)<br>
           門人辭別<br>
           [接風四師兄](/event/simple/3-11-1-接風四師兄)<br>
