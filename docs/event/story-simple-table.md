@@ -770,7 +770,7 @@ tags:
       <MarkdownWrapper>
           [失魂醒轉](/event/simple/3-11-1-失魂醒轉)<br>
           [返抵唐門](/event/simple/3-11-1-返抵唐門)<br>
-          門人辭別<br>
+          [門人辭別](/event/simple/3-11-1-門人辭別)<br>
           [接風四師兄](/event/simple/3-11-1-接風四師兄)<br>
       </MarkdownWrapper>    
   </td>
