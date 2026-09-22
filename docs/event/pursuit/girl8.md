@@ -48,11 +48,12 @@ tags:
     <br>到條件5時間點為止</td>
 <td>
     <li><MarkdownWrapper>[龍湘練劍](/system/training/)</MarkdownWrapper></li>
-    <li>龍湘心事</li>
+    <li><MarkdownWrapper>[龍湘心事](/event/simple/3-11-2-龍湘心事)</MarkdownWrapper></li>
 </td>
 <td>• 先確保心上人為<Girl8Icon>龍湘</Girl8Icon>
     <br>• 至後山挑柴隨機觸發<MarkdownWrapper>[龍湘練劍](/system/training/)</MarkdownWrapper>(需滿足條件2)，選擇📖「我來告訴你，用劍」。
-    <br>• 無論勝負，閒聊(需滿足條件1)完📜「初識之時」與📜「錦香宮」後，選擇📜「龍湘的心事」(需心上人為龍湘)，接著滿足以下任一條件:
+    <br>• 無論勝負，若滿足條件1，進入<MarkdownWrapper>[龍湘心事](/event/simple/3-11-2-龍湘心事)</MarkdownWrapper>事件。
+    <br>• 閒聊完📜「初識之時」與📜「錦香宮」後，選擇📜「龍湘的心事」(需心上人為龍湘)，接著滿足以下任一條件:
     <br>1. 若修養中庸以上，觸發🎲天命並擲骰到【≧60】「說」。
     <br>2. 若修養暴躁以下，且選擇📖「不了我不問了」，觸發🎲天命後擲骰到【≧80】「說」。
     <br>3. 若修養暴躁以下，且選擇📖「不了我不問了」，並觸發🎲天命後擲骰到【<60】「存心想砍妳」；或選擇📖「真拿你沒辦法」，則再次觸發🗡️對決。只要不要在落敗後選擇📖「我輸了，聽不得妳的心事了」即可。
