@@ -409,7 +409,7 @@ text: '六大派好感',
             • 👉 我來告訴你，用劍: 🆚對決龍湘<br>
             • 勝：武學+6、設置🚩「戰勝龍湘次數」+1<br>
             • 敗：武學+2、龍湘好感+1<br>
-            • 若初次觸發，且曾觸發<MarkdownWrapper>[龍湘夜遊](/event/simple/3-09-3-龍湘夜遊)</MarkdownWrapper>: 接龍湘心事<br>
+            • 若初次觸發，且曾觸發<MarkdownWrapper>[龍湘夜遊](/event/simple/3-09-3-龍湘夜遊)</MarkdownWrapper>: 接<MarkdownWrapper>[龍湘心事](/event/simple/3-11-2-龍湘心事)</MarkdownWrapper>事件<br>
         </td>
 		<td>-</td>
 		<td>-</td>
@@ -420,8 +420,7 @@ text: '六大派好感',
             • 最早第三年十一月中旬<br>            
         </td>
 		<td>
-			• 龍湘心事為結緣龍湘必要事件<br>
-            • <text style="color : red">待撰寫</text>: 龍湘心事事件<br>
+			<MarkdownWrapper>[龍湘心事](/event/simple/3-11-2-龍湘心事)</MarkdownWrapper>為<MarkdownWrapper>[結緣龍湘](/event/pursuit/girl8)</MarkdownWrapper>必要事件<br>
 		</td>
 	</tr>
     <tr>
