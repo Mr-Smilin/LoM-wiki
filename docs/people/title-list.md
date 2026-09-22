@@ -52,7 +52,13 @@ tags:
     </tr>
     <tr>
         <td>臭弟俠</td>
-        <td>龍湘線－修養暴躁且處世粗魯<br>在龍湘心事的事件中選擇「那好不問了」，然後後續轉盤轉到「說」</td>
+        <td>
+            <li>觸發<MarkdownWrapper>[「龍湘心事」](/event/simple/3-11-2-龍湘心事)</MarkdownWrapper>事件(見該事件條件)</li>
+            <li>心上人為<Girl8Icon>龍湘</Girl8Icon></li>
+            <li>修養暴躁以下且處世粗魯以上</li>
+            <li>閒聊 ☯「龍湘心事」時選擇👉「不了我不問了」</li>
+            <li>後續天命擲骰到【🎲≥80 說】</li>
+        </td>
     </tr>
     <tr>
         <td>辣眼郎中</td>
