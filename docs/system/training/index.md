@@ -416,11 +416,11 @@ text: '六大派好感',
 		<td>基礎: 50</td>
 		<td>
             • 🚩龍湘在唐門<br>
-            • 未🚩和龍湘結緣<br>
+            • 未🚩<MarkdownWrapper>[和龍湘結緣](/event/pursuit/girl8)</MarkdownWrapper><br>
             • 最早第三年十一月中旬<br>            
         </td>
 		<td>
-			<MarkdownWrapper>[龍湘心事](/event/simple/3-11-2-龍湘心事)</MarkdownWrapper>為<MarkdownWrapper>[結緣龍湘](/event/pursuit/girl8)</MarkdownWrapper>必要事件<br>
+			<MarkdownWrapper>[龍湘心事](/event/simple/3-11-2-龍湘心事)</MarkdownWrapper>為🚩<MarkdownWrapper>[和龍湘結緣](/event/pursuit/girl8)</MarkdownWrapper>的必要事件<br>
 		</td>
 	</tr>
     <tr>
