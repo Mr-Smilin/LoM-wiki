@@ -780,7 +780,7 @@ tags:
   <td style="text-align: center">-</td>
   <td colspan = 4 style="text-align: center">
       <MarkdownWrapper>
-          龍湘心事<br>
+          [龍湘心事](/event/simple/3-11-2-龍湘心事)<br>
       </MarkdownWrapper>
   </td>
 </tr>
