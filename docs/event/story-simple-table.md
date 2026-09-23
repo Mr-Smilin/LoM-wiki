@@ -804,7 +804,7 @@ tags:
   </td>
   <td colspan = 4 style="text-align: center">
       <MarkdownWrapper>
-          武林檄文<br>
+          [武林檄文](/event/simple/3-12-1-武林檄文)<br>
           唐門例會<br>
           集思廣益<br>
           [眾人的決策](/event/detailed_description/3-12-1-眾人的決策)<br>
