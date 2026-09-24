@@ -86,8 +86,8 @@ tags:
 		<tr>
 			<td>八月</td>
 			<td>
-				<li>唐門例會</li>
 				<MarkdownWrapper>
+                [唐門例會](/event/simple/1-07-1-唐門例會)
 				[談論武穆王寶藏](/event/simple/1-08-1-談論武穆王寶藏)<br>
 				[葉氏行蹤風波](/event/simple/1-08-1-葉氏行蹤風波)<br>
 				[葉雲裳衝擊](/event/simple/1-08-1-葉雲裳衝擊)<br>
@@ -220,7 +220,7 @@ tags:
         <MarkdownWrapper>
             [留學生來訪](/event/simple/2-03-1-留學生來訪)<br>
             [留學生衝突](/event/simple/2-03-1-留學生衝突)<br>
-            唐門例會<br>
+            [唐門例會](/event/simple/1-07-1-唐門例會)<br>
         </MarkdownWrapper>
     </td>
 </tr>
@@ -253,7 +253,11 @@ tags:
 			[奪魄森林事件集](/event/simple/2-04-1-奪魄森林事件集)<br>
         </MarkdownWrapper>
     </td>
-    <td colspan = 3 style="text-align: center">唐門例會<br></td>
+    <td colspan = 3 style="text-align: center">
+        <MarkdownWrapper>
+            [唐門例會](/event/simple/1-07-1-唐門例會)<br>
+        </MarkdownWrapper>
+    </td>
 </tr>
 
 <tr>
@@ -263,7 +267,7 @@ tags:
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
             [多人拜師](/event/simple/2-05-1-多人拜師)<br>
-            唐門例會<br>
+            [唐門例會](/event/simple/1-07-1-唐門例會)<br>
 			[峨嵋狄傲](/event/simple/2-05-1-峨嵋狄傲)<br>
             [溪邊玩水](/event/simple/2-05-1-溪邊玩水)<br>
         </MarkdownWrapper>
@@ -466,7 +470,11 @@ tags:
 <tr>
     <td rowspan = 3 style="text-align: center">十一</td>
     <td style="text-align: center">上</td>
-    <td colspan = 3 style="text-align: center">唐門例會</td>
+    <td colspan = 3 style="text-align: center">
+        <MarkdownWrapper>
+            [唐門例會](/event/simple/1-07-1-唐門例會)<br>
+        </MarkdownWrapper>
+    </td>
     <td style="text-align: center">
         <MarkdownWrapper>
             [雲裳倒地](/event/simple/2-11-1-雲裳倒地)<br>
@@ -514,7 +522,7 @@ tags:
     <td colspan = 4 style="text-align: center">
         <MarkdownWrapper>
             [葉雲舟還錢](/event/simple/2-12-1-葉雲舟還錢)<br>
-            唐門例會<br>
+            [唐門例會](/event/simple/1-07-1-唐門例會)<br>
         </MarkdownWrapper>
     </td>
 </tr>
@@ -555,8 +563,8 @@ tags:
 		<tr>
 			<td>一月</td>
 			<td>
-				<li>唐門例會</li>
 				<MarkdownWrapper>
+                [唐門例會](/event/simple/1-07-1-唐門例會)
 				[唐衫拜門](/event/simple/3-01-1-唐衫拜門)<br>
 				[葉氏兄妹離去](/event/simple/3-01-1-葉氏兄妹離去)<br>
 				[大師兄回歸](/event/simple/3-01-1-大師兄回歸)<br>
@@ -583,9 +591,9 @@ tags:
 		<tr>
 			<td>二月</td>
 			<td>
-				<li>唐門例會</li>
 				<MarkdownWrapper>
-				[一波暫平](/event/simple/3-02-1-一波暫平)<br>
+				[唐門例會](/event/simple/1-07-1-唐門例會)
+                [一波暫平](/event/simple/3-02-1-一波暫平)<br>
 				[正心修身](/event/simple/3-02-1-正心修身)<br>
 				</MarkdownWrapper>
 			</td>
@@ -595,8 +603,8 @@ tags:
 		<tr>
 			<td>三月</td>
 			<td>
-				<li>唐門例會</li>
 				<MarkdownWrapper>
+                [唐門例會](/event/simple/1-07-1-唐門例會)
 				[飛石幫解戰](/event/simple/3-03-1-飛石幫解戰)<br>
 				[猴兒酒](/event/simple/3-03-1-猴兒酒)<br>
 				</MarkdownWrapper>
@@ -649,9 +657,9 @@ tags:
 		<tr>
 			<td>六月</td>
 			<td>
-				<li>唐門例會</li>
 				<MarkdownWrapper>
-				[雪山行](/event/simple/3-06-1-雪山行)<br>
+				[唐門例會](/event/simple/1-07-1-唐門例會)
+                [雪山行](/event/simple/3-06-1-雪山行)<br>
 				[實力評論](/event/simple/3-06-1-實力評論)<br>
 				</MarkdownWrapper>
 			</td>
@@ -669,12 +677,11 @@ tags:
 		</tr>
 		<tr>
 			<td>七月</td>
-			<td>
-				<li>唐門例會</li>
-			</td>
+			<td></td>
 			<td>
 				<MarkdownWrapper>
-				[雪山之約](/event/simple/3-07-2-雪山之約)<br>
+				[唐門例會](/event/simple/1-07-1-唐門例會)
+                [雪山之約](/event/simple/3-07-2-雪山之約)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -805,7 +812,7 @@ tags:
   <td colspan = 4 style="text-align: center">
       <MarkdownWrapper>
           [武林檄文](/event/simple/3-12-1-武林檄文)<br>
-          唐門例會<br>
+          [唐門例會](/event/simple/1-07-1-唐門例會)<br>
           集思廣益<br>
           [眾人的決策](/event/detailed_description/3-12-1-眾人的決策)<br>
       </MarkdownWrapper>    
