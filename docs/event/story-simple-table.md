@@ -87,7 +87,7 @@ tags:
 			<td>八月</td>
 			<td>
 				<MarkdownWrapper>
-                [唐門例會](/event/simple/1-07-1-唐門例會)c
+                [唐門例會](/event/simple/1-07-1-唐門例會)<br>
 				[談論武穆王寶藏](/event/simple/1-08-1-談論武穆王寶藏)<br>
 				[葉氏行蹤風波](/event/simple/1-08-1-葉氏行蹤風波)<br>
 				[葉雲裳衝擊](/event/simple/1-08-1-葉雲裳衝擊)<br>
