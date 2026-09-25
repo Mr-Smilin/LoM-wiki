@@ -767,10 +767,10 @@ tags:
   <td style="text-align: center">上</td>
   <td style="text-align: center">
       <MarkdownWrapper>
-          醒轉失憶<br>
-          四師兄閒聊<br>
-          禁止打雜<br>
-          懷念師妹<br>
+          Demo失魂醒轉<br>
+          Demo四師兄閒聊<br>
+          Demo禁止打雜<br>
+          Demo懷念師妹<br>
       </MarkdownWrapper>
   </td>
   <td colspan = 4 style="text-align: center">
@@ -801,13 +801,13 @@ tags:
   <td rowspan = 3 style="text-align: center">十二</td>
   <td style="text-align: center">上</td>
   <td style="text-align: center">
-      唐門會議<br>
-      決戰市場<br>
-      反攻飛石<br>
-      送禮飛石<br>
-      投靠魔教<br>
-      段考<br>
-      後山之約<br>
+      Demo唐門例會<br>
+      Demo決戰市場<br>
+      Demo反攻飛石<br>
+      Demo送禮飛石<br>
+      Demo投靠魔教<br>
+      Demo特訓段考<br>
+      Demo後山之約<br>
   </td>
   <td colspan = 4 style="text-align: center">
       <MarkdownWrapper>
@@ -836,7 +836,7 @@ tags:
 <tr>
   <td style="text-align: center">下</td>
   <td style="text-align: center">
-      師妹回訪
+      Demo師妹回訪
   </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
@@ -853,8 +853,8 @@ tags:
   <td rowspan = 3 style="text-align: center">一</td>
   <td style="text-align: center">上</td>
   <td style="text-align: center">
-      唐門會議<br>
-      通緝雲舟<br>
+      Demo唐門例會<br>
+      Demo通緝雲舟<br>
   </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
@@ -868,7 +868,9 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">中</td>
-  <td style="text-align: center">唐門覆滅</td>
+  <td style="text-align: center">
+      Demo唐門覆滅
+  </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     <MarkdownWrapper>
@@ -961,5 +963,6 @@ tags:
 
 ## 備註
 
+- 無可救藥線(Demo線)許多事件與主線相似，故事件名加入"Demo"區分。
 - 標示 🚧 代表事件未實裝，在遊戲資料中存在，但現版本不會觸發。
 - 事件腳本中常涉及的隱藏參數，請見[隱藏參數列表](/system/hidden-params)。
