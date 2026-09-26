@@ -80,7 +80,9 @@ tags:
 			</td>
 			<td>-</td>
 			<td>
-				<li>段考</li>
+                <MarkdownWrapper>
+				    [唐門段考](/event/simple/1-07-3-唐門段考)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
@@ -129,7 +131,9 @@ tags:
 				</MarkdownWrapper>
 			</td>
 			<td>
-				<li>段考</li>
+				<MarkdownWrapper>
+				    [唐門段考](/event/simple/1-07-3-唐門段考)<br>
+				</MarkdownWrapper>
 			</td>
 		</tr>
 		<tr>
@@ -192,7 +196,11 @@ tags:
 <tr>
     <td rowspan = 1 style="text-align: center">一</td>
     <td style="text-align: center">下</td>
-    <td colspan = 4 style="text-align: center">段考<br></td>
+    <td colspan = 4 style="text-align: center">
+        <MarkdownWrapper>
+			[唐門段考](/event/simple/1-07-3-唐門段考)<br>
+		</MarkdownWrapper>
+    </td>
 </tr>
 
 <tr>
