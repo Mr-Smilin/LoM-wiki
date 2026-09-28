@@ -123,7 +123,14 @@ tags:
         <td>刀劍15<br>拳掌-6<br>暗器-6<br>輕功10<br>同舟劍法</td>
         <td>50</td>
         <td>點破雲關</td>
-        <td>葉家兄妹前往武林大會，葉雲舟代表唐門出戰。<br>三年十二月收到武林盟檄文，詢問葉雲舟意見獲得。</td>
+        <td>
+            • 滿足以下所有前置條件: 
+            1. 🚩<MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>；
+            2. 🚩<MarkdownWrapper>[葉雲舟同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>；
+            3. 🚩<MarkdownWrapper>[葉雲舟代表唐門出戰](/event/simple/3-10-2-點蒼逆徒#師徒對決)</MarkdownWrapper>。<br>
+            • 第三年十二月上旬收到<MarkdownWrapper>[武林檄文](/event/simple/3-12-1-武林檄文)</MarkdownWrapper>後的
+            <MarkdownWrapper>[集思廣益](/event/simple/3-12-1-集思廣益)</MarkdownWrapper>時，選擇「訪問葉雲舟」後獲得。
+        </td>
         <td></td>
     </tr>
     <tr>
