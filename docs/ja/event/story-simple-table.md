@@ -89,8 +89,8 @@ tags:
 		<tr>
 			<td>八月</td>
 			<td>
-				<li>唐門例会</li>
 				<MarkdownWrapper>
+				[唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
 				[武穆王の宝蔵談義](/ja/event/simple/1-08-1-談論武穆王寶藏)<br>
 				[葉氏の行方をめぐる騒動](/ja/event/simple/1-08-1-葉氏行蹤風波)<br>
 				[葉雲裳の体当たり](/ja/event/simple/1-08-1-葉雲裳衝擊)<br>
@@ -230,7 +230,7 @@ tags:
         <MarkdownWrapper>
             [留学生の来訪](/ja/event/simple/2-03-1-留學生來訪)<br>
             [留学生同士の衝突](/ja/event/simple/2-03-1-留學生衝突)<br>
-            唐門例会<br>
+            [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
         </MarkdownWrapper>
     </td>
 </tr>
@@ -264,8 +264,8 @@ tags:
         </MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">
-        <li>唐門例会</li>
         <MarkdownWrapper>
+        [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
         [二師兄の訓話](/ja/event/simple/2-04-2-二師兄訓話)<br>
         </MarkdownWrapper>
     </td>
@@ -280,8 +280,8 @@ tags:
             [複数の人が弟子入りする](/ja/event/simple/2-05-1-多人拜師)<br>
 			[峨眉の女傑 狄傲](/ja/event/simple/2-05-1-峨嵋狄傲)<br>
 			[川辺の水遊び](/ja/event/simple/2-05-1-溪邊玩水)<br>
+            [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
         </MarkdownWrapper>
-        <li>唐門例会</li>
     </td>
 </tr>
 <tr>
@@ -464,7 +464,11 @@ tags:
 <tr>
     <td rowspan = 3 style="text-align: center">十一</td>
     <td style="text-align: center">上</td>
-    <td colspan = 3 style="text-align: center">唐門例会</td>
+    <td colspan = 3 style="text-align: center">
+        <MarkdownWrapper>
+            [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
+        </MarkdownWrapper>
+    </td>
     <td style="text-align: center">
         <MarkdownWrapper>
         [雲裳が倒れる](/ja/event/simple/2-11-1-雲裳倒地)<br>
@@ -501,8 +505,8 @@ tags:
         [葉雲舟の帰還](/ja/event/simple/2-12-1-葉雲舟歸來)<br>
         [葉雲舟の返済](/ja/event/simple/2-12-1-葉雲舟還錢)<br>
         [大師兄、刺金行の顛末](/ja/event/simple/2-12-1-大師兄刺金行)<br>
+            [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
         </MarkdownWrapper>
-        <li>唐門例会</li>
     </td>
 </tr>
 <tr>
@@ -542,8 +546,8 @@ tags:
 		<tr>
 			<td>一月</td>
 			<td>
-				<li>唐門例会</li>
 				<MarkdownWrapper>
+				[唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
 				[唐衫入門](/ja/event/simple/3-01-1-唐衫拜門)<br>
 				[葉家兄妹の出発](/ja/event/simple/3-01-1-葉氏兄妹離去)<br>
 				[大師兄の帰郷](/ja/event/simple/3-01-1-大師兄回歸)<br>
@@ -571,8 +575,8 @@ tags:
 		<tr>
 			<td>二月</td>
 			<td>
-				<li>唐門例会</li>
 				<MarkdownWrapper>
+				[唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
 				[一時の平穏](/ja/event/simple/3-02-1-一波暫平)<br>
 				[正心修身](/ja/event/simple/3-02-1-正心修身)<br>
 				</MarkdownWrapper>
@@ -583,8 +587,8 @@ tags:
 		<tr>
 			<td>三月</td>
 			<td>
-				<li>唐門例会</li>
 				<MarkdownWrapper>
+				[唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
 				[飛石幇解戦](/ja/event/simple/3-03-1-飛石幫解戰)<br>
 				[猿酒](/ja/event/simple/3-03-1-猴兒酒)<br>
 				</MarkdownWrapper>
@@ -664,8 +668,8 @@ tags:
 		<tr>
 			<td>六月</td>
 			<td>
-				<li>唐門例会</li>
 				<MarkdownWrapper>
+				[唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
 				[実力についての評論](/ja/event/simple/3-06-1-實力評論)<br>
 				雪山ルート: [雪山への旅](/ja/event/simple/3-06-1-雪山行)<br>
 				</MarkdownWrapper>
@@ -684,7 +688,9 @@ tags:
 		<tr>
 			<td>七月</td>
 			<td>
-				選択せず: 唐門例会
+				<MarkdownWrapper>
+				選択せず: [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
+				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
@@ -744,7 +750,6 @@ tags:
 				<li>[温夫人の付託](/ja/event/simple/3-10-2-溫夫人託付)</li>
 				<li>[武林大会](/ja/event/simple/3-10-2-武林大會)</li>
 				<li>[武林大会編](/ja/event/detailed_description/3-08-2-武林大會)</li>
-				<li>[武林大会からの帰路](/ja/event/detailed_description/3-10-2-武林大會歸途)</li>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -785,17 +790,16 @@ tags:
   <td rowspan = 3 style="text-align: center">十一</td>
   <td style="text-align: center">上</td>
   <td style="text-align: center">
-      目覚めと記憶喪失<br>
-      四師兄との雑談<br>
-      雑用の禁止<br>
-      師妹を懐かしむ<br>
+      Demo目覚めと記憶喪失<br>
+      Demo四師兄との雑談<br>
+      Demo雑用の禁止<br>
+      Demo師妹を懐かしむ<br>
   </td>
   <td colspan = 4 style="text-align: center">
       <MarkdownWrapper>
-      <li>[唐門に帰る](/ja/event/detailed_description/3-11-1-回到唐門#唐門に帰る-回到唐門)</li>
-      <li>[弟子が暇乞いする](/ja/event/detailed_description/3-11-1-回到唐門#弟子が暇乞いする-弟子想告辭)</li>
-      <li>[四師兄が帰る](/ja/event/detailed_description/3-11-1-回到唐門#四師兄が帰る-四師兄歸來)</li>
-      <li>[覚醒夢](/ja/event/simple/3-11-1-清醒夢)</li>
+      <li>[失魂からの目覚め](/ja/event/simple/3-11-1-失魂醒轉)</li>
+      <li>[唐門帰着](/ja/event/simple/3-11-1-返抵唐門)</li>
+      <li>[門人の暇乞い](/ja/event/simple/3-11-1-門人辭別)</li>
       <li>[四師兄を出迎える](/ja/event/simple/3-11-1-接風四師兄)</li>
       </MarkdownWrapper>
   </td>
@@ -804,7 +808,9 @@ tags:
   <td style="text-align: center">中</td>
   <td style="text-align: center">-</td>
   <td colspan = 4 style="text-align: center">
-      龍湘ルート：閑話<br>
+      <MarkdownWrapper>
+      [龍湘の悩み事](/ja/event/simple/3-11-2-龍湘心事)<br>
+      </MarkdownWrapper>
   </td>
 </tr>
 <tr>
@@ -817,19 +823,20 @@ tags:
   <td rowspan = 3 style="text-align: center">十二</td>
   <td style="text-align: center">上</td>
   <td style="text-align: center">
-    唐門会議<br>
-    市場での決戦<br>
-    飛石幇への反攻<br>
-    飛石幇への贈り物<br>
-    魔教への身寄せ<br>
-    段階試験<br>
-    裏山の約束<br>
+    Demo唐門会議<br>
+    Demo市場での決戦<br>
+    Demo飛石幇への反攻<br>
+    Demo飛石幇への贈り物<br>
+    Demo魔教への身寄せ<br>
+    Demo特訓の段階試験<br>
+    Demo裏山の約束<br>
   </td>
   <td colspan = 4 style="text-align: center">
-    武林からの檄文<br>
-    唐門例会<br>
-    衆知を集める<br>
     <MarkdownWrapper>
+    [武林からの檄文](/ja/event/simple/3-12-1-武林檄文)<br>
+    [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
+    [特訓の段階試験](/ja/event/simple/3-12-1-特訓段考)<br>
+    衆知を集める<br>
     [衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)<br>
     </MarkdownWrapper>
   </td>
@@ -851,7 +858,7 @@ tags:
 <tr>
   <td style="text-align: center">下</td>
   <td style="text-align: center">
-    小師妹の再訪<br>
+    Demo小師妹の再訪<br>
   </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
@@ -868,8 +875,8 @@ tags:
   <td rowspan = 3 style="text-align: center">一</td>
   <td style="text-align: center">上</td>
   <td style="text-align: center">
-    唐門会議<br>
-    雲舟の指名手配<br>
+    Demo唐門会議<br>
+    Demo雲舟の指名手配<br>
   </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
@@ -885,7 +892,9 @@ tags:
 </tr>
 <tr>
   <td style="text-align: center">中</td>
-  <td style="text-align: center">唐門の滅亡</td>
+  <td style="text-align: center">
+      Demo唐門の滅亡
+  </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     <MarkdownWrapper>
@@ -1003,4 +1012,5 @@ tags:
 
 ## 備考
 
+- 無可救薬ルート(Demo)には本編と似たイベントが多いため、イベント名に「Demo」を付けて区別している。
 - 🚧未実装 を付したイベントは、ゲームデータ上は存在するが現行版では発生しない。

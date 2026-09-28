@@ -398,20 +398,20 @@ text: '葉雲裳好感+',
 		<td>
             • 👉 そっとしておく: 薪運びのランダムイベントに続く<br>
             • 👉 剣の使い方を教えてやる: 🆚対決：龍湘<br>
-            • 勝利：武学+6、敗北：武学+2、龍湘好感+1<br>
-            • 初めて発生し、かつ龍湘夜遊を発生済みなら: 龍湘心事に続く<br>
+            • 勝利：武学+6、🚩「龍湘に勝利した回数」+1<br>
+            • 敗北：武学+2、龍湘好感+1<br>
+            • 初めて発生し、かつ<MarkdownWrapper>[龍湘の夜遊び](/ja/event/simple/3-09-3-龍湘夜遊)</MarkdownWrapper>を発生済みなら: <MarkdownWrapper>[龍湘の悩み事](/ja/event/simple/3-11-2-龍湘心事)</MarkdownWrapper>イベントに続く<br>
         </td>
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 50</td>
 		<td>
             • 🚩「龍湘が唐門にいる」<br>
-            • 🚩「龍湘と結縁」なし<br>
+            • 🚩「龍湘と結縁」(<MarkdownWrapper>[龍湘結縁攻略](/ja/event/pursuit/girl8)</MarkdownWrapper>参照)していない<br>
             • 最短で3年目11月中旬<br>            
         </td>
 		<td>
-			• 龍湘心事は龍湘と結縁するための必須イベント<br>
-            • <text style="color : red">執筆待ち</text>: 龍湘夜遊および龍湘心事イベント<br>
+			<MarkdownWrapper>[龍湘の悩み事](/ja/event/simple/3-11-2-龍湘心事)</MarkdownWrapper>は🚩「龍湘と結縁」(<MarkdownWrapper>[龍湘結縁攻略](/ja/event/pursuit/girl8)</MarkdownWrapper>参照)するための必須イベント<br>
 		</td>
 	</tr>
 <tr>

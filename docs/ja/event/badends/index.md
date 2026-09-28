@@ -124,7 +124,9 @@ tags:
             -
         </td>
         <td>
-            第一年四月上旬に煉丹房で<MarkdownWrapper>[唐錚](/ja/people/characters/brother2)</MarkdownWrapper>と会い、「正に死を求めるようなことをしたのか」を選択
+            <li>煉丹房の<MarkdownWrapper>[唐錚との初対面](/ja/event/simple/1-04-1-初識唐錚)</MarkdownWrapper>で👉「そうさ、死にに来たんだ。それがどうした？」を選択</li>
+            <li>いずれかの<MarkdownWrapper>[定期段階試験](/ja/event/simple/1-07-3-唐門段考)</MarkdownWrapper>で、🚩二師兄が試験官、対決に敗北し、ダイスで【🎲＜10 怪しい薬】が出る。</li>
+            <li>崆峒留学ルートの<MarkdownWrapper>[唐門に帰還](/ja/event/simple/2-10-1-返回唐門)</MarkdownWrapper>で、唐錚好感≧35かつ👉「先に二師兄と正事の相談をしましょう」を選び、さらに👉「この場で死ぬ」を選んで二師兄との対決が発生し、敗北する。</li>
         </td>
         <td>
             -
