@@ -797,7 +797,7 @@ tags:
   <td style="text-align: center">
       <MarkdownWrapper>
           Demo失魂醒轉<br>
-          Demo四師兄閒聊<br>
+          [Demo四師兄閒聊](/event/simple/3-11-1-Demo四師兄閒聊)<br>
           Demo禁止打雜<br>
           Demo懷念師妹<br>
       </MarkdownWrapper>
