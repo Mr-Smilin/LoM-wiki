@@ -154,7 +154,11 @@ tags:
         <td>內力15<br>刀劍10<br>三教合一LV5<br>修養+10</td>
         <td>80</td>
         <td>佛學LV1<br>或<br>儒學LV1<br>或<br>道學LV2</td>
-        <td>四師兄遠行時拜託找仙丹，回來去弟子房閒聊選【以前托你打聽的事】，<br>唐惟元≥50，花兩千金取得</td>
+        <td>
+            參照以下流程:<br>
+            <li><MarkdownWrapper>[四師兄辭別](/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>時，選擇「故意提出一些難辦的要求」，擲骰到【≧70 好啦，土特產就土特產】，再選擇「聽說華山有神仙，而神仙有靈丹 」</li>
+            <li>第三年十一月上旬<MarkdownWrapper>[四師兄歸來](/event/simple/3-11-1-門人辭別#四師兄歸來)</MarkdownWrapper>後，至男弟子房找<MarkdownWrapper>[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>，選擇「以前托你打聽的事」</li>
+            <li>銀兩≥5000、唐惟元好感≥50，選擇「買」後獲得</td>
         <td></td>
     </tr>
     <tr>
@@ -183,7 +187,9 @@ tags:
         <td>拳掌15<br>折花手LV5</td>
         <td>80</td>
         <td>內力40<br>拳掌40</td>
-        <td>三年弟子房－四師兄打聽</td>
+        <td> 🚩<MarkdownWrapper>[無可救藥線](/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>，
+            至男弟子房找<MarkdownWrapper>[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>，
+            選擇「以前托你打聽的事」</td>
         <td></td>
     </tr>
     <tr>
