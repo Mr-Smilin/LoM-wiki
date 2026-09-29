@@ -134,9 +134,9 @@ tags:
 <td>第三年六月上旬以後</td>
 <td><MarkdownWrapper>[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper></td>
 <td>
-    <li>前置條件: 🚩<MarkdownWrapper>[初戰金烏勝利](/event/simple/3-05-1-對決金烏)</MarkdownWrapper></li>
-    <li>選擇閒聊「我的實力」，並一直付錢(共需銀兩1300)聽四師兄說。</li>
-    <li>若結緣<Girl5Icon>夏侯蘭</Girl5Icon>，夏侯蘭會參與對話。</li>
+    • 前置條件: 🚩<MarkdownWrapper>[初戰金烏勝利](/event/simple/3-05-1-對決金烏)</MarkdownWrapper>。<br>
+    • 選擇閒聊「我的實力」，並一直付錢(共需銀兩1300)聽四師兄說。<br>
+    • 若結緣<Girl5Icon>夏侯蘭</Girl5Icon>，夏侯蘭會參與對話。<br>
 </td>
 <td></td>
 </tr>
