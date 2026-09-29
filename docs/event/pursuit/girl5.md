@@ -131,6 +131,18 @@ tags:
 
 <tr>
 <td>3</td>
+<td>第三年六月上旬以後</td>
+<td><MarkdownWrapper>[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper></td>
+<td>
+    <li>前置條件: 🚩<MarkdownWrapper>[初戰金烏勝利](/event/simple/3-05-1-對決金烏)</MarkdownWrapper></li>
+    <li>選擇閒聊「我的實力」，並一直付錢(共需銀兩1300)聽四師兄說。</li>
+    <li>若結緣<Girl5Icon>夏侯蘭</Girl5Icon>，夏侯蘭會參與對話。</li>
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td>4</td>
 <td>第三年十二月中旬剩2行動點</td>
 <td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
 <td>• 可以訪問<Girl5Icon>夏侯蘭</Girl5Icon>。
@@ -141,7 +153,7 @@ tags:
 </tr>
 
 <tr>
-<td>4</td>
+<td>5</td>
 <td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬(成立西武林盟)</td>
 <td>伴侶之約</td>
@@ -151,7 +163,7 @@ tags:
 </tr>
 
 <tr>
-<td>5</td>
+<td>6</td>
 <td>• 第四年一月中旬剩兩次行動(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬剩兩次行動(成立西武林盟失敗而頑抗到底)</td>
 <td><MarkdownWrapper>[唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper></td>
@@ -166,7 +178,7 @@ tags:
 </tr>
 
 <tr>
-<td>6</td>
+<td>7</td>
 <td>第四年二月中旬剩兩次行動</td>
 <td><MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>參戰。
@@ -177,7 +189,7 @@ tags:
 </tr>
 
 <tr>
-<td>7</td>
+<td>8</td>
 <td>第四年三月上旬</td>
 <td>眉山決戰</td>
 <td>• 劇情有<Girl5Icon>夏侯蘭</Girl5Icon>陪同。
