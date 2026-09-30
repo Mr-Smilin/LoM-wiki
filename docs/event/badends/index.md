@@ -495,8 +495,15 @@ tags:
             -
         </td>
         <td>
-            1. 江陵攻城事件，心上人是<Girl7Icon>魏菊</Girl7Icon>，王二壯叫陣時，轉盤骰到「不妙的人」，趙活會接第二掌，選擇接受<Girl7Icon>小菊</Girl7Icon>運功治療，轉盤骰到<80：爆體而亡(基本上限40，內力正向加值)。<br>
-            2. <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「山道之戰」](/event/simple/3-05-1-山道之戰)</MarkdownWrapper>中，與鐵冠道人比內力時，擲骰到【🎲＜40 死】。<br>
+            1. 江陵攻城事件，心上人是<Girl7Icon>魏菊</Girl7Icon>，王二壯叫陣時，轉盤骰到「不妙的人」，
+            趙活會接第二掌，選擇接受<Girl7Icon>小菊</Girl7Icon>運功治療，
+            轉盤骰到<80：爆體而亡(基本上限40，內力正向加值)。<br>
+            2. 🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper>，
+                奪魄森林<MarkdownWrapper>[「助你收心」](/event/simple/2-04-1-助你收心)</MarkdownWrapper>事件中進入「蚊蟲練心」階段，
+                再擲骰到【＜20 走火入魔】。<br>
+            3. <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件
+                <MarkdownWrapper>[「山道之戰」](/event/simple/3-05-1-山道之戰)</MarkdownWrapper>中，
+                與鐵冠道人比內力時，擲骰到【🎲＜40 死】。<br>
         </td>
         <td>
             -
