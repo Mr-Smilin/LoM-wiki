@@ -144,16 +144,30 @@ tags:
 <tr>
 <td>4</td>
 <td>第三年十二月中旬剩2行動點</td>
-<td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
-<td>• 可以訪問<Girl5Icon>夏侯蘭</Girl5Icon>。
-    <br>• 若<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-練功分心)</MarkdownWrapper>且此時在唐門，對話差分。
-    <br>• 若決策為遣散唐門，練功場及男弟子房的劇情差分。
-    <br>• 若決策為遣散唐門，除<MarkdownWrapper>[汗青書25: 退隱江湖](/event/ends/end-25)</MarkdownWrapper>的結局演出改變為與夏侯蘭上雪山版本之外，道德≧60可進入<MarkdownWrapper>[汗青書31: 傳說之人](/event/ends/end-31)</MarkdownWrapper>。</td>
+<td>
+    <MarkdownWrapper>[集思廣益](/event/simple/3-12-1-集思廣益)</MarkdownWrapper>
+</td>
+<td>
+    • 可以訪問<Girl5Icon>夏侯蘭</Girl5Icon>。<br>
+    • 若<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-練功分心)</MarkdownWrapper>且<MarkdownWrapper>[樊嘯天加入唐門](/event/simple/3-10-2-公審唐門#丐幫表態)</MarkdownWrapper>: 對話差分。<br>
+</td>
 <td></td>
 </tr>
 
 <tr>
 <td>5</td>
+<td>第三年十二月中旬剩2行動點</td>
+<td>告別唐門(退隱線)</td>
+<td>
+    • 練功場及男弟子房的劇情差分。<br>
+    • <MarkdownWrapper>[汗青書25:《退隱江湖》](/event/ends/end-25)</MarkdownWrapper>的結局演出改變為與夏侯蘭上雪山版本之外。<br>
+    • 道德≧60可進入<MarkdownWrapper>[汗青書31:《傳說之人》](/event/ends/end-31)</MarkdownWrapper>。
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td>6</td>
 <td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬(成立西武林盟)</td>
 <td>伴侶之約</td>
@@ -163,7 +177,7 @@ tags:
 </tr>
 
 <tr>
-<td>6</td>
+<td>7</td>
 <td>• 第四年一月中旬剩兩次行動(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬剩兩次行動(成立西武林盟失敗而頑抗到底)</td>
 <td><MarkdownWrapper>[唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper></td>
@@ -178,7 +192,7 @@ tags:
 </tr>
 
 <tr>
-<td>7</td>
+<td>8</td>
 <td>第四年二月中旬剩兩次行動</td>
 <td><MarkdownWrapper>[東西武林盟會戰](/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>參戰。
@@ -189,7 +203,7 @@ tags:
 </tr>
 
 <tr>
-<td>8</td>
+<td>9</td>
 <td>第四年三月上旬</td>
 <td>眉山決戰</td>
 <td>• 劇情有<Girl5Icon>夏侯蘭</Girl5Icon>陪同。
