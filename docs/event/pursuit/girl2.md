@@ -218,7 +218,7 @@ tags:
 <td>第三年十二月中旬剩2行動點</td>
 <td><MarkdownWrapper>[集思廣益](/event/simple/3-12-1-集思廣益)</MarkdownWrapper></td>
 <td>
-    • 新增📜「訪問葉雲舟」，若武林大會他有代表出戰，會獲得<MarkdownWrapper>[同舟劍譜](/system/books/book_2301)</MarkdownWrapper>。
+    • 新增📜「訪問葉雲舟」，若🚩武林大會<MarkdownWrapper>[葉雲舟代表唐門出戰](/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>，會獲得<MarkdownWrapper>[同舟劍譜](/system/books/book_2301)</MarkdownWrapper>。
 </td>
 <td>同舟劍譜若修練完成，後面就無法習得劍聖極招，但一般來說同舟劍譜比較強。</td>
 </tr>
