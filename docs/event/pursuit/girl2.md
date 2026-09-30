@@ -171,8 +171,9 @@ tags:
 <td>
     <MarkdownWrapper>[邀請葉雲舟](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>
 </td>
-<td>• 前往大門可邀請葉雲舟同行武林大會。
-    <br>• 若要<Girl2Icon>葉雲裳</Girl2Icon>同行，需要📖「幫她求情」。
+<td>
+    • 前往大門可邀請葉雲舟同行武林大會。<br>
+    • 若要<Girl2Icon>葉雲裳</Girl2Icon>同行，需要📖「幫她求情」。
 </td>
 <td>建議讓她同行，但若選擇📖「妳問妳哥」有其他劇情可看。</td>
 </tr>
@@ -226,7 +227,8 @@ tags:
 <td>6</td>
 <td>第三年十二月中旬剩2行動點</td>
 <td>告別唐門(退隱線)</td>
-<td>• 女弟子房、男弟子房、煉丹房劇情變化。<br>
+<td>
+    • 女弟子房、男弟子房、煉丹房劇情變化。<br>
     • <MarkdownWrapper>[退隱江湖](/event/ends/end-25)</MarkdownWrapper>結局演出為<Girl2Icon>葉雲裳</Girl2Icon>版本。
 </td>
 <td></td>
@@ -237,7 +239,7 @@ tags:
 <td>第三年十二月中旬以後</td>
 <td>決議成立西武林盟</td>
 <td>• 大戰準備期有許多劇情變化，下面只列出重要的。</td>
-</td></td>
+<td></td>
 </tr>
 
 <tr>
