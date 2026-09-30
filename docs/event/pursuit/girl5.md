@@ -149,7 +149,7 @@ tags:
 </td>
 <td>
     • 可以訪問<Girl5Icon>夏侯蘭</Girl5Icon>。<br>
-    • 若<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-練功分心)</MarkdownWrapper>且<MarkdownWrapper>[樊嘯天加入唐門](/event/simple/3-10-2-公審唐門#丐幫表態)</MarkdownWrapper>: 對話差分。<br>
+    • 若<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-助你收心)</MarkdownWrapper>且<MarkdownWrapper>[樊嘯天加入唐門](/event/simple/3-10-2-公審唐門#丐幫表態)</MarkdownWrapper>: 對話差分。<br>
 </td>
 <td></td>
 </tr>
