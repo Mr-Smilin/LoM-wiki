@@ -63,8 +63,8 @@ tags:
 <tr>
 <td>4</td>
 <td>第三年十二月上旬，剩一次行動時</td>
-<td><MarkdownWrapper>[眾人的決策](/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
-<td>決策結果不可以是遣散唐門。</td>
+<td><MarkdownWrapper>[武林盟對策](/event/simple/3-12-1-武林盟對策)</MarkdownWrapper></td>
+<td>決策結果不可以是遣散唐門(退隱線)。</td>
 <td>• 若遣散唐門，且滿足條件2，進入後山會觸發:
     <br>1. 若有其他結緣者，心上人為<Girl8Icon>龍湘</Girl8Icon>，選擇📖「湘姊，妳要不要跟我來呢?」，🗡️對決勝利後，選擇📖「我是不會放妳走的」，會進入<MarkdownWrapper>[汗青書24: 趕海人](/event/ends/end-24)</MarkdownWrapper>，無法結緣。
     <br>2. 其他情況，會觸發龍湘三年之約事件，無法結緣。</td>
