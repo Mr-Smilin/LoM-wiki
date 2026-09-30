@@ -778,15 +778,15 @@ tags:
 <tr>
   <th rowspan = 2 style="text-align: center">月</th>
   <th rowspan = 2 style="text-align: center">旬</th>
-  <th rowspan = 2 style="text-align: center">無可救藥<br>(Demo)</th>
+  <th rowspan = 2 style="text-align: center">無可救藥<br>(Demo線)</th>
   <th colspan = 2 style="text-align: center">不成立西武林</th>
   <th colspan = 2 style="text-align: center">成立西武林</th>
 </tr>
 <tr>
-  <th style="text-align: center">遣散唐門</th>
-  <th style="text-align: center">頑抗到底</th>
-  <th style="text-align: center">頑抗到底</th>
-  <th style="text-align: center">西武林盟</th>
+  <th style="text-align: center">遣散唐門<br>(退隱線)</th>
+  <th style="text-align: center">頑抗到底<br>(滅門線)</th>
+  <th style="text-align: center">頑抗到底<br>(滅門線)</th>
+  <th style="text-align: center">西武林盟<br>(西武林盟線)</th>
 </tr>
 </thead>
 
@@ -844,7 +844,7 @@ tags:
           [唐門例會](/event/simple/1-07-1-唐門例會)<br>
           [特訓段考](/event/simple/3-12-1-特訓段考)<br>
           [集思廣益](/event/simple/3-12-1-集思廣益)<br>
-          [眾人的決策](/event/detailed_description/3-12-1-眾人的決策)<br>
+          [武林盟對策](/event/simple/3-12-1-武林盟對策)<br>
       </MarkdownWrapper>    
   </td>
 </tr>
