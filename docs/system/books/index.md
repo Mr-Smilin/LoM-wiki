@@ -190,8 +190,8 @@ tags:
         <td>內力40<br>拳掌40</td>
         <td> 
             🚩<MarkdownWrapper>[無可救藥線](/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>，
-            至男弟子房找<MarkdownWrapper>[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>，
-            選擇「以前托你打聽的事」
+            至男弟子房找<MarkdownWrapper>[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>，選擇「以前托你打聽的事」。<br>
+            天命擲骰【🎲＞40 失落的嵩山秘笈】，再選擇「那我就收下了」後獲得。
         </td>
         <td></td>
     </tr>
