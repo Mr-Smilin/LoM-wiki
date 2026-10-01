@@ -226,7 +226,7 @@ tags:
 <tr>
 <td>6</td>
 <td>第三年十二月中旬剩2行動點</td>
-<td>告別唐門(退隱線)</td>
+<td><MarkdownWrapper>[告別唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>(退隱線)</td>
 <td>
     • 女弟子房、男弟子房、煉丹房劇情變化。<br>
     • <MarkdownWrapper>[退隱江湖](/event/ends/end-25)</MarkdownWrapper>結局演出為<Girl2Icon>葉雲裳</Girl2Icon>版本。
