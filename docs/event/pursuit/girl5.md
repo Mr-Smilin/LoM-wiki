@@ -157,10 +157,10 @@ tags:
 <tr>
 <td>5</td>
 <td>第三年十二月中旬剩2行動點</td>
-<td>告別唐門(退隱線)</td>
+<td><MarkdownWrapper>[告別唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>(退隱線)</td>
 <td>
     • 練功場及男弟子房的劇情差分。<br>
-    • <MarkdownWrapper>[汗青書25:《退隱江湖》](/event/ends/end-25)</MarkdownWrapper>的結局演出改變為與夏侯蘭上雪山版本之外。<br>
+    • <MarkdownWrapper>[汗青書25:《退隱江湖》](/event/ends/end-25)</MarkdownWrapper>的結局演出改變為與夏侯蘭上雪山版本。<br>
     • 道德≧60可進入<MarkdownWrapper>[汗青書31:《傳說之人》](/event/ends/end-31)</MarkdownWrapper>。
 </td>
 <td></td>
