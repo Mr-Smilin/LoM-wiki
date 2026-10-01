@@ -143,7 +143,7 @@ tags:
 
 <tr>
 <td>4</td>
-<td>第三年十二月中旬剩2行動點</td>
+<td>第三年十二月上旬剩1行動點</td>
 <td>
     <MarkdownWrapper>[集思廣益](/event/simple/3-12-1-集思廣益)</MarkdownWrapper>
 </td>
@@ -156,7 +156,7 @@ tags:
 
 <tr>
 <td>5</td>
-<td>第三年十二月中旬剩2行動點</td>
+<td>第三年十二月上旬剩1行動點</td>
 <td><MarkdownWrapper>[告別唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>(退隱線)</td>
 <td>
     • 練功場及男弟子房的劇情差分。<br>
