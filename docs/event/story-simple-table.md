@@ -851,7 +851,7 @@ tags:
 <tr>
   <td style="text-align: center">
       <MarkdownWrapper>
-          告別唐門
+          [告別唐門](/event/simple/3-12-1-告別唐門)
       </MarkdownWrapper>    
   </td>
   <td style="text-align: center">-</td>
