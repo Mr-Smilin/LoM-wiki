@@ -28,7 +28,7 @@ tags:
   </tr>
 
   <tr>
-    <td style="text-align: center">
+    <td style="text-align: center" id="全武學點數">
       全武學點數      
     </td>
     <td>
@@ -50,7 +50,7 @@ tags:
   </tr>
 
   <tr>
-    <td style="text-align: center">
+    <td style="text-align: center" id="全煉丹點數">
       全煉丹點數
     </td>
     <td>
@@ -71,7 +71,7 @@ tags:
   </tr>
 
   <tr>
-    <td style="text-align: center">
+    <td style="text-align: center" id="全鍛造點數">
       全鍛造點數
     </td>
     <td>
@@ -92,7 +92,7 @@ tags:
   </tr>
 
   <tr>
-    <td style="text-align: center">
+    <td style="text-align: center" id="廚藝">
       廚藝
     </td>
     <td>
@@ -111,7 +111,7 @@ tags:
   </tr>
 
   <tr>
-    <td style="text-align: center">
+    <td style="text-align: center" id="變心">
       變心
     </td>
     <td>
@@ -134,7 +134,7 @@ tags:
   </tr>
 
   <tr>
-    <td style="text-align: center">
+    <td style="text-align: center" id="變心次數">
       變心次數
     </td>
     <td>
@@ -150,7 +150,7 @@ tags:
   </tr>
 
   <tr>
-    <td style="text-align: center">
+    <td style="text-align: center" id="門派好感">
       門派好感
     </td>
     <td>
