@@ -215,7 +215,7 @@ tags:
 
 <tr>
 <td>5</td>
-<td>第三年十二月上旬剩2行動點</td>
+<td>第三年十二月上旬剩1行動點</td>
 <td><MarkdownWrapper>[集思廣益](/event/simple/3-12-1-集思廣益)</MarkdownWrapper></td>
 <td>
     • 新增📜「訪問葉雲舟」，若🚩武林大會<MarkdownWrapper>[葉雲舟代表唐門出戰](/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>，會獲得<MarkdownWrapper>[同舟劍譜](/system/books/book_2301)</MarkdownWrapper>。
@@ -225,7 +225,7 @@ tags:
 
 <tr>
 <td>6</td>
-<td>第三年十二月上旬剩2行動點</td>
+<td>第三年十二月上旬剩1行動點</td>
 <td><MarkdownWrapper>[告別唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>(退隱線)</td>
 <td>
     • 女弟子房、男弟子房、煉丹房劇情變化。<br>
