@@ -786,7 +786,7 @@ tags:
   <th style="text-align: center">遣散唐門<br>(退隱線)</th>
   <th style="text-align: center">頑抗到底<br>(滅門線)</th>
   <th style="text-align: center">頑抗到底<br>(滅門線)</th>
-  <th style="text-align: center">西武林盟<br>(西武林盟線)</th>
+  <th style="text-align: center">西武林盟<br>(西武林線)</th>
 </tr>
 </thead>
 
