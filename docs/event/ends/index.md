@@ -357,7 +357,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <span style="color: #006F86;">【遣散唐門】</span>
 <span style="color: White;">【龍湘】</span>
 <span style="color: #FF1493;">【結緣？】</span><br>
-即使已經有了紅粉知己，仍在在遣散唐門時與龍湘告白，迫使龍湘投崖自盡。
+即使已經有了紅粉知己，仍在<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>時與龍湘告白，迫使龍湘投崖自盡。
 </td>
 </tr>
 <tr>
@@ -369,7 +369,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 </td>
 <td>
 <span style="color: #006F86;">【遣散唐門】</span><br>
-遣散唐門，退隱江湖。
+<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>，退隱江湖。
 </td>
 </tr>
 <tr>
@@ -384,7 +384,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <span style="color: #006F86;">【遣散唐門】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
 <span style="color: #FF1493;">【結緣】</span><br>
-與虞小梅結緣的低道德遣散唐門結局。
+與虞小梅結緣的低道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
 </td>
 </tr>
 <tr>
@@ -399,7 +399,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <span style="color: #006F86;">【遣散唐門】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
 <span style="color: #FF1493;">【結緣】</span><br>
-與虞小梅結緣的高道德遣散唐門結局。
+與虞小梅結緣的高道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
 </td>
 </tr>
 <tr>
@@ -414,7 +414,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <span style="color: #006F86;">【遣散唐門】</span>
 <span style="color: #70AA39;">【郁竹】</span>
 <span style="color: #FF1493;">【結緣】</span><br>
-與郁竹結緣的低道德遣散唐門結局。
+與郁竹結緣的低道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
 </td>
 </tr>
 <tr>
@@ -429,7 +429,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <span style="color: #006F86;">【遣散唐門】</span>
 <span style="color: #70AA39;">【郁竹】</span>
 <span style="color: #FF1493;">【結緣】</span><br>
-與郁竹結緣的高道德遣散唐門結局。
+與郁竹結緣的高道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
 </td>
 </tr>
 <tr>
@@ -444,7 +444,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <span style="color: #006F86;">【遣散唐門】</span>
 <span style="color: Gold;">【魏菊】</span>
 <span style="color: #FF1493;">【結緣】</span><br>
-與魏菊結緣的遣散唐門結局。
+與魏菊結緣的<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
 </td>
 </tr>
 <tr>
@@ -458,7 +458,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <span style="color: #006F86;">【遣散唐門】</span>
 <span style="color: #00BFFF;">【夏侯蘭】</span>
 <span style="color: #FF1493;">【結緣】</span><br>
-與夏侯蘭結緣的高道德遣散唐門結局。
+與夏侯蘭結緣的高道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
 </td>
 </tr>
 <tr>
