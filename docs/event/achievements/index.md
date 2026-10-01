@@ -33,7 +33,14 @@ tags:
         <td id="風雲史-No.00">00</td>
         <td><AchievementIcon :size="`medium`" :no="`00`">命中有數</AchievementIcon></td>
         <td>儘管未必如意，能夠坦然走到這裡，也很了不起。</td>
-        <td>完成一周目</td>
+        <td>
+            完成一周目。<br>
+            <br>
+            以下結局皆可解鎖此項目:<br>
+            • 退隱線所有結局。<br>
+            • 滅門線對決瑞笙後所有結局。<br>
+            • 西武林線眉山決戰後所有結局。<br>
+        </td>
         <td>
             開啟二週目要素<br>
             上旬+1<br>
