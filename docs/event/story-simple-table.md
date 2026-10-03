@@ -876,8 +876,10 @@ tags:
   </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
-    龍湘結緣<br>
-    飛石來訪<br>
+      <MarkdownWrapper>
+          [龍湘結緣](/event/simple/3-12-3-龍湘結緣)<br>
+          飛石來訪<br>
+      </MarkdownWrapper>
   </td>
   <td colspan = 2 style="text-align: center">
     福韞出使峨嵋<br>
@@ -926,11 +928,13 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
-    青城回音<br>
-    中小門派回音<br>
-    崆峒回音<br>
-    龍湘結緣<br>
-    飛石來訪<br>
+      <MarkdownWrapper>
+          青城回音<br>
+          中小門派回音<br>
+          崆峒回音<br>
+          [龍湘結緣](/event/simple/3-12-3-龍湘結緣)<br>
+          飛石來訪<br>
+      </MarkdownWrapper>
   </td>
 </tr>
 
