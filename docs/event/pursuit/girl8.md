@@ -74,7 +74,7 @@ tags:
 <td>• 第三年十二月下旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年一月下旬(成立西武林盟)</td>
 <td>龍湘結緣</td>
-<td>• 需滿足條件3、4才能觸發。
+<td>• 需<Girl8Icon>龍湘</Girl8Icon>好感≧60，且滿足條件3、4才能觸發。
     <br>• 完成此事件，獲得道具【龍湘的髮簪】後，即完成結緣。</td>
 <td>• 無論戰鬥輸贏都能與龍湘結緣，但若戰鬥輸給龍湘(8回合後的自動落敗除外)會無法與龍淵對話。
     <br>• 若第二年走不留學-客棧線，由於經歷了<MarkdownWrapper>[巧遇龍淵](/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>事件，此處有龍淵劇情差分及新增📜「守信用」，可得秘笈<MarkdownWrapper>[《酩酊玄劍掌》](/system/books/book_3010)</MarkdownWrapper>。但要注意第二年六月前，若<Girl2Icon>葉雲裳</Girl2Icon>好感≧30，會無法進客棧線。
