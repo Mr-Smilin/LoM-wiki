@@ -878,7 +878,7 @@ tags:
   <td style="text-align: center">
       <MarkdownWrapper>
           [龍湘結緣](/event/simple/3-12-3-龍湘結緣)<br>
-          飛石來訪<br>
+          [飛石來訪](/event/simple/3-12-3-飛石來訪)<br>
       </MarkdownWrapper>
   </td>
   <td colspan = 2 style="text-align: center">
@@ -933,7 +933,7 @@ tags:
           中小門派回音<br>
           崆峒回音<br>
           [龍湘結緣](/event/simple/3-12-3-龍湘結緣)<br>
-          飛石來訪<br>
+          [飛石來訪](/event/simple/3-12-3-飛石來訪)<br>
       </MarkdownWrapper>
   </td>
 </tr>
