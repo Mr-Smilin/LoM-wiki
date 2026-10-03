@@ -224,7 +224,10 @@ tags:
         <td>體力5<br>內力5<br>拳掌10<br>刀劍10<br>傲慢</td>
         <td>80</td>
         <td>學問20<br>拳掌20<br>刀劍15<br>黃酒80</td>
-        <td>需未留學，經過千面人魔事件認識[[龍淵]]，與[[龍湘]]結緣時聊守信用贈送</td>
+        <td>
+            <li><MarkdownWrapper>🚩[離家出走住客棧](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，故而在<MarkdownWrapper>[巧遇龍淵](/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>時🚩認識龍淵。</li>
+            <li><MarkdownWrapper>[龍湘結緣](/event/simple/3-12-3-龍湘結緣)</MarkdownWrapper>事件時，閒聊「守信用」後獲得(請見該事件流程)。</li>
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -256,7 +259,10 @@ tags:
         <td>拳掌10<br>如意境LV3<br>龍淵七絕LV2</td>
         <td>80</td>
         <td></td>
-        <td>千面人事件－選項外門弟子，聊到龍湘時選擇英姿颯爽（需請龍淵吃飯）</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[離家出走住客棧](/event/simple/2-06-1-離家出走)</MarkdownWrapper>。</li>
+            <li><MarkdownWrapper>[巧遇龍淵](/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>時，選擇「準備好了」，再選「我在唐門多年，都還在當外姓弟子，何等可憐」，且龍淵好感≥4獲得。</li>
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -524,7 +530,7 @@ tags:
         <td>內力15<br>龍淵七絕LV5</td>
         <td>80</td>
         <td>內力30</td>
-        <td>[[龍湘]]結緣事件，拜堂時[[龍淵]]好感≧8</td>
+        <td><MarkdownWrapper>[龍湘結緣](/event/simple/3-12-3-龍湘結緣)</MarkdownWrapper>事件，拜堂時龍淵好感≧8獲得。</td>
         <td></td>
     </tr>
     <tr>
