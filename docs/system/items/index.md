@@ -296,6 +296,20 @@ tags:
         </td>
         <td></td>
     </tr>
+    <tr>
+        <td>烤魚</td>
+        <td>-</td>
+        <td></td>
+        <td>
+            <MarkdownWrapper>[小師妹回訪](/event/simple/4-01-1-小師妹回訪)</MarkdownWrapper>事件中可以給予小師妹
+        </td>
+        <td>事件道具</td>
+        <td>
+            <MarkdownWrapper>[小師妹回訪](/event/simple/4-01-1-小師妹回訪)</MarkdownWrapper>事件中選擇「烤魚」
+        </td>
+        </td>
+        <td></td>
+    </tr>
 </table>
 
 ## 備註
