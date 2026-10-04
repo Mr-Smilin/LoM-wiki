@@ -896,8 +896,10 @@ tags:
   </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
-    🚧瑞笙來訪<br>
-    師妹回訪<br>
+      <MarkdownWrapper>
+          [小師妹回訪](/event/simple/4-01-1-小師妹回訪)<br>
+          🚧瑞笙來訪<br>
+      </MarkdownWrapper>    
   </td>
   <td colspan = 2 style="text-align: center">
     出使峨嵋人選<br>
@@ -945,8 +947,10 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
-    🚧瑞笙來訪<br>
-    師妹回訪<br>
+      <MarkdownWrapper>
+          [小師妹回訪](/event/simple/4-01-1-小師妹回訪)<br>
+          🚧瑞笙來訪<br>
+      </MarkdownWrapper>
   </td>
 </tr>
 <tr>
