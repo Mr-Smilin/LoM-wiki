@@ -307,7 +307,6 @@ tags:
         <td>
             <MarkdownWrapper>[小師妹回訪](/event/simple/4-01-1-小師妹回訪)</MarkdownWrapper>事件中選擇「烤魚」
         </td>
-        </td>
         <td></td>
     </tr>
 </table>
