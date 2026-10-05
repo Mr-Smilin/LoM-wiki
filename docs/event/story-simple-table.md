@@ -872,7 +872,7 @@ tags:
 <tr>
   <td style="text-align: center">下</td>
   <td style="text-align: center">
-      Demo師妹回訪
+      Demo小師妹回訪
   </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
