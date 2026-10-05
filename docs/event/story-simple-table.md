@@ -914,7 +914,8 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     <MarkdownWrapper>
-      大戰前夕<br>
+      [大戰前夕](/event/simple/4-01-2-大戰前夕)<br>
+      修羅場<br>
       伴侶之約<br>
       [唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)<br>
     </MarkdownWrapper>
@@ -959,8 +960,11 @@ tags:
   <td rowspan = 2 style="text-align: center">-</td>
   <td rowspan = 2 style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
-    大戰前夕<br>
-    伴侶之約<br>
+      <MarkdownWrapper>
+          [大戰前夕](/event/simple/4-01-2-大戰前夕)<br>
+          修羅場<br>
+          伴侶之約<br>
+      </MarkdownWrapper>
   </td>
 </tr>
 <tr>
