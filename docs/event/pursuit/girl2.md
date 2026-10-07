@@ -258,8 +258,11 @@ tags:
     <br>• 或第四年二月中旬(成立西武林盟決策)
 </td>
 <td><MarkdownWrapper>[伴侶之約](/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
-<td>至女弟子房可觸發與<Girl2Icon>葉雲裳</Girl2Icon>玩牌事件。</td>
-<td>若不觸發此事件，則剩兩次行動時自動觸發<Girl2Icon>葉雲裳</Girl2Icon>等不到你的事件。</td>
+<td>
+    • 至女弟子房可觸發與<Girl2Icon>葉雲裳</Girl2Icon>玩牌事件。<br>
+    • 若有其他結緣者，則會被<MarkdownWrapper>[修羅場](/event/simple/4-01-2-修羅場)</MarkdownWrapper>事件取代，點選任意場所觸發。
+</td>
+<td>若不觸發此事件，則剩兩次行動時自動觸發<MarkdownWrapper>[失約](/event/simple/4-01-2-伴侶之約#失約)</MarkdownWrapper>事件。</td>
 </tr>
 
 <tr>
