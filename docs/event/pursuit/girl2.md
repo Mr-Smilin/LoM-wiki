@@ -257,7 +257,7 @@ tags:
 <td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬(成立西武林盟決策)
 </td>
-<td>伴侶之約</td>
+<td><MarkdownWrapper>[伴侶之約](/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
 <td>至女弟子房可觸發與<Girl2Icon>葉雲裳</Girl2Icon>玩牌事件。</td>
 <td>若不觸發此事件，則剩兩次行動時自動觸發<Girl2Icon>葉雲裳</Girl2Icon>等不到你的事件。</td>
 </tr>
