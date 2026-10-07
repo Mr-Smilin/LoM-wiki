@@ -242,9 +242,8 @@ tags:
 <td>第三年十二月中旬以後</td>
 <td>
     🚩<MarkdownWrapper>[決議成立西武林盟](/event/simple/3-12-1-武林盟對策#成立西武林盟)</MarkdownWrapper>後<br>
-    的遊說及準備事件群
 </td>
-<td>• 大戰準備期有許多劇情變化，下面只列出重要的。</td>
+<td>• 大戰準備期有許多劇情變化。</td>
 <td></td>
 </tr>
 
