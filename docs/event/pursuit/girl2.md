@@ -183,7 +183,10 @@ tags:
 <td>第三年九月上旬
     <br>到第四年十月上旬
 </td>
-<td>前往及留宿錦香宮</td>
+<td>
+    <MarkdownWrapper>[前往武林大會](/event/simple/3-09-1-前往武林大會)</MarkdownWrapper><br>
+    <MarkdownWrapper>[錦香宮事件集](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper>
+</td>
 <td>• 若葉雲舟同行:
     <br>1. 旅途事件: 劇情變化、葉雲舟可參與戰役。
     <br>2. 錦香宮: 劇情變化。
@@ -198,10 +201,10 @@ tags:
 <tr>
 <td>4</td>
 <td>第三年十月中旬</td>
-<td>武林大會</td>
+<td><MarkdownWrapper>[武林大會](/event/simple/3-10-2-武林大會)</MarkdownWrapper></td>
 <td>• 若葉雲舟同行:
     <br>1. 劇情變化。
-    <br>2. 可讓他代表唐門參加比武，但需趙活未挑戰上官隼。
+    <br>2. 可讓他<MarkdownWrapper>[代表唐門參加比武](/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>，但需趙活未挑戰上官隼。
     <br>• 若<Girl2Icon>葉雲裳</Girl2Icon>同行:
     <br>1. 劇情變化。
     <br>2. 若投票後唐門成為武林公敵，且選擇📖「讓葉雲裳陪伴」，可解鎖<MarkdownWrapper>[風雲史《惡人自有惡人磨》](/event/achievements/#風雲史-No.19)</MarkdownWrapper>。
@@ -237,7 +240,10 @@ tags:
 <tr>
 <td>7</td>
 <td>第三年十二月中旬以後</td>
-<td>決議成立西武林盟</td>
+<td>
+    🚩<MarkdownWrapper>[決議成立西武林盟](/event/simple/3-12-1-武林盟對策#成立西武林盟)</MarkdownWrapper>後<br>
+    的遊說及準備事件群
+</td>
 <td>• 大戰準備期有許多劇情變化，下面只列出重要的。</td>
 <td></td>
 </tr>
@@ -247,7 +253,7 @@ tags:
 <td>• 第四年一月上旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月上旬(成立西武林盟決策)
 </td>
-<td>師妹回訪</td>
+<td><MarkdownWrapper>[小師妹回訪](/event/simple/4-01-1-小師妹回訪)</MarkdownWrapper></td>
 <td><Girl2Icon>葉雲裳</Girl2Icon>參與事件，劇情變化。</td>
 <td></td>
 </tr>
