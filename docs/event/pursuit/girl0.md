@@ -141,7 +141,7 @@ tags:
 <td>8</td>
 <td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬(成立西武林盟)</td>
-<td>伴侶之約</td>
+<td><MarkdownWrapper>[伴侶之約](/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
 <td>至女弟子房可觸發為<Girl0Icon>唐默鈴</Girl0Icon>梳頭事件。</td>
 <td>若不觸發此事件，則剩2行動點時自動觸發<Girl0Icon>唐默鈴</Girl0Icon>等不到你的事件。</td>
 </tr>
