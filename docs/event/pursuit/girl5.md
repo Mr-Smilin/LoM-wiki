@@ -170,10 +170,11 @@ tags:
 <td>6</td>
 <td>• 第四年一月中旬(不成立西武林盟而頑抗到底)
     <br>• 或第四年二月中旬(成立西武林盟)</td>
-<td>伴侶之約</td>
+<td><MarkdownWrapper>[伴侶之約](/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
 <td>• 從大門下山可觸發與<Girl5Icon>夏侯蘭</Girl5Icon>陪伴事件。
-    <br>• 若有其他結緣者，則觸發任一人的陪伴劇情，會被修羅場事件取代，若🗡️對決落敗會進入<MarkdownWrapper>[生死簿82: 跟黑暗大法師一樣](/event/badends/#生死簿-No.82)</MarkdownWrapper>。</td>
-<td>若不觸發此事件，則剩2行動點時自動觸發夏侯蘭等不到你的事件。</td>
+    <br>• 若有其他結緣者，則會被<MarkdownWrapper>[修羅場](/event/simple/4-01-2-修羅場)</MarkdownWrapper>事件取代，點選任意場所觸發。若🗡️對決落敗且未和<Girl2Icon>葉雲裳</Girl2Icon>結緣，會進入<MarkdownWrapper>[生死簿82: 跟黑暗大法師一樣](/event/badends/#生死簿-No.82)</MarkdownWrapper>。
+</td>
+<td>若不觸發此事件，則剩2行動點時自動觸發<MarkdownWrapper>[失約](/event/simple/4-01-2-伴侶之約#失約)</MarkdownWrapper>事件。</td>
 </tr>
 
 <tr>
