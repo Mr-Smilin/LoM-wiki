@@ -863,10 +863,12 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
-    西武林成立<br>
-    四師兄出使<br>
-    李富貴紮營<br>
-    出使崆峒人選<br>
+      <MarkdownWrapper>
+          [西武林成立](/event/simple/3-12-2-西武林成立)<br>
+          四師兄出使<br>
+          李富貴紮營<br>
+          出使崆峒人選<br>
+      </MarkdownWrapper>
   </td>
 </tr>
 <tr>
