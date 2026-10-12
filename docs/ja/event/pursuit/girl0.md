@@ -127,10 +127,10 @@ tags:
 
 <tr>
 <td>7</td>
-<td>3年目12月中旬、残り行動回数2</td>
-<td><MarkdownWrapper>[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper>-唐門解散</td>
-<td>• 女弟子房の展開が分岐する。
-    <br>• <MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が<Girl0Icon>唐默鈴</Girl0Icon>と共に過ごすバージョンになる。</td>
+<td>3年目12月上旬、残り行動回数1</td>
+<td><MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>(退隠ルート)</td>
+<td>• 女弟子房の展開が分岐する。<br>
+    • <MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が<Girl0Icon>唐默鈴</Girl0Icon>と共に過ごすバージョンになる。</td>
 <td></td>
 </tr>
 
@@ -138,9 +138,12 @@ tags:
 <td>8</td>
 <td>• 4年目1月中旬(西武林盟を成立せず徹底抗戦)
     <br>• または4年目2月中旬(西武林盟成立)</td>
-<td>伴侶の約束</td>
-<td>女弟子房に行くと<Girl0Icon>唐默鈴</Girl0Icon>の髪を梳くイベントが発生する。</td>
-<td>このイベントを発生させない場合、残り行動回数2の時点で<Girl0Icon>唐默鈴</Girl0Icon>が待ちぼうけを食らうイベントが自動発生する。</td>
+<td><MarkdownWrapper>[伴侶との約束](/ja/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
+<td>
+    • 女弟子房に行くと<Girl0Icon>唐默鈴</Girl0Icon>の髪を梳くイベントが発生する。<br>
+    • 他に結縁している相手がいる場合は<MarkdownWrapper>[修羅場](/ja/event/simple/4-01-2-修羅場)</MarkdownWrapper>イベントに置き換わり、任意の場所を選ぶと発生する。
+</td>
+<td>このイベントを発生させない場合、残り行動回数2の時点で<MarkdownWrapper>[約束を破る](/ja/event/simple/4-01-2-伴侶之約#失約)</MarkdownWrapper>イベントが自動発生する。</td>
 </tr>
 
 <tr>

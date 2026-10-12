@@ -63,9 +63,9 @@ tags:
 <tr>
 <td>4</td>
 <td>3年目12月上旬、残り行動1回の時</td>
-<td><MarkdownWrapper>[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
-<td>決断の結果が唐門解散になってはいけない。</td>
-<td>• 唐門を解散し、かつ条件2を満たしている場合、後山に行くと以下が発生する:
+<td><MarkdownWrapper>[武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)</MarkdownWrapper></td>
+<td>決断の結果が唐門解散(退隠ルート)になってはいけない。</td>
+<td>• 唐門を解散し(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)、かつ条件2を満たしている場合、後山に行くと以下が発生する:
     <br>1. 他にも結縁している相手がいて想い人が<Girl8Icon>龍湘</Girl8Icon>の場合、📖「湘姉、俺についてきてくれないか?」を選び、🗡️決闘に勝利後、📖「お前を行かせるつもりはない」を選ぶと、<MarkdownWrapper>[汗青書24：海辺に立つ人](/ja/event/ends/end-24)</MarkdownWrapper>に進み、結縁できなくなる。
     <br>2. それ以外の場合、龍湘との三年の約束イベントが発生し、結縁できなくなる。</td>
 </tr>
@@ -73,11 +73,11 @@ tags:
 <td>5</td>
 <td>• 3年目12月下旬(西武林盟を成立せず徹底抗戦)
     <br>• または4年目1月下旬(西武林盟成立)</td>
-<td>龍湘と結縁</td>
-<td>• 条件3、4を満たして初めて発生する。
+<td><MarkdownWrapper>[龍湘との結縁](/ja/event/simple/3-12-3-龍湘結緣)</MarkdownWrapper></td>
+<td>• <Girl8Icon>龍湘</Girl8Icon>好感≧60、かつ条件3、4を満たして初めて発生する。
     <br>• このイベントを完了し、道具【龍湘の髪簪】を入手すると結縁完了。</td>
 <td>• 戦闘の勝敗に関わらず龍湘と結縁できるが、龍湘との戦闘に敗北した場合(8ターン後の自動敗北を除く)は龍淵と会話できなくなる。
-    <br>• 2年目に留学せず宿屋ルートを進んだ場合、<MarkdownWrapper>[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>イベントを経験しているため、ここで龍淵の展開差分及び📜「信義を守る」が追加され、秘笈<MarkdownWrapper>[《酩酊玄剣掌》](/ja/system/books/book_3010)</MarkdownWrapper>を入手できる。ただし2年目6月より前に<Girl2Icon>葉雲裳</Girl2Icon>好感≧30になっていると、宿屋ルートに入れなくなる点に注意。
+    <br>• 2年目に留学せず宿屋ルートを進んだ場合、<MarkdownWrapper>[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>イベントを経験しているため、ここで龍淵の展開差分及び📜「信義を守る」が追加され、秘笈<MarkdownWrapper>[《酩酊玄剣掌》](/ja/system/books/book_3010)</MarkdownWrapper>を入手できる。ただし2年目6月より前に<Girl2Icon>葉雲裳</Girl2Icon>が唐門にいて、かつ葉雲裳好感≧30になっていると、宿屋ルートに入れなくなる点に注意。
     <br>• 龍淵好感8以上なら、秘笈<MarkdownWrapper>[《龍淵七絶》](/ja/system/books/book_7013)</MarkdownWrapper>を入手できる。
 </td>
 </tr>
@@ -104,9 +104,12 @@ tags:
 <td>2</td>
 <td>• 4年目1月中旬(西武林盟を成立せず徹底抗戦)
     <br>• または4年目2月中旬(西武林盟成立)</td>
-<td>後山で付き添う</td>
-<td>後山に行くと龍湘とのデートイベントが発生する。</td>
-<td>このイベントを発生させない場合、残り行動回数2の時点で龍湘が待ちぼうけを食らうイベントが自動発生する。</td>
+<td><MarkdownWrapper>[伴侶との約束](/ja/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
+<td>
+    • 後山に行くと龍湘とのデートイベントが発生する。<br>
+    • 他に結縁している相手がいる場合は<MarkdownWrapper>[修羅場](/ja/event/simple/4-01-2-修羅場)</MarkdownWrapper>イベントに置き換わり、任意の場所を選ぶと発生する。
+</td>
+<td>このイベントを発生させない場合、残り行動回数2の時点で<MarkdownWrapper>[約束を破る](/ja/event/simple/4-01-2-伴侶之約#失約)</MarkdownWrapper>イベントが自動発生する。</td>
 </tr>
 <tr>
 <td>3</td>

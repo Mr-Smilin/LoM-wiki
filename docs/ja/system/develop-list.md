@@ -36,7 +36,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=8 style="text-align: center">唐門短剣<br><img src="/images/items/swords/icon_sword_01.webp" style="width:100px"></td>
+    <td rowspan=8 style="text-align: center" id = "唐門小劍">唐門短剣<br><img src="/images/items/swords/icon_sword_01.webp" style="width:100px"></td>
     <td rowspan=8 style="text-align: center">なし</td>
     <td style="text-align: center">決闘-攻撃ダメージ</td>
     <td style="text-align: center">-</td>
@@ -153,7 +153,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=8 style="text-align: center">唐門精鋭短剣<br><img src="/images/items/swords/icon_sword_10.webp" style="width:100px"></td>
+    <td rowspan=8 style="text-align: center" id = "唐門菁英小劍">唐門精鋭短剣<br><img src="/images/items/swords/icon_sword_10.webp" style="width:100px"></td>
     <td rowspan=8 style="text-align: center">
         <li>唐門短剣<br>レベル5<br></li>
         <li>門派規模2<br></li>
@@ -273,7 +273,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=8 style="text-align: center">唐門伝承短剣<br><img src="/images/items/swords/icon_sword_20.webp" style="width:100px"></td>
+    <td rowspan=8 style="text-align: center" id = "唐門傳承小劍">唐門伝承短剣<br><img src="/images/items/swords/icon_sword_20.webp" style="width:100px"></td>
     <td rowspan=8 style="text-align: center">
         <li>唐門精鋭短剣<br>レベル10<br></li>
         <li>門派規模3<br></li>
@@ -398,7 +398,7 @@ tags:
 
   
   <tr>
-    <td rowspan=8 style="text-align: center">瀝泉短剣<br><img src="/images/items/swords/icon_sword_22.webp" style="width:100px"></td>
+    <td rowspan=8 style="text-align: center" id = "瀝泉小劍">瀝泉短剣<br><img src="/images/items/swords/icon_sword_22.webp" style="width:100px"></td>
     <td rowspan=8 style="text-align: center">
         <li>唐門精鋭短剣<br>レベル10<br></li>
         <li>門派規模3<br></li>
@@ -529,7 +529,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=7 style="text-align: center">魚切り包丁<br><img src="/images/items/swords/icon_sword_11.webp" style="width:100px"></td>
+    <td rowspan=7 style="text-align: center" id = "切魚刀">魚切り包丁<br><img src="/images/items/swords/icon_sword_11.webp" style="width:100px"></td>
     <td rowspan=7 style="text-align: center">
         <li>唐門短剣<br>レベル5<br></li>
         <li>門派規模2<br></li>
@@ -547,7 +547,7 @@ tags:
     <td style="text-align: center">36</td>
     <td style="text-align: center">40</td>
     <td rowspan=7>
-        <li>🚩「無可救薬ルート」(<MarkdownWrapper>[掌門の手配](/ja/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>) で、月例会で<br>「魔教に身を寄せる」「根も葉もない話ではない」<br>「劉顎を知っている」を選べば入手。<br>無可救薬ルートを離れると消失。<br></li>
+        <li>🚩「救いようのないルート」(<MarkdownWrapper>[掌門の手配](/ja/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>) で、月例会で<br>「魔教に身を寄せる」「根も葉もない話ではない」<br>「劉顎を知っている」を選べば入手。<br>救いようのないルートを離れると消失。<br></li>
     </td>
     <td rowspan=7></td>
   </tr>
@@ -637,7 +637,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=7 style="text-align: center">玉霄神匕<br><img src="/images/items/swords/icon_sword_21.webp" style="width:100px"></td>
+    <td rowspan=7 style="text-align: center" id = "玉霄神匕">玉霄神匕<br><img src="/images/items/swords/icon_sword_21.webp" style="width:100px"></td>
     <td rowspan=7 style="text-align: center">
         <li>唐門短剣<br>レベル10<br></li>
     </td>
@@ -744,7 +744,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=7 style="text-align: center">金銭剣<br><img src="/images/items/swords/icon_sword_12.webp" style="width:100px"></td>
+    <td rowspan=7 style="text-align: center" id = "金錢劍">金銭剣<br><img src="/images/items/swords/icon_sword_12.webp" style="width:100px"></td>
     <td rowspan=7 style="text-align: center">
         <li>唐門短剣<br>レベル10<br></li>
     </td>
@@ -875,7 +875,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=7 style="text-align: center">唐門制服<br><img src="/images/items/equips/icon_equip_01.webp" style="width:100px"></td>
+    <td rowspan=7 style="text-align: center" id = "唐門制服">唐門制服<br><img src="/images/items/equips/icon_equip_01.webp" style="width:100px"></td>
     <td rowspan=7 style="text-align: center">なし</td>
     <td style="text-align: center">決闘-被ダメージ軽減</td>
     <td style="text-align: center">-</td>
@@ -978,7 +978,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=6 style="text-align: center">軽量化<br><img src="/images/items/equips/icon_equip_11.webp" style="width:100px"></td>
+    <td rowspan=6 style="text-align: center" id = "輕量化">軽量化<br><img src="/images/items/equips/icon_equip_11.webp" style="width:100px"></td>
     <td rowspan=6 style="text-align: center">
         <li>唐門制服<br>レベル5<br></li>
         <li>門派規模2<br></li>
@@ -1070,7 +1070,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=7 style="text-align: center">紙甲<br><img src="/images/items/equips/icon_equip_21.webp" style="width:100px"></td>
+    <td rowspan=7 style="text-align: center" id = "紙甲">紙甲<br><img src="/images/items/equips/icon_equip_21.webp" style="width:100px"></td>
     <td rowspan=7 style="text-align: center">
         <li>軽量化<br>レベル10<br></li>
         <li>門派規模3<br></li>
@@ -1180,7 +1180,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=8 style="text-align: center">護心鏡<br><img src="/images/items/equips/icon_equip_10.webp" style="width:100px"></td>
+    <td rowspan=8 style="text-align: center" id = "護心鏡">護心鏡<br><img src="/images/items/equips/icon_equip_10.webp" style="width:100px"></td>
     <td rowspan=8 style="text-align: center">
         <li>唐門制服<br>レベル10<br></li>
         <li>門派規模2<br></li>
@@ -1305,7 +1305,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=7 style="text-align: center">密々綴<br><img src="/images/items/equips/icon_equip_20.webp" style="width:100px"></td>
+    <td rowspan=7 style="text-align: center" id = "密密縫">密々綴<br><img src="/images/items/equips/icon_equip_20.webp" style="width:100px"></td>
     <td rowspan=7 style="text-align: center">
         <li>唐門制服<br>レベル10<br></li>
         <li>門派規模3<br></li>
@@ -1421,7 +1421,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=7 style="text-align: center">牛革の制服<br><img src="/images/items/equips/icon_equip_22.webp" style="width:100px"></td>
+    <td rowspan=7 style="text-align: center" id = "牛皮制服">牛革の制服<br><img src="/images/items/equips/icon_equip_22.webp" style="width:100px"></td>
     <td rowspan=7 style="text-align: center">
         <li>唐門制服<br>レベル10<br></li>
         <li>門派規模2<br></li>
@@ -1556,7 +1556,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=9 style="text-align: center">脱手鏢<br><img src="/images/items/knifes/icon_knife_01.webp" style="width:100px"></td>
+    <td rowspan=9 style="text-align: center" id = "脫手標">脱手鏢<br><img src="/images/items/knifes/icon_knife_01.webp" style="width:100px"></td>
     <td rowspan=9 style="text-align: center">なし</td>
     <td style="text-align: center">決闘-暗器ダメージ</td>
     <td style="text-align: center">-</td>
@@ -1687,7 +1687,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=10 style="text-align: center">飛梭<br><img src="/images/items/knifes/icon_knife_11.webp" style="width:100px"></td>
+    <td rowspan=10 style="text-align: center" id = "飛梭">飛梭<br><img src="/images/items/knifes/icon_knife_11.webp" style="width:100px"></td>
     <td rowspan=10 style="text-align: center">
         <li>脱手鏢<br>レベル5<br></li>
         <li>門派規模2<br></li>
@@ -1835,7 +1835,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=11 style="text-align: center">無形矢<br><img src="/images/items/knifes/icon_knife_21.webp" style="width:100px"></td>
+    <td rowspan=11 style="text-align: center" id = "無形箭">無形矢<br><img src="/images/items/knifes/icon_knife_21.webp" style="width:100px"></td>
     <td rowspan=11 style="text-align: center">
         <li>飛梭<br>レベル10<br></li>
         <li>門派規模3<br></li>
@@ -2005,7 +2005,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=8 style="text-align: center">鉄橄欖<br><img src="/images/items/knifes/icon_knife_10.webp" style="width:100px"></td>
+    <td rowspan=8 style="text-align: center" id = "鐵橄欖">鉄橄欖<br><img src="/images/items/knifes/icon_knife_10.webp" style="width:100px"></td>
     <td rowspan=8 style="text-align: center">
         <li>脱手鏢<br>レベル10<br></li>
         <li>門派規模2<br></li>
@@ -2149,7 +2149,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=9 style="text-align: center">爆竹<br><img src="/images/items/balls/icon_ball_01.webp" style="width:100px"></td>
+    <td rowspan=9 style="text-align: center" id = "鞭炮">爆竹<br><img src="/images/items/balls/icon_ball_01.webp" style="width:100px"></td>
     <td rowspan=9 style="text-align: center">なし</td>
     <td style="text-align: center">決闘-暗器ダメージ</td>
     <td style="text-align: center">-</td>
@@ -2280,7 +2280,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=9 style="text-align: center">流星矢<br><img src="/images/items/balls/icon_ball_11.webp" style="width:100px"></td>
+    <td rowspan=9 style="text-align: center" id = "流星箭">流星矢<br><img src="/images/items/balls/icon_ball_11.webp" style="width:100px"></td>
     <td rowspan=9 style="text-align: center">
         <li>爆竹<br>レベル5<br></li>
         <li>門派規模2<br></li>
@@ -2414,7 +2414,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=10 style="text-align: center">雷火弾<br><img src="/images/items/balls/icon_ball_20.webp" style="width:100px"></td>
+    <td rowspan=10 style="text-align: center" id = "雷火彈">雷火弾<br><img src="/images/items/balls/icon_ball_20.webp" style="width:100px"></td>
     <td rowspan=10 style="text-align: center">
         <li>流星矢<br>レベル10<br></li>
         <li>門派規模3<br></li>
@@ -2568,7 +2568,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=9 style="text-align: center">神奇球<br><img src="/images/items/balls/icon_ball_10.webp" style="width:100px"></td>
+    <td rowspan=9 style="text-align: center" id = "神奇球">神奇球<br><img src="/images/items/balls/icon_ball_10.webp" style="width:100px"></td>
     <td rowspan=9 style="text-align: center">
         <li>爆竹<br>レベル10<br></li>
         <li>門派規模2<br></li>
@@ -2726,7 +2726,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=6 style="text-align: center">似草針<br><img src="/images/items/traps/icon_trap_01.webp" style="width:100px"></td>
+    <td rowspan=6 style="text-align: center" id = "似草針">似草針<br><img src="/images/items/traps/icon_trap_01.webp" style="width:100px"></td>
     <td rowspan=6 style="text-align: center">なし</td>
     <td style="text-align: center">決闘-暗器ダメージ</td>
     <td style="text-align: center">-</td>
@@ -2815,7 +2815,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=7 style="text-align: center">地鳴雷<br><img src="/images/items/traps/icon_trap_10.webp" style="width:100px"></td>
+    <td rowspan=7 style="text-align: center" id = "地鳴雷">地鳴雷<br><img src="/images/items/traps/icon_trap_10.webp" style="width:100px"></td>
     <td rowspan=7 style="text-align: center">
         <li>似草針<br>レベル10<br></li>
         <li>門派規模2<br></li>
@@ -2921,7 +2921,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=6 style="text-align: center">猛火油櫃<br><img src="/images/items/traps/icon_trap_11.webp" style="width:100px"></td>
+    <td rowspan=6 style="text-align: center" id = "猛火油櫃">猛火油櫃<br><img src="/images/items/traps/icon_trap_11.webp" style="width:100px"></td>
     <td rowspan=6 style="text-align: center">
         <li>似草針<br>レベル10<br></li>
         <li>門派規模2<br></li>
@@ -3043,7 +3043,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=8 style="text-align: center">赤煉砂<br><img src="/images/items/poisons/icon_poison_01.webp" style="width:100px"></td>
+    <td rowspan=8 style="text-align: center" id = "赤煉砂">赤煉砂<br><img src="/images/items/poisons/icon_poison_01.webp" style="width:100px"></td>
     <td rowspan=8 style="text-align: center">なし</td>
     <td style="text-align: center">決闘-血毒</td>
     <td style="text-align: center">-</td>
@@ -3160,7 +3160,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=8 style="text-align: center">烏水仙<br><img src="/images/items/poisons/icon_poison_10.webp" style="width:100px"></td>
+    <td rowspan=8 style="text-align: center" id = "烏水仙">烏水仙<br><img src="/images/items/poisons/icon_poison_10.webp" style="width:100px"></td>
     <td rowspan=8 style="text-align: center">
         <li>赤煉砂<br>レベル5<br></li>
         <li>門派規模2<br></li>
@@ -3280,7 +3280,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=12 style="text-align: center">三陰蟲草膠<br><img src="/images/items/poisons/icon_poison_11.webp" style="width:100px"></td>
+    <td rowspan=12 style="text-align: center" id = "三陰蟲草膠">三陰蟲草膠<br><img src="/images/items/poisons/icon_poison_11.webp" style="width:100px"></td>
     <td rowspan=12 style="text-align: center">
         <li>赤煉砂<br>レベル10<br></li>
         <li>門派規模2<br></li>
@@ -3456,7 +3456,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=12 style="text-align: center">彼岸仙香<br><img src="/images/items/poisons/icon_poison_20.webp" style="width:100px"></td>
+    <td rowspan=12 style="text-align: center" id = "彼岸仙香">彼岸仙香<br><img src="/images/items/poisons/icon_poison_20.webp" style="width:100px"></td>
     <td rowspan=12 style="text-align: center">
         <li>赤煉砂<br>レベル10<br></li>
         <li>門派規模3<br></li>
@@ -3649,7 +3649,7 @@ tags:
   </tr>
 
   <tr>
-    <td style="text-align: center">南蝥礜石散<br><img src="/images/items/medis/icon_medi_01.webp" style="width:100px"></td>
+    <td style="text-align: center" id = "南蝥礜石散">南蝥礜石散<br><img src="/images/items/medis/icon_medi_01.webp" style="width:100px"></td>
     <td style="text-align: center">なし</td>
     <td style="text-align: center">15</td>
     <td style="text-align: center">300</td>
@@ -3664,7 +3664,7 @@ tags:
     <td></td>
   </tr>
   <tr>
-    <td style="text-align: center">穿心龍膽湯<br><img src="/images/items/medis/icon_medi_02.webp" style="width:100px"></td>
+    <td style="text-align: center" id = "穿心龍膽湯">穿心龍膽湯<br><img src="/images/items/medis/icon_medi_02.webp" style="width:100px"></td>
     <td style="text-align: center">南蝥礜石散<br>開発中<br></td>
     <td style="text-align: center">15</td>
     <td style="text-align: center">300</td>
@@ -3679,7 +3679,7 @@ tags:
     <td></td>
   </tr>
   <tr>
-    <td style="text-align: center">乖乖水<br><img src="/images/items/medis/icon_medi_04.webp" style="width:100px"></td>
+    <td style="text-align: center" id = "乖乖水">乖乖水<br><img src="/images/items/medis/icon_medi_04.webp" style="width:100px"></td>
     <td style="text-align: center">南蝥礜石散<br>開発中<br></td>
     <td style="text-align: center">15</td>
     <td style="text-align: center">300</td>
@@ -3694,7 +3694,7 @@ tags:
     <td></td>
   </tr>
   <tr>
-    <td style="text-align: center">胡椒粉丸<br><img src="/images/items/medis/icon_medi_03.webp" style="width:100px"></td>
+    <td style="text-align: center" id = "胡椒粉丸">胡椒粉丸<br><img src="/images/items/medis/icon_medi_03.webp" style="width:100px"></td>
     <td style="text-align: center">
         <li>穿心龍膽湯<br>開発中<br></li>
         <li>門派規模2<br></li>
@@ -3710,7 +3710,7 @@ tags:
     <td></td>
   </tr>
   <tr>
-    <td style="text-align: center">睡丹<br><img src="/images/items/medis/icon_medi_05.webp" style="width:100px"></td>
+    <td style="text-align: center" id = "睡丹">睡丹<br><img src="/images/items/medis/icon_medi_05.webp" style="width:100px"></td>
     <td style="text-align: center">
         <li>南蝥礜石散<br>開発中<br></li>
     </td>
@@ -3724,18 +3724,20 @@ tags:
     </td>
     <td>
         <li>
-            <MarkdownWrapper>[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>の別れの時、天命のダイスで<br>
-            【🎲≧70 わかった、土産は土産だ】を出し、さらに<br>
-            「華山には仙人がいて、仙人は霊丹を持っていると聞いた」を選ぶ。<br>
-            門人との別れの後、男弟子房の雑談<br>
-            「以前頼んでおいた件」で入手。<br>
+            🚩<MarkdownWrapper>[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>の別れの時、<br>
+            「難しい要求」を選び、<br>
+            ダイスで【🎲≧70 さあ、地元の土産品だな】を出し、<br>
+            さらに「華山には仙人がいると聞いた、仙人は霊丹を持つ」を選ぶ。<br>
+            <MarkdownWrapper>[門人の暇乞い-四師兄が帰る](/ja/event/simple/3-11-1-門人辭別#四師兄歸來)</MarkdownWrapper>の後、<br>
+            男弟子房で<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>を行い、<br>
+            「前に頼んだ調べ事」で入手。<br>
         </li>
     </td>
     <td>残り行動回数≧2<br>
         の時のみ使用可</td>
   </tr>
   <tr>
-    <td style="text-align: center">万霊油<br><img src="/images/items/medis/icon_medi_22.webp" style="width:100px"></td>
+    <td style="text-align: center" id = "萬靈油">万霊油<br><img src="/images/items/medis/icon_medi_22.webp" style="width:100px"></td>
     <td style="text-align: center">
         <li>南蝥礜石散<br>開発中<br></li>
         <li>門派規模2<br></li>

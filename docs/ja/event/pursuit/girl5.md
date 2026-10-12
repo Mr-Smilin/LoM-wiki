@@ -131,27 +131,54 @@ tags:
 
 <tr>
 <td>3</td>
-<td>3年目12月中旬、残り行動回数2</td>
-<td><MarkdownWrapper>[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
-<td>• <Girl5Icon>夏侯蘭</Girl5Icon>を訪ねられる。
-    <br>• <MarkdownWrapper>[心を集中させるのを手伝う](/ja/event/simple/2-04-1-助你收心)</MarkdownWrapper>で樊嘯天が夏侯蘭に師事しており、かつこの時点で唐門にいる場合、会話が分岐する。
-    <br>• 唐門解散を決断した場合、修練場と男弟子房の展開が分岐する。
-    <br>• 唐門解散を決断した場合、<MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が夏侯蘭と共に雪山へ登るバージョンに変わるほか、道徳≧60なら<MarkdownWrapper>[汗青書31：伝説の人](/ja/event/ends/end-31)</MarkdownWrapper>に進める。</td>
+<td>3年目6月上旬以降</td>
+<td><MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper></td>
+<td>
+    • 前提条件: 🚩「金烏との初戦に勝利」(<MarkdownWrapper>[金烏との決闘](/ja/event/simple/3-05-1-對決金烏)</MarkdownWrapper>参照)。<br>
+    • 雑談「俺の実力」を選び、金を払い続けて(計銀両1300が必要)四師兄の話を聞く。<br>
+    • <Girl5Icon>夏侯蘭</Girl5Icon>と結縁している場合、夏侯蘭が会話に加わる。<br>
+</td>
 <td></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td>• 4年目1月中旬(西武林盟を成立せず徹底抗戦)
-    <br>• または4年目2月中旬(西武林盟成立)</td>
-<td>伴侶の約束</td>
-<td>• 大門から下山すると<Girl5Icon>夏侯蘭</Girl5Icon>と付き添うイベントが発生する。
-    <br>• 他にも結縁している相手がいる場合、いずれかの付き添いイベントが修羅場イベントに差し替えられ、🗡️決闘に敗北すると<MarkdownWrapper>[生死簿82：かの暗黒大法師のごとく](/ja/event/badends/#生死簿-No.82)</MarkdownWrapper>に進む。</td>
-<td>このイベントを発生させない場合、残り行動回数2の時点で夏侯蘭が待ちぼうけを食らうイベントが自動発生する。</td>
+<td>3年目12月上旬残り1回の行動</td>
+<td>
+    <MarkdownWrapper>[皆の知恵を集める](/ja/event/simple/3-12-1-集思廣益)</MarkdownWrapper>
+</td>
+<td>
+    • <Girl5Icon>夏侯蘭</Girl5Icon>を訪ねられる。<br>
+    • <MarkdownWrapper>[心を集中させるのを手伝う](/ja/event/simple/2-04-1-助你收心)</MarkdownWrapper>で樊嘯天が夏侯蘭に師事しており、かつ<MarkdownWrapper>[樊嘯天が唐門に加入](/ja/event/simple/3-10-2-公審唐門#丐幫表態)</MarkdownWrapper>している場合: 会話が分岐する。<br>
+</td>
+<td></td>
 </tr>
 
 <tr>
 <td>5</td>
+<td>3年目12月上旬残り1回の行動</td>
+<td><MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>(退隠ルート)</td>
+<td>
+    • 修練場と男弟子房の展開が分岐する。<br>
+    • <MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が夏侯蘭と共に雪山へ登るバージョンに変わる。<br>
+    • 道徳≧60なら<MarkdownWrapper>[汗青書31：伝説の人](/ja/event/ends/end-31)</MarkdownWrapper>に進める。
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>• 4年目1月中旬(西武林盟を成立せず徹底抗戦)
+    <br>• または4年目2月中旬(西武林盟成立)</td>
+<td><MarkdownWrapper>[伴侶との約束](/ja/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
+<td>• 大門から下山すると<Girl5Icon>夏侯蘭</Girl5Icon>と付き添うイベントが発生する。
+    <br>• 他にも結縁している相手がいる場合、<MarkdownWrapper>[修羅場](/ja/event/simple/4-01-2-修羅場)</MarkdownWrapper>イベントに置き換わり、任意の場所を選ぶと発生する。🗡️決闘に敗北し、かつ<Girl2Icon>葉雲裳</Girl2Icon>と結縁していない場合、<MarkdownWrapper>[生死簿82：かの暗黒大法師のごとく](/ja/event/badends/#生死簿-No.82)</MarkdownWrapper>に進む。
+</td>
+<td>このイベントを発生させない場合、残り行動回数2の時点で<MarkdownWrapper>[約束を破る](/ja/event/simple/4-01-2-伴侶之約#失約)</MarkdownWrapper>イベントが自動発生する。</td>
+</tr>
+
+<tr>
+<td>7</td>
 <td>• 4年目1月中旬残り2回の行動(西武林盟を成立せず徹底抗戦)
     <br>• または4年目2月中旬残り2回の行動(西武林盟成立失敗により徹底抗戦)</td>
 <td><MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper></td>
@@ -166,7 +193,7 @@ tags:
 </tr>
 
 <tr>
-<td>6</td>
+<td>8</td>
 <td>4年目2月中旬残り2回の行動</td>
 <td><MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>が参戦する。
@@ -177,7 +204,7 @@ tags:
 </tr>
 
 <tr>
-<td>7</td>
+<td>9</td>
 <td>4年目3月上旬</td>
 <td>眉山決戦</td>
 <td>• <Girl5Icon>夏侯蘭</Girl5Icon>が同行する展開になる。

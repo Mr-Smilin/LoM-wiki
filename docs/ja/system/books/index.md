@@ -123,7 +123,14 @@ tags:
         <td>刀剣15<br>拳掌-6<br>暗器-6<br>軽功10<br>同舟剣法</td>
         <td>50</td>
         <td>点破雲関</td>
-        <td>葉家兄妹が武林大会に向かい、葉雲舟が唐門代表として出戦。<br>三年十二月に武林盟の檄文を受け取り、葉雲舟に意見を尋ねると入手。</td>
+        <td>
+            • 以下の前提条件をすべて満たす:
+            1. 🚩<MarkdownWrapper>[葉雲裳結縁攻略](/ja/event/pursuit/girl2)</MarkdownWrapper>；
+            2. 🚩<MarkdownWrapper>[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>；
+            3. 🚩<MarkdownWrapper>[葉雲舟が唐門代表として出戦](/ja/event/simple/3-10-2-點蒼逆徒#師徒對決)</MarkdownWrapper>。<br>
+            • 3年目12月上旬に<MarkdownWrapper>[武林からの檄文](/ja/event/simple/3-12-1-武林檄文)</MarkdownWrapper>を受け取った後の
+            <MarkdownWrapper>[皆の知恵を集める](/ja/event/simple/3-12-1-集思廣益)</MarkdownWrapper>で、「葉雲舟に尋ねる」を選ぶと入手。
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -147,7 +154,12 @@ tags:
         <td>内功15<br>刀剣10<br>三教合一LV5<br>品性+10</td>
         <td>80</td>
         <td>仏学LV1<br>または<br>儒学LV1<br>または<br>道学LV2</td>
-        <td>唐惟元の遠出時に仙丹探しを頼み、帰還後に弟子房で雑談し【以前頼んだ件】を選択、<br>唐惟元≥50で、二千金を払って取得</td>
+        <td>
+            以下の流れを参照:<br>
+            <li><MarkdownWrapper>[四師兄、商いの長旅へ](/ja/event/detailed_description/3-08-1-四師兄遠遊經商)</MarkdownWrapper>の別れの時、「あえて難題を突きつける」を選び、ダイスで【≧70 さあ、地元の土産品だな】を出し、さらに「華山には仙人がいると聞いた、仙人は霊丹を持つ」を選ぶ</li>
+            <li>3年目11月上旬に<MarkdownWrapper>[門人の暇乞い-四師兄が帰る](/ja/event/simple/3-11-1-門人辭別#四師兄歸來)</MarkdownWrapper>の後、男弟子房の<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>で「前に頼んだ調べ事」を選ぶ</li>
+            <li>銀両≥5000、唐惟元好感≥50で、「買う」を選ぶと入手</li>
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -176,7 +188,11 @@ tags:
         <td>拳掌15<br>折花手LV5</td>
         <td>80</td>
         <td>内功40<br>拳掌40</td>
-        <td>三年弟子房－唐惟元に聞き込み</td>
+        <td>
+            🚩<MarkdownWrapper>[掌門の手配](/ja/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>の救いようのないルート、
+            男弟子房の<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>で「前に頼んだ調べ事」を選ぶ。<br>
+            銀両2000を支払い、天命のダイスで【🎲＞40 失われた嵩山の秘笈】を出し、さらに「ではありがたく頂こう」を選ぶと入手。
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -208,7 +224,10 @@ tags:
         <td>体力5<br>内功5<br>拳掌10<br>刀剣10<br>傲慢</td>
         <td>80</td>
         <td>学問20<br>拳掌20<br>刀剣15<br>黃酒80</td>
-        <td><MarkdownWrapper>留学していないことが必要。千面人魔イベントで[龍淵](/ja/people/characters/special2)と知り合い、[龍湘](/ja/people/characters/girl8)と結ばれる際に信義について話すと贈られる</MarkdownWrapper></td>
+        <td>
+            <li><MarkdownWrapper>🚩[家出](/ja/event/simple/2-06-1-離家出走)して宿屋に泊まり、その結果[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)の時に🚩龍淵と知り合う。</MarkdownWrapper></li>
+            <li><MarkdownWrapper>[龍湘との結縁](/ja/event/simple/3-12-3-龍湘結緣)イベントで、雑談「信義を守る」の後に入手（当該イベントの流れを参照）。</MarkdownWrapper></li>
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -240,7 +259,10 @@ tags:
         <td>拳掌10<br>如意境LV3<br>龍淵七絶LV2</td>
         <td>80</td>
         <td></td>
-        <td>千面人イベント－外門弟子を選び、龍湘の話題で「英姿颯爽」を選択 (龍淵に食事を奢る必要あり)</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[家出](/ja/event/simple/2-06-1-離家出走)</MarkdownWrapper>して宿屋に泊まる。</li>
+            <li><MarkdownWrapper>[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>の時、「準備はできた」を選び、さらに「唐門に長年いるのに、まだ外姓の弟子のままで、なんと哀れなことか」を選び、かつ龍淵好感≥4で入手。</li>
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -416,7 +438,7 @@ tags:
         <td>体力10<br>内功5<br>全真体操LV5<br>道学LV2</td>
         <td>52</td>
         <td></td>
-        <td>龍湘の荒れ寺イベント－公子俠を助けて全真弟子に勝利して入手<br>唐門の債務&gt;-9000、上官螢訪問イベント、唐惟元ダイスでランダムに贈られる (唐惟元好感が60未満であること)<br>青城留学、唐惟元ダイスでランダムに贈られる<br>二年三月上旬－唐惟元から購入 ($1200)<br>二年十月中旬に販売終了</td>
+        <td>唐門の債務&gt;-9000、上官螢訪問イベント、唐惟元ダイスでランダムに贈られる (唐惟元好感が60未満であること)<br>青城留学、唐惟元ダイスでランダムに贈られる<br>二年三月上旬－唐惟元から購入 ($1200)<br>二年十月中旬に販売終了</td>
         <td>1200</td>
     </tr>
     <tr>
@@ -504,7 +526,7 @@ tags:
         <td>内功15<br>龍淵七絶LV5</td>
         <td>80</td>
         <td>内功30</td>
-        <td><MarkdownWrapper>[龍湘](/ja/people/characters/girl8)と結ばれるイベント、祝言の際に[龍淵](/ja/people/characters/special2)好感≧8</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[龍湘との結縁](/ja/event/simple/3-12-3-龍湘結緣)イベントで、拝堂の時に龍淵好感≧8で入手。</MarkdownWrapper></td>
         <td></td>
     </tr>
     <tr>
@@ -676,7 +698,7 @@ tags:
         <td>拳掌5<br>暗器3<br>防御5<br>品性+5</td>
         <td>25</td>
         <td>品性&gt;=60</td>
-        <td>鶏捕まえイベント－全真弟子に勝利して入手 (鶏を焼かない)<br>二年崆峒派留学－無色広場の街歩き、唐惟元から購入 ($800)<br>二年三月上旬－唐惟元から購入<br>二年十月中旬に販売終了<br>囲城イベント－南宮遠が贈る (金を受け取らず手合わせ、こちらの血量≤40%)</td>
+        <td>鶏捕まえイベント－全真弟子に勝利して入手 (鶏を焼く)<br>二年崆峒派留学－無色広場の街歩き、唐惟元から購入 ($800)<br>二年三月上旬－唐惟元から購入<br>二年十月中旬に販売終了<br>囲城イベント－南宮遠が贈る (金を受け取らず手合わせ、こちらの血量≤40%)</td>
         <td>800</td>
     </tr>
     <tr>

@@ -357,7 +357,7 @@ tags:
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: White;">【龍湘】</span>
 <span style="color: #FF1493;">【結縁？】</span><br>
-既に紅粉知己がいるにもかかわらず、唐門解散時に龍湘に告白を迫り、龍湘を投身自殺に追い込む。
+既に紅粉知己がいるにもかかわらず、唐門解散(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)時に龍湘に告白を迫り、龍湘を投身自殺に追い込む。
 </td>
 </tr>
 <tr>
@@ -369,7 +369,7 @@ tags:
 </td>
 <td>
 <span style="color: #006F86;">【唐門解散】</span><br>
-唐門を解散し、江湖から隠退。
+唐門を解散(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)し、江湖から隠退。
 </td>
 </tr>
 <tr>
@@ -384,7 +384,7 @@ tags:
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
-虞小梅と結縁する低道徳の唐門解散エンディング。
+虞小梅と結縁する低道徳の唐門解散(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)エンディング。
 </td>
 </tr>
 <tr>
@@ -399,7 +399,7 @@ tags:
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
-虞小梅と結縁する高道徳の唐門解散エンディング。
+虞小梅と結縁する高道徳の唐門解散(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)エンディング。
 </td>
 </tr>
 <tr>
@@ -414,7 +414,7 @@ tags:
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #70AA39;">【郁竹】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
-郁竹と結縁する低道徳の唐門解散エンディング。
+郁竹と結縁する低道徳の唐門解散(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)エンディング。
 </td>
 </tr>
 <tr>
@@ -429,7 +429,7 @@ tags:
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #70AA39;">【郁竹】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
-郁竹と結縁する高道徳の唐門解散エンディング。
+郁竹と結縁する高道徳の唐門解散(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)エンディング。
 </td>
 </tr>
 <tr>
@@ -458,7 +458,7 @@ tags:
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #00BFFF;">【夏侯蘭】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
-夏侯蘭と結縁する高道徳の唐門解散エンディング。
+夏侯蘭と結縁する高道徳の唐門解散(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)エンディング。
 </td>
 </tr>
 <tr>

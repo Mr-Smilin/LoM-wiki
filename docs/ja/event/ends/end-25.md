@@ -25,7 +25,7 @@ tags:
 
 <strong>条件：</strong>[李富貴](/ja/people/characters/special809)の好感度＜20、スキル：戦術＜5またはスキル戦術＜8、学問＜60<br>
 **フロー：**<br>
-1. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20、[金烏上人](/ja/people/characters/special207)が存命またはスキル：戦術＜5またはスキル戦術＜8、学問＜60の場合、[西武林盟を成立できない決断](/ja/event/detailed_description/3-12-1-眾人的決策)に進む。
+1. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20、[金烏上人](/ja/people/characters/special207)が存命またはスキル：戦術＜5またはスキル戦術＜8、学問＜60の場合、[武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)イベントに進む。
 2. 敵と隠居について投票を実施：[唐惟元](/ja/people/characters/brother4)が帰還した場合、[唐惟元](/ja/people/characters/brother4)の投票が追加される。唐默鈴と婚約した場合、<Girl0Icon>唐默鈴</Girl0Icon>の投票が追加される。
    + 主人公の決断：
      + **📜議題「決定：敵と戦う」**：敵と戦う＋１票。
@@ -44,7 +44,7 @@ tags:
    + 江湖から隠居の票が多い。
    + 票が同数で主人公が江湖から隠居を選択し、🗡️[唐陞](/ja/people/characters/brother3)との決闘に勝利。
    + 票が同数で[唐陞](/ja/people/characters/brother3)が江湖から隠居を選択し、🗡️[唐陞](/ja/people/characters/brother3)との決闘に敗戦。
-5. 大門へ向かい、他の門人解散エンディング(汗青書24～31)の条件を満たさない場合、エンディングに進む。
+5. [唐門との別れ](/ja/event/simple/3-12-1-告別唐門)の際に大門へ向かい、他の門人解散エンディング(汗青書24～31)の条件を満たさない場合、エンディングに進む。
 
 ### ※金烏上人の死亡(成就未達成で存命)
 ::: details

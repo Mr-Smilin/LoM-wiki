@@ -160,8 +160,9 @@ tags:
 <td>2</td>
 <td>3年目8月中旬</td>
 <td><MarkdownWrapper>[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper></td>
-<td>• 大門に行くと葉雲舟を武林大会に同行するよう誘える。
-    <br>• <Girl2Icon>葉雲裳</Girl2Icon>を同行させたい場合は、📖「彼女のために口添えする」を選ぶ必要がある。
+<td>
+    • 大門に行くと葉雲舟を武林大会に同行するよう誘える。<br>
+    • <Girl2Icon>葉雲裳</Girl2Icon>を同行させたい場合は、📖「彼女のために口添えする」を選ぶ必要がある。
 </td>
 <td>同行させることを推奨するが、📖「彼女自身に聞いてみて」を選んだ場合は別の展開も見られる。</td>
 </tr>
@@ -171,7 +172,10 @@ tags:
 <td>3年目9月上旬
     <br>から3年目10月上旬まで
 </td>
-<td>錦香宮への道中及び滞在</td>
+<td>
+    <MarkdownWrapper>[武林大会へ向かう](/ja/event/simple/3-09-1-前往武林大會)</MarkdownWrapper><br>
+    <MarkdownWrapper>[錦香宮イベント集](/ja/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper>
+</td>
 <td>• 葉雲舟が同行する場合:
     <br>1. 道中イベント: 展開が変化し、葉雲舟が戦役に参加できる。
     <br>2. 錦香宮: 展開が変化する。
@@ -186,10 +190,10 @@ tags:
 <tr>
 <td>4</td>
 <td>3年目10月中旬</td>
-<td>武林大会</td>
+<td><MarkdownWrapper>[武林大会](/ja/event/simple/3-10-2-武林大會)</MarkdownWrapper></td>
 <td>• 葉雲舟が同行する場合:
     <br>1. 展開が変化する。
-    <br>2. 唐門代表として比武に参加させられる。
+    <br>2. 唐門代表として比武に参加させられる(<MarkdownWrapper>[点蒼の逆徒](/ja/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>参照)。ただし趙活が上官隼に挑戦していないことが条件。
     <br>• <Girl2Icon>葉雲裳</Girl2Icon>が同行する場合:
     <br>1. 展開が変化する。
     <br>2. 投票の結果、唐門が武林の公敵になり、かつ📖「葉雲裳に付き添ってもらう」を選ぶと、<MarkdownWrapper>[風雲史《悪人は悪人が制す (惡人自有惡人磨)》](/ja/event/achievements/#風雲史-No.19)</MarkdownWrapper>を解除できる。
@@ -200,38 +204,60 @@ tags:
 
 <tr>
 <td>5</td>
-<td>3年目12月中旬残り2回の行動</td>
-<td><MarkdownWrapper>[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)</MarkdownWrapper></td>
-<td>• 📜「葉雲舟に尋ねる」が追加され、武林大会で彼が代表として出場していた場合、<MarkdownWrapper>[同舟剣譜](/ja/system/books/book_2301)</MarkdownWrapper>を入手できる(ただし修練を終えると、以降剣聖の極招を習得できなくなる)。
-    <br>• 唐門解散を決断した場合、女弟子房・男弟子房・煉丹房の展開が変化する。
-    <br>• 唐門解散を決断した場合、<MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が<Girl2Icon>葉雲裳</Girl2Icon>バージョンになる。
-    <br>• 西武林盟成立を決断した場合、大戦準備期間に多くの展開変化があるが、以下では重要なもののみ記載する。
+<td>3年目12月上旬残り1回の行動</td>
+<td><MarkdownWrapper>[皆の知恵を集める](/ja/event/simple/3-12-1-集思廣益)</MarkdownWrapper></td>
+<td>
+    • 📜「葉雲舟を訪ねる」が追加され、🚩「武林大会で葉雲舟が唐門代表として出場」(<MarkdownWrapper>[点蒼の逆徒](/ja/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>参照)の場合、<MarkdownWrapper>[同舟剣譜](/ja/system/books/book_2301)</MarkdownWrapper>を入手できる。
 </td>
-<td></td>
+<td>同舟剣譜を修練し終えると、以降剣聖の極招を習得できなくなる(ただし一般には同舟剣譜のほうが強い)。</td>
 </tr>
 
 <tr>
 <td>6</td>
-<td>• 4年目1月上旬(西武林盟を成立せず徹底抗戦)
-    <br>• または4年目2月上旬(西武林盟成立)
+<td>3年目12月上旬残り1回の行動</td>
+<td><MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>(退隠ルート)</td>
+<td>
+    • 女弟子房・男弟子房・煉丹房の展開が変化する。<br>
+    • <MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が<Girl2Icon>葉雲裳</Girl2Icon>バージョンになる。
 </td>
-<td>小師妹の訪問</td>
-<td><Girl2Icon>葉雲裳</Girl2Icon>がイベントに参加し、展開が変化する。</td>
 <td></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td>• 4年目1月中旬(西武林盟を成立せず徹底抗戦)
-    <br>• または4年目2月中旬(西武林盟成立)
+<td>3年目12月中旬以降</td>
+<td>
+    🚩「西武林盟の成立を決議」(<MarkdownWrapper>[武林盟への対策](/ja/event/simple/3-12-1-武林盟對策#成立西武林盟)</MarkdownWrapper>参照)後<br>
 </td>
-<td>伴侶の約束</td>
-<td>女弟子房に行くと<Girl2Icon>葉雲裳</Girl2Icon>と自作の紙札遊戯で遊ぶイベントが発生する。</td>
-<td>このイベントを発生させない場合、残り行動回数2の時点で<Girl2Icon>葉雲裳</Girl2Icon>が待ちぼうけを食らうイベントが自動発生する。</td>
+<td>• 大戦準備期間に多くの展開変化がある。</td>
+<td></td>
 </tr>
 
 <tr>
 <td>8</td>
+<td>• 4年目1月上旬(西武林盟を成立せず徹底抗戦)
+    <br>• または4年目2月上旬(西武林盟成立)
+</td>
+<td><MarkdownWrapper>[小師妹の再訪](/ja/event/simple/4-01-1-小師妹回訪)</MarkdownWrapper></td>
+<td><Girl2Icon>葉雲裳</Girl2Icon>がイベントに参加し、展開が変化する。</td>
+<td></td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>• 4年目1月中旬(西武林盟を成立せず徹底抗戦)
+    <br>• または4年目2月中旬(西武林盟成立)
+</td>
+<td><MarkdownWrapper>[伴侶との約束](/ja/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
+<td>
+    • 女弟子房に行くと<Girl2Icon>葉雲裳</Girl2Icon>と自作の紙札遊戯で遊ぶイベントが発生する。<br>
+    • 他に結縁している相手がいる場合は<MarkdownWrapper>[修羅場](/ja/event/simple/4-01-2-修羅場)</MarkdownWrapper>イベントに置き換わり、任意の場所を選ぶと発生する。
+</td>
+<td>このイベントを発生させない場合、残り行動回数2の時点で<MarkdownWrapper>[約束を破る](/ja/event/simple/4-01-2-伴侶之約#失約)</MarkdownWrapper>イベントが自動発生する。</td>
+</tr>
+
+<tr>
+<td>10</td>
 <td>• 4年目1月中旬残り2回の行動(西武林盟を成立せず徹底抗戦)
     <br>• または4年目2月中旬残り2回の行動(西武林盟成立失敗により徹底抗戦)
 </td>
@@ -246,7 +272,7 @@ tags:
 </tr>
 
 <tr>
-<td>9</td>
+<td>11</td>
 <td>4年目2月中旬残り2回の行動</td>
 <td><MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
 <td>• 葉雲裳が参加し、展開が変化する。
@@ -258,7 +284,7 @@ tags:
 </tr>
 
 <tr>
-<td>10</td>
+<td>12</td>
 <td>4年目2月下旬</td>
 <td><MarkdownWrapper>[剣聖の伝承](/ja/event/simple/4-02-3-劍聖傳承)</MarkdownWrapper></td>
 <td>• このイベントを解除していれば、大門から下山すると発生する。
@@ -269,7 +295,7 @@ tags:
 </tr>
 
 <tr>
-<td>11</td>
+<td>13</td>
 <td>4年目3月上旬</td>
 <td>眉山決戦</td>
 <td>• <Girl2Icon>葉雲裳</Girl2Icon>が同行する展開になる。

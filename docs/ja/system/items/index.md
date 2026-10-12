@@ -290,4 +290,17 @@ tags:
             <MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「谷底での生活」](/ja/event/simple/3-05-1-谷底生活)</MarkdownWrapper>にて、5日目に道具【🎲≥50 某人の黒歴史】を拾得する。<br>
         </td>
     </tr>
+    <tr>
+        <td>焼き魚</td>
+        <td>-</td>
+        <td></td>
+        <td>
+            <MarkdownWrapper>[小師妹の再訪](/ja/event/simple/4-01-1-小師妹回訪)</MarkdownWrapper>イベントで小師妹に渡せる
+        </td>
+        <td>イベント道具</td>
+        <td>
+            <MarkdownWrapper>[小師妹の再訪](/ja/event/simple/4-01-1-小師妹回訪)</MarkdownWrapper>イベントで「焼き魚」を選ぶ
+        </td>
+        <td></td>
+    </tr>
 </table>

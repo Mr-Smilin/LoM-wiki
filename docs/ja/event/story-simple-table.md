@@ -10,6 +10,27 @@ tags:
 
 # {{ $frontmatter.title }}
 
+## 任意時間
+<div class="table-container">
+<table>
+<tbody>
+
+<tr>
+  <td style="text-align: center">
+      心変わりの夢
+  </td>
+  <td style="text-align: center">
+      三師兄との雑談
+  </td>
+  <td style="text-align: center">
+      <MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>
+  </td>
+</tr>
+
+</tbody>
+</table>
+</div>
+
 ## 第一年
 省スペースのため、本表は月/旬形式で表示する。
 
@@ -31,7 +52,6 @@ tags:
 				[後山で突き落とされる](/ja/event/simple/1-04-1-後山推人)<br>
 				[怠け者](/ja/event/simple/1-04-1-偷懶怪)<br>
 				[龍湘の食い逃げ](/ja/event/simple/1-04-1-龍湘霸王餐)<br>
-				[四師兄との切磋](/ja/event/simple/1-04-1-切磋四師兄)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -773,15 +793,15 @@ tags:
 <tr>
   <th rowspan = 2 style="text-align: center">月</th>
   <th rowspan = 2 style="text-align: center">旬</th>
-  <th rowspan = 2 style="text-align: center">無可救薬<br>(Demo)</th>
+  <th rowspan = 2 style="text-align: center">救いようのない物語<br>(Demoルート)</th>
   <th colspan = 2 style="text-align: center">西武林盟不成立</th>
   <th colspan = 2 style="text-align: center">西武林盟成立</th>
 </tr>
 <tr>
-  <th style="text-align: center">唐門解散</th>
-  <th style="text-align: center">徹底抗戦</th>
-  <th style="text-align: center">徹底抗戦</th>
-  <th style="text-align: center">西武林盟</th>
+  <th style="text-align: center">唐門解散<br>(退隠ルート)</th>
+  <th style="text-align: center">徹底抗戦<br>(滅門ルート)</th>
+  <th style="text-align: center">徹底抗戦<br>(滅門ルート)</th>
+  <th style="text-align: center">西武林盟<br>(西武林ルート)</th>
 </tr>
 </thead>
 
@@ -790,10 +810,12 @@ tags:
   <td rowspan = 3 style="text-align: center">十一</td>
   <td style="text-align: center">上</td>
   <td style="text-align: center">
-      Demo目覚めと記憶喪失<br>
-      Demo四師兄との雑談<br>
-      Demo雑用の禁止<br>
-      Demo師妹を懐かしむ<br>
+      <MarkdownWrapper>
+          Demo目覚めと記憶喪失<br>
+          [四師兄との雑談・Demo版](/ja/event/simple/3-11-1-Demo四師兄閒聊)<br>
+          Demo雑用の禁止<br>
+          Demo師妹を懐かしむ<br>
+      </MarkdownWrapper>
   </td>
   <td colspan = 4 style="text-align: center">
       <MarkdownWrapper>
@@ -820,9 +842,9 @@ tags:
 </tr>
 
 <tr>
-  <td rowspan = 3 style="text-align: center">十二</td>
-  <td style="text-align: center">上</td>
-  <td style="text-align: center">
+  <td rowspan = 4 style="text-align: center">十二</td>
+  <td rowspan = 2 style="text-align: center">上</td>
+  <td rowspan = 2 style="text-align: center">
     Demo唐門会議<br>
     Demo市場での決戦<br>
     Demo飛石幇への反攻<br>
@@ -836,23 +858,32 @@ tags:
     [武林からの檄文](/ja/event/simple/3-12-1-武林檄文)<br>
     [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
     [特訓の段階試験](/ja/event/simple/3-12-1-特訓段考)<br>
-    衆知を集める<br>
-    [衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)<br>
+    [皆の知恵を集める](/ja/event/simple/3-12-1-集思廣益)<br>
+    [武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)<br>
     </MarkdownWrapper>
   </td>
 </tr>
 <tr>
-  <td style="text-align: center">中</td>
-  <td style="text-align: center">-</td>
   <td style="text-align: center">
-    唐門に別れを告げる<br>
+    <MarkdownWrapper>
+    [唐門との別れ](/ja/event/simple/3-12-1-告別唐門)
+    </MarkdownWrapper>
   </td>
   <td style="text-align: center">-</td>
+  <td colspan = 2 style="text-align: center">-</td>
+</tr>
+<tr>
+  <td style="text-align: center">中</td>
+  <td style="text-align: center">-</td>
+  <td style="text-align: center">-</td>
+  <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
-    西武林盟の成立<br>
-    四師兄の使者行<br>
-    李富貴、陣を張る<br>
-    崆峒への使者選び<br>
+    <MarkdownWrapper>
+    [西武林盟の成立](/ja/event/simple/3-12-2-西武林成立)<br>
+    [四師兄が使者に立つ](/ja/event/simple/3-12-2-四師兄出使)<br>
+    [李富貴の野営](/ja/event/simple/3-12-2-李富貴紮營)<br>
+    [崆峒への使者選び](/ja/event/simple/3-12-2-出使崆峒人選)<br>
+    </MarkdownWrapper>
   </td>
 </tr>
 <tr>
@@ -862,12 +893,15 @@ tags:
   </td>
   <td style="text-align: center">-</td>
   <td style="text-align: center">
-    龍湘との結縁<br>
-    飛石幇の来訪<br>
+    <MarkdownWrapper>
+    [龍湘との結縁](/ja/event/simple/3-12-3-龍湘結緣)<br>
+    [飛石幇の来訪](/ja/event/simple/3-12-3-飛石來訪)<br>
+    </MarkdownWrapper>
   </td>
   <td colspan = 2 style="text-align: center">
     福韞、峨嵋への使者に<br>
     青城への使者選び<br>
+    🚧滄幇の買収<br>
   </td>
 </tr>
 
@@ -881,9 +915,9 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     <MarkdownWrapper>
+    [小師妹の再訪](/ja/event/simple/4-01-1-小師妹回訪)<br>
     🚧未実装 [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)【滅門ルート】<br>
     </MarkdownWrapper>
-    小師妹の再訪<br>
   </td>
   <td colspan = 2 style="text-align: center">
     峨嵋への使者選び<br>
@@ -898,8 +932,9 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">
     <MarkdownWrapper>
-      大戦前夜<br>
-      伴侶との約束<br>
+      [大戦前夜](/ja/event/simple/4-01-2-大戰前夕)<br>
+      [修羅場](/ja/event/simple/4-01-2-修羅場)<br>
+      [伴侶との約束](/ja/event/simple/4-01-2-伴侶之約)<br>
       [唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)<br>
       [飛俠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)<br>
     </MarkdownWrapper>
@@ -915,11 +950,13 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
+    <MarkdownWrapper>
     青城からの返答<br>
     中小門派からの返答<br>
     崆峒からの返答<br>
-    龍湘との結縁<br>
-    飛石幇の来訪<br>
+    [龍湘との結縁](/ja/event/simple/3-12-3-龍湘結緣)<br>
+    [飛石幇の来訪](/ja/event/simple/3-12-3-飛石來訪)<br>
+    </MarkdownWrapper>
   </td>
 </tr>
 
@@ -931,9 +968,9 @@ tags:
   <td style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
     <MarkdownWrapper>
+    [小師妹の再訪](/ja/event/simple/4-01-1-小師妹回訪)<br>
     🚧未実装 [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)<br>
     </MarkdownWrapper>
-    小師妹の再訪<br>
   </td>
 </tr>
 <tr>
@@ -942,8 +979,11 @@ tags:
   <td rowspan = 2 style="text-align: center">-</td>
   <td rowspan = 2 style="text-align: center">-</td>
   <td colspan = 2 style="text-align: center">
-    大戦前夜<br>
-    伴侶との約束<br>
+    <MarkdownWrapper>
+    [大戦前夜](/ja/event/simple/4-01-2-大戰前夕)<br>
+    [修羅場](/ja/event/simple/4-01-2-修羅場)<br>
+    [伴侶との約束](/ja/event/simple/4-01-2-伴侶之約)<br>
+    </MarkdownWrapper>
   </td>
 </tr>
 <tr>
@@ -1012,5 +1052,5 @@ tags:
 
 ## 備考
 
-- 無可救薬ルート(Demo)には本編と似たイベントが多いため、イベント名に「Demo」を付けて区別している。
+- 救いようのないルート(Demo)には本編と似たイベントが多いため、イベント名に「Demo」を付けて区別している。
 - 🚧未実装 を付したイベントは、ゲームデータ上は存在するが現行版では発生しない。

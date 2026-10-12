@@ -29,7 +29,7 @@ tags:
 **フロー：**<br>
 
 1. 第三年十月中旬の武林大会で、<Girl8Icon>龍湘</Girl8Icon>好感≧30。[錦香宮の真相](/ja/event/simple/3-10-2-錦香真相#龍湘求助)で錦香宮が暴露された後、龍湘が助けを求めてきた時に**📖「周囲の冷眼に構わず龍湘を受け入れる」**を選択すると、<Girl8Icon>龍湘</Girl8Icon>が唐門に加入。
-2. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20、[金烏上人](/ja/people/characters/special207)が存命またはスキル：戦術＜5またはスキル戦術＜8、学問＜60の場合、[西武林盟を成立できない決断](/ja/event/detailed_description/3-12-1-眾人的決策)に進む。
+2. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20、[金烏上人](/ja/people/characters/special207)が存命またはスキル：戦術＜5またはスキル戦術＜8、学問＜60の場合、[武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)イベントに進む。
 3. 敵と隠居について投票を実施：[唐惟元](/ja/people/characters/brother4)が帰還した場合、[唐惟元](/ja/people/characters/brother4)の投票が追加される。唐默鈴と婚約した場合、<Girl0Icon>唐默鈴</Girl0Icon>の投票が追加される。
    + 主人公の決断：
      + **📜議題「決定：敵と戦う」**：敵と戦う＋１票。
@@ -48,7 +48,7 @@ tags:
    + 江湖から隠居の票が多い。
    + 票が同数で主人公が江湖から隠居を選択し、🗡️[唐陞](/ja/people/characters/brother3)との決闘に勝利。
    + 票が同数で[唐陞](/ja/people/characters/brother3)が江湖から隠居を選択し、🗡️[唐陞](/ja/people/characters/brother3)との決闘に敗戦。
-5. 後山へ向かい、**📖選択肢「湘姉、一緒に来ませんか？（心を明かす）」**(選択肢を開くには想い人が<Girl8Icon>龍湘</Girl8Icon>である必要があります)。
+5. [唐門との別れ](/ja/event/simple/3-12-1-告別唐門)の際に後山へ向かい、**📖選択肢「湘姉、一緒に来ませんか？（心を明かす）」**(選択肢を開くには想い人が<Girl8Icon>龍湘</Girl8Icon>である必要があります)。
 6. 既に他のキャラと婚約している場合、🗡️<Girl8Icon>龍湘</Girl8Icon>が決闘を仕掛け、勝利後に**📖選択肢「君を手放すことはない」**を選択、エンディングに進む。
 
 ### 他の女性キャラとの結縁
