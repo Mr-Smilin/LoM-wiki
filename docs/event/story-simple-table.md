@@ -909,7 +909,7 @@ tags:
   <td colspan = 2 style="text-align: center">
       <MarkdownWrapper>
           [出使峨嵋人選](/event/simple/4-01-1-出使峨嵋人選)<br>
-          自己該做的事<br>
+          [迎戰準備](/event/simple/4-01-1-迎戰準備)<br>
       </MarkdownWrapper>
   </td>
 </tr>
