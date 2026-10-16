@@ -31,7 +31,7 @@ tags:
     { text: '丐幇'},
     { text: '滄幇'},
     { text: '飛石幇' },
-	{ text: '白鯊幇'},
+	{ text: '白鮫幇'},
 	{ text: '極楽教' },
 	{ text: '泥教' },
 	{ text: '千灯楼' },
@@ -371,7 +371,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[劉顎](/ja/people/characters/special1)</MarkdownWrapper></td>
-	<td>白鯊幇<br>泥教 - 餓鬼道</td>
+	<td>白鮫幇<br>泥教 - 餓鬼道</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[趙逵](/ja/people/characters/special403)</MarkdownWrapper></td>

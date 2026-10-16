@@ -180,7 +180,7 @@ tags:
             <BadendIcon :no="7">生死簿 No.7</BadendIcon>
         </td>
         <td>
-            <ruby>屁力焦蛙<rt>ぷりきゅあ</rt></ruby>
+            <ruby>屁力焦蛙<rt>プリキュア</rt></ruby>
         </td>
         <td>
             これほど悪辣な武功は見たことがない。恐れ入った、お見それした。
@@ -822,7 +822,7 @@ tags:
             <BadendIcon :no="33">生死簿 No.33</BadendIcon>
         </td>
         <td>
-            <ruby>龍湘<rt>りゅうしゃん</rt></ruby>の誤殺 (被<Girl8Icon>龍湘</Girl8Icon>誤殺)
+            <ruby>龍湘<rt>りゅうしょう</rt></ruby>の誤殺 (被<Girl8Icon>龍湘</Girl8Icon>誤殺)
         </td>
         <td>
             まさかあの剣を受け止められないとは、<Girl8Icon>龍湘</Girl8Icon>は夢にも思わなかった。

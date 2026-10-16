@@ -1,5 +1,5 @@
 ---
-title: 大宋 (ダイソウ)
+title: 大宋 (タイソウ)
 aside: true
 sidebar: false
 borderless: false

@@ -1,5 +1,5 @@
 ---
-title: 晁和 (チョウワ)
+title: 晁和 (チョウカ)
 aside: false
 outline: [2, 3]
 sidebar: false

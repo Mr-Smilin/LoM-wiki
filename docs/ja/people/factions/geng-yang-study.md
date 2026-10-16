@@ -1,5 +1,5 @@
 ---
-title: 耕陽読書齋 (コウヨウトクショサイ)
+title: 耕陽読書齋 (コウヨウドクショサイ)
 aside: true
 sidebar: false
 borderless: false

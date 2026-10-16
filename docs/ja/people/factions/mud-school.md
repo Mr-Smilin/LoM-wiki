@@ -98,7 +98,7 @@ tags:
 
 <br>
 
-餓鬼道の[白鯊幇](/ja/people/factions/white-shark-gang)は東海を荒らし回り、もっぱら[上官家](/ja/people/factions/shang-guan-family)と朝廷に楯突いている。法王[劉顎](/ja/people/characters/special1)は当今の海捕文書 (指名手配書) で懸賞首の第一位、賞金は[天王座](/ja/people/characters/special409)よりも高い。朝廷は幾度も海賊討伐の兵を海に出したが、ことごとく徒労に終わり、今なおこの海賊たちの根拠地は分かっていない。
+餓鬼道の[白鮫幇](/ja/people/factions/white-shark-gang)は東海を荒らし回り、もっぱら[上官家](/ja/people/factions/shang-guan-family)と朝廷に楯突いている。法王[劉顎](/ja/people/characters/special1)は当今の海捕文書 (指名手配書) で懸賞首の第一位、賞金は[天王座](/ja/people/characters/special409)よりも高い。朝廷は幾度も海賊討伐の兵を海に出したが、ことごとく徒労に終わり、今なおこの海賊たちの根拠地は分かっていない。
 
 ## 五色泥
 

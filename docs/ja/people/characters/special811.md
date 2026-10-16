@@ -1,5 +1,5 @@
 ---
-title: 唐衫 (トウサン)
+title: 唐衫 (トウザン)
 aside: false
 outline: [2, 3]
 sidebar: false

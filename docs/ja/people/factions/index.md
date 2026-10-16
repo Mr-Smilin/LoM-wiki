@@ -47,7 +47,7 @@ tags:
 -   [丐幇](/ja/people/factions/beggar-gang)
 -   [滄幇](/ja/people/factions/cang-gang)
 -   [飛石幇](/ja/people/factions/flying-stone-gang)
--   [白鯊幇](/ja/people/factions/white-shark-gang)
+-   [白鮫幇](/ja/people/factions/white-shark-gang)
 
 ## 邪派組織
 
