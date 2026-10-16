@@ -899,9 +899,11 @@ tags:
     </MarkdownWrapper>
   </td>
   <td colspan = 2 style="text-align: center">
-    福韞、峨嵋への使者に<br>
-    青城への使者選び<br>
+    <MarkdownWrapper>
+    [福韞が峨嵋への使者に立つ](/ja/event/simple/3-12-3-福韞出使峨嵋)<br>
+    [青城への使者選び](/ja/event/simple/3-12-3-出使青城人選)<br>
     🚧滄幇の買収<br>
+    </MarkdownWrapper>
   </td>
 </tr>
 
@@ -920,8 +922,10 @@ tags:
     </MarkdownWrapper>
   </td>
   <td colspan = 2 style="text-align: center">
-    峨嵋への使者選び<br>
-    自分がすべきこと<br>
+    <MarkdownWrapper>
+    [峨嵋への使者選び](/ja/event/simple/4-01-1-出使峨嵋人選)<br>
+    [迎撃の準備](/ja/event/simple/4-01-1-迎戰準備)<br>
+    </MarkdownWrapper>
   </td>
 </tr>
 <tr>
