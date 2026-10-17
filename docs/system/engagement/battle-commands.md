@@ -52,7 +52,8 @@ tags:
 ---
 ### 嘴攻
 <div style="margin-top: 5px;"></div>
-成功可吸取對方氣（吸取範圍待確認），且會令對手依「修養」判定是否憤怒。<br>
+成功可吸取對方氣（嘴力影響吸取範圍：4-13，對方氣量為0亦可吸取）<br>
+且會令對手依「修養」判定是否憤怒。<br>
 憤怒情況下只可捅人，如氣不夠捅人當回合閒置，恢復15氣並造成虛脫。<br>
 <img class='guide-img' src='/images/engagement/mad.webp' alt='憤怒'>
 <img class='guide-img' src='/images/engagement/exhaustion.webp' alt='虛脫'><div style="margin-top: 5px;"></div>
