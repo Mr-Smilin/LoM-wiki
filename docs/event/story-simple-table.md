@@ -730,8 +730,8 @@ tags:
                 <MarkdownWrapper>
                     [大會請帖](/event/simple/3-08-2-大會請帖)<br>
 				    [邀請葉雲舟](/event/simple/3-08-2-邀請葉雲舟)<br>
-                    🚧[邀請虞小梅](/event/simple/3-08-2-邀請虞小梅)<br>
-                    🚧[邀請郁竹](/event/simple/3-08-2-邀請郁竹)<br>
+                    [邀請虞小梅](/event/simple/3-08-2-邀請虞小梅)<br>
+                    [邀請郁竹](/event/simple/3-08-2-邀請郁竹)<br>
                 </MarkdownWrapper>
 			</td>
 			<td>
@@ -903,7 +903,7 @@ tags:
   <td style="text-align: center">
       <MarkdownWrapper>
           [小師妹回訪](/event/simple/4-01-1-小師妹回訪)<br>
-          🚧瑞笙來訪<br>
+          瑞笙來訪<br>
       </MarkdownWrapper>    
   </td>
   <td colspan = 2 style="text-align: center">
@@ -957,7 +957,7 @@ tags:
   <td colspan = 2 style="text-align: center">
       <MarkdownWrapper>
           [小師妹回訪](/event/simple/4-01-1-小師妹回訪)<br>
-          🚧瑞笙來訪<br>
+          瑞笙來訪<br>
       </MarkdownWrapper>
   </td>
 </tr>
