@@ -670,7 +670,7 @@ tags:
             <Girl3Icon>小梅</Girl3Icon>留在唐門</li>
         <li>
             第三年二月上旬行動次數≤2<br>
-            ，自動觸發小梅辭別事件，<br>
+            ，自動觸發梅竹辭別事件，<br>
             此時符合以下條件，則她將<br>
             此刀交給三師兄來日轉交:<br>
             1. 曾觸發小梅襄陽行<br>
@@ -1652,6 +1652,175 @@ tags:
     <td style="text-align: center">4</td>
     <td style="text-align: center">4</td>
     <td style="text-align: center">5</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">單級鍛造</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">6</td>
+    <td style="text-align: center">7</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">9</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">累積鍛造</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">11</td>
+    <td style="text-align: center">18</td>
+    <td style="text-align: center">26</td>
+    <td style="text-align: center">35</td>
+    <td style="text-align: center">45</td>
+    <td style="text-align: center">55</td>
+    <td style="text-align: center">65</td>
+    <td style="text-align: center">75</td>
+    <td style="text-align: center">85</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">單級銀兩</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">350</td>
+    <td style="text-align: center">400</td>
+    <td style="text-align: center">450</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">累積銀兩</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">550</td>
+    <td style="text-align: center">900</td>
+    <td style="text-align: center">1300</td>
+    <td style="text-align: center">1750</td>
+    <td style="text-align: center">2250</td>
+    <td style="text-align: center">2750</td>
+    <td style="text-align: center">3250</td>
+    <td style="text-align: center">3750</td>
+    <td style="text-align: center">4250</td>
+  </tr>
+
+  <tr>
+    <td rowspan=10 style="text-align: center" id = "烏蠶寶衣">烏蠶寶衣<br></td>
+    <td rowspan=10 style="text-align: center">
+        <li>護心鏡<br>等級10<br></li>
+    </td>
+    <td style="text-align: center">決鬥-血量</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">50</td>
+    <td style="text-align: center">100</td>
+    <td style="text-align: center">150</td>
+    <td style="text-align: center">200</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">350</td>
+    <td style="text-align: center">400</td>
+    <td style="text-align: center">450</td>
+    <td style="text-align: center">500</td>
+    <td rowspan=10>
+        <li>
+            符合以下以觸發竹之心事件<br>
+            1. 🚩<Girl3Icon>虞小梅</Girl3Icon>在唐門<br>
+            2. 🚩<Girl6Icon>郁竹</Girl6Icon>在唐門<br>
+            3. 郁竹好感≥50<br>
+            4. 最早第二年十一月上旬<br>
+            5. 最晚第二年十二月上旬<br>
+            6. 點選大門觸發事件<br>
+            且在此事件時，心上人為郁竹
+        </li>
+        <li>
+            臥雲崗事件時，未觸發<br>
+            🚩煉丹房小梅退敵
+        </li>
+        <li>
+            第三年二月上旬行動次數≤2<br>
+            自動觸發梅竹辭別事件時，<br>
+            心上人為<Girl6Icon>郁竹</Girl6Icon>，<br>
+            於事件結束時獲得
+        </li>
+        <li></li>
+    </td>
+    <td rowspan=10></td>
+  </tr>
+  <tr>
+    <td style="text-align: center">決鬥-抗毒</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">3</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">6</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">9</td>
+    <td style="text-align: center">11</td>
+    <td style="text-align: center">12</td>
+    <td style="text-align: center">14</td>
+    <td style="text-align: center">15</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">決鬥-抗麻</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">3</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">6</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">9</td>
+    <td style="text-align: center">11</td>
+    <td style="text-align: center">12</td>
+    <td style="text-align: center">14</td>
+    <td style="text-align: center">15</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">戰役-全部生命</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">20</td>
+    <td style="text-align: center">40</td>
+    <td style="text-align: center">60</td>
+    <td style="text-align: center">80</td>
+    <td style="text-align: center">100</td>
+    <td style="text-align: center">120</td>
+    <td style="text-align: center">140</td>
+    <td style="text-align: center">160</td>
+    <td style="text-align: center">180</td>
+    <td style="text-align: center">200</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">戰役-防禦等級</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">5</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">戰役-閃避等級</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">1</td>
+    <td style="text-align: center">1</td>
+    <td style="text-align: center">1</td>
+    <td style="text-align: center">1</td>
+    <td style="text-align: center">1</td>
+    <td style="text-align: center">2</td>
   </tr>
   <tr>
     <td style="text-align: center">單級鍛造</td>
