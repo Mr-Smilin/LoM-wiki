@@ -767,8 +767,8 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <EndIcon no="55">活著</EndIcon>
 </td>
 <td>
-<span style="color: #70AA39;">【郁竹】</span>
-跟隨<MarkdownWrapper>[四師兄離去](/event/simple/3-03-2-四師兄離去)</MarkdownWrapper>，且曾🚩收留郁竹，且心上人為郁竹
+<span style="color: #70AA39;">【郁竹】</span><br>
+曾🚩收留郁竹，且心上人為郁竹，選擇跟隨<MarkdownWrapper>[四師兄離去](/event/simple/3-03-2-四師兄離去)</MarkdownWrapper>
 </td>
 </tr>
 </BTable>
