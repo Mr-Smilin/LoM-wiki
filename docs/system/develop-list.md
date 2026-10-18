@@ -1730,15 +1730,15 @@ tags:
     <td style="text-align: center">500</td>
     <td rowspan=10>
         <li>
-            符合以下以觸發竹之心事件<br>
+            符合以下以觸發竹之心事件:<br>
             1. 🚩<Girl3Icon>虞小梅</Girl3Icon>在唐門<br>
             2. 🚩<Girl6Icon>郁竹</Girl6Icon>在唐門<br>
             3. 郁竹好感≥50<br>
             4. 最早第二年十一月上旬<br>
             5. 最晚第二年十二月上旬<br>
             6. 點選大門觸發事件<br>
+            7. 並確保此時心上人為郁竹
         </li>
-        <li>竹之心事件時，心上人為郁竹</li>
         <li>
             臥雲崗事件時，未觸發<br>
             🚩煉丹房小梅退敵
@@ -1749,7 +1749,6 @@ tags:
             心上人為<Girl6Icon>郁竹</Girl6Icon>，<br>
             於事件結束時獲得
         </li>
-        <li></li>
     </td>
     <td rowspan=10></td>
   </tr>
