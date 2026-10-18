@@ -1731,7 +1731,7 @@ tags:
     <td rowspan=10>
         <li>
             符合以下以觸發竹之心事件，<br>
-            並確保此時心上人為郁竹:
+            並確保此時心上人為郁竹:<br>
             1. 🚩<Girl3Icon>虞小梅</Girl3Icon>在唐門<br>
             2. 🚩<Girl6Icon>郁竹</Girl6Icon>在唐門<br>
             3. 郁竹好感≥50<br>
