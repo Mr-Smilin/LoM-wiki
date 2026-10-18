@@ -654,6 +654,7 @@ tags:
     <td style="text-align: center">59</td>
     <td style="text-align: center">65</td>
     <td rowspan=8>
+        (以下內容暫定，未仔細驗證)
         <li>
             曾觸發小梅襄陽行
         </li>
@@ -666,10 +667,10 @@ tags:
         <li>
             <MarkdownWrapper>[大師兄重傷](/event/simple/3-01-3-大師兄重傷)</MarkdownWrapper>時觸發治療大師兄<br>
             ，並選擇「不收功」，以讓<br>
-            小梅留在唐門</li>
+            <Girl3Icon>小梅</Girl3Icon>留在唐門</li>
         <li>
             第三年二月上旬行動次數≤2<br>
-            ，自動觸發<Girl3Icon>虞小梅</Girl3Icon>告別事件，<br>
+            ，自動觸發小梅告別，<br>
             此時符合以下條件，則她將<br>
             此刀交給三師兄來日轉交:<br>
             1. 曾觸發小梅襄陽行<br>
@@ -679,9 +680,6 @@ tags:
         <li>
             滿足以上，於<MarkdownWrapper>[飛石幫解戰](/event/simple/3-03-1-飛石幫解戰)</MarkdownWrapper>時<br>
             ，自動觸發由三師兄給予此刀
-        </li>
-        <li>
-            (以上內容暫定，尚未仔細驗證)
         </li>
     </td>
     <td rowspan=8>
