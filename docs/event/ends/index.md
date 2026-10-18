@@ -759,6 +759,18 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「九轉療傷」](/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>中，幻境連戰輸掉任何一場。
 </td>
 </tr>
+<tr>
+<td>
+結局 55
+</td>
+<td>
+<EndIcon no="55">活著</EndIcon>
+</td>
+<td>
+<span style="color: #70AA39;">【郁竹】</span>
+跟隨<MarkdownWrapper>[四師兄離去](/event/simple/3-03-2-四師兄離去)</MarkdownWrapper>，且曾🚩收留郁竹，且心上人為郁竹
+</td>
+</tr>
 </BTable>
 
 ## 備註
