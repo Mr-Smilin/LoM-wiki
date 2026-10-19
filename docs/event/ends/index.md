@@ -372,66 +372,51 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>，退隱江湖。
 </td>
 </tr>
+
 <tr>
-<td>
-結局 26
-</td>
-<td style="color: #a83232;">
-山中老人
-</td>
-<td>
-<span style="color: red;">【目前版本無法達成】</span><br>
-<span style="color: #006F86;">【遣散唐門】</span>
-<span style="color: #FF2D51;">【虞小梅】</span>
-<span style="color: #FF1493;">【結緣】</span><br>
-與虞小梅結緣的低道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
-</td>
+    <td>結局 26</td>
+    <td style="color: #a83232;">山中老人</td>
+    <td>
+        <span style="color: #006F86;">【遣散唐門】</span>
+        <span style="color: #FF2D51;">【虞小梅】</span>
+        <span style="color: #FF1493;">【結緣】</span><br>
+        與虞小梅結緣的低道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
+    </td>
 </tr>
+
 <tr>
-<td>
-結局 27
-</td>
-<td style="color: #a83232;">
-世外桃源
-</td>
-<td>
-<span style="color: red;">【目前版本無法達成】</span><br>
-<span style="color: #006F86;">【遣散唐門】</span>
-<span style="color: #FF2D51;">【虞小梅】</span>
-<span style="color: #FF1493;">【結緣】</span><br>
-與虞小梅結緣的高道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
-</td>
+    <td>結局 27</td>
+    <td style="color: #a83232;">世外桃源</td>
+    <td>
+        <span style="color: #006F86;">【遣散唐門】</span>
+        <span style="color: #FF2D51;">【虞小梅】</span>
+        <span style="color: #FF1493;">【結緣】</span><br>
+        與虞小梅結緣的高道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
+    </td>
 </tr>
+
 <tr>
-<td>
-結局 28
-</td>
-<td style="color: #a83232;">
-血河刀
-</td>
-<td>
-<span style="color: red;">【目前版本無法達成】</span><br>
-<span style="color: #006F86;">【遣散唐門】</span>
-<span style="color: #70AA39;">【郁竹】</span>
-<span style="color: #FF1493;">【結緣】</span><br>
-與郁竹結緣的低道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
-</td>
+    <td>結局 28</td>
+    <td style="color: #a83232;">血河刀</td>
+    <td>
+        <span style="color: #006F86;">【遣散唐門】</span>
+        <span style="color: #70AA39;">【郁竹】</span>
+        <span style="color: #FF1493;">【結緣】</span><br>
+        與郁竹結緣的低道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
+    </td>
 </tr>
+
 <tr>
-<td>
-結局 29
-</td>
-<td style="color: #a83232;">
-再世龐統
-</td>
-<td>
-<span style="color: red;">【目前版本無法達成】</span><br>
-<span style="color: #006F86;">【遣散唐門】</span>
-<span style="color: #70AA39;">【郁竹】</span>
-<span style="color: #FF1493;">【結緣】</span><br>
-與郁竹結緣的高道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
-</td>
+    <td>結局 29</td>
+    <td style="color: #a83232;">再世龐統</td>
+    <td>
+        <span style="color: #006F86;">【遣散唐門】</span>
+        <span style="color: #70AA39;">【郁竹】</span>
+        <span style="color: #FF1493;">【結緣】</span><br>
+        與郁竹結緣的高道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
+    </td>
 </tr>
+
 <tr>
 <td>
 結局 30
@@ -565,36 +550,29 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 與上官螢結緣，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
 </td>
 </tr>
+
 <tr>
-<td>
-結局 40
-</td>
-<td style="color: #a83232;">
-小梅私藏
-</td>
-<td>
-<span style="color: red;">【目前版本無法達成】</span><br>
-<span style="color: #DC0000;">【唐門覆滅】</span>
-<span style="color: #FF2D51;">【虞小梅】</span>
-<span style="color: #FF1493;">【結緣】</span><br>
-與虞小梅結緣，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
-</td>
+    <td>結局 40</td>
+    <td style="color: #a83232;">小梅私藏</td>
+    <td>
+        <span style="color: #DC0000;">【唐門覆滅】</span>
+        <span style="color: #FF2D51;">【虞小梅】</span>
+        <span style="color: #FF1493;">【結緣】</span><br>
+        與虞小梅結緣，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
+    </td>
 </tr>
+
 <tr>
-<td>
-結局 41
-</td>
-<td style="color: #a83232;">
-千古名匠
-</td>
-<td>
-<span style="color: red;">【目前版本無法達成】</span><br>
-<span style="color: #DC0000;">【唐門覆滅】</span>
-<span style="color: #70AA39;">【郁竹】</span>
-<span style="color: #FF1493;">【結緣】</span><br>
-與郁竹結緣，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
-</td>
+    <td>結局 41</td>
+    <td style="color: #a83232;">千古名匠</td>
+    <td>
+        <span style="color: #DC0000;">【唐門覆滅】</span>
+        <span style="color: #70AA39;">【郁竹】</span>
+        <span style="color: #FF1493;">【結緣】</span><br>
+        與郁竹結緣，在唐門滅門戰中，下山突圍到武林盟主前，戰勝武林盟主成為唐門倖存者。
+    </td>
 </tr>
+
 <tr>
 <td>
 結局 42
@@ -759,18 +737,105 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「九轉療傷」](/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>中，幻境連戰輸掉任何一場。
 </td>
 </tr>
+
 <tr>
-<td>
-結局 55
-</td>
-<td>
-<EndIcon no="55">活著</EndIcon>
-</td>
-<td>
-<span style="color: #70AA39;">【郁竹】</span><br>
-曾🚩收留郁竹，且心上人為郁竹，選擇跟隨<MarkdownWrapper>[四師兄離去](/event/simple/3-03-2-四師兄離去)</MarkdownWrapper>
-</td>
+    <td>結局 55</td>
+    <td><EndIcon no="55">活著</EndIcon></td>
+    <td>
+        <span style="color: #70AA39;">【郁竹】</span><br>
+        曾🚩收留郁竹，且心上人為郁竹，選擇跟隨<MarkdownWrapper>[四師兄離去](/event/simple/3-03-2-四師兄離去)</MarkdownWrapper>
+    </td>
 </tr>
+
+
+<tr>
+    <td>結局 56</td>
+    <td><EndIcon no="56">平凡的悲劇</EndIcon></td>
+    <td>
+        <span style="color: #70AA39;">【郁竹】</span><br>
+    </td>
+</tr>
+
+<tr>
+    <td>結局 57</td>
+    <td><EndIcon no="57">神不在的證明</EndIcon></td>
+    <td>
+        <span style="color: #FF2D51;">【虞小梅】</span>
+    </td>
+</tr>
+
+<tr>
+    <td>結局 58</td>
+    <td><EndIcon no="58">修仙</EndIcon></td>
+    <td>
+        <span style="color: #FF2D51;">【虞小梅】</span>
+    </td>
+</tr>
+
+<tr>
+    <td>結局 59</td>
+    <td><EndIcon no="59">自創武功</EndIcon></td>
+    <td>
+        <span style="color: #70AA39;">【郁竹】</span><br>
+    </td>
+</tr>
+
+<tr>
+    <td>結局 60</td>
+    <td><EndIcon no="60">崆峒掌派人</EndIcon></td>
+    <td>
+        <span style="color: #FF2D51;">【虞小梅】</span>、<span style="color: #70AA39;">【郁竹】</span><br>
+    </td>
+</tr>
+
+<tr>
+    <td>結局 61</td>
+    <td><EndIcon no="61">崆峒掌派人</EndIcon></td>
+    <td>
+        <span style="color: #FF2D51;">【虞小梅】</span>、<span style="color: #70AA39;">【郁竹】</span><br>
+    </td>
+</tr>
+
+<tr>
+    <td>結局 62</td>
+    <td><EndIcon no="62">新家</EndIcon></td>
+    <td>
+        <span style="color: #70AA39;">【郁竹】</span><br>
+    </td>
+</tr>
+
+<tr>
+    <td>結局 63</td>
+    <td><EndIcon no="63">醜神仙</EndIcon></td>
+    <td>
+        <span style="color: #70AA39;">【郁竹】</span><br>
+    </td>
+</tr>
+
+<tr>
+    <td>結局 64</td>
+    <td><EndIcon no="64">賣國賊</EndIcon></td>
+    <td>
+        <span style="color: #FF2D51;">【虞小梅】</span><br>
+    </td>
+</tr>
+
+<tr>
+    <td>結局 65</td>
+    <td><EndIcon no="65">崆峒掌派人</EndIcon></td>
+    <td>
+        <span style="color: #FF2D51;">【虞小梅】</span>、<span style="color: #70AA39;">【郁竹】</span><br>
+    </td>
+</tr>
+
+<tr>
+    <td>結局 66</td>
+    <td><EndIcon no="66">青山仍在</EndIcon></td>
+    <td>
+        <span style="color: #70AA39;">【郁竹】</span><br>
+    </td>
+</tr>
+
 </BTable>
 
 ## 備註
