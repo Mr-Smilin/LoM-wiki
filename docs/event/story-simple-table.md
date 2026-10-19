@@ -269,7 +269,7 @@ tags:
         <MarkdownWrapper>
             飛天門霸凌<br>
             鎮魂獄羈押<br>
-            鶴崖事件集<br>
+            [鶴崖事件集](/event/simple/2-03-3-鶴崖事件集)<br>
         </MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">
