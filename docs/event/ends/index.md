@@ -784,7 +784,8 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 60</td>
     <td><EndIcon no="60">崆峒掌派人</EndIcon></td>
     <td>
-        <span style="color: #FF2D51;">【虞小梅】</span>、<span style="color: #70AA39;">【郁竹】</span><br>
+        <span style="color: #FF2D51;">【虞小梅】</span>
+        <span style="color: #70AA39;">【郁竹】</span><br>
     </td>
 </tr>
 
@@ -792,7 +793,8 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 61</td>
     <td><EndIcon no="61">崆峒掌派人</EndIcon></td>
     <td>
-        <span style="color: #FF2D51;">【虞小梅】</span>、<span style="color: #70AA39;">【郁竹】</span><br>
+        <span style="color: #FF2D51;">【虞小梅】</span>
+        <span style="color: #70AA39;">【郁竹】</span><br>
     </td>
 </tr>
 
@@ -824,7 +826,8 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 65</td>
     <td><EndIcon no="65">崆峒掌派人</EndIcon></td>
     <td>
-        <span style="color: #FF2D51;">【虞小梅】</span>、<span style="color: #70AA39;">【郁竹】</span><br>
+        <span style="color: #FF2D51;">【虞小梅】</span>
+        <span style="color: #70AA39;">【郁竹】</span><br>
     </td>
 </tr>
 
