@@ -683,7 +683,7 @@ tags:
         </li>
     </td>
     <td rowspan=8>
-        「玉宵神」<br>
+        「玉霄神」<br>
         是指梅花
     </td>
   </tr>

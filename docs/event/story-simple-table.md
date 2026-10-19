@@ -269,7 +269,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
             飛天門霸凌<br>
-            鎮魂嶽羈押<br>
+            鎮魂獄羈押<br>
             鶴崖事件集<br>
         </MarkdownWrapper>
     </td>
@@ -956,7 +956,7 @@ tags:
   <td style="text-align: center">
       <MarkdownWrapper>
           [小師妹回訪](/event/simple/4-01-1-小師妹回訪)<br>
-          瑞笙來訪<br>
+          🚧[瑞笙來訪](/event/simple/4-02-1-瑞笙來訪)<br>
       </MarkdownWrapper>    
   </td>
   <td colspan = 2 style="text-align: center">
@@ -1010,7 +1010,7 @@ tags:
   <td colspan = 2 style="text-align: center">
       <MarkdownWrapper>
           [小師妹回訪](/event/simple/4-01-1-小師妹回訪)<br>
-          瑞笙來訪<br>
+          [瑞笙來訪](/event/simple/4-02-1-瑞笙來訪)<br>
       </MarkdownWrapper>
   </td>
 </tr>

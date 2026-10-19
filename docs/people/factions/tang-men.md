@@ -249,6 +249,9 @@ tags:
 -   現版本除了練功塔外，沒有其他未出現的設施了。[^4]
 -   雖然人們會過節慶，但唐門則屬於想慶祝也有心無力的財務狀況。[^5]
 -   伙房或雜務有班表、課表輪值，比大學的課表還要靈活一點，蹺課不會有人罰，找到人替補也可以自由換班。[[趙活]]雖然更不受管束，但他經常被拗。[^5]
+-   唐門練功塔本來是眉山的一間佛塔，戰亂中被逃難僧人拋棄，之後被唐門佔領。[^7]
+-   唐門弟子備孕期間要停止服毒、注重飲食，必要時還要暫時性或永久散功。[^7]
+-   唐門谷底的禁區原本有一個被刪除的支線劇情「屍弟」，內容描述某個被[[趙活]]害死並推下谷底、奇蹟生還的唐門弟子復仇者，他會開啟唐門秘境並且得到秘寶。目前尚未公開唐門秘境的秘寶。[^7]
 
 [^1]: 鳥熊 FB 留言：[連結](https://www.facebook.com/obbstudio/posts/pfbid02L46daXzHEiFkoy7P5x12wQxsEJcSq7pHfWU1w4yhQrKqng41YxrnFfeqEDDfdj9ul?comment_id=551506827278389&reply_comment_id=1257010531997433&__cft__[0]=AZVFmmH03sRwObM1816cY6XYfcZoOXMr5C9Bwns7PlNV32HQYCVOy7FldBqv6Lq38CmUkJfxZ-FiQi3HOdnmYH7f1S0Vs9GvI9pKLBEm9SMcDRt0bFdeZlAPr-DTo56y5YCVV__o1xoHpKImseDJJKgyrNWh3AwZM1OvmTaA01COWw&__tn__=R]-R)
 [^2]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
@@ -256,6 +259,7 @@ tags:
 [^4]: PTT C 洽－[\[活俠\] 龍湘與奇怪的小知識 P5](https://www.ptt.cc/bbs/C_Chat/M.1730548284.A.0F0.html)
 [^5]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^6]: [[問答集2024年10月#_2024-10-25|問答集2024-10-25]]
+[^7]: [[專訪鳥熊鼠蟲 129題訪談]]第5篇
 
 
 ## 畫廊

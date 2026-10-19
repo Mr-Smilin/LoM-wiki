@@ -45,6 +45,7 @@ tags:
         <td>高挑窈窕</td>
         <td>坦率開朗</td>
         <td>瘋瘋癲癲</td>
+        <td></td>
     </tr>
     <tr>
         <td><Girl5Icon :size="`medium`">夏侯蘭</Girl5Icon></td>
@@ -87,6 +88,7 @@ tags:
         <td>嬌小玲瓏</td>
         <td>恬靜溫馴</td>
         <td>力拔山兮氣蓋世</td>
+        <td></td>
     </tr>
     <tr>
         <td><Girl1Icon :size="`medium`">瑞杏</Girl1Icon></td>
