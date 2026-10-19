@@ -380,7 +380,6 @@ tags:
 <EndIcon no="26">山中の老人</EndIcon>
 </td>
 <td>
-<span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
@@ -395,7 +394,6 @@ tags:
 <EndIcon no="27">桃源郷</EndIcon>
 </td>
 <td>
-<span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
@@ -410,7 +408,6 @@ tags:
 <EndIcon no="28"><ruby>血河刀<rt>けっかとう</rt></ruby></EndIcon>
 </td>
 <td>
-<span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #70AA39;">【郁竹】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
@@ -425,7 +422,6 @@ tags:
 <EndIcon no="29"><ruby>龐統<rt>ほうとう</rt></ruby>の再来</EndIcon>
 </td>
 <td>
-<span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #70AA39;">【郁竹】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
@@ -573,7 +569,6 @@ tags:
 <EndIcon no="40"><ruby>小梅<rt>しゃおめい</rt></ruby>の秘蔵っ子</EndIcon>
 </td>
 <td>
-<span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #DC0000;">【唐門滅亡】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
@@ -588,7 +583,6 @@ tags:
 <EndIcon no="41">千古の名匠</EndIcon>
 </td>
 <td>
-<span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #DC0000;">【唐門滅亡】</span>
 <span style="color: #70AA39;">【郁竹】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
@@ -757,6 +751,142 @@ tags:
 <td>
 <span style="color: #B0DCD5;">【葉雲裳】</span><br>
 <MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「九転の療傷」](/ja/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>で、幻境連戦のいずれかの戦闘に敗北する。
+</td>
+</tr>
+<tr>
+<td>
+エンディング55
+</td>
+<td style="color: #a83232;">
+活きる
+</td>
+<td>
+<span style="color: #70AA39;">【郁竹】</span><br>
+🚩郁竹を受け入れ、想い人が郁竹で、<MarkdownWrapper>[四師兄の出立](/ja/event/simple/3-03-2-四師兄離去)</MarkdownWrapper>で四師兄について行くことを選ぶ。
+</td>
+</tr>
+<tr>
+<td>
+エンディング56
+</td>
+<td style="color: #a83232;">
+平凡な悲劇
+</td>
+<td>
+<span style="color: #70AA39;">【郁竹】</span><br>
+</td>
+</tr>
+<tr>
+<td>
+エンディング57
+</td>
+<td style="color: #a83232;">
+神不在の証明
+</td>
+<td>
+<span style="color: #FF2D51;">【虞小梅】</span>
+</td>
+</tr>
+<tr>
+<td>
+エンディング58
+</td>
+<td style="color: #a83232;">
+仙道修行
+</td>
+<td>
+<span style="color: #FF2D51;">【虞小梅】</span>
+</td>
+</tr>
+<tr>
+<td>
+エンディング59
+</td>
+<td style="color: #a83232;">
+自創の武功
+</td>
+<td>
+<span style="color: #70AA39;">【郁竹】</span><br>
+</td>
+</tr>
+<tr>
+<td>
+エンディング60
+</td>
+<td style="color: #a83232;">
+崆峒掌派人
+</td>
+<td>
+<span style="color: #FF2D51;">【虞小梅】</span>
+<span style="color: #70AA39;">【郁竹】</span><br>
+</td>
+</tr>
+<tr>
+<td>
+エンディング61
+</td>
+<td style="color: #a83232;">
+崆峒掌派人
+</td>
+<td>
+<span style="color: #FF2D51;">【虞小梅】</span>
+<span style="color: #70AA39;">【郁竹】</span><br>
+</td>
+</tr>
+<tr>
+<td>
+エンディング62
+</td>
+<td style="color: #a83232;">
+新しい家
+</td>
+<td>
+<span style="color: #70AA39;">【郁竹】</span><br>
+</td>
+</tr>
+<tr>
+<td>
+エンディング63
+</td>
+<td style="color: #a83232;">
+醜い仙人
+</td>
+<td>
+<span style="color: #70AA39;">【郁竹】</span><br>
+</td>
+</tr>
+<tr>
+<td>
+エンディング64
+</td>
+<td style="color: #a83232;">
+売国奴
+</td>
+<td>
+<span style="color: #FF2D51;">【虞小梅】</span><br>
+</td>
+</tr>
+<tr>
+<td>
+エンディング65
+</td>
+<td style="color: #a83232;">
+崆峒掌派人
+</td>
+<td>
+<span style="color: #FF2D51;">【虞小梅】</span>
+<span style="color: #70AA39;">【郁竹】</span><br>
+</td>
+</tr>
+<tr>
+<td>
+エンディング66
+</td>
+<td style="color: #a83232;">
+青山は変わらず
+</td>
+<td>
+<span style="color: #70AA39;">【郁竹】</span><br>
 </td>
 </tr>
 </BTable>

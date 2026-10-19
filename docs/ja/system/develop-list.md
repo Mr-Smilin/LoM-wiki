@@ -637,110 +637,153 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=7 style="text-align: center" id = "玉霄神匕">玉霄神匕<br><img src="/images/items/swords/icon_sword_21.webp" style="width:100px"></td>
-    <td rowspan=7 style="text-align: center">
+    <td rowspan=8 style="text-align: center" id = "玉霄神匕">玉霄神匕<br><img src="/images/items/swords/icon_sword_21.webp" style="width:100px"></td>
+    <td rowspan=8 style="text-align: center">
         <li>唐門短剣<br>レベル10<br></li>
     </td>
     <td style="text-align: center">決闘-攻撃</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td rowspan=7>
-        <li>虞小梅との結縁に関係するが、<br>v1.0.5000.13 時点では未解放。</li>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">7</td>
+    <td style="text-align: center">13</td>
+    <td style="text-align: center">20</td>
+    <td style="text-align: center">26</td>
+    <td style="text-align: center">33</td>
+    <td style="text-align: center">39</td>
+    <td style="text-align: center">46</td>
+    <td style="text-align: center">52</td>
+    <td style="text-align: center">59</td>
+    <td style="text-align: center">65</td>
+    <td rowspan=8>
+        (以下の内容は暫定で、詳しくは検証されていない)
+        <li>
+            小梅の襄陽行が発生済み
+        </li>
+        <li>
+            <MarkdownWrapper>[小梅、唐門を頼る](/ja/event/simple/2-10-3-小梅投靠)</MarkdownWrapper>が発生済み
+        </li>
+        <li>
+            🚩<MarkdownWrapper>[臥雲崗イベント](/ja/event/simple/3-01-2-臥雲崗事件)</MarkdownWrapper>で山に残る
+        </li>
+        <li>
+            <MarkdownWrapper>[大師兄の重傷](/ja/event/simple/3-01-3-大師兄重傷)</MarkdownWrapper>で大師兄の治療が発生し<br>
+            、「功を収めない」を選んで<br>
+            <Girl3Icon>小梅</Girl3Icon>を唐門に留める</li>
+        <li>
+            3年目2月上旬に行動回数≦2になると<br>
+            、梅竹の別れのイベントが自動で発生する。<br>
+            このとき以下を満たしていれば、小梅は<br>
+            この刀を後で渡すよう三師兄に託す:<br>
+            1. 小梅の襄陽行が発生済み<br>
+            2. 虞小梅好感≧50<br>
+            3. 🚩<Girl6Icon>郁竹</Girl6Icon>が唐門にいない
+        </li>
+        <li>
+            以上を満たしていれば、<MarkdownWrapper>[飛石幇解戦](/ja/event/simple/3-03-1-飛石幫解戰)</MarkdownWrapper>で<br>
+            、三師兄からこの刀が自動で渡される
+        </li>
     </td>
-    <td rowspan=7></td>
+    <td rowspan=8>
+        「玉霄神」は<br>
+        梅の花のこと
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center">決闘-爆発ダイス</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">3</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">13</td>
+    <td style="text-align: center">15</td>
+    <td style="text-align: center">18</td>
+    <td style="text-align: center">20</td>
+    <td style="text-align: center">23</td>
+    <td style="text-align: center">25</td>
   </tr>
   <tr>
     <td style="text-align: center">戦役-近接ダメージ</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">15</td>
+    <td style="text-align: center">20</td>
+    <td style="text-align: center">25</td>
+    <td style="text-align: center">30</td>
+    <td style="text-align: center">35</td>
+    <td style="text-align: center">40</td>
+    <td style="text-align: center">45</td>
+    <td style="text-align: center">50</td>
+    <td style="text-align: center">55</td>
+    <td style="text-align: center">60</td>
   </tr>
   <tr>
     <td style="text-align: center">戦役-爆発率</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">0%</td>
+    <td style="text-align: center">5%</td>
+    <td style="text-align: center">10%</td>
+    <td style="text-align: center">15%</td>
+    <td style="text-align: center">20%</td>
+    <td style="text-align: center">25%</td>
+    <td style="text-align: center">30%</td>
+    <td style="text-align: center">35%</td>
+    <td style="text-align: center">40%</td>
+    <td style="text-align: center">45%</td>
+    <td style="text-align: center">50%</td>
   </tr>
   <tr>
     <td style="text-align: center">1レベルあたり鍛造</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">3</td>
+    <td style="text-align: center">4</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">6</td>
+    <td style="text-align: center">7</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">9</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">11</td>
   </tr>
   <tr>
     <td style="text-align: center">累計鍛造</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">12</td>
+    <td style="text-align: center">17</td>
+    <td style="text-align: center">23</td>
+    <td style="text-align: center">30</td>
+    <td style="text-align: center">38</td>
+    <td style="text-align: center">47</td>
+    <td style="text-align: center">57</td>
+    <td style="text-align: center">68</td>
   </tr>
   <tr>
     <td style="text-align: center">1レベルあたり銀両</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">150</td>
+    <td style="text-align: center">200</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">350</td>
+    <td style="text-align: center">400</td>
+    <td style="text-align: center">450</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">550</td>
   </tr>
   <tr>
     <td style="text-align: center">累計銀両</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">400</td>
+    <td style="text-align: center">600</td>
+    <td style="text-align: center">850</td>
+    <td style="text-align: center">1150</td>
+    <td style="text-align: center">1500</td>
+    <td style="text-align: center">1900</td>
+    <td style="text-align: center">2350</td>
+    <td style="text-align: center">2850</td>
+    <td style="text-align: center">3400</td>
   </tr>
 
   <tr>
@@ -1462,6 +1505,311 @@ tags:
   </tr>
   <tr>
     <td style="text-align: center">戦役-防御レベル</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">1</td>
+    <td style="text-align: center">1</td>
+    <td style="text-align: center">1</td>
+    <td style="text-align: center">1</td>
+    <td style="text-align: center">1</td>
+    <td style="text-align: center">2</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">1レベルあたり鍛造</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">6</td>
+    <td style="text-align: center">7</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">9</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">累計鍛造</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">11</td>
+    <td style="text-align: center">18</td>
+    <td style="text-align: center">26</td>
+    <td style="text-align: center">35</td>
+    <td style="text-align: center">45</td>
+    <td style="text-align: center">55</td>
+    <td style="text-align: center">65</td>
+    <td style="text-align: center">75</td>
+    <td style="text-align: center">85</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">1レベルあたり銀両</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">350</td>
+    <td style="text-align: center">400</td>
+    <td style="text-align: center">450</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">累計銀両</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">550</td>
+    <td style="text-align: center">900</td>
+    <td style="text-align: center">1300</td>
+    <td style="text-align: center">1750</td>
+    <td style="text-align: center">2250</td>
+    <td style="text-align: center">2750</td>
+    <td style="text-align: center">3250</td>
+    <td style="text-align: center">3750</td>
+    <td style="text-align: center">4250</td>
+  </tr>
+
+  <tr>
+    <td rowspan=8 style="text-align: center" id = "逆鱗宝衣">逆鱗宝衣<br></td>
+    <td rowspan=8 style="text-align: center">
+        <li>軽量化<br>レベル10<br></li>
+    </td>
+    <td style="text-align: center">決闘-攻撃ダメージ</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">3</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">6</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">9</td>
+    <td style="text-align: center">11</td>
+    <td style="text-align: center">12</td>
+    <td style="text-align: center">14</td>
+    <td style="text-align: center">15</td>
+    <td rowspan=8>
+        <li>
+            <MarkdownWrapper>[大師兄が楽しみを探す](/ja/event/simple/1-04-1-大師兄找樂子)</MarkdownWrapper>で、アイテム<br>
+            「大師兄の落書き」を入手する。<br>
+        </li>
+        <li>
+            🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒に留学し、🚩<MarkdownWrapper>[崆峒派への留学](/ja/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>で鉄拳門に入る
+        </li>
+        <li>
+            <MarkdownWrapper>[十八種奇兵鍛法雑記](/ja/system/books/book_8004)</MarkdownWrapper><br>
+            修練レベル≧7
+        </li>
+        <li>
+            崆峒の鉄拳門での雑匠コマンド、<br>
+            または🚩<Girl6Icon>郁竹</Girl6Icon>を引き取った後の唐門の<br>
+            鍛冶場での雑匠コマンドでランダムに発生する<br>
+            逆鱗宝衣を作るイベントの後に入手
+        </li>
+    </td>
+    <td rowspan=8></td>
+  </tr>
+  <tr>
+    <td style="text-align: center">決闘-暗器ダメージ</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">4</td>
+    <td style="text-align: center">6</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">12</td>
+    <td style="text-align: center">14</td>
+    <td style="text-align: center">16</td>
+    <td style="text-align: center">18</td>
+    <td style="text-align: center">20</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">戦役-防御レベル</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">戦役-ダメージ反射レベル</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">1</td>
+    <td style="text-align: center">1</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">3</td>
+    <td style="text-align: center">3</td>
+    <td style="text-align: center">4</td>
+    <td style="text-align: center">4</td>
+    <td style="text-align: center">5</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">1レベルあたり鍛造</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">6</td>
+    <td style="text-align: center">7</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">9</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+    <td style="text-align: center">10</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">累計鍛造</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">11</td>
+    <td style="text-align: center">18</td>
+    <td style="text-align: center">26</td>
+    <td style="text-align: center">35</td>
+    <td style="text-align: center">45</td>
+    <td style="text-align: center">55</td>
+    <td style="text-align: center">65</td>
+    <td style="text-align: center">75</td>
+    <td style="text-align: center">85</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">1レベルあたり銀両</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">350</td>
+    <td style="text-align: center">400</td>
+    <td style="text-align: center">450</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+    <td style="text-align: center">500</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">累計銀両</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">550</td>
+    <td style="text-align: center">900</td>
+    <td style="text-align: center">1300</td>
+    <td style="text-align: center">1750</td>
+    <td style="text-align: center">2250</td>
+    <td style="text-align: center">2750</td>
+    <td style="text-align: center">3250</td>
+    <td style="text-align: center">3750</td>
+    <td style="text-align: center">4250</td>
+  </tr>
+
+  <tr>
+    <td rowspan=10 style="text-align: center" id = "烏蚕宝衣">烏蚕宝衣<br></td>
+    <td rowspan=10 style="text-align: center">
+        <li>護心鏡<br>レベル10<br></li>
+    </td>
+    <td style="text-align: center">決闘-生命力</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">50</td>
+    <td style="text-align: center">100</td>
+    <td style="text-align: center">150</td>
+    <td style="text-align: center">200</td>
+    <td style="text-align: center">250</td>
+    <td style="text-align: center">300</td>
+    <td style="text-align: center">350</td>
+    <td style="text-align: center">400</td>
+    <td style="text-align: center">450</td>
+    <td style="text-align: center">500</td>
+    <td rowspan=10>
+        <li>
+            以下を満たして竹の心のイベントを発生させ、<br>
+            その時点で想い人を郁竹にしておく:<br>
+            1. 🚩<Girl3Icon>虞小梅</Girl3Icon>が唐門にいる<br>
+            2. 🚩<Girl6Icon>郁竹</Girl6Icon>が唐門にいる<br>
+            3. 郁竹好感≧50<br>
+            4. 最早で2年目11月上旬<br>
+            5. 最遅で2年目12月上旬<br>
+            6. 大門を選ぶと発生
+        </li>
+        <li>
+            臥雲崗イベントで<br>
+            🚩「煉丹房で小梅が敵を退ける」が発生していない
+        </li>
+        <li>
+            3年目2月上旬に行動回数≦2で<br>
+            梅竹の別れのイベントが自動で発生したとき、<br>
+            想い人が<Girl6Icon>郁竹</Girl6Icon>なら、<br>
+            イベントの最後に入手
+        </li>
+    </td>
+    <td rowspan=10></td>
+  </tr>
+  <tr>
+    <td style="text-align: center">決闘-抗毒</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">3</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">6</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">9</td>
+    <td style="text-align: center">11</td>
+    <td style="text-align: center">12</td>
+    <td style="text-align: center">14</td>
+    <td style="text-align: center">15</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">決闘-抗麻</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">3</td>
+    <td style="text-align: center">5</td>
+    <td style="text-align: center">6</td>
+    <td style="text-align: center">8</td>
+    <td style="text-align: center">9</td>
+    <td style="text-align: center">11</td>
+    <td style="text-align: center">12</td>
+    <td style="text-align: center">14</td>
+    <td style="text-align: center">15</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">戦役-全生命力</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">20</td>
+    <td style="text-align: center">40</td>
+    <td style="text-align: center">60</td>
+    <td style="text-align: center">80</td>
+    <td style="text-align: center">100</td>
+    <td style="text-align: center">120</td>
+    <td style="text-align: center">140</td>
+    <td style="text-align: center">160</td>
+    <td style="text-align: center">180</td>
+    <td style="text-align: center">200</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">戦役-防御レベル</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">2</td>
+    <td style="text-align: center">5</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">戦役-回避レベル</td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">-</td>
@@ -3776,4 +4124,4 @@ tags:
 • 開発項目を取り消すと、投資済みの鍛造/煉丹ポイントの90%、銀両の90%が返却される。<br>
 • 項目を一度解放した後なら、取り消して開発し直す際に解放条件のレベルを再度満たす必要はない。ただし項目自体は正しく揃える必要があり、たとえば護心鏡は唐門制服が開発中であることを要する。<br>
 • 解放できるのは入手済みの項目だけで、未入手なら開発条件を満たしていても、将来入手した時点で自動的に解放されることはない。<br>
-• 本記事のデータは[活俠傳資料彙總](https://docs.google.com/spreadsheets/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o)および[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)を参考に作成。<br>
+• 本記事のデータは[活俠傳資料彙總](https://docs.google.com/spreadsheets/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o)、[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)、[活俠傳事件分岐資料庫](https://mortal-web-database.vercel.app/)を参考に作成。<br>

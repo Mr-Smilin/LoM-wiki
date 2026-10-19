@@ -11,10 +11,6 @@ aside: false
 
 # {{ $frontmatter.title }}
 
-::: info
-このキャラクターのシナリオはまだ完成していないため、正常に攻略することができません！2026/10/15の「崆峒神威」バージョンで実装予定です。
-:::
-
 <ChTabs position="bottom">
 	<ChTab title="初識">
 		<ChMeet 

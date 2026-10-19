@@ -71,6 +71,7 @@ tags:
 				<MarkdownWrapper>
 				[貢献度評点](/ja/event/simple/1-05-1-貢獻評點)<br>
 				[運功による治療](/ja/event/simple/1-05-1-運功療傷)<br>
+                    四師兄の押し売り<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -241,6 +242,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
 			[崆峒への留学](/ja/event/simple/2-03-1-崆峒留學)<br>
+            鉄拳巷イベント集<br>
 			[鉄拳小路へ初潜入](/ja/event/simple/2-03-1-初入鐵拳巷)<br>
 			[隠蔽地での衝突](/ja/event/simple/2-03-1-窩居衝突)<br>
 			[崆峒での強盗](/ja/event/simple/2-03-1-崆峒搶劫)<br>
@@ -265,7 +267,13 @@ tags:
 </tr>
 <tr>
     <td style="text-align: center">下</td>
-    <td style="text-align: center">-</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+            飛天門のいじめ<br>
+            鎮魂獄での拘禁<br>
+            鶴崖イベント集<br>
+        </MarkdownWrapper>
+    </td>
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
             [唐門の幽霊](/ja/event/simple/2-03-3-唐門鬧鬼)<br>
@@ -274,12 +282,13 @@ tags:
 </tr>
 
 <tr>
-    <td rowspan = 1 style="text-align: center">四</td>
+    <td rowspan = 2 style="text-align: center">四</td>
     <td style="text-align: center">上</td>
     <td style="text-align: center">
         <MarkdownWrapper>
 			[衣服が盗まれる](/ja/event/simple/2-04-1-衣服遭竊)<br>
 			[季試の知らせ](/ja/event/simple/2-04-1-季試消息)<br>
+            崆峒探検隊<br>
 			[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)<br>
         </MarkdownWrapper>
     </td>
@@ -289,6 +298,15 @@ tags:
         [二師兄の訓話](/ja/event/simple/2-04-2-二師兄訓話)<br>
         </MarkdownWrapper>
     </td>
+</tr>
+<tr>
+    <td style="text-align: center">下</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+			郁竹の帰郷
+        </MarkdownWrapper>
+    </td>
+    <td colspan = 3 style="text-align: center">-</td>
 </tr>
 
 <tr>
@@ -326,12 +344,21 @@ tags:
 </tr>
 
 <tr>
-    <td rowspan = 1 style="text-align: center">七</td>
+    <td rowspan = 2 style="text-align: center">七</td>
     <td style="text-align: center">上</td>
     <td style="text-align: center">-</td>
     <td colspan = 3 style="text-align: center">
          <MarkdownWrapper>[外堡へ舞い戻る](/ja/event/simple/2-07-1-重回外堡)</MarkdownWrapper>
     </td>
+</tr>
+<tr>
+    <td style="text-align: center">中</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+            横暴な虞小梅<br>
+        </MarkdownWrapper>
+    </td>
+    <td colspan = 3 style="text-align: center">-</td>
 </tr>
 
 <tr>
@@ -387,7 +414,7 @@ tags:
 </tr>
 
 <tr>
-    <td rowspan = 2 style="text-align: center">九</td>
+    <td rowspan = 3 style="text-align: center">九</td>
     <td style="text-align: center">上</td>
     <td style="text-align: center">
         <MarkdownWrapper>
@@ -406,6 +433,17 @@ tags:
         [雲裳の逗留](/ja/event/simple/2-09-1-雲裳逗留)<br>
         </MarkdownWrapper>
     </td>
+</tr>
+<tr>
+    <td style="text-align: center">中</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+			郁竹、江陵に着く<br>
+        </MarkdownWrapper>
+    </td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
+    <td style="text-align: center">-</td>
 </tr>
 <tr>
     <td style="text-align: center">下</td>
@@ -432,6 +470,7 @@ tags:
         <MarkdownWrapper>
 			[江陵決戦の準備](/ja/event/simple/2-10-1-江陵決戰準備)<br>
 			[江陵決戦の前夜](/ja/event/simple/2-10-1-江陵決戰前夜)<br>
+            小梅の襄陽行<br>
 			[江陵決戦](/ja/event/simple/2-10-1-江陵決戰)<br>
 			[南宮家からの訃報](/ja/event/simple/2-10-1-南宮訃音)<br>
 			[唐門に帰還](/ja/event/simple/2-10-1-返回唐門)<br>
@@ -453,7 +492,10 @@ tags:
     <td style="text-align: center">中</td>
     <td style="text-align: center">
         <MarkdownWrapper>
+            弾珠台の修理<br>
             [雲裳との再会](/ja/event/simple/2-10-2-雲裳重逢)<br>
+            鍛冶場の拡張<br>
+            郁竹の武芸修行<br>
 		</MarkdownWrapper>
     </td>
     <td colspan = 2 style="text-align: center">
@@ -472,6 +514,7 @@ tags:
     <td style="text-align: center">下</td>
     <td style="text-align: center">
         <MarkdownWrapper>
+            梅竹の再会<br>
 			[小梅、唐門を頼る](/ja/event/simple/2-10-3-小梅投靠)<br>
 			[虞小梅がらみのランダムイベント](/ja/event/simple/2-10-3-虞小梅相關)<br>
         </MarkdownWrapper>
@@ -484,7 +527,14 @@ tags:
 <tr>
     <td rowspan = 3 style="text-align: center">十一</td>
     <td style="text-align: center">上</td>
-    <td colspan = 3 style="text-align: center">
+    <td style="text-align: center">
+        <MarkdownWrapper>
+            郁竹の人気<br>
+            竹の心<br>
+            [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
+        </MarkdownWrapper>
+    </td>
+    <td colspan = 2 style="text-align: center">
         <MarkdownWrapper>
             [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
         </MarkdownWrapper>
@@ -596,9 +646,10 @@ tags:
 			<td>二月</td>
 			<td>
 				<MarkdownWrapper>
-				[唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
-				[一時の平穏](/ja/event/simple/3-02-1-一波暫平)<br>
-				[正心修身](/ja/event/simple/3-02-1-正心修身)<br>
+				    [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
+                    [一時の平穏](/ja/event/simple/3-02-1-一波暫平)<br>
+                    梅竹の別れ<br>
+				    [正心修身](/ja/event/simple/3-02-1-正心修身)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -644,6 +695,7 @@ tags:
 					<td style="text-align: center">分岐前</td>
 					<td colspan="2" style="text-align: center">
 						<MarkdownWrapper>
+                    崆峒争奪戦<br>
 						[小師妹の比武招親 前半](/ja/event/simple/3-05-1-師妹招親前半)<br>
 						[小師妹の比武招親 後半](/ja/event/simple/3-05-1-師妹招親後半)<br>
 						</MarkdownWrapper>
@@ -681,6 +733,7 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
+                    謎の人物からの送金<br>
 				[樹屋を建造する](/ja/event/simple/3-05-3-建造樹屋)<br>
 				</MarkdownWrapper>
 			</td>
@@ -734,8 +787,8 @@ tags:
 				<MarkdownWrapper>
 				[大会の招待状](/ja/event/simple/3-08-2-大會請帖)<br>
 				[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)<br>
-				🚧未実装 [虞小梅を誘う](/ja/event/simple/3-08-2-邀請虞小梅)<br>
-				🚧未実装 [郁竹を誘う](/ja/event/simple/3-08-2-邀請郁竹)<br>
+				[虞小梅を誘う](/ja/event/simple/3-08-2-邀請虞小梅)<br>
+				[郁竹を誘う](/ja/event/simple/3-08-2-邀請郁竹)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -973,7 +1026,7 @@ tags:
   <td colspan = 2 style="text-align: center">
     <MarkdownWrapper>
     [小師妹の再訪](/ja/event/simple/4-01-1-小師妹回訪)<br>
-    🚧未実装 [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)<br>
+    [瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)<br>
     </MarkdownWrapper>
   </td>
 </tr>
@@ -1055,6 +1108,7 @@ tags:
 </div>
 
 ## 備考
-
 - 救いようのないルート(Demo)には本編と似たイベントが多いため、イベント名に「Demo」を付けて区別している。
 - 🚧未実装 を付したイベントは、ゲームデータ上は存在するが現行版では発生しない。
+- イベントの台本によく出てくる隠しパラメータは、[隠しパラメータ一覧](/ja/system/hidden-params)を参照。
+- 本記事は[活俠傳資料彙總](https://docs.google.com/spreadsheets/u/1/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o)、[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)、[活俠傳事件分岐資料庫](https://mortal-web-database.vercel.app/)を参考に作成。

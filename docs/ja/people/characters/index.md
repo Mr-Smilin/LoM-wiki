@@ -203,7 +203,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[虞小梅](/ja/people/characters/girl3)</MarkdownWrapper></td>
-	<td>崆峒派 - 飛天門<br>千灯楼<br>攻略可能ヒロイン(未完成)</td>
+	<td>崆峒派 - 飛天門<br>千灯楼<br>攻略可能ヒロイン</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[火閃電](/ja/people/characters/firebird1)</MarkdownWrapper></td>
@@ -223,7 +223,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[郁竹](/ja/people/characters/girl6)</MarkdownWrapper></td>
-	<td>崆峒派 - 鉄拳門<br>攻略可能ヒロイン(未完成)</td>
+	<td>崆峒派 - 鉄拳門<br>攻略可能ヒロイン</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[童大虫](/ja/people/characters/trainee214)</MarkdownWrapper></td>

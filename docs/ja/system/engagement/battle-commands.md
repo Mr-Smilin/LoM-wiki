@@ -51,7 +51,8 @@ tags:
 ---
 ### 口功
 <div style="margin-top: 5px;"></div>
-成功時に相手の気を吸収でき（吸収範囲は不明）、また相手が「品性」に応じて怒るかどうかを判定します。<br>
+成功時に相手の気を吸収できます（吸収量は弁舌で決まり 4〜13。相手の気が 0 でも吸収できる）。<br>
+また相手が「品性」に応じて怒るかどうかを判定します。<br>
 怒った状態では攻撃のみが使用でき、気が不足して攻撃が使えない場合、ターンは待機状態になり、15気を回復して虚脱状態になります。<br>
 <img class='guide-img' src='/images/engagement/mad.webp' alt='怒り'>
 <img class='guide-img' src='/images/engagement/exhaustion.webp' alt='虚脱'><div style="margin-top: 5px;"></div>

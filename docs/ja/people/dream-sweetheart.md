@@ -44,8 +44,7 @@ tags:
         <td>背が高くて<ruby>窈窕<rt>ようちょう</rt></ruby>な姿をしているはず</td>
         <td>素直で明るい</td>
         <td>ちょっと狂ってる感じ</td>
-        <td>現バージョンでは攻略不可
-            <br>2026/10/15アップデートで実装予定</td>
+        <td></td>
     </tr>
     <tr>
         <td><Girl5Icon :size="`medium`" href="/ja/people/characters/girl5">夏侯蘭</Girl5Icon></td>
@@ -88,8 +87,7 @@ tags:
         <td>小柄で可愛らしい</td>
         <td>大人しくて従順</td>
         <td>心の優しさ云々より、あいつの力は山を抜き、気は世を蓋う</td>
-        <td>現バージョンでは攻略不可
-            <br>2026/10/15アップデートで実装予定</td>
+        <td></td>
     </tr>
     <tr>
         <td><Girl1Icon :size="`medium`" href="/ja/people/characters/girl1">瑞杏</Girl1Icon></td>
@@ -111,7 +109,7 @@ tags:
 
 ## 備考
 
-- 現在攻略可能なキャラクター (v5000) は[唐默鈴](/ja/people/characters/girl0)・[夏侯蘭](/ja/people/characters/girl5)・[龍湘](/ja/people/characters/girl8)・[葉雲裳](/ja/people/characters/girl2)。
+- 現在攻略可能なキャラクター (v6000) は[唐默鈴](/ja/people/characters/girl0)・[夏侯蘭](/ja/people/characters/girl5)・[龍湘](/ja/people/characters/girl8)・[葉雲裳](/ja/people/characters/girl2)・[虞小梅](/ja/people/characters/girl3)・[郁竹](/ja/people/characters/girl6)。
 - 更新予定順：第一に[葉雲裳](/ja/people/characters/girl2)、第二に[虞小梅](/ja/people/characters/girl3)と[郁竹](/ja/people/characters/girl6)、第三に[魏菊](/ja/people/characters/girl7)と[上官螢](/ja/people/characters/girl4)。[^1]
 - 八人のヒロインの部分が完成した後、[瑞杏](/ja/people/characters/girl1)の無料DLCを計画している。[^1]
 - あの時代、女性は長い髪こそ美しいとされた。[^2]
