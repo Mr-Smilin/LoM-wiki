@@ -241,8 +241,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
 			[崆峒留學](/event/simple/2-03-1-崆峒留學)<br>
-            鐵拳巷事件集<br>
-			[初入鐵拳巷](/event/simple/2-03-1-初入鐵拳巷)<br>
+            [鐵拳巷事件集](/event/simple/2-03-1-鐵拳巷事件集)<br>
             [窩居衝突](/event/simple/2-03-1-窩居衝突)<br>
 			[崆峒搶劫](/event/simple/2-03-1-崆峒搶劫)<br>
 		</MarkdownWrapper>
