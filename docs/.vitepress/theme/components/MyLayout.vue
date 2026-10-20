@@ -7,6 +7,7 @@ import { useData } from "vitepress";
 import Twikoo from "./default/Twikoo.vue";
 import Borderless from "./default/Borderless.vue";
 import MetaManager from "./default/MetaManager.vue";
+import EventSeriesNav from "./default/EventSeriesNav.vue";
 
 const { Layout } = DefaultTheme;
 const NotFound = defineAsyncComponent(() => import("./default/NotFound.vue"));
@@ -42,6 +43,7 @@ provide('toggle-appearance', async (event) => {
 			<p class="post-visitor">
 				{{ visitorLabel }}<span id="twikoo_visitors">0</span>
 			</p>
+			<EventSeriesNav />
 		</template>
 		<template #doc-after>
 			<Twikoo></Twikoo>
