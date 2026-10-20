@@ -86,7 +86,8 @@ tags:
     </tr>
     <tr>
         <td>銅臭俠</td>
-        <td><MarkdownWrapper>[大鐵鋪遭竊](/event/simple/2-03-3-大鐵鋪遭竊#逮到男童)</MarkdownWrapper>事件中，選擇「追左邊」，<br>
+        <td><MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>，
+            並在<MarkdownWrapper>[大鐵鋪遭竊](/event/simple/2-03-3-大鐵鋪遭竊#逮到男童)</MarkdownWrapper>事件中選擇👉「追左邊」，<br>
             擲骰【🎲≥50 抓到了】，再【🎲＜50 煽動成功】，<br>
             並選擇👉「最貴的酒樓」獲得。</td>
     </tr>
