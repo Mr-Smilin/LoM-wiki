@@ -654,6 +654,9 @@ tags:
 				<MarkdownWrapper>
 				[臥雲崗事件](/event/simple/3-01-2-臥雲崗事件)<br>
 				[臥雲崗留守](/event/simple/3-01-2-臥雲崗留守)<br>
+                兵器檢查<br>
+                幫助同門<br>
+                劍閣到訪<br>
 				[前往臥雲崗](/event/simple/3-01-2-前往臥雲崗)<br>
 				</MarkdownWrapper>
 			</td>
