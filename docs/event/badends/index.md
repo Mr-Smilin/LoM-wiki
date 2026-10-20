@@ -412,7 +412,9 @@ tags:
         </td>
         <td>
             1.崆峒派留學期間跟<Girl3Icon>小梅</Girl3Icon>太要好，跟人決鬥戰敗<br>
-            2.崆峒派留學期間初識<Girl6Icon>郁竹</Girl6Icon>，與奪魄弟子決鬥戰敗
+            2.崆峒派留學期間初識<Girl6Icon>郁竹</Girl6Icon>，與奪魄弟子決鬥戰敗<br>
+            3.崆峒派留學<MarkdownWrapper>[大鐵鋪遭竊](/event/simple/2-03-3-大鐵鋪遭竊#逮到王五)</MarkdownWrapper>事件時，
+            選擇👉「追中間那個」，並擲骰【🎲≥50 抓到了】，對決落敗獲得。<br>
         </td>
         <td>
             -
