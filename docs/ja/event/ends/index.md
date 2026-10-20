@@ -781,7 +781,7 @@ tags:
 エンディング57
 </td>
 <td style="color: #a83232;">
-神不在の証明
+神の不在証明
 </td>
 <td>
 <span style="color: #FF2D51;">【虞小梅】</span>
@@ -792,7 +792,7 @@ tags:
 エンディング58
 </td>
 <td style="color: #a83232;">
-仙道修行
+修仙
 </td>
 <td>
 <span style="color: #FF2D51;">【虞小梅】</span>

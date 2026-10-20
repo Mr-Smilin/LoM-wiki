@@ -71,7 +71,7 @@ tags:
 				<MarkdownWrapper>
 				[貢献度評点](/ja/event/simple/1-05-1-貢獻評點)<br>
 				[運功による治療](/ja/event/simple/1-05-1-運功療傷)<br>
-                    四師兄の押し売り<br>
+                    [四師兄の押し売り](/ja/system/pinball#四師兄兜售)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -492,7 +492,7 @@ tags:
     <td style="text-align: center">中</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            弾珠台の修理<br>
+            [弾珠台の修理](/ja/system/pinball#修理彈珠檯)<br>
             [雲裳との再会](/ja/event/simple/2-10-2-雲裳重逢)<br>
             鍛冶場の拡張<br>
             郁竹の武芸修行<br>

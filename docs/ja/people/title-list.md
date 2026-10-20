@@ -68,4 +68,20 @@ tags:
         <td>鳳雛の再来</td>
         <td>西武林停戦後、唐惟元不在で、以下のいずれかを満たす：<br>1. 戦術≥5<br>2. 学問≥50かつ戦術≥2</td>
     </tr>
+    <tr>
+        <td>鋼珠</td>
+        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外號)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲<40】かつ性情≥60</td>
+    </tr>
+    <tr>
+        <td>なんでもいい</td>
+        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外號)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲<40】かつ性情<60</td>
+    </tr>
+    <tr>
+        <td>弾珠侠</td>
+        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外號)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲<75】</td>
+    </tr>
+    <tr>
+        <td>弾星手</td>
+        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外號)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲≥75】</td>
+    </tr>
 </table>
