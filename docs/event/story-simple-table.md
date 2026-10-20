@@ -71,7 +71,7 @@ tags:
 				<MarkdownWrapper>
 				    [貢獻評點](/event/simple/1-05-1-貢獻評點)<br>
                     [運功療傷](/event/simple/1-05-1-運功療傷)<br>
-                    四師兄兜售<br>
+                    [四師兄兜售](/system/pinball#四師兄兜售)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -506,7 +506,7 @@ tags:
     <td style="text-align: center">中</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            修理彈珠檯<br>
+            [修理彈珠檯](/system/pinball#修理彈珠檯)<br>
             [雲裳重逢](/event/simple/2-10-2-雲裳重逢)<br>
             鍛冶場升級<br>
             郁竹學武<br>

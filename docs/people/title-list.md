@@ -68,4 +68,20 @@ tags:
         <td>再世鳳雛</td>
         <td>西武林停戰後，四師兄不在，並符合任一條件取得：<br>1. 戰術≥5<br>2. 學問≥50且戰術≥2</td>
     </tr>
+    <tr>
+        <td>鋼珠</td>
+        <td><MarkdownWrapper>[彈珠台](/system/pinball#大獎外號)</MarkdownWrapper>第一次拿到大獎，擲骰【🎲<40】且性情≥60</td>
+    </tr>
+    <tr>
+        <td>隨便</td>
+        <td><MarkdownWrapper>[彈珠台](/system/pinball#大獎外號)</MarkdownWrapper>第一次拿到大獎，擲骰【🎲<40】且性情<60</td>
+    </tr>
+    <tr>
+        <td>彈珠俠</td>
+        <td><MarkdownWrapper>[彈珠台](/system/pinball#大獎外號)</MarkdownWrapper>第一次拿到大獎，擲骰【🎲<75】</td>
+    </tr>
+    <tr>
+        <td>彈星手</td>
+        <td><MarkdownWrapper>[彈珠台](/system/pinball#大獎外號)</MarkdownWrapper>第一次拿到大獎，擲骰【🎲≥75】</td>
+    </tr>
 </table>
