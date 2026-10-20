@@ -84,4 +84,10 @@ tags:
         <td>彈星手</td>
         <td><MarkdownWrapper>[彈珠台](/system/pinball#大獎外號)</MarkdownWrapper>第一次拿到大獎，擲骰【🎲≥75】</td>
     </tr>
+    <tr>
+        <td>銅臭俠</td>
+        <td><MarkdownWrapper>[大鐵鋪遭竊](/event/simple/2-03-3-大鐵鋪遭竊#逮到男童)</MarkdownWrapper>事件中，選擇「追左邊」，<br>
+            擲骰【🎲≥50 抓到了】，再【🎲＜50 煽動成功】，<br>
+            並選擇👉「最貴的酒樓」獲得。</td>
+    </tr>
 </table>
