@@ -4602,6 +4602,122 @@ text: '六大派好感',
 		<td>心相檢定在扣心相之前</td>
 	</tr>
     <tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>坐牢</td>
+		<td>打坐調息</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            • 內力+1<br>
+            <br>
+            心相檢定:<br>
+            • 心相＜50: 心相+25<br>
+            • 心相≥50: 心相-10<br>
+        </td>
+		<td></td>
+		<td></td>
+		<td>基礎: 40</td>
+		<td></td>
+		<td></td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>坐牢</td>
+		<td>紮個馬步</td>
+		<td>-</td>
+		<td>-10</td>
+		<td>
+            體力+1
+        </td>
+		<td></td>
+		<td></td>
+		<td>基礎: 30</td>
+		<td></td>
+		<td></td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>坐牢</td>
+		<td>自暴自棄</td>
+		<td>-</td>
+		<td>-20</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>基礎: 15</td>
+		<td></td>
+		<td></td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>坐牢</td>
+		<td>試圖逃獄</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            設置🚩試圖逃獄<br>
+        </td>
+		<td></td>
+		<td></td>
+		<td>基礎: 20</td>
+		<td></td>
+		<td></td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>坐牢</td>
+		<td>談天說地</td>
+		<td>-</td>
+		<td>+15</td>
+		<td>
+            瑞笙好感+1
+        </td>
+		<td></td>
+		<td></td>
+		<td>基礎: 30</td>
+		<td>🚩瑞笙介入</td>
+		<td></td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>坐牢</td>
+		<td>武林掌故</td>
+		<td>-</td>
+		<td>+15</td>
+		<td>
+            • 嘴力+1<br>
+            • 瑞笙好感+2<br>
+        </td>
+		<td></td>
+		<td></td>
+		<td>基礎: 30</td>
+		<td>
+            • 🚩瑞笙介入<br>
+            • 🚩聽三師兄講古次數≥3<br>
+        </td>
+		<td></td>
+	</tr>
+    <tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>坐牢</td>
+		<td>偷油婆</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            🚩瑞笙介入: 插圖差分<br>
+            <br>
+            複合檢定(不符才檢定下一項):<br>
+            1. 處世≥80，且性情≥60: 心相-10<br>
+            2. 性情≥60: 對話差分<br>
+            3. 其他: 心相-15<br>
+        </td>
+		<td></td>
+		<td></td>
+		<td>基礎: 25</td>
+		<td></td>
+		<td></td>
+	</tr>
+    <tr>
 		<td>江陵圍城</td>
 		<td>指令選單</td>
 		<td>-</td>
@@ -6049,5 +6165,5 @@ text: '六大派好感',
     5. 若僅單一優先事件(即「無優先事件」)，且無特別內容，本表略之不寫。<br>
     6. 貢獻及部分數值增減，其實在優先事件中觸發。本表格式難以表達確切流程，僅盡量敘述等效結果。<br>
     7. 本表盡量將優先事件效果併入後續隨機事件效果中，以免讀者需要同時查看兩個事件。<br>
-- 本條目參考[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)撰寫。<br>
+- 本條目參考[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)、[活俠傳事件分岐資料庫](https://mortal-web-database.vercel.app/)撰寫。<br>
 <br>
