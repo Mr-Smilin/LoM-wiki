@@ -2460,7 +2460,7 @@ tags:
 
 <div class="table-content">
 
-## 生死簿 No.101 - 生死簿 No.105
+## 生死簿 No.101 - 生死簿 No.106
 
 <Btable>
     <tr>
@@ -2613,9 +2613,7 @@ tags:
             選擇👉「聽話讓我看看」，再擲骰到【🎲≥50 看到了一點】。
           </li>
         </td>
-        <td>
-            -
-        </td>
+        <td>-</td>
     </tr>
 </Btable>
 
