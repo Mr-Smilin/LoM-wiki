@@ -267,7 +267,7 @@ tags:
     <td style="text-align: center">下</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            飛天門霸凌<br>
+            [飛天門霸凌](/event/simple/2-03-3-飛天門霸凌)<br>
             鎮魂獄羈押<br>
             [鶴崖事件集](/event/simple/2-03-3-鶴崖事件集)<br>
         </MarkdownWrapper>
