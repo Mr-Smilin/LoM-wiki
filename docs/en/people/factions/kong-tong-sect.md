@@ -221,6 +221,20 @@ The Xuangong Gate excels in internal skills, and all disciples practice the "Iro
 If [[Zhao Huo]] chooses this gate for his studies at the Kongtong Sect, he will reside in the Zhiming Wing Room in the north wing of the guesthouse, where he can enhance his fist techniques.
 <br clear="all">
 
+## Maps of Mount Kongtong
+
+A panorama of Mount Kongtong, used as the background of the screen for choosing a destination during free actions while staying at the Kongtong Sect.
+
+![Panorama of Mount Kongtong](/images/factions/kong-tong_map.webp)
+
+In the third-year Kongtong scenes added in the major update of October 2026, the "大崆峒山勢地形圖" (terrain map of Mount Kongtong) is shown when the battle situation is explained.
+
+![大崆峒山勢地形圖](/images/factions/kong-tong_terrain_map.webp)
+
+Place names written on the map: 混元頂, 羊不爛山, 太和宮, 太陽掌, 通天橋, 朝陽洞, 磨針觀, 插香台, 棋盤嶺, 奪魄森林, 黃龍泉, 捨身崖, 半雨屏, 鑽羊洞, 蠟燭峰, 朽木橋, 鎮魂獄, 大象山, 一線天, 藥王洞, 朝天門, 修渡橋, 小象山, 八仙台, 無色廣場, 彈箏湖, 玄功洞, 飛升宮, 問道宮.
+
+North is at the top of the map. Of the places not labeled on it, the Feitian Gate's Feitian Hall (飛天殿) stands on 混元頂, further north than 太和宮, and 鶴崖 lies in the heart of the Feitian Gate's grounds.
+
 ## Landmarks and Attractions
 
 ### Colorless Market

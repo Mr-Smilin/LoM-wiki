@@ -53,6 +53,12 @@ Their practice emphasizes harmony and balance, aiming to unify all things into o
 There used to be a somewhat impolite saying in the martial world: "The Qingcheng disciples one meets in the jianghu are just half-hearted, the truly powerful ones are in the mountains, never seeking fame or profit, only pursuing their own immortality."
 <br clear="all">
 
+## Map of Mount Qingcheng
+
+A panorama of Mount Qingcheng, used as the background of the screen for choosing a destination during free actions while staying at the Qingcheng Sect.
+
+![Panorama of Mount Qingcheng](/images/factions/qing-cheng_map.webp)
+
 ## Wu Wei Elixir Dao
 
 While the Qingcheng Sect uses swords, their specialty lies in qigong. The so-called Wu Wei Elixir Dao actually involves cultivating internal elixirs, not the kind you consume.

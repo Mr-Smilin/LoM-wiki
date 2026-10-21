@@ -80,6 +80,14 @@ The leader, Tang Zhongling, is a remarkable figure, known for his fierce tempera
 <br><br>
 They have a deep-seated enmity with the Diancang faction, engaging in dozens of battles over the years.
 
+## Panorama of Tangmen
+
+The background of the screen for choosing a facility to visit during free actions at Tangmen. It also appears in a scene at the start of the story. There are two versions, one for daytime and one for night.
+
+![Panorama of Tangmen (day)](/images/factions/tang-men_day.webp)
+
+![Panorama of Tangmen (night)](/images/factions/tang-men_night.webp)
+
 ## Origin
 
 The original Tangmen was just a family named Tang living in seclusion in the mountains.
