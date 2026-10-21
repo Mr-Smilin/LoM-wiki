@@ -2585,7 +2585,6 @@ tags:
             -
         </td>
     </tr>
-
     <tr>
         <td id="生死簿-No.106">
             <BadendIcon :no="106">生死簿 No.106</BadendIcon>
