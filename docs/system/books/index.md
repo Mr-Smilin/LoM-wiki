@@ -150,6 +150,14 @@ tags:
         <td></td>
     </tr>
     <tr>
+        <td><BookItemIcon :no="`2400`">太白仙跡</BookItemIcon></td>
+        <td>刀劍20<br>輕功15<br>太白仙跡</td>
+        <td>80</td>
+        <td></td>
+        <td><MarkdownWrapper>[瑞笙來訪](/event/simple/4-02-1-瑞笙來訪)－[[瑞笙]]好感≧40時，選「爭鬥的理由」聊到道別時贈送</MarkdownWrapper></td>
+        <td></td>
+    </tr>
+    <tr>
         <td><BookItemIcon :no="`2401`">全真天遁劍法</BookItemIcon></td>
         <td>內力15<br>刀劍10<br>三教合一LV5<br>修養+10</td>
         <td>80</td>
@@ -160,6 +168,14 @@ tags:
             <li>第三年十一月上旬<MarkdownWrapper>[四師兄歸來](/event/simple/3-11-1-門人辭別#四師兄歸來)</MarkdownWrapper>後，至男弟子房找<MarkdownWrapper>[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>，選擇「以前托你打聽的事」</li>
             <li>銀兩≥5000、唐惟元好感≥50，選擇「買」後獲得</li>
         </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`2402`">風刀火劍</BookItemIcon></td>
+        <td>刀劍10<br>輕功12<br>風刀<br>火劍</td>
+        <td>80</td>
+        <td>內力&gt;=60</td>
+        <td><MarkdownWrapper>前往崆峒的路上－郁城請託後與[[丹霞子]]同行，聊完道中的話題後選「啟程出發」，夜裡[[丹霞子]]把書丟進火堆，趙活搶救回來時獲得</MarkdownWrapper></td>
         <td></td>
     </tr>
     <tr>
@@ -285,6 +301,14 @@ tags:
         <td></td>
     </tr>
     <tr>
+        <td><BookItemIcon :no="`4007`">湘妃折梅手</BookItemIcon></td>
+        <td>拳掌10<br>暗器7<br>體力7<br>點穴LV3<br>折花手LV2</td>
+        <td>80</td>
+        <td>處世&lt;60</td>
+        <td>小竹回家－鎮上選「有個雜貨地攤」(修養≧40)，天命擲骰到「武功秘籍」(70~84)，銀兩≧3000並選「買」後獲得</td>
+        <td>3000</td>
+    </tr>
+    <tr>
         <td><BookItemIcon :no="`4008`">蛇形拳</BookItemIcon></td>
         <td>拳掌5<br>形意拳LV1</td>
         <td>25</td>
@@ -389,11 +413,35 @@ tags:
         <td></td>
     </tr>
     <tr>
+        <td><BookItemIcon :no="`6011`">赤腳神通</BookItemIcon></td>
+        <td>拳掌15<br>輕功10</td>
+        <td>50</td>
+        <td></td>
+        <td>四年一月下旬－中小門派回音後半，畫中仙歸來(決策為西武林盟且主角在唐門、支持錦香宮、挑戰畫中仙後決鬥、<MarkdownWrapper>[[唐錚]]好感≥40、公審唐門時崆峒派友好</MarkdownWrapper>)</td>
+        <td></td>
+    </tr>
+    <tr>
         <td><BookItemIcon :no="`6012`">八仙指</BookItemIcon></td>
         <td>拳掌5<br>醫術LV1<br>煉丹37</td>
         <td>50</td>
         <td>醫術LV3</td>
         <td>青城留學，九月上旬，醫術4，把脈後唐芳贈送</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`6014`">醉拳</BookItemIcon></td>
+        <td>拳掌10<br>輕功5<br>體力5<br>峨嵋十九樁</td>
+        <td>50</td>
+        <td>形意拳LV1<br>黃酒50</td>
+        <td>三年一月中旬－神兵帖第二節(臥雲崗留守、郁竹在唐門且完成神兵帖前半的鍛冶場)，鍛冶場轉盤最高結果(≧80)後，同門師兄贈送</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`6015`">手抄仙鶴迷蹤拳</BookItemIcon></td>
+        <td>拳掌7<br>爆發3<br>輕功7<br>形意拳LV1<br>仙鶴迷蹤步</td>
+        <td>50</td>
+        <td></td>
+        <td>二年崆峒派留學－<MarkdownWrapper>[鶴崖「小梅共舞」](/event/simple/2-03-3-鶴崖事件集#小梅共舞)</MarkdownWrapper>(🚩向火閃電討教≥4、<MarkdownWrapper>[[虞小梅]]好感≥20、二年四月上旬~七月中旬</MarkdownWrapper>)</td>
         <td></td>
     </tr>
 </BTable>
@@ -575,6 +623,14 @@ tags:
         <td>青城留學九月下旬之前，修練三次後觸發<MarkdownWrapper>[「青城排擠」](/event/simple/2-08-3-青城排擠)</MarkdownWrapper>事件，獲得三五斬妖劍。<br>十一月下旬離開青城時與地獄道交戰，下山時申屠龍≥20贈送。</td>
         <td></td>
     </tr>
+    <tr>
+        <td><BookItemIcon :no="`7019`">手抄全真劍法</BookItemIcon></td>
+        <td>體力10<br>內力5<br>修養+10<br>全真體操LV5<br>道學LV2</td>
+        <td>50</td>
+        <td></td>
+        <td>彈珠台－總分30～59（參獎）的第一次獎品<br>至男弟子房找<MarkdownWrapper>[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>，選擇「彈珠台」遊玩</td>
+        <td></td>
+    </tr>
 </BTable>
 
 ## 暗器
@@ -656,6 +712,14 @@ tags:
         <td>學問20<br>學問30 (LV2)<br>學問50 (LV4)<br>學問80 (LV8)</td>
         <td>一年四月上旬－四師兄買物($2000)</td>
         <td>2000</td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`8002`">破金策</BookItemIcon></td>
+        <td>學問12<br>性情+10<br>戰術LV2<br>思想戰LV1</td>
+        <td>80</td>
+        <td></td>
+        <td>襄陽行－孟珙好感≧3時獲得</td>
+        <td></td>
     </tr>
     <tr>
         <td><BookItemIcon :no="`8003`">雪球教戰守則</BookItemIcon></td>
@@ -810,6 +874,14 @@ tags:
 1. 青城留學，二年十二月上葉雲舟歸來時，葉雲裳≥30且技能《醫術》≥3，聽說了寂滅三摩地<br>
 2. 葉家兄妹去留轉盤【葉雲裳抵抗】<br>
 3. 心上人是葉雲裳</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`9002`">梅鄉清供</BookItemIcon></td>
+        <td>刀劍5<br>廚藝+10</td>
+        <td>25</td>
+        <td></td>
+        <td>彈珠台－總分60～99（貳獎）的第一次獎品<br>至男弟子房找<MarkdownWrapper>[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>，選擇「彈珠台」遊玩</td>
         <td></td>
     </tr>
 </BTable>
