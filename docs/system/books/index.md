@@ -124,7 +124,7 @@ tags:
         <td>50</td>
         <td>點破雲關</td>
         <td>
-            • 滿足以下所有前置條件: 
+            • 滿足以下所有前置條件:
             1. 🚩<MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>；
             2. 🚩<MarkdownWrapper>[葉雲舟同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>；
             3. 🚩<MarkdownWrapper>[葉雲舟代表唐門出戰](/event/simple/3-10-2-點蒼逆徒#師徒對決)</MarkdownWrapper>。<br>
@@ -204,7 +204,7 @@ tags:
         <td>拳掌15<br>折花手LV5</td>
         <td>80</td>
         <td>內力40<br>拳掌40</td>
-        <td> 
+        <td>
             🚩<MarkdownWrapper>[無可救藥線](/event/simple/1-06-1-掌門的安排)</MarkdownWrapper>，
             至男弟子房找<MarkdownWrapper>[四師兄閒聊](/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>，選擇「以前托你打聽的事」。<br>
             支付2000銀兩，天命擲骰【🎲＞40 失落的嵩山秘笈】，再選擇「那我就收下了」後獲得。
@@ -395,7 +395,7 @@ tags:
         <td>輕功30</td>
         <td>三年夏侯蘭線－奪魄門季試勝出</td>
         <td></td>
-    </tr>	
+    </tr>
     <tr>
         <td><BookItemIcon :no="`6008`">登雲踏．望月</BookItemIcon></td>
         <td>輕功3<br>拳掌3</td>
@@ -707,7 +707,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8001`">孫子兵法</BookItemIcon></td>
-        <td>學問18<br>戰術LV5<br>性情-6</td>
+        <td>學問18<br>戰術LV5<br>思想戰LV1<br>性情-6</td>
         <td>80</td>
         <td>學問20<br>學問30 (LV2)<br>學問50 (LV4)<br>學問80 (LV8)</td>
         <td>一年四月上旬－四師兄買物($2000)</td>
@@ -723,7 +723,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8003`">雪球教戰守則</BookItemIcon></td>
-        <td>暗器5<br>戰術LV1<br>道德-5</td>
+        <td>暗器5<br>戰術LV1<br>思想戰LV1<br>道德-5</td>
         <td>25</td>
         <td></td>
         <td>青城留學九月下旬之前，修練三次後觸發<MarkdownWrapper>[「青城排擠」](/event/simple/2-08-3-青城排擠)</MarkdownWrapper>事件，葉雲裳≥35贈送。</td>
