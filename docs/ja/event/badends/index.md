@@ -410,7 +410,8 @@ tags:
         </td>
         <td>
             1.崆峒派留学中に<Girl3Icon>小梅</Girl3Icon>と仲良くなりすぎ、決闘で敗北する<br>
-            2.崆峒派留学中に<Girl6Icon>郁竹</Girl6Icon>と初めて出会い、奪魄弟子との決闘で敗北する
+            2.崆峒派留学中に<Girl6Icon>郁竹</Girl6Icon>と初めて出会い、奪魄弟子との決闘で敗北する<br>
+            3.崆峒派留学中の<MarkdownWrapper>[大鉄舗の盗難](/ja/event/simple/2-03-3-大鐵鋪遭竊#逮到王五)</MarkdownWrapper>で、👉「真ん中のやつを追う」を選んで【🎲≥50 捕まえた】を出し、決闘で敗北する
         </td>
         <td>
             -

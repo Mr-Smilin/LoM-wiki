@@ -49,7 +49,7 @@ tags:
 
 ## 秘笈
 
-- 太白仙跡 ([瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)で入手)
+- [太白仙跡](/ja/system/books/book_2400) ([瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)で入手)
 
 ## 備考
 

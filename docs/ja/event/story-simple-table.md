@@ -242,8 +242,8 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
 			[崆峒への留学](/ja/event/simple/2-03-1-崆峒留學)<br>
-            鉄拳巷イベント集<br>
-			[鉄拳小路へ初潜入](/ja/event/simple/2-03-1-初入鐵拳巷)<br>
+            [鉄拳巷イベント集](/ja/event/simple/2-03-1-鐵拳巷事件集)<br>
+			[初めての鉄拳巷](/ja/event/simple/2-03-1-初入鐵拳巷)<br>
 			[隠蔽地での衝突](/ja/event/simple/2-03-1-窩居衝突)<br>
 			[崆峒での強盗](/ja/event/simple/2-03-1-崆峒搶劫)<br>
 		</MarkdownWrapper>
@@ -269,9 +269,9 @@ tags:
     <td style="text-align: center">下</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            飛天門のいじめ<br>
-            鎮魂獄での拘禁<br>
-            鶴崖イベント集<br>
+            [飛天門のいじめ](/ja/event/simple/2-03-3-飛天門霸凌)<br>
+            鎮魂獄での拘留<br>
+            [鶴崖イベント集](/ja/event/simple/2-03-3-鶴崖事件集)<br>
         </MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">
@@ -289,6 +289,7 @@ tags:
 			[衣服が盗まれる](/ja/event/simple/2-04-1-衣服遭竊)<br>
 			[季試の知らせ](/ja/event/simple/2-04-1-季試消息)<br>
             崆峒探検隊<br>
+            郁竹の帰省準備<br>
 			[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)<br>
         </MarkdownWrapper>
     </td>
@@ -628,6 +629,9 @@ tags:
 				<MarkdownWrapper>
 				[臥雲崗イベント](/ja/event/simple/3-01-2-臥雲崗事件)<br>
 				[臥雲崗の留守番](/ja/event/simple/3-01-2-臥雲崗留守)<br>
+                兵器の点検<br>
+                同門の手伝い<br>
+                剣閣の来訪<br>
 				[臥雲崗へ向かう](/ja/event/simple/3-01-2-前往臥雲崗)<br>
 				</MarkdownWrapper>
 			</td>

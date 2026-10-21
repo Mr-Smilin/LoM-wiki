@@ -84,4 +84,10 @@ tags:
         <td>弾星手</td>
         <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外号)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲≥75】</td>
     </tr>
+    <tr>
+        <td>銅臭侠</td>
+        <td><MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学し、<MarkdownWrapper>[大鉄舗の盗難](/ja/event/simple/2-03-3-大鐵鋪遭竊#逮到男童)</MarkdownWrapper>で👉「左のやつを追う」を選び、<br>
+            天運ダイスで【🎲≥50 捕まえた】、続けて【🎲＜50 煽動成功】を出し、<br>
+            👉「崆峒で一番高い酒楼に行きたい (厚かましく)」を選ぶ</td>
+    </tr>
 </table>

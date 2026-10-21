@@ -150,6 +150,14 @@ tags:
         <td></td>
     </tr>
     <tr>
+        <td><BookItemIcon :no="`2400`">太白仙跡</BookItemIcon></td>
+        <td>刀剣20<br>軽功15<br>太白仙跡</td>
+        <td>80</td>
+        <td></td>
+        <td><MarkdownWrapper>[瑞笙来訪](/ja/event/simple/4-02-1-瑞笙來訪)－[瑞笙](/ja/people/characters/special999)の好感度≧40の時、「争いの理由」を選んで別れ際に贈られる</MarkdownWrapper></td>
+        <td></td>
+    </tr>
+    <tr>
         <td><BookItemIcon :no="`2401`">全真天遁剣法</BookItemIcon></td>
         <td>内功15<br>刀剣10<br>三教合一LV5<br>品性+10</td>
         <td>80</td>
@@ -160,6 +168,14 @@ tags:
             <li>3年目11月上旬に<MarkdownWrapper>[門人の暇乞い-四師兄が帰る](/ja/event/simple/3-11-1-門人辭別#四師兄歸來)</MarkdownWrapper>の後、男弟子房の<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>で「前に頼んだ調べ事」を選ぶ</li>
             <li>銀両≥5000、唐惟元好感≥50で、「買う」を選ぶと入手</li>
         </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`2402`">風刀火剣</BookItemIcon></td>
+        <td>刀剣10<br>軽功12<br>風刀<br>火剣</td>
+        <td>80</td>
+        <td>内功&gt;=60</td>
+        <td><MarkdownWrapper>崆峒へ向かう道中－郁城に頼まれ[丹霞子](/ja/people/characters/special404)と同行。道中の話題を済ませて出発を選ぶと、夜に丹霞子が書を焚き火に投げ込み、趙活が拾い上げて入手</MarkdownWrapper></td>
         <td></td>
     </tr>
     <tr>
@@ -285,6 +301,14 @@ tags:
         <td></td>
     </tr>
     <tr>
+        <td><BookItemIcon :no="`4007`">湘妃折梅手</BookItemIcon></td>
+        <td>拳掌10<br>暗器7<br>体力7<br>点穴LV3<br>折花手LV2</td>
+        <td>80</td>
+        <td>処世&lt;60</td>
+        <td>小竹の帰郷－町で「雑貨の露店がある」を選び (品性≧40)、天命ダイスで「武功の秘籍」(70〜84) が出て、銀≧3000で「買う」を選ぶと入手</td>
+        <td>3000</td>
+    </tr>
+    <tr>
         <td><BookItemIcon :no="`4008`">蛇形拳</BookItemIcon></td>
         <td>拳掌5<br>形意拳LV1</td>
         <td>25</td>
@@ -389,11 +413,35 @@ tags:
         <td></td>
     </tr>
     <tr>
+        <td><BookItemIcon :no="`6011`">跣足神通</BookItemIcon></td>
+        <td>拳掌15<br>軽功10</td>
+        <td>50</td>
+        <td></td>
+        <td>4年目1月下旬－中小門派からの返答の後半、画中仙が帰ってくる場面 (決断が西武林盟で主人公が唐門にいる・錦香宮を支持・画中仙に挑戦して決闘・<MarkdownWrapper>[唐錚](/ja/people/characters/brother2)好感≥40・公審唐門で崆峒派が友好</MarkdownWrapper>)</td>
+        <td></td>
+    </tr>
+    <tr>
         <td><BookItemIcon :no="`6012`">八仙指</BookItemIcon></td>
         <td>拳掌5<br>医術LV1<br>煉丹37</td>
         <td>50</td>
         <td>医術LV3</td>
         <td>青城留学の九月上旬、<MarkdownWrapper>[雲裳の逗留](/ja/event/simple/2-09-1-雲裳逗留)</MarkdownWrapper>イベントで医術4以上のとき、脈診の後に唐芳が贈る</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`6014`">酔拳</BookItemIcon></td>
+        <td>拳掌10<br>軽功5<br>体力5<br>峨嵋十九樁</td>
+        <td>50</td>
+        <td>形意拳LV1<br>黄酒50</td>
+        <td>3年目1月中旬－神兵帖の第二節 (臥雲崗の留守番・郁竹が唐門にいて神兵帖の前半の鍛冶場を済ませている)、鍛冶場のダイスで最高の結果 (80以上) を出していると同門の師兄が贈る</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`6015`">手写しの仙鶴迷蹤拳</BookItemIcon></td>
+        <td>拳掌7<br>爆発3<br>軽功7<br>形意拳LV1<br>仙鶴迷蹤歩</td>
+        <td>50</td>
+        <td></td>
+        <td>2年目崆峒派留学－<MarkdownWrapper>[鶴崖の小梅との共舞](/ja/event/simple/2-03-3-鶴崖事件集#小梅共舞)</MarkdownWrapper> (🚩「火閃電との手合わせ」≥4・<MarkdownWrapper>[虞小梅](/ja/people/characters/girl3)好感≥20</MarkdownWrapper>・2年目4月上旬〜7月中旬)</td>
         <td></td>
     </tr>
 </BTable>
@@ -571,6 +619,14 @@ tags:
         <td>青城留学で九月下旬までに、3回修練して<MarkdownWrapper>[青城での爪弾き](/ja/event/simple/2-08-3-青城排擠)</MarkdownWrapper>イベントを発生させ、三五斬妖剣を入手。<br>十一月下旬の<MarkdownWrapper>[青城の段階試験](/ja/event/simple/2-11-3-青城段考)</MarkdownWrapper>で青城を離れる際に地獄道と遭遇し青城を助ける方を選ぶ。<br><MarkdownWrapper>[趙逵の登山](/ja/event/simple/2-11-3-趙逵上山)</MarkdownWrapper>へ進み、下山時に申屠龍の好感度≥20で贈られる。</td>
         <td></td>
     </tr>
+    <tr>
+        <td><BookItemIcon :no="`7019`">手写しの全真剣法</BookItemIcon></td>
+        <td>体力10<br>内功5<br>品性+10<br>全真体操LV5<br>道学LV2</td>
+        <td>50</td>
+        <td></td>
+        <td>弾珠台－合計点30〜59点（三等賞）の1回目の景品<br>男弟子の部屋で<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>から「弾珠台」を選んで遊ぶ</td>
+        <td></td>
+    </tr>
 </BTable>
 
 ## 暗器
@@ -652,6 +708,14 @@ tags:
         <td>学問20<br>学問30 (LV2)<br>学問50 (LV4)<br>学問80 (LV8)</td>
         <td>一年四月上旬－唐惟元から購入 ($2000)</td>
         <td>2000</td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`8002`">破金策</BookItemIcon></td>
+        <td>学問12<br>性情+10<br>戦術LV2<br>思想戦LV1</td>
+        <td>80</td>
+        <td></td>
+        <td>襄陽行－孟珙の好感 ≧ 3 の場合に入手</td>
+        <td></td>
     </tr>
     <tr>
         <td><BookItemIcon :no="`8003`">雪球教戦守則</BookItemIcon></td>
@@ -806,6 +870,14 @@ tags:
 1. 青城留学、二年十二月上旬に葉雲舟が帰還した時に、葉雲裳≥30かつスキル『医術』≥3で、寂滅三摩地について聞く<br>
 2. 葉家兄妹の去留ダイスで【葉雲裳抵抗】<br>
 3. 想い人が葉雲裳</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><BookItemIcon :no="`9002`">梅郷清供</BookItemIcon></td>
+        <td>刀剣5<br>料理+10</td>
+        <td>25</td>
+        <td></td>
+        <td>弾珠台－合計点60〜99点（二等賞）の1回目の景品<br>男弟子の部屋で<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>から「弾珠台」を選んで遊ぶ</td>
         <td></td>
     </tr>
 </BTable>
