@@ -43,7 +43,7 @@ There are various rumors among the people, all wanting to know the identity of t
 
 ### II. Disbanding Tangmen
 
-1. Before the last action in early December of the third year. If [[李富貴]]'s favorability < 20, [[金烏上人]] is alive, or Tactical Skill < 5, or Tactical Skill < 8, Knowledge < 60, enter the decision of **📜Topic "Decision： Disbanding Tangmen"**.
+1. Before the last action in early December of the third year. If [[李富貴]]'s favorability < 20 or the Beggar Gang's favorability < 2, and any of the following applies — [[金烏上人]] is alive, Tactical Skill < 5, or Tactical Skill < 8 with Knowledge < 60 — enter the decision of **📜Topic "Decision： Disbanding Tangmen"**.
 2. Vote on fighting or retiring from the martial world when [[唐惟元|四師兄]] returns, with an additional vote from [[唐惟元|四師兄]].
     - Protagonist's decisions：
         - **📜Topic "Decision： Fight"**： +1 vote for fighting.

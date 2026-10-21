@@ -27,7 +27,7 @@ You stubbornly believed that she was washed away by the stream, following the Mi
 **Process:**
 
 1. In mid-October of the third year at the martial arts conference, after the exposure of the Jinxiang Palace, when <Girl8Icon>Long Xiang</Girl8Icon> came to join Tang Sect, choose **📖 "Shelter Long Xiang regardless of others' opinions"** to have <Girl8Icon>Long Xiang</Girl8Icon> join Tang Sect.
-2. Before the final action in early December of the third year. If the favorability of [[Li Fugui]] is < 20, [[Golden Crow Monk]] is alive, or skills: tactics < 5 or skills: tactics < 8, knowledge < 60, enter the decision-making of [[Decision of the People#_2%EF%B8%8F⃣Decision to Not Establish the Western Wulin Alliance|Decision to Not Establish the Western Wulin Alliance]].
+2. Before the final action in early December of the third year. If [[Li Fugui]]'s favorability < 20 or the Beggar Gang's favorability < 2, and any of the following applies — [[Golden Crow Monk]] is alive, Tactical Skill < 5, or Tactical Skill < 8 with Knowledge < 60 — enter the decision-making of [[Decision of the People#_2%EF%B8%8F⃣Decision to Not Establish the Western Wulin Alliance|Decision to Not Establish the Western Wulin Alliance]].
 3. Conduct a vote on fighting or retiring from the martial world: When <Girl0Icon>Fourth Senior Brother</Girl0Icon> returns, there are additional votes, and when forming a bond with <Girl0Icon>Fourth Senior Brother</Girl0Icon>, additional votes
     - Protagonist's decisions:
         - **📜Issue "Decision: Fight"**: +1 vote for fighting.

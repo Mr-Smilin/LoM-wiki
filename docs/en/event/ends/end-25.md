@@ -21,10 +21,10 @@ After you retire, no one in the martial world asks about you anymore. The waves 
 
 ## Conditions and Process
 
-<strong>Conditions：</strong> [[Li Fugui]] favorability < 20, skills： tactics < 5 or skills： tactics < 8, knowledge < 60
+<strong>Conditions：</strong> [[Li Fugui]]'s favorability < 20 or the Beggar Gang's favorability < 2, and any of the following applies — [[Golden Crow Monk]] is alive, Tactical Skill < 5, or Tactical Skill < 8 with Knowledge < 60
 **Process：**
 
-1. Before the last action in early December of the third year. [[Li Fugui]] favorability < 20, [[Golden Crow Monk]] alive or skills： tactics < 5 or skills： tactics < 8, knowledge < 60, enter the decision of [[Decision of the People#_2%EF%B8%8F⃣Decision to Not Establish the Western Martial Arts Alliance|Unable to Establish the Western Martial Arts Alliance]].
+1. Before the last action in early December of the third year. If [[Li Fugui]]'s favorability < 20 or the Beggar Gang's favorability < 2, and any of the following applies — [[Golden Crow Monk]] is alive, Tactical Skill < 5, or Tactical Skill < 8 with Knowledge < 60 — enter the decision of [[Decision of the People#_2%EF%B8%8F⃣Decision to Not Establish the Western Martial Arts Alliance|Unable to Establish the Western Martial Arts Alliance]].
 2. Vote on fighting or retiring from the martial world： When [[Fourth Senior Brother Tang Weiyuan]] returns, there are additional votes from [[Fourth Senior Brother Tang Weiyuan]] and <Girl0Icon>Junior Sister</Girl0Icon> when forming a bond with <Girl0Icon>Junior Sister</Girl0Icon>.
     - Protagonist's decision：
         - **📜Issue "Decision： Fight"**： +1 vote for fighting.
