@@ -2585,6 +2585,39 @@ tags:
             -
         </td>
     </tr>
+
+    <tr>
+        <td id="生死簿-No.106">
+            <BadendIcon :no="106">生死簿 No.106</BadendIcon>
+        </td>
+        <td>
+            含笑而終
+        </td>
+        <td>
+            人家好心來劫獄，你竟恩將仇報?<br>
+            於是求仁得仁，當場殞命。<br>
+        </td>
+        <td>-</td>
+        <td>
+          <li>
+            🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>並
+            🚩<MarkdownWrapper>[入飛天門](/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>。
+          </li>
+          <li>
+            <MarkdownWrapper>[飛天門霸凌](/event/simple/2-03-3-飛天門霸凌)</MarkdownWrapper>時，
+            🚩飛天門霸凌逃跑結果 = <MarkdownWrapper>[被夏侯蘭抓](/event/simple/2-03-3-飛天門霸凌#崆峒圍殺)</MarkdownWrapper>
+             或 <MarkdownWrapper>[捲入混戰](/event/simple/2-03-3-飛天門霸凌#逃入無色市集)</MarkdownWrapper>。
+          </li>
+          <li>
+            隨後觸發<MarkdownWrapper>[鎮魂獄羈押](/event/simple/2-03-3-鎮魂獄羈押)</MarkdownWrapper>，
+            進行至<MarkdownWrapper>[小梅更衣](/event/simple/2-03-3-鎮魂獄羈押#小梅更衣)</MarkdownWrapper>時，
+            選擇👉「聽話讓我看看」，再擲骰到【🎲≥50 看到了一點】。
+          </li>
+        </td>
+        <td>
+            -
+        </td>
+    </tr>
 </Btable>
 
 資料來源：
