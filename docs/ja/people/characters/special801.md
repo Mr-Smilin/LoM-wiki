@@ -1,5 +1,5 @@
 ---
-title: 譚霸刀 (タンハトウ)
+title: 譚覇刀 (タンハトウ)
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -11,7 +11,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="譚霸刀">
+	<ChTab title="譚覇刀">
 		<Ch src='/images/characters/special801/normal.webp' position='right'/>
 		<ChName nameZh='譚霸刀' nameEn='Tan Ba Dao' position='right' />
 		<ChTable>
@@ -28,7 +28,7 @@ tags:
 </ChTabs>
 <br><br>
 
-夔州の大侠・譚霸刀。成名の武器は破山斬。夔州地方で侠義の道を行い、かつて長江を支配していた塩幇を自分の領地から駆逐した。生涯で最も名高い一戦は、西夏の金刀拓拔豹を文字通り両断したことである。
+夔州の大侠・譚覇刀。成名の武器は破山斬。夔州地方で侠義の道を行い、かつて長江を支配していた塩幇を自分の領地から駆逐した。生涯で最も名高い一戦は、西夏の金刀拓抜豹を文字通り両断したことである。
 <br><br>
 実は十数年前の[江陵官道穀物略奪事件](/ja/event/stories/江陵府官道劫糧案)の真犯人。破山斬は官銀を拓抜豹に売った見返りでもらったもので、彼を斬ったのは口止めのためだった。南宮の寿宴で[唐布衣](/ja/people/characters/brother1)の贈り物を選んだなら、彼を逮捕する機会が得られる。名誉が失われた後、彼は[南宮遠](/ja/people/characters/special101)の靴を舐めるほどに堕落し、さらに[釈明](/ja/people/characters/special826)禅師に懇願してやっと殺身の禍を免れた。
 <br><br>

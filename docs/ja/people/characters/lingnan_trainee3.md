@@ -1,5 +1,5 @@
 ---
-title: 米欧寬 (ベイオウカン)
+title: 米欧寛 (ベイオウカン)
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -12,7 +12,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="米欧寬">
+    <ChTab title="米欧寛">
         <Ch src='/images/characters/lingnan_trainee/trainee3_normal.webp' position='right'/>
         <ChName nameZh='米歐寬' nameEn='Mi O Kuan' position='right' />
         <ChTable>
@@ -41,7 +41,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [林志恆](/ja/people/characters/lingnan_trainee1) (師兄)
+                    [林志恒](/ja/people/characters/lingnan_trainee1) (師兄)
                 </ChTd>
             </ChTr>
             <ChTr>

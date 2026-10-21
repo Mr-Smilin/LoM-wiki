@@ -92,7 +92,7 @@ tags:
 <br><br>
 [趙活](/ja/people/characters/player)一行が青城を去った後、[葉雲裳](/ja/people/characters/girl2)の詭計により[嶺南派](/ja/people/factions/lingnan-sect)の縄張りへ誘い込まれ、一味ぐるみの詐術に遭って強引に入門させられた。騙されるのが入門の習わしで、糞餅を噛まされ、口水茶を飲まされた。大理段氏の宗親と知れると今度は婿に取られ、[亡き先代掌門の娘](/ja/people/characters/special829)と娶せられたが、当人が嶺南にいないため、雌鶏一羽を相手に祝言を挙げさせられた。
 <br><br>
-[唐默鈴](/ja/people/characters/girl0)の比武招親の日、後山で[趙活](/ja/people/characters/player)・[葉雲裳](/ja/people/characters/girl2)と顔を合わせ、嶺南での経験を思い出して相討ち覚悟で襲いかかるも、[趙活](/ja/people/characters/player)に敗れる。そこへ[鉄冠道人](/ja/people/characters/special212)が現れ、絶世の武功で趙活を圧倒し、自らが[無相祖師](/ja/people/characters/special212_2)であることを明かした。段智秀の恥知らずな面の皮を気に入り、衣鉢を継がせたいという。段智秀はこの機に乗じて改めて宝蔵の在り処を尋ねるが、あれはただの戯れ言だったと知らされ、大きな衝撃を受けて茫然自失となる。その後、趙活とともに無相祖師を撃退するが、趙活と葉雲裳が谷底へ落ちるのを目の当たりにする。彼は正心堂へ押し入って[掌門](/ja/people/characters/master)への面会を求め、髪を振り乱した狂人さながらの姿で事の次第を訴えると、皆が我に返る前に立ち去った。
+[唐黙鈴](/ja/people/characters/girl0)の比武招親の日、後山で[趙活](/ja/people/characters/player)・[葉雲裳](/ja/people/characters/girl2)と顔を合わせ、嶺南での経験を思い出して相討ち覚悟で襲いかかるも、[趙活](/ja/people/characters/player)に敗れる。そこへ[鉄冠道人](/ja/people/characters/special212)が現れ、絶世の武功で趙活を圧倒し、自らが[無相祖師](/ja/people/characters/special212_2)であることを明かした。段智秀の恥知らずな面の皮を気に入り、衣鉢を継がせたいという。段智秀はこの機に乗じて改めて宝蔵の在り処を尋ねるが、あれはただの戯れ言だったと知らされ、大きな衝撃を受けて茫然自失となる。その後、趙活とともに無相祖師を撃退するが、趙活と葉雲裳が谷底へ落ちるのを目の当たりにする。彼は正心堂へ押し入って[掌門](/ja/people/characters/master)への面会を求め、髪を振り乱した狂人さながらの姿で事の次第を訴えると、皆が我に返る前に立ち去った。
 <br><br>
 武林大会では[嶺南派](/ja/people/factions/lingnan-sect)に同行するが、[葉雲舟](/ja/people/characters/special3)を見かけると慌てて逃げ出す。西武林の一戦では葉雲舟とともに点蒼双尊と力戦し、戦後、師門を破門された。
 

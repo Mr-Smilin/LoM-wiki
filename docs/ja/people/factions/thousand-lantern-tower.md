@@ -119,4 +119,4 @@ tags:
 [^1]: [問答集2024-10月-19](/ja/other/qna/202410)、Part2。
 [^2]: TVアニメ「Fate/Grand Order -絶対魔獣戦線バビロニア-」公式サイト - [SPECIAL コラム](https://anime.fate-go.jp/ep7-tv/special/column3/)
 [^3]: udn遊戲角落 - [專訪原始鳥熊（2）《活俠傳》的安科精神——隨機堆砌終成武林傳奇](https://game.udn.com/game/story/122090/8114531)
-[^4]: 裴鉶『聶隱娘』(『太平廣記』巻194所収)
+[^4]: 裴鉶『聶隠娘』(『太平広記』巻194所収)

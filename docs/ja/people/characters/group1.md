@@ -18,7 +18,7 @@ tags:
 
 <br>
 
-余自詠。滅門ルートで[譚霸刀](/ja/people/characters/special801)、木仙姑とともに来襲した高手。
+余自詠。滅門ルートで[譚覇刀](/ja/people/characters/special801)、木仙姑とともに来襲した高手。
 
 <br>
 

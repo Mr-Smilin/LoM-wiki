@@ -86,7 +86,7 @@ tags:
 
 <br>
 
-人間道は[錦香宮](/ja/people/factions/jin-xiang-palace)に姿を変え、身寄りのない女性を受け入れ、江湖での評判は良かった。だが風雨山大会で[南宮淺](/ja/people/characters/special103)に暴かれ、法王[温夫人](/ja/people/characters/special402)は[南宮遠](/ja/people/characters/special101)と殉死した。
+人間道は[錦香宮](/ja/people/factions/jin-xiang-palace)に姿を変え、身寄りのない女性を受け入れ、江湖での評判は良かった。だが風雨山大会で[南宮浅](/ja/people/characters/special103)に暴かれ、法王[温夫人](/ja/people/characters/special402)は[南宮遠](/ja/people/characters/special101)と殉死した。
 
 <br>
 

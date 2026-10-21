@@ -216,17 +216,17 @@ aside: false
 ## 南宮深
 
 -   [南宮深](/ja/people/characters/special102)との婚約は南宮の老太爺が一手に決めた。二人とも幼い時から心が通じていた。相応に相性がいい。さらに一緒に耕陽読書斎に学びに行き、[魏菊](/ja/people/characters/girl7)と同窓になった。
--   [南宮深](/ja/people/characters/special102)との冷戦期間中、南宮深と[南宮淺](/ja/people/characters/special103)が蒙面人に襲撃されたと聞き、意地を張ることなく慌てて駆けつけた。多くの慰めの言葉を用意していたはずが、つい出た言葉は不平と教訓ばかりだった。
+-   [南宮深](/ja/people/characters/special102)との冷戦期間中、南宮深と[南宮浅](/ja/people/characters/special103)が蒙面人に襲撃されたと聞き、意地を張ることなく慌てて駆けつけた。多くの慰めの言葉を用意していたはずが、つい出た言葉は不平と教訓ばかりだった。
 -   江陵の戦後、[南宮深](/ja/people/characters/special102)に婚約を破棄された。武林大会の時、[南宮深](/ja/people/characters/special102)は既に後悔していたが、上官螢の心はすでに決まっていた。将来どこに行こうとも、二度と南宮世家には戻るまいと思っていた。
 -   肩甲を支持している。肩甲を持つことは非常に立派だと認め、自家の縫い手まで説得したいと思った。高級な衣服を作る客人ほど豪華な肩甲をあつらえさせる。
 
 ## 螢魔
 
--   v1.0.5000.0版本更新後、[唐默鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)と共に下山するシナリオ([山を下りての遠出](/ja/event/simple/1-09-2-下山郊遊))が追加され、幼児好きというイメージが定着した。
--   [唐錚](/ja/people/characters/brother2.md)は彼女の心が不正直だと思い警戒している。しかし彼女が狙っているのは岳王の宝蔵や唐門の技術ではなく、[唐默鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)本人である。
--   最も好むのは小さくて精巧な物事だ。[唐默鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)を見ると堪えられない。その場で連れ去りたいほどだ。彼女たちに姓を改めて上官を名乗らせ、自分の妹として認めさせたい。そうなれば、堂々と左に抱き右に抱いて、毎日脚に抱きついてほおずりをさせ、色鮮やかな衣装を買い与えて毎日着替えさせ、自分の鑑賞用にできるのだ。~~もう可愛い~~
+-   v1.0.5000.0版本更新後、[唐黙鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)と共に下山するシナリオ([山を下りての遠出](/ja/event/simple/1-09-2-下山郊遊))が追加され、幼児好きというイメージが定着した。
+-   [唐錚](/ja/people/characters/brother2.md)は彼女の心が不正直だと思い警戒している。しかし彼女が狙っているのは岳王の宝蔵や唐門の技術ではなく、[唐黙鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)本人である。
+-   最も好むのは小さくて精巧な物事だ。[唐黙鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)を見ると堪えられない。その場で連れ去りたいほどだ。彼女たちに姓を改めて上官を名乗らせ、自分の妹として認めさせたい。そうなれば、堂々と左に抱き右に抱いて、毎日脚に抱きついてほおずりをさせ、色鮮やかな衣装を買い与えて毎日着替えさせ、自分の鑑賞用にできるのだ。~~もう可愛い~~
 -   [葉雲裳](/ja/people/characters/girl2.md)に針治療を施す[唐芳](/ja/people/characters/special832)に敵意を示す。
--   [唐默鈴](/ja/people/characters/girl0.md)や[葉雲裳](/ja/people/characters/girl2.md)に甘い物を買い与えるのを妨害されると、すぐに幇の弟子に[趙活](/ja/people/characters/player)を殴らせる。
+-   [唐黙鈴](/ja/people/characters/girl0.md)や[葉雲裳](/ja/people/characters/girl2.md)に甘い物を買い与えるのを妨害されると、すぐに幇の弟子に[趙活](/ja/people/characters/player)を殴らせる。
 -   公式のクリスマスイラストでも、小女を誘拐するサンタクロースとして描かれている。[^4]
     > ：平安夜をどう過ごす予定か<br>
     > 上官螢：喜びと贈り物を可愛い人に送る。好きな人と共に過ごす🩷<br>
@@ -234,7 +234,7 @@ aside: false
     > ......<br>
     > ........................。<br>
     > 上官螢：そしてこの贈り物の袋を使って KIDNAP！
--   公式の[唐默鈴](/ja/people/characters/girl0.md)の誕生日動画では、唐默鈴の新しい姿があまりに可愛いので、直接本人を福建に誘拐してしまった。その結果、想像力も豊かな父親が唐默鈴を養子にし、直接彼女を唐螢に改名してしまった。[^5]
+-   公式の[唐黙鈴](/ja/people/characters/girl0.md)の誕生日動画では、唐黙鈴の新しい姿があまりに可愛いので、直接本人を福建に誘拐してしまった。その結果、想像力も豊かな父親が唐黙鈴を養子にし、直接彼女を唐螢に改名してしまった。[^5]
 
 ## 備考
 
@@ -249,8 +249,8 @@ aside: false
 -   料理をしない。外出する時はいつも専属の料理人を連れている。[^2]
 -   旅に出た時は従者が皇家専用の献上茶龍鳳団茶を持ってくる。通常は皇帝からの恩賜でもなければ手に入らない。これは隠れて掘り出したものを上官家に献上したのだ。
 -   初生の子牛は虎を畏れず、あえて[唐錚](/ja/people/characters/brother2.md)を老媽子と呼ぶ。
--   [唐默鈴](/ja/people/characters/girl0.md)は寿宴で初めて[上官螢](/ja/people/characters/girl4.md)を見た時、その明るく艶やかで比べようもない姿に心を引かれ、女性でありながら暗かに敬慕の念を抱いた。
--   唐門滞在中、[唐默鈴](/ja/people/characters/girl0.md)を極度に溺愛したため、唐默鈴は[南宮深](/ja/people/characters/special102)が自分を娶ろうとしたのが非常に気に入らなかった。
+-   [唐黙鈴](/ja/people/characters/girl0.md)は寿宴で初めて[上官螢](/ja/people/characters/girl4.md)を見た時、その明るく艶やかで比べようもない姿に心を引かれ、女性でありながら暗かに敬慕の念を抱いた。
+-   唐門滞在中、[唐黙鈴](/ja/people/characters/girl0.md)を極度に溺愛したため、唐黙鈴は[南宮深](/ja/people/characters/special102)が自分を娶ろうとしたのが非常に気に入らなかった。
 -   「ふん……べ、別にアンタのためだけにやったんじゃないんだからね」というような言葉は上官螢は決して言わない。見た目は横暴だが、実は縁を大事にする人だ。ただし気に入らない人には少しも容赦しない。[^3]
 -   <MarkdownWrapper>||生涯最も嫌うのは人の保証人になること。若い時これで大損をし、売られそうになったこともある。||</MarkdownWrapper>
 

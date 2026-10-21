@@ -1,5 +1,5 @@
 ---
-title: 唐默鈴 (トウモクリン)
+title: 唐黙鈴 (トウモクリン)
 tags:
     - 人物
     - 唐門
@@ -14,8 +14,8 @@ aside: false
         <ChMeet 
 			src='/images/characters/girl_0/normal.webp' 
 			nameTitle='小師妹'
-			nameMain='唐默鈴'
-			desc='名は<ruby>默鈴<rt>もくりん</rt></ruby>、<ruby>掌門<rt>しょうもん</rt></ruby>の一人娘、森の小動物のような少女で、性情は淡泊。決して鳴らない七つの鈴を身につけている。<br>趣味は折り紙。'
+			nameMain='唐黙鈴'
+			desc='名は<ruby>黙鈴<rt>もくりん</rt></ruby>、<ruby>掌門<rt>しょうもん</rt></ruby>の一人娘、森の小動物のような少女で、性情は淡泊。決して鳴らない七つの鈴を身につけている。<br>趣味は折り紙。'
 			:animation=true
 		/>
     </ChTab>
@@ -246,7 +246,7 @@ aside: false
   <Tab title="列伝四">
 	<ruby>唐門<rt>とうもん</rt></ruby>で唐姓の者は皆家族だが、<br>あなただけが唐姓ではなく、それでいてとても親しいので、<br>どう分類すればいいのかわからない。
     <br><br>
-    <ruby>默鈴<rt>もくりん</rt></ruby>はあなたに非常に注目するようになった。<br>いつでもあなたの近くにいたいと思い、静かにあなたのそばにいる。
+    <ruby>黙鈴<rt>もくりん</rt></ruby>はあなたに非常に注目するようになった。<br>いつでもあなたの近くにいたいと思い、静かにあなたのそばにいる。
     <br><br>
     彼女の純真な目には容姿の美醜は見えず、ただ単純に安心感を貪っている。<br><ruby>江湖<rt>こうこ</rt></ruby>のことにはあまり関心がなく、山を下りる道さえよくわからないが、<br>自分があなたを慕っていることだけははっきりと知っている。
     <br><br>
@@ -313,7 +313,7 @@ aside: false
 
 -   一見警戒心がないようだが、実は日中から窓の外に座ったまま動かない者でなければ、9割9分は彼女に気づかれる。
 -   江湖で走り回っていない。さらに人と手合わせすることも少ない。実戦経験は浅い。しかし、気を散らさず多年にわたって修練に専念してきた。すでに唐門武学の奥義を垣間見ている。眼識はかなり高い。
--   西武林ルートで[趙活](/ja/people/characters/player)が[譚霸刀](/ja/people/characters/special801)と対戦する時、小師妹が乱入する。3招で霸刀を倒す。返す刀の力もない。霸刀の遺言「唐門当代の最強者は、実は[唐布衣](/ja/people/characters/brother1.md)ではなく……」
+-   西武林ルートで[趙活](/ja/people/characters/player)が[譚覇刀](/ja/people/characters/special801)と対戦する時、小師妹が乱入する。3招で覇刀を倒す。返す刀の力もない。覇刀の遺言「唐門当代の最強者は、実は[唐布衣](/ja/people/characters/brother1.md)ではなく……」
 -   練武場で[大師兄](/ja/people/characters/brother1.md)が蹴鞠をしている時、小師妹が参加すれば彼はすぐに負ける。
 -   [大師兄](/ja/people/characters/brother1.md)は彼女の軽功を天下前5位に評価することは可能だと考えている。自分は前10位に評価することに自信がない。聞く所に、「天地無音勢」を全力で発揮する時、まるで1人が3体に分かれたようだという。
 -   小師妹の無定飛梭は滞空と変速の特性を持つため、相手より後に繰り出しても、命中では相手を出し抜いて先んじることができる。[^8]
@@ -341,7 +341,7 @@ aside: false
 -   生まれつき小動物の属性を持ち、さらに[唐門](/ja/people/factions/tang-men)が貧困で食事が悪かった。黄金の成長期を逃してしまい、再び背が伸びるのは非常に難しい。
 -   食べ飽きるという概念がない。普段は甘いものを食べる機会も少ない。一度食べられるようになれば、絶えず口に詰め込み、寝るまで続く。もし誰も管理せずにずっと食べさせたら、いずれ3倍大きい人になるかもしれない。[^1]
 -   第一年で[趙活](/ja/people/characters/player)が倒れた時、[三師兄](/ja/people/characters/brother3.md)は小師妹はもう<ruby>及笄<rt>きゅうけい</rt></ruby>（数え15歳を迎えた成人の証に髪を結い上げる儀礼）を済ませた花のような乙女になったと言った。それで15歳と推測される。
--   滅門ルートで[夏霊犀](/ja/people/characters/special825)に小綿羊と呼ばれ、西武林ルートで[四師兄](/ja/people/characters/brother4.md)が全身の血だらけの服を見て「狂暴小綿羊」と呼ぶ。[葉雲裳](/ja/people/characters/girl2.md)も「羊は默鈴。私はイタチ」と言った。
+-   滅門ルートで[夏霊犀](/ja/people/characters/special825)に小綿羊と呼ばれ、西武林ルートで[四師兄](/ja/people/characters/brother4.md)が全身の血だらけの服を見て「狂暴小綿羊」と呼ぶ。[葉雲裳](/ja/people/characters/girl2.md)も「羊は黙鈴。私はイタチ」と言った。
 -   寒冷を恐れている。[^3]
 -   絵を描くのが下手。[劉顎](/ja/people/characters/special1)に笑われて、彫刻して壁画にして、古代遺跡と偽ろうとする。
 -   歌唱は大きく外れる。小師妹は羞恥心が強く、人前ではあまり歌わない。また嘲笑されるのを恐れる。だから[趙活](/ja/people/characters/player)が独占している。[^4][^5]
@@ -363,7 +363,7 @@ aside: false
 [^5]: バハムート - [RE:【心得】趙活の日常生活を見たら、本当に「これは俺が」と言えない](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12057&subbsn=1&bPage=0)
 [^6]: Facebook - [オリジナル鳥熊2023/3/24](https://www.facebook.com/obbstudio/posts/pfbid0RtthSh7drDNiXYqEPRvK9Mvd5ngMuBQJxCVqfE7PyCxKZfy3QqHZTi97TSfMmWeQl)
 [^7]: Facebook - [オリジナル鳥熊2024/2/5](https://www.facebook.com/obbstudio/posts/pfbid0345ukMDW1MtXHXFDAegFGKnPSZ6Ypq2gcoLq2TgEeskhyHQzGeEuywWRtu4nC5mpTl)
-[^8]: バハムート - [【文字専訪】専訪鳥熊鼠虫~129題超長訪談（施工完畢）（更新至8~9樓）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=4070&bpage=1&ltype=)
+[^8]: バハムート - [【文字専訪】専訪鳥熊鼠虫~129題超長訪談（施工完畢）（更新至8~9楼）](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=4070&bpage=1&ltype=)
 [^9]: Facebook - [オリジナル鳥熊2022/6/6のコメント](https://www.facebook.com/share/1JwNeWNVFq/)
 
 ## ギャラリー

@@ -80,7 +80,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [唐默鈴](/ja/people/characters/girl0.md) (小師妹)
+                    [唐黙鈴](/ja/people/characters/girl0.md) (小師妹)
                 </ChTd>
             </ChTr>
             <ChTr>

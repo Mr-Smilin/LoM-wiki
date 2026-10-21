@@ -80,7 +80,7 @@ tags:
         <td>勇気</td>
         <td>-</td>
         <td>初期気力をさらに増加</td>
-        <td><MarkdownWrapper>[唐默鈴](/ja/people/characters/girl0)</MarkdownWrapper>ルート選択肢。比武招親当日に追いかけることを選択。
+        <td><MarkdownWrapper>[唐黙鈴](/ja/people/characters/girl0)</MarkdownWrapper>ルート選択肢。比武招親当日に追いかけることを選択。
 <br>無薬可救の故事(体験版ルート)で、石幇主にプレゼントを送った後、喧嘩を選択</td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@ tags:
 <br>龍湘があなたの攻撃を受けたり怒った後、この技能は消えます</td>
     </tr>
     <tr>
-        <td>玄黃納心綱</td>
+        <td>玄黄納心綱</td>
         <td>-</td>
         <td>説明なし</td>
         <td>夏侯蘭ルートで内功伝授を受け入れる</td>
@@ -143,7 +143,7 @@ tags:
         <td>-</td>
         <td>防護罩のような状態がある時、自身の拳掌を上昇させ、追加ブロック率を持つ</td>
         <td><MarkdownWrapper>[《玄玄如意指》](/ja/system/books/book_4004)</MarkdownWrapper>
-<br>龍湘拜堂イベント（※龍湘の想い人専属イベント）で「湘姉、俺が君の仇をとってやる」を選択。勝利または一定ターン数の経過で獲得。</td>
+<br>龍湘拝堂イベント（※龍湘の想い人専属イベント）で「湘姉、俺が君の仇をとってやる」を選択。勝利または一定ターン数の経過で獲得。</td>
     </tr>
     <tr>
         <td>龍淵七絶</td>
@@ -185,7 +185,7 @@ tags:
         <td>構える時、最大血量に基づいて回復（1級2%）、最大10%
 <br>追加で毒・麻蓄積値を代謝
 <br>シナリオ分岐に影響</td>
-        <td>▲秘笈<MarkdownWrapper>[《五毒秘録》](/ja/system/books/book_3020)</MarkdownWrapper><MarkdownWrapper>[《温陽活血符》](/ja/system/books/book_8100)</MarkdownWrapper><MarkdownWrapper>[《備急千金要方》](/ja/system/books/book_8101)</MarkdownWrapper><MarkdownWrapper>[《傷寒雑病論》](/ja/system/books/book_8102)</MarkdownWrapper><MarkdownWrapper>[《太平聖惠方》](/ja/system/books/book_8106)</MarkdownWrapper><MarkdownWrapper>[《南宮武備論》](/ja/system/books/book_8010)</MarkdownWrapper><MarkdownWrapper>[《唐門薬典》](/ja/system/books/book_8104)</MarkdownWrapper><MarkdownWrapper>[《八仙指》](/ja/system/books/book_6012)</MarkdownWrapper><MarkdownWrapper>[《難経》](/ja/system/books/book_8107)</MarkdownWrapper>
+        <td>▲秘笈<MarkdownWrapper>[《五毒秘録》](/ja/system/books/book_3020)</MarkdownWrapper><MarkdownWrapper>[《温陽活血符》](/ja/system/books/book_8100)</MarkdownWrapper><MarkdownWrapper>[《備急千金要方》](/ja/system/books/book_8101)</MarkdownWrapper><MarkdownWrapper>[《傷寒雑病論》](/ja/system/books/book_8102)</MarkdownWrapper><MarkdownWrapper>[《太平聖恵方》](/ja/system/books/book_8106)</MarkdownWrapper><MarkdownWrapper>[《南宮武備論》](/ja/system/books/book_8010)</MarkdownWrapper><MarkdownWrapper>[《唐門薬典》](/ja/system/books/book_8104)</MarkdownWrapper><MarkdownWrapper>[《八仙指》](/ja/system/books/book_6012)</MarkdownWrapper><MarkdownWrapper>[《難経》](/ja/system/books/book_8107)</MarkdownWrapper>
 <br>▲1年南宮寿宴ギフト選択で唐布衣の提議を選択。<MarkdownWrapper>[唐錚](/ja/people/characters/brother2)</MarkdownWrapper>好感度3星以上・医術なし、千金方で働く
 <br>▲2年不留学千面人イベント（医術Lv1またはLv2が必要）</td>
     </tr>
@@ -288,7 +288,7 @@ tags:
         <td>疾如風</td>
         <td>-</td>
         <td>戦術LVに基づいて軽功を上昇（毎級+2 or 2%）</td>
-        <td><MarkdownWrapper>[《逍遙遊腿法》](/ja/system/books/book_4020)</MarkdownWrapper><br><MarkdownWrapper>[《流星剣譜》](/ja/system/books/book_2001)</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[《逍遥遊腿法》](/ja/system/books/book_4020)</MarkdownWrapper><br><MarkdownWrapper>[《流星剣譜》](/ja/system/books/book_2001)</MarkdownWrapper></td>
     </tr>
     <tr>
         <td>徐如林</td>

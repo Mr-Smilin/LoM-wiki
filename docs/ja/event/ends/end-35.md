@@ -48,7 +48,7 @@ tags:
 ### 西武林盟
 1. 3年目12月上旬に行動が1回残っている時、[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)で**西武林盟**シナリオに進む。
 2. 4年目2月中旬に行動が2回残っている時、西武林大会後に[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)が始まる：
-   + <Girl0Icon>唐默鈴</Girl0Icon>と結縁していて**📖選択：小師妹に三師兄の護衛を頼む**：<Girl0Icon>唐默鈴</Girl0Icon>が唐門大院を守る。
+   + <Girl0Icon>唐黙鈴</Girl0Icon>と結縁していて**📖選択：小師妹に三師兄の護衛を頼む**：<Girl0Icon>唐黙鈴</Girl0Icon>が唐門大院を守る。
    + **📜議題：決闘：三師兄の護衛**：
      1. 🆚2人の刺客と決闘、勝利が必要。
      2. **🎲運命：武林盟の消耗……**(上限50、➕加値：(西武林盟の)団結、➖減値：(武林盟の)団結、その他多様な調整値)：
@@ -78,15 +78,15 @@ tags:
      2. 最初の⚔️戦役の勝敗は問わない、**📜議題：決断の時間**：**📖選択：兵を二手に分け、片方は外堡で守り、片方は大院で決戦準備**。
      3. **🎲運命：武林盟の消耗……**(上限60、➕加値：(西武林盟の)団結、➖減値：(武林盟の)団結、その他多様な調整値)：
         + 調整値リストと条件：
-          - ➕小師妹 10：<Girl0Icon>唐默鈴</Girl0Icon>が唐門大院を守る。
+          - ➕小師妹 10：<Girl0Icon>唐黙鈴</Girl0Icon>が唐門大院を守る。
           - ➕嵩山十八銅人 20：[福韞](/ja/people/characters/special206)が唐門に入門。
           - ➕画中仙 10：錦香宮が西武林盟を支援。
      - <span style='color: Red;'>未確認</span>：青城派が西武林盟を支援、[虞小梅](/ja/people/characters/girl3)と結縁。
         + **🧾【＜30】唐門の大勢が決した**または**🧾【＜65】戦況が激しい**：
-          + <Girl5Icon>夏侯蘭</Girl5Icon>または<Girl8Icon>龍湘</Girl8Icon>と結縁：🆚決闘：[南宮深](/ja/people/characters/special102)決闘、敗戦後に[飛俠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)を満たさず且つ[南宮深](/ja/people/characters/special102)好感度＜20の場合、エンディング進入。
+          + <Girl5Icon>夏侯蘭</Girl5Icon>または<Girl8Icon>龍湘</Girl8Icon>と結縁：🆚決闘：[南宮深](/ja/people/characters/special102)決闘、敗戦後に[飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)を満たさず且つ[南宮深](/ja/people/characters/special102)好感度＜20の場合、エンディング進入。
           + 上記の条件を満たさない場合：**🎲運命：お前の対手は……**(上限99、➕加値：[南宮深](/ja/people/characters/special102)好感度、➖減値：<Girl4Icon>上官螢</Girl4Icon>好感度)：
             1. **🧾【＜70】南宮深（鳳凰肩甲）**
-            2. 🆚決闘：[南宮深](/ja/people/characters/special102)、敗戦後に[飛俠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)を満たさず且つ[南宮深](/ja/people/characters/special102)好感度＜20の場合、エンディング進入。
+            2. 🆚決闘：[南宮深](/ja/people/characters/special102)、敗戦後に[飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)を満たさず且つ[南宮深](/ja/people/characters/special102)好感度＜20の場合、エンディング進入。
         + **🧾【≧65】来るのが間に合った**：⚔️戦役、完全に打ちのめされて且つ[南宮深](/ja/people/characters/special102)好感度＜20を満たす場合、エンディング進入。
 
 
@@ -95,19 +95,19 @@ tags:
 ### 結縁対象
 結縁対象により異なるエンディングが生じ、伝説テキストに影響する。
 + <Girl8Icon>龍湘</Girl8Icon>：主人公と共に戦死。
-+ <Girl0Icon>唐默鈴</Girl0Icon>：非常に切ない<Girl0Icon>唐默鈴</Girl0Icon>が独り生き残る。
++ <Girl0Icon>唐黙鈴</Girl0Icon>：非常に切ない<Girl0Icon>唐黙鈴</Girl0Icon>が独り生き残る。
 + <Girl5Icon>夏侯蘭</Girl5Icon>：[樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門しているかどうかで2つのシナリオに分かれ、伝説テキストに影響する。
   + [樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に入門：主人公の屍体を雪山に持って帰り安葬し、[樊咲嫣](/ja/people/characters/special4)が嫁ぐまで待った後、失踪。
   + 上記の条件を満たさない場合：主人公の屍体を雪山に持って帰り安葬し、生涯墓を守る。
 
-<br>※壮烈なる就義エンディング結縁優先度(v1.0.3201.1)：<Girl8Icon>龍湘</Girl8Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+<br>※壮烈なる就義エンディング結縁優先度(v1.0.3201.1)：<Girl8Icon>龍湘</Girl8Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl0Icon>唐黙鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
 ### 心にかかる対象
 結縁対象がない場合、死ぬ前に心にかかる対象に会いたいと思う。伝説テキストに影響しない。
 
 ### 唐門に入門した成員
 + [葉雲舟](/ja/people/characters/special3)：未確認
-+ [樊嘯天](/ja/people/characters/special4)：<Girl8Icon>龍湘</Girl8Icon>、<Girl4Icon>上官螢</Girl4Icon>、<Girl3Icon>虞小梅</Girl3Icon>、<Girl6Icon>郁竹</Girl6Icon>と結縁しておらず、且つ[樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に拜師していない場合、戦死シナリオが追加。伝説テキストに影響しない。
++ [樊嘯天](/ja/people/characters/special4)：<Girl8Icon>龍湘</Girl8Icon>、<Girl4Icon>上官螢</Girl4Icon>、<Girl3Icon>虞小梅</Girl3Icon>、<Girl6Icon>郁竹</Girl6Icon>と結縁しておらず、且つ[樊嘯天](/ja/people/characters/special4)が<Girl5Icon>夏侯蘭</Girl5Icon>に拝師していない場合、戦死シナリオが追加。伝説テキストに影響しない。
 
 ### 点蒼剣鬼
 (推論)<Girl2Icon>葉雲裳</Girl2Icon>が唐門に残りながら死亡した場合、点蒼剣鬼になった[葉雲舟](/ja/people/characters/special3)が到着して戦死する可能性がある。

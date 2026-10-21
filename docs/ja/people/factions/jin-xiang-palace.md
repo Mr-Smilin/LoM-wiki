@@ -103,7 +103,7 @@ tags:
 <br><br>
 三妻四妾は礼教が許しても、錦香宮は許さない。人の心を踏みにじる輩は、みな惜花令に名を残すことになる。
 <br><br>
-[龍湘](/ja/people/characters/girl8)の名簿を例にとれば、破廟事件の陳序公子、そして[唐門](/ja/people/factions/tang-men)の[飛俠](/ja/people/characters/brother1)が載っている。
+[龍湘](/ja/people/characters/girl8)の名簿を例にとれば、破廟事件の陳序公子、そして[唐門](/ja/people/factions/tang-men)の[飛侠](/ja/people/characters/brother1)が載っている。
 
 ## 風雨山の変
 
@@ -111,7 +111,7 @@ tags:
 
 朝廷が[上官家](/ja/people/factions/shang-guan-family)の手を借りて武林に介入したため、錦香宮だけが超然としていることは、もはや不可能となった。そこで[温夫人](/ja/people/characters/special402)は風雨山武林大会での錦香宮解散を決意し、行き場のない者がいれば[趙活](/ja/people/characters/player)に頼んで[唐門](/ja/people/factions/tang-men)に引き取ってもらうことにした。
 <br><br>
-大会で解散を宣言したそのとき、[南宮世家](/ja/people/factions/nan-gong-family)の二公子[南宮淺](/ja/people/characters/special103)が[丐幇](/ja/people/factions/beggar-gang)の密書を手に、[温夫人](/ja/people/characters/special402)こそ泥教人間道法王であると衆人の前で告発した。錦香宮は江湖に身を立てて以来、善行では人後に落ちなかったにもかかわらず、泥教と関わりがあると聞くや、江湖の人々は我先にと関係を絶ち、殺してしまえと息巻いた。
+大会で解散を宣言したそのとき、[南宮世家](/ja/people/factions/nan-gong-family)の二公子[南宮浅](/ja/people/characters/special103)が[丐幇](/ja/people/factions/beggar-gang)の密書を手に、[温夫人](/ja/people/characters/special402)こそ泥教人間道法王であると衆人の前で告発した。錦香宮は江湖に身を立てて以来、善行では人後に落ちなかったにもかかわらず、泥教と関わりがあると聞くや、江湖の人々は我先にと関係を絶ち、殺してしまえと息巻いた。
 <br><br>
 これを見た錦香宮人は直ちに風后陣を結んだ。この陣は三国の名宰相諸葛亮が推演した《八陣図》から発展したもので、陣眼が定まれば絶え間なく流転し、一人が剣を出せば八方の宮人が互いの後詰めとなる。かくして正道武林と互角に渡り合った。[温夫人](/ja/people/characters/special402)は[南宮深](/ja/people/characters/special102)と[上官隼](/ja/people/characters/special407)を陣中に招いて交渉し、朝廷への帰順を願い出た。だが岳州通判が飛び出してきて声高に制止し、交渉は決裂した。
 <br><br>

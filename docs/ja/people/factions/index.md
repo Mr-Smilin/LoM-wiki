@@ -72,8 +72,44 @@ tags:
 -   [雪山派](/ja/people/factions/mount-snow-sect)
 -   [孤雲山派](/ja/people/factions/mount-guyun-sect)
 -   [杏花林](/ja/people/factions/apricot-forest)
--   [耕陽読書齋](/ja/people/factions/geng-yang-study)
+-   [耕陽読書斎](/ja/people/factions/geng-yang-study)
 -   [嶺南派](/ja/people/factions/lingnan-sect)
+
+## ゲーム内の大地図
+
+物語の旅の場面で表示される地図です。絵はページ冒頭の江湖行旅図と同じで、地名はゲーム内の表示どおりの位置・大きさ・縦書きで入れています。表記は日本語化 MOD の訳です。
+
+![ゲーム内の大地図](/images/factions/map_ingame_ja.webp)
+
+| 地図の表記 | 原文 | 陣営ページ |
+| --- | --- | --- |
+| 唐門 | 唐門 | [唐門](/ja/people/factions/tang-men) |
+| 点蒼 | 點蒼 | [点蒼派](/ja/people/factions/dian-cang-sect) |
+| 青城 | 青城 | [青城派](/ja/people/factions/qing-cheng-sect) |
+| 峨眉 | 峨嵋 | [峨嵋派](/ja/people/factions/emei-sect) |
+| 全真 | 全真 | [全真教](/ja/people/factions/quan-zhen-sect) |
+| 崆峒 | 崆峒 | [崆峒派](/ja/people/factions/kong-tong-sect) |
+| 嵩山 | 嵩山 | [嵩山派](/ja/people/factions/mount-song-sect) |
+| 六道峡 | 六道峽 |  |
+| 江陵 | 江陵 |  |
+| 江陵府 | 江陵府 |  |
+| 襄陽 | 襄陽 |  |
+| 南陽 | 南陽 |  |
+| 錦香宮 | 錦香宮 | [錦香宮](/ja/people/factions/jin-xiang-palace) |
+| 南嵩山 | 南嵩山 |  |
+| 福建 | 福建 |  |
+| 雪山 | 雪山 | [雪山派](/ja/people/factions/mount-snow-sect) |
+| 火焔山剣閣 | 火炎山劍閣 | [火炎山剣閣](/ja/people/factions/mount-fire-palace) |
+
+江湖行旅図とは、地名の付け方が次の点で違います。
+
+-   江湖行旅図にだけある地名: 洛陽・長安・成都・臨安・福州・広州・上官・南宮
+-   ゲーム内の地図にだけある地名: 雪山・江陵府・福建
+-   東の端の大きな城郭都市は、江湖行旅図では「臨安」、ゲーム内の地図では「江陵府」と書かれています。
+
+ゲームの地図データには、旅の場面で使う経路 (赤線) と停留点 (丸) も入っています。赤丸は唐門・江陵・錦香宮・点蒼・青城・雪山・崆峒・全真・六道峡・嵩山・峨眉・襄陽・臥雲崗の 13 か所で、白丸は経路の途中の点です。臥雲崗には地名の表示がありませんが、停留点はあります。
+
+![ゲーム内の大地図 (経路と停留点)](/images/factions/map_ingame_routes_ja.webp)
 
 ## 旧設定
 

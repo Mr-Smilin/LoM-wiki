@@ -65,12 +65,12 @@ tags:
             <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
-        <td><Girl0Icon :size="`medium`" href="/ja/people/characters/girl0">唐默鈴</Girl0Icon></td>
+        <td><Girl0Icon :size="`medium`" href="/ja/people/characters/girl0">唐黙鈴</Girl0Icon></td>
         <td>0</td>
         <td>小柄で可愛らしい</td>
         <td>大人しくて従順</td>
         <td>無垢な心の持ち主</td>
-        <td><MarkdownWrapper>[〈唐默鈴結縁攻略〉](/ja/event/pursuit/girl0)</MarkdownWrapper>を参照
+        <td><MarkdownWrapper>[〈唐黙鈴結縁攻略〉](/ja/event/pursuit/girl0)</MarkdownWrapper>を参照
             <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
@@ -109,7 +109,7 @@ tags:
 
 ## 備考
 
-- 現在攻略可能なキャラクター (v6000) は[唐默鈴](/ja/people/characters/girl0)・[夏侯蘭](/ja/people/characters/girl5)・[龍湘](/ja/people/characters/girl8)・[葉雲裳](/ja/people/characters/girl2)・[虞小梅](/ja/people/characters/girl3)・[郁竹](/ja/people/characters/girl6)。
+- 現在攻略可能なキャラクター (v6000) は[唐黙鈴](/ja/people/characters/girl0)・[夏侯蘭](/ja/people/characters/girl5)・[龍湘](/ja/people/characters/girl8)・[葉雲裳](/ja/people/characters/girl2)・[虞小梅](/ja/people/characters/girl3)・[郁竹](/ja/people/characters/girl6)。
 - 更新予定順：第一に[葉雲裳](/ja/people/characters/girl2)、第二に[虞小梅](/ja/people/characters/girl3)と[郁竹](/ja/people/characters/girl6)、第三に[魏菊](/ja/people/characters/girl7)と[上官螢](/ja/people/characters/girl4)。[^1]
 - 八人のヒロインの部分が完成した後、[瑞杏](/ja/people/characters/girl1)の無料DLCを計画している。[^1]
 - あの時代、女性は長い髪こそ美しいとされた。[^2]

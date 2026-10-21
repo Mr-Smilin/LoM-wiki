@@ -88,7 +88,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [唐默鈴](/ja/people/characters/girl0.md) (異父妹妹)
+                    [唐黙鈴](/ja/people/characters/girl0.md) (異父妹妹)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -115,7 +115,7 @@ aside: false
 
 <br>
 
-しかし唯一小師妹の[唐默鈴](/ja/people/characters/girl0.md)だけは、彼を恐れず、むしろ二師兄を信頼している。
+しかし唯一小師妹の[唐黙鈴](/ja/people/characters/girl0.md)だけは、彼を恐れず、むしろ二師兄を信頼している。
 
 <div style="clear:both;"></div>
 
@@ -141,7 +141,7 @@ aside: false
     <br><br>
     使命を忘れたわけではないが、心はとうに<ruby>泥教<rt>でいきょう</rt></ruby>ではなく、<ruby>泥教<rt>でいきょう</rt></ruby>の特使に対しては従っているフリをしているだけで、あらゆる手を尽くして<ruby>唐門<rt>とうもん</rt></ruby>を守ろうとしている。<br><ruby>掌門<rt>しょうもん</rt></ruby>の病気のため古今の典籍を読み漁り、<ruby>大師兄<rt>だいしけい</rt></ruby>が<ruby>掌門<rt>しょうもん</rt></ruby>の寵愛を受けていることに深く嫉妬している。
     <br><br>
-    <ruby>小師妹<rt>しょうしまい</rt></ruby>の<ruby>默鈴<rt>もくりん</rt></ruby>とは異父兄妹の関係であり、口は悪いが、この異父妹を非常に溺愛している。
+    <ruby>小師妹<rt>しょうしまい</rt></ruby>の<ruby>黙鈴<rt>もくりん</rt></ruby>とは異父兄妹の関係であり、口は悪いが、この異父妹を非常に溺愛している。
 </Tab>
 </Tabs>
 

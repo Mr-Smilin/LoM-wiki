@@ -45,7 +45,7 @@ aside: false
                     称号
                 </ChTd>
                 <ChTd>
-                    三師兄<br>唐三俠<br>儒俠
+                    三師兄<br>唐三侠<br>儒侠
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -80,7 +80,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [唐默鈴](/ja/people/characters/girl0.md) (小師妹)
+                    [唐黙鈴](/ja/people/characters/girl0.md) (小師妹)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -127,7 +127,7 @@ aside: false
 	彼はかつて<ruby>大宋<rt>たいそう</rt></ruby>の皇帝に謁見したことがある。
     <br><br>「我に国を安定させる策、基盤を固める略、健康にするの方、敵を破る計あり、ただ<ruby>奸臣<rt>かんしん</rt></ruby>を排除すべし。」<br><ruby>科挙<rt>かきょ</rt></ruby>に合格し皇帝に謁見した時にこう諫言したが、皇帝に纏わる権力者の怒りを買った。<br>これにより、根拠のない罪名で投獄され、故郷の両親、妻は皆非業の死を遂げた。
     <br><br>
-    獄中で数十日も慟哭したが、刑場に送られる時、<br>二人の少年弟子を率いた<ruby>唐中翎<rt>とうちゅうれい</rt></ruby>により救出された。<br>「<ruby>郷里<rt>きょうり</rt></ruby>の長老たちは皆聞け、この者は<ruby>天下<rt>てんか</rt></ruby>の民の安眠のために獄に閉じこめられたゆえ、<br>彼こそが<ruby>天下<rt>てんか</rt></ruby>第一の大俠である。しかと記憶せよ！」<br><ruby>唐中翎<rt>とうちゅうれい</rt></ruby>はこう言った。その言葉は心底に深く刻まれ、今も忘れ難い。
+    獄中で数十日も慟哭したが、刑場に送られる時、<br>二人の少年弟子を率いた<ruby>唐中翎<rt>とうちゅうれい</rt></ruby>により救出された。<br>「<ruby>郷里<rt>きょうり</rt></ruby>の長老たちは皆聞け、この者は<ruby>天下<rt>てんか</rt></ruby>の民の安眠のために獄に閉じこめられたゆえ、<br>彼こそが<ruby>天下<rt>てんか</rt></ruby>第一の大侠である。しかと記憶せよ！」<br><ruby>唐中翎<rt>とうちゅうれい</rt></ruby>はこう言った。その言葉は心底に深く刻まれ、今も忘れ難い。
   </Tab>
 </Tabs>
 
@@ -150,7 +150,7 @@ aside: false
 -   毎回[大師兄](/ja/people/characters/brother1.md)が下山するたびに、心配でたまらず、彼がいつか嫁さんを連れて帰ってこないかと深く心配している。
 -   [葉雲裳](/ja/people/characters/girl2.md)に爺爺と呼ばれている。
 
-[^1]: PTT C 洽 - [\[活俠\] 龍湘與奇怪的小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
+[^1]: PTT C 洽 - [\[活俠\] 龍湘与奇怪的小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
 [^2]: バハムート - [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^3]: Facebook - [オリジナル鳥熊2023/3/24](https://www.facebook.com/photo.php?fbid=227827013104015&set=p.227827013104015&type=3)
 [^4]: Facebook - [オリジナル鳥熊2022/6/10](https://www.facebook.com/obbstudio/posts/pfbid02MXCJHSKuyf2njkZ3BT2Qtmx1HD6sjDJdWLx8sbmbKQ5BbiHLwQEjoDcGFo9CRqBQl)

@@ -12,9 +12,9 @@ aside: false
     <ChTab title="初識">
         <ChMeet 
 			src='/images/characters/brother1/normal.webp' 
-			nameTitle='飛俠'
+			nameTitle='飛侠'
 			nameMain='唐布衣'
-			desc='名は<ruby>布衣<rt>ふい</rt></ruby>、<ruby>唐門<rt>とうもん</rt></ruby>第一の大弟子。<br>天資聡明にして豪放不羈、<ruby>江湖<rt>こうこ</rt></ruby>では「<ruby>飛俠<rt>ひきょう</rt></ruby>」と称される。<br><ruby>暗器<rt>あんき</rt></ruby>、<ruby>軽功<rt>けいこう</rt></ruby>の造詣は共に当代一流の境地に達している。'
+			desc='名は<ruby>布衣<rt>ふい</rt></ruby>、<ruby>唐門<rt>とうもん</rt></ruby>第一の大弟子。<br>天資聡明にして豪放不羈、<ruby>江湖<rt>こうこ</rt></ruby>では「<ruby>飛侠<rt>ひきょう</rt></ruby>」と称される。<br><ruby>暗器<rt>あんき</rt></ruby>、<ruby>軽功<rt>けいこう</rt></ruby>の造詣は共に当代一流の境地に達している。'
 			:animation=true
 		/>
     </ChTab>
@@ -53,7 +53,7 @@ aside: false
                     称号
                 </ChTd>
                 <ChTd>
-                    飛俠<br>大師兄<br>小賤人
+                    飛侠<br>大師兄<br>小賤人
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -88,7 +88,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [唐默鈴](/ja/people/characters/girl0) (小師妹)
+                    [唐黙鈴](/ja/people/characters/girl0) (小師妹)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -107,7 +107,7 @@ aside: false
 
 > 「<ruby>師弟<rt>してい</rt></ruby>、やあ、<ruby>師弟<rt>してい</rt></ruby>、やあ！やあ！<ruby>師弟<rt>してい</rt></ruby>！」
 
-唐門の大師兄。江湖で最も名高い英俊な俠客の一人。風流であり、武功も高い。人は飛俠と呼ぶ。
+唐門の大師兄。江湖で最も名高い英俊な侠客の一人。風流であり、武功も高い。人は飛侠と呼ぶ。
 
 <br>
 
@@ -115,7 +115,7 @@ aside: false
 
 <br>
 
-小さい頃から[唐默鈴](/ja/people/characters/girl0)小師妹と一緒に育ち、師兄妹の感情は深い。[趙活](/ja/people/characters/player)との付き合いも良い。
+小さい頃から[唐黙鈴](/ja/people/characters/girl0)小師妹と一緒に育ち、師兄妹の感情は深い。[趙活](/ja/people/characters/player)との付き合いも良い。
 
 <br>
 
@@ -127,9 +127,9 @@ aside: false
 
 <Tabs>
   <Tab title="列伝一">
-	<ruby>唐門<rt>とうもん</rt></ruby>第一の大弟子。<br><ruby>武林<rt>ぶりん</rt></ruby>において最も声望高き若き俠客の一人。<br>放蕩不羈にして豪放磊落、小事に拘らぬ性格。
+	<ruby>唐門<rt>とうもん</rt></ruby>第一の大弟子。<br><ruby>武林<rt>ぶりん</rt></ruby>において最も声望高き若き侠客の一人。<br>放蕩不羈にして豪放磊落、小事に拘らぬ性格。
     <br><br>
-    かつて不正を聞きつけては山を下り、省を越えて汚職役人を討ち、<br>倉を開いて民を救い、事を終えては風のように去った。<br>また美人の芳名を慕い、千里を遠しとせず<ruby>逢瀬<rt>おうせ</rt></ruby>を求め、<br>一面の縁の後、また消息を絶ち、薄情の名を残した。<br>来去すること風の如く、<ruby>江湖<rt>こうこ</rt></ruby>では<ruby>飛俠<rt>ひきょう</rt></ruby>と称される。
+    かつて不正を聞きつけては山を下り、省を越えて汚職役人を討ち、<br>倉を開いて民を救い、事を終えては風のように去った。<br>また美人の芳名を慕い、千里を遠しとせず<ruby>逢瀬<rt>おうせ</rt></ruby>を求め、<br>一面の縁の後、また消息を絶ち、薄情の名を残した。<br>来去すること風の如く、<ruby>江湖<rt>こうこ</rt></ruby>では<ruby>飛侠<rt>ひきょう</rt></ruby>と称される。
     <br><br>
     <ruby>唐門<rt>とうもん</rt></ruby>の内外の弟子を差別する<ruby>陋習<rt>ろうしゅう</rt></ruby>を鼻で笑い、<br>常に<ruby>外姓<rt>がいせい</rt></ruby>の<ruby>師弟<rt>してい</rt></ruby>たちを唆して怠けたり遊んだりさせ、<br>師匠を怒らせることに非常に長けている。
   </Tab>
@@ -137,7 +137,7 @@ aside: false
 	<ruby>花月楼<rt>かげつろう</rt></ruby>に頻繁に出入りし、大金を湯水のように使うため、<br>
     <ruby>花月楼<rt>かげつろう</rt></ruby>の娘たちから<ruby>楼主<rt>ろうしゅ</rt></ruby>と悪戯気に呼ばれ、女将までもが彼を愛してやまない。
     <br><br>	
-	俠名は遠く轟くが、同時に悪名も高い。<br><ruby>江湖<rt>こうこ</rt></ruby>の者たちは皆この若き英雄を恐れ、かといって罰する名目もないため、自分の妻や娘を厳重に監視するしかない。この男がその心を盗むのではないかと恐れているためだ。
+	侠名は遠く轟くが、同時に悪名も高い。<br><ruby>江湖<rt>こうこ</rt></ruby>の者たちは皆この若き英雄を恐れ、かといって罰する名目もないため、自分の妻や娘を厳重に監視するしかない。この男がその心を盗むのではないかと恐れているためだ。
     <br><br>
     <ruby>小師妹<rt>しょうしまい</rt></ruby>に対しては常に実の妹のように可愛がっており、<br>他に特別な感情はない。
   </Tab>
@@ -154,15 +154,15 @@ aside: false
   </Tab>
 </Tabs>
 
-## 飛俠の帰還
+## 飛侠の帰還
 
-この成就については[飛俠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)イベントページを参照。
+この成就については[飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)イベントページを参照。
 
 ## 事蹟
 
 -   十歳にも満たない頃、[唐中翎](/ja/people/characters/master)掌門、[唐錚](/ja/people/characters/brother2)辣手相公と共に処刑場を襲撃した。
--   かつて[解無塵](/ja/people/characters/special808)、[夏侯蘭](/ja/people/characters/girl5)、及び関外で羊飼いをしていた二人の俠侶（身分は逃兵と捕吏の可能性）五人で旅をし、路見不平にして義を行い、初対面から力比べをし、金朝の力士を打ち破り、高麗の魔教を退け、[嶺南派](/ja/people/factions/lingnan-sect)を東西に倒して回り、最後に[白風峒変亂](/ja/event/stories/白風峒變亂)で[李元棄](/ja/people/characters/special213)極楽左使を力を合わせて倒した。
--   蜀中双秀、飛天雲龍。飛天とは飛俠唐布衣を指し、雲龍とは[解無塵](/ja/people/characters/special808)を指す。現在のところ[解無塵](/ja/people/characters/special808)は二十九勝、三十敗、四十七平手である。だが比べるのは必ずしも武ではなく、大師兄は誰の酒量が強いかを比べたり、続けて誰の方が太っ腹かで比べたりして、酒代を払わない。[^4]
+-   かつて[解無塵](/ja/people/characters/special808)、[夏侯蘭](/ja/people/characters/girl5)、及び関外で羊飼いをしていた二人の侠侶（身分は逃兵と捕吏の可能性）五人で旅をし、路見不平にして義を行い、初対面から力比べをし、金朝の力士を打ち破り、高麗の魔教を退け、[嶺南派](/ja/people/factions/lingnan-sect)を東西に倒して回り、最後に[白風峒変亂](/ja/event/stories/白風峒變亂)で[李元棄](/ja/people/characters/special213)極楽左使を力を合わせて倒した。
+-   蜀中双秀、飛天雲龍。飛天とは飛侠唐布衣を指し、雲龍とは[解無塵](/ja/people/characters/special808)を指す。現在のところ[解無塵](/ja/people/characters/special808)は二十九勝、三十敗、四十七平手である。だが比べるのは必ずしも武ではなく、大師兄は誰の酒量が強いかを比べたり、続けて誰の方が太っ腹かで比べたりして、酒代を払わない。[^4]
 -   勝敗を比べるため、かつて水賊の寨子を占領し、[解無塵](/ja/people/characters/special808)が率いる官兵と十日間抵抗した。その後[唐中翎](/ja/people/characters/master)掌門に痛く打たれ、山に帰して反省させられた。江湖で「綿陽泊事件」と呼ばれている。
 -   [唐錚](/ja/people/characters/brother2)と少年時代、濫りに罪を被せられて朝廷に指名手配されたことがある。
 -   千里を厭わず、[盛雪](/ja/people/characters/other12)の故郷蘇州に赴き、ただ彼女の為に故郷の土一握りを送り届けた。
@@ -175,7 +175,7 @@ aside: false
 -   飛燕流星翎を掌握できなかったため、やむを得ず《九転輪迴大法》を修練し、走火入魔に陥り、内力は進むどころか退いてしまった。全力を出すと抑制できず、過ぎて人を殺し、同時に自分も内傷を負わせてしまった。[^1]
 -   かつて[唐門](/ja/people/factions/tang-men)の秘笈を勝手に改造し、唐門の弟子が暗器を投げる時に人家の銭袋を狙わせた。その為、団戦ではその場に落ちた銭が拾える。
 -   [夏侯蘭](/ja/people/characters/girl5)江湖第一美人と逢いたくて、三度[崆峒派](/ja/people/factions/kong-tong-sect)に闖入し、自ら《登雲踏》を創作した。後に[夏侯蘭](/ja/people/characters/girl5)がこの技を雪山派の《梅梢望月步》と融合させ、秘笈[登雲踏・望月](/ja/system/books/book_6008)として撰述した。
--   飛俠であるが、自ら軽功は天下前十に入らないと考えている。逆に[唐默鈴](/ja/people/characters/girl0)小師妹の軽功は天下前五に入ると考えている。
+-   飛侠であるが、自ら軽功は天下前十に入らないと考えている。逆に[唐黙鈴](/ja/people/characters/girl0)小師妹の軽功は天下前五に入ると考えている。
 -   使う金銭鏢は本物の銭である。初めては節約を旨とする唐家の祖訓に対抗するためだったが、後に反逆的でなくなっても、既に習慣になってしまった。銭好きな[唐惟元](/ja/people/characters/brother4)四師兄に対抗する時は蹴って使う。
 -   唐門の武功は人を攻めるのに奇想天外で、正面対決では利がない。
 -   飲酒や青楼で銭が払えないとき、江湖の鬼蜮の詐死大法を使う。この招後に「確実な絶招」として[石公遠](/ja/people/characters/special7)との対決でも使われた。
@@ -195,7 +195,7 @@ aside: false
 -   唐門の気風がこんなに活き活きしているのは、多くは大師兄の影響である。皆彼の真似をして、分別を持たず、ばかりなことばかり言う。
 -   子供の頃、[唐錚](/ja/people/characters/brother2)二師兄と一緒に師姑の抹胸を取り、それで菓子を詰めた。満一袋詰めて帰ったが、ほめられず、逆にぶん殴られた。この時から[唐錚](/ja/people/characters/brother2)二師兄の眼光は尋常でなくなり、きっと彼を恨むようになったのだろう。
 -   子供の頃、講経堂の本に落書きしたが、[唐錚](/ja/people/characters/brother2)と署名してしまった。だが[唐中翎](/ja/people/characters/master)掌門には騙されなかった。
--   常に[唐默鈴](/ja/people/characters/girl0)小師妹をからかうが、後には小師妹は彼の言葉をもはや信じなくなった。
+-   常に[唐黙鈴](/ja/people/characters/girl0)小師妹をからかうが、後には小師妹は彼の言葉をもはや信じなくなった。
 -   煙火発射装置に狂ったようにそれに薬を詰め込んだり、下手をすると大院全体を炸飛ばしかねない。これらの行為により、発射装置は多年間封印され、西武林停戦の時にようやく世に出た。
 -   [唐中翎](/ja/people/characters/master)掌門に小さい時から打たれ続け、今でも家法杖を恐れている。
 
@@ -207,13 +207,13 @@ aside: false
 
 ## 料理
 
--   料理は心ままで、何を掴んでも鍋に入れる。かつて[趙活](/ja/people/characters/player)の代わりに朝食を準備したが、[唐默鈴](/ja/people/characters/girl0)小師妹が一さじ食べたら動かなくなり、小鈴はずっと音を立てていた。[唐錚](/ja/people/characters/brother2)二師兄は一口食べたら吐き出し、眉をひそめて「この物は毒だ」と言った。
+-   料理は心ままで、何を掴んでも鍋に入れる。かつて[趙活](/ja/people/characters/player)の代わりに朝食を準備したが、[唐黙鈴](/ja/people/characters/girl0)小師妹が一さじ食べたら動かなくなり、小鈴はずっと音を立てていた。[唐錚](/ja/people/characters/brother2)二師兄は一口食べたら吐き出し、眉をひそめて「この物は毒だ」と言った。
 -   [趙活](/ja/people/characters/player)は大師兄の手腕について語った：全鶏の尻に魚を詰め、外側に生搾り果汁を塗ったあの種である。
 
 ## 備考
 
 -   列伝にある実母の病「梅毒」は原文ママ。史実では梅毒の中国伝来は16世紀初頭 (当時は楊梅瘡・広東瘡と呼ばれた) で、本作の舞台である宋代にはまだ存在しない病名。
--   ~~唐門猴俠~~
+-   ~~唐門猴侠~~
 -   鳥熊FBの紹介：[リンク](https://www.facebook.com/photo/?fbid=119387863792734&set=pcb.119387933792727)
 -   刑場破りの時に両人が7～9歳と仮定すれば、[唐惟元](/ja/people/characters/brother4)は翌年の大雪天に拾われたので、年齢は約25～27と推測される。
 -   身長約172。[^7]
@@ -224,7 +224,7 @@ aside: false
 -   玉佩はかつて[唐中翎](/ja/people/characters/master)掌門と[唐鹿](/ja/people/characters/other10)師娘に属していた。掌門の物は大師兄に、師娘の物は[唐錚](/ja/people/characters/brother2)二師兄の手にある。~~定情信物だなあ~~。[出典](https://www.plurk.com/p/3g9a4xb0oh)
 -   金が必要？山賊から奪いに行け！
 -   大師兄が山賊から銭を奪った後は、わざと活路を与え、彼らが体力を回復してから、また打ち掠める。後期に蜀中が是非之地と化すると、緑林好漢はこれを避けることを厭わない。[^2]
--   かつて[唐錚](/ja/people/characters/brother2)二師兄と一緒に小師姑の唐芬（[唐芳](/ja/people/characters/special832)の姉）に片恋していた。大師兄と[趙活](/ja/people/characters/player)がこの段を語る時、二師兄の反応は大きく、突然暴怒して[唐默鈴](/ja/people/characters/girl0)小師妹を脅かした。
+-   かつて[唐錚](/ja/people/characters/brother2)二師兄と一緒に小師姑の唐芬（[唐芳](/ja/people/characters/special832)の姉）に片恋していた。大師兄と[趙活](/ja/people/characters/player)がこの段を語る時、二師兄の反応は大きく、突然暴怒して[唐黙鈴](/ja/people/characters/girl0)小師妹を脅かした。
 -   [唐錚](/ja/people/characters/brother2)二師兄と一緒に成長し、交情は最も古い。かつて関係が非常に親密な時期があり、月試筆試の時、[唐錚](/ja/people/characters/brother2)二師兄は大師兄に自分の答案を写させてくれた。[唐錚](/ja/people/characters/brother2)二師兄の態度が厳しくなったのは、少年大師兄が修行成就して家を出て江湖をさすらい始めた時からのことである。[^5]
 -   大師兄の外号は、当時飛賊をしていた時に、良人[南宮橫](/ja/people/characters/special104)南宮老太爺が彼の汚名を洗い流す為に改字した物である。[^4]
 -   大師兄の海捕令資料夾周辺の文案：[出典](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)

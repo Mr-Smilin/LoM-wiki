@@ -29,7 +29,7 @@ graph TB
     D[魚切り包丁<img src="/LoM-wiki/images/items/swords/icon_sword_11.webp"><br>必要：装備レベル5<br>門派規模2]
     E[玉霄神匕<img src="/LoM-wiki/images/items/swords/icon_sword_21.webp"><br>必要：装備レベル10]
     F[瀝泉短剣<img src="/LoM-wiki/images/items/swords/icon_sword_22.webp"><br>必要：装備レベル10<br>門派規模2]
-    G[金錢劍<img src="/LoM-wiki/images/items/swords/icon_sword_12.webp"><br>必要：装備レベル10]
+    G[金銭剣<img src="/LoM-wiki/images/items/swords/icon_sword_12.webp"><br>必要：装備レベル10]
   end
 
   %% アップグレード矢印（黄色）+ テキスト
@@ -277,7 +277,7 @@ graph TB
   subgraph 煉丹房 - 毒物
     A[赤煉砂<img src="/LoM-wiki/images/items/poisons/icon_poison_01.webp"><br>必要：なし]
     B[烏水仙<img src="/LoM-wiki/images/items/poisons/icon_poison_10.webp"><br>必要：装備レベル5<br>門派規模2]
-    C[三陰蟲草膠<img src="/LoM-wiki/images/items/poisons/icon_poison_11.webp"><br>必要：装備レベル10<br>門派規模2]
+    C[三陰虫草膠<img src="/LoM-wiki/images/items/poisons/icon_poison_11.webp"><br>必要：装備レベル10<br>門派規模2]
     D[彼岸仙香<img src="/LoM-wiki/images/items/poisons/icon_poison_20.webp"><br>必要：装備レベル10<br>門派規模3]
   end
 

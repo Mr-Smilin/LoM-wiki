@@ -36,7 +36,7 @@ tags:
     </tr>
     <tr>
         <td>閻王の使者</td>
-        <td>比武招親で金烏上人を撃破し、追撃して仕留めると獲得<br>唐默鈴ルートでは取得不可</td>
+        <td>比武招親で金烏上人を撃破し、追撃して仕留めると獲得<br>唐黙鈴ルートでは取得不可</td>
     </tr>
     <tr>
         <td>風度翩々たる醜郎君</td>
@@ -70,18 +70,18 @@ tags:
     </tr>
     <tr>
         <td>鋼珠</td>
-        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外號)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲<40】かつ性情≥60</td>
+        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外号)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲<40】かつ性情≥60</td>
     </tr>
     <tr>
         <td>なんでもいい</td>
-        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外號)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲<40】かつ性情<60</td>
+        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外号)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲<40】かつ性情<60</td>
     </tr>
     <tr>
         <td>弾珠侠</td>
-        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外號)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲<75】</td>
+        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外号)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲<75】</td>
     </tr>
     <tr>
         <td>弾星手</td>
-        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外號)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲≥75】</td>
+        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外号)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲≥75】</td>
     </tr>
 </table>

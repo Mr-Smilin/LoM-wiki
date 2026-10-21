@@ -45,7 +45,7 @@ tags:
     { text: '孤雲山派' },
 	{ text: '嶺南派' },
     { text: '杏花林' },
-    { text: '耕陽読書齋' },
+    { text: '耕陽読書斎' },
     { text: 'その他' }
   ]">
 
@@ -82,7 +82,7 @@ tags:
 	<td>蜀中唐門</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[唐默鈴](/ja/people/characters/girl0)</MarkdownWrapper></td>
+	<td><MarkdownWrapper>[唐黙鈴](/ja/people/characters/girl0)</MarkdownWrapper></td>
 	<td>蜀中唐門<br>攻略可能ヒロイン</td>
 </tr>
 <tr>
@@ -178,7 +178,7 @@ tags:
 	<td>全真派</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[丘處機](/ja/people/characters/special209)</MarkdownWrapper></td>
+	<td><MarkdownWrapper>[丘処機](/ja/people/characters/special209)</MarkdownWrapper></td>
 	<td>全真派</td>
 </tr>
 <tr>
@@ -198,7 +198,7 @@ tags:
 	<td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[阿鶴俠](/ja/people/characters/special805)</MarkdownWrapper></td>
+	<td><MarkdownWrapper>[阿鶴侠](/ja/people/characters/special805)</MarkdownWrapper></td>
 	<td>崆峒派 - 飛天門</td>
 </tr>
 <tr>
@@ -247,7 +247,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[魏菊](/ja/people/characters/girl7)</MarkdownWrapper></td>
-	<td>崆峒派 - 玄功門<br>耕陽読書齋<br>攻略可能ヒロイン(未完成)</td>
+	<td>崆峒派 - 玄功門<br>耕陽読書斎<br>攻略可能ヒロイン(未完成)</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[呼延菊](/ja/people/characters/special822)</MarkdownWrapper></td>
@@ -318,7 +318,7 @@ tags:
 	<td>南宮世家</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[南宮淺](/ja/people/characters/special103)</MarkdownWrapper></td>
+	<td><MarkdownWrapper>[南宮浅](/ja/people/characters/special103)</MarkdownWrapper></td>
 	<td>南宮世家</td>
 </tr>
 <tr>
@@ -334,7 +334,7 @@ tags:
 	<td>大宋</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[趙擴](/ja/people/characters/special817)</MarkdownWrapper></td>
+	<td><MarkdownWrapper>[趙拡](/ja/people/characters/special817)</MarkdownWrapper></td>
 	<td>大宋</td>
 </tr>
 <tr>
@@ -434,7 +434,7 @@ tags:
 	<td>その他<br>蜀中唐門</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[譚霸刀](/ja/people/characters/special801)</MarkdownWrapper></td>
+	<td><MarkdownWrapper>[譚覇刀](/ja/people/characters/special801)</MarkdownWrapper></td>
 	<td>その他</td>
 </tr>
 <tr>
@@ -490,7 +490,7 @@ tags:
 	<td>孤雲山派</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[林志恆](/ja/people/characters/lingnan_trainee1)</MarkdownWrapper></td>
+	<td><MarkdownWrapper>[林志恒](/ja/people/characters/lingnan_trainee1)</MarkdownWrapper></td>
 	<td>嶺南派</td>
 </tr>
 <tr>
@@ -498,7 +498,7 @@ tags:
 	<td>嶺南派</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[米欧寬](/ja/people/characters/lingnan_trainee3)</MarkdownWrapper></td>
+	<td><MarkdownWrapper>[米欧寛](/ja/people/characters/lingnan_trainee3)</MarkdownWrapper></td>
 	<td>嶺南派</td>
 </tr>
 <tr>

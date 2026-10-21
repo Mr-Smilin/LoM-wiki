@@ -1,5 +1,5 @@
 ---
-title: 阿鶴俠
+title: 阿鶴侠
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -13,7 +13,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="阿鶴俠">
+	<ChTab title="阿鶴侠">
 		<Ch src='/images/characters/special805/special.webp' position='right'/>
 		<ChName nameZh='阿鶴俠' nameEn='A He Xia' position='right' />
 		<ChTable>
@@ -30,7 +30,7 @@ tags:
 					称号
 				</ChTd>
 				<ChTd>
-					阿鶴俠<br>~~楼梯俠~~
+					阿鶴侠<br>~~楼梯侠~~
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -64,7 +64,7 @@ tags:
 
 ## 備考
 
--   システムが鶴手と小梅を別人として扱っているので、阿鶴俠は実在する！~~申し訳ない、この編集者がたまに顔を出す~~
+-   システムが鶴手と小梅を別人として扱っているので、阿鶴侠は実在する！~~申し訳ない、この編集者がたまに顔を出す~~
 -   鶴手の姿で[火閃電](/ja/people/characters/firebird1)と交流するが、火閃電がすぐに応答しないか、「= =」という表情を作ると、頬を叩かれて叱られる。[^1]
 
 [^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

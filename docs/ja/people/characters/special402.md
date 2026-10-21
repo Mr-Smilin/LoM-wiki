@@ -28,7 +28,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
-					年齡
+					年齢
 				</ChTd>
 				<ChTd>
 					四十多歳
@@ -111,19 +111,19 @@ tags:
 <br><br>
 [奪魄幽蘭](/ja/people/characters/girl5)が現れる前、かつて江湖第一の美女だった。[上官隼](/ja/people/characters/special407)とは子どもの頃からの知り合い。生来放蕩な上官隼はいつも友人を連れて彼女をからかった。楽坊で働く彼女は楽坊の教えから臆病で気が弱く、この富豪の息子が怖かった。大人になると、上官隼は彼女がますます美しく優雅になるのを見て、幾度も楽坊に圧力をかけて人を出すよう要求した。その時に少年[南宮遠](/ja/people/characters/special101)がヒーローよろしく彼女を救い、美しい女性の好意を勝ち取ったのだ。
 <br><br>
-しかし結局のところ、それは一場の夢と消えた。[南宮遠](/ja/people/characters/special101)は親友[温無畏](/ja/people/characters/other13)が傷を負い床に伏せているのを見て心が痛み、恨みを抱いたまま人生を終わるのが耐えられず、迎香を彼に譲った。こうして二十年間の隔絶が続くことになった。[王二壮](/ja/people/characters/special401)はこのため出家して僧になった。[上官隼](/ja/people/characters/special407)も恋愛に心を閉ざした。[温無畏](/ja/people/characters/other13)が亡くなった後、[南宮遠](/ja/people/characters/special101)は錦香閣に彼女を訪ねに来た。よりを戻すことは求めずただ償いを願っているだけだったが、彼女は許さず、迷薬と琴の音で彼の心を乱し、醜い女との関係を持たせて[南宮淺](/ja/people/characters/special103)を生ませたのだ。
+しかし結局のところ、それは一場の夢と消えた。[南宮遠](/ja/people/characters/special101)は親友[温無畏](/ja/people/characters/other13)が傷を負い床に伏せているのを見て心が痛み、恨みを抱いたまま人生を終わるのが耐えられず、迎香を彼に譲った。こうして二十年間の隔絶が続くことになった。[王二壮](/ja/people/characters/special401)はこのため出家して僧になった。[上官隼](/ja/people/characters/special407)も恋愛に心を閉ざした。[温無畏](/ja/people/characters/other13)が亡くなった後、[南宮遠](/ja/people/characters/special101)は錦香閣に彼女を訪ねに来た。よりを戻すことは求めずただ償いを願っているだけだったが、彼女は許さず、迷薬と琴の音で彼の心を乱し、醜い女との関係を持たせて[南宮浅](/ja/people/characters/special103)を生ませたのだ。
 <br><br>
 その後、[龍淵](/ja/people/characters/special2)は片腕を失い隠れて別の名を名乗り、彼女は彼の娘[龍湘](/ja/people/characters/girl8)を弟子に迎えた。[王二壮](/ja/people/characters/special401)は丐幇に入門した後、彼女のもとに戻ってきた。しかし彼女は一生で一人の人しか愛することができず、彼と異性の兄妹の関係を結んだ。
 <br><br>
 [瑞杏](/ja/people/characters/girl1)が十一歳の時、宮殿を師への礼として人心について学ぶことを願い出てきた。彼女はこれに乗じて[錦香宮](/ja/people/factions/jin-xiang-palace)を打ち立てた。たとえ[瑞杏](/ja/people/characters/girl1)が彼女を師と呼んでも、二人の間に師弟としての情はない。
 <br><br>
-実は[泥教](/ja/people/factions/mud-school)の人間道法王だった。武林大会で[南宮淺](/ja/people/characters/special103)に告発されて、[錦香宮](/ja/people/factions/jin-xiang-palace)の名声がどんなに良くても、江湖の偏見を打ち破ることはできなくなった。大勢が去るのを見て、[錦香宮](/ja/people/factions/jin-xiang-palace)を守るために、暗号で[画中仙](/ja/people/characters/special813)に連絡して本当の温夫人として生まれ変わらせ、自分は屍心丹で全宮を支配する魔頭のふりをして、人間道の事をすべて自分の身に背負い、[南宮遠](/ja/people/characters/special101)と一緒に死に、南宮族の墓に埋葬されたのである。
+実は[泥教](/ja/people/factions/mud-school)の人間道法王だった。武林大会で[南宮浅](/ja/people/characters/special103)に告発されて、[錦香宮](/ja/people/factions/jin-xiang-palace)の名声がどんなに良くても、江湖の偏見を打ち破ることはできなくなった。大勢が去るのを見て、[錦香宮](/ja/people/factions/jin-xiang-palace)を守るために、暗号で[画中仙](/ja/people/characters/special813)に連絡して本当の温夫人として生まれ変わらせ、自分は屍心丹で全宮を支配する魔頭のふりをして、人間道の事をすべて自分の身に背負い、[南宮遠](/ja/people/characters/special101)と一緒に死に、南宮族の墓に埋葬されたのである。
 
 ## 南宮遠
 
 -   少年時代には肩甲が好きだと感じ、とても威風堂々だと思っていた。しかし別れた後、肩甲の本質を見抜いて、好きではなくなった。[^2]
--   温夫人と[南宮遠](/ja/people/characters/special101)の感情のもつれは、古龍の『多情剣客無情剣』の李尋歡と林詩音に敬意を払ったものだ。[^3]
--   [南宮淺](/ja/people/characters/special103)は彼女と南宮遠が薬を飲ませて生んだ子どもではないかと思われるが、現在のところこれは[袁無憲](/ja/people/characters/special823)の一方的な言い分にすぎない。
+-   温夫人と[南宮遠](/ja/people/characters/special101)の感情のもつれは、古龍の『多情剣客無情剣』の李尋歓と林詩音に敬意を払ったものだ。[^3]
+-   [南宮浅](/ja/people/characters/special103)は彼女と南宮遠が薬を飲ませて生んだ子どもではないかと思われるが、現在のところこれは[袁無憲](/ja/people/characters/special823)の一方的な言い分にすぎない。
 -   [王二壮](/ja/people/characters/special401)は少年時代、常に[南宮遠](/ja/people/characters/special101)と誰が彼女を笑わせられるかを賭けた。しかし彼女は[南宮遠](/ja/people/characters/special101)にしか笑いかけなかったのだ。
 
 ## 計策

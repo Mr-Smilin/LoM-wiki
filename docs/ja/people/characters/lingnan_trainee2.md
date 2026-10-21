@@ -41,12 +41,12 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [林志恆](/ja/people/characters/lingnan_trainee1) (師兄)
+                    [林志恒](/ja/people/characters/lingnan_trainee1) (師兄)
                 </ChTd>
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [米欧寬](/ja/people/characters/lingnan_trainee3) (同門)
+                    [米欧寛](/ja/people/characters/lingnan_trainee3) (同門)
                 </ChTd>
             </ChTr>
             <ChTr>

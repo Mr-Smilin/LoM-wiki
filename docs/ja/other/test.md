@@ -256,7 +256,7 @@ tags:
     <ChMeet 
       src='/images/characters/girl_8/girl8_drumstick.webp' 
       nameTitle='小師妹'
-      nameMain='唐默鈴'
+      nameMain='唐黙鈴'
       desc='aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
       :animation=true />
   </ChTab>

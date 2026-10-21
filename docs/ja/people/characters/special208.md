@@ -52,7 +52,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [林志恆](/ja/people/characters/lingnan_trainee1) (前師弟)
+                    [林志恒](/ja/people/characters/lingnan_trainee1) (前師弟)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -62,7 +62,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [米欧寬](/ja/people/characters/lingnan_trainee3) (前師妹)
+                    [米欧寛](/ja/people/characters/lingnan_trainee3) (前師妹)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -95,9 +95,9 @@ tags:
 
 ## 結局
 
--   唐門滅門後、[唐默鈴](/ja/people/characters/girl0)から騙し取った金を持ったまま、青楼で贅沢に暮らす。
+-   唐門滅門後、[唐黙鈴](/ja/people/characters/girl0)から騙し取った金を持ったまま、青楼で贅沢に暮らす。
 -   西武林エンディング後、再度[趙活](/ja/people/characters/player)を偽装して、恨みを抱く武林盟成員に捕まり、七七四十九日拷問の末死亡。
--   [葉雲裳](/ja/people/characters/girl2)を連れて武林大会に行けば、[葉雲裳](/ja/people/characters/girl2)の計略により群俠に集団暴行され、最終的に[釈明](/ja/people/characters/special826)に腹を裂かれて死ぬ。
+-   [葉雲裳](/ja/people/characters/girl2)を連れて武林大会に行けば、[葉雲裳](/ja/people/characters/girl2)の計略により群侠に集団暴行され、最終的に[釈明](/ja/people/characters/special826)に腹を裂かれて死ぬ。
 
 ## 備考
 
@@ -105,7 +105,7 @@ tags:
 -   状況によっては、丐幇／滄幇／[宋悲](/ja/people/characters/special800)が彼を連行してくるかもしれない。
 -   唐錚は一目見て即座に毒殺したいと思い、二者を比較すれば、[趙活](/ja/people/characters/player)はかえって前代未聞に気に入られた。
 -   晁和は狂気を装ったり哀れを演じたり、底がなく取るに足らぬ者。大勢が[趙活](/ja/people/characters/player)を許さないのは、[趙活](/ja/people/characters/player)が醜い上に運命を甘受しないから。他人は一方で彼を見下しながら、彼が身を立てることを恐れ、彼を見ると才能を潰したくなる。そうすることで、弱者が彼に倣うことを防いでいるのだ。[^1]
--   五官は[趙活](/ja/people/characters/player)と実は大きく異なるが、他人が詳しく見るのを恐れるのに甘えて、服装と髪型を意図的に模倣し、「俺が趙活だ」「俺が唐門の醜俠だ」と自称するから、よく知らない者は騙される。
+-   五官は[趙活](/ja/people/characters/player)と実は大きく異なるが、他人が詳しく見るのを恐れるのに甘えて、服装と髪型を意図的に模倣し、「俺が趙活だ」「俺が唐門の醜侠だ」と自称するから、よく知らない者は騙される。
 -   晁和は何日も風呂に入らず、身から濃い体臭が漂い、[趙活](/ja/people/characters/player)の身には淡い薬香がいつも漂っている。[樊嘯天](/ja/people/characters/special4)と親しければ、樊嘯天は香りで晁和と[趙活](/ja/people/characters/player)を見分けられる。
 
 [^1]: PTT C 洽－[Re: \[活俠\] 怎麼解釈晁和沒受到外貌歧視?](https://www.ptt.cc/bbs/C_Chat/M.1725289496.A.4B8.html)

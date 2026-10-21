@@ -65,4 +65,4 @@ tags:
 ## 備考
 
 -   [上官螢](/ja/people/characters/girl4)は嵩山福建分院で仏を学び拳を練っており、釈明の教えを受けたことがある
--   [譚霸刀](/ja/people/characters/special801)は南宮寿宴で過去を暴かれ身を滅ぼした場合、釈明に庇護を求める
+-   [譚覇刀](/ja/people/characters/special801)は南宮寿宴で過去を暴かれ身を滅ぼした場合、釈明に庇護を求める

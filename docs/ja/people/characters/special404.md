@@ -38,7 +38,7 @@ aside: false
 					称号
 				</ChTd>
 				<ChTd>
-					道法將軍
+					道法将軍
 				</ChTd>
 			</ChTr>
 			<ChTr>

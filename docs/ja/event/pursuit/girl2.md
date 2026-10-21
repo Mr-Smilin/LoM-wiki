@@ -267,7 +267,7 @@ tags:
     <br>• 最終決戦勝利後、<MarkdownWrapper>[汗青書38：神州の旅人](/ja/event/ends/end-38)</MarkdownWrapper>に進む。
 </td>
 <td>• 複数人と結縁している場合、滅門ルート結末の結縁優先度(v1.0.3201.1)：
-    <br><Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
+    <br><Girl0Icon>唐黙鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 </td>
 </tr>
 

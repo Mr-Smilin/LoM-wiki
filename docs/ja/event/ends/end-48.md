@@ -52,12 +52,12 @@ tags:
 ### 結縁対象
 
 結縁対象によって、エンディングシナリオと対応する[風雲史](/ja/event/achievements/)に差異がある。<br>
-※武林伝説の結縁優先度(v1.0.3200.2)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+※武林伝説の結縁優先度(v1.0.3200.2)：<Girl0Icon>唐黙鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
 -   <Girl5Icon>夏侯蘭</Girl5Icon>：<AchievementIcon :size="`small`" :no="`12`">雪山派の大弟子</AchievementIcon>
--   <Girl0Icon>唐默鈴</Girl0Icon>：<AchievementIcon :size="`small`" :no="`13`">唐門の女婿</AchievementIcon>
--   <Girl8Icon>龍湘</Girl8Icon>：<AchievementIcon :size="`small`" :no="`14`">忘憂の俠侶</AchievementIcon>
+-   <Girl0Icon>唐黙鈴</Girl0Icon>：<AchievementIcon :size="`small`" :no="`13`">唐門の女婿</AchievementIcon>
+-   <Girl8Icon>龍湘</Girl8Icon>：<AchievementIcon :size="`small`" :no="`14`">忘憂の侠侶</AchievementIcon>
 
-### 唐默鈴の唐門帰還
+### 唐黙鈴の唐門帰還
 
-<Girl0Icon>唐默鈴</Girl0Icon>が嫁いでいて、[瑞笙](/ja/people/characters/special999)が生存していれば、エンディング前のシナリオで<Girl0Icon>唐默鈴</Girl0Icon>は唐門に戻る。(ただし戦闘後の対話で[瑞笙](/ja/people/characters/special999)が黒幕化している時のみ、後宮を追い出す場面があり、この結果と矛盾している)
+<Girl0Icon>唐黙鈴</Girl0Icon>が嫁いでいて、[瑞笙](/ja/people/characters/special999)が生存していれば、エンディング前のシナリオで<Girl0Icon>唐黙鈴</Girl0Icon>は唐門に戻る。(ただし戦闘後の対話で[瑞笙](/ja/people/characters/special999)が黒幕化している時のみ、後宮を追い出す場面があり、この結果と矛盾している)

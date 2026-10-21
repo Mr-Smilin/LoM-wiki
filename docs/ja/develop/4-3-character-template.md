@@ -629,7 +629,7 @@ tags:
         <ChMeet 
 			src='/images/characters/girl_8/normal.webp' 
 			nameMain='龍湘'
-			desc='錦香宮に師事し、剣法精妙な美しき佳人。<br>父の足跡をたどって進み、四方で俠を行いたいと願う。'
+			desc='錦香宮に師事し、剣法精妙な美しき佳人。<br>父の足跡をたどって進み、四方で侠を行いたいと願う。'
 			:animation=true
 		/>
     </ChTab>
@@ -637,8 +637,8 @@ tags:
         <ChMeet 
 			src='/images/characters/girl_0/normal.webp' 
 			nameTitle='小師妹'
-			nameMain='唐默鈴'
-			desc='芳名默鈴、唐門掌門の一人娘、森の小動物のような少女。淡泊な性情、7 本の音を立てない鈴を身に着けている。<br>興味は折り紙。'
+			nameMain='唐黙鈴'
+			desc='芳名黙鈴、唐門掌門の一人娘、森の小動物のような少女。淡泊な性情、7 本の音を立てない鈴を身に着けている。<br>興味は折り紙。'
 			:animation=false
 		/>
     </ChTab>

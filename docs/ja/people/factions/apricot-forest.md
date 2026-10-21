@@ -70,9 +70,9 @@ tags:
 - [唐布衣](/ja/people/characters/brother1)はかつて運命を占ってもらい、死劫があると知って《九転輪迴大法》を修練した
 - [唐惟元](/ja/people/characters/brother4)は大金の稼ぎ方を尋ねたが、無視された
 - 錦香閣の[温夫人](/ja/people/characters/special402)に宮殿を贈り、[錦香宮](/ja/people/factions/jin-xiang-palace)を設立させた
-- [南宮淺](/ja/people/characters/special103)を陣中で迷わせ、夢の中で老僧に諭させた
+- [南宮浅](/ja/people/characters/special103)を陣中で迷わせ、夢の中で老僧に諭させた
 - [南宮老太爺](/ja/people/characters/special104)に思いを断って自尽するよう勧めた
 - [龍淵](/ja/people/characters/special2)は杏の木の下で一晩酔い臥し、梢に錦嚢を見つけた。のちに[千面人魔](/ja/people/characters/other8)との関わりが判明する
 - [無念僧](/ja/people/characters/special212_2)は[唐布衣](/ja/people/characters/brother1)・[唐錚](/ja/people/characters/brother2)に不意打ちされた際、杏花林へ知らせを送ろうとした
 - DEMO版では[趙活](/ja/people/characters/player)・[丘真人](/ja/people/characters/special209)とともに[成吉思汗](/ja/people/characters/special210)の大帳で不老長生の法を語った
-- 初版西武林ルートの引き分け結末では、八月初三に史相へ伝え、大宋皇帝[趙擴](/ja/people/characters/special817)は福寧殿にて崩御した
+- 初版西武林ルートの引き分け結末では、八月初三に史相へ伝え、大宋皇帝[趙拡](/ja/people/characters/special817)は福寧殿にて崩御した

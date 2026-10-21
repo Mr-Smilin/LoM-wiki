@@ -1,5 +1,5 @@
 ---
-title: 丘處機 (キュウショキ)
+title: 丘処機 (キュウショキ)
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -11,7 +11,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-「天下第一人」丘處機、[全真派](/ja/people/factions/quan-zhen-sect)の掌教。[尹志平](/ja/people/characters/special205)の恩師。
+「天下第一人」丘処機、[全真派](/ja/people/factions/quan-zhen-sect)の掌教。[尹志平](/ja/people/characters/special205)の恩師。
 <br><br>
 二十数年前[青城論道](/ja/event/stories/青城論道)に参加したことがある。
 <br><br>

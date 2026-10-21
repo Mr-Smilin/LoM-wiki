@@ -188,7 +188,7 @@ tags:
     <br>• 最終決戦勝利後、<MarkdownWrapper>[汗青書43：寵を失う](/ja/event/ends/end-43)</MarkdownWrapper>に進む。</td>
 <td>• 夏侯蘭の最終決戦での支援スキルは、雪山行で<MarkdownWrapper>[雪山飛鴻爪](/ja/system/books/book_6009)</MarkdownWrapper>と<MarkdownWrapper>[奪魄幽霊爪](/ja/system/books/book_6007)</MarkdownWrapper>のどちらを入手したかによって決まる(必要条件3の備考を参照)。
     <br>• 複数人と結縁している場合、滅門ルート結末の結縁優先度(v1.0.3201.1)：
-    <br><Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
+    <br><Girl0Icon>唐黙鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
 </td>
 </tr>
 

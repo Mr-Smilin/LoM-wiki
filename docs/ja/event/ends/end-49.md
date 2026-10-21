@@ -42,7 +42,7 @@ tags:
         + **🧾【＜30】唐門の大勢は既に去った** または **🧾【＜66】戦況激化**：
           1. **🎲天命：お前の対手......**(上限99、➕加算値：[南宮深](/ja/people/characters/special102)好感度、➖減値：<Girl4Icon>上官螢</Girl4Icon>好感度)：**🧾【＜70】南宮深（鳳凰肩甲）**。
              * ※<Girl5Icon>夏侯蘭</Girl5Icon>または<Girl8Icon>龍湘</Girl8Icon>と結縁していれば、この段階をスキップ。
-          2. 🗡️[南宮深](/ja/people/characters/special102)との決闘で敗北時に[飛俠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)を満たさず、且つ[南宮深](/ja/people/characters/special102)好感度≧20なら、エンディングへ。
+          2. 🗡️[南宮深](/ja/people/characters/special102)との決闘で敗北時に[飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)を満たさず、且つ[南宮深](/ja/people/characters/special102)好感度≧20なら、エンディングへ。
         + **🧾【≧66】間に合った**：⚔️戦役で敗北時に[南宮深](/ja/people/characters/special102)好感度≧20なら、エンディングへ。
 
 ## 分岐と変化
@@ -51,7 +51,7 @@ tags:
 
 ### 結縁対象
 結縁対象が異なれば、エンディングシナリオと伝奇テキストに差異がある。
-+ <Girl0Icon>唐默鈴</Girl0Icon>：東海へ逃げる
++ <Girl0Icon>唐黙鈴</Girl0Icon>：東海へ逃げる
 + <Girl5Icon>夏侯蘭</Girl5Icon>：大雪山へ戻る
 + <Girl8Icon>龍湘</Girl8Icon>：金国へ逃げる
-※宿無し犬の結縁優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+※宿無し犬の結縁優先度(v1.0.3201.1)：<Girl0Icon>唐黙鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>

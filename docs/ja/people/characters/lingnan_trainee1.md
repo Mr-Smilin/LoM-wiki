@@ -1,5 +1,5 @@
 ---
-title: 林志恆 (リンシコウ)
+title: 林志恒 (リンシコウ)
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -12,7 +12,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="林志恆">
+    <ChTab title="林志恒">
         <Ch src='/images/characters/lingnan_trainee/trainee1_normal.webp' position='right'/>
         <ChName nameZh='林志恆' nameEn='Lin Zhiheng' position='right' />
         <ChTable>
@@ -46,7 +46,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [米欧寬](/ja/people/characters/lingnan_trainee3) (師妹)
+                    [米欧寛](/ja/people/characters/lingnan_trainee3) (師妹)
                 </ChTd>
             </ChTr>
             <ChTr>

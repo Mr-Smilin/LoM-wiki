@@ -119,7 +119,7 @@ tags:
 <td>• 龍湘が最終決戦に参加できる。
     <br>• 最終決戦勝利後、汗青書<MarkdownWrapper>[《鶏もも大尽》](/ja/event/ends/end-44)</MarkdownWrapper>に進める。</td>
 <td>複数人と結縁している場合、滅門ルート結末の結縁優先度(v1.0.3201.1)：
-    <br><Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon></td>
+    <br><Girl0Icon>唐黙鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon></td>
 </tr>
 <tr>
 <td>4</td>
@@ -136,7 +136,7 @@ tags:
 <td>眉山決戦</td>
 <td>• 龍湘が同行する展開になる。
     <br>• 結末画面で龍湘が寄り添う。
-    <br>• 勝利すると<MarkdownWrapper>[風雲史《忘憂俠侶》](/ja/event/achievements/#風雲史-No.14)</MarkdownWrapper>を達成できる。</td>
+    <br>• 勝利すると<MarkdownWrapper>[風雲史《忘憂侠侶》](/ja/event/achievements/#風雲史-No.14)</MarkdownWrapper>を達成できる。</td>
 <td></td>
 </tr>
 </table>

@@ -1,5 +1,5 @@
 ---
-title: 趙擴 (チョウカク)
+title: 趙拡 (チョウカク)
 aside: false
 outline: [2, 3]
 sidebar: false
@@ -12,7 +12,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="趙擴">
+	<ChTab title="趙拡">
 		<Ch src='/images/characters/special817/normal.webp' position='right'/>
 		<ChName nameZh='趙擴' nameEn='Zhao Kuo' position='right' />
 		<ChTable>

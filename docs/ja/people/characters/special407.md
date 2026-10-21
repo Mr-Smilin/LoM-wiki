@@ -88,7 +88,7 @@ tags:
     > 「[蘇迎香](/ja/people/characters/special402)。お前は心を[南宮遠](/ja/people/characters/special101)に、身を[温無畏](/ja/people/characters/other13)に、二十年の友情を[王春暁](/ja/people/characters/special401)に与えたなら、その命を俺にくれよ。官職を買うための金でもいい。これはお前が俺に借りているものだ。」
 -   上官隼はこれ以来、愛に心を閉ざし、生涯独身を貫き、[上官螢](/ja/people/characters/girl4)の母親さえも、掌中の玩具に過ぎなくなってしまった。
 -   唐門の谷底で誰かの黒歴史を拾う機会がある。「隼は海東より来たり、西山の[鹿](/ja/people/characters/other10)を追う」と彫られた純金の念珠である。
--   公式の[唐默鈴](/ja/people/characters/girl0)誕生日動画で、[上官螢](/ja/people/characters/girl4)に誘拐された双馬尾の唐默鈴を見ると、[唐鹿](/ja/people/characters/other10)との存在しない記憶が頭の中に次々と現れ、すぐに唐默鈴を養子にすることを決め、娘の名前を唐螢に改名した。[^2]
+-   公式の[唐黙鈴](/ja/people/characters/girl0)誕生日動画で、[上官螢](/ja/people/characters/girl4)に誘拐された双馬尾の唐黙鈴を見ると、[唐鹿](/ja/people/characters/other10)との存在しない記憶が頭の中に次々と現れ、すぐに唐黙鈴を養子にすることを決め、娘の名前を唐螢に改名した。[^2]
 
 ## 唐門
 

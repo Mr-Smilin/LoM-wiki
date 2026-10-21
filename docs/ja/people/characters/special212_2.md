@@ -74,11 +74,11 @@ tags:
 <br><br>
 [崆峒派](/ja/people/factions/kong-tong-sect)奪魄門では、閉関中の姚掌門に成り代わり、かねてより千灯楼の教官として目をかけていた[金烏上人](/ja/people/characters/special207)を掌派人候補として後押しした。
 <br><br>
-西武林ルートで飛俠帰還の際、[覚醒](/ja/people/characters/monk2)に化身して[申屠龍](/ja/people/characters/special405)と並んで眉山の戦を傍観。教主がもう江湖に留まる気がなくなり、心が乱れたのを見て、[唐布衣](/ja/people/characters/brother1)に奇襲され、手の筋を断たれた。[唐錚](/ja/people/characters/brother2)がこの隙に毒を下し、薬効が発動した後、唐布衣に斬殺された。
+西武林ルートで飛侠帰還の際、[覚醒](/ja/people/characters/monk2)に化身して[申屠龍](/ja/people/characters/special405)と並んで眉山の戦を傍観。教主がもう江湖に留まる気がなくなり、心が乱れたのを見て、[唐布衣](/ja/people/characters/brother1)に奇襲され、手の筋を断たれた。[唐錚](/ja/people/characters/brother2)がこの隙に毒を下し、薬効が発動した後、唐布衣に斬殺された。
 
 ### 葉雲裳ルート
 
-青城留学中、[鉄冠道人](/ja/people/characters/special212)に化身して[葉雲裳](/ja/people/characters/girl2)の体に九泉丹の気があることを発見し、彼女を人丹として[教主](/ja/people/characters/special405)に献上する目論見で、[唐默鈴](/ja/people/characters/girl0)の招親の日に出撃。[趙活](/ja/people/characters/player)と[段智秀](/ja/people/characters/special833)に阻止され、[唐門](/ja/people/factions/tang-men)の谷底に落下。谷底で十日、生きたまま動かずにいたが、[趙活](/ja/people/characters/player)と葉雲裳の仲睦まじさに感じ入り、世の中にも本物の真心はあるものだと言い放った。
+青城留学中、[鉄冠道人](/ja/people/characters/special212)に化身して[葉雲裳](/ja/people/characters/girl2)の体に九泉丹の気があることを発見し、彼女を人丹として[教主](/ja/people/characters/special405)に献上する目論見で、[唐黙鈴](/ja/people/characters/girl0)の招親の日に出撃。[趙活](/ja/people/characters/player)と[段智秀](/ja/people/characters/special833)に阻止され、[唐門](/ja/people/factions/tang-men)の谷底に落下。谷底で十日、生きたまま動かずにいたが、[趙活](/ja/people/characters/player)と葉雲裳の仲睦まじさに感じ入り、世の中にも本物の真心はあるものだと言い放った。
 <br><br>
 趙活が顔が醜いのに努力を怠らないのを見て、非常に気に入らず、趙活が自分の生存意義を否定したと考え、共戴天の仇と見なした。西武林の一役で現身して、これを殺したくて堪らない。最後に[趙活](/ja/people/characters/player)、[鄒博](/ja/people/characters/special201)、[趙逵](/ja/people/characters/special403)三人の合力に敗れた。
 

@@ -46,7 +46,7 @@ tags:
     <div>
         <table>
             <tr><td><Girl0Icon :size="`medium`"></Girl0Icon></td></tr>
-            <tr><td style="text-align: center;">唐默鈴</td></tr>
+            <tr><td style="text-align: center;">唐黙鈴</td></tr>
         </table>
     </div>
     <div>
@@ -106,7 +106,7 @@ tags:
     </tr>
     <tr>
         <td><Girl0Icon :size="`medium`"></Girl0Icon></td>
-        <td>唐默鈴</td>
+        <td>唐黙鈴</td>
     </tr>
     <tr>
         <td><Girl7Icon :size="`medium`"></Girl7Icon></td>

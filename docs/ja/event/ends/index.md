@@ -26,7 +26,7 @@ tags:
 
 <BTable :stickyHeader=true searchMode="or"
 :tags="[
-{ text: '【唐默鈴】'},
+{ text: '【唐黙鈴】'},
 { text: '【葉雲裳】' },
 { text: '【虞小梅】' },
 { text: '【上官螢】'},
@@ -216,8 +216,8 @@ tags:
 </td>
 <td>
 <span style="color: #EEE8AA;">【四師兄と商売】</span>
-<span style="color: #E34234;">【唐默鈴】</span><br>
-約束通り感情に未熟な唐默鈴と別れ、唐惟元と共に唐門を離れ、交易商売を営む。
+<span style="color: #E34234;">【唐黙鈴】</span><br>
+約束通り感情に未熟な唐黙鈴と別れ、唐惟元と共に唐門を離れ、交易商売を営む。
 </td>
 </tr>
 <tr>
@@ -229,8 +229,8 @@ tags:
 </td>
 <td>
 <span style="color: #EEE8AA;">【四師兄と商売】</span>
-<span style="color: #E34234;">【唐默鈴】</span><br>
-涙に濡れた唐默鈴と約束通り別れ、唐惟元と共に唐門を離れ、交易商売を営む。
+<span style="color: #E34234;">【唐黙鈴】</span><br>
+涙に濡れた唐黙鈴と約束通り別れ、唐惟元と共に唐門を離れ、交易商売を営む。
 </td>
 </tr>
 <tr>
@@ -255,7 +255,7 @@ tags:
 </td>
 <td>
 <span style="color: #AA0000;">【戦死】</span><br>
-唐默鈴の比武招親、金烏上人襲来の夜。無作法に集団リンチされ、敗北して武林の笑いものになり、唐門閉鎖後は無派の身となり、護国戦場で戦死。
+唐黙鈴の比武招親、金烏上人襲来の夜。無作法に集団リンチされ、敗北して武林の笑いものになり、唐門閉鎖後は無派の身となり、護国戦場で戦死。
 </td>
 </tr>
 <tr>
@@ -279,7 +279,7 @@ tags:
 </td>
 <td>
 <span style="color: red;">【現在のバージョンでは達成不可】</span><br>
-留学しない、気に入らず唐門を離脱し、探しに来た唐默鈴と葉雲裳を拉致して投獄され、生涯を獄で終える。
+留学しない、気に入らず唐門を離脱し、探しに来た唐黙鈴と葉雲裳を拉致して投獄され、生涯を獄で終える。
 </td>
 </tr>
 <tr>
@@ -291,7 +291,7 @@ tags:
 </td>
 <td>
 <span style="color: Gray;">【唐門離脱】</span><br>
-留学しない、気に入らず唐門を離脱し、唐默鈴(もしくは葉雲裳も)を唐門に送り届けた後も、依然として唐門を永遠に離れ、浪々の身となる。
+留学しない、気に入らず唐門を離脱し、唐黙鈴(もしくは葉雲裳も)を唐門に送り届けた後も、依然として唐門を永遠に離れ、浪々の身となる。
 </td>
 </tr>
 <tr>
@@ -303,7 +303,7 @@ tags:
 </td>
 <td>
 <span style="color: #bfdcb0;">【青城留学】</span><br>
-大俠になる夢を放棄し、青城に籠もり、千年修道し、塵世を忘れ去る。
+大侠になる夢を放棄し、青城に籠もり、千年修道し、塵世を忘れ去る。
 </td>
 </tr>
 <tr>
@@ -316,7 +316,7 @@ tags:
 <td>
 <span style="color: Gray;">【唐門離脱】</span><br>
 <span style="color: #FF1493;">【廃廟ルート】</span><br>
-留学しない、気に入らず唐門を離脱し、唐默鈴(もしくは葉雲裳も)を唐門に送り届けた後も、依然として唐門を永遠に離れ、江湖から隠退。<br>
+留学しない、気に入らず唐門を離脱し、唐黙鈴(もしくは葉雲裳も)を唐門に送り届けた後も、依然として唐門を永遠に離れ、江湖から隠退。<br>
 <MarkdownWrapper>[廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>イベントで「逃げる」を選び、戦闘に勝利し、道徳≧40。<br>
 </td>
 </tr>
@@ -329,7 +329,7 @@ tags:
 </td>
 <td>
 <span style="color: #00BFFF;">【夏侯蘭】</span><br>
-夏侯蘭に師事し、唐默鈴の比武招親、金烏上人襲来の夜。無作法に集団リンチされ、敗北して武林の笑いものになるが、恩師の導きで崆峒派に乗り込み恨みを晴らす。
+夏侯蘭に師事し、唐黙鈴の比武招親、金烏上人襲来の夜。無作法に集団リンチされ、敗北して武林の笑いものになるが、恩師の導きで崆峒派に乗り込み恨みを晴らす。
 </td>
 </tr>
 <tr>
@@ -527,9 +527,9 @@ tags:
 </td>
 <td>
 <span style="color: #DC0000;">【唐門滅亡】</span>
-<span style="color: #E34234;">【唐默鈴】</span>
+<span style="color: #E34234;">【唐黙鈴】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
-唐默鈴と心が通じ婚約を結んだ後、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
+唐黙鈴と心が通じ婚約を結んだ後、唐門滅亡戦で下山突破して武林盟主に到達、武林盟主を倒し唐門の生き残りとなる。
 </td>
 </tr>
 <tr>
@@ -894,4 +894,4 @@ tags:
 ## 備考
 
 -   データ出典：バハムート－[【攻略】v1.05 生死簿汗青書整理(ネタバレあり)](https://forum.gamer.com.tw/C.php?bsn=73317&snA=3647&tnum=3&subbsn=3)
--   滅門ルートエンディング結縁優先度(v1.0.3201.1)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
+-   滅門ルートエンディング結縁優先度(v1.0.3201.1)：<Girl0Icon>唐黙鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>

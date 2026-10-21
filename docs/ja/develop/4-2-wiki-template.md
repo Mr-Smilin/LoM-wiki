@@ -74,7 +74,7 @@ BadendIcon は自動的にますます多くの詳細ページをインポート
 <BadendIcon :size='`medium`'>テキスト 1</BadendIcon>  
 <BadendIcon :size='`small`'>テキスト 2</BadendIcon>  
 <BadendIcon>テキスト 3</BadendIcon>
-<BadendIcon :no="30">生死簿 30『清理門戶』</BadendIcon>
+<BadendIcon :no="30">生死簿 30『清理門戸』</BadendIcon>
 
 <br>
 
@@ -127,7 +127,7 @@ medium(中型) 画像は 76 px × 88 px です。
 | `` <BadendIcon :size="`small`">テキスト</BadendIcon> ``  | <BadendIcon :size="`small`">テキスト</BadendIcon>       |                     小型 Icon を表示                     |
 |           `<BadendIcon>テキスト</BadendIcon>`            | <BadendIcon>テキスト</BadendIcon>                       |            デフォルトサイズを使用、デフォルトは「`small`」            |
 |               `<BadendIcon></BadendIcon>`                | <BadendIcon></BadendIcon>                               |     テキストなし、デフォルトサイズを使用、デフォルトは「`small`」     |
-| `<BadendIcon :no="30">生死簿30『清理門戶』</BadendIcon>` | <BadendIcon :no="30">生死簿 30『清理門戶』</BadendIcon> | no は生死簿の番号にリンクします。使用しない場合は生死簿の先頭にジャンプします。 |
+| `<BadendIcon :no="30">生死簿30『清理門戶』</BadendIcon>` | <BadendIcon :no="30">生死簿 30『清理門戸』</BadendIcon> | no は生死簿の番号にリンクします。使用しない場合は生死簿の先頭にジャンプします。 |
 
 ### 利用可能な属性の記述方法
 
@@ -481,7 +481,7 @@ HTML で囲まれたコンテンツ内の Markdown を解析するために使�
 <InfoList position="left">
   <Info title="列伝一" :open=true>
       錦香宮に師事し、剣法精妙な美しき佳人。<br>
-      父の足跡をたどって進み、四方で俠を行いたいと願う。<br>
+      父の足跡をたどって進み、四方で侠を行いたいと願う。<br>
       しかし、世事に疎いため、意外に簡単に騙される。
   </Info>
   <Info title="列伝二">

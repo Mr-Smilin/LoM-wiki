@@ -42,7 +42,7 @@ tags:
 <br><br>
 初めて[葉雲裳](/ja/people/characters/girl2)を見かけた時、「お前が起こした火、自分で消すんだな。」と言ったが、その後[点蒼派](/ja/people/factions/dian-cang-sect)の先輩たちに双剣合璧で打たれた。打たれた後も彼女に武功を覚えられた。
 <br><br>
-[唐默鈴](/ja/people/characters/girl0)の比武招親にはお媒人も持たずに来たが、[趙活](/ja/people/characters/player)に追い払われた。
+[唐黙鈴](/ja/people/characters/girl0)の比武招親にはお媒人も持たずに来たが、[趙活](/ja/people/characters/player)に追い払われた。
 <br><br>
 武林大会への道中、唐門が招待状を出すよう要求。狂風暴雨のような攻撃は[龍湘](/ja/people/characters/girl8)に軽々と受け止められ、「女。お前を覚えておく。」と言って去った。
 <br><br>

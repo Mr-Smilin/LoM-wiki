@@ -33,4 +33,4 @@ tags:
 
 ### 結縁キャラクター
 エンディング前のシナリオは結縁キャラクターで差異がある。(伝奇テキストには影響なし)<br>
-※君が願う江湖の旅の結縁優先度(v1.0.3200.2)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>
+※君が願う江湖の旅の結縁優先度(v1.0.3200.2)：<Girl0Icon>唐黙鈴</Girl0Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl8Icon>龍湘</Girl8Icon>

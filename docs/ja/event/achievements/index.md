@@ -60,7 +60,7 @@ tags:
             1. 唐布衣と一緒に山を下りた場合: 金烏上人と遭遇した後、対決の結果が「小梅に敗北」以外であること。<br>
             2. 唐布衣と山を下りない場合: <Girl3Icon>小梅</Girl3Icon>が唐門におらず、唐布衣を治療し、襲撃された時に「収功」を選び、その後の戦闘で金烏上人に勝つこと。<br>
             <br>
-            第二段階: <Girl0Icon>唐默鈴</Girl0Icon>の比武招親イベントで金烏上人を打ち倒す<br>
+            第二段階: <Girl0Icon>唐黙鈴</Girl0Icon>の比武招親イベントで金烏上人を打ち倒す<br>
         </td>
         <td></td>
         <td></td>
@@ -183,14 +183,14 @@ tags:
         <td>千に防ぎ万に防いでも、内の賊は防ぎ難し。まさか、あなただったとは！</td>
         <td>
             2年目で親密度4星以上（5星推奨）<br>
-            武林伝説クリア時に想い人として<Girl0Icon>唐默鈴</Girl0Icon>を保つ。
+            武林伝説クリア時に想い人として<Girl0Icon>唐黙鈴</Girl0Icon>を保つ。
         </td>
         <td></td>
         <td>~~内部通報を教え、内部通報を行わせる~~</td>
     </tr>
     <tr>
         <td id="風雲史-No.14">14</td>
-        <td><AchievementIcon :size="`medium`" :no="`14`">憂いを忘れし俠侶 (忘憂俠侶)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`14`">憂いを忘れし侠侶 (忘憂俠侶)</AchievementIcon></td>
         <td>四方を巡り、義のために剣を振るう。<br><Girl8Icon>彼女</Girl8Icon>はあなたの雄々しさに、心底惚れ込んでいる。</td>
         <td>
             2年目で親密度4星以上（5星推奨）<br>
@@ -221,9 +221,9 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.17">17</td>
-        <td><AchievementIcon :size="`medium`" :no="`17`"><ruby>飛俠<rt>ひきょう</rt></ruby>の帰還 (飛俠歸來)</AchievementIcon></td>
-        <td>彼には彼の機縁があった。<br>だが、あなたがいなければ、<ruby>飛俠<rt>ひきょう</rt></ruby>の帰還は果てなく遠のいていただろう。</td>
-        <td>唐布衣の死後に唐布衣を復活させる。<br>詳しくは<MarkdownWrapper>飛俠の帰還</MarkdownWrapper>ページを参照してください。</td>
+        <td><AchievementIcon :size="`medium`" :no="`17`"><ruby>飛侠<rt>ひきょう</rt></ruby>の帰還 (飛俠歸來)</AchievementIcon></td>
+        <td>彼には彼の機縁があった。<br>だが、あなたがいなければ、<ruby>飛侠<rt>ひきょう</rt></ruby>の帰還は果てなく遠のいていただろう。</td>
+        <td>唐布衣の死後に唐布衣を復活させる。<br>詳しくは<MarkdownWrapper>飛侠の帰還</MarkdownWrapper>ページを参照してください。</td>
         <td>下旬+1</td>
         <td>下旬+1 = 毎月下旬の行動回数+1</td>
     </tr>

@@ -42,7 +42,7 @@ tags:
         <td>貢献度-50<br></td>
         <td>
             門派が規模三に昇格<br>
-            <Girl0Icon>唐默鈴</Girl0Icon>の好感度+1<br>
+            <Girl0Icon>唐黙鈴</Girl0Icon>の好感度+1<br>
             門人+15、団結+20<br>
         </td>
         <td></td>

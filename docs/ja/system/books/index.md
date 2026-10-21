@@ -67,7 +67,7 @@ tags:
         <td>刀剣2<br>弁舌3<br>性情+3<br>処世+3</td>
         <td>15</td>
         <td></td>
-        <td>1. 三年四月上旬－唐惟元から購入 ($2000)<br>2. 比武招親イベントのシナリオ (想い人が唐默鈴)<br>3. 青城留学で九月下旬までに、3回修練して<MarkdownWrapper>[青城での爪弾き](/ja/event/simple/2-08-3-青城排擠)</MarkdownWrapper>イベントを発生させ、ダイス【申屠龍抵抗】で点蒼棒法を入手。<br>その後九月上旬~二年十月中旬の<MarkdownWrapper>[雲裳の秘笈](/ja/event/simple/2-09-1-雲裳秘笈)</MarkdownWrapper>イベントで、ダイス【黒龍剣】で入手。</td>
+        <td>1. 三年四月上旬－唐惟元から購入 ($2000)<br>2. 比武招親イベントのシナリオ (想い人が唐黙鈴)<br>3. 青城留学で九月下旬までに、3回修練して<MarkdownWrapper>[青城での爪弾き](/ja/event/simple/2-08-3-青城排擠)</MarkdownWrapper>イベントを発生させ、ダイス【申屠龍抵抗】で点蒼棒法を入手。<br>その後九月上旬~二年十月中旬の<MarkdownWrapper>[雲裳の秘笈](/ja/event/simple/2-09-1-雲裳秘笈)</MarkdownWrapper>イベントで、ダイス【黒龍剣】で入手。</td>
         <td>2000</td>
     </tr>
     <tr>
@@ -223,7 +223,7 @@ tags:
         <td><BookItemIcon :no="`3010`">酩酊玄剣掌</BookItemIcon></td>
         <td>体力5<br>内功5<br>拳掌10<br>刀剣10<br>傲慢</td>
         <td>80</td>
-        <td>学問20<br>拳掌20<br>刀剣15<br>黃酒80</td>
+        <td>学問20<br>拳掌20<br>刀剣15<br>黄酒80</td>
         <td>
             <li><MarkdownWrapper>🚩[家出](/ja/event/simple/2-06-1-離家出走)して宿屋に泊まり、その結果[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)の時に🚩龍淵と知り合う。</MarkdownWrapper></li>
             <li><MarkdownWrapper>[龍湘との結縁](/ja/event/simple/3-12-3-龍湘結緣)イベントで、雑談「信義を守る」の後に入手（当該イベントの流れを参照）。</MarkdownWrapper></li>
@@ -301,11 +301,11 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`4020`">逍遙遊腿法</BookItemIcon></td>
+        <td><BookItemIcon :no="`4020`">逍遥遊腿法</BookItemIcon></td>
         <td>軽功10<br>体力5<br>学問3<br>疾如風<br>品性+3</td>
         <td>50</td>
         <td>学問10</td>
-        <td>一年弟子房 (憂鬱)－唐布衣と一緒に唐默鈴をからかう<br>二年一月上旬－唐惟元から購入 ($1800)<br>二年十月中旬に販売終了<br>二年崆峒派留学－無色広場の街歩き、唐惟元から購入</td>
+        <td>一年弟子房 (憂鬱)－唐布衣と一緒に唐黙鈴をからかう<br>二年一月上旬－唐惟元から購入 ($1800)<br>二年十月中旬に販売終了<br>二年崆峒派留学－無色広場の街歩き、唐惟元から購入</td>
         <td>1800</td>
     </tr>
     <tr>
@@ -442,8 +442,8 @@ tags:
         <td>1200</td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`7003`">烈火禪</BookItemIcon></td>
-        <td>内功10<br>体力7<br>烈火禪<br>陰陽+10</td>
+        <td><BookItemIcon :no="`7003`">烈火禅</BookItemIcon></td>
+        <td>内功10<br>体力7<br>烈火禅<br>陰陽+10</td>
         <td>50</td>
         <td></td>
         <td>二年崆峒派留学－飛天門季試<MarkdownWrapper>1勝 ([虞小梅](/ja/people/characters/girl3)好感≧25) または2勝 ([虞小梅](/ja/people/characters/girl3)好感＜25)</MarkdownWrapper>の報酬</td>
@@ -539,7 +539,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7015`">無為丹法</BookItemIcon></td>
-        <td>内功16<br>煉神還虛LV1<br>煉精化気LV5</td>
+        <td>内功16<br>煉神還虚LV1<br>煉精化気LV5</td>
         <td>80</td>
         <td>品性40<br>道学LV1</td>
         <td><MarkdownWrapper>[青城での目覚め](/ja/event/simple/2-08-3-青城醒轉)</MarkdownWrapper>イベントで申屠龍に初めて会った時に入手</td>
@@ -726,7 +726,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`8013`">當世詞選</BookItemIcon></td>
+        <td><BookItemIcon :no="`8013`">当世詞選</BookItemIcon></td>
         <td>学問6<br>品性+5<br>処世中寄り</td>
         <td>25</td>
         <td>学問25<br>または<br>品性40</td>
@@ -774,7 +774,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td><BookItemIcon :no="`8106`">太平聖惠方</BookItemIcon></td>
+        <td><BookItemIcon :no="`8106`">太平聖恵方</BookItemIcon></td>
         <td>抗毒15<br>抗麻15<br>医術LV1</td>
         <td>50</td>
         <td>学問20</td>
@@ -819,5 +819,5 @@ tags:
 -   武功が高ければ喧嘩に必ず勝てるというわけではなく、たとえ最強の[趙活](/ja/people/characters/player)でも、不意を突かれて[小梅](/ja/people/characters/girl3)に階段から突き落とされる可能性はあります。[^3]
 
 [^1]: 巴哈姆特－[【情報】龍湘のサイズについての答えと鳥熊との非公開メッセージ](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
-[^2]: PTT C 洽－[\[活俠\] 龍湘+綜合小知識數則](https://www.ptt.cc/bbs/C_Chat/M.1728840738.A.3D7.html)
+[^2]: PTT C 洽－[\[活俠\] 龍湘+綜合小知識数則](https://www.ptt.cc/bbs/C_Chat/M.1728840738.A.3D7.html)
 [^3]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)

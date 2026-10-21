@@ -34,7 +34,7 @@ tags:
 <MarkdownWrapper>[〈夏侯蘭結縁攻略〉](/ja/event/pursuit/girl5)</MarkdownWrapper>を参照。
 
 ### 二、門人解散
-1. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20、[金烏上人](/ja/people/characters/special207)が存命またはスキル：戦術＜5またはスキル戦術＜8、学問＜60の場合、[武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)イベントに進む。
+1. 第三年十二月上旬の最後の行動前。[李富貴](/ja/people/characters/special809)の好感度＜20 または丐幇の好感度＜2、かつ「[金烏上人](/ja/people/characters/special207)が存命」「スキル：戦術＜5」「スキル：戦術＜8かつ学問＜60」のいずれかに当てはまる場合、[武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)イベントに進む。
 2. 敵と隠居について投票を実施：[唐惟元](/ja/people/characters/brother4)が帰還した場合、[唐惟元](/ja/people/characters/brother4)の投票が追加される。
    + 主人公の決断：
      + **📜議題「決定：敵と戦う」**：敵と戦う＋１票。
@@ -50,7 +50,7 @@ tags:
    + 票が同数で主人公が江湖から隠居を選択し、🗡️[唐陞](/ja/people/characters/brother3)との決闘に勝利。
    + 票が同数で[唐陞](/ja/people/characters/brother3)が江湖から隠居を選択し、🗡️[唐陞](/ja/people/characters/brother3)との決闘に敗戦。
 5. [唐門との別れ](/ja/event/simple/3-12-1-告別唐門)の際に大門へ向かい、<Girl5Icon>夏侯蘭</Girl5Icon>と婚約、道徳≧60【いい人、侠客】、優先度がより高いキャラと婚約していない場合、エンディングに進む。
-   + ※門人解散エンディング結婚優先順位(v1.0.3200.2)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+   + ※門人解散エンディング結婚優先順位(v1.0.3200.2)：<Girl0Icon>唐黙鈴</Girl0Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl4Icon>上官螢</Girl4Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>＞<Girl7Icon>魏菊</Girl7Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
 
 ### ※金烏上人の死亡(成就未達成で存命)
 ::: details
@@ -69,11 +69,11 @@ tags:
      + **📖選択肢「躊躇」**→**📖選択肢「大師兄は死ねない」**→**📖選択肢「躊躇」**→**📖選択肢「大師兄は死ねない」**→**📖選択肢「決意」**。
      + **📖選択肢「躊躇」**→**📖選択肢「大師兄は死ねない」**→**📖選択肢「躊躇」**→**📖選択肢「大師兄は死ねない」**→**📖選択肢「躊躇」**。
 4. 第三年五月上旬の行動前、比武招親の夜、[金烏上人](/ja/people/characters/special207)が襲来：
-   + 想い人が<Girl0Icon>唐默鈴</Girl0Icon>で、<Girl0Icon>唐默鈴</Girl0Icon>の好感度≧50：<Girl0Icon>唐默鈴</Girl0Icon>が同行して下山。
-   + 上記条件を満たさない：<Girl0Icon>唐默鈴</Girl0Icon>は同行して下山しない。
+   + 想い人が<Girl0Icon>唐黙鈴</Girl0Icon>で、<Girl0Icon>唐黙鈴</Girl0Icon>の好感度≧50：<Girl0Icon>唐黙鈴</Girl0Icon>が同行して下山。
+   + 上記条件を満たさない：<Girl0Icon>唐黙鈴</Girl0Icon>は同行して下山しない。
 5. 🗡️[金烏上人](/ja/people/characters/special207)との決闘に一場で勝利。
-   + <Girl0Icon>唐默鈴</Girl0Icon>が同行して下山：[金烏上人](/ja/people/characters/special207)が死亡。
-   + <Girl0Icon>唐默鈴</Girl0Icon>が同行して下山しない：**🎲運命：阻止......**(上限50、➕加値：軽功、性情)：**🧾【≧70】君の阻止**で、[金烏上人](/ja/people/characters/special207)が死亡。
+   + <Girl0Icon>唐黙鈴</Girl0Icon>が同行して下山：[金烏上人](/ja/people/characters/special207)が死亡。
+   + <Girl0Icon>唐黙鈴</Girl0Icon>が同行して下山しない：**🎲運命：阻止......**(上限50、➕加値：軽功、性情)：**🧾【≧70】君の阻止**で、[金烏上人](/ja/people/characters/special207)が死亡。
 ::: 
 
 ### ※唐惟元が帰還

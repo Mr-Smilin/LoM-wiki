@@ -17,7 +17,7 @@ tags:
 - この表では、その中でも特定のイベントに限らず汎用的に使われ、かつ値が単純な「はい/いいえ」ではないものを挙げ、読者の参照用とする。
 - 特定のイベントに関わるパラメータの多くはイベントフラグ🚩であるため、該当するイベントの記事を参照。
 
-## パラメータ一覧 {#參數列表}
+## パラメータ一覧 {#参数列表}
 <Table>
   <tr>
     <th style="text-align: center">名称</th>
@@ -57,7 +57,7 @@ tags:
       これまでに獲得した煉丹点数の合計
     </td>
     <td>
-      <li>シナリオ分岐に影響する。例: 大師兄の治療(<MarkdownWrapper>[飛俠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)</MarkdownWrapper>参照)の発生</li>
+      <li>シナリオ分岐に影響する。例: 大師兄の治療(<MarkdownWrapper>[飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)</MarkdownWrapper>参照)の発生</li>
       <li>項目の解放に影響する。例: 唐門歯粉(<MarkdownWrapper>[門派施設一覧](/ja/system/facility)</MarkdownWrapper>参照)の開発</li>
       <li><MarkdownWrapper>[1回の煉丹で消費できる点数の上限が増加](https://www.pttweb.cc/bbs/C_Chat/M.1722466578.A.B4D)</MarkdownWrapper>(最高25、累計煉丹486で到達)</li>
     </td>

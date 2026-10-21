@@ -423,7 +423,7 @@ tags:
             🚩「葉雲舟が唐門代表として出場」(<MarkdownWrapper>[点蒼の逆徒](/ja/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>参照))。<br>
             大会後の<MarkdownWrapper>[宿屋での休息](/ja/event/simple/3-10-2-客棧休憩)</MarkdownWrapper>で、<br>
             先に入浴してから階下で酒を飲み、<br>
-            <MarkdownWrapper>[南溪の夜の来訪](/ja/event/simple/3-10-2-南溪夜訪)</MarkdownWrapper>イベントを発生させ、<br>
+            <MarkdownWrapper>[南渓の夜の来訪](/ja/event/simple/3-10-2-南溪夜訪)</MarkdownWrapper>イベントを発生させ、<br>
             葉雲舟好感≥40なら入手。<br>
         </li>
     </td>
@@ -1738,10 +1738,6 @@ tags:
             4. 最早で2年目11月上旬<br>
             5. 最遅で2年目12月上旬<br>
             6. 大門を選ぶと発生
-        </li>
-        <li>
-            臥雲崗イベントで<br>
-            🚩「煉丹房で小梅が敵を退ける」が発生していない
         </li>
         <li>
             3年目2月上旬に行動回数≦2で<br>
@@ -3628,7 +3624,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=12 style="text-align: center" id = "三陰蟲草膠">三陰蟲草膠<br><img src="/images/items/poisons/icon_poison_11.webp" style="width:100px"></td>
+    <td rowspan=12 style="text-align: center" id = "三陰蟲草膠">三陰虫草膠<br><img src="/images/items/poisons/icon_poison_11.webp" style="width:100px"></td>
     <td rowspan=12 style="text-align: center">
         <li>赤煉砂<br>レベル10<br></li>
         <li>門派規模2<br></li>
@@ -4124,4 +4120,4 @@ tags:
 • 開発項目を取り消すと、投資済みの鍛造/煉丹ポイントの90%、銀両の90%が返却される。<br>
 • 項目を一度解放した後なら、取り消して開発し直す際に解放条件のレベルを再度満たす必要はない。ただし項目自体は正しく揃える必要があり、たとえば護心鏡は唐門制服が開発中であることを要する。<br>
 • 解放できるのは入手済みの項目だけで、未入手なら開発条件を満たしていても、将来入手した時点で自動的に解放されることはない。<br>
-• 本記事のデータは[活俠傳資料彙總](https://docs.google.com/spreadsheets/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o)、[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)、[活俠傳事件分岐資料庫](https://mortal-web-database.vercel.app/)を参考に作成。<br>
+• 本記事のデータは[活俠傳資料彙総](https://docs.google.com/spreadsheets/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o)、[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)、[活俠傳事件分岐資料庫](https://mortal-web-database.vercel.app/)を参考に作成。<br>

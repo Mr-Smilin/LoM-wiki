@@ -31,7 +31,7 @@ tags:
 			</ChTr>
 			<ChTr>
                 <ChTd position='center'>
-                    [趙擴](/ja/people/characters/special817) (皇帝)
+                    [趙拡](/ja/people/characters/special817) (皇帝)
                 </ChTd>
             </ChTr>
             <ChTr>

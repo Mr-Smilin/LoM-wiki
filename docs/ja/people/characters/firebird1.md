@@ -37,7 +37,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[阿鶴俠](/ja/people/characters/special805) (友人)
+					[阿鶴侠](/ja/people/characters/special805) (友人)
 				</ChTd>
 			</ChTr>
 		</ChTable>
@@ -67,6 +67,6 @@ tags:
 -   火閃電がメスであることを考えると、~~求愛の相手は趙活か~~
 -   鳥熊は後の対談で、火閃電は同じ種族の鶴しか好かず、[趙活](/ja/people/characters/player)は好かないと言った。~~人と鶴は道が別なり悲しみ~~[^2]
 
-[^1]: バハムート - [【心得】火閃電是最婆的。進來，我告訴你為什麼](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2167&tnum=5)
+[^1]: バハムート - [【心得】火閃電是最婆的。進来，我告訴你為什麼](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2167&tnum=5)
 [^2]: 2024/8/5 の[ライブ訪談動画](https://www.youtube.com/watch?v=JkSfhSi3P8w)、[整理文](https://www.ptt.cc/bbs/C_Chat/M.1722863467.A.4F8.html)
 [^3]: PTT C 洽 - [\[活俠\] 奇怪的小知識](https://www.ptt.cc/bbs/C_Chat/M.1734956470.A.A0C.html)

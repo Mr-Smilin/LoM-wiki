@@ -31,8 +31,8 @@ tags:
 ### 序章終了でENDへ進む
 一年六月上旬、吐血イベント、**📖「生きたくない」**を選択、ENDへ進む。
 
-### 唐默鈴の比武招親からENDへ進む
-1. 三年五月上旬、<Girl0Icon>唐默鈴</Girl0Icon>の比武招親の夜、[金烏上人](/ja/people/characters/special207)襲撃、<Girl0Icon>唐默鈴</Girl0Icon>が同行しない（想い人が<Girl0Icon>唐默鈴</Girl0Icon>でないか、<Girl0Icon>唐默鈴</Girl0Icon>好感度<50）。
+### 唐黙鈴の比武招親からENDへ進む
+1. 三年五月上旬、<Girl0Icon>唐黙鈴</Girl0Icon>の比武招親の夜、[金烏上人](/ja/people/characters/special207)襲撃、<Girl0Icon>唐黙鈴</Girl0Icon>が同行しない（想い人が<Girl0Icon>唐黙鈴</Girl0Icon>でないか、<Girl0Icon>唐黙鈴</Girl0Icon>好感度<50）。
 2. 🗡️[金烏上人](/ja/people/characters/special207)との決闘後に殴られる：
 + 二年一月中旬[唐布衣](/ja/people/characters/brother1)下山イベントで金烏上人の偽死を見たかどうかは影響なし：
   + 🗡️金烏上人との決闘第一戦敗北、🗡️決闘第二戦勝利、
