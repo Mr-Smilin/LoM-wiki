@@ -116,7 +116,7 @@ tags:
         <td>50</td>
         <td>刀劍10 (LV6)</td>
         <td>四書事件<br>買牛事件－跟葉家兄妹要錢獲得<br>二年一月上旬－四師兄買物<br>二年崆峒派留學－無色廣場逛街，四師兄買物($2500)</td>
-        <td>2500</td>
+        <td>3000</td>
     </tr>
     <tr>
         <td><BookItemIcon :no="`2301`">同舟劍譜</BookItemIcon></td>
@@ -239,7 +239,7 @@ tags:
         <td><BookItemIcon :no="`3010`">酩酊玄劍掌</BookItemIcon></td>
         <td>體力5<br>內力5<br>拳掌10<br>刀劍10<br>傲慢</td>
         <td>80</td>
-        <td>學問20<br>拳掌20<br>刀劍15<br>黃酒80</td>
+        <td>學問20<br>拳掌20<br>刀劍15<br>身上有黃酒</td>
         <td>
             <li><MarkdownWrapper>🚩[離家出走住客棧](/event/simple/2-06-1-離家出走)</MarkdownWrapper>，故而在<MarkdownWrapper>[巧遇龍淵](/event/simple/2-08-3-巧遇龍淵)</MarkdownWrapper>時🚩認識龍淵。</li>
             <li><MarkdownWrapper>[龍湘結緣](/event/simple/3-12-3-龍湘結緣)</MarkdownWrapper>事件時，閒聊「守信用」後獲得(請見該事件流程)。</li>
@@ -370,7 +370,7 @@ tags:
         <td>50</td>
         <td></td>
         <td>二年崆峒派留學－奪魄門入門贈送<br>二年崆峒派留學－玄功門入門，選奪魄門秘笈<br>二年十月中旬－四師兄買物($1200)<br>三年四月中旬下架</td>
-        <td>1200</td>
+        <td>1500</td>
     </tr>
     <tr>
         <td><BookItemIcon :no="`6005`">鐵臂神拳</BookItemIcon></td>
@@ -398,7 +398,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`6008`">登雲踏．望月</BookItemIcon></td>
-        <td>輕功3<br>拳掌3</td>
+        <td>輕功5<br>拳掌3</td>
         <td>25</td>
         <td></td>
         <td>二年崆峒派留學拜師<MarkdownWrapper>[[夏侯蘭]]</MarkdownWrapper>，在奪魄森林修練，師父累積兩次不耐煩後會提到<MarkdownWrapper>[[唐布衣|大師兄]]</MarkdownWrapper>，<br>再次進森林，聊天議題選大師兄後取得。</td>
@@ -432,7 +432,7 @@ tags:
         <td><BookItemIcon :no="`6014`">醉拳</BookItemIcon></td>
         <td>拳掌10<br>輕功5<br>體力5<br>峨嵋十九樁</td>
         <td>50</td>
-        <td>形意拳LV1<br>黃酒50</td>
+        <td>身上有黃酒<br>或<br>形意拳LV1</td>
         <td>三年一月中旬－神兵帖第二節(臥雲崗留守、郁竹在唐門且完成神兵帖前半的鍛冶場)，鍛冶場轉盤最高結果(≧80)後，同門師兄贈送</td>
         <td></td>
     </tr>
@@ -459,7 +459,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`1030`">金鐘罩</BookItemIcon></td>
-        <td>內力5<br>體力5<br>金鐘罩LV3<br>鐵布衫LV5<br>不壞金身<br>佛學LV1</td>
+        <td>內力5<br>體力5<br>金鐘罩LV5<br>鐵布衫LV5<br>不壞金身<br>佛學LV1</td>
         <td>50</td>
         <td>佛學LV1</td>
         <td>四書事件<br>二年十月中旬－四師兄買物($3500)<br>三年四月中旬下架</td>
@@ -484,7 +484,7 @@ tags:
     <tr>
         <td><BookItemIcon :no="`7002`">全真劍法</BookItemIcon></td>
         <td>體力10<br>內力5<br>全真體操LV5<br>道學LV2</td>
-        <td>52</td>
+        <td>50</td>
         <td></td>
         <td>唐門債務&gt;-9000，上官螢拜訪事件，四師兄轉盤隨機贈送（四師兄好感需低於60）<br>青城留學，四師兄轉盤隨機贈送<br>二年三月上旬－四師兄買物($1200)<br>二年十月中旬下架</td>
         <td>1200</td>
@@ -499,7 +499,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7004`">楊家練兵操</BookItemIcon></td>
-        <td>體力5<br>侵略如火<br>戰術LV1</td>
+        <td>體力5<br>侵掠如火<br>戰術LV1</td>
         <td>25</td>
         <td></td>
         <td>二年崆峒派留學－窩居隨機，戰勝宋兵獲得<br>圍城事件中得知大師兄伐金，選跟去被打昏後獲得<br>三年四月上旬－四師兄買物($900)</td>
@@ -547,7 +547,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7010`">雪山心法</BookItemIcon></td>
-        <td>內力12<br>體力10<br>雪山心法LV5<br>陰陽靠中2</td>
+        <td>內力12<br>體力10<br>雪山心法<br>陰陽靠中2</td>
         <td>50</td>
         <td></td>
         <td>崆峒派留學－夏侯蘭支線去睡樹屋(夏侯蘭好感≧35，或選「我不要啦！」)給予</td>
@@ -555,7 +555,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7011`">玄燭心經</BookItemIcon></td>
-        <td>內力10<br>性情靠中<br>處世靠中<br>道德靠中<br>修養靠中</td>
+        <td>內力10<br>性情靠中<br>處世靠中<br>道德靠中<br>修養靠中<br>陰陽-10</td>
         <td>50</td>
         <td></td>
         <td>
@@ -593,7 +593,7 @@ tags:
         <td><BookItemIcon :no="`7015`">無為丹法</BookItemIcon></td>
         <td>內力16<br>煉神還虛LV1<br>煉精化氣LV5</td>
         <td>80</td>
-        <td>修養40<br>道學LV1</td>
+        <td>修養40<br>或<br>道學LV1</td>
         <td><MarkdownWrapper>[「青城醒轉」](/event/simple/2-08-3-青城醒轉)</MarkdownWrapper>事件初見申屠龍時獲得</td>
         <td></td>
     </tr>
@@ -646,7 +646,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`1000`">唐門暗器總綱</BookItemIcon></td>
-        <td>輕功7<br>嘴力7<br>暗器5<br>額外暗器</td>
+        <td>輕功7<br>暗器5<br>額外暗器</td>
         <td>50</td>
         <td>學問10 (LV6)</td>
         <td>初始</td>
@@ -771,7 +771,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8009`">崆峒玄兵鍛法</BookItemIcon></td>
-        <td>學問6<br>鍛造點150<br>修養-10<br>處世+10</td>
+        <td>學問6<br>鍛造點30<br>修養-10<br>處世+10</td>
         <td>50</td>
         <td>學問40</td>
         <td>二年崆峒派留學－鐵拳門季試二勝獎勵</td>
