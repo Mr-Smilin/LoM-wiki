@@ -40,6 +40,11 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
+					[[丁承烈]] (同伴)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
 					[[南宮淺]] (仇人)
 				</ChTd>
 			</ChTr>

@@ -34,6 +34,11 @@ tags:
 					[[瑞笙]] (郎君)
 				</ChTd>
 			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[丁承烈]] (護衛)
+				</ChTd>
+			</ChTr>
 		</ChTable>
 	</ChTab>
 </ChTabs>
