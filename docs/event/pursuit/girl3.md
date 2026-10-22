@@ -92,6 +92,7 @@ tags:
   <td><MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper></td>
   <td>
     <li>先確保心上人為<Girl3Icon>虞小梅</Girl3Icon>，且虞小梅好感≥35。</li>
+    <li>若無🚩<MarkdownWrapper>[收留葉氏兄妹](/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>，需確保心相＞30。</li>
     <li>
       選擇「打拳散心」，並符合以下任一條件以進入「林中修練」:<br>
       1. 離開崆峒時🚩虞小梅送行。<br>
@@ -99,8 +100,8 @@ tags:
     </li>
     <li>
       林中修練時，符合以下任一條件，以觸發小梅告知襄陽行:<br>
-      1. 有🚩<MarkdownWrapper>[收留葉氏兄妹](/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>，且葉雲舟劇情後選擇📖「再練一下功」。<br>
-      2. 無🚩收留葉氏兄妹。<br>
+      1. 有🚩收留葉氏兄妹，且葉雲舟劇情後選擇📖「再練一下功」。<br>
+      2. 無🚩收留葉氏兄妹，且心相＞30。<br>
     </li>
     <li>
       小梅告知襄陽行後，選擇📖「我跟你去」(需心上人為虞小梅)。
