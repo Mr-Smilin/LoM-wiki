@@ -45,7 +45,8 @@ tags:
         <td>高挑窈窕</td>
         <td>坦率開朗</td>
         <td>瘋瘋癲癲</td>
-        <td></td>
+        <td>請見<MarkdownWrapper>[〈虞小梅結緣攻略〉](/event/pursuit/girl3)</MarkdownWrapper>
+            <br>(⚠️劇透警告)</td>
     </tr>
     <tr>
         <td><Girl5Icon :size="`medium`">夏侯蘭</Girl5Icon></td>
