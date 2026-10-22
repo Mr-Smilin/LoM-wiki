@@ -105,8 +105,8 @@ tags:
   <td id = "4">4</td>
   <td>第二年十月上旬</td>
   <td>
-    <MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper><br>
-    <MarkdownWrapper>[南宮訃音](/event/simple/2-10-1-南宮訃音)</MarkdownWrapper><br>
+    <li><MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper></li>
+    <li><MarkdownWrapper>[南宮訃音](/event/simple/2-10-1-南宮訃音)</MarkdownWrapper><br></li>
   </td>
   <td>
     <li>進入決戰前夜之前，先確保心上人為<Girl6Icon>郁竹</Girl6Icon>，且郁竹好感≥40。</li>
@@ -157,10 +157,10 @@ tags:
       得知戰局惡化的情報後，不可選擇📖「我們逃跑」。
     </li>
     <li>
-      金烏上人自封掌派人後，對戰崆峒弟子眾不可落敗。
+      金烏上人自封掌派人後，對決崆峒弟子眾不可落敗。
     </li>
     <li>
-      對戰金烏上人時，不可落敗，也不可拖到15回合。
+      對決金烏上人時，不可落敗，也不可拖到15回合。
     </li>
     <li>
       戰後探望郁竹時，需選擇📖「我有得選?」。
