@@ -40,6 +40,11 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
+					[丁承烈](/ja/people/characters/special214) (同伴)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
 					[南宮浅](/ja/people/characters/special103) (宿敵)
 				</ChTd>
 			</ChTr>

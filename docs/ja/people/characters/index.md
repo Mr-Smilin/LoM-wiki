@@ -342,6 +342,10 @@ tags:
 	<td>大宋</td>
 </tr>
 <tr>
+	<td><MarkdownWrapper>[丁承烈](/ja/people/characters/special214)</MarkdownWrapper></td>
+	<td>大宋</td>
+</tr>
+<tr>
 	<td><MarkdownWrapper>[完顔珣](/ja/people/characters/special819)</MarkdownWrapper></td>
 	<td>大金</td>
 </tr>

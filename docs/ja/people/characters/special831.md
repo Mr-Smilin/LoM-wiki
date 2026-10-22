@@ -34,6 +34,11 @@ tags:
 					[瑞笙](/ja/people/characters/special999) (郎君)
 				</ChTd>
 			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[丁承烈](/ja/people/characters/special214) (護衛)
+				</ChTd>
+			</ChTr>
 		</ChTable>
 	</ChTab>
 </ChTabs>
