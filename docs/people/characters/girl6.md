@@ -124,6 +124,14 @@ aside: false
 					女
 				</ChTd>
 			</ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
+                    推測年紀
+                </ChTd>
+                <ChTd>
+                    16~17歲
+                </ChTd>
+            </ChTr>
 			<ChTr>
                 <ChTd isTitle=true>
                     生日
@@ -173,6 +181,16 @@ aside: false
             <ChTr>
 				<ChTd position='center'>
 					[[郁城]] (弟弟)
+				</ChTd>
+			</ChTr>
+            <ChTr>
+				<ChTd position='center'>
+					[[石夫人]] (榮譽成員)
+				</ChTd>
+			</ChTr>
+            <ChTr>
+				<ChTd position='center'>
+					[[唐惟元]] (生意夥伴)
 				</ChTd>
 			</ChTr>
 		</table>
@@ -275,13 +293,16 @@ aside: false
 ## 技藝
 
 -   技藝高超，打的寶劍連[[點蒼派]]都想求。[^1]
+-   喜好機關術，有拆解機關進行研究的嗜好，光握持唐門小劍就能察覺內藏的機關。
+-   <MarkdownWrapper>||雖然個性不好鬥，但對於[[火炎山劍閣]]發起的神兵會感到鬥志激昂。||</MarkdownWrapper>
 -   造的最厲害的武器是虎戰車、火箭飛拳。未開放的內容中有更狠的武器。[^3]
--   <MarkdownWrapper>||在唐門被武盟林討伐時，在恨意的趨使下開發了火箭連弩。因其強大的殺傷力足以造成大屠殺而感到畏懼。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||在江陵圍城期間，私下打造機關虎戰車使其參戰。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||在唐門被武盟林討伐時，在恨意的趨使下開發了火箭連弩。因其強大的殺傷力足以造成大屠殺而感到畏懼。||</MarkdownWrapper>
 -   打造出壯士飛腕，經[[唐惟元|四師兄]]收購後賣給[[葉雲裳]]，後被雲裳用以惡作劇。
--   小竹的段冶技能是頂尖的，[[趙活]]有巧思，但功底還遠遠比不上。[^10]
+-   小竹的段冶技能是頂尖的，[[趙活]]雖有巧思，但功底還遠遠比不上。[^10]
 -   愚人節DLC百萬趙活也是小竹開發的。[^8]<MarkdownWrapper>||可惜只存在於作中幻想，並未着手打造。||</MarkdownWrapper>
 -   木工技能很高，<MarkdownWrapper>||光看傢具就能詳盡分析材質、功法、造價。||</MarkdownWrapper>
--   建築知識很高，<MarkdownWrapper>||光看唐家大院屋頂就發現是皇室限定樣式，察覺唐門鐵匠鋪的隱藏機關。||</MarkdownWrapper>
+-   建築知識很高，<MarkdownWrapper>||光看唐家大院屋頂就發現是皇室限定樣式，也輕易察覺唐門鐵匠鋪的隱藏機關。||</MarkdownWrapper>
 
 ## 用品
 
@@ -289,7 +310,7 @@ aside: false
 -   對槌子有講究，握柄必須特製，能承受她的握力。[^4]
     -   <MarkdownWrapper>||深怕槌子失竊，除了返鄉幾乎寸不離手，就連參加讀書會都隨身帶着。||</MarkdownWrapper>
 -   打扮後所戴著的黑手套是烏蠶絲所織，刀槍不入。戴手套是因為不想被看到傷疤。[^7]
-    -   <MarkdownWrapper>||回崆峒時將心愛的烏蠶絲手套拆了，縫製成衣裝贈[[趙活]]為紀念物。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||回崆峒時將心愛的烏蠶絲手套拆了，縫製成裝甲，贈[[趙活]]作為紀念物。||</MarkdownWrapper>
 
 ## 身體素質
 
@@ -305,24 +326,30 @@ aside: false
 -   不願習武的原因很多：愛好和平&近視是主因之一。<MarkdownWrapper>||另一方面怕練武身材變粗壯，會更不像女孩子。||</MarkdownWrapper>
   -   <MarkdownWrapper>||得知唐門武功不會粗曠化身材後，會積極投入體操團練，也會積極向[[趙活]]請教私下武術指導。||</MarkdownWrapper>
 -   雖無法瞄準遠處目標，但投擲能力驚人，<MarkdownWrapper>||憑一招擲爆練功木人。~~不愧是[[飛石幫]]榮譽成員，擲石問天最強傳人~~||</MarkdownWrapper>
--   因為體重練不了輕功，<MarkdownWrapper>||武林盟戰役回防家唐大院期間，被建議多人抬轎扛上山。||</MarkdownWrapper>
+-   因為體重練不了輕功，<MarkdownWrapper>||武林盟戰役回防唐家大院期間，被建議多人抬轎扛上山。||</MarkdownWrapper>
 
 ## 個性&人際
--   由於崆峒治安差壞人多，小竹表面上假裝是態度兇狠的女鐵匠，實際相處上溫柔善良平意近人，常主動幫忙，深受鄰居愛戴。
+-   由於崆峒治安差壞人多，小竹表面上是態度兇狠的女鐵匠。<MarkdownWrapper>||實際相處上溫柔善良平意近人，常主動幫忙，深受鄰居愛戴。||</MarkdownWrapper>
+-   生活節儉毫無貪念，甚至常贈送免費作品，替人打磨兵器、修繕物品。<MarkdownWrapper>||常被親友奉勸應該貪心的去追求自己的幸福。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||其實因工作囤了不少財富，但大多寄送回家中，自己過着簡陋樸素的生活。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||被[[唐惟元|四師兄]]||問道是否需要從崆峒取回過去的所有物時，竟回答完全沒有，讓性格貪婪的[[唐惟元|四師兄]]感到錯愕。||</MarkdownWrapper>
 -   <MarkdownWrapper>||喜愛小孩，而且很懂小孩喜歡什麼，遇到小男童除了會說故事哄其開心，還會贈送可變形機關玩具。||</MarkdownWrapper>
--   <MarkdownWrapper>||許多惡人吃定小竹個性善良好欺負，惡意賒帳、偷竊事件並沒少過，一些無良店家會假裝是小竹的分店騙外地人。||</MarkdownWrapper>
+-   <MarkdownWrapper>||許多惡人吃定小竹個性善良好欺負，惡意賒帳、偷竊事件並沒少過，一些無良店家還會假裝是小竹的分店騙外地人。||</MarkdownWrapper>
+-   <MarkdownWrapper>||喜歡有人陪伴，怕寂寞，因[[趙活]]業務繁忙，竟萌發生孩子陪伴自己的念頭。||</MarkdownWrapper>
 -   和[[雷謙]]的互動：<MarkdownWrapper>||[[雷謙]]雖然是個大佬粗，但為人正直，十分疼愛這個女弟子，數次違法私下放行小竹返鄉。||</MarkdownWrapper>
     -   <MarkdownWrapper>||在江陵圍城戰役謊報小竹戰死，希望她別回到崆峒委屈受苦。||</MarkdownWrapper>
     -   <MarkdownWrapper>||對於小竹的家人跑來崆峒投靠感到暴怒，對於小竹為家人跑回崆峒受苦更是怒火中燒。||</MarkdownWrapper>
 -   <MarkdownWrapper>||小竹到唐門留學期間也深受鄰居愛戴，一些婦人甚至想讓自家兒子把小竹娶回家。||</MarkdownWrapper>
 -   <MarkdownWrapper>||私下在[[飛石幫]]打苦力工，因為表現優良，被譽為榮譽成員，還被[[石夫人]]加錢。||</MarkdownWrapper>
--   和[[虞小梅|小梅]]曾是好友，但因為當年被騙吃靈藥的關係，小竹仍在氣她。<MarkdownWrapper>||但聽說她被抓捕，仍奮不顧身實行逃獄救援計劃。||</MarkdownWrapper>
+-   和[[虞小梅|小梅]]的關係：曾是好友，但因為當年被騙吃靈藥的關係，小竹仍在氣她。<MarkdownWrapper>||但聽說她被抓捕，仍奮不顧身實行逃獄救援計劃。||</MarkdownWrapper>
 
 ### 原生家庭關係
 -   <MarkdownWrapper>||雖為家中長女卻不受寵，在生父眼中，就是能賣錢又能持續提款的金雞母。||</MarkdownWrapper>
-   -   <MarkdownWrapper>||小竹非常在乎家人，常私下寄錢回家，還會找名目偷偷返鄉。||</MarkdownWrapper>
-   -   <MarkdownWrapper>||但生父從中造謠，謊稱其迷路走失後離家出走，導致其餘家人一直認定她為性格惡劣的長女。||</MarkdownWrapper>
-   -   <MarkdownWrapper>||雖然生父則謊稱收入是來自賭博暴利，但事實上郁家的經濟來源幾乎靠小竹一人供應。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||因生父濫賭而被賣到崆峒，非常討厭賭博，見[[趙活]]嗜賭會生氣。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||小竹非常在乎家人，常私下寄錢回家，還會找名目偷偷返鄉。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||生父從中造謠，謊稱其迷路走失後離家出走，導致其餘家人一直認定她為性格惡劣的長女。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||雖然生父則謊稱收入是來自賭博暴利，但事實上郁家的經濟來源幾乎靠小竹一人供應。||</MarkdownWrapper>
+-   <MarkdownWrapper>||童年缺乏親情，時常因看見他人良善父母而心生羨慕，也容易同情其他父母及子女面臨的困境。||</MarkdownWrapper>
   
 ## 備註
 
@@ -336,7 +363,6 @@ aside: false
 -   是要下莫大決心，才會打扮起來的類型。[^7]
 -   就算生氣也不會揍人，不高興的時候會打鐵宣洩情緒。[^7]
 -   對於自己力氣太大感覺到自卑，雖然有過抱持少女憧憬的時期，不過事到如今也已經放棄掙扎了。[^7]
--   因為生父濫賭而被賣到崆峒，非常討厭賭博，見[[趙活]]嗜賭會生氣。
 -   因為[[雷謙|雷掌門]]愛說鬼故事的關係，她很怕鬼。
 -   溫柔全肯定廢人養成機。[^2]
 -   根據<EndIcon no="11">結局 11</EndIcon>的對話，若無結緣，最後會收養一個孤兒，與[[虞小梅|小梅]]和好。
