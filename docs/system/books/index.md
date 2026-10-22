@@ -559,9 +559,9 @@ tags:
         <td>50</td>
         <td></td>
         <td>
-            曾在🚩崆峒地牢救小梅(v1.0.5000.13尚未解鎖)。<MarkdownWrapper>[參觀錦香宮](/event/simple/3-09-3-參觀錦香宮)</MarkdownWrapper>時嚮導人選【🎲＜35 畫中仙】。
-            <MarkdownWrapper>[錦香宮自由行動](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper>時選擇<MarkdownWrapper>[挑戰畫中仙](/event/simple/3-09-3-挑戰畫中仙)</MarkdownWrapper>。
-            挑戰畫中仙後，心上人非虞小梅，修練玄燭心經的人選擇👉「我來練」獲得。<br>
+            🚩<MarkdownWrapper>[和虞小梅結緣](/event/pursuit/girl3)</MarkdownWrapper>。<MarkdownWrapper>[參觀錦香宮](/event/simple/3-09-3-參觀錦香宮)</MarkdownWrapper>時嚮導人選【🎲＜35 畫中仙】。<br>
+            <MarkdownWrapper>[錦香宮自由行動](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper>時選擇<MarkdownWrapper>[挑戰畫中仙](/event/simple/3-09-3-挑戰畫中仙)</MarkdownWrapper>。<br>
+            挑戰畫中仙後，修練玄燭心經的人選擇👉「我來練」獲得。<br>
         </td>
         <td></td>
     </tr>
