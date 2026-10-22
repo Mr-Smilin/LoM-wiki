@@ -12,18 +12,20 @@ tags:
 ---
 
 # {{ $frontmatter.title }}
+::: warning
+- 本條目草創，內容尚未經過仔細驗證，若其中有誤，懇請回報。
+:::
 
 <p align="center"><img src="/images/characters/girl_3/shy4.webp" style="width:300px"></p>
 
 ## 結緣必要條件
 <table>
-  
 <tr>
-<td style="text-align: center">編號</td>
-<td style="text-align: center">時間</td>
-<td style="text-align: center">事件</td>
-<td style="text-align: center">內容</td>
-<td style="text-align: center">建議及備註</td>
+  <td style="text-align: center">編號</td>
+  <td style="text-align: center">時間</td>
+  <td style="text-align: center">事件</td>
+  <td style="text-align: center">內容</td>
+  <td style="text-align: center">建議及備註</td>
 </tr>
 
 <tr>
@@ -38,7 +40,7 @@ tags:
   </td>
   <td>
     <li>
-      進入崆峒後投入的門派選擇並非必要條件，
+      進入崆峒後投入的門派選擇並非必要條件，<br>
       但選擇飛天門有較多小梅相關劇情可看。<br>
     </li>
   </td>
@@ -53,8 +55,14 @@ tags:
   <td>郁竹回家準備</td>
   <td>
     經由以下任一種方式，觸發本事件:<br>
-    <li>由<Girl6Icon>郁竹</Girl6Icon>觸發方式: 🚩造訪鐵拳門次數>=4，且郁竹好感≥20。時間範圍內，且行動次數≥2時，點選「鐵拳巷」指令觸發。</li>
-    <li>由<Girl3Icon>虞小梅</Girl3Icon>觸發方式: 🚩認識郁竹，且虞小梅好感≥20。時間範圍內，且行動次數≥1時，點選所投入門派修練指令，並隨機觸發「小梅跑步」，再選擇跟小梅跑步觸發。</li>
+    <li>
+        由<Girl6Icon>郁竹</Girl6Icon>觸發: 🚩造訪鐵拳門次數>=4，且郁竹好感≥20。<br>
+        時間範圍內，且行動次數≥2時，點選「鐵拳巷」指令觸發。
+    </li>
+    <li>
+        由<Girl3Icon>虞小梅</Girl3Icon>觸發: 🚩認識郁竹，且虞小梅好感≥20。
+        時間範圍內，且行動次數≥1時，點選門派修練指令，隨機觸發「小梅跑步」，再選擇跟小梅跑步。
+    </li>
   </td>
   <td>
     <li>實際的「郁竹回家」事件會在一旬後自動觸發。</li>
@@ -99,7 +107,10 @@ tags:
     </li>
   </td>
   <td>
-    <li>襄陽行期間沒有必要條件，只要存活下去即可。</li>
+    <li>
+        襄陽行期間沒有必要條件，<br>
+        只要存活下去即可。
+    </li>
   </td>
 </tr>
 
