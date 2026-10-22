@@ -86,9 +86,24 @@ tags:
     </tr>
     <tr>
         <td>銅臭俠</td>
-        <td><MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>，
+        <td>
+            <MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>，
             並在<MarkdownWrapper>[大鐵鋪遭竊](/event/simple/2-03-3-大鐵鋪遭竊#逮到男童)</MarkdownWrapper>事件中選擇👉「追左邊」，<br>
             擲骰【🎲≥50 抓到了】，再【🎲＜50 煽動成功】，<br>
-            並選擇👉「最貴的酒樓」獲得。</td>
+            並選擇👉「最貴的酒樓」獲得。
+        </td>
+    </tr>
+    <tr>
+        <td>可疑人士</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-03-1-崆峒留學)</MarkdownWrapper></li>
+            <li>🚩成立崆峒探險隊</li>
+            <li>
+                <MarkdownWrapper>[郁竹求學](/event/simple/2-03-3-郁竹求學)</MarkdownWrapper>事件中:<br>
+                1. 選擇👉「回去乘涼」<br>
+                2. 擲骰到【🎲＜60 被抓】<br>
+                3. 性情＜60
+            </li>            
+        </td>
     </tr>
 </table>
