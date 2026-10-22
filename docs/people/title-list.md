@@ -96,7 +96,8 @@ tags:
     <tr>
         <td>可疑人士</td>
         <td>
-            <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-03-1-崆峒留學)</MarkdownWrapper></li>
+            <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
+            <li>非🚩<MarkdownWrapper>[入玄功門](/event/simple/2-03-1-崆峒留學)</MarkdownWrapper></li>
             <li>🚩成立崆峒探險隊</li>
             <li>
                 <MarkdownWrapper>[郁竹求學](/event/simple/2-03-3-郁竹求學)</MarkdownWrapper>事件中:<br>
