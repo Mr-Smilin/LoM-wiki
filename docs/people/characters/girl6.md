@@ -318,17 +318,11 @@ aside: false
 -   <MarkdownWrapper>||私下在[[飛石幫]]打苦力工，因為表現優良，被譽為榮譽成員，還被[[石夫人]]加錢。||</MarkdownWrapper>
 -   和[[虞小梅|小梅]]曾是好友，但因為當年被騙吃靈藥的關係，小竹仍在氣她。<MarkdownWrapper>||但聽說她被抓捕，仍奮不顧身實行逃獄救援計劃。||</MarkdownWrapper>
 
-### 原生家庭
+### 原生家庭關係
 -   <MarkdownWrapper>||雖為家中長女卻不受寵，在生父眼中，就是能賣錢又能持續提款的金雞母。||</MarkdownWrapper>
    -   <MarkdownWrapper>||小竹非常在乎家人，常私下寄錢回家，還會找名目偷偷返鄉。||</MarkdownWrapper>
-   -   <MarkdownWrapper>||但生父從中造謠，導致其餘家人一直認定她為性格惡劣的長女。||</MarkdownWrapper>
--   生父賣掉小竹後<MarkdownWrapper>||謊稱其迷路走失，除了向小竹討生活費（賭金）之外，其餘一律不聞不問。||</MarkdownWrapper>
-   -   <MarkdownWrapper>||事實上郁家的經濟來源幾乎全靠小竹一人供應，但生父則謊稱收入是來自賭博暴利。||</MarkdownWrapper>
-   -   <MarkdownWrapper>||最後為了抵押賭債，甚至私下賣掉女二兒[[郁寶花]]，才揭露其過往惡行。||</MarkdownWrapper>   
--   妹妹[[郁寶花]]<MarkdownWrapper>||在得到良好教育和寵愛下成長，形象知書達禮的清秀女子，但本性渴望攀權富貴。||</MarkdownWrapper>
-   -   <MarkdownWrapper>||因信了父親的造謠，以為大姐是個有錢無義的不肖女，在得知真相後極力擁護大姐，並拚命參與營救小竹的行動。||</MarkdownWrapper>
--   弟弟[[郁城]]<MarkdownWrapper>||以父親為榜樣，態度傲慢跋扈和自我中心，也因此對小竹非常不友善。渴望成為不用努力也能不斷變強的大俠。||</MarkdownWrapper>
-   -   <MarkdownWrapper>||看透了父親&江湖打殺的真面目而變得鬱郁寡歡，為營救小竹，犯險逃出崆峒找[[趙活]]求救。||</MarkdownWrapper>
+   -   <MarkdownWrapper>||但生父從中造謠，謊稱其迷路走失後離家出走，導致其餘家人一直認定她為性格惡劣的長女。||</MarkdownWrapper>
+   -   <MarkdownWrapper>||雖然生父則謊稱收入是來自賭博暴利，但事實上郁家的經濟來源幾乎靠小竹一人供應。||</MarkdownWrapper>
   
 ## 備註
 
