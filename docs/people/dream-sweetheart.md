@@ -36,8 +36,10 @@ tags:
         <td>高挑窈窕</td>
         <td>坦率開朗</td>
         <td>有點呆</td>
-        <td>請見<MarkdownWrapper>[〈龍湘結緣攻略〉](/event/pursuit/girl8)</MarkdownWrapper>
-            <br>(⚠️劇透警告)</td>
+        <td>
+            請見<MarkdownWrapper>[〈龍湘結緣攻略〉](/event/pursuit/girl8)</MarkdownWrapper><br>
+            (⚠️劇透警告)
+        </td>
     </tr>
     <tr>
         <td><Girl3Icon :size="`medium`">虞小梅</Girl3Icon></td>
@@ -45,8 +47,10 @@ tags:
         <td>高挑窈窕</td>
         <td>坦率開朗</td>
         <td>瘋瘋癲癲</td>
-        <td>請見<MarkdownWrapper>[〈虞小梅結緣攻略〉](/event/pursuit/girl3)</MarkdownWrapper>
-            <br>(⚠️劇透警告)</td>
+        <td>
+            請見<MarkdownWrapper>[〈虞小梅結緣攻略〉](/event/pursuit/girl3)</MarkdownWrapper><br>
+            (⚠️劇透警告)
+        </td>
     </tr>
     <tr>
         <td><Girl5Icon :size="`medium`">夏侯蘭</Girl5Icon></td>
@@ -54,8 +58,10 @@ tags:
         <td>高挑窈窕</td>
         <td>文靜優雅</td>
         <td></td>
-        <td>請見<MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/event/pursuit/girl5)</MarkdownWrapper>
-            <br>(⚠️劇透警告)</td>
+        <td>
+            請見<MarkdownWrapper>[〈夏侯蘭結緣攻略〉](/event/pursuit/girl5)</MarkdownWrapper><br>
+            (⚠️劇透警告)
+        </td>
     </tr>
     <tr>
         <td><Girl2Icon :size="`medium`">葉雲裳</Girl2Icon></td>
@@ -63,8 +69,10 @@ tags:
         <td>嬌小玲瓏</td>
         <td>活潑開朗</td>
         <td>身嬌體弱</td>
-        <td>請見<MarkdownWrapper>[〈葉雲裳結緣攻略〉](/event/pursuit/girl2)</MarkdownWrapper>
-            <br>(⚠️劇透警告)</td>
+        <td>
+            請見<MarkdownWrapper>[〈葉雲裳結緣攻略〉](/event/pursuit/girl2)</MarkdownWrapper><br>
+            (⚠️劇透警告)
+        </td>
     </tr>
     <tr>
         <td><Girl0Icon :size="`medium`">唐默鈴</Girl0Icon></td>
@@ -72,8 +80,10 @@ tags:
         <td>嬌小玲瓏</td>
         <td>恬靜溫馴</td>
         <td>無垢之心</td>
-        <td>請見<MarkdownWrapper>[〈唐默鈴結緣攻略〉](/event/pursuit/girl0)</MarkdownWrapper>
-            <br>(⚠️劇透警告)</td>
+        <td>
+            請見<MarkdownWrapper>[〈唐默鈴結緣攻略〉](/event/pursuit/girl0)</MarkdownWrapper><br>
+            (⚠️劇透警告)
+        </td>
     </tr>
     <tr>
         <td><Girl7Icon :size="`medium`">魏菊</Girl7Icon></td>
@@ -89,7 +99,10 @@ tags:
         <td>嬌小玲瓏</td>
         <td>恬靜溫馴</td>
         <td>力拔山兮氣蓋世</td>
-        <td></td>
+        <td>
+            請見<MarkdownWrapper>[〈郁竹結緣攻略〉](/event/pursuit/girl6)</MarkdownWrapper><br>
+            (⚠️劇透警告)
+        </td>
     </tr>
     <tr>
         <td><Girl1Icon :size="`medium`">瑞杏</Girl1Icon></td>
