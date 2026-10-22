@@ -237,7 +237,7 @@ tags:
         <td>思想戦</td>
         <td>1~5?</td>
         <td>決闘開始時、LVに相当するコンボ数を持ち、LVx5の気を獲得</td>
-        <td>不明。龍淵技能</td>
+        <td><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>LV5</td>
     </tr>
     <tr>
         <td>剣界</td>
@@ -282,7 +282,7 @@ tags:
         <td>1~9</td>
         <td>等級に基づいて戦術系技能の効果を上昇。<br>敵の行動を予測する確率を上昇（要確認）。
 <br>シナリオに影響: 江陵包囲前に戦術1以上がある場合《蛇兔鷹猿搏》が取得できない<br>雪山で第三香と戦った後、夏侯蘭が趙活について褒める内容<br>戦術5以上がない場合は西武林盟を自分で組織できない</td>
-        <td><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>+5<br><MarkdownWrapper>[《楊家練兵操》](/ja/system/books/book_7004)</MarkdownWrapper>+1<br><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《南宮武備論》](/ja/system/books/book_8010)</MarkdownWrapper>+1<br> <MarkdownWrapper>[《蛇兔鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>+1</td>
+        <td><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>+5<br><MarkdownWrapper>[《楊家練兵操》](/ja/system/books/book_7004)</MarkdownWrapper>+1<br><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《南宮武備論》](/ja/system/books/book_8010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《蛇兔鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>+1<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>+1</td>
     </tr>
     <tr>
         <td>疾如風</td>

@@ -44,7 +44,8 @@ tags:
         <td>背が高くて<ruby>窈窕<rt>ようちょう</rt></ruby>な姿をしているはず</td>
         <td>素直で明るい</td>
         <td>ちょっと狂ってる感じ</td>
-        <td></td>
+        <td><MarkdownWrapper>[〈虞小梅結縁攻略〉](/ja/event/pursuit/girl3)</MarkdownWrapper>を参照
+            <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
         <td><Girl5Icon :size="`medium`" href="/ja/people/characters/girl5">夏侯蘭</Girl5Icon></td>

@@ -175,7 +175,7 @@ aside: false
 					称号
 				</ChTd>
 				<ChTd>
-					飛天嫡伝女弟子<br>阿鶴侠<br>~~楼梯侠~~
+					飛天嫡伝女弟子<br>崆峒の悪党<br>~~楼梯侠~~
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -223,6 +223,21 @@ aside: false
 					[火閃電](/ja/people/characters/firebird1.md) (寵物)
 				</ChTd>
 			</ChTr>
+            <ChTr>
+				<ChTd position='center'>
+					[瑞笙](/ja/people/characters/special999) (友人)
+				</ChTd>
+			</ChTr>
+            <ChTr>
+				<ChTd position='center'>
+					[南宮浅](/ja/people/characters/special103) (友人)
+				</ChTd>
+			</ChTr>
+            <ChTr>
+				<ChTd position='center'>
+					[孟仙謡](/ja/people/characters/special831) <MarkdownWrapper>||(親友)||</MarkdownWrapper>
+				</ChTd>
+			</ChTr>
 		</table>
 	</Info>
 </InfoList>
@@ -236,6 +251,14 @@ aside: false
 江湖では名声が響きません。しかし崆峒派内ではむしろ四門嫡伝女弟子の中で評判が最も高い一人。第一掌門の妻となる地位は確実です。
 
 <div style="clear:both;"></div>
+
+## 結縁過程
+
+::: warning
+攻略情報を含みます。閲覧は自己責任で。
+:::
+
+詳細は<MarkdownWrapper>[〈虞小梅結縁攻略〉](/ja/event/pursuit/girl3)</MarkdownWrapper>を参照。
 
 ## 列伝
 
@@ -278,23 +301,37 @@ aside: false
 
 ## 千面人魔
 
+-   <MarkdownWrapper>||実は小梅は一人ではない。[千灯楼](/ja/people/factions/thousand-lantern-tower)は大勢の孤児を「小梅」として育て、幼いうちに互いに殺し合わせた。今の小梅はその最後の生き残りである。||</MarkdownWrapper>
+-   <MarkdownWrapper>||本当は五代目の千面人魔だが、[千灯楼](/ja/people/factions/thousand-lantern-tower)は除名された四代目の千面人魔を認めていないため、小梅が繰り上がって四代目になった。||</MarkdownWrapper>
 -   走るのが好きな理由は、一つにはストレスを発散するため、もう一つには崆峒の地形を下見して暗殺行動に役立てるためである。[^4]
--   崆峒が攻撃を受けた時に混乱に乗じて逃げ出し、醜い女の阿花に変装して唐門に身を寄せた。[趙活](/ja/people/characters/player)の不誠実さを手掛かりに、[唐仙児](/ja/people/characters/firebird1)と互いに様子を探り合った。最後にようやく本当の姿を明かす。
+-   崆峒が攻撃を受けた時に混乱に乗じて逃げ出し、醜い女の阿花に変装して唐門に身を寄せた。[趙活](/ja/people/characters/player)の不誠実さを手掛かりに、[画中仙](/ja/people/characters/special813)（唐仙児）と互いに様子を探り合った。最後にようやく本当の姿を明かす。
 -   [千灯楼](/ja/people/factions/thousand-lantern-tower)の指示で多くの人を殺すべきだったが、実際には殺さず、すべて暗中で世外桃源に送っていた。
 -   <EndIcon no="11">結局11</EndIcon>の会話によれば、もし縁がなければ、最後には千灯楼の主となるだろう。
 -   [趙活](/ja/people/characters/player)が年をとっても、小梅は相変わらず少女のような姿である。
+-   <MarkdownWrapper>||[画中仙](/ja/people/characters/special813)（唐仙児）は小梅の遠縁の叔母だと偽っているが、実は小梅の一家を滅ぼした張本人である。その負い目から家族を演じることにし、小梅の面倒をよく見ている。||</MarkdownWrapper>
+-   <MarkdownWrapper>||[申屠龍](/ja/people/characters/special405)（極楽教主）から歴代最弱の千面人魔と名指しされた。武功だけでなく、任務の成功率も含めての評価である。||</MarkdownWrapper>
+
+## <MarkdownWrapper>||屍心丹||</MarkdownWrapper>
+-   <MarkdownWrapper>||[千灯楼](/ja/people/factions/thousand-lantern-tower)の刺客の話では、屍心丹の作用は人によっても状況によっても違い、[千灯楼](/ja/people/factions/thousand-lantern-tower)を裏切ろうとしたり自害しようとしたりすると屍心丹が働く。||</MarkdownWrapper>
+-   <MarkdownWrapper>||小梅は経験から、屍心丹の作用は本人の良心しだいだと推測している。だから小梅は善行をするときも、悪行という名目で行う。||</MarkdownWrapper>
+-   <MarkdownWrapper>||[荊紅](/ja/people/characters/special824)が千面人魔の令牌を持って命じると、[勾魂叟](/ja/people/characters/special806)の屍心丹が働いた。屍心丹による服従は、命じる者本人によるものではないことが確かめられた。||</MarkdownWrapper>
+-   <MarkdownWrapper>||杏花林を通りかかったときにたくさんの願いをかけ、その中に自由になりたいという願いもあった。そのため[画中仙](/ja/people/characters/special813)（唐仙児）は[瑞杏](/ja/people/characters/girl1)（姫）の命を受け、小梅を屍心丹の支配から解く手助けをする。||</MarkdownWrapper>
+-   <MarkdownWrapper>||初代の千面人魔は今の奪魄門掌門で、崆峒掌派人の権限は奪魄門より上にある。そのため[画中仙](/ja/people/characters/special813)（唐仙児）は[趙活](/ja/people/characters/player)が崆峒掌派人になるのを助け、小梅の屍心丹の支配を解くよう命じさせた。||</MarkdownWrapper>
 
 ## 備考
 
--   ヤンデレの疑いあり。[^1]
+-   ~~ヤンデレの疑いあり~~重度のヤンデレ。[^1]<MarkdownWrapper>||何度も[趙活](/ja/people/characters/player)の不実を疑って殺そうとし、多くの場面で趙活を監禁したいと口にしている。同じヤンデレの[荊紅](/ja/people/characters/special824)の歪んだ考えにさえ共感できる。||</MarkdownWrapper>
 -   社交能力Lv9。[^2]
+-   唐門の入室弟子になったのに、唐門の制服に着替えず、姓も改めていない特例である。
 -   本人いわく、右手には[阿鶴侠](/ja/people/characters/special805)の魂が宿っている。信じるかどうかはあなた次第！
+-   <MarkdownWrapper>||江湖に[阿鶴侠](/ja/people/characters/special805)は実在するが、責任を押し付けるための身分にされがちである。||</MarkdownWrapper>
 -   小梅は[火閃電](/ja/people/characters/firebird1.md)に対して厳しくも優しい。特に火閃電の自主性を尊重していて、お小遣いまで与えている。[^3]
 -   10歳の時、[唐惟元](/ja/people/characters/brother4.md)から毒薬を買い、[火龍仙君](/ja/people/characters/special204)と[金烏上人](/ja/people/characters/special207)を毒殺しようとしたが、だまされて下剤をつかまされた。今でも彼を根に持っている。
 -   小竹とはかつて親友だった。しかし当時、彼女をだまして霊薬を食べさせたせいで、小竹は今でも彼女に怒っている。本当は仲直りしたいのだが、[千灯楼](/ja/people/factions/thousand-lantern-tower)の一件に彼女を巻き込むことを恐れている。
 -   [夏侯蘭](/ja/people/characters/girl5.md)を非常に怖がっていて、蘭姐姐と呼ぶ。一方、相手は彼女を「小瘋子 (おチビの狂人)」と呼ぶ。
 -   料理の腕前は超一流。[趙活](/ja/people/characters/player)が大失敗した料理をごちそうに作り直せる。考案したお菓子は村の人々に大好評。
--   <MarkdownWrapper>||実は初版の結末は非常に悲惨で、金烏との間に6人の子を産んでいた。しかし炎上した後すぐに修正された。||</MarkdownWrapper>
+-   <MarkdownWrapper>||実は初版のある結末では、[金烏上人](/ja/people/characters/special207)との間に無理やり6人の子を産まされるという悲惨な扱いだった。一部のプレイヤーの抗議で炎上した後、この設定は削除された。||</MarkdownWrapper>
+-   <MarkdownWrapper>||攻略可能なヒロインの中で最も性欲をはっきり表す女性。イベントで[趙活](/ja/people/characters/player)の点穴をして押し倒すだけでなく、二人きりのときは趙活が全裸になって自分に見せるべきだと公言している。||</MarkdownWrapper>
 
 ## ギャラリー
 

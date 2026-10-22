@@ -4584,6 +4584,122 @@ text: '葉雲裳好感+',
 		<td>心相判定は心相減算前</td>
 	</tr>
 <tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>服役</td>
+		<td>座禅を組み調息する</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            内力+1<br>
+            <br>
+            心相判定:<br>
+            • 心相＜50: 心相+25<br>
+            • 心相≥50: 心相-10<br>
+        </td>
+		<td></td>
+		<td></td>
+		<td>基礎: 40</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>服役</td>
+		<td>馬歩を踏む</td>
+		<td>-</td>
+		<td>-10</td>
+		<td>
+            体力+1
+        </td>
+		<td></td>
+		<td></td>
+		<td>基礎: 30</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>服役</td>
+		<td>自暴自棄</td>
+		<td>-</td>
+		<td>-20</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>基礎: 15</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>服役</td>
+		<td>脱獄を試みる</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            🚩「鎮魂獄で脱獄を試みた」を設定<br>
+        </td>
+		<td></td>
+		<td></td>
+		<td>基礎: 20</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>服役</td>
+		<td>四方山話</td>
+		<td>-</td>
+		<td>+15</td>
+		<td>
+            瑞笙好感度+1
+        </td>
+		<td></td>
+		<td></td>
+		<td>基礎: 30</td>
+		<td>🚩「瑞笙の介入」</td>
+		<td></td>
+	</tr>
+<tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>服役</td>
+		<td>武林の故事</td>
+		<td>-</td>
+		<td>+15</td>
+		<td>
+            • 弁舌+1<br>
+            • 瑞笙好感度+2<br>
+        </td>
+		<td></td>
+		<td></td>
+		<td>基礎: 30</td>
+		<td>
+            • 🚩「瑞笙の介入」<br>
+            • 🚩「三師兄の昔話を聞いた回数」≥3<br>
+        </td>
+		<td></td>
+	</tr>
+<tr>
+		<td>崆峒</td>
+		<td>鎮魂獄<br>服役</td>
+		<td>ゴキブリ</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            🚩「瑞笙の介入」: 挿絵の差分<br>
+            <br>
+            複合判定(該当しない場合のみ次の判定に進む):<br>
+            1. 処世≥80、かつ性情≥60: 心相-10<br>
+            2. 性情≥60: 会話差分<br>
+            3. その他: 心相-15<br>
+        </td>
+		<td></td>
+		<td></td>
+		<td>基礎: 25</td>
+		<td></td>
+		<td></td>
+	</tr>
+<tr>
 		<td>江陵囲城</td>
 		<td>コマンドメニュー</td>
 		<td>-</td>
@@ -6030,5 +6146,5 @@ text: '葉雲裳好感+',
     5. 優先イベントが1つだけ (=「優先イベントなし」) で特別な内容も無い場合、本表では省略する。<br>
     6. 貢献や一部の数値増減は、実際には優先イベントの中で発生する。本表の形式では正確な流れを表しにくいため、等価な結果をできるだけ記述するにとどめる。<br>
     7. 本表では読者が2つのイベントを同時に参照しなくて済むよう、優先イベントの効果をできるだけ後続のランダムイベントの効果に含めて記述する。<br>
-- 本記事は[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)を参考に作成。<br>
+- 本記事は[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)、[活俠傳事件分岐資料庫](https://mortal-web-database.vercel.app/)を参考に作成。<br>
 <br>

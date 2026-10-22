@@ -703,7 +703,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8001`">孫子兵法</BookItemIcon></td>
-        <td>学問18<br>戦術LV5<br>性情-6</td>
+        <td>学問18<br>戦術LV5<br>思想戦LV1<br>性情-6</td>
         <td>80</td>
         <td>学問20<br>学問30 (LV2)<br>学問50 (LV4)<br>学問80 (LV8)</td>
         <td>一年四月上旬－唐惟元から購入 ($2000)</td>
@@ -719,7 +719,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8003`">雪球教戦守則</BookItemIcon></td>
-        <td>暗器5<br>戦術LV1<br>道徳-5</td>
+        <td>暗器5<br>戦術LV1<br>思想戦LV1<br>道徳-5</td>
         <td>25</td>
         <td></td>
         <td>青城留学で九月下旬までに、3回修練して<MarkdownWrapper>[青城での爪弾き](/ja/event/simple/2-08-3-青城排擠)</MarkdownWrapper>イベントを発生させ、葉雲裳≥35で贈られる。</td>

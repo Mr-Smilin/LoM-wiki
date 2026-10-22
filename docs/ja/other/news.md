@@ -11,6 +11,17 @@ gitChangelog: false
 ---
 <br>
 
+# 江湖快報 2026年10月号
+<!--@include: @/ja/other/news/20261020-01-release.md-->
+<!--@include: @/ja/other/news/20261018-01-release.md-->
+<!--@include: @/ja/other/news/20261016-01-release.md-->
+<!--@include: @/ja/other/news/20261015-03-release.md-->
+<!--@include: @/ja/other/news/20261015-02-release.md-->
+<!--@include: @/ja/other/news/20261015-01-announce.md-->
+
+---
+<br>
+
 # 江湖快報 2026年8月号
 <!--@include: @/ja/other/news/20260818-01-announce.md-->
 

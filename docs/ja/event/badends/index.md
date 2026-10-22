@@ -2440,7 +2440,7 @@ tags:
 
 <div class="table-content">
 
-## 生死簿 No.101 - 生死簿 No.105
+## 生死簿 No.101 - 生死簿 No.106
 
 <Btable>
     <tr>
@@ -2564,11 +2564,41 @@ tags:
             -
         </td>
     </tr>
+    <tr>
+        <td id="生死簿-No.106">
+            <BadendIcon :no="106">生死簿 No.106</BadendIcon>
+        </td>
+        <td>
+            笑って逝く (含笑而終)
+        </td>
+        <td>
+            せっかく親切に牢破りに来てくれたのに、恩を仇で返すとは？<br>
+            かくして望みどおり、その場で命を落とした。<br>
+        </td>
+        <td>-</td>
+        <td>
+          <li>
+            🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学し、
+            🚩<MarkdownWrapper>[崆峒派への留学](/ja/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>で飛天門に入門。
+          </li>
+          <li>
+            <MarkdownWrapper>[飛天門のいじめ](/ja/event/simple/2-03-3-飛天門霸凌)</MarkdownWrapper>で、
+            🚩「いじめからの逃走結果」= <MarkdownWrapper>[夏侯蘭に捕まる](/ja/event/simple/2-03-3-飛天門霸凌#崆峒圍殺)</MarkdownWrapper>
+             または <MarkdownWrapper>[乱戦に巻き込まれる](/ja/event/simple/2-03-3-飛天門霸凌#逃入無色市集)</MarkdownWrapper>。
+          </li>
+          <li>
+            その後の<MarkdownWrapper>[鎮魂獄での拘留](/ja/event/simple/2-03-3-鎮魂獄羈押)</MarkdownWrapper>で、
+            <MarkdownWrapper>[小梅の着替え](/ja/event/simple/2-03-3-鎮魂獄羈押#小梅更衣)</MarkdownWrapper>まで進んだとき、
+            👉「素直に見せなさい」を選び、ダイスで【🎲≥50 少し見えた】が出る。
+          </li>
+        </td>
+        <td>-</td>
+    </tr>
 </Btable>
 
 資料来源：
 
-バハムート－[【攻略】v1.05生死簿汗青書整理(有雷)](https://forum.gamer.com.tw/C.php?bsn=73317&snA=3647&tnum=3&subbsn=3)
+バハムート－[【攻略】v1.05生死簿汗青書整理(有雷)](https://forum.gamer.com.tw/C.php?bsn=73317&snA=3647&tnum=3&subbsn=3)、[活俠傳事件分岐資料庫](https://mortal-web-database.vercel.app/)
 
 </div>
 
