@@ -250,6 +250,14 @@ aside: false
 
 <div style="clear:both;"></div>
 
+## 結緣過程
+
+::: warning
+包含攻略內容，謹慎閱讀  
+:::
+
+詳見[〈虞小梅結緣攻略〉](/event/pursuit/girl3)  
+
 ## 列傳
 
 <Tabs>
