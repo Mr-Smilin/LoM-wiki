@@ -82,6 +82,18 @@ export default {
                 52: '/images/generic/background/pic_sleep_000.webp',
                 53: '/images/generic/background/pic_sleep_000.webp',
                 54: '/images/generic/background/pic_treehouse_000.webp',
+                55: '/images/generic/background/pic_treehouse_000.webp',
+                56: '/images/generic/background/pic_treehouse_000.webp',
+                57: '/images/generic/background/pic_treehouse_000.webp',
+                58: '/images/generic/background/pic_treehouse_000.webp',
+                59: '/images/generic/background/pic_treehouse_000.webp',
+                60: '/images/generic/background/pic_treehouse_000.webp',
+                61: '/images/generic/background/pic_treehouse_000.webp',
+                62: '/images/generic/background/pic_treehouse_000.webp',
+                63: '/images/generic/background/pic_treehouse_000.webp',
+                64: '/images/generic/background/pic_treehouse_000.webp',
+                65: '/images/generic/background/pic_treehouse_000.webp',
+                66: '/images/generic/background/pic_treehouse_000.webp',
             };
             if (imageSource !== ""){
                 return {
