@@ -375,7 +375,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 
 <tr>
     <td>結局 26</td>
-    <td style="color: #a83232;">山中老人</td>
+    <td style="color: #a83232;"><EndIcon no="26">山中老人</EndIcon></td>
     <td>
         <span style="color: #006F86;">【遣散唐門】</span>
         <span style="color: #FF2D51;">【虞小梅】</span>
@@ -386,7 +386,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 
 <tr>
     <td>結局 27</td>
-    <td style="color: #a83232;">世外桃源</td>
+    <td style="color: #a83232;"><EndIcon no="27">世外桃源</EndIcon></td>
     <td>
         <span style="color: #006F86;">【遣散唐門】</span>
         <span style="color: #FF2D51;">【虞小梅】</span>
@@ -397,7 +397,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 
 <tr>
     <td>結局 28</td>
-    <td style="color: #a83232;">血河刀</td>
+    <td style="color: #a83232;"><EndIcon no="28">血河刀</EndIcon></td>
     <td>
         <span style="color: #006F86;">【遣散唐門】</span>
         <span style="color: #70AA39;">【郁竹】</span>
@@ -410,6 +410,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 29</td>
     <td style="color: #a83232;">再世龐統</td>
     <td>
+        <span style="color: red;">【1.0.6000 版疑似無法達成，待查】</span><br>
         <span style="color: #006F86;">【遣散唐門】</span>
         <span style="color: #70AA39;">【郁竹】</span>
         <span style="color: #FF1493;">【結緣】</span><br>
@@ -553,7 +554,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 
 <tr>
     <td>結局 40</td>
-    <td style="color: #a83232;">小梅私藏</td>
+    <td style="color: #a83232;"><EndIcon no="40">小梅私藏</EndIcon></td>
     <td>
         <span style="color: #DC0000;">【唐門覆滅】</span>
         <span style="color: #FF2D51;">【虞小梅】</span>
@@ -564,7 +565,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 
 <tr>
     <td>結局 41</td>
-    <td style="color: #a83232;">千古名匠</td>
+    <td style="color: #a83232;"><EndIcon no="41">千古名匠</EndIcon></td>
     <td>
         <span style="color: #DC0000;">【唐門覆滅】</span>
         <span style="color: #70AA39;">【郁竹】</span>

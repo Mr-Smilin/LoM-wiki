@@ -16,7 +16,7 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=49 title="喪家之犬">
-你有一間房子可以遮風避雨，但已沒有故鄉能夠回<br>
+你有一間房子可以遮風擋雨，但已沒有故鄉能夠回<br>
 去。<br>
 <br>
 <br>
