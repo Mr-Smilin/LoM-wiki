@@ -439,6 +439,9 @@ tags:
 ## 郁竹家人
 
 ### 郁父
+
+<img src="/images/characters/special838/normal.webp" style="width:200px;" />
+
 <table>
     <tr>
         <td>郁竹返鄉</td>
@@ -451,6 +454,9 @@ tags:
 </table>
 
 ### 郁母
+
+<img src="/images/characters/special839/normal.webp" style="width:200px;" />
+
 <table>
     <tr>
         <td>郁竹返鄉</td>
@@ -463,6 +469,9 @@ tags:
 </table>
 
 ### 郁寶花
+
+<img src="/images/characters/special840/normal.webp" style="width:200px;" />
+
 <table>
     <tr>
         <td>郁竹返鄉</td>
@@ -479,6 +488,9 @@ tags:
 </table>
 
 ### 郁城
+
+<img src="/images/characters/special841/normal.webp" style="width:200px;" />
+
 <table>
     <tr>
         <td>郁竹返鄉</td>
@@ -497,6 +509,9 @@ tags:
 ## 崆峒居民
 
 ### 顏嫂
+
+<img src="/images/mobs/kong-tong-sect/flying/trainee431_normal.webp" style="width:200px;" />
+
 <table>
     <tr>
         <td>小梅線<br>探監</td>
