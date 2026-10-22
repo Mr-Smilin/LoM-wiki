@@ -250,14 +250,6 @@ aside: false
 
 <div style="clear:both;"></div>
 
-## 結緣過程
-
-::: warning
-包含攻略內容，謹慎閱讀  
-:::
-
-詳見[〈虞小梅結緣攻略〉](/event/pursuit/girl3)  
-
 ## 列傳
 
 <Tabs>
@@ -302,6 +294,14 @@ aside: false
 	無論天涯海角，都奉陪到底，與你既是生死之交，也是伴侶。
   </Tab>
 </Tabs>
+
+## 結緣過程
+
+::: warning
+包含攻略內容，謹慎閱讀  
+:::
+
+詳見[〈虞小梅結緣攻略〉](/event/pursuit/girl3)  
 
 ## 千面人魔
 
