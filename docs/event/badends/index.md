@@ -2617,7 +2617,7 @@ tags:
     </tr>
     <tr>
         <td id="生死簿-No.108">
-            <BadendIcon :no="106">生死簿 No.106</BadendIcon>
+            <BadendIcon :no="108">生死簿 No.108</BadendIcon>
         </td>
         <td>
             與情敵同歸於盡
