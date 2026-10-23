@@ -31,7 +31,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.00">00</td>
-        <td><AchievementIcon :size="`medium`" :no="`00`">命中有數</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`00`"><br>命中有數</AchievementIcon></td>
         <td>儘管未必如意，能夠坦然走到這裡，也很了不起。</td>
         <td>
             完成一周目。<br>
@@ -137,7 +137,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.09">09</td>
-        <td><AchievementIcon :size="`medium`" :no="`09`">展露頭角</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`09`"><br>展露頭角</AchievementIcon></td>
         <td>你在崆峒大試大出風頭，要不是臉，說不定老婆都有了。</td>
         <td>
             第二年崆峒派留學比武連勝三場或<br>
