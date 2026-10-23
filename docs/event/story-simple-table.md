@@ -287,7 +287,7 @@ tags:
 			[衣服遭竊](/event/simple/2-04-1-衣服遭竊)<br>
             [季試消息](/event/simple/2-04-1-季試消息)<br>
             [崆峒探險隊](/event/simple/2-04-1-崆峒探險隊)<br>
-            郁竹返家準備<br>
+            [郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)<br>
 			[奪魄森林事件集](/event/simple/2-04-1-奪魄森林事件集)<br>
         </MarkdownWrapper>
     </td>
