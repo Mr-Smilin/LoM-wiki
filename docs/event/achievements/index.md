@@ -110,7 +110,7 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`06`"><br>一心一意</AchievementIcon></td>
         <td>你挨過需要藉口的年紀，認定了心上人，就至死不渝。</td>
         <td>變心次數≤1。<br>
-            (變心夢中有更換心上人才算。)
+            (變心夢中有更換心上人才計入次數。)
         </td>
         <td></td>
         <td>~~切記不要手滑點錯選項。~~</td>
