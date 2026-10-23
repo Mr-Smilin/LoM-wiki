@@ -175,12 +175,12 @@ aside: false
 			</ChTr>
             <ChTr>
 				<ChTd position='center'>
-					[[郁寶花]] (妹妹)
+					[郁寶花](/people/mobs/other#郁寶花) (妹妹)
 				</ChTd>
 			</ChTr>
             <ChTr>
 				<ChTd position='center'>
-					[[郁城]] (弟弟)
+					[郁城](/people/mobs/other#郁城) (弟弟)
 				</ChTd>
 			</ChTr>
             <ChTr>
@@ -340,7 +340,7 @@ aside: false
 -   由於崆峒治安差壞人多，小竹表面上是態度兇狠的女鐵匠。<MarkdownWrapper>||實際相處上溫柔善良平意近人，常主動幫忙，深受鄰居愛戴。||</MarkdownWrapper>
 -   生活節儉毫無貪念，甚至常贈送免費作品，替人打磨兵器、修繕物品。<MarkdownWrapper>||常被親友奉勸應該貪心的去追求自己的幸福。||</MarkdownWrapper>
     -   <MarkdownWrapper>||其實因工作囤了不少財富，但大多寄送回家中，自己過着簡陋樸素的生活。||</MarkdownWrapper>
-    -   <MarkdownWrapper>||被[[唐惟元|四師兄]]||問道是否需要從崆峒取回過去的所有物時，竟回答完全沒有，讓性格貪婪的[[唐惟元|四師兄]]感到錯愕。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||被[[唐惟元|四師兄]]問道是否需要從崆峒取回過去的所有物時，竟回答完全沒有，讓性格貪婪的[[唐惟元|四師兄]]感到錯愕。||</MarkdownWrapper>
 -   <MarkdownWrapper>||喜愛小孩，而且很懂小孩喜歡什麼，遇到小男童除了會說故事哄其開心，還會贈送可變形機關玩具。||</MarkdownWrapper>
 -   <MarkdownWrapper>||許多惡人吃定小竹個性善良好欺負，惡意賒帳、偷竊事件並沒少過，一些無良店家還會假裝是小竹的分店騙外地人。||</MarkdownWrapper>
 -   <MarkdownWrapper>||喜歡有人陪伴，怕寂寞，因[[趙活]]業務繁忙，竟萌發生孩子陪伴自己的念頭。||</MarkdownWrapper>
@@ -365,7 +365,7 @@ aside: false
 -   [[瑞杏]]為她慶生的影片：[【杏花仙絕無僅有的心血來潮】](https://www.youtube.com/watch?v=ZELq9yk-Z5U)
     -   <MarkdownWrapper>||上述影片劇情在作中列為正史，夢境中後受人的祝福，成為小竹活着的希望之一。||</MarkdownWrapper>
 -   關於年紀：<MarkdownWrapper>||與[[虞小梅|小梅]]同年。||</MarkdownWrapper>
-    -   <MarkdownWrapper>||因[[虞小梅|小梅]]自稱比[[夏侯蘭]]小快10歲。[[唐中翎]]稱[[虞小梅|小梅]]年紀比[[唐默铃]]大。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||因[[虞小梅|小梅]]自稱比[[夏侯蘭]]小快10歲。[[唐中翎]]稱[[虞小梅|小梅]]年紀比[[唐默鈴]]大。||</MarkdownWrapper>
         -   <MarkdownWrapper>||又因[[解無塵]]稱[[夏侯蘭]]約25~26歲。||</MarkdownWrapper>
         -   <MarkdownWrapper>||[[唐默鈴]]約15~16歲，故推算[[虞小梅|小梅]]&小竹約16～17歲。||</MarkdownWrapper>
 -   是要下莫大決心，才會打扮起來的類型。[^7]
