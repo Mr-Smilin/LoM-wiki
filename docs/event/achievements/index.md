@@ -18,7 +18,7 @@ tags:
 :::
 
 防劇透唐嬌嬌鎮樓：
-<img height="300" width="300" src="/images/characters/big_trainee_girl_1/jojo.webp">
+<p align="center"><img height="300" width="300" src="/images/characters/big_trainee_girl_1/jojo.webp"></p>
 
 <BTable>
     <tr>
@@ -234,5 +234,21 @@ tags:
         <td><MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>並<MarkdownWrapper>[讓她同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，離開時<MarkdownWrapper>[各派投票結果](/event/simple/3-10-2-公審唐門#公審總結)</MarkdownWrapper>為唐門成為武林公敵，<MarkdownWrapper>[上前解釋](/event/simple/3-10-2-武林公敵)</MarkdownWrapper>時選擇「讓葉雲裳陪伴」。</td>
         <td></td>
         <td>v1.0.5000.0版本後新增</td>
+    </tr>
+    <tr>
+        <td id="風雲史-No.20">20</td>
+        <td>折梅手</td>
+        <td>曾經凌寒獨放，而又甘心為你摧折。</td>
+        <td>武林傳奇通關時與<Girl3Icon>虞小梅</Girl3Icon>結緣，步驟請見<MarkdownWrapper>[〈虞小梅結緣攻略〉](/event/pursuit/girl3)</MarkdownWrapper>。</td>
+        <td></td>
+        <td>v1.0.6000.0版本後新增</td>
+    </tr>
+    <tr>
+        <td id="風雲史-No.21">21</td>
+        <td>一家之主</td>
+        <td>唐門外姓弟子，崆峒掌派人，竹城之主，她的歸宿。</td>
+        <td>武林傳奇通關時與<Girl6Icon>郁竹</Girl6Icon>結緣，步驟請見<MarkdownWrapper>[〈郁竹結緣攻略〉](/event/pursuit/girl6)</MarkdownWrapper>。</td>
+        <td></td>
+        <td>v1.0.6000.0版本後新增</td>
     </tr>
 </BTable>
