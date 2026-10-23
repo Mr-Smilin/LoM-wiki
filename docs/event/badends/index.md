@@ -1054,7 +1054,7 @@ tags:
             • 葉雲舟同行方法: 有<MarkdownWrapper>[收留葉氏兄妹](/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>、曾<MarkdownWrapper>[留學青城](/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>。
             <MarkdownWrapper>[葉氏兄妹離去](/event/simple/3-01-1-葉氏兄妹離去)</MarkdownWrapper>時，讓他們留下。
             <MarkdownWrapper>[比武招親](/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper>前，將心上人改為唐默鈴，或葉雲裳好感＜50。<br>
-            • 瑞笙同行: 劇情路線尚未解鎖。<br>
+            • 瑞笙同行方法: 小師妹同行，且曾在<MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>與瑞笙打成平手，並稱「生活雙俠」。<br>
         </td>
         <td>
             光看這描述還以為走到了Normal End去了。
