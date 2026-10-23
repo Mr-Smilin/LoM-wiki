@@ -30,6 +30,14 @@ aside: false
 				</ChTd>
 			</ChTr>
 			<ChTr>
+				<ChTd isTitle=true>
+					本名
+				</ChTd>
+				<ChTd>
+					||王春曉||
+				</ChTd>
+			</ChTr>
+			<ChTr>
 				<ChTd isTitle=true position='center'>
 					關係
 				</ChTd>
