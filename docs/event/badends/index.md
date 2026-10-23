@@ -2631,7 +2631,7 @@ tags:
             🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>
           </li>
           <li>
-            由<Girl3Icon>虞小梅</Girl3Icon>途徑觸發<MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper>，<br>
+            由<Girl3Icon>虞小梅</Girl3Icon>途徑觸發<MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備#發現郁竹)</MarkdownWrapper>，<br>
             事件中選擇👉「追上去看看」，戰余公子落敗。
           </li>
         </td>
