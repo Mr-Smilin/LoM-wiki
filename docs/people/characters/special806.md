@@ -24,6 +24,12 @@ tags:
 				<ChTd>
 					男
 				</ChTd>
+				<ChTd isTitle=true>
+					本名
+				</ChTd>
+				<ChTd>
+					||姚知命||
+				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true position='center'>
