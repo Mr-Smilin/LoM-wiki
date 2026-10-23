@@ -115,8 +115,8 @@ tags:
         <td>刀剣10<br>軽功10<br>点蒼瞬剣LV2<br>点破雲関</td>
         <td>50</td>
         <td>刀剣10 (LV6)</td>
-        <td>四書イベント<br>牛買いイベント－葉家兄妹にお金をもらって入手<br>二年一月上旬－唐惟元から購入<br>二年崆峒派留学－無色広場の街歩き、唐惟元から購入 ($2500)</td>
-        <td>2500</td>
+        <td>四書イベント<br>牛買いイベント－葉家兄妹にお金をもらって入手<br>二年一月上旬－唐惟元から購入<br>二年崆峒派留学－無色広場の街歩き、唐惟元から購入 ($3000)</td>
+        <td>3000</td>
     </tr>
     <tr>
         <td><BookItemIcon :no="`2301`">同舟剣譜</BookItemIcon></td>
@@ -239,7 +239,7 @@ tags:
         <td><BookItemIcon :no="`3010`">酩酊玄剣掌</BookItemIcon></td>
         <td>体力5<br>内功5<br>拳掌10<br>刀剣10<br>傲慢</td>
         <td>80</td>
-        <td>学問20<br>拳掌20<br>刀剣15<br>黄酒80</td>
+        <td>学問20<br>拳掌20<br>刀剣15<br>黄酒を所持</td>
         <td>
             <li><MarkdownWrapper>🚩[家出](/ja/event/simple/2-06-1-離家出走)して宿屋に泊まり、その結果[龍淵との偶然の出会い](/ja/event/simple/2-08-3-巧遇龍淵)の時に🚩龍淵と知り合う。</MarkdownWrapper></li>
             <li><MarkdownWrapper>[龍湘との結縁](/ja/event/simple/3-12-3-龍湘結緣)イベントで、雑談「信義を守る」の後に入手（当該イベントの流れを参照）。</MarkdownWrapper></li>
@@ -369,8 +369,8 @@ tags:
         <td>軽功10<br>無影爪<br>道徳-</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留学－奪魄門入門時に贈られる<br>二年崆峒派留学－玄功門に入門し、奪魄門の秘笈を選択<br>二年十月中旬－唐惟元から購入 ($1200)<br>三年四月中旬に販売終了</td>
-        <td>1200</td>
+        <td>二年崆峒派留学－奪魄門入門時に贈られる<br>二年崆峒派留学－玄功門に入門し、奪魄門の秘笈を選択<br>二年十月中旬－唐惟元から購入 ($1500)<br>三年四月中旬に販売終了</td>
+        <td>1500</td>
     </tr>
     <tr>
         <td><BookItemIcon :no="`6005`">鉄臂神拳</BookItemIcon></td>
@@ -398,7 +398,7 @@ tags:
     </tr>	
     <tr>
         <td><BookItemIcon :no="`6008`">登雲踏・望月</BookItemIcon></td>
-        <td>軽功3<br>拳掌3</td>
+        <td>軽功5<br>拳掌3</td>
         <td>25</td>
         <td></td>
         <td>二年崆峒派留学で<MarkdownWrapper>[夏侯蘭](/ja/people/characters/girl5)</MarkdownWrapper>に弟子入りし、奪魄森林で修練、師匠のいらだちを2回累積すると唐布衣の話が出る。<br>再度森林に入り、会話の話題で大師兄を選ぶと取得。</td>
@@ -432,7 +432,7 @@ tags:
         <td><BookItemIcon :no="`6014`">酔拳</BookItemIcon></td>
         <td>拳掌10<br>軽功5<br>体力5<br>峨嵋十九樁</td>
         <td>50</td>
-        <td>形意拳LV1<br>黄酒50</td>
+        <td>黄酒を所持<br>または<br>形意拳LV1</td>
         <td>3年目1月中旬－神兵帖の第二節 (臥雲崗の留守番・郁竹が唐門にいて神兵帖の前半の鍛冶場を済ませている)、鍛冶場のダイスで最高の結果 (80以上) を出していると同門の師兄が贈る</td>
         <td></td>
     </tr>
@@ -459,7 +459,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`1030`">金鐘罩</BookItemIcon></td>
-        <td>内功5<br>体力5<br>金鐘罩LV3<br>鉄布衫LV5<br>不壊金身<br>仏学LV1</td>
+        <td>内功5<br>体力5<br>金鐘罩LV5<br>鉄布衫LV5<br>不壊金身<br>仏学LV1</td>
         <td>50</td>
         <td>仏学LV1</td>
         <td>四書イベント<br>二年十月中旬－唐惟元から購入 ($3500)<br>三年四月中旬に販売終了</td>
@@ -484,7 +484,7 @@ tags:
     <tr>
         <td><BookItemIcon :no="`7002`">全真剣法</BookItemIcon></td>
         <td>体力10<br>内功5<br>全真体操LV5<br>道学LV2</td>
-        <td>52</td>
+        <td>50</td>
         <td></td>
         <td>唐門の債務&gt;-9000、上官螢訪問イベント、唐惟元ダイスでランダムに贈られる (唐惟元好感が60未満であること)<br>青城留学、唐惟元ダイスでランダムに贈られる<br>二年三月上旬－唐惟元から購入 ($1200)<br>二年十月中旬に販売終了</td>
         <td>1200</td>
@@ -547,7 +547,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7010`">雪山心法</BookItemIcon></td>
-        <td>内功12<br>体力10<br>雪山心法LV5<br>陰陽中寄り2</td>
+        <td>内功12<br>体力10<br>雪山心法<br>陰陽中寄り2</td>
         <td>50</td>
         <td></td>
         <td>崆峒派留学－夏侯蘭サブルートで樹上小屋に泊まる (夏侯蘭好感≧35、または「嫌だよ！」を選択) と与えられる</td>
@@ -555,10 +555,14 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`7011`">玄燭心経</BookItemIcon></td>
-        <td>内功10<br>性情中寄り<br>処世中寄り<br>道徳中寄り<br>品性中寄り</td>
+        <td>内功10<br>性情中寄り<br>処世中寄り<br>道徳中寄り<br>品性中寄り<br>陰陽-10</td>
         <td>50</td>
         <td></td>
-        <td>現在入手不可 (ver 1.0.5000.5)</td>
+        <td>
+            🚩虞小梅と結縁 (<MarkdownWrapper>[虞小梅結縁攻略](/ja/event/pursuit/girl3)</MarkdownWrapper>参照)。<MarkdownWrapper>[錦香宮見学](/ja/event/simple/3-09-3-參觀錦香宮)</MarkdownWrapper>で案内役が【🎲＜35 画中仙】。<br>
+            <MarkdownWrapper>[錦香宮イベント集](/ja/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper>の自由行動で<MarkdownWrapper>[画中仙に挑戦](/ja/event/simple/3-09-3-挑戰畫中仙)</MarkdownWrapper>を選ぶ。<br>
+            画中仙に挑戦した後、玄燭心経を修める人に👉「自分が修める」を選ぶと入手。<br>
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -589,7 +593,7 @@ tags:
         <td><BookItemIcon :no="`7015`">無為丹法</BookItemIcon></td>
         <td>内功16<br>煉神還虚LV1<br>煉精化気LV5</td>
         <td>80</td>
-        <td>品性40<br>道学LV1</td>
+        <td>品性40<br>または<br>道学LV1</td>
         <td><MarkdownWrapper>[青城での目覚め](/ja/event/simple/2-08-3-青城醒轉)</MarkdownWrapper>イベントで申屠龍に初めて会った時に入手</td>
         <td></td>
     </tr>
@@ -642,7 +646,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`1000`">唐門暗器総綱</BookItemIcon></td>
-        <td>軽功7<br>弁舌7<br>暗器5<br>追加暗器</td>
+        <td>軽功7<br>暗器5<br>追加暗器</td>
         <td>50</td>
         <td>学問10 (LV6)</td>
         <td>初期所持</td>
@@ -767,7 +771,7 @@ tags:
     </tr>
     <tr>
         <td><BookItemIcon :no="`8009`">崆峒玄兵鍛法</BookItemIcon></td>
-        <td>学問6<br>鍛造ポイント150<br>品性-10<br>処世+10</td>
+        <td>学問6<br>鍛造ポイント30<br>品性-10<br>処世+10</td>
         <td>50</td>
         <td>学問40</td>
         <td>二年崆峒派留学－鉄拳門季試2勝の報酬</td>

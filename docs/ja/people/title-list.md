@@ -90,4 +90,18 @@ tags:
             天運ダイスで【🎲≥50 捕まえた】、続けて【🎲＜50 煽動成功】を出し、<br>
             👉「崆峒で一番高い酒楼に行きたい (厚かましく)」を選ぶ</td>
     </tr>
+    <tr>
+        <td>不審人物</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
+            <li><MarkdownWrapper>[崆峒派への留学](/ja/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>で玄功門に入門していない</li>
+            <li>🚩<MarkdownWrapper>[崆峒探検隊](/ja/event/simple/2-04-1-崆峒探險隊#探險隊成立)</MarkdownWrapper>が結成されている</li>
+            <li>
+                <MarkdownWrapper>[郁竹の求学](/ja/event/simple/2-03-3-郁竹求學)</MarkdownWrapper>イベントで:<br>
+                1. 👉「戻って涼む」を選ぶ<br>
+                2. ダイスで【🎲＜60 捕まる】を出す<br>
+                3. 性情＜60
+            </li>
+        </td>
+    </tr>
 </table>

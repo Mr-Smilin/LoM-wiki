@@ -422,6 +422,7 @@ tags:
 <EndIcon no="29"><ruby>龐統<rt>ほうとう</rt></ruby>の再来</EndIcon>
 </td>
 <td>
+<span style="color: red;">【現在のバージョンでは達成不可】</span><br>
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #70AA39;">【郁竹】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
@@ -758,7 +759,7 @@ tags:
 エンディング55
 </td>
 <td style="color: #a83232;">
-活きる
+<EndIcon no="55">活きる</EndIcon>
 </td>
 <td>
 <span style="color: #70AA39;">【郁竹】</span><br>
@@ -770,7 +771,7 @@ tags:
 エンディング56
 </td>
 <td style="color: #a83232;">
-平凡な悲劇
+<EndIcon no="56">平凡な悲劇</EndIcon>
 </td>
 <td>
 <span style="color: #70AA39;">【郁竹】</span><br>
@@ -781,7 +782,7 @@ tags:
 エンディング57
 </td>
 <td style="color: #a83232;">
-神の不在証明
+<EndIcon no="57">神の不在証明</EndIcon>
 </td>
 <td>
 <span style="color: #FF2D51;">【虞小梅】</span>
@@ -792,7 +793,7 @@ tags:
 エンディング58
 </td>
 <td style="color: #a83232;">
-修仙
+<EndIcon no="58">修仙</EndIcon>
 </td>
 <td>
 <span style="color: #FF2D51;">【虞小梅】</span>
@@ -803,7 +804,7 @@ tags:
 エンディング59
 </td>
 <td style="color: #a83232;">
-自創の武功
+<EndIcon no="59">自創の武功</EndIcon>
 </td>
 <td>
 <span style="color: #70AA39;">【郁竹】</span><br>
@@ -814,7 +815,7 @@ tags:
 エンディング60
 </td>
 <td style="color: #a83232;">
-崆峒掌派人
+<EndIcon no="60">崆峒掌派人</EndIcon>
 </td>
 <td>
 <span style="color: #FF2D51;">【虞小梅】</span>
@@ -826,7 +827,7 @@ tags:
 エンディング61
 </td>
 <td style="color: #a83232;">
-崆峒掌派人
+<EndIcon no="61">崆峒掌派人</EndIcon>
 </td>
 <td>
 <span style="color: #FF2D51;">【虞小梅】</span>
@@ -838,7 +839,7 @@ tags:
 エンディング62
 </td>
 <td style="color: #a83232;">
-新しい家
+<EndIcon no="62">新しい家</EndIcon>
 </td>
 <td>
 <span style="color: #70AA39;">【郁竹】</span><br>
@@ -849,7 +850,7 @@ tags:
 エンディング63
 </td>
 <td style="color: #a83232;">
-醜い仙人
+<EndIcon no="63">醜い仙人</EndIcon>
 </td>
 <td>
 <span style="color: #70AA39;">【郁竹】</span><br>
@@ -860,7 +861,7 @@ tags:
 エンディング64
 </td>
 <td style="color: #a83232;">
-売国奴
+<EndIcon no="64">売国奴</EndIcon>
 </td>
 <td>
 <span style="color: #FF2D51;">【虞小梅】</span><br>
@@ -871,7 +872,7 @@ tags:
 エンディング65
 </td>
 <td style="color: #a83232;">
-崆峒掌派人
+<EndIcon no="65">崆峒掌派人</EndIcon>
 </td>
 <td>
 <span style="color: #FF2D51;">【虞小梅】</span>
@@ -883,7 +884,7 @@ tags:
 エンディング66
 </td>
 <td style="color: #a83232;">
-青山は変わらず
+<EndIcon no="66">青山は変わらず</EndIcon>
 </td>
 <td>
 <span style="color: #70AA39;">【郁竹】</span><br>

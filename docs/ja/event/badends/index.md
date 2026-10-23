@@ -1045,7 +1045,7 @@ tags:
             比武招親当夜に金烏上人が襲来する際、<Girl0Icon>唐黙鈴</Girl0Icon>が同行下山し、かつ葉雲舟または瑞笙も同行下山した状態で「寄ってたかって殴る」を選択し、団戦で敗北する。<br>
             • 唐黙鈴同行の条件: 想い人が唐黙鈴、かつ唐黙鈴好感≧50。<br>
             • 葉雲舟同行の条件: <MarkdownWrapper>[葉氏の行方をめぐる騒動](/ja/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>で葉氏兄妹を受け入れており、かつ<MarkdownWrapper>[唐門の迎撃](/ja/event/simple/2-08-2-唐門迎敵)</MarkdownWrapper>で青城留学を経験していること。<MarkdownWrapper>[葉家兄妹の出発](/ja/event/simple/3-01-1-葉氏兄妹離去)</MarkdownWrapper>で二人を唐門に留め、<MarkdownWrapper>[小師妹の比武招親 前半](/ja/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper>までに想い人を唐黙鈴に変更するか、葉雲裳好感＜50にしておく。<br>
-            • 瑞笙の同行: ストーリールート未解禁。<br>
+            • 瑞笙の同行の条件: 唐黙鈴が同行し、かつ<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>で瑞笙と引き分けて「生活双侠」と並び称されていること。<br>
         </td>
         <td>
             この説明文だけ見たら通常エンディングに進んだのかと思う。

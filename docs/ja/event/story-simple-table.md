@@ -288,7 +288,7 @@ tags:
         <MarkdownWrapper>
 			[衣服が盗まれる](/ja/event/simple/2-04-1-衣服遭竊)<br>
 			[季試の知らせ](/ja/event/simple/2-04-1-季試消息)<br>
-            崆峒探検隊<br>
+            [崆峒探検隊](/ja/event/simple/2-04-1-崆峒探險隊)<br>
             郁竹の帰省準備<br>
 			[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)<br>
         </MarkdownWrapper>
@@ -651,6 +651,7 @@ tags:
 				<MarkdownWrapper>
 				    [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
                     [一時の平穏](/ja/event/simple/3-02-1-一波暫平)<br>
+                    郁竹の家書<br>
                     梅竹の別れ<br>
 				    [正心修身](/ja/event/simple/3-02-1-正心修身)<br>
 				</MarkdownWrapper>

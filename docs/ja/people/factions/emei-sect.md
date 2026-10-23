@@ -82,6 +82,7 @@ tags:
 
 ## 秘笈
 
+-   [鴛鴦拳剣譜](/ja/system/books/book_2004)
 -   [柴刀八斬法](/ja/system/books/book_2007)
 -   [つよつよ蹴り](/ja/system/books/book_4002)
 -   [蛇兔鷹猿搏](/ja/system/books/book_4003)

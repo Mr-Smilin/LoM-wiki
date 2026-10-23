@@ -88,7 +88,8 @@ tags:
         <td>小柄で可愛らしい</td>
         <td>大人しくて従順</td>
         <td>心の優しさ云々より、あいつの力は山を抜き、気は世を蓋う</td>
-        <td></td>
+        <td><MarkdownWrapper>[〈郁竹結縁攻略〉](/ja/event/pursuit/girl6)</MarkdownWrapper>を参照
+            <br>(⚠️ネタバレ注意)</td>
     </tr>
     <tr>
         <td><Girl1Icon :size="`medium`" href="/ja/people/characters/girl1">瑞杏</Girl1Icon></td>

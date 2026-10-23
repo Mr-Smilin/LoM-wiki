@@ -252,14 +252,6 @@ aside: false
 
 <div style="clear:both;"></div>
 
-## 結縁過程
-
-::: warning
-攻略情報を含みます。閲覧は自己責任で。
-:::
-
-詳細は<MarkdownWrapper>[〈虞小梅結縁攻略〉](/ja/event/pursuit/girl3)</MarkdownWrapper>を参照。
-
 ## 列伝
 
 <Tabs>
@@ -298,6 +290,14 @@ aside: false
 	あなたの目が遠く眺める方向が、彼女の未来であり、天の果て海の果てであろうとも、最後まで付き合い、あなたとは生死を共にする友であり、伴侶でもある。
   </Tab>
 </Tabs>
+
+## 結縁過程
+
+::: warning
+攻略情報を含みます。閲覧は自己責任で。
+:::
+
+詳細は<MarkdownWrapper>[〈虞小梅結縁攻略〉](/ja/event/pursuit/girl3)</MarkdownWrapper>を参照。
 
 ## 千面人魔
 

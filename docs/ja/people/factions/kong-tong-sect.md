@@ -586,7 +586,6 @@ tags:
 -   [崆峒玄兵鍛法](/ja/system/books/book_8009)
 -   [鉄琵琶功](/ja/system/books/book_7008)
 -   [宋詞選集](/ja/system/books/book_8105)
--   [鴛鴦拳剣譜](/ja/system/books/book_2004)
 
 ## 画廊
 
