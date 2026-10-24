@@ -951,7 +951,7 @@ tags:
             <BadendIcon :no="39">生死簿 No.39</BadendIcon>
         </td>
         <td>
-            遭到連累死
+            遭到連累而死
         </td>
         <td>
             今天本來不是你的死期，你只是受到波及。
@@ -960,7 +960,14 @@ tags:
             -
         </td>
         <td>
-            <Girl3Icon>小梅</Girl3Icon>沒有加入唐門，在第三年一月上旬，沒與大師兄下山，幫大師兄療傷(需醫術≧5或總煉丹值≧250)，中途收功，敗給任何一位刺客
+            <li>
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>，
+                <MarkdownWrapper>[郁竹返家](/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>的
+                <MarkdownWrapper>[返家路程](/event/simple/2-04-2-返家路程)</MarkdownWrapper>時，
+                隨機觸發<MarkdownWrapper>[「戰書生」](/event/simple/2-04-2-返家路程#遇公子熟人)</MarkdownWrapper>
+                或<MarkdownWrapper>[「戰錦香弟子」](/event/simple/2-04-2-返家路程#遇錦香弟子)</MarkdownWrapper>並落敗。
+            </li>
+            <li><Girl3Icon>小梅</Girl3Icon>沒有加入唐門，在第三年一月上旬，沒與大師兄下山，幫大師兄療傷(需醫術≧5或總煉丹值≧250)，中途收功，敗給任何一位刺客</li>
         </td>
         <td>
             醫術≥5級或是累積煉丹點數大於250點。才能觸發治療大師兄。
@@ -2634,6 +2641,29 @@ tags:
             由<Girl3Icon>虞小梅</Girl3Icon>途徑觸發<MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備#發現郁竹)</MarkdownWrapper>，<br>
             事件中選擇👉「追上去看看」，戰余公子落敗。
           </li>
+        </td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.109">
+            <BadendIcon :no="109">生死簿 No.109</BadendIcon>
+        </td>
+        <td>
+            冤獄而死
+        </td>
+        <td>
+            你被當軍火頭子的黨羽。<br>
+            有通敵叛國之嫌，活活關到死。<br>
+            順帶一提，小竹順利洗清嫌疑獲釋了。<br>
+        </td>
+        <td>-</td>
+        <td>
+            <li>
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>，
+                <MarkdownWrapper>[郁竹返家](/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>的
+                <MarkdownWrapper>[返家路程](/event/simple/2-04-2-返家路程)</MarkdownWrapper>時，
+                隨機觸發<MarkdownWrapper>[「戰官兵」](/event/simple/2-04-2-返家路程#遇捕快)</MarkdownWrapper>並落敗。
+            </li>
         </td>
         <td>-</td>
     </tr>
