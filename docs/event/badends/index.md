@@ -961,7 +961,7 @@ tags:
         </td>
         <td>
             <li>
-                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>，
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>，
                 <MarkdownWrapper>[郁竹返家](/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>的
                 <MarkdownWrapper>[返家路程](/event/simple/2-04-2-返家路程)</MarkdownWrapper>時，
                 隨機觸發<MarkdownWrapper>[「戰書生」](/event/simple/2-04-2-返家路程#遇公子熟人)</MarkdownWrapper>
@@ -2659,7 +2659,7 @@ tags:
         <td>-</td>
         <td>
             <li>
-                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>，
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>，
                 <MarkdownWrapper>[郁竹返家](/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>的
                 <MarkdownWrapper>[返家路程](/event/simple/2-04-2-返家路程)</MarkdownWrapper>時，
                 隨機觸發<MarkdownWrapper>[「戰官兵」](/event/simple/2-04-2-返家路程#遇捕快)</MarkdownWrapper>並落敗。
