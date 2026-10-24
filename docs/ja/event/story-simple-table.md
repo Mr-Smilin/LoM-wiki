@@ -827,6 +827,7 @@ tags:
 				<li>[温夫人の付託](/ja/event/simple/3-10-2-溫夫人託付)</li>
 				<li>[武林大会](/ja/event/simple/3-10-2-武林大會)</li>
 				<li>[武林大会編](/ja/event/detailed_description/3-08-2-武林大會)</li>
+				<li>[宿屋と帰路編](/ja/event/detailed_description/3-10-2-客棧歸途)</li>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
