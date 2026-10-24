@@ -818,6 +818,8 @@ tags:
 			<td>
 				<MarkdownWrapper>
                     [武林大會](/event/simple/3-10-2-武林大會)<br>
+                    [武林大會篇](/event/detailed_description/3-08-2-武林大會)<br>
+                    [客棧歸途篇](/event/detailed_description/3-10-2-客棧歸途)<br>
                 </MarkdownWrapper>
 			</td>
 			<td>-</td>
