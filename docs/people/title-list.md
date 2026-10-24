@@ -11,8 +11,8 @@ tags:
 
 <table>
     <tr>
-        <td>稱號</td>
-        <td>取得方式</td>
+        <td style="text-align: center">稱號</td>
+        <td style="text-align: center">取得方式</td>
     </tr>
     <tr>
         <td id = "唐門雜魚">唐門雜魚</td>
