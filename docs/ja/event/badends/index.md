@@ -1988,7 +1988,7 @@ tags:
             -
         </td>
         <td>
-            <MarkdownWrapper>[武林大会](/ja/event/simple/3-10-2-武林大會)</MarkdownWrapper>の大戦後、<MarkdownWrapper>[南宮家への哀悼](/ja/event/simple/3-10-2-戰後閒聊#致哀南宮)</MarkdownWrapper>の際、南宮浅好感≧40で
+            武林大会の大戦後、<MarkdownWrapper>[南宮家への哀悼](/ja/event/simple/3-10-2-戰後閒聊#致哀南宮)</MarkdownWrapper>の際、南宮浅好感≧40で
             👉<MarkdownWrapper>[「南宮浅を追う」](/ja/event/simple/3-10-2-追南宮淺)</MarkdownWrapper>を選び、追いついた後の南宮浅との対決に勝利する。その後、性情≧60または処世≧60で解放される👉「追いつけなくても一発殴ってやる」を選んで、袁無憲との対戦に敗北する
         </td>
         <td>

@@ -157,7 +157,7 @@ tags:
       各大勢力への好感度
     </td>
     <td>
-      <li>シナリオ分岐に影響する。例: <MarkdownWrapper>[武林大会](/ja/event/simple/3-10-2-武林大會)</MarkdownWrapper>での各派の投票における天命補正値</li>
+      <li>シナリオ分岐に影響する。例: <MarkdownWrapper>[武林大会編](/ja/event/detailed_description/3-08-2-武林大會)</MarkdownWrapper>での各派の投票における天命補正値</li>
     </td>
     <td>
       <li>シナリオで増減する。例: <MarkdownWrapper>[武林大会へ向かう](/ja/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>時の泥教の待ち伏せイベント</li>

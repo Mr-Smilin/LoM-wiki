@@ -190,7 +190,7 @@ tags:
 <tr>
 <td>4</td>
 <td>3年目10月中旬</td>
-<td><MarkdownWrapper>[武林大会](/ja/event/simple/3-10-2-武林大會)</MarkdownWrapper></td>
+<td><MarkdownWrapper>[武林大会編](/ja/event/detailed_description/3-08-2-武林大會)</MarkdownWrapper></td>
 <td>• 葉雲舟が同行する場合:
     <br>1. 展開が変化する。
     <br>2. 唐門代表として比武に参加させられる(<MarkdownWrapper>[点蒼の逆徒](/ja/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>参照)。ただし趙活が上官隼に挑戦していないことが条件。
