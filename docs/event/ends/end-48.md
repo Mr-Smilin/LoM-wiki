@@ -49,7 +49,7 @@ tags:
 
 ### 大師兄存活
 
-若[[唐布衣大師兄]]存活，會在結尾前劇情登場，
+若[[唐布衣|大師兄]]存活（見[[飛俠歸來]]），會在結尾前劇情登場。
 
 ### 四師兄歸來
 
@@ -58,11 +58,14 @@ tags:
 ### 結緣對象
 
 根據結緣對象，結尾劇情會有差異，並取得對應的[風雲史](/event/achievements/)。<br>
-※武林傳奇結緣優先度(v1.0.3200.2)：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+※武林傳奇結緣優先度：<Girl0Icon>唐默鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>
 
 -   <Girl5Icon>夏侯蘭</Girl5Icon>：<AchievementIcon :size="`small`" :no="`12`">雪山派大弟子</AchievementIcon>
 -   <Girl0Icon>唐默鈴</Girl0Icon>：<AchievementIcon :size="`small`" :no="`13`">唐門女婿</AchievementIcon>
 -   <Girl8Icon>龍湘</Girl8Icon>：<AchievementIcon :size="`small`" :no="`14`">忘憂俠侶</AchievementIcon>
+-   <Girl2Icon>葉雲裳</Girl2Icon>：<AchievementIcon :size="`small`" :no="`18`">魔王的爪牙</AchievementIcon>
+-   <Girl3Icon>虞小梅</Girl3Icon>：<AchievementIcon :size="`small`" :no="`20`">折梅手</AchievementIcon>
+-   <Girl6Icon>郁竹</Girl6Icon>：<AchievementIcon :size="`small`" :no="`21`">一家之主</AchievementIcon>
 
 ### 小師妹回唐門
 

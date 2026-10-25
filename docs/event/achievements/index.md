@@ -238,7 +238,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.20">20</td>
-        <td>折梅手</td>
+        <td><AchievementIcon :size="`medium`" :no="`20`"><br>折梅手</AchievementIcon></td>
         <td>曾經凌寒獨放，而又甘心為你摧折。</td>
         <td>武林傳奇通關時與<Girl3Icon>虞小梅</Girl3Icon>結緣，步驟請見<MarkdownWrapper>[〈虞小梅結緣攻略〉](/event/pursuit/girl3)</MarkdownWrapper>。</td>
         <td></td>
@@ -246,7 +246,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.21">21</td>
-        <td>一家之主</td>
+        <td><AchievementIcon :size="`medium`" :no="`21`"><br>一家之主</AchievementIcon></td>
         <td>唐門外姓弟子，崆峒掌派人，竹城之主，她的歸宿。</td>
         <td>武林傳奇通關時與<Girl6Icon>郁竹</Girl6Icon>結緣，步驟請見<MarkdownWrapper>[〈郁竹結緣攻略〉](/event/pursuit/girl6)</MarkdownWrapper>。</td>
         <td></td>
