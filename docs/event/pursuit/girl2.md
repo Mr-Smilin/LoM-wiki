@@ -181,7 +181,7 @@ tags:
 <tr>
 <td>3</td>
 <td>第三年九月上旬
-    <br>到第四年十月上旬
+    <br>到第三年十月上旬
 </td>
 <td>
     <MarkdownWrapper>[前往武林大會](/event/simple/3-09-1-前往武林大會)</MarkdownWrapper><br>

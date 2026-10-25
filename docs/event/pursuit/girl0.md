@@ -96,7 +96,7 @@ tags:
 </tr>
 
 <tr>
-<td>5</td>
+<td>4</td>
 <td>第三年八月中旬</td>
 <td><MarkdownWrapper>[大會請帖](/event/simple/3-08-2-大會請帖)</MarkdownWrapper></td>
 <td>若唐陞好感≧35，且滿足下列條件，可讓<Girl0Icon>唐默鈴</Girl0Icon>同行武林大會:
@@ -106,9 +106,9 @@ tags:
 </tr>
 
 <tr>
-<td>6</td>
+<td>5</td>
 <td>第三年九月上旬
-    <br>到第四年十月上旬</td>
+    <br>到第三年十月上旬</td>
 <td>
     <li><MarkdownWrapper>[前往武林大會](/event/simple/3-09-1-前往武林大會)</MarkdownWrapper></li>
     <li><MarkdownWrapper>[錦香宮作客](/event/simple/3-09-3-錦香宮事件集)</MarkdownWrapper></li>

@@ -54,7 +54,7 @@ tags:
     <br>• 🗡️對決峨嵋弟子第三戰(勝負無關)後，選擇📖「師禮拜謝」。</td>
 <td>• 完成此條件後即拜師<Girl5Icon>夏侯蘭</Girl5Icon>，解鎖奪魄森林修練，是增加好感的主要方式。
     <br>• 盡可能在留學結束前達到夏侯蘭好感≧40。
-    <br>• 請注意練功支線事件中，若讓<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-練功分心)</MarkdownWrapper>，會影響後面部分劇情及結局演出，若初次走夏侯蘭線不建議讓樊拜師。
+    <br>• 請注意練功支線事件中，若讓<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-助你收心)</MarkdownWrapper>，會影響後面部分劇情及結局演出，若初次走夏侯蘭線不建議讓樊拜師。
     <br>• 五月下旬的<MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>雖非結緣必要條件，但若三戰全勝且樊嘯天未拜師，可獲得道具<MarkdownWrapper>[【崆峒磨喝樂】](/system/items)</MarkdownWrapper>(劇情紀念，無作用)；而第三戰敗於瑞笙，是往後獲得<MarkdownWrapper>[雪山飛鴻爪](/system/books/book_6009)</MarkdownWrapper>的必要條件。</td>
 </tr>
 
@@ -183,7 +183,7 @@ tags:
     <br>• 或第四年二月中旬剩兩次行動(成立西武林盟失敗而頑抗到底)</td>
 <td><MarkdownWrapper>[唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper></td>
 <td>• 若聽從<Girl5Icon>夏侯蘭</Girl5Icon>建議離開唐門，進入<MarkdownWrapper>[汗青書34: 行屍走肉](/event/ends/end-34)</MarkdownWrapper>。
-    <br>• 若不聽從夏侯蘭建議，且<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-練功分心)</MarkdownWrapper>，則夏侯蘭不會參戰(不影響結局)。
+    <br>• 若不聽從夏侯蘭建議，且<MarkdownWrapper>[樊嘯天拜師夏侯蘭](/event/simple/2-04-1-助你收心)</MarkdownWrapper>，則夏侯蘭不會參戰(不影響結局)。
     <br>• 若不聽從夏侯蘭建議，且樊嘯天未拜師夏侯蘭，則夏侯蘭會參加終戰。
     <br>• 終戰獲勝後進入<MarkdownWrapper>[汗青書43: 失寵](/event/ends/end-43)</MarkdownWrapper>。</td>
 <td>• 夏侯蘭的終戰輔助技能，取決於雪山行是獲得<MarkdownWrapper>[雪山飛鴻爪](/system/books/book_6009)</MarkdownWrapper>或是<MarkdownWrapper>[奪魄幽靈爪](/system/books/book_6007)</MarkdownWrapper>(見必要條件3備註)。
