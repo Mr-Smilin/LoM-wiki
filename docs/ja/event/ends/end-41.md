@@ -26,6 +26,9 @@ tags:
 最後には壊すことを選んだ。<br>
 </EndBackground>
 
-## 条件
+## 条件と流れ
+### 一、<Girl6Icon>郁竹</Girl6Icon>と結縁する
+[郁竹結縁攻略](/ja/event/pursuit/girl6)を参照。
 
-<Girl6Icon>郁竹</Girl6Icon>と結縁し、唐門滅亡戦で下山突破して武林盟主に到達し、[武林盟主](/ja/people/characters/special999)を打ち破り、唐門の生き残りとなる。
+### 二、唐門囲攻戦
+3年目12月上旬の[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)で徹底抗戦ルートに進み、[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)で下山して包囲を突破する。🗡️[武林盟主](/ja/people/characters/special999)に勝つとエンディングに進む (流れは[汗青書37：唐門の火種](/ja/event/ends/end-37)を参照)。

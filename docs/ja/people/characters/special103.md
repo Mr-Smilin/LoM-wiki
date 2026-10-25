@@ -98,12 +98,20 @@ aside: false
 
 -   江陵事件では[王幇主](/ja/people/characters/special401)が彼のために洗髄してくれたが、あまりありがたがっていない。
 -   武林大会の前に三つの奇遇がある: [杏花林](/ja/people/factions/apricot-forest)の老和尚が運気凝神の法を教え、[大猿猴](/ja/people/characters/other11)が筋骨を鍛え、[東海龍王](/ja/people/characters/special407)が刀法を教える。
--   南宮扇法はまだ会得しておらず、剣の方が慣れている。奇遇の後は刀に持ち替えた。
+-   [袁乘風](/ja/people/characters/other11)がろくな人物ではないと知りながら、命の恩があるため忠告を聞き入れない。
+
+## 武功
+
+-   南宮扇法はまだ会得しておらず、剣の方が慣れている。剣は百兵の君であり、長剣こそ南宮世家の気風にふさわしいと考えている。
+-   奇遇の後は刀に持ち替えた。
+-   崆峒派への留学中は飛天門に名を連ね、[金烏上人](/ja/people/characters/special207)に師事した。だが金烏は辛抱が利かず、指導役を[顔疆](/ja/people/characters/trainee204)に任せた。
 
 ## 備考
 
 -   武林大会で[袁無憲](/ja/people/characters/special823)に唆され、錦香宮が泥教であることを公衆の面前で暴き、間接的に[父](/ja/people/characters/special101)と[温夫人](/ja/people/characters/special402)の死を招いた。後に[南宮深](/ja/people/characters/special102)によって南宮家を追放された。
 -   人物造形と描写があまりに物議を醸すため、討論スレで彼の名が出るたびに荒れて脱線することから、いつしか「劫串侠」(スレ荒らし侠) の名が付いた。
 -   南宮世家に戻って認親する前から「阿浅」と呼ばれていた。[大公子](/ja/people/characters/special102)に対して低姿勢に振る舞う意味合いがある[^1]。
+-   胡荽 (パクチー) が苦手。崆峒に遊学していたとき、[瑞笙](/ja/people/characters/special999)に誘われて崆峒の豆乳を飲んだが、店の鍋に吐き戻した。
+-   崆峒遊学中に[虞小梅](/ja/people/characters/girl3)・[趙活](/ja/people/characters/player)・[瑞笙](/ja/people/characters/special999)と崆峒探検隊を組み、何か問題が起きると家長の肩書きを持ち出してものを言う、親の威を借る隊長を務めた。
 
 [^1]: PTT C 洽－[Re:\[活俠\] 討論-温夫人的愛恨，南宮浅的身世](https://www.ptt.cc/bbs/C_Chat/M.1732263454.A.6E8.html)

@@ -41,7 +41,3 @@ tags:
 <br>
 
 風雨山武林大会でかつて短く登場した。
-
-## 備考
-
--   [唐布衣](/ja/people/characters/brother1)と臥雲崗に行った帰路で遭った鉄匠の立ち絵は同じもの。もし同一人なら、当時[晁和](/ja/people/characters/special208)に毒を盛られ、その後破戒僧に追われて殺害された。

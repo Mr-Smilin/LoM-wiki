@@ -66,8 +66,7 @@ tags:
         <td>南宮護心訣</td>
         <td>1~3</td>
         <td>致命的な攻撃を防ぐことができます（血量が0になるとき、10点の血量を回復）。等級に応じて気力を20～40回復します。
-            <br><MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>の内功を伝えるとき、「内功29」「内功54」「南宮護心訣LV3」が必要です。
-（そのうち2項目を達成すれば、技伝承の計算が1項目少なくなります）</td>
+            <br><MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>に内功を伝えて救うときの条件は、<MarkdownWrapper>[飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來#唐門に待機)</MarkdownWrapper>を参照してください。</td>
         <td><MarkdownWrapper>[《南宮心法》](/ja/system/books/book_7012)</MarkdownWrapper></td>
     </tr>    
     <tr>

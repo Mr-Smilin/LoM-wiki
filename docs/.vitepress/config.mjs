@@ -973,6 +973,7 @@ const baseConfig = {
 							{ text: "養成コマンド", link: "/ja/system/training" },
 							{ text: "サウンドトラック", link: "/ja/system/soundtrack" },
 							{ text: "唐門月例会議", link: "/ja/system/meeting" },
+							{ text: "四師兄の商店", link: "/ja/system/shop" },
 							{ text: "弾珠台", link: "/ja/system/pinball" },
 						],
 						activeMatch: "/ja/system/",

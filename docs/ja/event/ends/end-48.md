@@ -46,7 +46,7 @@ tags:
 
 ### 唐布衣の生存
 
-[唐布衣](/ja/people/characters/brother1)が生存していれば、エンディング前のシナリオに登場する。
+[唐布衣](/ja/people/characters/brother1)が生存していれば ([飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來)を参照)、エンディング前のシナリオに登場する。
 
 ### 唐惟元の帰還
 
@@ -55,11 +55,14 @@ tags:
 ### 結縁対象
 
 結縁対象によって、エンディングシナリオと対応する[風雲史](/ja/event/achievements/)に差異がある。<br>
-※武林伝説の結縁優先度(v1.0.3200.2)：<Girl0Icon>唐黙鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>
+※武林伝説の結縁優先度：<Girl0Icon>唐黙鈴</Girl0Icon>＞<Girl8Icon>龍湘</Girl8Icon>＞<Girl5Icon>夏侯蘭</Girl5Icon>＞<Girl2Icon>葉雲裳</Girl2Icon>＞<Girl3Icon>虞小梅</Girl3Icon>＞<Girl6Icon>郁竹</Girl6Icon>
 
 -   <Girl5Icon>夏侯蘭</Girl5Icon>：<AchievementIcon :size="`small`" :no="`12`">雪山派の大弟子</AchievementIcon>
 -   <Girl0Icon>唐黙鈴</Girl0Icon>：<AchievementIcon :size="`small`" :no="`13`">唐門の女婿</AchievementIcon>
 -   <Girl8Icon>龍湘</Girl8Icon>：<AchievementIcon :size="`small`" :no="`14`">忘憂の侠侶</AchievementIcon>
+-   <Girl2Icon>葉雲裳</Girl2Icon>：<AchievementIcon :size="`small`" :no="`18`">魔王の爪牙</AchievementIcon>
+-   <Girl3Icon>虞小梅</Girl3Icon>：<AchievementIcon :size="`small`" :no="`20`">折梅手</AchievementIcon>
+-   <Girl6Icon>郁竹</Girl6Icon>：<AchievementIcon :size="`small`" :no="`21`">一家の主</AchievementIcon>
 
 ### 唐黙鈴の唐門帰還
 

@@ -293,7 +293,10 @@ aside: false
 -   小竹の鍛冶の技能は頂点に立つほどの腕前で、[趙活](/ja/people/characters/player)は発想力こそあるものの、基礎の技量ではまだまだ遠く及ばない。[^10]
 -   エイプリルフールDLCの「百万趙活」も小竹が開発したものである。[^8]<MarkdownWrapper>||惜しくも作中の幻想にだけ存在し、実際には造られなかった。||</MarkdownWrapper>
 -   木工の技能も高い。<MarkdownWrapper>||家具を見ただけで、材質・技法・造作の費用を詳しく分析できる。||</MarkdownWrapper>
--   建築の知識も豊富である。<MarkdownWrapper>||唐家大院の屋根を見ただけで皇室限定の様式だと見抜き、唐門の鍛冶場に隠された機関にも難なく気づく。||</MarkdownWrapper>
+-   建築の知識も豊富である。<MarkdownWrapper>||唐家大院の屋根を見ただけで皇室限定の様式だと見抜き、唐門の鍛冶場に隠された、[趙活](/ja/people/characters/player)さえ知らない機関にも難なく気づく。||</MarkdownWrapper>
+-   高いところが怖くて梯子に登れず、屋根の修繕は[趙活](/ja/people/characters/player)に頼るしかない。
+-   目が利かないので、細かい物を作るのは骨が折れる。
+-   <MarkdownWrapper>||崆峒には、小竹が十年かけて途切れ途切れに掘ってきた地下道がある。初めは閉じ込められた[虞小梅](/ja/people/characters/girl3)を探すため、次は鎮魂獄に入れられた[夏侯蘭](/ja/people/characters/girl5)を救うため、その次は[金烏上人](/ja/people/characters/special207)を暗殺するためだった。最後はこの地下道で小梅を救おうとしたが、あと一歩で失敗した。||</MarkdownWrapper>
 
 ## 用品
 
@@ -316,6 +319,7 @@ aside: false
 -   身体能力は武術の逸材だが、これまで武術を習ったことはない。
 -   武術を習いたがらない理由は多く、平和を愛することと近視が主な理由の一つである。<MarkdownWrapper>||また、武術を鍛えると体つきが逞しくなり、ますます女の子らしくなくなるのを恐れている。||</MarkdownWrapper>
     -   <MarkdownWrapper>||唐門の武功は体つきをごつくしないと知ってからは、体操の団体練習に積極的に取り組み、[趙活](/ja/people/characters/player)にも個別の武術指導を積極的に願い出る。||</MarkdownWrapper>
+-   <MarkdownWrapper>||もう一つの理由は、嫡伝女弟子という立場上、崆峒の掌派人と四門の掌門のほかに、彼女を指導できる資格のある者がいないこと。これまでの喧嘩は、すべて馬鹿力で鉄槌を振り回していただけ。||</MarkdownWrapper>
 -   遠くの標的を狙えないが、投擲能力は驚異的である。<MarkdownWrapper>||一撃で鍛錬用の木人を砕く。~~さすが[飛石幇](/ja/people/factions/flying-stone-gang)の名誉メンバー、石を擲って天に問う最強の継承者~~||</MarkdownWrapper>
 -   体重のせいで軽功を練習できない。<MarkdownWrapper>||武林盟との戦いで唐家大院へ戻って防衛に当たった際、何人かで担ぐ輿に乗せて山へ運ぶことを勧められた。||</MarkdownWrapper>
 
@@ -326,10 +330,12 @@ aside: false
     -   <MarkdownWrapper>||実は仕事で相当な財を蓄えているが、その大半を実家へ送り、自分は粗末で質素な暮らしをしている。||</MarkdownWrapper>
     -   <MarkdownWrapper>||[唐惟元](/ja/people/characters/brother4)（四師兄）に、崆峒から過去の持ち物を取り戻す必要があるかと尋ねられた時、まったく無いと答え、強欲な四師兄を唖然とさせた。||</MarkdownWrapper>
 -   <MarkdownWrapper>||子供が好きで、子供の喜ぶものをよく知っている。男の子に出会うと、お話をして機嫌を取るだけでなく、変形する機関玩具も贈る。||</MarkdownWrapper>
--   <MarkdownWrapper>||多くの悪人が小竹の善良でいじめやすい性格につけ込み、悪意の掛け売りや窃盗事件は後を絶たない。悪徳な店の中には、小竹の支店を装って他所から来た人を騙す者さえいる。||</MarkdownWrapper>
+-   <MarkdownWrapper>||多くの悪人が小竹の善良でいじめやすい性格につけ込み、悪意の掛け売りや窃盗事件は後を絶たない。悪徳な店の中には、小竹の支店を装って他所から来た人を騙す者さえいる。鉄拳巷の背景にある「郁氏木工」がその一例。||</MarkdownWrapper>
 -   <MarkdownWrapper>||人がそばにいるのが好きで、寂しがり屋。[趙活](/ja/people/characters/player)が仕事で忙しいため、自分に寄り添ってくれる子供を産もうという考えまで芽生えた。||</MarkdownWrapper>
+-   <MarkdownWrapper>||こっそり[魏菊](/ja/people/characters/girl7)に読み書きの指導を頼んでいる。嫡伝女弟子が別の嫡伝女弟子と二人きりで会うのがどれほど危ういことか、まるで気づいていない。||</MarkdownWrapper>
+-   悲しいときは部屋の戸を固く閉ざして一人きりになり、いちばん良い服に着替えてきれいに着飾り、涙を流しながら思いきり飲み食いする。
 -   [雷謙](/ja/people/characters/special804)との関わり：<MarkdownWrapper>||雷謙は大雑把な男だが、人柄は正直で、この女弟子をとても可愛がっており、法を破って密かに小竹を帰郷させたことが何度もある。||</MarkdownWrapper>
-    -   <MarkdownWrapper>||江陵包囲戦では、小竹が崆峒に戻って辛い思いをしないようにと願い、小竹が戦死したと偽って報告した。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||江陵包囲戦では、小竹が崆峒に戻って辛い思いをしないようにと願い、小竹が戦死したと偽って報告した。さらに江陵にいる地護法の[童大虫](/ja/people/characters/trainee214)に「一人を殺せ」と書き送り、小竹を鉄拳門から破門させた。||</MarkdownWrapper>
     -   <MarkdownWrapper>||小竹の家族が崆峒に身を寄せに来たことに激怒し、小竹が家族のために崆峒へ戻って苦労していることには、さらに怒りを燃やしている。||</MarkdownWrapper>
 -   <MarkdownWrapper>||小竹は唐門に留学していた間も近所の人々に深く慕われ、息子の嫁に小竹をもらいたいと考える婦人までいた。||</MarkdownWrapper>
 -   <MarkdownWrapper>||内緒で[飛石幇](/ja/people/factions/flying-stone-gang)で力仕事をしており、働きぶりが優秀なため名誉メンバーと称えられ、[石夫人](/ja/people/characters/special815)に給金を上乗せされた。||</MarkdownWrapper>
@@ -337,12 +343,15 @@ aside: false
 
 ### 実家との関係
 
+-   崆峒四姝になる前から、名前は竹だった。
+-   実家は老虎山の田寨村にある。
 -   <MarkdownWrapper>||長女でありながら愛されず、実父の目には、金になり、しかも引き出し続けられる金のなる木としか映っていない。||</MarkdownWrapper>
     -   <MarkdownWrapper>||実父の博打狂いのせいで崆峒に売られたため、賭け事を非常に嫌っており、[趙活](/ja/people/characters/player)の博打好きを見ると腹を立てる。||</MarkdownWrapper>
     -   <MarkdownWrapper>||小竹は家族をとても大切に思っており、よくこっそり家へ金を送り、口実を作って内緒で帰郷することもある。||</MarkdownWrapper>
     -   <MarkdownWrapper>||実父が裏で偽りを広め、道に迷ったあげく家出したと言いふらしたため、残りの家族は、小竹を性格の悪い長女だとずっと思い込んでいる。||</MarkdownWrapper>
     -   <MarkdownWrapper>||実父は収入は博打の大儲けによるものだと偽っているが、実際には郁家の収入源はほぼ小竹一人が賄っている。||</MarkdownWrapper>
 -   <MarkdownWrapper>||幼い頃に親の愛情に恵まれず、他人の善良な親を見るたびに羨ましく思い、親子が直面する困難にも同情しやすい。||</MarkdownWrapper>
+-   家族には江湖にいることを知られたくなくて、耕陽読書斎に入り、裕福な家の公子と婚約したと嘘をついている。
 
 ## 備考
 

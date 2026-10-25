@@ -247,7 +247,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.20">20</td>
-        <td>折梅手</td>
+        <td><AchievementIcon :size="`medium`" :no="`20`"><br>折梅手</AchievementIcon></td>
         <td>かつては寒さを凌いでひとり咲き、<br>それでもあなたのために手折られることを望んだ。</td>
         <td>武林伝説クリア時に<Girl3Icon>虞小梅</Girl3Icon>と結縁している。手順は<MarkdownWrapper>[〈虞小梅結縁攻略〉](/ja/event/pursuit/girl3)</MarkdownWrapper>を参照。</td>
         <td></td>
@@ -255,7 +255,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.21">21</td>
-        <td>一家の主 (一家之主)</td>
+        <td><AchievementIcon :size="`medium`" :no="`21`"><br>一家の主 (一家之主)</AchievementIcon></td>
         <td>唐門の外姓弟子、崆峒の掌派人、竹城の主、<br>そして彼女の帰る場所。</td>
         <td>武林伝説クリア時に<Girl6Icon>郁竹</Girl6Icon>と結縁している。手順は<MarkdownWrapper>[〈郁竹結縁攻略〉](/ja/event/pursuit/girl6)</MarkdownWrapper>を参照。</td>
         <td></td>

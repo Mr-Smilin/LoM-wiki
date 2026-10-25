@@ -40,6 +40,7 @@ tags:
 { text: '【青城留学】' },
 { text: '【小梅拉致】' },
 { text: '【四師兄と商売】' },
+{ text: '【金烏事変】' },
 { text: '【唐門離脱】' },
 { text: '【戦死】' },
 { text: '【唐門解散】' },
@@ -426,7 +427,7 @@ tags:
 <span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #70AA39;">【郁竹】</span>
 <span style="color: #FF1493;">【結縁】</span><br>
-郁竹と結縁する高道徳の唐門解散(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)エンディング。
+本来は郁竹と結縁する高道徳の唐門解散(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)エンディングだったが、現在は同じ条件で<MarkdownWrapper>[汗青書63：醜い仙人](/ja/event/ends/end-63)</MarkdownWrapper>に進む。
 </td>
 </tr>
 <tr>
@@ -762,6 +763,7 @@ tags:
 <EndIcon no="55">活きる</EndIcon>
 </td>
 <td>
+<span style="color: #EEE8AA;">【四師兄と商売】</span>
 <span style="color: #70AA39;">【郁竹】</span><br>
 🚩郁竹を受け入れ、想い人が郁竹で、<MarkdownWrapper>[四師兄の出立](/ja/event/simple/3-03-2-四師兄離去)</MarkdownWrapper>で四師兄について行くことを選ぶ。
 </td>
@@ -774,7 +776,9 @@ tags:
 <EndIcon no="56">平凡な悲劇</EndIcon>
 </td>
 <td>
+<span style="color: #FF8C00;">【金烏事変】</span>
 <span style="color: #70AA39;">【郁竹】</span><br>
+金烏事変で戦局が悪化したとき、郁竹と一緒に崆峒から逃げ出す。
 </td>
 </tr>
 <tr>
@@ -785,7 +789,9 @@ tags:
 <EndIcon no="57">神の不在証明</EndIcon>
 </td>
 <td>
-<span style="color: #FF2D51;">【虞小梅】</span>
+<span style="color: #FF8C00;">【金烏事変】</span>
+<span style="color: #FF2D51;">【虞小梅】</span><br>
+金烏事変のとき、半雨屏で虞小梅との決闘に負ける。
 </td>
 </tr>
 <tr>
@@ -796,7 +802,9 @@ tags:
 <EndIcon no="58">修仙</EndIcon>
 </td>
 <td>
-<span style="color: #FF2D51;">【虞小梅】</span>
+<span style="color: #FF8C00;">【金烏事変】</span>
+<span style="color: #FF2D51;">【虞小梅】</span><br>
+金烏事変のとき、半雨屏で虞小梅を目覚めさせられない。
 </td>
 </tr>
 <tr>
@@ -807,7 +815,9 @@ tags:
 <EndIcon no="59">自創の武功</EndIcon>
 </td>
 <td>
+<span style="color: #FF8C00;">【金烏事変】</span>
 <span style="color: #70AA39;">【郁竹】</span><br>
+金烏事変のあと郁竹を見舞ったとき、掌派人が四姝を娶るのは伝統の美徳だと言う。
 </td>
 </tr>
 <tr>
@@ -818,8 +828,9 @@ tags:
 <EndIcon no="60">崆峒掌派人</EndIcon>
 </td>
 <td>
-<span style="color: #FF2D51;">【虞小梅】</span>
-<span style="color: #70AA39;">【郁竹】</span><br>
+<span style="color: #FF8C00;">【金烏事変】</span>
+<span style="color: #FF2D51;">【虞小梅】</span><br>
+金烏事変で虞小梅を目覚めさせ、そのあと見舞ったときに彼女をどこへも行かせない。
 </td>
 </tr>
 <tr>
@@ -830,8 +841,10 @@ tags:
 <EndIcon no="61">崆峒掌派人</EndIcon>
 </td>
 <td>
+<span style="color: #FF8C00;">【金烏事変】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
 <span style="color: #70AA39;">【郁竹】</span><br>
+金烏事変のあと、崆峒に別れを告げるときに崆峒の掌派人を引き継ぐ。
 </td>
 </tr>
 <tr>
@@ -843,6 +856,7 @@ tags:
 </td>
 <td>
 <span style="color: #70AA39;">【郁竹】</span><br>
+🚩郁竹を受け入れていて想い人が郁竹のとき、3年目2月に郁竹が別れ際に嫁ぎたいと言い、「もっと賢く、自分のために考えろ」を選ぶ。
 </td>
 </tr>
 <tr>
@@ -853,7 +867,10 @@ tags:
 <EndIcon no="63">醜い仙人</EndIcon>
 </td>
 <td>
-<span style="color: #70AA39;">【郁竹】</span><br>
+<span style="color: #006F86;">【唐門解散】</span>
+<span style="color: #70AA39;">【郁竹】</span>
+<span style="color: #FF1493;">【結縁】</span><br>
+郁竹と結縁する高道徳の唐門解散(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)エンディング。
 </td>
 </tr>
 <tr>
@@ -864,7 +881,10 @@ tags:
 <EndIcon no="64">売国奴</EndIcon>
 </td>
 <td>
-<span style="color: #FF2D51;">【虞小梅】</span><br>
+<span style="color: #006F86;">【唐門解散】</span>
+<span style="color: #FF2D51;">【虞小梅】</span>
+<span style="color: #FF1493;">【結縁】</span><br>
+虞小梅と結縁し、唐門解散(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)のあと崆峒へ行き、崆峒を率いて金国につく。
 </td>
 </tr>
 <tr>
@@ -875,8 +895,11 @@ tags:
 <EndIcon no="65">崆峒掌派人</EndIcon>
 </td>
 <td>
+<span style="color: #006F86;">【唐門解散】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
-<span style="color: #70AA39;">【郁竹】</span><br>
+<span style="color: #70AA39;">【郁竹】</span>
+<span style="color: #FF1493;">【結縁】</span><br>
+虞小梅か郁竹と結縁し、唐門解散(<MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>参照)のあと崆峒へ行って崆峒派を継ぐ。
 </td>
 </tr>
 <tr>
@@ -887,7 +910,10 @@ tags:
 <EndIcon no="66">青山は変わらず</EndIcon>
 </td>
 <td>
-<span style="color: #70AA39;">【郁竹】</span><br>
+<span style="color: Yellow;">【西武林盟】</span>
+<span style="color: #70AA39;">【郁竹】</span>
+<span style="color: #FF1493;">【結縁】</span><br>
+郁竹と結縁し、東西武林盟会戦で外堡を全力で守り抜いて勝つ。
 </td>
 </tr>
 </BTable>
