@@ -410,11 +410,11 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 29</td>
     <td style="color: #a83232;">再世龐統</td>
     <td>
-        <span style="color: red;">【1.0.6000 版疑似無法達成，待查】</span><br>
+        <span style="color: red;">【目前版本無法達成】</span><br>
         <span style="color: #006F86;">【遣散唐門】</span>
         <span style="color: #70AA39;">【郁竹】</span>
         <span style="color: #FF1493;">【結緣】</span><br>
-        與郁竹結緣的高道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
+        原本是與郁竹結緣的高道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局，現在同樣條件會進入<MarkdownWrapper>[汗青書63〈醜神仙〉](/event/ends/end-63)</MarkdownWrapper>。
     </td>
 </tr>
 
@@ -743,6 +743,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 55</td>
     <td><EndIcon no="55">活著</EndIcon></td>
     <td>
+        <span style="color: #EEE8AA;">【隨四師兄行商】</span>
         <span style="color: #70AA39;">【郁竹】</span><br>
         曾🚩收留郁竹，且心上人為郁竹，選擇跟隨<MarkdownWrapper>[四師兄離去](/event/simple/3-03-2-四師兄離去)</MarkdownWrapper>
     </td>
@@ -754,6 +755,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td><EndIcon no="56">平凡的悲劇</EndIcon></td>
     <td>
         <span style="color: #70AA39;">【郁竹】</span><br>
+        金烏事變戰局惡化時，和郁竹一起逃下崆峒。
     </td>
 </tr>
 
@@ -761,7 +763,8 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 57</td>
     <td><EndIcon no="57">神不在的證明</EndIcon></td>
     <td>
-        <span style="color: #FF2D51;">【虞小梅】</span>
+        <span style="color: #FF2D51;">【虞小梅】</span><br>
+        金烏事變時在半雨屏與虞小梅決鬥敗戰。
     </td>
 </tr>
 
@@ -769,7 +772,8 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 58</td>
     <td><EndIcon no="58">修仙</EndIcon></td>
     <td>
-        <span style="color: #FF2D51;">【虞小梅】</span>
+        <span style="color: #FF2D51;">【虞小梅】</span><br>
+        金烏事變時在半雨屏沒能喚醒虞小梅。
     </td>
 </tr>
 
@@ -778,6 +782,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td><EndIcon no="59">自創武功</EndIcon></td>
     <td>
         <span style="color: #70AA39;">【郁竹】</span><br>
+        金烏事變後探望郁竹時，說掌派人迎娶四姝是傳統美德。
     </td>
 </tr>
 
@@ -785,8 +790,8 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 60</td>
     <td><EndIcon no="60">崆峒掌派人</EndIcon></td>
     <td>
-        <span style="color: #FF2D51;">【虞小梅】</span>
-        <span style="color: #70AA39;">【郁竹】</span><br>
+        <span style="color: #FF2D51;">【虞小梅】</span><br>
+        金烏事變中喚醒虞小梅，事後探望時不讓她離開。
     </td>
 </tr>
 
@@ -796,6 +801,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>
         <span style="color: #FF2D51;">【虞小梅】</span>
         <span style="color: #70AA39;">【郁竹】</span><br>
+        金烏事變後，辭別崆峒時接任崆峒掌派人。
     </td>
 </tr>
 
@@ -804,6 +810,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td><EndIcon no="62">新家</EndIcon></td>
     <td>
         <span style="color: #70AA39;">【郁竹】</span><br>
+        曾🚩收留郁竹，且心上人為郁竹，第三年二月郁竹道別時說想嫁給你，選擇精明一點為自己打算。
     </td>
 </tr>
 
@@ -811,7 +818,10 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 63</td>
     <td><EndIcon no="63">醜神仙</EndIcon></td>
     <td>
-        <span style="color: #70AA39;">【郁竹】</span><br>
+        <span style="color: #006F86;">【遣散唐門】</span>
+        <span style="color: #70AA39;">【郁竹】</span>
+        <span style="color: #FF1493;">【結緣】</span><br>
+        與郁竹結緣的高道德<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>結局。
     </td>
 </tr>
 
@@ -819,7 +829,10 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 64</td>
     <td><EndIcon no="64">賣國賊</EndIcon></td>
     <td>
-        <span style="color: #FF2D51;">【虞小梅】</span><br>
+        <span style="color: #006F86;">【遣散唐門】</span>
+        <span style="color: #FF2D51;">【虞小梅】</span>
+        <span style="color: #FF1493;">【結緣】</span><br>
+        與虞小梅結緣，<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>後前往崆峒，率崆峒投靠金國。
     </td>
 </tr>
 
@@ -827,8 +840,11 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 65</td>
     <td><EndIcon no="65">崆峒掌派人</EndIcon></td>
     <td>
+        <span style="color: #006F86;">【遣散唐門】</span>
         <span style="color: #FF2D51;">【虞小梅】</span>
-        <span style="color: #70AA39;">【郁竹】</span><br>
+        <span style="color: #70AA39;">【郁竹】</span>
+        <span style="color: #FF1493;">【結緣】</span><br>
+        與虞小梅或郁竹結緣，<MarkdownWrapper>[遣散唐門](/event/simple/3-12-1-告別唐門)</MarkdownWrapper>後前往崆峒接掌崆峒派。
     </td>
 </tr>
 
@@ -836,7 +852,10 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 66</td>
     <td><EndIcon no="66">青山仍在</EndIcon></td>
     <td>
-        <span style="color: #70AA39;">【郁竹】</span><br>
+        <span style="color: Yellow;">【西武林盟】</span>
+        <span style="color: #70AA39;">【郁竹】</span>
+        <span style="color: #FF1493;">【結緣】</span><br>
+        與郁竹結緣，東西武林盟會戰中全力固守外堡並打贏。
     </td>
 </tr>
 

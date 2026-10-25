@@ -27,4 +27,8 @@ tags:
 </EndBackground>
 
 ## 條件與流程
-待補
+### 一、與<Girl3Icon>虞小梅</Girl3Icon>結緣
+請見[〈虞小梅結緣攻略〉](/event/pursuit/girl3)
+
+### 二、唐門圍攻戰
+第三年十二月上旬[[眾人的決策]]進入頑抗到底劇情線，在[唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)下山突圍，🗡️戰勝[[瑞笙|武林盟主]]後進入結局（流程見[汗青書37：唐門薪火](/event/ends/end-37)）。
