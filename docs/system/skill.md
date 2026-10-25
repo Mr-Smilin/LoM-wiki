@@ -66,8 +66,7 @@ tags:
         <td>南宮護心訣</td>
         <td>1~3</td>
         <td>可抵擋致命攻擊(血量歸0時恢復10血)，並依據等級恢復氣力20～40。
-            <br>傳功救大師兄時，需「29內力」、「54內力」、「南宮護心訣LV3」。
-（需完成其中兩項，收功會少算一項）</td>
+            <br>傳功救大師兄時的條件，見<MarkdownWrapper>[《飛俠歸來》](/event/detailed_description/4-02-2-飛俠歸來#待在唐門)</MarkdownWrapper>。</td>
         <td>《南宮心法》</td>
     </tr>
     <tr>
