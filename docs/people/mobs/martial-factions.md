@@ -11,7 +11,7 @@ tags:
 # {{ $frontmatter.title }}
 
 ## 丐幫
-
+### 乞丐
 <img src="/images/mobs/beggar-gang/beggar1_normal.webp" style="width:200px;" />
 <table>
     <tr>
@@ -31,7 +31,7 @@ tags:
         <td>丐幫老派弟子，以江湖鬼域錄伎倆割龍湘布包偷碎銀。趙活察覺並追上後會與之戰鬥，若打輸會在逃跑時被蛇咬死。<br>吃了樊嘯天的狗而被記恨。被曾老丐推出去擋樊嘯天的攻擊，被打個半死。<br>若得到妥善治療可在李大夫處撿回一命，但付不出診金，只好成為李大夫的學徒。</td>
     </tr>
 </table>
-
+### 老乞丐
 <img src="/images/mobs/beggar-gang/beggar_old_normal.webp" style="width:200px;" />
 <table>
     <tr>
@@ -41,6 +41,10 @@ tags:
     <tr>
         <td>馳援江陵<br>「張長老」</td>
         <td>丐幫舊派長老，在少年時便認識南宮橫。<br>南宮橫造訪丐幫時受其所託去請幫主相見，因派系關係本有所猶豫，在南宮橫言語暗示後會意，同意協助。</td>
+    </tr>
+    <tr>
+        <td>小梅陪同<br>武林大會<br>拜訪丐幫</td>
+        <td>小梅不願承認的老熟人。<br>秘密幫小梅將人送往小梅村的老乞丐。</td>
     </tr>
     <tr>
         <td>滅門線<br>「沙長老」</td>
@@ -115,7 +119,7 @@ tags:
         <td>聽信陳序之言拋家棄子，後遭始亂終棄，無家可歸，連親生兒子都不原諒她。<br>以死向錦香宮表明心志，讓龍湘為自己討公道。</td>
     </tr>
     <tr>
-        <td>武林大會<br>「喬某」</td>
+        <td>前往錦香宮<br>「喬某」</td>
         <td>代表錦香宮前來迎接趙活等人，對於趙活的外表感到失望。<br>在趙活與溫夫人見面前提點趙活莊重。</td>
     </tr>
     <tr>
@@ -123,7 +127,7 @@ tags:
         <td>替趙活安排導覽錦香宮人選，稱畫中仙為師妹。</td>
     </tr>
     <tr>
-        <td>武林大會</td>
+        <td>拜訪錦香宮</td>
         <td>武英殿中老成持重的錦香宮弟子。<br>眼看不敵趙活，便將氣力用於自保後認輸，不失風度又保住了臉面。</td>
     </tr>
     <tr>
@@ -141,15 +145,15 @@ tags:
         <td>季試第二場骰出「裝備精良兵器的女俠」所遇到的對手。</td>
     </tr>
     <tr>
-        <td>武林大會<br>「姚某」</td>
+        <td>前往錦香宮<br>「姚某」</td>
         <td>代表錦香宮前來迎接趙活等人，對於趙活的外表感到失望。</td>
     </tr>
     <tr>
-        <td>武林大會</td>
+        <td>拜訪錦香宮</td>
         <td>武英殿中的錦香宮弟子。<br>想要有個武功高、下死手揍死也不會惋惜的對手來對練，最好使的不是錦香宮招式。於是找到了趙活這個完美的靶子。</td>
     </tr>
     <tr>
-        <td>武林大會<br>「許姑娘」</td>
+        <td>拜訪錦香宮<br>「許姑娘」</td>
         <td>收了兩名唐門弟子的禮物，導致兩人爭風吃醋。</td>
     </tr>
 </table>
@@ -159,11 +163,11 @@ tags:
 <img src="/images/mobs/jin-xiang-palace/trainee4_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>武林大會</td>
+        <td>拜訪錦香宮</td>
         <td>武英殿中前途無量的錦香宮弟子。<br>想要有個武功高、下死手揍死也不會惋惜的對手來對練，最好使的不是錦香宮招式。於是找到了趙活這個完美的靶子。<br>被你打敗後會哭哭啼啼，讓女弟子嫌你不懂憐香惜玉。<br>如果讓她贏，可獲得風度翩翩的醜郎君稱號。</td>
     </tr>
     <tr>
-        <td>武林大會</td>
+        <td>拜訪錦香宮</td>
         <td>纏上了葉雲舟，說雲裳喜歡她，她當定雲裳的嫂子了。<br>葉雲舟逃跑後開始想計策要逼葉雲舟負責。</td>
     </tr>
 </table>
@@ -171,7 +175,7 @@ tags:
 <img src="/images/mobs/jin-xiang-palace/trainee6_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>武林大會</td>
+        <td>拜訪錦香宮</td>
         <td>對於同門師姊妹得不檢點行為感到汗顏。<br>答應帶唐門女弟子賞花、學花藝。好奇是否可用唐門毒術調製保護花朵的藥劑。</td>
     </tr>
     <tr>
@@ -183,7 +187,7 @@ tags:
 <img src="/images/mobs/jin-xiang-palace/trainee5_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>武林大會</td>
+        <td>拜訪錦香宮</td>
         <td>纏上了葉雲舟，說常被雲裳欺負的自己才是葉雲舟的良配。<br>葉雲舟逃跑後開始想計策要逼葉雲舟負責。</td>
     </tr>
     <tr>
@@ -197,8 +201,8 @@ tags:
 <img src="/images/mobs/mount-fire-palace/blacksmith1_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>大師兄下山</td>
-        <td>火炎山劍閣鐵匠。<br>與師弟一同受晁和欺騙，誤以為趙活等人要搶寶劍，交戰後釐清狀況，卻被千面人魔楊某殺害。<br>同一立繪鐵匠遭賊人追殺，負傷向唐布衣與龍湘(或福韞)求救，並贈予寶劍，但寶劍中有毒。</td>
+        <td>小竹陪同<br>前往武林大會<br>「段純青」</td>
+        <td>向趙活&小竹道歉，關於鐵氏兄弟惹過的麻煩，並贈送劍鐵令賠罪。</td>
     </tr>
     <tr>
         <td>武林大會<br>「段純青」</td>
@@ -219,6 +223,10 @@ tags:
 <img src="/images/mobs/mount-fire-palace/blacksmith3_normal.webp" style="width:200px;" />
 <table>
     <tr>
+        <td>小竹陪同<br>前往武林大會<br>「來新子」</td>
+        <td>向趙活&小竹道歉，關於鐵氏兄弟惹過的麻煩，並贈送劍鐵令賠罪。</td>
+    </tr>
+    <tr>
         <td>武林大會<br>「來新子」</td>
         <td>本在青城，被鐵冠道長逐出師門。<br>當年方震天用一兩銀子要他打一把單刀，明明只提供刻名字服務卻要求鑲金雕些有的沒的。來新子不賣了，方震天卻偷了刀，還到處說來新子壞話。<br>上場並不是為了角逐武林盟主，就是為了趁機扁方震天。</td>
     </tr>
@@ -231,7 +239,11 @@ tags:
 <img src="/images/mobs/mud-school/cow_horse_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>青城留學<br>「牛頭馬面」</td>
+        <td>逃離青城<br>「牛頭馬面」</td>
         <td>地獄道幽冥雙使，有自己的登場畫面。<br>「牛頭獄卒，馬頭羅剎。手持槍矛，自無間獄出。爾等罪人，速速拜伏！」</td>
+    </tr>
+    <tr>
+        <td>治療雲裳失敗<br>「牛頭馬面」</td>
+        <td>地獄真正的牛頭馬面，宣告雲裳搶救失敗。</td>
     </tr>
 </table>
