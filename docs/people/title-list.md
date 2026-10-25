@@ -70,15 +70,15 @@ tags:
     </tr>
     <tr>
         <td id = "鋼珠">鋼珠</td>
-        <td><MarkdownWrapper>[彈珠台](/system/pinball#大獎外號)</MarkdownWrapper>第一次拿到大獎，擲骰【🎲<40】且性情≥60</td>
+        <td><MarkdownWrapper>[彈珠台](/system/pinball#大獎外號)</MarkdownWrapper>第一次拿到大獎，擲骰【🎲＜40】且性情≥60</td>
     </tr>
     <tr>
         <td id = "隨便">隨便</td>
-        <td><MarkdownWrapper>[彈珠台](/system/pinball#大獎外號)</MarkdownWrapper>第一次拿到大獎，擲骰【🎲<40】且性情<60</td>
+        <td><MarkdownWrapper>[彈珠台](/system/pinball#大獎外號)</MarkdownWrapper>第一次拿到大獎，擲骰【🎲＜40】且性情＜60</td>
     </tr>
     <tr>
         <td id = "彈珠俠">彈珠俠</td>
-        <td><MarkdownWrapper>[彈珠台](/system/pinball#大獎外號)</MarkdownWrapper>第一次拿到大獎，擲骰【🎲<75】</td>
+        <td><MarkdownWrapper>[彈珠台](/system/pinball#大獎外號)</MarkdownWrapper>第一次拿到大獎，擲骰【🎲＜75】</td>
     </tr>
     <tr>
         <td id = "彈星手">彈星手</td>
@@ -116,6 +116,48 @@ tags:
                 <MarkdownWrapper>[返家路程](/event/simple/2-04-2-返家路程)</MarkdownWrapper>時，
                 隨機觸發<MarkdownWrapper>[「戰官兵」](/event/simple/2-04-2-返家路程#遇捕快)</MarkdownWrapper>並獲勝。
             </li>            
+        </td>
+    </tr>
+    <tr>
+        <td id = "撲屎鵰">撲屎鵰</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
+            <li>
+                <MarkdownWrapper>[郁竹返家](/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>的
+                <MarkdownWrapper>[小鎮休憩](/event/simple/2-04-2-小鎮休憩#小鎮休憩)</MarkdownWrapper>時，
+                選擇「有個雜貨地攤」。
+            </li>            
+            <li>
+                修養≧40，天命擲骰【🎲≥85 名聲】，再選擇👉「免費的」獲得。
+            </li>
+        </td>
+    </tr>  
+    <tr>
+        <td id = "青色霍閃">青色霍閃</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
+            <li>
+                <MarkdownWrapper>[郁竹返家](/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>的
+                <MarkdownWrapper>[小鎮休憩](/event/simple/2-04-2-小鎮休憩#小鎮休憩)</MarkdownWrapper>時，
+                選擇「有個雜貨地攤」。
+            </li>            
+            <li>
+                修養≧40且銀兩≥3000，天命擲骰【🎲≥85 名聲】，再選擇👉「兩千五」，以銀兩2500購得。
+            </li>
+        </td>
+    </tr>
+    <tr>
+        <td id = "青衣大聖">青衣大聖</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
+            <li>
+                <MarkdownWrapper>[郁竹返家](/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>的
+                <MarkdownWrapper>[小鎮休憩](/event/simple/2-04-2-小鎮休憩#小鎮休憩)</MarkdownWrapper>時，
+                選擇「有個雜貨地攤」。
+            </li>            
+            <li>
+                修養≧40且銀兩≥5000，天命擲骰【🎲≥85 名聲】，再選擇👉「五千」，以銀兩5000購得。
+            </li>
         </td>
     </tr>
 </table>
