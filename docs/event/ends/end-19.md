@@ -15,8 +15,8 @@ tags:
 # {{ $frontmatter.title }}
 
 <EndBackground no=19 title="流浪漢">
-浪跡天涯說得瀟灑，說穿便是流浪漢罷。你沒有家。<br>
-<br>
+浪跡天涯說得瀟灑，說穿便是流浪漢罷。你沒有家<br>
+。<br>
 <br>
 <br>
 <br>

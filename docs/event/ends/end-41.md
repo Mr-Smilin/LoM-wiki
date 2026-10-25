@@ -26,4 +26,8 @@ tags:
 </EndBackground>
 
 ## 條件與流程
-待補
+### 一、與<Girl6Icon>郁竹</Girl6Icon>結緣
+請見[〈郁竹結緣攻略〉](/event/pursuit/girl6)
+
+### 二、唐門圍攻戰
+第三年十二月上旬[[眾人的決策]]進入頑抗到底劇情線，在[唐門圍攻戰](/event/detailed_description/4-01-2-唐門圍攻戰)下山突圍，🗡️戰勝[[瑞笙|武林盟主]]後進入結局（流程見[汗青書37：唐門薪火](/event/ends/end-37)）。
