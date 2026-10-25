@@ -305,7 +305,11 @@ tags:
         <td>拳掌10<br>暗器7<br>體力7<br>點穴LV3<br>折花手LV2</td>
         <td>80</td>
         <td>處世&lt;60</td>
-        <td>小竹回家－鎮上選「有個雜貨地攤」(修養≧40)，天命擲骰到「武功秘籍」(70~84)，銀兩≧3000並選「買」後獲得</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>。</li>
+            <li><MarkdownWrapper>[郁竹返家](/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>時<MarkdownWrapper>[小鎮休憩](/event/simple/2-04-2-小鎮休憩#小鎮休憩)</MarkdownWrapper>，選「有個雜貨地攤」。</li>
+            <li>需修養≧40且銀兩≧1000，擲骰到【🎲＜85 武功秘笈】，選👉「買」後，以銀兩3000獲得。</li>
+        </td>
         <td>3000</td>
     </tr>
     <tr>
