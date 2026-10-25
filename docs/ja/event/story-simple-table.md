@@ -289,7 +289,7 @@ tags:
 			[衣服が盗まれる](/ja/event/simple/2-04-1-衣服遭竊)<br>
 			[季試の知らせ](/ja/event/simple/2-04-1-季試消息)<br>
             [崆峒探検隊](/ja/event/simple/2-04-1-崆峒探險隊)<br>
-            郁竹の帰省準備<br>
+            [郁竹の帰郷準備](/ja/event/simple/2-04-1-郁竹返家準備)<br>
 			[奪魄森林イベント集](/ja/event/simple/2-04-1-奪魄森林事件集)<br>
         </MarkdownWrapper>
     </td>
@@ -301,10 +301,10 @@ tags:
     </td>
 </tr>
 <tr>
-    <td style="text-align: center">下</td>
+    <td style="text-align: center">中</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-			郁竹の帰郷
+			[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)<br>
         </MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">-</td>

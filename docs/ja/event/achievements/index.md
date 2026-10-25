@@ -18,7 +18,7 @@ tags:
 :::
 
 ネタバレ防止：唐嬌嬌がお出迎え
-<img height="300" width="300" src="/images/characters/big_trainee_girl_1/jojo.webp">
+<p align="center"><img height="300" width="300" src="/images/characters/big_trainee_girl_1/jojo.webp"></p>
 
 <BTable>
     <tr>
@@ -31,7 +31,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.00">00</td>
-        <td><AchievementIcon :size="`medium`" :no="`00`">定めの数 (命中有數)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`00`"><br>定めの数 (命中有數)</AchievementIcon></td>
         <td>思い通りとは言えずとも、ここまで穏やかに歩いて来られた。<br>それだけで、大したものだ。</td>
         <td>
             1周目を完了する。<br>
@@ -53,7 +53,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.01">01</td>
-        <td><AchievementIcon :size="`medium`" :no="`01`"><ruby>師門<rt>しもん</rt></ruby>の柱石 (師門砥柱)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`01`"><br><ruby>師門<rt>しもん</rt></ruby>の柱石 (師門砥柱)</AchievementIcon></td>
         <td>この時からあなたは生まれ変わった。<br>かつてあなたが<ruby>大師兄<rt>だいしけい</rt></ruby>を見上げたように、<ruby>師弟<rt>してい</rt></ruby>妹たちが、あなたを信頼している。</td>
         <td>
             第一段階: 臥雲崗 (飛俠落地) イベントで金烏の死んだふりを発生させる:<br>
@@ -67,7 +67,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.02">02</td>
-        <td><AchievementIcon :size="`medium`" :no="`02`">はた迷惑な修仙 (煩人修仙)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`02`"><br>はた迷惑な修仙 (煩人修仙)</AchievementIcon></td>
         <td>仙術は身につかなかったが、ほらを吹く腕ばかりが上がっていった。</td>
         <td>崆峒派への留学中に飛天殿で5回修仙する。</td>
         <td></td>
@@ -75,7 +75,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.03">03</td>
-        <td><AchievementIcon :size="`medium`" :no="`03`">臆病者の救い主 (懦夫救星)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`03`"><br>臆病者の救い主 (懦夫救星)</AchievementIcon></td>
         <td>運命の寵児になりたくない者などいない。手を振るえば天地が覆り、家に帰れば<ruby>妻妾<rt>さいしょう</rt></ruby>が群れを成す。<br>だが、あなたは生きねばならない。醒めていなければ、ならない。</td>
         <td>臥雲崗イベントで山を下りることを選び、帰路で金烏上人と対戦。戦闘に敗北するか、勝利後に【＜70 食らう】になって金烏に殴られて気絶する時に自動取得。</td>
         <td></td>
@@ -83,7 +83,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.04">04</td>
-        <td><AchievementIcon :size="`medium`" :no="`04`"><ruby><rb>人間道</rb><rt>にんげんどう</rt></ruby></AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`04`"><br><ruby><rb>人間道</rb><rt>にんげんどう</rt></ruby></AchievementIcon></td>
         <td>この<ruby>天下<rt>てんか</rt></ruby>で、世俗の偏見に敢えて戦いを挑むのは<ruby>唐門<rt>とうもん</rt></ruby>だけ。<br>だからこそ<ruby>温夫人<rt>おんふじん</rt></ruby>は、未来をあなたに託したのだ。</td>
         <td>
             錦香宮での滞在の終盤、<MarkdownWrapper>[温夫人の付託](/ja/event/simple/3-10-2-溫夫人託付#託付宮人)</MarkdownWrapper>の際、温夫人の問答2問目で👉「支離滅裂だ」を選ばないこと。その上で錦香宮好感≥5を満たし、天命の擲骰で温夫人に引き止めさせる:<br>
@@ -96,7 +96,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.05">05</td>
-        <td><AchievementIcon :size="`medium`" :no="`05`">自惚れ (自戀)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`05`"><br>自惚れ (自戀)</AchievementIcon></td>
         <td>あなたを愛する人がいないわけではない。少なくとも、あなたはあなたを愛している。<br>よくやった。</td>
         <td>
             方法1. ゲーム開始時の鏡を見るイベントで「悪くもない」を選択<br>
@@ -107,16 +107,17 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.06">06</td>
-        <td><AchievementIcon :size="`medium`" :no="`06`">一心一意</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`06`"><br>一心一意</AchievementIcon></td>
         <td>言い訳が要る年頃はもう過ぎた。<br>想い人と定めたなら、死ぬまで変わらない。</td>
-        <td>心変わりの夢を一度も見ていない、または心変わりの夢で毎回同じ人を選ぶ。<br>
+        <td>心変わり回数≤1。<br>
+            (心変わりの夢で想い人を替えたときだけ回数に数える。)
         </td>
         <td></td>
         <td>~~選択肢を誤クリックしないことを切に願う。~~</td>
     </tr>
     <tr>
         <td id="風雲史-No.07">07</td>
-        <td><AchievementIcon :size="`medium`" :no="`07`">野心勃々 (野心勃勃)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`07`"><br>野心勃々 (野心勃勃)</AchievementIcon></td>
         <td>夢を持つのは悪いことではない。<br>ただ、人間、地に足はつけるべきだ。</td>
         <td>
             1周目で以下の2項目を達成：<br>
@@ -128,7 +129,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.08">08</td>
-        <td><AchievementIcon :size="`medium`" :no="`08`">殴ってみろ (揍我)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`08`"><br>殴ってみろ (揍我)</AchievementIcon></td>
         <td><ruby>武林盟<rt>ぶりんめい</rt></ruby>主と<ruby>千面人魔<rt>せんめんじんま</rt></ruby>があなたの体に残した傷こそ、あなたの誉れの証だ。</td>
         <td>2年目に留学を選ばず宿屋に泊まり、<br>
             千面人魔と龍淵のイベントで「俺はお前ら二人をぶっ潰す」を選んだ後に取得。</td>
@@ -137,7 +138,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.09">09</td>
-        <td><AchievementIcon :size="`medium`" :no="`09`">頭角を現す</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`09`"><br>頭角を現す</AchievementIcon></td>
         <td><ruby>崆峒<rt>こうどう</rt></ruby>の大試で、あなたは大いに株を上げた。<br>あの顔さえなければ、嫁の一人もできていたかもしれない。</td>
         <td>
             2年目の崆峒派留学中の比武で3連勝する、または<br>
@@ -148,7 +149,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.10">10</td>
-        <td><AchievementIcon :size="`medium`" :no="`10`">ここが我が家 (這是我家)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`10`"><br>ここが我が家 (這是我家)</AchievementIcon></td>
         <td>俺は、どこにも行かない。</td>
         <td>
             西武林盟ルートに進まず、<br>
@@ -159,7 +160,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.11">11</td>
-        <td><AchievementIcon :size="`medium`" :no="`11`">分身</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`11`"><br>分身</AchievementIcon></td>
         <td>あれほど引っ張りだこだったのだから、死んでも悔いはないだろう？</td>
         <td><Girl8Icon>龍湘</Girl8Icon>と姉妹兄弟の関係で親密度4星、かつ<Girl3Icon>小梅</Girl3Icon>親密度2星以上で唐門加入後、弁舌≧40かつ体力＜60の時、唐布衣の帰路で「二人とも手放さない」を骰子で出す。</td>
         <td></td>
@@ -167,7 +168,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.12">12</td>
-        <td><AchievementIcon :size="`medium`" :no="`12`"><ruby>雪山<rt>せつざん</rt></ruby>派大弟子</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`12`"><br><ruby>雪山<rt>せつざん</rt></ruby>派大弟子</AchievementIcon></td>
         <td>兼、<Girl5Icon><ruby>掌門<rt>しょうもん</rt></ruby></Girl5Icon>の伴侶。</td>
         <td>
             2年目で親密度4星以上（5星推奨）<br>
@@ -179,7 +180,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.13">13</td>
-        <td><AchievementIcon :size="`medium`" :no="`13`"><ruby>唐門<rt>とうもん</rt></ruby>の婿殿 (唐門女婿)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`13`"><br><ruby>唐門<rt>とうもん</rt></ruby>の婿殿 (唐門女婿)</AchievementIcon></td>
         <td>千に防ぎ万に防いでも、内の賊は防ぎ難し。まさか、あなただったとは！</td>
         <td>
             2年目で親密度4星以上（5星推奨）<br>
@@ -190,7 +191,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.14">14</td>
-        <td><AchievementIcon :size="`medium`" :no="`14`">憂いを忘れし侠侶 (忘憂俠侶)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`14`"><br>憂いを忘れし侠侶 (忘憂俠侶)</AchievementIcon></td>
         <td>四方を巡り、義のために剣を振るう。<br><Girl8Icon>彼女</Girl8Icon>はあなたの雄々しさに、心底惚れ込んでいる。</td>
         <td>
             2年目で親密度4星以上（5星推奨）<br>
@@ -202,7 +203,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.15">15</td>
-        <td><AchievementIcon :size="`medium`" :no="`15`">最後の<ruby>暗器<rt>あんき</rt></ruby></AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`15`"><br>最後の<ruby>暗器<rt>あんき</rt></ruby></AchievementIcon></td>
         <td>防ぐこと能わず、躱すこと能わず、まっすぐに心を撃つ。</td>
         <td>
             西武林盟を組織せず、4年目の1月下旬の1戦目に勝利し（唐陞の戦死なし）、<br>
@@ -213,7 +214,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.16">16</td>
-        <td><AchievementIcon :size="`medium`" :no="`16`"><ruby>武林<rt>ぶりん</rt></ruby>の伝説 (武林傳奇)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`16`"><br><ruby>武林<rt>ぶりん</rt></ruby>の伝説 (武林傳奇)</AchievementIcon></td>
         <td>あなたは幼い日の夢を遂げた。<br>天に見放されたあなたでも、弛まず励めば大成できるのだと、証明してみせた。</td>
         <td>西武林盟を組織し、武林盟主を打ち倒す。</td>
         <td>「運命収束の力」を獲得</td>
@@ -221,7 +222,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.17">17</td>
-        <td><AchievementIcon :size="`medium`" :no="`17`"><ruby>飛侠<rt>ひきょう</rt></ruby>の帰還 (飛俠歸來)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`17`"><br><ruby>飛侠<rt>ひきょう</rt></ruby>の帰還 (飛俠歸來)</AchievementIcon></td>
         <td>彼には彼の機縁があった。<br>だが、あなたがいなければ、<ruby>飛侠<rt>ひきょう</rt></ruby>の帰還は果てなく遠のいていただろう。</td>
         <td>唐布衣の死後に唐布衣を復活させる。<br>詳しくは<MarkdownWrapper>飛侠の帰還</MarkdownWrapper>ページを参照してください。</td>
         <td>下旬+1</td>
@@ -229,7 +230,7 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.18">18</td>
-        <td><AchievementIcon :size="`medium`" :no="`18`">魔王の爪牙</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`18`"><br>魔王の爪牙</AchievementIcon></td>
         <td>あなたは彼女の腹心で、彼女はあなたの想い人。</td>
         <td>2年目で親密度4星以上（確認待ち、5星推奨）<br>
             武林伝説クリア時に<Girl2Icon>葉雲裳</Girl2Icon>と結縁している。手順は<MarkdownWrapper>[〈葉雲裳結縁攻略〉](/ja/event/pursuit/girl2)</MarkdownWrapper>を参照。</td>
@@ -238,10 +239,26 @@ tags:
     </tr>
     <tr>
         <td id="風雲史-No.19">19</td>
-        <td><AchievementIcon :size="`medium`" :no="`19`">悪人は悪人が制す (惡人自有惡人磨)</AchievementIcon></td>
+        <td><AchievementIcon :size="`medium`" :no="`19`"><br>悪人は悪人が制す (惡人自有惡人磨)</AchievementIcon></td>
         <td>たかが<ruby>晁和<rt>ちょうか</rt></ruby>、恥知らずの能無しごときが、<br>どうして彼女より悪くなれようか？</td>
         <td><MarkdownWrapper>[葉雲裳結縁攻略](/ja/event/pursuit/girl2)</MarkdownWrapper>で結縁し、<MarkdownWrapper>[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>で武林大会に同行させる。会場を離れる際の<MarkdownWrapper>[各派の投票結果](/ja/event/simple/3-10-2-公審唐門#公審總結)</MarkdownWrapper>で唐門が武林の公敵となり、<MarkdownWrapper>[前に出て釈明する](/ja/event/simple/3-10-2-武林公敵#對策選擇)</MarkdownWrapper>ときに「葉雲裳に付き添ってもらう」を選ぶと取得。</td>
         <td></td>
         <td>v1.0.5000.0版本以後に追加</td>
+    </tr>
+    <tr>
+        <td id="風雲史-No.20">20</td>
+        <td>折梅手</td>
+        <td>かつては寒さを凌いでひとり咲き、<br>それでもあなたのために手折られることを望んだ。</td>
+        <td>武林伝説クリア時に<Girl3Icon>虞小梅</Girl3Icon>と結縁している。手順は<MarkdownWrapper>[〈虞小梅結縁攻略〉](/ja/event/pursuit/girl3)</MarkdownWrapper>を参照。</td>
+        <td></td>
+        <td>v1.0.6000.0版本以後に追加</td>
+    </tr>
+    <tr>
+        <td id="風雲史-No.21">21</td>
+        <td>一家の主 (一家之主)</td>
+        <td>唐門の外姓弟子、崆峒の掌派人、竹城の主、<br>そして彼女の帰る場所。</td>
+        <td>武林伝説クリア時に<Girl6Icon>郁竹</Girl6Icon>と結縁している。手順は<MarkdownWrapper>[〈郁竹結縁攻略〉](/ja/event/pursuit/girl6)</MarkdownWrapper>を参照。</td>
+        <td></td>
+        <td>v1.0.6000.0版本以後に追加</td>
     </tr>
 </BTable>

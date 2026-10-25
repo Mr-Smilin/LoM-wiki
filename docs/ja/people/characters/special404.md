@@ -42,6 +42,14 @@ aside: false
 				</ChTd>
 			</ChTr>
 			<ChTr>
+				<ChTd isTitle=true>
+					本名
+				</ChTd>
+				<ChTd>
+					||陳大成||
+				</ChTd>
+			</ChTr>
+			<ChTr>
 				<ChTd isTitle=true position='center'>
 					関係
 				</ChTd>

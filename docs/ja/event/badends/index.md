@@ -944,7 +944,7 @@ tags:
             <BadendIcon :no="39">生死簿 No.39</BadendIcon>
         </td>
         <td>
-            巻き添え死 (遭到連累死)
+            巻き添え死 (遭到連累而死)
         </td>
         <td>
             今日は本来、あなたの命日ではなかった。ただ、巻き込まれただけだ。
@@ -953,7 +953,14 @@ tags:
             -
         </td>
         <td>
-            <Girl3Icon>小梅</Girl3Icon>が唐門に加わっておらず、第三年一月上旬に唐布衣と下山せず唐布衣の治療を行い（医術≧5か累積錬丹値≧250が必要）、途中で運功を中断した後、刺客の誰かに敗北する
+            <li>
+                🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学し、
+                <MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の
+                <MarkdownWrapper>[帰郷の道中](/ja/event/simple/2-04-2-返家路程)</MarkdownWrapper>で、
+                ランダムで<MarkdownWrapper>[「戦：書生」](/ja/event/simple/2-04-2-返家路程#遇公子熟人)</MarkdownWrapper>
+                または<MarkdownWrapper>[「戦：錦香宮弟子」](/ja/event/simple/2-04-2-返家路程#遇錦香弟子)</MarkdownWrapper>が発生して敗北する。
+            </li>
+            <li><Girl3Icon>小梅</Girl3Icon>が唐門に加わっておらず、第三年一月上旬に唐布衣と下山せず唐布衣の治療を行い（医術≧5か累積錬丹値≧250が必要）、途中で運功を中断した後、刺客の誰かに敗北する</li>
         </td>
         <td>
             医術≧5級か累積錬丹ポイント＞250で、唐布衣の治療が発生する
@@ -2440,7 +2447,7 @@ tags:
 
 <div class="table-content">
 
-## 生死簿 No.101 - 生死簿 No.106
+## 生死簿 No.101 - 生死簿 No.110
 
 <Btable>
     <tr>
@@ -2591,6 +2598,52 @@ tags:
             <MarkdownWrapper>[小梅の着替え](/ja/event/simple/2-03-3-鎮魂獄羈押#小梅更衣)</MarkdownWrapper>まで進んだとき、
             👉「素直に見せなさい」を選び、ダイスで【🎲≥50 少し見えた】が出る。
           </li>
+        </td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.108">
+            <BadendIcon :no="108">生死簿 No.108</BadendIcon>
+        </td>
+        <td>
+            恋敵と相討ち (跟情敵同歸於盡)
+        </td>
+        <td>
+            お前たち二人とも楽にはさせない。黄泉に下ってまた殴り合え。<br>
+            そして彼女は別の男に嫁ぐ。<br>
+        </td>
+        <td>-</td>
+        <td>
+          <li>
+            🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学。
+          </li>
+          <li>
+            <Girl3Icon>虞小梅</Girl3Icon>から<MarkdownWrapper>[郁竹の帰郷準備](/ja/event/simple/2-04-1-郁竹返家準備#發現郁竹)</MarkdownWrapper>を発動し、<br>
+            イベント中に👉「追いかけてみる」を選び、余公子との戦いに敗北する。
+          </li>
+        </td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.109">
+            <BadendIcon :no="109">生死簿 No.109</BadendIcon>
+        </td>
+        <td>
+            冤罪の獄死 (冤獄而死)
+        </td>
+        <td>
+            あなたは武器密売の元締めの一味とみなされた。<br>
+            敵に通じ国に背いた疑いで、死ぬまで牢に入れられた。<br>
+            ついでに言うと、小竹は無事に嫌疑が晴れて釈放された。<br>
+        </td>
+        <td>-</td>
+        <td>
+            <li>
+                🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学し、
+                <MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の
+                <MarkdownWrapper>[帰郷の道中](/ja/event/simple/2-04-2-返家路程)</MarkdownWrapper>で、
+                ランダムで<MarkdownWrapper>[「戦：官兵」](/ja/event/simple/2-04-2-返家路程#遇捕快)</MarkdownWrapper>が発生して敗北する。
+            </li>
         </td>
         <td>-</td>
     </tr>
