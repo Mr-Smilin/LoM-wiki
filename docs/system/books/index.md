@@ -175,7 +175,7 @@ tags:
         <td>刀劍10<br>輕功12<br>風刀<br>火劍</td>
         <td>80</td>
         <td>內力&gt;=60</td>
-        <td><MarkdownWrapper>前往崆峒的路上－郁城請託後與[[丹霞子]]同行，聊完道中的話題後選「啟程出發」，夜裡[[丹霞子]]把書丟進火堆，趙活搶救回來時獲得</MarkdownWrapper></td>
+        <td><MarkdownWrapper>金烏事變前往崆峒的路上，[[丹霞子]]好感≧30獲得</MarkdownWrapper></td>
         <td></td>
     </tr>
     <tr>
@@ -357,7 +357,7 @@ tags:
         <td>輕功10<br>拳掌5</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留學－飛天門入門贈送<br>二年崆峒派留學－玄功門入門，選飛天門秘笈<br>二年崆峒派留學－飛天門季試一勝，<MarkdownWrapper>[[虞小梅]]好感＜25</MarkdownWrapper><br>二年十月中旬-四師兄買物($1200)<br>三年四月中旬下架</td>
+        <td>二年崆峒派留學－飛天門入門贈送<br>二年崆峒派留學－玄功門入門，選飛天門秘笈<br>二年崆峒派留學－飛天門<MarkdownWrapper>[[崆峒季試]]</MarkdownWrapper>一勝，<MarkdownWrapper>[[虞小梅]]好感＜20</MarkdownWrapper><br>二年十月中旬-四師兄買物($1200)<br>三年四月中旬下架</td>
         <td>1200</td>
     </tr>
     <tr>
@@ -365,7 +365,7 @@ tags:
         <td>輕功7<br>拳掌7<br>爆發3<br>形意拳LV1<br>仙鶴迷蹤步</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留學－飛天門季試<MarkdownWrapper>二勝([[虞小梅]]好感≧25)或三勝([[虞小梅]]好感＜25)</MarkdownWrapper>獎勵<br>三年招親－崆峒派留學飛天門，<MarkdownWrapper>打贏[[金烏上人]]，[[顏疆]]死亡</MarkdownWrapper>時贈送</td>
+        <td>二年崆峒派留學－飛天門<MarkdownWrapper>[[崆峒季試]]二勝([[虞小梅]]好感≧20)或三勝([[虞小梅]]好感＜20)</MarkdownWrapper>獎勵<br>三年招親－崆峒派留學飛天門，<MarkdownWrapper>打贏[[金烏上人]]，[[顏疆]]死亡</MarkdownWrapper>時贈送</td>
         <td></td>
     </tr>
     <tr>
@@ -498,7 +498,7 @@ tags:
         <td>內力10<br>體力7<br>烈火禪<br>陰陽+10</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留學－飛天門季試<MarkdownWrapper>一勝([[虞小梅]]好感≧25)或二勝([[虞小梅]]好感＜25)</MarkdownWrapper>獎勵</td>
+        <td>二年崆峒派留學－飛天門<MarkdownWrapper>[[崆峒季試]]一勝([[虞小梅]]好感≧20)或二勝([[虞小梅]]好感＜20)</MarkdownWrapper>獎勵</td>
         <td></td>
     </tr>
     <tr>
@@ -546,7 +546,7 @@ tags:
         <td>內力15<br>焚心火印LV3</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留學－飛天門季試三勝獎勵<MarkdownWrapper>([[虞小梅]]好感≧25)</MarkdownWrapper><br>三年招親－崆峒派留學飛天門，<MarkdownWrapper>打贏[[金烏上人]]，[[顏疆]]死亡時贈送</MarkdownWrapper></td>
+        <td>二年崆峒派留學－飛天門<MarkdownWrapper>[[崆峒季試]]</MarkdownWrapper>三勝獎勵<MarkdownWrapper>([[虞小梅]]好感≧20)</MarkdownWrapper><br>🚧三年招親－崆峒派留學飛天門，<MarkdownWrapper>打贏[[金烏上人]]，[[顏疆]]死亡時贈送</MarkdownWrapper>(目前版本判斷條件設錯，實際拿不到)</td>
         <td></td>
     </tr>
     <tr>
@@ -574,7 +574,7 @@ tags:
         <td>內力10<br>體力10<br>南宮護心訣3<br>不動如山<br>修養+10</td>
         <td>50</td>
         <td></td>
-        <td>圍城事件－南宮遠贈送(不拿錢切磋，血量介於40%~80%)<br>二年十月中旬－四師兄買物($2500)<br>三年四月中旬下架</td>
+        <td>圍城事件－乘涼遇到南宮遠，擲骰【🎲≧50 不給零用錢】(道德＋、名聲－)，切磋中血量掉到40%~80%<br>二年十月中旬－四師兄買物($2500)<br>三年四月中旬下架</td>
         <td>2500</td>
     </tr>
     <tr>

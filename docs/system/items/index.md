@@ -187,12 +187,12 @@ tags:
     </tr>
     <tr>
         <td>龍象豹力子丹</td>
+        <td>賣價<br>2000</td>
         <td></td>
-        <td></td>
-        <td>不明</td>
-        <td>不明</td>
-        <td>夏侯蘭路線在雪山放生第三香，選擇「丹藥」</td>
-        <td></td>
+        <td>無</td>
+        <td>無（只能賣）</td>
+        <td>夏侯蘭路線<MarkdownWrapper>[「雪山之約」](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>放生第三香後，🎲第三香給的東西【30～59】有丹藥</td>
+        <td>鐵拳門秘傳靈藥「龍象豹力丹」的爐底殘渣搓成的子丹，母丹被小竹吃了。</td>
     </tr>    
     <tr>
         <td>大師兄的塗鴉</td>
