@@ -46,6 +46,10 @@ tags:
     <li>
       建議觸發<MarkdownWrapper>[「鶴崖事件集」](/event/simple/2-03-3-鶴崖事件集)</MarkdownWrapper>中的「小梅共舞」。<br>
     </li>
+    <li>
+      若曾在飛天殿修仙至少一次，條件6的劇情<br>
+      對話會稍微改變。
+    </li>
   </td>
 </tr>
 
