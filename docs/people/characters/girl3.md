@@ -185,7 +185,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[[火龍真君]] (師父)
+					[[火龍仙君]] (師父)
 				</ChTd>
 			</ChTr>
 			<ChTr>
