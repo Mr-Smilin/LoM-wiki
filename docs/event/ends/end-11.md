@@ -26,25 +26,12 @@ tags:
 
 ## 條件與流程
 
-<b>條件：</b>留學崆峒派，<Girl3Icon>虞小梅</Girl3Icon>加入唐門，心上人不為<Girl6Icon>郁竹</Girl6Icon>或<Girl6Icon>郁竹</Girl6Icon>好感度＜45<br>
+<b>條件：</b>留學崆峒派，<Girl3Icon>虞小梅</Girl3Icon>加入唐門，心上人不為<Girl6Icon>郁竹</Girl6Icon>、<Girl6Icon>郁竹</Girl6Icon>好感度＜45或<Girl6Icon>郁竹</Girl6Icon>不在唐門<br>
 <b>流程：</b><br>
 1. 第二年二月上旬唐門會議，選擇**📜「我想去崆峒派留學」**。
 2. 第二年十月下旬，<Girl3Icon>虞小梅</Girl3Icon>加入唐門(需要<Girl3Icon>虞小梅</Girl3Icon>好感度≧20)。
-4. 第三年一月中旬，不隨[大師兄](/people/characters/brother1)下山。
-5. 第三年一月下旬，[大師兄](/people/characters/brother1)重傷歸來，選擇治療大師兄(開啟選項需要醫術≧5或總毒藥點數≧250)。
-6. <Girl3Icon>虞小梅</Girl3Icon>出場後的選項選擇**📖「收功」**。
-7. 心上人不為<Girl6Icon>郁竹</Girl6Icon>或<Girl6Icon :size="`small`">郁竹</Girl6Icon>好感度＜45，進入結局。
-
-### 不隨大師兄下山條件說明：
-+ **🎲天命：需要多帶幫手嗎？....**(上限60、➕加值：[唐布衣](/people/characters/brother1)好感度）：骰出**🧾【＜80】不需要**。
-+ **🎲天命：需要多帶幫手嗎？....**(上限60、➕加值：[唐布衣](/people/characters/brother1)好感度）：骰出**🧾【≧80】不需要，我和趙活就夠了。**，後續選擇**📖「我才不要去咧(激烈抵抗)」**。
-
-### 治療大師兄選項說明：
-每次遲疑對話會不同。
-+ 選擇**📖「決意」**。
-+ **📖「遲疑」**→**📖「大師兄不能死」**→**📖「決意」**。
-+ **📖「遲疑」**→**📖「大師兄不能死」**→**📖「遲疑」**→**📖「大師兄不能死」**→**📖「決意」**。
-+ **📖「遲疑」**→**📖「大師兄不能死」**→**📖「遲疑」**→**📖「大師兄不能死」**→**📖「遲疑」**。
+3. 第三年一月[大師兄](/people/characters/brother1)下山事件中，被<Girl3Icon>虞小梅</Girl3Icon>帶到孤島(條件請參考[[飛俠歸來]]事件頁)。
+4. 心上人不為<Girl6Icon>郁竹</Girl6Icon>、<Girl6Icon :size="`small`">郁竹</Girl6Icon>好感度＜45或<Girl6Icon>郁竹</Girl6Icon>不在唐門，進入結局。
 
 ## 分歧與變化
 
