@@ -53,6 +53,30 @@ aside: false
 			nameZh='（<ゝω·）☆'
 			nameEn='Kira'/>
 	</ChTab>
+	<ChTab title="得意">
+		<Ch 
+			src='/images/characters/girl_3/proud.webp' 
+			position='center'/>
+		<ChName
+			nameZh='得意'
+			nameEn='Smug'/>
+	</ChTab>
+	<ChTab title="陰笑">
+		<Ch 
+			src='/images/characters/girl_3/gloomy2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='陰笑'
+			nameEn='Sinister Smile'/>
+	</ChTab>
+	<ChTab title="幕後">
+		<Ch 
+			src='/images/characters/girl_3/backstage.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幕後'
+			nameEn='Mastermind'/>
+	</ChTab>
 	<ChTab title="汗顏">
 		<Ch 
 			src='/images/characters/girl_3/nervous1.webp' 
@@ -76,6 +100,14 @@ aside: false
 		<ChName
 			nameZh='驚嚇'
 			nameEn='Ah!'/>
+	</ChTab>
+	<ChTab title="懷疑">
+		<Ch 
+			src='/images/characters/girl_3/doubt.webp' 
+			position='center'/>
+		<ChName
+			nameZh='懷疑'
+			nameEn='Doubt'/>
 	</ChTab>
 	<ChTab title="生氣">
 		<Ch 
@@ -101,6 +133,22 @@ aside: false
 			nameZh='塊陶啊'
 			nameEn='Run!!'/>
 	</ChTab>
+	<ChTab title="飛踢">
+		<Ch 
+			src='/images/characters/girl_3/kick.webp' 
+			position='center'/>
+		<ChName
+			nameZh='飛踢'
+			nameEn='Flying Kick'/>
+	</ChTab>
+	<ChTab title="駕～阿活">
+		<Ch 
+			src='/images/characters/girl_3/special5.webp' 
+			position='center'/>
+		<ChName
+			nameZh='駕～阿活'
+			nameEn='Giddy-up!'/>
+	</ChTab>
 	<ChTab title="害羞">
 		<Ch 
 			src='/images/characters/girl_3/shy1.webp' 
@@ -125,6 +173,22 @@ aside: false
 			nameZh='害羞...?'
 			nameEn='Shy...?'/>
 	</ChTab>
+	<ChTab title="想入非非">
+		<Ch 
+			src='/images/characters/girl_3/special6.webp' 
+			position='center'/>
+		<ChName
+			nameZh='想入非非'
+			nameEn='Daydreaming'/>
+	</ChTab>
+	<ChTab title="流鼻血">
+		<Ch 
+			src='/images/characters/girl_3/norseblood.webp' 
+			position='center'/>
+		<ChName
+			nameZh='流鼻血'
+			nameEn='Nosebleed'/>
+	</ChTab>
 	<ChTab title="悲傷">
 		<Ch 
 			src='/images/characters/girl_3/sad1.webp' 
@@ -148,6 +212,94 @@ aside: false
 		<ChName
 			nameZh='蒙面'
 			nameEn='Masked'/>
+	</ChTab>
+	<ChTab title="蒙面(大笑)">
+		<Ch 
+			src='/images/characters/girl_3/thief_laugh2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='蒙面(大笑)'
+			nameEn='Masked (Laugh)'/>
+	</ChTab>
+	<ChTab title="人皮面具">
+		<Ch 
+			src='/images/characters/girl_3/scary.webp' 
+			position='center'/>
+		<ChName
+			nameZh='人皮面具'
+			nameEn='Skin Mask'/>
+	</ChTab>
+	<ChTab title="人皮面具(驚)">
+		<Ch 
+			src='/images/characters/girl_3/scary_shock.webp' 
+			position='center'/>
+		<ChName
+			nameZh='人皮面具(驚)'
+			nameEn='Skin Mask (Shocked)'/>
+	</ChTab>
+	<ChTab title="扮余公子">
+		<Ch 
+			src='/images/characters/girl_3/ranger1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='扮余公子'
+			nameEn='Disguised as Young Master Yu'/>
+	</ChTab>
+	<ChTab title="扮大師兄">
+		<Ch 
+			src='/images/characters/girl_3/brother1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='扮大師兄'
+			nameEn='Disguised as Senior Brother'/>
+	</ChTab>
+	<ChTab title="入魔">
+		<Ch 
+			src='/images/characters/girl_3/berserk_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='入魔'
+			nameEn='Berserk'/>
+	</ChTab>
+	<ChTab title="入魔(落淚)">
+		<Ch 
+			src='/images/characters/girl_3/berserk_half.webp' 
+			position='center'/>
+		<ChName
+			nameZh='入魔(落淚)'
+			nameEn='Berserk (Tears)'/>
+	</ChTab>
+	<ChTab title="入魔飛踢">
+		<Ch 
+			src='/images/characters/girl_3/berserk_kick.webp' 
+			position='center'/>
+		<ChName
+			nameZh='入魔飛踢'
+			nameEn='Berserk Kick'/>
+	</ChTab>
+	<ChTab title="被抓">
+		<Ch 
+			src='/images/characters/girl_3/berserk_caught.webp' 
+			position='center'/>
+		<ChName
+			nameZh='被抓'
+			nameEn='Captured'/>
+	</ChTab>
+	<ChTab title="幼年">
+		<Ch 
+			src='/images/characters/girl_3/child_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼年'
+			nameEn='Child'/>
+	</ChTab>
+	<ChTab title="幼年(笑)">
+		<Ch 
+			src='/images/characters/girl_3/child_laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼年(笑)'
+			nameEn='Child (Smile)'/>
 	</ChTab>
 </ChTabs>
 
