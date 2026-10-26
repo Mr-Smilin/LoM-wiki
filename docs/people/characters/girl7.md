@@ -120,6 +120,38 @@ aside: false
 			nameZh='帷帽'
 			nameEn='Weimao'/>
 	</ChTab>
+	<ChTab title="散髮">
+		<Ch 
+			src='/images/characters/girl_7/messy_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='散髮'
+			nameEn='Disheveled'/>
+	</ChTab>
+	<ChTab title="散髮(頓住)">
+		<Ch 
+			src='/images/characters/girl_7/messy_nervous1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='散髮(頓住)'
+			nameEn='Disheveled (Uh...)'/>
+	</ChTab>
+	<ChTab title="散髮(緊張)">
+		<Ch 
+			src='/images/characters/girl_7/messy_nervous2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='散髮(緊張)'
+			nameEn='Disheveled (Nervous)'/>
+	</ChTab>
+	<ChTab title="散髮(悲傷)">
+		<Ch 
+			src='/images/characters/girl_7/messy_sad1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='散髮(悲傷)'
+			nameEn='Disheveled (Sad)'/>
+	</ChTab>
 </ChTabs>
 <br>
 
