@@ -25,7 +25,7 @@ tags:
 
 ## 2025年
 ### 訪談 速記
-[2025TGDF活俠訪談 速記](https://forum.gamer.com.tw/C.php?bsn=73317&snA=3449)— 巴哈姆特板友 K.T. 對2025 TGDF的活俠講座訪談 速記彙整 (2025年7月)(原始森林審稿確認)
+- [2025TGDF活俠訪談 速記](https://forum.gamer.com.tw/C.php?bsn=73317&snA=3449)— 巴哈姆特板友 K.T. 對2025 TGDF的活俠講座訪談 速記彙整 (2025年7月)(原始森林審稿確認)
 
 ## 2026年
 ### 專訪
@@ -34,6 +34,6 @@ tags:
     - [轉繁中文字版](https://forum.gamer.com.tw/C.php?bsn=73317&snA=4454)
 ## 江湖軼聞錄
 
-[連結](https://docs.google.com/spreadsheets/d/1ZtmvgQqblKddvBsJF-5HRT5byotuNW7M4SwGBLFRoOQ/edit?usp=sharing)<br>
+- [連結](https://docs.google.com/spreadsheets/d/1ZtmvgQqblKddvBsJF-5HRT5byotuNW7M4SwGBLFRoOQ/edit?usp=sharing)<br>
 
 這裡蒐集所有已公開的非正式資訊。<br>包含玩家分享的鳥熊私訊問答、原始鳥熊於粉專對網友透露的資訊、鳥熊訪談提及的內容。<br>開放共同編輯，請參考連結內說明。

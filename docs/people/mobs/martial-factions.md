@@ -31,6 +31,7 @@ tags:
         <td>丐幫老派弟子，以江湖鬼域錄伎倆割龍湘布包偷碎銀。趙活察覺並追上後會與之戰鬥，若打輸會在逃跑時被蛇咬死。<br>吃了樊嘯天的狗而被記恨。被曾老丐推出去擋樊嘯天的攻擊，被打個半死。<br>若得到妥善治療可在李大夫處撿回一命，但付不出診金，只好成為李大夫的學徒。</td>
     </tr>
 </table>
+
 ### 老乞丐
 <img src="/images/mobs/beggar-gang/beggar_old_normal.webp" style="width:200px;" />
 <table>
