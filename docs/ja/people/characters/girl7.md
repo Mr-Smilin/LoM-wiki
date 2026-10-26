@@ -282,8 +282,6 @@ aside: false
 
 ## 備考
 
-遮黒は v3206 解包でのみ見ることができる情報である。
-
 - [鳥熊 Facebook での紹介](https://www.facebook.com/photo.php?fbid=170987155454668&id=100076301525150&set=a.165167019370015)
 - 額が非常に高く、天庭が豊かなのは福相である。~~色情額~~[^1]
 - 一身の深い内功は前掌門から伝えられた[鉄琵琶功](/ja/system/books/book_7008)であり、この他は一切の武功を練習したことがない。
@@ -299,7 +297,7 @@ aside: false
 - 「招弟」は女性の卑名で、意味は「後に男の子が生まれることを期待する」という意味。
 - 当時、彼女を貶めて下嫁させることになった犯人は嶺南派の[陳倔](/ja/people/characters/lingnan_trainee4)。
 - <MarkdownWrapper>||手炉は乾坤造化炉と呼ばれ、怒った時は回転して真っ赤に熱くなる。||</MarkdownWrapper>
-- <MarkdownWrapper>||酒の飲み方が良くなく、酔うと性質が一変して時局を批判し、古事に託けて現代を風刺する。||</MarkdownWrapper>
+- 🚧未実装：<MarkdownWrapper>||酒癖が悪く、酔うと人が変わったように時局を批判し、昔の出来事にかこつけて今の世を風刺する。||</MarkdownWrapper>
 
 [^1]: バハムート－[RE:【情報】鳥熊 Q&A 集（更新済み 11/2 第二波+私人質問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^2]: Facebook－[元鳥熊 2025/9/10](https://www.facebook.com/share/169pXAfAAF/)

@@ -305,7 +305,11 @@ tags:
         <td>拳掌10<br>暗器7<br>体力7<br>点穴LV3<br>折花手LV2</td>
         <td>80</td>
         <td>処世&lt;60</td>
-        <td>小竹の帰郷－町で「雑貨の露店がある」を選び (品性≧40)、天命ダイスで「武功の秘籍」(70〜84) が出て、銀≧3000で「買う」を選ぶと入手</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学する。</li>
+            <li><MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の<MarkdownWrapper>[小さな町での休息](/ja/event/simple/2-04-2-小鎮休憩#小鎮休憩)</MarkdownWrapper>で、「雑貨の露店がある」を選ぶ。</li>
+            <li>品性≧40かつ銀両≧1000で、ダイスで【🎲＜85 武功の秘籍】が出たあと👉「買う」を選ぶと、銀両3000で入手できる。</li>
+        </td>
         <td>3000</td>
     </tr>
     <tr>

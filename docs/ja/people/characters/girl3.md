@@ -299,9 +299,30 @@ aside: false
 
 詳細は<MarkdownWrapper>[〈虞小梅結縁攻略〉](/ja/event/pursuit/girl3)</MarkdownWrapper>を参照。
 
+## 武功
+
+-   修めている[《焚心火印》](/ja/system/books/book_7009)は、火蠍の毒を飲んで内功を速成する法である。速成の代償に病根が残り、運功するたびに寿命を燃やす。毒が発作を起こしたときは、[火龍仙君](/ja/people/characters/special204)の掌の助けで火力を消化してもらい、死の危機を乗り越えるしかない。
+-   使えば死ぬ技「焚心大火印」がある。
+-   易容のために縮骨功、腰の巻き布、肩当て、竹馬などを使うので、実力を出し切りにくい。
+-   易容に使う人の顔の仮面は豚の皮でできていて、おしろいや顔料も塗っているため、長くかぶっていると蒸れる。
+-   声色も変えられるが、男の声は微妙。
+-   <MarkdownWrapper>||[画中仙](/ja/people/characters/special813)から崆峒の神技《一趾御風》を授かってから、軽功がさらに上達した。||</MarkdownWrapper>
+  
+## 料理
+
+-   料理の腕前は超一流。[趙活](/ja/people/characters/player)が大失敗した料理もごちそうに作り直せるし、考案したお菓子は村の人々に大好評。
+-   平涼特級料理大会で三連覇している。
+-   江陵へ向かう[趙活](/ja/people/characters/player)のために、日持ちする炊餅、干し肉、梅の蜜漬けを特別に用意した。
+-   料理に毒を盛って[火龍仙君](/ja/people/characters/special204)を倒し、その隙に崆峒を抜け出した。
+-   腐りかけたものでも見違えるような料理にできる。盛り付けと味付けを変えて、[趙活](/ja/people/characters/player)に傷んだ菜っ葉を気づかれずに食べさせた。
+-   石灰が水に触れると熱を出す性質を使い、唐門で薬膳火鍋の出前を始めた。
+-   麺を蒸してから油で揚げて乾麺にし、竹筒や竹の杖の中にしまっておく。湯を沸かして煮ればすぐ食べられる。
+-   唐門に身を寄せていた間に門人たちの舌を肥えさせてしまい、唐牛の料理さえ見劣りするようになった。
+-   破廟で野宿したときは、その場で採れた山のきのこと新鮮な肉だけで、酒楼の料理にも負けない野趣あふれる雑炊を即興で作った。
+
 ## 千面人魔
 
--   <MarkdownWrapper>||実は小梅は一人ではない。[千灯楼](/ja/people/factions/thousand-lantern-tower)は大勢の孤児を「小梅」として育て、幼いうちに互いに殺し合わせた。今の小梅はその最後の生き残りである。||</MarkdownWrapper>
+-   <MarkdownWrapper>||実は小梅は一人ではない。[千灯楼](/ja/people/factions/thousand-lantern-tower)は大勢の孤児を「小梅」として育て、幼いうちに互いに殺し合わせた。今の小梅はその最後の生き残りである。誕生日の6月6日は、彼女が生き残ったその日である。||</MarkdownWrapper>
 -   <MarkdownWrapper>||本当は五代目の千面人魔だが、[千灯楼](/ja/people/factions/thousand-lantern-tower)は除名された四代目の千面人魔を認めていないため、小梅が繰り上がって四代目になった。||</MarkdownWrapper>
 -   走るのが好きな理由は、一つにはストレスを発散するため、もう一つには崆峒の地形を下見して暗殺行動に役立てるためである。[^4]
 -   崆峒が攻撃を受けた時に混乱に乗じて逃げ出し、醜い女の阿花に変装して唐門に身を寄せた。[趙活](/ja/people/characters/player)の不誠実さを手掛かりに、[画中仙](/ja/people/characters/special813)（唐仙児）と互いに様子を探り合った。最後にようやく本当の姿を明かす。
@@ -318,20 +339,32 @@ aside: false
 -   <MarkdownWrapper>||杏花林を通りかかったときにたくさんの願いをかけ、その中に自由になりたいという願いもあった。そのため[画中仙](/ja/people/characters/special813)（唐仙児）は[瑞杏](/ja/people/characters/girl1)（姫）の命を受け、小梅を屍心丹の支配から解く手助けをする。||</MarkdownWrapper>
 -   <MarkdownWrapper>||初代の千面人魔は今の奪魄門掌門で、崆峒掌派人の権限は奪魄門より上にある。そのため[画中仙](/ja/people/characters/special813)（唐仙児）は[趙活](/ja/people/characters/player)が崆峒掌派人になるのを助け、小梅の屍心丹の支配を解くよう命じさせた。||</MarkdownWrapper>
 
+## 郁竹
+
+-   [郁竹](/ja/people/characters/girl6)(小竹)とはかつて親友だった。しかし昔だまして霊薬を飲ませたせいで、小竹は今でも怒っている。本当は仲直りしたいのだが、[千灯楼](/ja/people/factions/thousand-lantern-tower)の一件に巻き込むのを恐れている。
+-   小竹の知らないところで何かと助け、小竹のために筋を通させている。
+-   <MarkdownWrapper>||[郁竹](/ja/people/characters/girl6)をひどい家族から引き離すため、余公子になりすまして家族に絶縁状を書かせ、小竹と縁を切らせた。さらに郁父をそそのかし、借金をしてでも小竹に金を返させて、後々口実を残さないようにした。||</MarkdownWrapper>
+
+## 趙活
+
+-   [趙活](/ja/people/characters/player)が崆峒に留学している間、自分から近づき、よく趙活を走りに誘った。
+-   [趙活](/ja/people/characters/player)、[瑞笙](/ja/people/characters/special999)、[南宮浅](/ja/people/characters/special103)と崆峒探検隊を結成した。
+-   最初に[趙活](/ja/people/characters/player)に近づいたのは、ただ寂しかったから。けれど他人を傷つけるのが怖くて、自分のせいで死んでも惜しくない人に、遊び相手や話し相手になってほしかった。
+-   ~~ヤンデレの疑いあり~~重度のヤンデレ。[^1]
+-   気に入ったのは[趙活](/ja/people/characters/player)の身分ではなく、<MarkdownWrapper>||体である。||</MarkdownWrapper>
+-   <MarkdownWrapper>||何度も[趙活](/ja/people/characters/player)の不実を疑って殺そうとし、多くの場面で趙活を監禁したいと口にしている。同じヤンデレの[荊紅](/ja/people/characters/special824)の歪んだ考えにさえ共感できる。||</MarkdownWrapper>
+-   <MarkdownWrapper>||攻略可能なヒロインの中で最も性欲をはっきり表す女性。イベントで[趙活](/ja/people/characters/player)の点穴をして押し倒すだけでなく、二人きりのときは趙活が全裸になって自分に見せるべきだと公言している。||</MarkdownWrapper>
+
 ## 備考
 
--   ~~ヤンデレの疑いあり~~重度のヤンデレ。[^1]<MarkdownWrapper>||何度も[趙活](/ja/people/characters/player)の不実を疑って殺そうとし、多くの場面で趙活を監禁したいと口にしている。同じヤンデレの[荊紅](/ja/people/characters/special824)の歪んだ考えにさえ共感できる。||</MarkdownWrapper>
 -   社交能力Lv9。[^2]
 -   唐門の入室弟子になったのに、唐門の制服に着替えず、姓も改めていない特例である。
 -   本人いわく、右手には[阿鶴侠](/ja/people/characters/special805)の魂が宿っている。信じるかどうかはあなた次第！
 -   <MarkdownWrapper>||江湖に[阿鶴侠](/ja/people/characters/special805)は実在するが、責任を押し付けるための身分にされがちである。||</MarkdownWrapper>
 -   小梅は[火閃電](/ja/people/characters/firebird1.md)に対して厳しくも優しい。特に火閃電の自主性を尊重していて、お小遣いまで与えている。[^3]
 -   10歳の時、[唐惟元](/ja/people/characters/brother4.md)から毒薬を買い、[火龍仙君](/ja/people/characters/special204)と[金烏上人](/ja/people/characters/special207)を毒殺しようとしたが、だまされて下剤をつかまされた。今でも彼を根に持っている。
--   小竹とはかつて親友だった。しかし当時、彼女をだまして霊薬を食べさせたせいで、小竹は今でも彼女に怒っている。本当は仲直りしたいのだが、[千灯楼](/ja/people/factions/thousand-lantern-tower)の一件に彼女を巻き込むことを恐れている。
 -   [夏侯蘭](/ja/people/characters/girl5.md)を非常に怖がっていて、蘭姐姐と呼ぶ。一方、相手は彼女を「小瘋子 (おチビの狂人)」と呼ぶ。
--   料理の腕前は超一流。[趙活](/ja/people/characters/player)が大失敗した料理をごちそうに作り直せる。考案したお菓子は村の人々に大好評。
 -   <MarkdownWrapper>||実は初版のある結末では、[金烏上人](/ja/people/characters/special207)との間に無理やり6人の子を産まされるという悲惨な扱いだった。一部のプレイヤーの抗議で炎上した後、この設定は削除された。||</MarkdownWrapper>
--   <MarkdownWrapper>||攻略可能なヒロインの中で最も性欲をはっきり表す女性。イベントで[趙活](/ja/people/characters/player)の点穴をして押し倒すだけでなく、二人きりのときは趙活が全裸になって自分に見せるべきだと公言している。||</MarkdownWrapper>
 
 ## ギャラリー
 

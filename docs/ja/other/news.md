@@ -59,6 +59,14 @@ gitChangelog: false
 <!--@include: @/ja/other/news/20250828-03-release.md-->
 <!--@include: @/ja/other/news/20250828-02-release.md-->
 <!--@include: @/ja/other/news/20250828-01-majorUpdate.md-->
+<!--@include: @/ja/other/news/20250825-01-announce.md-->
+<!--@include: @/ja/other/news/20250811-01-announce.md-->
+
+---
+<br>
+
+# 江湖快報 2025年6月号
+<!--@include: @/ja/other/news/20250611-01-announce.md-->
 
 ---
 <br>
@@ -81,6 +89,12 @@ gitChangelog: false
 <!--@include: @/ja/other/news/20250328-03-release.md-->
 <!--@include: @/ja/other/news/20250328-02-release.md-->
 <!--@include: @/ja/other/news/20250328-01-release.md-->
+
+---
+<br>
+
+# 江湖快報 2024年11月号
+<!--@include: @/ja/other/news/20241125-01-announce.md-->
 
 ---
 <br>
@@ -123,3 +137,81 @@ gitChangelog: false
 <!--@include: @/ja/other/news/20240621-02-release.md-->
 <!--@include: @/ja/other/news/20240621-01.release.md-->
 <!--@include: @/ja/other/news/20240619-01-release.md-->
+<!--@include: @/ja/other/news/20240618-01-announce.md-->
+<!--@include: @/ja/other/news/20240617-01-release.md-->
+<!--@include: @/ja/other/news/20240616-01-release.md-->
+<!--@include: @/ja/other/news/20240615-02-announce.md-->
+<!--@include: @/ja/other/news/20240615-01-release.md-->
+<!--@include: @/ja/other/news/20240614-04-release.md-->
+<!--@include: @/ja/other/news/20240614-03-announce.md-->
+<!--@include: @/ja/other/news/20240614-02-announce.md-->
+<!--@include: @/ja/other/news/20240614-01-release.md-->
+<!--@include: @/ja/other/news/20240607-02-announce.md-->
+<!--@include: @/ja/other/news/20240607-01-demoUpdate.md-->
+
+---
+<br>
+
+# 江湖快報 2024年5月号
+<!--@include: @/ja/other/news/20240531-01-announce.md-->
+<!--@include: @/ja/other/news/20240515-01-announce.md-->
+
+---
+<br>
+
+# 江湖快報 2024年4月号
+<!--@include: @/ja/other/news/20240426-01-announce.md-->
+
+---
+<br>
+
+# 江湖快報 2024年2月号
+<!--@include: @/ja/other/news/20240205-01-announce.md-->
+
+---
+<br>
+
+# 江湖快報 2023年9月号
+<!--@include: @/ja/other/news/20230915-01-announce.md-->
+
+---
+<br>
+
+# 江湖快報 2023年4月号
+<!--@include: @/ja/other/news/20230412-01-announce.md-->
+
+---
+<br>
+
+# 江湖快報 2022年12月号
+<!--@include: @/ja/other/news/20221231-01-announce.md-->
+<!--@include: @/ja/other/news/20221223-01-demoUpdate.md-->
+<!--@include: @/ja/other/news/20221216-01-demoUpdate.md-->
+<!--@include: @/ja/other/news/20221207-01-announce.md-->
+
+---
+<br>
+
+# 江湖快報 2022年11月号
+<!--@include: @/ja/other/news/20221114-01-announce.md-->
+<!--@include: @/ja/other/news/20221111-01-announce.md-->
+
+---
+<br>
+
+# 江湖快報 2022年6月号
+<!--@include: @/ja/other/news/20220610-01-announce.md-->
+<!--@include: @/ja/other/news/20220606-01-announce.md-->
+
+---
+<br>
+
+# 江湖快報 2022年5月号
+<!--@include: @/ja/other/news/20220531-01-demoUpdate.md-->
+<!--@include: @/ja/other/news/20220530-02-demoUpdate.md-->
+<!--@include: @/ja/other/news/20220530-01-demoUpdate.md-->
+<!--@include: @/ja/other/news/20220529-01-demoUpdate.md-->
+<!--@include: @/ja/other/news/20220528-01-demoUpdate.md-->
+<!--@include: @/ja/other/news/20220527-01-announce.md-->
+<!--@include: @/ja/other/news/20220520-01-announce.md-->
+<!--@include: @/ja/other/news/20220505-01-announce.md-->

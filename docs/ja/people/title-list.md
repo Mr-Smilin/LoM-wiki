@@ -70,15 +70,15 @@ tags:
     </tr>
     <tr>
         <td id = "鋼珠">鋼珠</td>
-        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外号)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲<40】かつ性情≥60</td>
+        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外号)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲＜40】かつ性情≥60</td>
     </tr>
     <tr>
         <td id = "隨便">なんでもいい</td>
-        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外号)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲<40】かつ性情<60</td>
+        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外号)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲＜40】かつ性情＜60</td>
     </tr>
     <tr>
         <td id = "彈珠俠">弾珠侠</td>
-        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外号)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲<75】</td>
+        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball#大獎外号)</MarkdownWrapper>で初めて大賞を取り、天運ダイスで【🎲＜75】</td>
     </tr>
     <tr>
         <td id = "彈星手">弾星手</td>
@@ -112,6 +112,48 @@ tags:
                 <MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の
                 <MarkdownWrapper>[帰郷の道中](/ja/event/simple/2-04-2-返家路程)</MarkdownWrapper>で、
                 ランダムで<MarkdownWrapper>[「戦：官兵」](/ja/event/simple/2-04-2-返家路程#遇捕快)</MarkdownWrapper>が発生し、勝利する。
+            </li>
+        </td>
+    </tr>
+    <tr>
+        <td id = "撲屎鵰">撲屎鵰</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
+            <li>
+                <MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の
+                <MarkdownWrapper>[小さな町での休息](/ja/event/simple/2-04-2-小鎮休憩#小鎮休憩)</MarkdownWrapper>で、
+                「雑貨の露店がある」を選ぶ。
+            </li>
+            <li>
+                品性≧40で、天命ダイスで【🎲≥85 名声】が出たあと、👉「タダのがいい」を選ぶ。
+            </li>
+        </td>
+    </tr>
+    <tr>
+        <td id = "青色霍閃">青色霍閃</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
+            <li>
+                <MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の
+                <MarkdownWrapper>[小さな町での休息](/ja/event/simple/2-04-2-小鎮休憩#小鎮休憩)</MarkdownWrapper>で、
+                「雑貨の露店がある」を選ぶ。
+            </li>
+            <li>
+                品性≧40かつ銀両≥3000で、天命ダイスで【🎲≥85 名声】が出たあと、👉「二千五百」を選ぶと、銀両2500で買える。
+            </li>
+        </td>
+    </tr>
+    <tr>
+        <td id = "青衣大聖">青衣大聖</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
+            <li>
+                <MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の
+                <MarkdownWrapper>[小さな町での休息](/ja/event/simple/2-04-2-小鎮休憩#小鎮休憩)</MarkdownWrapper>で、
+                「雑貨の露店がある」を選ぶ。
+            </li>
+            <li>
+                品性≧40かつ銀両≥5000で、天命ダイスで【🎲≥85 名声】が出たあと、👉「五千」を選ぶと、銀両5000で買える。
             </li>
         </td>
     </tr>

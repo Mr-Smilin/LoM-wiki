@@ -46,6 +46,10 @@ tags:
     <li>
       <MarkdownWrapper>[「鶴崖イベント集」](/ja/event/simple/2-03-3-鶴崖事件集)</MarkdownWrapper>の「小梅との共舞」を起こしておくのがおすすめ。<br>
     </li>
+    <li>
+      飛天殿で一度でも修仙していると、条件6の場面の<br>
+      会話が少し変わる。
+    </li>
   </td>
 </tr>
 
