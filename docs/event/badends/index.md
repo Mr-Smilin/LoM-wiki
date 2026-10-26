@@ -967,10 +967,10 @@ tags:
                 隨機觸發<MarkdownWrapper>[「戰書生」](/event/simple/2-04-2-返家路程#遇公子熟人)</MarkdownWrapper>
                 或<MarkdownWrapper>[「戰錦香弟子」](/event/simple/2-04-2-返家路程#遇錦香弟子)</MarkdownWrapper>並落敗。
             </li>
-            <li><Girl3Icon>小梅</Girl3Icon>沒有加入唐門，在第三年一月上旬，沒與大師兄下山，幫大師兄療傷(需醫術≧5或總煉丹值≧250)，中途收功，敗給任何一位刺客</li>
+            <li><Girl3Icon>小梅</Girl3Icon>沒有加入唐門，在第三年一月下旬，沒與大師兄下山，幫大師兄療傷(條件見<MarkdownWrapper>[飛俠歸來](/event/detailed_description/4-02-2-飛俠歸來#待在唐門)</MarkdownWrapper>)，中途收功，敗給任何一位刺客或金烏上人</li>
         </td>
         <td>
-            醫術≥5級或是累積煉丹點數大於250點。才能觸發治療大師兄。
+            -
         </td>
     </tr>
     <tr>
