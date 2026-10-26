@@ -301,8 +301,6 @@ aside: false
 
 ## 備註
 
-遮黑是 v3206 解包才能看到的情報。
-
 -   [鳥熊 Facebook 的介紹](https://www.facebook.com/photo.php?fbid=170987155454668&id=100076301525150&set=a.165167019370015)
 -   額頭滿高的，天庭飽滿是福相。~~色情額頭~~[^1]
 -   一身深厚內力為前掌門傳的[[鐵琵琶功]]，除此之外沒有練過任何武功。
@@ -318,7 +316,7 @@ aside: false
 -   「招弟」是女性賤名，意思就是「冀望之後生個男孩」。
 -   當年抹黑她，害她被下嫁的兇手是嶺南派的[[陳倔]]。
 -   <MarkdownWrapper>||手爐叫做乾坤造化爐，生氣時會轉得通紅發燙。||</MarkdownWrapper>
--   <MarkdownWrapper>||酒品不好，喝醉了就會性情大變，抨擊時事，借古諷今。||</MarkdownWrapper>
+-   🚧未實裝：<MarkdownWrapper>||酒品不好，喝醉了就會性情大變，抨擊時事，借古諷今。||</MarkdownWrapper>
 
 [^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^2]: Facebook－[原始鳥熊 2025/9/10](https://www.facebook.com/share/169pXAfAAF/)
