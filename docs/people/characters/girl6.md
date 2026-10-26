@@ -45,6 +45,30 @@ aside: false
 			nameZh='生氣'
 			nameEn='Angry'/>
 	</ChTab>
+	<ChTab title="鬥志">
+		<Ch 
+			src='/images/characters/girl_6/angry3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='鬥志'
+			nameEn='Fired Up'/>
+	</ChTab>
+	<ChTab title="握拳">
+		<Ch 
+			src='/images/characters/girl_6/fist.webp' 
+			position='center'/>
+		<ChName
+			nameZh='握拳'
+			nameEn='Clenched Fist'/>
+	</ChTab>
+	<ChTab title="浴血">
+		<Ch 
+			src='/images/characters/girl_6/unarmed_blood_fist.webp' 
+			position='center'/>
+		<ChName
+			nameZh='浴血'
+			nameEn='Bloodied'/>
+	</ChTab>
 	<ChTab title="微笑">
 		<Ch 
 			src='/images/characters/girl_6/laugh1.webp' 
@@ -60,6 +84,22 @@ aside: false
 		<ChName
 			nameZh='大笑'
 			nameEn='Laugh'/>
+	</ChTab>
+	<ChTab title="乾笑">
+		<Ch 
+			src='/images/characters/girl_6/laugh3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='乾笑'
+			nameEn='Sheepish Laugh'/>
+	</ChTab>
+	<ChTab title="緊張">
+		<Ch 
+			src='/images/characters/girl_6/nervous1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='緊張'
+			nameEn='Nervous'/>
 	</ChTab>
 	<ChTab title="尷尬">
 		<Ch 
@@ -85,6 +125,38 @@ aside: false
 			nameZh='哭泣'
 			nameEn='Cry'/>
 	</ChTab>
+	<ChTab title="大哭">
+		<Ch 
+			src='/images/characters/girl_6/sad2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='大哭'
+			nameEn='Bawling'/>
+	</ChTab>
+	<ChTab title="灰心">
+		<Ch 
+			src='/images/characters/girl_6/discouraged.webp' 
+			position='center'/>
+		<ChName
+			nameZh='灰心'
+			nameEn='Dejected'/>
+	</ChTab>
+	<ChTab title="憔悴">
+		<Ch 
+			src='/images/characters/girl_6/haggard.webp' 
+			position='center'/>
+		<ChName
+			nameZh='憔悴'
+			nameEn='Haggard'/>
+	</ChTab>
+	<ChTab title="憔悴(笑)">
+		<Ch 
+			src='/images/characters/girl_6/haggard_laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='憔悴(笑)'
+			nameEn='Haggard (Smile)'/>
+	</ChTab>
 	<ChTab title="得意">
 		<Ch 
 			src='/images/characters/girl_6/shy.webp' 
@@ -101,6 +173,22 @@ aside: false
 			nameZh='害羞'
 			nameEn='Shy'/>
 	</ChTab>
+	<ChTab title="行囊">
+		<Ch 
+			src='/images/characters/girl_6/bag.webp' 
+			position='center'/>
+		<ChName
+			nameZh='行囊'
+			nameEn='Travel Bundle'/>
+	</ChTab>
+	<ChTab title="浮環">
+		<Ch 
+			src='/images/characters/girl_6/swim.webp' 
+			position='center'/>
+		<ChName
+			nameZh='浮環'
+			nameEn='Swim Ring'/>
+	</ChTab>
 	<ChTab title="靉靆">
 		<Ch 
 			src='/images/characters/girl_6/glasses.webp' 
@@ -108,6 +196,158 @@ aside: false
 		<ChName
 			nameZh='靉靆'
 			nameEn='Glasses'/>
+	</ChTab>
+	<ChTab title="打扮(平常)">
+		<Ch 
+			src='/images/characters/girl_6/dress_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='打扮(平常)'
+			nameEn='Dressed Up (Normal)'/>
+	</ChTab>
+	<ChTab title="打扮(不悅)">
+		<Ch 
+			src='/images/characters/girl_6/dress_angry.webp' 
+			position='center'/>
+		<ChName
+			nameZh='打扮(不悅)'
+			nameEn='Dressed Up (Displeased)'/>
+	</ChTab>
+	<ChTab title="打扮(生氣)">
+		<Ch 
+			src='/images/characters/girl_6/dress_angry2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='打扮(生氣)'
+			nameEn='Dressed Up (Angry)'/>
+	</ChTab>
+	<ChTab title="打扮(微笑)">
+		<Ch 
+			src='/images/characters/girl_6/dress_laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='打扮(微笑)'
+			nameEn='Dressed Up (Smile)'/>
+	</ChTab>
+	<ChTab title="打扮(大笑)">
+		<Ch 
+			src='/images/characters/girl_6/dress_laugh2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='打扮(大笑)'
+			nameEn='Dressed Up (Laugh)'/>
+	</ChTab>
+	<ChTab title="打扮(緊張)">
+		<Ch 
+			src='/images/characters/girl_6/dress_nervous.webp' 
+			position='center'/>
+		<ChName
+			nameZh='打扮(緊張)'
+			nameEn='Dressed Up (Nervous)'/>
+	</ChTab>
+	<ChTab title="打扮(驚嚇)">
+		<Ch 
+			src='/images/characters/girl_6/dress_nervous2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='打扮(驚嚇)'
+			nameEn='Dressed Up (Frightened)'/>
+	</ChTab>
+	<ChTab title="打扮(哭泣)">
+		<Ch 
+			src='/images/characters/girl_6/dress_sad.webp' 
+			position='center'/>
+		<ChName
+			nameZh='打扮(哭泣)'
+			nameEn='Dressed Up (Cry)'/>
+	</ChTab>
+	<ChTab title="打扮(大哭)">
+		<Ch 
+			src='/images/characters/girl_6/dress_sad2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='打扮(大哭)'
+			nameEn='Dressed Up (Bawling)'/>
+	</ChTab>
+	<ChTab title="打扮(灰心)">
+		<Ch 
+			src='/images/characters/girl_6/dress_discouraged.webp' 
+			position='center'/>
+		<ChName
+			nameZh='打扮(灰心)'
+			nameEn='Dressed Up (Dejected)'/>
+	</ChTab>
+	<ChTab title="打扮(得意)">
+		<Ch 
+			src='/images/characters/girl_6/dress_proud.webp' 
+			position='center'/>
+		<ChName
+			nameZh='打扮(得意)'
+			nameEn='Dressed Up (Proud)'/>
+	</ChTab>
+	<ChTab title="打扮(害羞)">
+		<Ch 
+			src='/images/characters/girl_6/dress_shy.webp' 
+			position='center'/>
+		<ChName
+			nameZh='打扮(害羞)'
+			nameEn='Dressed Up (Shy)'/>
+	</ChTab>
+	<ChTab title="老虎戰衣">
+		<Ch 
+			src='/images/characters/girl_6/full_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='老虎戰衣'
+			nameEn='Tiger Armor'/>
+	</ChTab>
+	<ChTab title="幼年">
+		<Ch 
+			src='/images/characters/girl_6/child_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼年'
+			nameEn='Child'/>
+	</ChTab>
+	<ChTab title="幼年(地圖)">
+		<Ch 
+			src='/images/characters/girl_6/child_map.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼年(地圖)'
+			nameEn='Child (Map)'/>
+	</ChTab>
+	<ChTab title="幼年(緊張)">
+		<Ch 
+			src='/images/characters/girl_6/child_nervous.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼年(緊張)'
+			nameEn='Child (Nervous)'/>
+	</ChTab>
+	<ChTab title="幼年(尷尬)">
+		<Ch 
+			src='/images/characters/girl_6/child_nervous3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼年(尷尬)'
+			nameEn='Child (Embarrassed)'/>
+	</ChTab>
+	<ChTab title="幼年(哭泣)">
+		<Ch 
+			src='/images/characters/girl_6/child_sad.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼年(哭泣)'
+			nameEn='Child (Cry)'/>
+	</ChTab>
+	<ChTab title="幼年(疲憊)">
+		<Ch 
+			src='/images/characters/girl_6/child_haggard.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼年(疲憊)'
+			nameEn='Child (Exhausted)'/>
 	</ChTab>
 </ChTabs>
 
