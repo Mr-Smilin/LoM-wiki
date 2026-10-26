@@ -150,11 +150,59 @@ function wikilinkDisplayText(text) {
 const MdNode = (nodeProps) => renderNode(nodeProps.node);
 MdNode.props = { node: Object };
 
+function textOf(item) {
+  if (typeof item === 'string') return item;
+  if (typeof item?.type === 'symbol' && item.type.description === 'v-txt') return item.children;
+  return null;
+}
+
+function countHighlightMarks(text) {
+  return (text.match(/\|\|/g) || []).length;
+}
+
+// <br> 會把 slot 切成好幾段，各段分開找成對的 ||，防雷文字中間換行就配不起來；
+// 只在某段的 || 是奇數個時，才把後面隔著 <br> 的文字接成一段，接到配成對為止，其餘照舊
+function joinHighlightsAcrossBreaks(items) {
+  const result = [];
+  let i = 0;
+  while (i < items.length) {
+    const text = textOf(items[i]);
+    if (text === null || countHighlightMarks(text) % 2 === 0) {
+      result.push(items[i]);
+      i++;
+      continue;
+    }
+    let joined = text.trim();
+    let end = -1;
+    for (let j = i + 1; j < items.length; j++) {
+      if (items[j]?.type === 'br') {
+        joined += '<br>';
+        continue;
+      }
+      const next = textOf(items[j]);
+      if (next === null) break;
+      joined += next.trim();
+      if (countHighlightMarks(joined) % 2 === 0) {
+        end = j;
+        break;
+      }
+    }
+    if (end === -1) {
+      result.push(items[i]);
+      i++;
+    } else {
+      result.push(joined);
+      i = end + 1;
+    }
+  }
+  return result;
+}
+
 function processContent(content) {
   if (typeof content === 'string') {
     return parseString(content);
   } else if (Array.isArray(content)) {
-    return content.map(item => processContent(item)).flat();
+    return joinHighlightsAcrossBreaks(content).map(item => processContent(item)).flat();
   } else if (typeof content === 'object' && content !== null) {
     if (content.type && typeof content.type !== 'symbol') {
       return [{
