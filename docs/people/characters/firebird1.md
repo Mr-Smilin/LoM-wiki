@@ -43,8 +43,16 @@ tags:
 		</ChTable>
 	</ChTab>
 	<ChTab title="嘎啊啊～～！">
-		<Ch src='/images/characters/firebird1/attack.webp' position='right'/>
-		<ChName nameZh='火閃電' nameEn='Huo Shan Dian' position='right' />
+		<Ch src='/images/characters/firebird1/attack.webp' position='center'/>
+		<ChName nameZh='火閃電' nameEn='Huo Shan Dian' />
+	</ChTab>
+	<ChTab title="嘎。">
+		<Ch src='/images/characters/firebird1/special.webp' position='center'/>
+		<ChName nameZh='火閃電' nameEn='Huo Shan Dian' />
+	</ChTab>
+	<ChTab title="啊～～">
+		<Ch src='/images/characters/firebird1/special_attack.webp' position='center'/>
+		<ChName nameZh='火閃電' nameEn='Huo Shan Dian' />
 	</ChTab>
 </ChTabs>
 
