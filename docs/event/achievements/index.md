@@ -56,11 +56,7 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`01`"><br>師門砥柱</AchievementIcon></td>
         <td>你從此刻脫胎換骨，像你從前望著大師兄，師弟妹們也信賴你。</td>
         <td>
-            第一階段: 臥雲崗(飛俠落地)事件需觸發金烏假死:<br>
-            1. 若與大師兄一起下山: 遇見金烏上人後，對決結果需非輸給小梅。<br>
-            2. 若不與大師兄下山: 需<Girl3Icon>小梅</Girl3Icon>不在唐門，並且救治大師兄，被人偷襲時選擇收功，並在後續勝過金烏上人。<br>
-            <br>
-            第二階段: 在<Girl0Icon>小師妹</Girl0Icon>比武招親事件中擊殺金烏上人<br>
+            在<Girl0Icon>小師妹</Girl0Icon>比武招親當晚的對決金烏中擊殺金烏上人，條件見<MarkdownWrapper>[[金烏上人之死#小師妹招親|金烏上人之死]]</MarkdownWrapper>。<br>
         </td>
         <td></td>
         <td></td>
