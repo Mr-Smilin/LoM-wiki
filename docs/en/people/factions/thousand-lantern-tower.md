@@ -78,11 +78,11 @@ The first generation Thousand-Faced Demon, Monk Wunian, the Formless Ancestor, s
 
 <br>
 
-The second generation Thousand-Faced Demon, ||Hua Zhongxian. Sister of Lady Wen, posing as a senior sister of the Tang Sect and a disciple of the Jinxiang Palace, playing both sides. During the Fengyu Mountain incident, under Lady Wen's orders, Lady Wen disguised herself as a demon head, while Hua Zhongxian pretended to be Lady Wen captured by the demon head, staging a performance to allow the palace residents to escape the siege of the martial arts community.|| (v3206 unpublished information, requires decryption)
+The second generation Thousand-Faced Demon, <MarkdownWrapper>||Hua Zhongxian. Sister of Lady Wen, posing as a senior sister of the Tang Sect and a disciple of the Jinxiang Palace, playing both sides. During the Fengyu Mountain incident, under Lady Wen's orders, Lady Wen disguised herself as a demon head, while Hua Zhongxian pretended to be Lady Wen captured by the demon head, staging a performance to allow the palace residents to escape the siege of the martial arts community.||</MarkdownWrapper>
 
 <br>
 
-The third generation Thousand-Faced Demon, Yang Xuanqi. In pursuit of the former martial arts alliance leader Long Yuan, he disguised himself as a waiter at the Meishan Zhenchuan Inn for three years, married the innkeeper's daughter, who already had children. After hearing a statement from Long Yuan and presenting a secret message obtained from the Xinghua Forest, he decided to defect, leading to a fierce battle with the Thousand Lantern Tower assassins to lure them out and arranging for Yang's family to go to the Jinxiang Palace. Unfortunately, they could not escape the grasp of the Thousand Lantern Tower and were forced to participate in the Western Wulin battle to attack the Tang Sect.
+The third generation Thousand-Faced Demon, Yang Xuanqi. In pursuit of the former martial arts alliance leader Long Yuan, he disguised himself as a waiter at the Chuanquan Tavern in Meishan Town for three years, and pledged himself to the innkeeper's daughter without formally marrying her; she is now pregnant with his child. After hearing Long Yuan out and being shown the secret message Long Yuan had obtained from the Xinghua Forest, he decided to defect. The two staged a fierce fight to lure out the Thousand Lantern Tower assassins watching him, and arranged for Yang's family to go to the Jinxiang Palace. Unfortunately, he could not escape the grasp of the Thousand Lantern Tower and was forced to participate in the Western Wulin battle to attack the Tang Sect.
 
 <br>
 
