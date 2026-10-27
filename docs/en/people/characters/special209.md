@@ -17,4 +17,4 @@ Over twenty years ago, he participated in the Qingcheng Discussion.
 <br><br>
 In the demo version, he, Zhao Huo, and Rui Xing discussed the method of eternal life in Genghis Khan's tent.
 <br><br>
-In the current version (v1.0.3206), he has no scenes at all.
+In the full release, he has no scenes at all.
