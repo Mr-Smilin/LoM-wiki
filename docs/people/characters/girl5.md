@@ -109,6 +109,54 @@ aside: false
 			nameZh='害羞'
 			nameEn='Shy'/>
 	</ChTab>
+	<ChTab title="陰沉">
+		<Ch 
+			src='/images/characters/girl_5/gloomy.webp' 
+			position='center'/>
+		<ChName
+			nameZh='陰沉'
+			nameEn='Gloomy'/>
+	</ChTab>
+	<ChTab title="無精打采">
+		<Ch 
+			src='/images/characters/girl_5/droopy.webp' 
+			position='center'/>
+		<ChName
+			nameZh='無精打采'
+			nameEn='Listless'/>
+	</ChTab>
+	<ChTab title="瞇眼">
+		<Ch 
+			src='/images/characters/girl_5/squint.webp' 
+			position='center'/>
+		<ChName
+			nameZh='瞇眼'
+			nameEn='Squint'/>
+	</ChTab>
+	<ChTab title="幼年">
+		<Ch 
+			src='/images/characters/girl_5/child_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼年'
+			nameEn='Child'/>
+	</ChTab>
+	<ChTab title="幼年(笑)">
+		<Ch 
+			src='/images/characters/girl_5/child_laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼年(笑)'
+			nameEn='Child (Smile)'/>
+	</ChTab>
+	<ChTab title="幼年(不悅)">
+		<Ch 
+			src='/images/characters/girl_5/child_angry1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼年(不悅)'
+			nameEn='Child (Displeased)'/>
+	</ChTab>
 </ChTabs>
 <br>
 
@@ -287,7 +335,7 @@ aside: false
 -   第三年雪山行，原本是七年之約，但夏侯蘭為了將一身武功傳授給[[趙活]]，早到一年。
 -   夏侯蘭：「為師那時正是情竇初開……為了自證清白，旅行回來不久，為師便與[[第三香|第三師兄]]作了夫妻。」
     -   v1.0.5000 時這句是「為師那時正是二八年華」，現在改成「情竇初開」，因此年齡重新推算。
--   [[葉雲舟]]說妹妹服下[[李元棄]]給的九泉丹至今「才短短十年」；李元棄死在大師兄、夏侯蘭等五人那趟旅行的最後，可知旅行約在十年前。
+-   <MarkdownWrapper>||[[葉雲舟]]說妹妹服下[[李元棄]]給的九泉丹至今「才短短十年」；李元棄死在大師兄、夏侯蘭等五人那趟旅行的最後，可知旅行約在十年前。||</MarkdownWrapper>
 -   綜合以上，第三年約25～27歲。
 
 ## 武功
@@ -335,11 +383,12 @@ aside: false
 -   名言：「眾生都有死，萬物皆可殺。」
 -   非常在意髮帶是否對稱。
 -   耳環為雪山派的遺物。
--   在2025「為心上人送上色紙」投票活動中勝出，官方釋出雪山派後日談影片。雪山派在夏侯蘭的帶領下成為了武林七大門派之一，桃李滿遍天下。[^9]
+-   在2025「為心上人送上色紙」投票活動中勝出，官方釋出[雪山派後日談影片](https://www.youtube.com/watch?v=yHEq6HJ2YpE)。雪山派在夏侯蘭的帶領下成為了武林七大門派之一，桃李滿遍天下。[^9]
     -   影片中，臘月隆冬的雪山上，夏侯蘭想起兒時：娘喚她「小梅」，說她是雪山派獨生千金、將來要當大師姊，不可淘氣；她回嘴說，我們這種小門派的大師姊，再淘氣一點也還說得過去。爹則說她將來定如娘親一般，是天下第一的絕世美人
     -   如今的雪山派裡，[[趙活]]是夏侯蘭的嫡傳弟子、雪山派的大師兄，也已是當爹的人；[[樊嘯天]]是師妹。最後弟子們齊聲「雪山派弟子，恭迎掌門！」
     -   片尾旁白：奪魄幽蘭夏侯女俠被譽為雪山派中興之祖；雪山派名列武林七大門派之一，和唐門結親，同錦香交善，與崆峒旗鼓相當，與上官分庭抗禮
     -   與影片相同的場景劇本，在2026年10月的大型更新中收進了遊戲資料，但遊戲中沒有觸發的途徑
+    -   表情分頁的〈瞇眼〉和〈幼年〉三張立繪只出現在這段影片
 -   夏侯蘭海捕令資料夾周邊文案：[來源](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
     > 案犯 奪魄幽蘭<br>
     > 心狠手辣殺人如麻<br>
@@ -368,8 +417,5 @@ aside: false
     </div>
 	<div>
         <img src="/images/collab/20241220_toranoana/photo_17.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
-    </div>
-	<div>
-        <img src="/images/characters/girl_5/childhood.webp" alt="童年立繪，來自官方雪山派後日談影片" style="width:200px; margin:5px"/>
     </div>
 </div>
