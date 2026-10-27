@@ -29,7 +29,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "1">1</td>
+  <td id = "條件1">1</td>
   <td>第二年二月上旬</td>
   <td>
     <MarkdownWrapper>[留學討論](/event/simple/2-02-1-留學討論)</MarkdownWrapper>
@@ -54,7 +54,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "2">2</td>
+  <td id = "條件2">2</td>
   <td>
     <li>第二年四月上旬至四月下旬</li>
     <li>或第二年五月下旬至六月下旬</li>
@@ -86,7 +86,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "3">3</td>
+  <td id = "條件3">3</td>
   <td>第二年八月上旬</td>
   <td><MarkdownWrapper>[馳援南宮](/event/simple/2-08-1-馳援南宮)</MarkdownWrapper></td>
   <td>
@@ -103,7 +103,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "4">4</td>
+  <td id = "條件4">4</td>
   <td>第二年十月上旬</td>
   <td><MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper></td>
   <td>
@@ -139,7 +139,7 @@ tags:
 </tr>
 
 <tr>
-  <td id = "5">5</td>
+  <td id = "條件5">5</td>
   <td>第三年五月上旬</td>
   <td>
     <li><MarkdownWrapper>[師妹招親前半](/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper></li>
@@ -151,14 +151,19 @@ tags:
     <li>先確保心上人為<Girl3Icon>虞小梅</Girl3Icon>，條件5與條件6中有多次檢定。</li>
     <li>金烏鬧事若選擇📖「群而毆之」，連戰皆需勝利。</li>
     <li>對決金烏初戰需獲勝。</li>
-    <li>若觸發金烏偷襲，必須【🎲≧90 迴避成功】。</li>
+    <li>
+        符合以下條件，以觸發「郁城的請求」:<br>
+        1. 若<MarkdownWrapper>[臥雲崗事件](/event/simple/3-01-2-臥雲崗事件)</MarkdownWrapper>後續有見過金烏詐死: 
+        需滿足<MarkdownWrapper>[條件2](#條件2)</MarkdownWrapper>，且未曾<MarkdownWrapper>[放棄治療大師兄](/event/simple/3-01-3-大師兄重傷)</MarkdownWrapper>。<br>
+        2. 若未見過金烏詐死: 需滿足<MarkdownWrapper>[條件2](#條件2)</MarkdownWrapper>，金烏偷襲時必須【🎲≧90 迴避成功】。
+    </li>
     <li>觸發「郁城的請求」後，選擇📖「我得去」。</li>
   </td>
   <td></td>
 </tr>
 
 <tr>
-  <td id = "6">6</td>
+  <td id = "條件6">6</td>
   <td>第三年五月上旬</td>
   <td>崆峒爭奪戰</td>
   <td>
