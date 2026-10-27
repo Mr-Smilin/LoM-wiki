@@ -144,9 +144,9 @@ tags:
     <li>
         符合以下任一條件，以觸發「郁城的請求」:<br>
         1. 若<MarkdownWrapper>[臥雲崗事件](/event/simple/3-01-2-臥雲崗事件)</MarkdownWrapper>後續未🚩見過金烏詐死: <br>
-        需滿足<MarkdownWrapper>[條件2](#條件2)</MarkdownWrapper>，且金烏偷襲時需【🎲≧90 迴避成功】。<br>
+        曾觸發<MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper>，且金烏偷襲時需【🎲≧90 迴避成功】。<br>
         2. 若有🚩見過金烏詐死: <br>
-        需滿足<MarkdownWrapper>[條件2](#條件2)</MarkdownWrapper>，
+        曾觸發<MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper>，
         且未曾🚩<MarkdownWrapper>[放棄治療大師兄](/event/simple/3-01-3-大師兄重傷)</MarkdownWrapper>(見備註)。<br>
     </li>
     <li>觸發「郁城的請求」後，選擇📖「我得去」。</li>
