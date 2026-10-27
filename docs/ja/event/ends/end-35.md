@@ -68,8 +68,9 @@ tags:
         - ➖丐幇 15：[大義分舵が解散](/ja/event/detailed_description/3-12-1-眾人的決策)。
         - ➖全真派 15：無条件。
         - ➖嵩山派 10：無条件。
-        - ➖崆峒派 10：[崆峒派が武林盟を支援](/ja/event/detailed_description/3-12-1-眾人的決策)且つ[金烏上人が死亡](/ja/event/detailed_description/3-12-1-眾人的決策)
-        - <span style='color: Red;'>未確認</span>：青城派の態度、滄幇買収、連環火箭などの貴重品所有。錦香宮が武林盟を支援、金烏上人存命。
+        - ➖崆峒派 10：[崆峒派が武林盟を支援](/ja/event/detailed_description/3-12-1-眾人的決策#崆峒派の説得)且つ金烏上人が死亡 ([金烏上人の死](/ja/people/characters/special207_death))
+        - ➖崆峒派 15：[崆峒派が武林盟を支援](/ja/event/detailed_description/3-12-1-眾人的決策#崆峒派の説得)且つ金烏上人が存命 ([金烏上人の死](/ja/people/characters/special207_death))
+        - <span style='color: Red;'>未確認</span>：青城派の態度、滄幇買収、連環火箭などの貴重品所有。錦香宮が武林盟を支援。
      3. **🧾【＜45】損傷が軽微で、西武林盟を徹底的に踏みにじった**または**🧾【＜90】激しい抵抗に遭い、損失が甚大**、⚔️戦役、完全に打ちのめされて且つ[南宮深](/ja/people/characters/special102)好感度＜20を満たす場合、エンディング進入。
    + **📜議題：戦役：唐門出撃**：
      1. 途中のプロセスは複数の組み合わせがあり、ほとんど影響しないが、以下の条件を満たす場合は特別な要件あり：

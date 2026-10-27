@@ -17,7 +17,7 @@ tags:
         <Ch
             src='/images/characters/special208/normal.webp' 
             position='right'/>
-        <ChName nameZh='晁和' nameEn='Chao He' position='right' />
+        <ChName nameZh='晁和' nameEn='Chao Huo' position='right' />
         <ChTable>
             <ChTr>
                 <ChTd isTitle=true>
@@ -122,11 +122,11 @@ tags:
 -   [唐門](/ja/people/factions/tang-men)が滅門する: [唐黙鈴](/ja/people/characters/girl0)からだまし取った金で、青楼で遊び暮らす。
 -   西武林の勝利エンド: またも[趙活](/ja/people/characters/player)になりすまし、恨みを抱く武林盟の者たちに捕まって、四十九日間拷問されて死ぬ。
 -   悪人は悪人が制す【実績のシナリオ】: [葉雲裳](/ja/people/characters/girl2)を連れて武林大会に行くと、<br>晁和は葉雲裳の策で群侠に袋叩きにされ、最後は釈明に腹を裂かれて死ぬ。
--   <EndIcon no="63">汗青書63：醜い仙人</EndIcon>: [趙活](/ja/people/characters/player)は[崆峒派](/ja/people/factions/kong-tong-sect)から醜い仙人として祀られる。晁和がまたも趙活を騙って詐欺をはたらくと、<br>[瑞杏](/ja/people/characters/girl1)が自ら乗り出して生け捕りにし、四肢と目と舌を奪って砂の甕で飼い、数か月かけて責め殺す。
+-   <EndIcon no="63">汗青書63：醜い仙人</EndIcon>: [趙活](/ja/people/characters/player)は[崆峒派](/ja/people/factions/kong-tong-sect)から醜い仙人として祀られる。晁和がまたも趙活を騙って詐欺をはたらくと、<br>[書蓉](/ja/people/characters/special818)が現れ、晁和を趙活だと思い込んで連れ去る。晁和は四肢と目と舌を奪われ、砂の甕で飼われて、数か月苦しめられた末に死ぬ。
 
 ## 備考
 
--   名前の読音は「ㄔㄠˊㄏㄨㄛˋ」。本来は別の姓だったが、[嶺南派](/ja/people/factions/lingnan-sect)弟子は皆自分の名前を改めるか他人の名前を冒用して罪を逃れる。晁和本人も[趙活](/ja/people/characters/player)と同音で、捕まった時に「晁和」二字だと言ったから、わざわざこの名前を選んだ。[^2]
+-   名前の発音は「ㄔㄠˊ ㄏㄨㄛˋ（cháo huò）」。元は別の姓だった。[嶺南派](/ja/people/factions/lingnan-sect)の弟子は、罪を逃れるために名前を変えたり他人の名を騙ったりする。晁和も、[趙活](/ja/people/characters/player)と同じ発音にしておけば、ばれたときに「晁和」の二字だと言い逃れできるので、わざわざこの名前にした。[^2]
 -   状況によっては、丐幇／滄幇／[宋悲](/ja/people/characters/special800)が彼を連行してくるかもしれない。
 -   唐錚は一目見て即座に毒殺したいと思い、二者を比較すれば、[趙活](/ja/people/characters/player)はかえって前代未聞に気に入られた。
 -   晁和は狂気を装ったり哀れを演じたり、底がなく取るに足らぬ者。大勢が[趙活](/ja/people/characters/player)を許さないのは、[趙活](/ja/people/characters/player)が醜い上に運命を甘受しないから。他人は一方で彼を見下しながら、彼が身を立てることを恐れ、彼を見ると才能を潰したくなる。そうすることで、弱者が彼に倣うことを防いでいるのだ。[^1]

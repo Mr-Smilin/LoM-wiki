@@ -56,11 +56,7 @@ tags:
         <td><AchievementIcon :size="`medium`" :no="`01`"><br><ruby>師門<rt>しもん</rt></ruby>の柱石 (師門砥柱)</AchievementIcon></td>
         <td>この時からあなたは生まれ変わった。<br>かつてあなたが<ruby>大師兄<rt>だいしけい</rt></ruby>を見上げたように、<ruby>師弟<rt>してい</rt></ruby>妹たちが、あなたを信頼している。</td>
         <td>
-            第一段階: 臥雲崗 (飛俠落地) イベントで金烏の死んだふりを発生させる:<br>
-            1. 唐布衣と一緒に山を下りた場合: 金烏上人と遭遇した後、対決の結果が「小梅に敗北」以外であること。<br>
-            2. 唐布衣と山を下りない場合: <Girl3Icon>小梅</Girl3Icon>が唐門におらず、唐布衣を治療し、襲撃された時に「収功」を選び、その後の戦闘で金烏上人に勝つこと。<br>
-            <br>
-            第二段階: <Girl0Icon>唐黙鈴</Girl0Icon>の比武招親イベントで金烏上人を打ち倒す<br>
+            <Girl0Icon>小師妹</Girl0Icon>の比武招親の夜、金烏との決闘で金烏上人を討ち取る。条件は<MarkdownWrapper>[金烏上人の死](/ja/people/characters/special207_death#小師妹招親)</MarkdownWrapper>を参照。<br>
         </td>
         <td></td>
         <td></td>

@@ -71,10 +71,18 @@ tags:
 <br><br>
 [小梅](/ja/people/characters/girl3)に密かに想いを寄せているが、掌派人の座を狙う気はなく、その想いを断ち切るために早々と所帯を持った。
 
+## 人間関係
+
+-   水護法の[余麟](/ja/people/characters/trainee224)とは、顔を合わせれば殴り合うか口喧嘩するかである。
+-   [小梅](/ja/people/characters/girl3)は、かつて[火龍仙君](/ja/people/characters/special204)に告げ口されたことを根に持っており、腕で敵わないのでなければ、とっくに階段から突き落としている。
+-   [金烏上人](/ja/people/characters/special207)に頼まれて、留学に来た南宮家の次男・[南宮浅](/ja/people/characters/special103)を指導するが、その態度にすぐ腹を立て、[趙活](/ja/people/characters/player)に八つ当たりする。
+-   妻の孔鵲とは結婚して間もなく寝室を分け、妻は毎日のように離縁を迫っている。
+-   [虞小梅](/ja/people/characters/girl3)の「奥さんが包丁を持ってすごい剣幕でこっちに来るよ！」という嘘にだまされるあたり、夫婦仲はかなり険悪らしい。
+-   [瑞笙](/ja/people/characters/special999)とは少し付き合いがあり、牢に入った瑞笙の保釈金を払ってやることがある。
+
 ## 備考
 
 -   崆峒季試では司会役を務める。
--   水護法の[余麟](/ja/people/characters/trainee224)とは、顔を合わせれば殴り合うか口喧嘩するかである。
+-   火護法の務めの一つは、掌派人の毒見である。
 -   [唐黙鈴](/ja/people/characters/girl0)の比武招親の日、[金烏上人](/ja/people/characters/special207)に率いられて唐門へ仇討ちに来る。金烏が存命の場合、敗戦後に逆上して顔疆を殺してしまう。唐門の土地で死ぬことを望まなかった彼は、[趙活](/ja/people/characters/player)の性情次第で、望み通り火葬されて登仙できることもあれば、犬の餌に投げ捨てられることもある。趙活が金烏の正体を暴いた場合は[趙活](/ja/people/characters/player)を見直し、[火龍仙君](/ja/people/characters/special204)への口利きを請け合ってくれる。
--   [小梅](/ja/people/characters/girl3)は、かつて[火龍仙君](/ja/people/characters/special204)に告げ口されたことを根に持っており、腕で敵わないのでなければ、とっくに階段から突き落としている。
--   彼の中で掌派人を争う資格があるのは[丹霞子](/ja/people/characters/special404)であり、断じて[金烏上人](/ja/people/characters/special207)ではない
+-   彼の中で掌派人を争う資格があるのは[丹霞子](/ja/people/characters/special404)であり、断じて[金烏上人](/ja/people/characters/special207)ではない。

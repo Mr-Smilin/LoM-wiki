@@ -20,7 +20,7 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
-	<ChTab title="打扮後">
+	<ChTab title="おめかし">
 		<ChMeet 
 			src='/images/characters/girl_6/special2.webp' 
 			nameTitle='裂骨魔'
@@ -45,6 +45,30 @@ aside: false
 			nameZh='怒り'
 			nameEn='Angry'/>
 	</ChTab>
+	<ChTab title="闘志">
+		<Ch 
+			src='/images/characters/girl_6/angry3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='闘志'
+			nameEn='Fired Up'/>
+	</ChTab>
+	<ChTab title="拳を握る">
+		<Ch 
+			src='/images/characters/girl_6/fist.webp' 
+			position='center'/>
+		<ChName
+			nameZh='拳を握る'
+			nameEn='Clenched Fist'/>
+	</ChTab>
+	<ChTab title="血まみれ">
+		<Ch 
+			src='/images/characters/girl_6/unarmed_blood_fist.webp' 
+			position='center'/>
+		<ChName
+			nameZh='血まみれ'
+			nameEn='Bloodied'/>
+	</ChTab>
 	<ChTab title="微笑">
 		<Ch 
 			src='/images/characters/girl_6/laugh1.webp' 
@@ -60,6 +84,22 @@ aside: false
 		<ChName
 			nameZh='大笑'
 			nameEn='Laugh'/>
+	</ChTab>
+	<ChTab title="苦笑い">
+		<Ch 
+			src='/images/characters/girl_6/laugh3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='苦笑い'
+			nameEn='Sheepish Laugh'/>
+	</ChTab>
+	<ChTab title="緊張">
+		<Ch 
+			src='/images/characters/girl_6/nervous1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='緊張'
+			nameEn='Nervous'/>
 	</ChTab>
 	<ChTab title="照れ">
 		<Ch 
@@ -85,6 +125,38 @@ aside: false
 			nameZh='泣き'
 			nameEn='Cry'/>
 	</ChTab>
+	<ChTab title="大泣き">
+		<Ch 
+			src='/images/characters/girl_6/sad2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='大泣き'
+			nameEn='Bawling'/>
+	</ChTab>
+	<ChTab title="落胆">
+		<Ch 
+			src='/images/characters/girl_6/discouraged.webp' 
+			position='center'/>
+		<ChName
+			nameZh='落胆'
+			nameEn='Dejected'/>
+	</ChTab>
+	<ChTab title="やつれ">
+		<Ch 
+			src='/images/characters/girl_6/haggard.webp' 
+			position='center'/>
+		<ChName
+			nameZh='やつれ'
+			nameEn='Haggard'/>
+	</ChTab>
+	<ChTab title="やつれ(笑)">
+		<Ch 
+			src='/images/characters/girl_6/haggard_laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='やつれ(笑)'
+			nameEn='Haggard (Smile)'/>
+	</ChTab>
 	<ChTab title="得意">
 		<Ch 
 			src='/images/characters/girl_6/shy.webp' 
@@ -101,6 +173,22 @@ aside: false
 			nameZh='照れ2'
 			nameEn='Shy'/>
 	</ChTab>
+	<ChTab title="荷物">
+		<Ch 
+			src='/images/characters/girl_6/bag.webp' 
+			position='center'/>
+		<ChName
+			nameZh='荷物'
+			nameEn='Travel Bundle'/>
+	</ChTab>
+	<ChTab title="浮き輪">
+		<Ch 
+			src='/images/characters/girl_6/swim.webp' 
+			position='center'/>
+		<ChName
+			nameZh='浮き輪'
+			nameEn='Swim Ring'/>
+	</ChTab>
 	<ChTab title="眼鏡">
 		<Ch 
 			src='/images/characters/girl_6/glasses.webp' 
@@ -108,6 +196,158 @@ aside: false
 		<ChName
 			nameZh='眼鏡'
 			nameEn='Glasses'/>
+	</ChTab>
+	<ChTab title="おめかし(通常)">
+		<Ch 
+			src='/images/characters/girl_6/dress_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='おめかし(通常)'
+			nameEn='Dressed Up (Normal)'/>
+	</ChTab>
+	<ChTab title="おめかし(不機嫌)">
+		<Ch 
+			src='/images/characters/girl_6/dress_angry.webp' 
+			position='center'/>
+		<ChName
+			nameZh='おめかし(不機嫌)'
+			nameEn='Dressed Up (Displeased)'/>
+	</ChTab>
+	<ChTab title="おめかし(怒り)">
+		<Ch 
+			src='/images/characters/girl_6/dress_angry2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='おめかし(怒り)'
+			nameEn='Dressed Up (Angry)'/>
+	</ChTab>
+	<ChTab title="おめかし(微笑)">
+		<Ch 
+			src='/images/characters/girl_6/dress_laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='おめかし(微笑)'
+			nameEn='Dressed Up (Smile)'/>
+	</ChTab>
+	<ChTab title="おめかし(大笑)">
+		<Ch 
+			src='/images/characters/girl_6/dress_laugh2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='おめかし(大笑)'
+			nameEn='Dressed Up (Laugh)'/>
+	</ChTab>
+	<ChTab title="おめかし(緊張)">
+		<Ch 
+			src='/images/characters/girl_6/dress_nervous.webp' 
+			position='center'/>
+		<ChName
+			nameZh='おめかし(緊張)'
+			nameEn='Dressed Up (Nervous)'/>
+	</ChTab>
+	<ChTab title="おめかし(びっくり)">
+		<Ch 
+			src='/images/characters/girl_6/dress_nervous2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='おめかし(びっくり)'
+			nameEn='Dressed Up (Frightened)'/>
+	</ChTab>
+	<ChTab title="おめかし(泣き)">
+		<Ch 
+			src='/images/characters/girl_6/dress_sad.webp' 
+			position='center'/>
+		<ChName
+			nameZh='おめかし(泣き)'
+			nameEn='Dressed Up (Cry)'/>
+	</ChTab>
+	<ChTab title="おめかし(大泣き)">
+		<Ch 
+			src='/images/characters/girl_6/dress_sad2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='おめかし(大泣き)'
+			nameEn='Dressed Up (Bawling)'/>
+	</ChTab>
+	<ChTab title="おめかし(落胆)">
+		<Ch 
+			src='/images/characters/girl_6/dress_discouraged.webp' 
+			position='center'/>
+		<ChName
+			nameZh='おめかし(落胆)'
+			nameEn='Dressed Up (Dejected)'/>
+	</ChTab>
+	<ChTab title="おめかし(得意)">
+		<Ch 
+			src='/images/characters/girl_6/dress_proud.webp' 
+			position='center'/>
+		<ChName
+			nameZh='おめかし(得意)'
+			nameEn='Dressed Up (Proud)'/>
+	</ChTab>
+	<ChTab title="おめかし(照れ)">
+		<Ch 
+			src='/images/characters/girl_6/dress_shy.webp' 
+			position='center'/>
+		<ChName
+			nameZh='おめかし(照れ)'
+			nameEn='Dressed Up (Shy)'/>
+	</ChTab>
+	<ChTab title="虎の戦衣">
+		<Ch 
+			src='/images/characters/girl_6/full_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='虎の戦衣'
+			nameEn='Tiger Armor'/>
+	</ChTab>
+	<ChTab title="幼少期">
+		<Ch 
+			src='/images/characters/girl_6/child_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼少期'
+			nameEn='Child'/>
+	</ChTab>
+	<ChTab title="幼少期(地図)">
+		<Ch 
+			src='/images/characters/girl_6/child_map.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼少期(地図)'
+			nameEn='Child (Map)'/>
+	</ChTab>
+	<ChTab title="幼少期(緊張)">
+		<Ch 
+			src='/images/characters/girl_6/child_nervous.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼少期(緊張)'
+			nameEn='Child (Nervous)'/>
+	</ChTab>
+	<ChTab title="幼少期(気まずい)">
+		<Ch 
+			src='/images/characters/girl_6/child_nervous3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼少期(気まずい)'
+			nameEn='Child (Embarrassed)'/>
+	</ChTab>
+	<ChTab title="幼少期(泣き)">
+		<Ch 
+			src='/images/characters/girl_6/child_sad.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼少期(泣き)'
+			nameEn='Child (Cry)'/>
+	</ChTab>
+	<ChTab title="幼少期(疲れ)">
+		<Ch 
+			src='/images/characters/girl_6/child_haggard.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼少期(疲れ)'
+			nameEn='Child (Exhausted)'/>
 	</ChTab>
 </ChTabs>
 
@@ -275,7 +515,11 @@ aside: false
 -   小竹が照れて全力で繰り出す平手打ちがもし本当に当たれば、武林に死なない者はいないだろう。[^9]
 -   動物が好きだが、撫でて壊してしまうのが怖くて触れられない。
     -   <MarkdownWrapper>||だが虎に対しては複雑な感情を抱いている。好きでありながら手を出して打ち殺してしまう。とりわけ妻になってからは虎の鞭への執着が強く、崆峒山の虎を狩り尽くした。||</MarkdownWrapper>
--   列伝三では小竹が霊薬「鉄鱗黒蟒血」を服用したと書かれているが、[第三香](/ja/people/characters/special820)が「龍象豹力子丹」を贈った際、[夏侯蘭](/ja/people/characters/girl5)は小竹が当時「龍象豹力母丹」を服用して怪力を得たと言っており、なぜ名称が異なるのか理由は不明である。
+-   小竹の怪力は、幼いころにうっかり口にした鉄拳門の二つの霊薬、龍象豹力丹と鉄鱗黒蟒血によるもので、どちらも彼女一人が飲んでしまった。
+    -   <MarkdownWrapper>鉄鱗黒蟒血：||前掌門の鄧夷がひそかに飼っていた大蛇で、もとは将来の掌派人に献上するはずだった。小竹が崆峒から逃げ出した日、大蛇は雄黄を食べさせられ、鉄釘で刺し殺された。[虞小梅](/ja/people/characters/girl3)が小竹に持たせた「青草茶」は実はこの黒蟒の血で、一滴も残すなと言い含められていた。小竹は逃げる道中で飲み干したが、ひどく生臭いとしか思わなかった。||</MarkdownWrapper>
+    -   <MarkdownWrapper>龍象豹力丹：||鉄拳門の掌門が筋骨を鍛えるのに使う霊丹で、同じ日に小梅が盗み出した。小竹が飲んだのは母丹である。[第三香](/ja/people/characters/special820)が持っている一粒は残りの材料を丸めた子丹で、効き目は母丹の十分の一にも満たない。[雪山の約束](/ja/event/simple/3-07-2-雪山之約)で第三香を見逃すと、[趙活](/ja/people/characters/player)に贈ってくれることがある。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||逃げた小竹は連れ戻されると、門派への裏切りとして鎮魂獄に入れられ、七日間水も食事も絶たれたうえ、裸で吊るされて天に捧げられ、禿鷹の餌にされた。命がつながったのは霊薬のおかげらしい。最後は鄧夷が、小竹が盗み食いしたのは自分の霊薬だと申し出て、彼女を大鉄舗に引き取った。||</MarkdownWrapper>
+    -   小竹は背が伸びないのは小梅のせいだとずっと恨んでいる。小梅は獄中で、二つの薬とは関係なく生まれつき脚が短いだけだと言い返した。
 -   [夏侯蘭](/ja/people/characters/girl5)によれば、その怪力は半分が生まれつきのもので、半分は鉄拳門の秘薬によるものだという。夏侯蘭ほどの武功をもってしても真っ向から受け止めることはできず、もし勁を流さずにまともに受けてしまえば必ず死ぬとのこと。
 -   <MarkdownWrapper>||鉄琵琶状態の[金烏上人](/ja/people/characters/special207)の防御の構えを一撃で崩した。小竹の内力が非常に低く、金烏上人の物理耐性が高かったからよいものの、他の者であれば重傷を負っていたに違いない。||</MarkdownWrapper>
 -   <MarkdownWrapper>||武林大会の戦いでは、一撃で侠客を吹き飛ばし、連鎖的なノックバックのドミノ倒しを引き起こした。||</MarkdownWrapper>
@@ -335,6 +579,7 @@ aside: false
 -   <MarkdownWrapper>||こっそり[魏菊](/ja/people/characters/girl7)に読み書きの指導を頼んでいる。嫡伝女弟子が別の嫡伝女弟子と二人きりで会うのがどれほど危ういことか、まるで気づいていない。||</MarkdownWrapper>
 -   悲しいときは部屋の戸を固く閉ざして一人きりになり、いちばん良い服に着替えてきれいに着飾り、涙を流しながら思いきり飲み食いする。
 -   [雷謙](/ja/people/characters/special804)との関わり：<MarkdownWrapper>||雷謙は大雑把な男だが、人柄は正直で、この女弟子をとても可愛がっており、法を破って密かに小竹を帰郷させたことが何度もある。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||気の荒い前掌門のもとでは小竹がいずれ殴り殺されると思い、小竹が家へ逃げ帰ろうとしたときは見て見ぬふりをした。||</MarkdownWrapper>
     -   <MarkdownWrapper>||江陵包囲戦では、小竹が崆峒に戻って辛い思いをしないようにと願い、小竹が戦死したと偽って報告した。さらに江陵にいる地護法の[童大虫](/ja/people/characters/trainee214)に「一人を殺せ」と書き送り、小竹を鉄拳門から破門させた。||</MarkdownWrapper>
     -   <MarkdownWrapper>||小竹の家族が崆峒に身を寄せに来たことに激怒し、小竹が家族のために崆峒へ戻って苦労していることには、さらに怒りを燃やしている。||</MarkdownWrapper>
 -   <MarkdownWrapper>||小竹は唐門に留学していた間も近所の人々に深く慕われ、息子の嫁に小竹をもらいたいと考える婦人までいた。||</MarkdownWrapper>
@@ -346,10 +591,13 @@ aside: false
 -   崆峒四姝になる前から、名前は竹だった。
 -   実家は老虎山の田寨村にある。
 -   <MarkdownWrapper>||長女でありながら愛されず、実父の目には、金になり、しかも引き出し続けられる金のなる木としか映っていない。||</MarkdownWrapper>
-    -   <MarkdownWrapper>||実父の博打狂いのせいで崆峒に売られたため、賭け事を非常に嫌っており、[趙活](/ja/people/characters/player)の博打好きを見ると腹を立てる。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||両親に可愛がられていたころもあった。樵の郁父は磨喝楽を削って遊ばせてくれ、懐に余裕があるときは町へ連れて行って食べ物やおもちゃを買ってくれた。すねたときは、わざと木のうろに隠れて父に探させた。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||実父の博打狂いのせいで、銀二両で借金取りに売られ、さらに青楼へ売られかけた。最後は鉄拳門の前掌門・鄧夷に買い取られたが、鄧夷も本当は青楼へ転売するつもりだった。[呼延菊](/ja/people/characters/special822)が取りなしてくれたおかげで、嫡伝女弟子として引き取られた。賭け事をひどく嫌っており、[趙活](/ja/people/characters/player)の博打好きを見ると腹を立てる。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||大鉄舗を任されてからは、郁父が数か月おきに崆峒へ会いに来るようになった。はじめは親孝行ができると喜び、貯めた金をすべて父に渡していたが、ある日、郁父は崆峒の賭場で負けて一文無しになり、小竹を賭けの元手にしようとした。それからの郁父は情のあるふりもやめ、人に手紙を託して金をせびるだけになった。断れば、今度は妹の宝花が売られるという。||</MarkdownWrapper>
     -   <MarkdownWrapper>||小竹は家族をとても大切に思っており、よくこっそり家へ金を送り、口実を作って内緒で帰郷することもある。||</MarkdownWrapper>
     -   <MarkdownWrapper>||実父が裏で偽りを広め、道に迷ったあげく家出したと言いふらしたため、残りの家族は、小竹を性格の悪い長女だとずっと思い込んでいる。||</MarkdownWrapper>
     -   <MarkdownWrapper>||実父は収入は博打の大儲けによるものだと偽っているが、実際には郁家の収入源はほぼ小竹一人が賄っている。||</MarkdownWrapper>
+-   <MarkdownWrapper>||妹の宝花が両親の愛情を独り占めしているのは妬ましいが、それでも[呼延菊](/ja/people/characters/special822)（菊姉さん）や[夏侯蘭](/ja/people/characters/girl5)（蘭姉さん）を見習って、頼れるいい姉になりたいと思っている。||</MarkdownWrapper>
 -   <MarkdownWrapper>||幼い頃に親の愛情に恵まれず、他人の善良な親を見るたびに羨ましく思い、親子が直面する困難にも同情しやすい。||</MarkdownWrapper>
 -   家族には江湖にいることを知られたくなくて、耕陽読書斎に入り、裕福な家の公子と婚約したと嘘をついている。
 

@@ -175,7 +175,7 @@ tags:
         <td>刀剣10<br>軽功12<br>風刀<br>火剣</td>
         <td>80</td>
         <td>内功&gt;=60</td>
-        <td><MarkdownWrapper>崆峒へ向かう道中－郁城に頼まれ[丹霞子](/ja/people/characters/special404)と同行。道中の話題を済ませて出発を選ぶと、夜に丹霞子が書を焚き火に投げ込み、趙活が拾い上げて入手</MarkdownWrapper></td>
+        <td><MarkdownWrapper>金烏事変で崆峒へ向かう道中、[丹霞子](/ja/people/characters/special404)の好感度≧30で入手</MarkdownWrapper></td>
         <td></td>
     </tr>
     <tr>
@@ -357,7 +357,7 @@ tags:
         <td>軽功10<br>拳掌5</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留学－飛天門入門時に贈られる<br>二年崆峒派留学－玄功門に入門し、飛天門の秘笈を選択<br>二年崆峒派留学－飛天門季試1勝、<MarkdownWrapper>[虞小梅](/ja/people/characters/girl3)好感＜25</MarkdownWrapper><br>二年十月中旬-唐惟元から購入 ($1200)<br>三年四月中旬に販売終了</td>
+        <td>二年崆峒派留学－飛天門入門時に贈られる<br>二年崆峒派留学－玄功門に入門し、飛天門の秘笈を選択<br>二年崆峒派留学－飛天門<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>1勝、<MarkdownWrapper>[虞小梅](/ja/people/characters/girl3)好感＜20</MarkdownWrapper><br>二年十月中旬-唐惟元から購入 ($1200)<br>三年四月中旬に販売終了</td>
         <td>1200</td>
     </tr>
     <tr>
@@ -365,7 +365,7 @@ tags:
         <td>軽功7<br>拳掌7<br>爆発3<br>形意拳LV1<br>仙鶴迷蹤步</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留学－飛天門季試<MarkdownWrapper>2勝 ([虞小梅](/ja/people/characters/girl3)好感≧25) または3勝 ([虞小梅](/ja/people/characters/girl3)好感＜25)</MarkdownWrapper>の報酬<br>三年比武招親－崆峒派留学飛天門、<MarkdownWrapper>[金烏上人](/ja/people/characters/special207)に勝利、[顔疆](/ja/people/characters/trainee204)死亡</MarkdownWrapper>時に贈られる</td>
+        <td>二年崆峒派留学－飛天門<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)2勝 ([虞小梅](/ja/people/characters/girl3)好感≧20) または3勝 ([虞小梅](/ja/people/characters/girl3)好感＜20)</MarkdownWrapper>の報酬<br>三年比武招親－崆峒派留学飛天門、<MarkdownWrapper>[金烏上人](/ja/people/characters/special207)に勝利、[顔疆](/ja/people/characters/trainee204)死亡</MarkdownWrapper>時に贈られる</td>
         <td></td>
     </tr>
     <tr>
@@ -498,7 +498,7 @@ tags:
         <td>内功10<br>体力7<br>烈火禅<br>陰陽+10</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留学－飛天門季試<MarkdownWrapper>1勝 ([虞小梅](/ja/people/characters/girl3)好感≧25) または2勝 ([虞小梅](/ja/people/characters/girl3)好感＜25)</MarkdownWrapper>の報酬</td>
+        <td>二年崆峒派留学－飛天門<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)1勝 ([虞小梅](/ja/people/characters/girl3)好感≧20) または2勝 ([虞小梅](/ja/people/characters/girl3)好感＜20)</MarkdownWrapper>の報酬</td>
         <td></td>
     </tr>
     <tr>
@@ -546,7 +546,7 @@ tags:
         <td>内功15<br>焚心火印LV3</td>
         <td>50</td>
         <td></td>
-        <td>二年崆峒派留学－飛天門季試3勝の報酬<MarkdownWrapper> ([虞小梅](/ja/people/characters/girl3)好感≧25)</MarkdownWrapper><br>三年比武招親－崆峒派留学飛天門、<MarkdownWrapper>[金烏上人](/ja/people/characters/special207)に勝利、[顔疆](/ja/people/characters/trainee204)死亡時に贈られる</MarkdownWrapper></td>
+        <td>二年崆峒派留学－飛天門<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>3勝の報酬<MarkdownWrapper> ([虞小梅](/ja/people/characters/girl3)好感≧20)</MarkdownWrapper><br>🚧未実装：三年比武招親－崆峒派留学飛天門、<MarkdownWrapper>[金烏上人](/ja/people/characters/special207)に勝利、[顔疆](/ja/people/characters/trainee204)死亡時に贈られる</MarkdownWrapper> (現行版は判定条件の設定が誤っていて手に入らない)</td>
         <td></td>
     </tr>
     <tr>
@@ -574,7 +574,7 @@ tags:
         <td>内功10<br>体力10<br>南宮護心訣3<br>不動如山<br>品性+10</td>
         <td>50</td>
         <td></td>
-        <td>囲城イベント－南宮遠が贈る (金を受け取らず手合わせ、血量40%~80%)<br>二年十月中旬－唐惟元から購入 ($2500)<br>三年四月中旬に販売終了</td>
+        <td>囲城イベント－涼んでいるときに南宮遠に出会い、ダイス【🎲≧50 小遣いはやらない】(道徳＋、名声－) に成功、手合わせで血量が40%~80%まで減る<br>二年十月中旬－唐惟元から購入 ($2500)<br>三年四月中旬に販売終了</td>
         <td>2500</td>
     </tr>
     <tr>

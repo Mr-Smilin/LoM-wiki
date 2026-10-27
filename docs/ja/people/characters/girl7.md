@@ -120,6 +120,38 @@ aside: false
 			nameZh='帷帽'
 			nameEn='Veil'/>
 	</ChTab>
+	<ChTab title="乱れ髪">
+		<Ch 
+			src='/images/characters/girl_7/messy_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='乱れ髪'
+			nameEn='Disheveled'/>
+	</ChTab>
+	<ChTab title="乱れ髪(固まる)">
+		<Ch 
+			src='/images/characters/girl_7/messy_nervous1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='乱れ髪(固まる)'
+			nameEn='Disheveled (Uh...)'/>
+	</ChTab>
+	<ChTab title="乱れ髪(緊張)">
+		<Ch 
+			src='/images/characters/girl_7/messy_nervous2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='乱れ髪(緊張)'
+			nameEn='Disheveled (Nervous)'/>
+	</ChTab>
+	<ChTab title="乱れ髪(悲しみ)">
+		<Ch 
+			src='/images/characters/girl_7/messy_sad1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='乱れ髪(悲しみ)'
+			nameEn='Disheveled (Sad)'/>
+	</ChTab>
 </ChTabs>
 <br>
 

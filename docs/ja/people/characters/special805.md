@@ -51,8 +51,12 @@ tags:
 		</ChTable>
 	</ChTab>
 	<ChTab title="出来玩！">
-		<Ch src='/images/characters/special805/special2.webp' position='right'/>
-		<ChName nameZh='阿鶴俠' nameEn='A He Xia' position='right' />
+		<Ch src='/images/characters/special805/special2.webp' position='center'/>
+		<ChName nameZh='阿鶴俠' nameEn='A He Xia' />
+	</ChTab>
+	<ChTab title="逃げて、小竹">
+		<Ch src='/images/characters/special805/hand.webp' position='center'/>
+		<ChName nameZh='阿鶴俠' nameEn='A He Xia' />
 	</ChTab>
 </ChTabs>
 

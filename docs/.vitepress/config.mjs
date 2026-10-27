@@ -962,6 +962,7 @@ const baseConfig = {
 							{ text: "門派施設", link: "/ja/system/facility" },
 							{ text: "秘笈一覧", link: "/ja/system/books/" },
 							{ text: "技能効果", link: "/ja/system/skill" },
+							{ text: "隠しパラメータ一覧", link: "/ja/system/hidden-params" },
 							{
 								text: "対戦ガイド",
 								link: "/ja/system/engagement/battle-ui",

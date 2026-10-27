@@ -960,10 +960,10 @@ tags:
                 ランダムで<MarkdownWrapper>[「戦：書生」](/ja/event/simple/2-04-2-返家路程#遇公子熟人)</MarkdownWrapper>
                 または<MarkdownWrapper>[「戦：錦香宮弟子」](/ja/event/simple/2-04-2-返家路程#遇錦香弟子)</MarkdownWrapper>が発生して敗北する。
             </li>
-            <li><Girl3Icon>小梅</Girl3Icon>が唐門に加わっておらず、第三年一月上旬に唐布衣と下山せず唐布衣の治療を行い（医術≧5か累積錬丹値≧250が必要）、途中で運功を中断した後、刺客の誰かに敗北する</li>
+            <li><Girl3Icon>小梅</Girl3Icon>が唐門に加わっておらず、第三年一月下旬に唐布衣と下山せず唐布衣の治療を行い (条件は<MarkdownWrapper>[飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來#唐門に待機)</MarkdownWrapper>を参照)、途中でやめた後、刺客の誰か、または金烏上人に敗北する</li>
         </td>
         <td>
-            医術≧5級か累積錬丹ポイント＞250で、唐布衣の治療が発生する
+            -
         </td>
     </tr>
     <tr>
@@ -1137,7 +1137,7 @@ tags:
         <td>
             <Girl0Icon>唐黙鈴</Girl0Icon>の比武招親の下山イベント<MarkdownWrapper>[金烏との決闘](/ja/event/simple/3-05-1-對決金烏)</MarkdownWrapper>で、以下の流れを満たす:<br>
             1. 同行者がいない（現状は唐黙鈴・葉雲舟が同行可能、スクリプト上は瑞笙の同行も存在する）<br>
-            2. 金烏との初戦に敗北する。または勝利した上で🚩「金烏の偽装死を見ていない」かつ擲骰の結果が【🎲＜90 奇襲を受ける】<br>
+            2. 金烏との初戦に敗北する。または勝利した上で🚩「<MarkdownWrapper>[金烏の死んだふりを見ていない](/ja/people/characters/special207_death#見過金烏詐死)</MarkdownWrapper>」かつ擲骰の結果が【🎲＜90 奇襲を受ける】<br>
             3. 再戦で金烏に敗北し、選択肢が発生する<br>
             4. 👉「降参」を選ぶ。または👉「戦う」を選び、3回の擲骰で少なくとも1回【🎲＜50 降参】が出る<br>
         </td>

@@ -699,7 +699,7 @@ tags:
 					<td style="text-align: center">分岐前</td>
 					<td colspan="2" style="text-align: center">
 						<MarkdownWrapper>
-                    崆峒争奪戦<br>
+                    金烏事変<br>
 						[小師妹の比武招親 前半](/ja/event/simple/3-05-1-師妹招親前半)<br>
 						[小師妹の比武招親 後半](/ja/event/simple/3-05-1-師妹招親後半)<br>
 						</MarkdownWrapper>

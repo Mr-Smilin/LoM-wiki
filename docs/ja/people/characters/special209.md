@@ -17,4 +17,4 @@ tags:
 <br><br>
 デモ版では[趙活](/ja/people/characters/player)、[瑞杏](/ja/people/characters/girl1)と共に[成吉思汗](/ja/people/characters/special210)の大幕で長生不老の法について談じた。
 <br><br>
-現版本(v1.0.3206)は出番がない。
+正式版には出番がない。
