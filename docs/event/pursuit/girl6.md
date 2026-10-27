@@ -142,14 +142,23 @@ tags:
     <li>金烏鬧事若選擇📖「群而毆之」，連戰皆需勝利。</li>
     <li>對決金烏初戰需獲勝。</li>
     <li>
-        符合以下條件，以觸發「郁城的請求」:<br>
-        1. 若<MarkdownWrapper>[臥雲崗事件](/event/simple/3-01-2-臥雲崗事件)</MarkdownWrapper>後續有見過金烏詐死: 
-        需滿足<MarkdownWrapper>[條件2](#條件2)</MarkdownWrapper>，且未曾<MarkdownWrapper>[放棄治療大師兄](/event/simple/3-01-3-大師兄重傷)</MarkdownWrapper>。<br>
-        2. 若未見過金烏詐死: 需滿足<MarkdownWrapper>[條件2](#條件2)</MarkdownWrapper>，金烏偷襲時必須【🎲≧90 迴避成功】。
+        符合以下任一條件，以觸發「郁城的請求」:<br>
+        1. 若<MarkdownWrapper>[臥雲崗事件](/event/simple/3-01-2-臥雲崗事件)</MarkdownWrapper>後續未🚩見過金烏詐死: <br>
+        需滿足<MarkdownWrapper>[條件2](#條件2)</MarkdownWrapper>，且金烏偷襲時需【🎲≧90 迴避成功】。<br>
+        2. 若有🚩見過金烏詐死: <br>
+        需滿足<MarkdownWrapper>[條件2](#條件2)</MarkdownWrapper>，
+        且未曾🚩<MarkdownWrapper>[放棄治療大師兄](/event/simple/3-01-3-大師兄重傷)</MarkdownWrapper>(見備註)。<br>
     </li>
     <li>觸發「郁城的請求」後，選擇📖「我得去」。</li>
   </td>
-  <td></td>
+  <td>
+    <li>
+        理論上有🚩見過金烏詐死，與<br>
+        🚩放棄治療大師兄，不可能會<br>
+        同時成立，故此條件無實質意義<br>
+        。此處僅照腳本抄錄。
+    </li>
+  </td>
 </tr>
 
 <tr>
