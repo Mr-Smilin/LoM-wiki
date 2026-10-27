@@ -94,7 +94,7 @@ tags:
 
 ## Notes
 
-- Currently, the characters that can be pursued (v3206) are [[Tang Moling]], [[Xiahou Lan]], and [[Long Xiang]], while the rest of the characters will be available in future updates.
+- Currently (v6000), the characters that can be pursued are [[Tang Moling]], [[Xiahou Lan]], [[Long Xiang]], [[Ye Yunshang]], [[Yu Xiaomei]], and [[Yu Zhu]].
 - Planned update order: first is [[Ye Yunshang]], second is [[Yu Xiaomei]] and [[Yu Zhu]], third is [[Wei Ju]] and [[Shangguan Ying]].
 - After completing the stories of the eight female characters, a free DLC for [[Rui Xing]] will be planned.
 - Women in that era were considered beautiful with long hair.

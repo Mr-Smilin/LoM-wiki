@@ -49,7 +49,7 @@ The sect's ultimate skill is the Taibai Immortal Traces.
 
 ## Secret Techniques
 
-- Taibai Immortal Traces (v3206 not yet implemented)
+- Taibai Immortal Traces (obtained in the Year 4 event "Rui Sheng's Visit")
 
 ## Notes
 

@@ -22,10 +22,6 @@ The first master of the Shaolin Temple on Mount Song, Master Jue Kong, intended 
 
 His skill in the "Heavenly King Collapse Frame" Qi-breaking chapter is extremely domineering. Just a touch can destroy the opponent's dantian, causing them to self-destruct their meridians and die.
 
-<br>
-
-The current version (v1.0.3206) has no role at all.
-
 ## Remarks
 
 - Bird Bear said he can be seen as the invincible superhero of the [[Mud Sect]].[^1]

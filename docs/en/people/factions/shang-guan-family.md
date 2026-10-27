@@ -114,7 +114,7 @@ On the day of his retirement, [[Shangguan Jun]] prayed to his ancestors and buri
 
 ## Substitutes
 
-(v3206 Unpacking Information)
+🚧Not implemented: mentioned in chats with Shangguan Ying.
 
 <MarkdownWrapper>
 ||The Shangguan Family's commercial associations and money exchanges are widespread in the Central Plains, especially in Jiangdong. To facilitate the circulation of goods and reduce the risk of carrying money, the Shangguan Commercial Association internally issued paper currency, similar to bills of exchange, known as "substitutes."~~In simple terms, it's like a multiplier card.~~||

@@ -27,7 +27,7 @@ However, she is the queen of tardiness, always late out of habit, and doesn't fe
 
 ## Notes
 
--   Not yet implemented (v3206), information on Niaoxiong FB public on 2024/10/5: [Link](https://www.facebook.com/100076301525150/posts/554404723779574)
+-   Information made public on Niaoxiong FB on 2024/10/5: [Link](https://www.facebook.com/100076301525150/posts/554404723779574)
 -   Assigned by Second Senior Brother to treat [[Ye Yunshang]] with acupuncture, a female disciple of the Tang Sect[^1]
 -   When her older sister joined the [[Tang Sect]], she was a disciple of the previous generation, so for Tang Fang, she is a younger senior sister[^1]
 -   Usually busy and often late, she rarely interacts with [[Zhao Huo]], so she is a limited-route character[^1]

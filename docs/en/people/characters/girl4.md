@@ -106,8 +106,6 @@ Skilled in both household and business matters, she has managed the large family
 
 ## Notes
 
-The obscured content is information about the v3206 decryption.
-
 -   Good friends with [[Wei Ju]] and [[Nangong Shen]] from the Gengyang Study Hall.
 -   Exceptional financial management skills, single-handedly supporting the [[Shangguan Family]] business, with an unusual perspective on money.
 -   Earned not only money but also trust and connections, deeply rooting the [[Shangguan Family]] in the Song Kingdom. 
@@ -125,7 +123,7 @@ The obscured content is information about the v3206 decryption.
 -   Has never cooked a meal, always traveling with her personal chef.
 -   When traveling, her servants bring royal tribute tea, Longfeng Group Tea, difficult to obtain casually, stolen and presented as a gift to the Shangguan family.
 -   Has never experienced paternal love since childhood, shedding tears when her father, [[Shangguan Sun]], carried her away from the poisonous smoke.
--   <MarkdownWrapper>||Has always avoided vouching for others, having suffered great losses in her youth, almost being sold because of it.||</MarkdownWrapper>
+-   🚧Not implemented: <MarkdownWrapper>||Has always avoided vouching for others, having suffered great losses in her youth, almost being sold because of it.||</MarkdownWrapper>
 
 [^1]: Bahamut - [RE: Bird Bear Q&A Collection](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
 [^2]: PTT C Chat - [Dragon Xiang and Strange Trivia P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)

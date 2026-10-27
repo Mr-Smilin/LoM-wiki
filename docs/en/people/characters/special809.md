@@ -70,8 +70,6 @@ He stutters when speaking, but is not actually foolish.
 
 ## Notes
 
-The information revealed in v3206 unpacking.
-
 -   Originally named Ma Fu Gui, but due to suspected connection with [[Wang Er Zhuang]]'s original name, the surname was changed to Li.
 -   Due to guilt over the destruction caused by the Beggar Gang and the Songshan Sect, he stayed in the outer fortress and assisted in repairs.
 -   Worked various jobs to raise money for repairing the outer fortress. ~~Can a beggar who works and earns money still be called a beggar?~~
@@ -85,6 +83,6 @@ The information revealed in v3206 unpacking.
 -   With a favorability rating of ≧2★, he will offer advice to the Tang Sect and lead to the conclusion of the Western martial arts world.
 -   The "Startling Snake Staff" in the final battle of the family extermination line is considered the strongest crowd control skill, making players itch with hatred.
 -   Extremely afraid of [[Tang Zhong Ling|Old Demon Tang]], when they meet, not only does he stutter, but he also says things he shouldn't.
--   <MarkdownWrapper>||He couldn't lift his head in front of Wei Ju, because when his family was still prosperous, he and his friends went to a poetry meeting together and were amazed by this talented woman. He felt ashamed back then and now, as the leader of beggars, he is afraid of being recognized by her.||</MarkdownWrapper>
+-   🚧Not implemented: <MarkdownWrapper>||He couldn't lift his head in front of Wei Ju, because when his family was still prosperous, he and his friends went to a poetry meeting together and were amazed by this talented woman. He felt ashamed back then and now, as the leader of beggars, he is afraid of being recognized by her.||</MarkdownWrapper>
 
 [^1]: PTT C Chat - [\[活俠\] 龍湘與奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)

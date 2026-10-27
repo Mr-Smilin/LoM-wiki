@@ -145,8 +145,6 @@ If you want to get close to her, you'll have to pass through her [[brother Ye Yu
 
 ## Notes
 
-The blacked-out parts are spoiler information that cannot be reached in version 3206.
-
 -   Bear FB Introduction: [Link](https://www.facebook.com/obbstudio/photos/pb.100076301525150.-2207520000/132329695831884/?type=3)
 -   Watch my Diancang staff technique! Listen to the Cloud staff!
 -   Similar in age to [[Tang Moling|Little Junior Sister]], estimated to be fifteen years old, and has a very close relationship with her.

@@ -169,8 +169,6 @@ She holds a deep reverence for the legendary [[Rui Xing|Apricot Blossom Fairy]].
 
 ## Notes
 
-The information about Zhe Hei can only be seen by unpacking v3206.
-
 -   [Introduction by Niao Xiong on Facebook](https://www.facebook.com/photo.php?fbid=170987155454668&id=100076301525150&set=a.165167019370015)
 -   A high forehead indicates prosperity and fortune.~~Forehead of lust~~[^1]
 -   The author of "Living Hero Chronicles," Wei Ju knows everything!
@@ -186,6 +184,6 @@ The information about Zhe Hei can only be seen by unpacking v3206.
 -   According to <EndIcon no="11">Ending 11</EndIcon>, if there is no bond, she will eventually pass on the sect leader position and return to the Gengyang Study Hall as a female scholar.
 -   In <EndIcon no="23">Ending 23</EndIcon>, she dies of depression, but the author of that ending is still her.~~Dead people writing, scary!~~
 -   <MarkdownWrapper>||The hand furnace is called the Qiankun Creation Furnace, which turns red and hot when angry.||</MarkdownWrapper>
--   <MarkdownWrapper>||She has a bad reaction to alcohol; when drunk, her temperament changes drastically, criticizing current affairs and using ancient references.||</MarkdownWrapper>
+-   🚧Not implemented: <MarkdownWrapper>||She has a bad reaction to alcohol; when drunk, her temperament changes drastically, criticizing current affairs and using ancient references.||</MarkdownWrapper>
 
 [^1]: Bahamut - [RE: [Information] Niao Xiong Q&A Collection (Updated 11/2 Second Wave + Private Questions)](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

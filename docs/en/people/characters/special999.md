@@ -112,8 +112,8 @@ He has a complex relationship with [[Rui Xing]], being clan siblings, with about
 -   ~~Possibly has a sister complex~~, often challenges difficult targets, first his clan sister [[Rui Xing]], then [[Hua Zhong Xian]], and later [[Xia Hou Lan]], who slapped him.
 -   If the Tang Sect did not take in the Ye siblings, [[Liang You Shi]] would disappear from Rui Sheng's harem group.
 -   If [[Tang Mo Ling|Junior Sister]] did not form a bond with [[Zhao Huo]], she would become one of Rui Sheng's harem.
--   There is another wife, Fang Du Ruo, who has not appeared in the harem yet (v3206). [^1]
--   <MarkdownWrapper>||According to data mining, there is a Sheng Huo duo line where they become good friends, v3206 has not been released yet||</MarkdownWrapper>
+-   Fang Du Ruo, a new wife who appeared in v5000, is his childhood sweetheart. [^1]
+-   <MarkdownWrapper>||The Sheng Huo duo line, in which he becomes good friends with Zhao Huo, was released in v6000. In the final bout of the [[Kongtong Seasonal Trial]] against Rui Sheng, if Zhao Huo already knows Rui Sheng, Rui Sheng's affection is ≥10, and the fight is still undecided at round 12, [[Ju Dong Yin]] steps in to stop it. The two end in a draw and are called the "Sheng Huo Duo". Rui Sheng then comes to help during Jinwu's disruption in Year 3 (requires Tang Moling as sweetheart with affection ≥50). If the trial did not end in a draw, Rui Sheng also takes this nickname when Zhao Huo asks about "the reason for fighting" during Rui Sheng's visit in Year 4 with Rui Sheng's affection ≥40. Asking about "the reason for fighting" during that visit with affection ≥40 also gives Annals 48 an ending in which Rui Sheng survives.||</MarkdownWrapper>
 -   <MarkdownWrapper>||In the initial version, Sheng Huo fought Zhao Huo to a draw, but due to player dissatisfaction with the outcome, this ending has been deleted||</MarkdownWrapper>
 
 [^1]: Bahamut - [【Information】The answer to the size of Long Xiang's butt + private conversation with Bird Bear](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)

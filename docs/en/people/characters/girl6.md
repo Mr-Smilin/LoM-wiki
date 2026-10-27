@@ -140,8 +140,6 @@ Her poor eyesight is due to lack of sleep, compounded by an eye condition (myopi
 
 ## Notes
 
-The blacked-out sections to prevent spoilers contain unpacking information that cannot be accessed in version 3206.
-
 -   Introduction by Niao Xiong on Facebook: [Link 1](https://www.facebook.com/photo.php?fbid=170987152121335&id=100076301525150&set=a.165167019370015), [Link 2](https://www.facebook.com/photo.php?fbid=170987148788002&id=100076301525150&set=a.165167019370015)
 -   Look, this is a copper coin. (Pinch)
 -   Birthday is on 7/10. [^6]

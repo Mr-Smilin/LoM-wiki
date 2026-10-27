@@ -26,7 +26,7 @@ Cheng Xi, at the Fengyu Mountain Conference, opposed Zhao Huo becoming a member 
 
 <br>
 
-Gongzi Xiu, not yet implemented in v3206, on 10/5/2024, had [public information](https://www.facebook.com/100076301525150/posts/554404723779574) on the Bird Bear FB. He is very wealthy, loves flowers, but does not plant them himself because the soil is dirty and there are bugs. Every morning, he wears different flowers out for a walk, takes a sniff, and then discards them.
+Gongzi Xiu (Duan Zhixiu) is very wealthy, loves flowers, but does not plant them himself because the soil is dirty and there are bugs. Every morning, he wears different flowers out for a walk, takes a sniff, and then discards them.
 
 ## Notes
 

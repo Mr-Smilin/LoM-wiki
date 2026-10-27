@@ -81,7 +81,7 @@ She is the younger sister of [[Lady Wen]]. During the siege of Jinxiang Palace a
 -   On the windy mountain, Zhao Huo could smell the Beyond Immortal Fragrance used by Jinxiang Palace, which belonged to the Tang Clan. ~~The more he thought about it, the more suspicious it seemed~~
 -   Highly skilled in martial arts, Zhao Huo was powerless to defend himself and died with a single blow.
 -   Her martial arts style focuses on evasion and defense, but she was unable to overcome the full defensive capabilities of Nan Gong Shen on the windy mountain. When disguised as Tang Xian Er, the martial arts moves she used from the Tang Clan were all superficial, lacking in true essence, only mimicking the form without the substance.
--   <MarkdownWrapper>||The second-generation master of disguise.||</MarkdownWrapper> (v3206 decryption information)
+-   <MarkdownWrapper>||The second-generation master of disguise.||</MarkdownWrapper>
 -   Knows how to eat but too lazy to learn how to cook.[^1]
 -   As long as she can find ways to please [[Tang Zheng|Second Senior Brother]], she will have Zhao Huo catch chickens and rabbits for her.
 -   In the incident of female disciples fetching firewood, although she was not involved, she joined the female disciples in beating up Zhao Huo.[^2]
