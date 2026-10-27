@@ -205,7 +205,7 @@ tags:
         支，值得嘗試。
     </li>
     <li>
-        部分劇情(非必要)需解鎖<MarkdownWrapper>[風雲史20:《折梅手》」(/event/achievements/#風雲史-No.20)</MarkdownWrapper><br>
+        部分劇情(非必要)需解鎖<MarkdownWrapper>[風雲史20:《折梅手》」](/event/achievements/#風雲史-No.20)</MarkdownWrapper><br>
         (<Girl3Icon>虞小梅</Girl3Icon>西武林線結局)，且命運≧50。        
     </li>
   </td>
