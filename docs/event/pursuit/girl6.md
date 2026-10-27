@@ -52,10 +52,13 @@ tags:
     <li>第二年四月上旬至四月下旬</li>
     <li>或第二年五月下旬至六月下旬</li>
   </td>
-  <td><MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper></td>
+  <td>
+      <li><MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper></li>
+      <li><MarkdownWrapper>[郁竹返家](/event/simple/2-04-2-郁竹返家)</MarkdownWrapper></li>
+  </td>
   <td>
     <li>
-        經由以下任一種方式，觸發本事件，<br>
+        經由以下任一種方式，觸發「郁竹返家準備」，<br>
         且事件結果必須有🚩郁竹返家前置:
     </li>
     <li>
@@ -71,14 +74,12 @@ tags:
         且有隨機觸發「小梅跑步」，再選擇跟小梅跑步。<br>
         事件中，小梅將余公子帶走後，需選擇📖「追上去看看」，且對決獲勝。<br>
     </li>
+    <li>
+        一旬後自動觸發「郁竹返家」(理應不會錯過)，為此階段最終需達成的條件。
+    </li>
   </td>
   <td>
     <li>此事件建議觸發<Girl6Icon>郁竹</Girl6Icon>版本。</li>
-    <li>
-      實際的「郁竹返家」事件亦為必要條件<br>
-      ，但因為會在一旬後自動觸發，應該不<br>
-      會錯過。只要過程中不死亡即可。      
-    </li>
   </td>
 </tr>
 
@@ -132,6 +133,21 @@ tags:
   <td id = "條件5">5</td>
   <td>第三年五月上旬</td>
   <td>
+    <li><MarkdownWrapper>[臥雲崗事件](/event/simple/3-01-2-臥雲崗事件)</MarkdownWrapper></li>
+    <li><MarkdownWrapper>[大師兄重傷](/event/simple/3-01-3-大師兄重傷)</MarkdownWrapper></li>
+  </td>
+  <td>
+    <li>若「臥雲崗事件」選擇留守山上，後續「大師兄重傷」時必須成功進入治療大師兄階段。</li>
+    <li>觸發治療條件請見<MarkdownWrapper>[「飛俠歸來」](/event/detailed_description/4-02-2-飛俠歸來)</MarkdownWrapper>。</li>
+    <li>治療是否成功不影響。</li>
+  </td>
+  <td></td>
+</tr>
+
+<tr>
+  <td id = "條件6">6</td>
+  <td>第三年五月上旬</td>
+  <td>
     <li><MarkdownWrapper>[師妹招親前半](/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper></li>
     <li><MarkdownWrapper>[師妹招親後半](/event/simple/3-05-1-師妹招親後半)</MarkdownWrapper></li>
     <li><MarkdownWrapper>[金烏鬧事](/event/simple/3-05-1-金烏鬧事)</MarkdownWrapper></li>
@@ -148,9 +164,9 @@ tags:
 </tr>
 
 <tr>
-  <td id = "條件6">6</td>
+  <td id = "條件7">7</td>
   <td>第三年五月上旬</td>
-  <td>金烏事變</td>
+  <td>崆峒爭奪戰</td>
   <td>
     <li>
       進入崆峒地界時:<br>
@@ -186,7 +202,7 @@ tags:
         支，值得嘗試。
     </li>
     <li>
-        部分劇情(非必要)需解鎖成就「折梅手」<br>
+        部分劇情(非必要)需解鎖<MarkdownWrapper>[風雲史20:《折梅手》」(/event/achievements/#風雲史-No.20)</MarkdownWrapper><br>
         (<Girl3Icon>虞小梅</Girl3Icon>西武林線結局)，且命運≧50。        
     </li>
   </td>
