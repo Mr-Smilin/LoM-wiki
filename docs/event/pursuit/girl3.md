@@ -157,6 +157,7 @@ tags:
     </li>
     <li>觸發治療條件請見<MarkdownWrapper>[「飛俠歸來」](/event/detailed_description/4-02-2-飛俠歸來)</MarkdownWrapper>。</li>
     <li>治療是否成功不影響。</li>
+    <li>若選擇跟隨下山，則無特別需求。</li>
   </td>
   <td></td>
 </tr>
