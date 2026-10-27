@@ -96,7 +96,7 @@ aside: false
     -   理解力極強。
     -   擅長佛法辯論，於道論中勝出。
     -   率眾修復了嵩山一帶因戰亂毀壞的寺院。
-    
+
 ## 備註
 
 -   鳥熊 Facebook 的介紹：[連結](https://www.facebook.com/photo/?fbid=424312240122157&set=pcb.424312443455470)
