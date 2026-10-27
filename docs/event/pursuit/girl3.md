@@ -145,13 +145,16 @@ tags:
 
 <tr>
   <td id = "條件5">5</td>
-  <td>第三年五月上旬</td>
+  <td>第三年一月中旬</td>
   <td>
     <li><MarkdownWrapper>[臥雲崗事件](/event/simple/3-01-2-臥雲崗事件)</MarkdownWrapper></li>
     <li><MarkdownWrapper>[大師兄重傷](/event/simple/3-01-3-大師兄重傷)</MarkdownWrapper></li>
   </td>
   <td>
-    <li>若「臥雲崗事件」選擇留守山上，後續「大師兄重傷」時必須成功進入治療大師兄階段。</li>
+    <li>
+        若「臥雲崗事件」選擇留守山上，後續「大師兄重傷」時<br>
+        必須成功進入治療大師兄階段。
+    </li>
     <li>觸發治療條件請見<MarkdownWrapper>[「飛俠歸來」](/event/detailed_description/4-02-2-飛俠歸來)</MarkdownWrapper>。</li>
     <li>治療是否成功不影響。</li>
   </td>
