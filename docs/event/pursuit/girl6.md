@@ -141,30 +141,16 @@ tags:
     <li>先確保心上人為<Girl6Icon>郁竹</Girl6Icon>。</li>
     <li>金烏鬧事若選擇📖「群而毆之」，連戰皆需勝利。</li>
     <li>對決金烏初戰需獲勝。</li>
-    <li>
-        符合以下任一條件，以觸發「郁城的請求」:<br>
-        1. 若<MarkdownWrapper>[臥雲崗事件](/event/simple/3-01-2-臥雲崗事件)</MarkdownWrapper>後續未🚩見過金烏詐死: <br>
-        曾觸發<MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper>，且金烏偷襲時需【🎲≧90 迴避成功】。<br>
-        2. 若有🚩見過金烏詐死: <br>
-        曾觸發<MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper>，
-        且未曾🚩<MarkdownWrapper>[放棄治療大師兄](/event/simple/3-01-3-大師兄重傷)</MarkdownWrapper>(見備註)。<br>
-    </li>
+    <li>若觸發金烏偷襲，需【🎲≧90 迴避成功】。</li>
     <li>觸發「郁城的請求」後，選擇📖「我得去」。</li>
   </td>
-  <td>
-    <li>
-        理論上有🚩見過金烏詐死，與<br>
-        🚩放棄治療大師兄，不可能會<br>
-        同時成立，故此條件無實質意義<br>
-        。此處僅照腳本抄錄。
-    </li>
-  </td>
+  <td></td>
 </tr>
 
 <tr>
   <td id = "條件6">6</td>
   <td>第三年五月上旬</td>
-  <td>崆峒爭奪戰</td>
+  <td>金烏事變</td>
   <td>
     <li>
       進入崆峒地界時:<br>
