@@ -726,7 +726,7 @@ tags:
 				    [師妹的歸宿](/event/simple/3-05-1-師妹的歸宿)<br>
 				    [恩仇盡頭](/event/simple/3-05-1-恩仇盡頭)<br>
                     [雲裳結緣](/event/simple/3-05-1-雲裳結緣)<br>
-                    金烏事變<br>
+                    崆峒爭奪戰<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
