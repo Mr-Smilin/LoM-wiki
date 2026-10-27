@@ -2667,6 +2667,30 @@ tags:
         </td>
         <td>-</td>
     </tr>
+    <tr>
+        <td id="生死簿-No.110">
+            <BadendIcon :no="110">生死簿 No.110</BadendIcon>
+        </td>
+        <td>
+            灰飛煙滅
+        </td>
+        <td>
+            遙想公子當年，小竹初嫁了，雄姿英發。<br>
+            鐵鎚圍巾，談笑間，趙活灰飛煙滅。
+        </td>
+        <td>-</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>。</li>
+            <li>由<Girl3Icon>虞小梅</Girl3Icon>途徑觸發<MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper>。</li>
+            <li>
+                <MarkdownWrapper>[郁竹返家](/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>的
+                <MarkdownWrapper>[家人反目](/event/simple/2-04-2-家人反目)</MarkdownWrapper>時，
+                選擇👉「揍小竹全家」。<br>
+                接著觸發🆚「戰余公子」後獲勝，再觸發🆚「戰郁竹」後落敗。
+            </li>
+        </td>
+        <td>-</td>
+    </tr>
 </Btable>
 
 資料來源：
