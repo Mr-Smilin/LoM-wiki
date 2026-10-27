@@ -2684,7 +2684,7 @@ tags:
             <li>由<Girl3Icon>虞小梅</Girl3Icon>途徑觸發<MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper>。</li>
             <li>
                 <MarkdownWrapper>[郁竹返家](/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>的
-                <MarkdownWrapper>[家人反目](/event/simple/2-04-2-家人反目)</MarkdownWrapper>時，<br>
+                <MarkdownWrapper>[家人反目](/event/simple/2-04-2-家人反目)</MarkdownWrapper>時，
                 心上人非<Girl6Icon>郁竹</Girl6Icon>，並選擇👉「揍小竹全家」。<br>
                 接著觸發🆚「戰余公子」後獲勝，再觸發🆚「戰郁竹」後落敗。
             </li>
