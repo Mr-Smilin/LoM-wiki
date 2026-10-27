@@ -47,7 +47,7 @@ tags:
       建議觸發<MarkdownWrapper>[「鶴崖事件集」](/event/simple/2-03-3-鶴崖事件集)</MarkdownWrapper>中的「小梅共舞」。<br>
     </li>
     <li>
-      若曾在飛天殿修仙至少一次，條件6的劇情<br>
+      若曾在飛天殿修仙至少一次，<MarkdownWrapper>[條件7](#條件7)</MarkdownWrapper>的劇情<br>
       對話會稍微改變。
     </li>
   </td>
@@ -59,26 +59,34 @@ tags:
     <li>第二年四月上旬至四月下旬</li>
     <li>或第二年五月下旬至六月下旬</li>
   </td>
-  <td><MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper></td>
+  <td>
+      <li><MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper></li>
+      <li><MarkdownWrapper>[郁竹返家](/event/simple/2-04-2-郁竹返家)</MarkdownWrapper></li>
+  </td>
   <td>
     <li>
-        經由以下任一種方式，觸發本事件:
+        經由以下任一種方式，觸發「郁竹返家準備」，<br>
+        且事件結果必須有🚩郁竹返家前置:
     </li>
     <li>
         1. 由<Girl6Icon>郁竹</Girl6Icon>觸發: <br>
         🚩造訪鐵拳巷次數≥4，且郁竹好感≥20。<br>
         時間範圍內，且行動次數≥2時，點選「鐵拳巷」指令觸發。<br>
+        事件中，郁竹請你扮演家丁，需選擇📖「好吧」。<br>
     </li>
     <li>
         2. 由<Girl3Icon>虞小梅</Girl3Icon>觸發: <br>
         🚩認識郁竹，且虞小梅好感≥20。<br>
         時間範圍內，且行動次數≥1時，點選門派修練指令，<br>
         且有隨機觸發「小梅跑步」，再選擇跟小梅跑步。<br>
+        事件中，小梅將余公子帶走後，需選擇📖「追上去看看」，且對決獲勝。<br>
+    </li>
+    <li>
+        一旬後自動觸發「郁竹返家」(理應不會錯過)，為此階段最終需達成的條件。
     </li>
   </td>
   <td>
     <li>此事件建議觸發<Girl3Icon>虞小梅</Girl3Icon>版本。</li>
-    <li>實際的「郁竹返家」事件並非必要條件。</li>
   </td>
 </tr>
 
@@ -91,7 +99,7 @@ tags:
     <li>必須確保<Girl3Icon>虞小梅</Girl3Icon>好感≥35(非用於此事件，但後面沒機會增加)。</li>
     <li>強烈建議確保心上人為虞小梅(後面變心點數較難獲得)。</li>
     <li>
-      若避免以下情況，可進入「虞小梅送行」劇情(非必要但影響條件4分支):<br>
+      若避免以下情況，可進入「虞小梅送行」劇情(非必要但影響<MarkdownWrapper>[條件4](#條件4)</MarkdownWrapper>分支):<br>
       1. 🚩<MarkdownWrapper>[拜師夏侯蘭](/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper>。<br>
       2. 心上人為<Girl6Icon>郁竹</Girl6Icon>，且郁竹好感度在崆峒四姝中最高。
     </li>
@@ -139,6 +147,21 @@ tags:
   <td id = "條件5">5</td>
   <td>第三年五月上旬</td>
   <td>
+    <li><MarkdownWrapper>[臥雲崗事件](/event/simple/3-01-2-臥雲崗事件)</MarkdownWrapper></li>
+    <li><MarkdownWrapper>[大師兄重傷](/event/simple/3-01-3-大師兄重傷)</MarkdownWrapper></li>
+  </td>
+  <td>
+    <li>若「臥雲崗事件」選擇留守山上，後續「大師兄重傷」時必須成功進入治療大師兄階段。</li>
+    <li>觸發治療條件請見<MarkdownWrapper>[「飛俠歸來」](/event/detailed_description/4-02-2-飛俠歸來)</MarkdownWrapper>。</li>
+    <li>治療是否成功不影響。</li>
+  </td>
+  <td></td>
+</tr>
+
+<tr>
+  <td id = "條件6">6</td>
+  <td>第三年五月上旬</td>
+  <td>
     <li><MarkdownWrapper>[師妹招親前半](/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper></li>
     <li><MarkdownWrapper>[師妹招親後半](/event/simple/3-05-1-師妹招親後半)</MarkdownWrapper></li>
     <li><MarkdownWrapper>[金烏鬧事](/event/simple/3-05-1-金烏鬧事)</MarkdownWrapper></li>
@@ -155,9 +178,9 @@ tags:
 </tr>
 
 <tr>
-  <td id = "條件6">6</td>
+  <td id = "條件7">7</td>
   <td>第三年五月上旬</td>
-  <td>金烏事變</td>
+  <td>崆峒爭奪戰</td>
   <td>
     <li>
       進入崆峒地界時:<br>
