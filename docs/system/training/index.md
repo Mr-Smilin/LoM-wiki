@@ -187,6 +187,7 @@ text: '六大派好感',
 		<td>
             • 🚩福韞在唐門<br>
             • 🚩掌門在唐門<br>
+            • 曾觸發<MarkdownWrapper>[初識福韞](/event/simple/1-09-2-初識福韞)</MarkdownWrapper><br>
         </td>
 		<td>-</td>
 	</tr>
@@ -1908,7 +1909,10 @@ text: '六大派好感',
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 15</td>
-		<td>🚩福韞在唐門</td>
+		<td>
+            • 🚩福韞在唐門<br>
+            • 曾觸發<MarkdownWrapper>[初識福韞](/event/simple/1-09-2-初識福韞)</MarkdownWrapper><br>
+        </td>
 		<td>-</td>
 	</tr>
 	<tr>
@@ -1927,6 +1931,7 @@ text: '六大派好感',
 		<td>
             • 🚩福韞在唐門<br>
             • 🚩四師兄在唐門<br>
+            • 曾觸發<MarkdownWrapper>[初識福韞](/event/simple/1-09-2-初識福韞)</MarkdownWrapper><br>
         </td>
 		<td>-</td>
 	</tr>                
@@ -2070,7 +2075,10 @@ text: '六大派好感',
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 30</td>
-		<td>🚩李富貴在唐門</td>
+		<td>
+            • 🚩李富貴在唐門<br>
+            • 曾觸發<MarkdownWrapper>[初識李富貴、樊嘯天](/event/simple/1-09-2-初識李富貴、樊嘯天)</MarkdownWrapper><br>
+        </td>
 		<td>
             🚩外出遇到李富貴:<br>
             影響本行動後續<br>
@@ -2107,7 +2115,10 @@ text: '六大派好感',
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 20</td>
-		<td>🚩李富貴在唐門</td>
+		<td>
+            • 🚩李富貴在唐門<br>
+            • 曾觸發<MarkdownWrapper>[初識李富貴、樊嘯天](/event/simple/1-09-2-初識李富貴、樊嘯天)</MarkdownWrapper><br>
+        </td>
 		<td>
             🚩外出遇到李富貴:<br>
             影響本行動後續<br>
@@ -2131,6 +2142,7 @@ text: '六大派好感',
 		<td>
             • 🚩福韞在唐門<br>
             • 曾🚩揍過福韞<br>
+            • 曾觸發<MarkdownWrapper>[初識福韞](/event/simple/1-09-2-初識福韞)</MarkdownWrapper><br>
         </td>
 		<td>-</td>
 	</tr>
@@ -2795,6 +2807,7 @@ text: '六大派好感',
 		<td>
             • 🚩龍湘在唐門<br>
             • 🚩福韞在唐門<br>
+            • 曾觸發<MarkdownWrapper>[初識福韞](/event/simple/1-09-2-初識福韞)</MarkdownWrapper><br>
         </td>
 		<td>
             🚩外出遇到龍湘/福韞:<br>
@@ -2923,6 +2936,7 @@ text: '六大派好感',
 		<td>
             🚩福韞在唐門<br>
             未🚩外堡遇到福韞<br>
+            曾觸發<MarkdownWrapper>[初識福韞](/event/simple/1-09-2-初識福韞)</MarkdownWrapper><br>
         </td>
 		<td>-</td>
 	</tr>
@@ -2942,6 +2956,7 @@ text: '六大派好感',
             🚩葉雲舟在唐門<br>
             🚩福韞在唐門<br>
             未🚩外堡遇到福韞<br>
+            曾觸發<MarkdownWrapper>[初識福韞](/event/simple/1-09-2-初識福韞)</MarkdownWrapper><br>
         </td>
 		<td>-</td>
 	</tr>
@@ -2961,6 +2976,7 @@ text: '六大派好感',
             🚩葉雲裳在唐門<br>
             🚩福韞在唐門<br>
             未🚩外堡遇到福韞<br>
+            曾觸發<MarkdownWrapper>[初識福韞](/event/simple/1-09-2-初識福韞)</MarkdownWrapper><br>
         </td>
 		<td>-</td>
 	</tr>
