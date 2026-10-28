@@ -226,7 +226,7 @@ tags:
         <td>小竹按摩券</td>
         <td></td>
         <td></td>
-        <td><Girl6Icon>[[郁竹]]結緣後，<br>事件差分道具</td>
+        <td><Girl6Icon>郁竹</Girl6Icon>結緣後，<br>事件差分道具</td>
         <td>事件道具</td>
         <td>第二年崆峒派留學－拜入鐵拳門並季試全勝獎勵</td>
         <td></td>
@@ -313,7 +313,7 @@ tags:
         <td>髮簪</td>
         <td></td>
         <td></td>
-        <td><Girl6Icon>[[郁竹]]結緣後，<br>事件差分道具</td>
+        <td><Girl6Icon>郁竹</Girl6Icon>結緣後，<br>事件差分道具</td>
         <td>事件道具</td>
         <td>雜匠隨機觸發事件</td>
         <td></td>
@@ -340,7 +340,7 @@ tags:
         <td>趙活磨喝樂</td>
         <td></td>
         <td></td>
-        <td><Girl6Icon>[[郁竹]]結緣後，<br>[[慷慨就義]]事件差分道具</td>
+        <td><Girl6Icon>郁竹</Girl6Icon>結緣後，<br>[[慷慨就義]]事件差分道具</td>
         <td>事件道具</td>
         <td>雜匠隨機觸發事件，滯銷獲得</td>
         <td></td>
