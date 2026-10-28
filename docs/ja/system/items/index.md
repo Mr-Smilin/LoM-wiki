@@ -190,10 +190,10 @@ tags:
         <td>大師兄の落書き</td>
         <td></td>
         <td></td>
+        <td>雑匠ランダムイベントで、<br>逆鱗宝衣を作る</td>
         <td>不明</td>
-        <td>不明</td>
-        <td></td>
-        <td><MarkdownWrapper>1年弟子房-[唐布衣](/ja/people/characters/brother1)と詩琴書画について雑談。肩甲が嫌い。1年目債権者が来た時、「行きなさい、今すぐ何か考えねば」の目が出た場合、先生に見せられるが、たしなめられる
+        <td>1年弟子房-<MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>と詩琴書画について雑談。肩甲が嫌い。</td>
+        <td><MarkdownWrapper>関連イベント：<br>1年目債権者が来た時、「行きなさい、今すぐ何か考えねば」の目が出た場合<br>先生に見せられるが、たしなめられる<br>
 (前置条件：6月上旬[唐惟元](/ja/people/characters/brother4)が会議に呼んだ時、「もしかして...あの件か」+「うっかり字画を焼いてしまった」を選択)</MarkdownWrapper></td>
     </tr>
     <tr>
@@ -218,7 +218,7 @@ tags:
         <td>小竹マッサージチケット</td>
         <td></td>
         <td></td>
-        <td>(結縁イベントの分岐に関連する可能性)</td>
+        <td><Girl6Icon>郁竹</Girl6Icon>と結縁後、<br>イベント差分用の道具</td>
         <td>イベント道具</td>
         <td>崆峒派留学ルート－鉄拳門限定</td>
         <td>2年目崆峒派留学－鉄拳門に入門して季試全勝の報酬</td>
@@ -283,7 +283,7 @@ tags:
         <td>金念珠</td>
         <td>売価8000</td>
         <td></td>
-        <td>「喪家の犬」エンディングをトリガー</td>
+        <td><MarkdownWrapper>武林盟で[上官隼](/ja/people/characters/special407)に敗れると、<br>「喪家の犬」エンディングをトリガー</MarkdownWrapper></td>
         <td>イベント道具</td>
         <td>雲裳ルート限定</td>
         <td>
@@ -301,6 +301,42 @@ tags:
         <td>
             <MarkdownWrapper>[小師妹の再訪](/ja/event/simple/4-01-1-小師妹回訪)</MarkdownWrapper>イベントで「焼き魚」を選ぶ
         </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>髪簪</td>
+        <td></td>
+        <td></td>
+        <td><Girl6Icon>郁竹</Girl6Icon>と結縁後、<br>イベント差分用の道具</td>
+        <td>イベント道具</td>
+        <td>雑匠ランダムイベント</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>磨喝楽 緑</td>
+        <td></td>
+        <td></td>
+        <td>不明</td>
+        <td>不明</td>
+        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball)の2回目の三等賞<br>(30～59点で獲得)</MarkdownWrapper></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>磨喝楽 紅</td>
+        <td></td>
+        <td></td>
+        <td>不明</td>
+        <td>不明</td>
+        <td><MarkdownWrapper>[弾珠台](/ja/system/pinball)の2回目の二等賞<br>(60～99点で獲得)</MarkdownWrapper></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>趙活磨喝楽</td>
+        <td></td>
+        <td></td>
+        <td><Girl6Icon>郁竹</Girl6Icon>と結縁後、<br><MarkdownWrapper>[汗青書35：慷慨、義に赴く](/ja/event/ends/end-35)</MarkdownWrapper>のイベント差分用の道具</td>
+        <td>イベント道具</td>
+        <td>雑匠ランダムイベントで、売れ残りとして獲得</td>
         <td></td>
     </tr>
 </table>

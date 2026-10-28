@@ -107,6 +107,22 @@ aside: false
 			nameZh='喜ぶ'
 			nameEn='Happy'/>
 	</ChTab>
+    <ChTab title="得意げ">
+		<Ch 
+			src='/images/characters/girl_0/proud.webp' 
+			position='center'/>
+		<ChName
+			nameZh='得意げ'
+			nameEn='Smug'/>
+	</ChTab>
+    <ChTab title="ツインテール">
+		<Ch 
+			src='/images/characters/girl_0/special3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='ツインテール'
+			nameEn='Twin Tails'/>
+	</ChTab>
 </ChTabs>
 <br>
 

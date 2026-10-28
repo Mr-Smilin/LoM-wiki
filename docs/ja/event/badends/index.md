@@ -260,6 +260,30 @@ tags:
             -
         </td>
     </tr>
+    <tr>
+        <td id="生死簿-No.110">
+            <BadendIcon :no="110">生死簿 No.110</BadendIcon>
+        </td>
+        <td>
+            灰燼と消える (灰飛煙滅)
+        </td>
+        <td>
+            想うは公子の往時、小竹は嫁いだばかり、雄姿英発。<br>
+            鉄鎚とマフラー、談笑のうちに、趙活は灰燼と消えた。
+        </td>
+        <td>-</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学する。</li>
+            <li><Girl3Icon>虞小梅</Girl3Icon>ルートで<MarkdownWrapper>[郁竹の帰郷準備](/ja/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper>が発生する。</li>
+            <li>
+                <MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の
+                <MarkdownWrapper>[家族の反目](/ja/event/simple/2-04-2-家人反目)</MarkdownWrapper>で、<br>
+                想い人が<Girl6Icon>郁竹</Girl6Icon>ではなく、👉「小竹の一家をぶん殴る」を選ぶ。<br>
+                続いて発生する🆚「戦：余公子」に勝利し、さらに🆚「戦：郁竹」に敗北する。
+            </li>
+        </td>
+        <td>-</td>
+    </tr>
 </Btable>
 </div>
 
