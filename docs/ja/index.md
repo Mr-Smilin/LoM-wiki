@@ -28,6 +28,9 @@ hero:
         - theme: alt
           text: 汗青書 (エンディング) 画像ジェネレーター
           link: /ja/other/image-generator/end.html
+        - theme: alt
+          text: Android アプリ
+          link: https://github.com/Tiger-roll-STU/LegendofMortalwiki/releases
 features:
     - icon: ❓
       title: なぜ LoM-Wiki を作ったのか？

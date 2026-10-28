@@ -218,7 +218,7 @@ tags:
     </tr>
 </table>
 
-- この人物が火炎山かどうかは不確かですが、衣装が同じなのでここに分類しています。
+- この人物が火炎山かどうかは不確かであるが、衣装が同じなのでここに分類している。
 
 <img src="/images/mobs/mount-fire-palace/blacksmith3_normal.webp" style="width:200px;" />
 <table>

@@ -52,10 +52,13 @@ tags:
     <li>2年目4月上旬から4月下旬まで</li>
     <li>または2年目5月下旬から6月下旬まで</li>
   </td>
-  <td><MarkdownWrapper>[郁竹の帰郷準備](/ja/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper></td>
+  <td>
+      <li><MarkdownWrapper>[郁竹の帰郷準備](/ja/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper></li>
+      <li><MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper></li>
+  </td>
   <td>
     <li>
-        次のどちらかの方法でこのイベントを起こし、<br>
+        次のどちらかの方法で「郁竹の帰郷準備」を起こし、<br>
         結果として🚩郁竹の帰郷の前提が立っている必要がある:
     </li>
     <li>
@@ -71,14 +74,12 @@ tags:
         ランダムで「小梅とかけっこ」が発生したら、小梅とかけっこするほうを選ぶ。<br>
         イベント中、小梅が余公子を連れ去ったあとに📖「追いかけてみる」を選び、対決に勝つ必要がある。<br>
     </li>
+    <li>
+        1旬後に「郁竹の帰郷」が自動で発生する(まず見逃さない)。これがこの段階で最終的に満たすべき条件。
+    </li>
   </td>
   <td>
     <li>このイベントは<Girl6Icon>郁竹</Girl6Icon>側で起こすのがおすすめ。</li>
-    <li>
-      続く「郁竹の帰郷」も条件に含まれるが、<br>
-      1旬後に自動で発生するので、<br>
-      まず見逃さない。途中で死ななければよい。
-    </li>
   </td>
 </tr>
 
@@ -130,6 +131,27 @@ tags:
 
 <tr>
   <td id = "條件5">5</td>
+  <td>3年目1月中旬</td>
+  <td>
+    <li><MarkdownWrapper>[臥雲崗イベント](/ja/event/simple/3-01-2-臥雲崗事件)</MarkdownWrapper></li>
+    <li><MarkdownWrapper>[大師兄の重傷](/ja/event/simple/3-01-3-大師兄重傷)</MarkdownWrapper></li>
+  </td>
+  <td>
+    <li>
+        「臥雲崗イベント」で山に残る選択をした場合、続く「大師兄の重傷」で<br>
+        大師兄の治療の段階に必ず入る必要がある。
+    </li>
+    <li>治療が発生する条件は<MarkdownWrapper>[「飛侠の帰還」](/ja/event/detailed_description/4-02-2-飛俠歸來)</MarkdownWrapper>を参照。</li>
+    <li>治療に成功するかどうかは問わない。</li>
+    <li>山を下りて同行する選択をした場合は、特別な条件はない。</li>
+  </td>
+  <td>
+    <li>山に残る選択のほうが<Girl6Icon>郁竹</Girl6Icon>に関するシナリオが多い。</li>
+  </td>
+</tr>
+
+<tr>
+  <td id = "條件6">6</td>
   <td>3年目5月上旬</td>
   <td>
     <li><MarkdownWrapper>[小師妹の比武招親 前半](/ja/event/simple/3-05-1-師妹招親前半)</MarkdownWrapper></li>
@@ -148,9 +170,9 @@ tags:
 </tr>
 
 <tr>
-  <td id = "條件6">6</td>
+  <td id = "條件7">7</td>
   <td>3年目5月上旬</td>
-  <td>金烏事変</td>
+  <td>崆峒争奪戦</td>
   <td>
     <li>
       崆峒の地に入るとき:<br>
@@ -186,7 +208,7 @@ tags:
         分岐する。試してみるとよい。
     </li>
     <li>
-        必須ではない一部の場面は、実績「折梅手」<br>
+        必須ではない一部の場面は、<MarkdownWrapper>[風雲史20:《折梅手》](/ja/event/achievements/index#風雲史-No.20)</MarkdownWrapper><br>
         (<Girl3Icon>虞小梅</Girl3Icon>の西武林ルートの結末)の解放と、運命≧50が条件。
     </li>
   </td>

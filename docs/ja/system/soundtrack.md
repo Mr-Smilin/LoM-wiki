@@ -238,8 +238,15 @@ tags:
   </tbody>
 </table>
 
-## インタビュー
+## 幽火によるカッキョウデン音楽インタビュー
 
 - [巴哈姆特 - あの時期に私が制作したサウンドトラック案件3..原始鳥熊 Obb studio - カッキョウデン](https://forum.gamer.com.tw/C.php?bsn=73317&snA=1488)
 - [Youtube - 「帳中夢の守人、数万人を感動させた」舞台裏の話と知られざる課題。作曲家がなぜ生活のバランスを取るのが難しいのか](https://www.youtube.com/watch?v=xsuEOoaFWlI)
 - [Youtube - 【カッキョウデン】完全音楽分析「一呼百諾西武林」、天命に逆らえぬ趙活、いかに一飛衝天するのか？ ft.幽火](https://youtu.be/frlGGc4KV1o)
+- [Youtube - 【カッキョウデン】- 子夜に君へ寄せる書 - 最も感動的な音楽、人気投票第1位！ 元は美しい誤解だった - 幽火の音楽解説](https://www.youtube.com/watch?v=yjVGLuu6dFM)
+- [Youtube - 【カッキョウデン】- 帳中夢を守る人、夢うつつは実は寝坊？ 幽火の音楽解説](https://www.youtube.com/watch?v=xoAZyDtHqLc)
+- [Youtube - 【カッキョウデン】某人の伝説 - 僕は木じゃない、生きた人間だ！ 幽火の音楽解説](https://www.youtube.com/watch?v=SubF9pJlG2E)
+- [Youtube - 【カッキョウデン】君が願う江湖行 最も奔放で醒めたくない - いたずらが生んだ狂曲 - 幽火の音楽解説](https://www.youtube.com/watch?v=0YSOu8BNfkw)
+- [Youtube - 【カッキョウデン】- 劫を歴て侠気を知る - 謎の貴人に感謝！ 心は屈せず、どれほど遠くても辿り着ける！ - 幽火の音楽解説](https://www.youtube.com/watch?v=A1AcrkFfHGM)
+- [Youtube - 【カッキョウデン】- 最も険しい道 - 賀梅竹ルート更新！ 武術交流は背骨を打ち抜くためのもの？ - 幽火の音楽解説](https://www.youtube.com/watch?v=Cik5oX1oE1k)
+- [Youtube - 【カッキョウデン】作者の鳥熊との出会いから、テーマ曲の開発まで - 上編 - 「配楽編に踏み込む」 ft.幽火](https://youtu.be/C8O17RTUs3U?si=r8QR4ltQOICmAid9)

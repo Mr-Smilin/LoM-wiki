@@ -608,7 +608,7 @@ aside: false
     -   <MarkdownWrapper>||上記の動画の筋書きは作中で正史とされており、夢の中で人々の祝福を受けたことは、小竹が生きる希望の一つとなった。||</MarkdownWrapper>
 -   年齢について：<MarkdownWrapper>||[虞小梅](/ja/people/characters/girl3)（小梅）と同い年。||</MarkdownWrapper>
     -   <MarkdownWrapper>||小梅が夏侯蘭より10歳近く年下だと自称しており、[唐中翎](/ja/people/characters/master)は小梅が[唐黙鈴](/ja/people/characters/girl0)より年上だと述べている。||</MarkdownWrapper>
-        -   <MarkdownWrapper>||さらに[解無塵](/ja/people/characters/special808)は[夏侯蘭](/ja/people/characters/girl5)を25〜26歳くらいだと述べている。||</MarkdownWrapper>
+        -   <MarkdownWrapper>||さらに[夏侯蘭](/ja/people/characters/girl5)は3年目に25〜27歳くらいである。||</MarkdownWrapper>
         -   <MarkdownWrapper>||唐黙鈴は15〜16歳くらいなので、小梅と小竹は16〜17歳くらいと推算される。||</MarkdownWrapper>
 -   おしゃれをするには、よほどの決心が必要なタイプである。[^7]
 -   怒っても人を殴ることはなく、不機嫌な時は鍛冶仕事で気持ちを発散する。[^7]

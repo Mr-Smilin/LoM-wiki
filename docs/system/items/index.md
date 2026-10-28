@@ -198,11 +198,11 @@ tags:
         <td>大師兄的塗鴉</td>
         <td></td>
         <td></td>
+        <td>雜匠隨機觸發事件，<br>打造[[逆鱗寶衣]]</td>
         <td>不明</td>
-        <td>不明</td>
-        <td>一年弟子房-大師兄聊詩琴書畫，不喜歡肩甲。第一年債主上門時，若骰到"不行，得即刻想辦法"可拿給先生看，但會被罵一頓
+        <td>一年弟子房-大師兄聊詩琴書畫，不喜歡肩甲。</td>
+        <td>相關事件：<br>第一年債主上門時，若骰到"不行，得即刻想辦法"<br>可拿給先生看，但會被罵一頓<br>
 （前置：六月上旬四師兄找你開會時骰"難道...是那件事"+"失手燒字畫"）</td>
-        <td></td>
     </tr>
     <tr>
         <td>龍湘的碎銀</td>
@@ -226,7 +226,7 @@ tags:
         <td>小竹按摩券</td>
         <td></td>
         <td></td>
-        <td>(可能和結緣事件差分有關)</td>
+        <td><Girl6Icon>郁竹</Girl6Icon>結緣後，<br>事件差分道具</td>
         <td>事件道具</td>
         <td>第二年崆峒派留學－拜入鐵拳門並季試全勝獎勵</td>
         <td></td>
@@ -289,7 +289,7 @@ tags:
         <td>金念珠</td>
         <td>賣價8000</td>
         <td></td>
-        <td>觸發喪家之犬結局</td>
+        <td>武林盟敗給[[上官隼]]，<br>可觸發喪家之犬結局</td>
         <td>事件道具</td>
         <td>
             <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「谷底生活」](/event/simple/3-05-1-谷底生活)</MarkdownWrapper>中，第五天拾獲物品【🎲≥50 某人的黑歷史】。<br>
@@ -307,6 +307,42 @@ tags:
         <td>
             <MarkdownWrapper>[小師妹回訪](/event/simple/4-01-1-小師妹回訪)</MarkdownWrapper>事件中選擇「烤魚」
         </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>髮簪</td>
+        <td></td>
+        <td></td>
+        <td><Girl6Icon>郁竹</Girl6Icon>結緣後，<br>事件差分道具</td>
+        <td>事件道具</td>
+        <td>雜匠隨機觸發事件</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>磨喝樂 綠</td>
+        <td></td>
+        <td></td>
+        <td>不明</td>
+        <td>不明</td>
+        <td>[[彈珠台]]第二次參獎<br>(30～59分取得)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>磨喝樂 紅</td>
+        <td></td>
+        <td></td>
+        <td>不明</td>
+        <td>不明</td>
+        <td>[[彈珠台]]第二次貳獎<br>(60～99分取得)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>趙活磨喝樂</td>
+        <td></td>
+        <td></td>
+        <td><Girl6Icon>郁竹</Girl6Icon>結緣後，<br>[[慷慨就義]]事件差分道具</td>
+        <td>事件道具</td>
+        <td>雜匠隨機觸發事件，滯銷獲得</td>
         <td></td>
     </tr>
 </table>

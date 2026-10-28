@@ -21,12 +21,12 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
-	<ChTab title="不悅">
+	<ChTab title="不機嫌">
 		<Ch 
 			src='/images/characters/girl_5/angry.webp' 
 			position='center'/>
 		<ChName
-			nameZh='不悅'
+			nameZh='不機嫌'
 			nameEn='Displeased'/>
 	</ChTab>
 	<ChTab title="怒り">
@@ -109,6 +109,54 @@ aside: false
 			nameZh='恥ずかしい'
 			nameEn='Shy'/>
 	</ChTab>
+	<ChTab title="陰鬱">
+		<Ch 
+			src='/images/characters/girl_5/gloomy.webp' 
+			position='center'/>
+		<ChName
+			nameZh='陰鬱'
+			nameEn='Gloomy'/>
+	</ChTab>
+	<ChTab title="無気力">
+		<Ch 
+			src='/images/characters/girl_5/droopy.webp' 
+			position='center'/>
+		<ChName
+			nameZh='無気力'
+			nameEn='Listless'/>
+	</ChTab>
+	<ChTab title="目細">
+		<Ch 
+			src='/images/characters/girl_5/squint.webp' 
+			position='center'/>
+		<ChName
+			nameZh='目細'
+			nameEn='Squint'/>
+	</ChTab>
+	<ChTab title="幼少期">
+		<Ch 
+			src='/images/characters/girl_5/child_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼少期'
+			nameEn='Child'/>
+	</ChTab>
+	<ChTab title="幼少期(笑)">
+		<Ch 
+			src='/images/characters/girl_5/child_laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼少期(笑)'
+			nameEn='Child (Smile)'/>
+	</ChTab>
+	<ChTab title="幼少期(不機嫌)">
+		<Ch 
+			src='/images/characters/girl_5/child_angry1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼少期(不機嫌)'
+			nameEn='Child (Displeased)'/>
+	</ChTab>
 </ChTabs>
 <br>
 
@@ -136,7 +184,7 @@ aside: false
 					年齢
 				</ChTd>
 				<ChTd>
-					推定22～23<br>(第三年)
+					推定25～27<br>(第三年)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -272,10 +320,14 @@ aside: false
 ## 年齢
 
 -   結縁可能な女性キャラの中では最年長である。[^7]
--   第三年招親事件で、[解無塵](/ja/people/characters/special808)は「彼女は二十六、七歳だ。もう中年女性ですよ」と言う。
+-   第二年十月の襄陽行で、[虞小梅](/ja/people/characters/girl3)は「彼女は、彼女は私と同い年じゃない。私より十歳近く年上なのに、どうして比べられるの」と言う。
+-   第三年一月、大師兄について下山した時（[臥雲崗見物](/ja/event/simple/3-01-3-圍觀臥雲崗)）、通行人は「彼女は江湖を渡り歩いて名を上げてからもう十年近くになる。少なく見積もっても二十五、六歳にはなるだろう」と言う。
+-   3年目の小師妹の比武招親で、夏侯蘭に師事していなければ、[解無塵](/ja/people/characters/special808)は「彼女は二十六、七歳だ。もう中年女性ですよ」と言う。
 -   第三年雪山行。本来は七年の約定であったが、夏侯蘭が[趙活](/ja/people/characters/player)に全ての武功を伝授するため、一年早く現れた。
--   夏侯蘭：「師が当時、ちょうど二八年華の時分で……身の潔白を証明するため、旅から戻ってほどなく、師は第三師兄と夫妻となったのです。」
--   解兄の判断はさほど信用ならないため、本人の答えを基準とする。第三年時には22歳(16+6)となるはずで、誤差を考慮すると22～23と推測される。
+-   夏侯蘭：「師が当時、ちょうど情竇初開の頃で……身の潔白を証明するため、旅から戻ってほどなく、師は第三師兄と夫妻となったのです。」
+    -   v1.0.5000 ではこの台詞は「師が当時、ちょうど二八年華の時分で」だった。現在は「情竇初開」に変わったため、年齢を推算し直した。
+-   <MarkdownWrapper>||[葉雲舟](/ja/people/characters/special3)は、妹が[李元棄](/ja/people/characters/special213)から渡された九泉丹を飲んでから今まで「わずか十年」だと言う。李元棄は大師兄、夏侯蘭ら五人の旅の最後に死んだので、旅はおよそ十年前だと分かる。||</MarkdownWrapper>
+-   以上を総合すると、第三年でおよそ25～27歳。
 
 ## 武功
 
@@ -322,11 +374,12 @@ aside: false
 -   名言：「衆生皆死に至り、万物皆殺すべし」
 -   髪帯が左右対称であるかどうかを非常に気にする。
 -   耳環は雪山派の遺物である。
--   2025年の「想い人に色紙を送ろう」投票活動で優勝。公式が雪山派その後の物語の動画を公開した。雪山派は夏侯蘭の指導下で武林七大門派の一つとなり、弟子は天下に満ちた。[^9]
+-   2025年の「想い人に色紙を送ろう」投票活動で優勝。公式が[雪山派その後の物語の動画](https://www.youtube.com/watch?v=yHEq6HJ2YpE)を公開した。雪山派は夏侯蘭の指導下で武林七大門派の一つとなり、弟子は天下に満ちた。[^9]
     -   動画では、師走の雪山で夏侯蘭が幼い頃を思い出す。母に「小梅」と呼ばれ、雪山派の一人娘で将来は大師姉になるのだからおてんばはいけないとたしなめられると、「うちみたいな小さな門派の大師姉なら、少しくらいおてんばでもいいでしょ」と言い返す。父は、きっと母のような天下一の美人になると言う
     -   今の雪山派では、[趙活](/ja/people/characters/player)が夏侯蘭の嫡伝弟子で雪山派の大師兄、しかも子の父になっており、[樊嘯天](/ja/people/characters/special4)が師妹である。最後は弟子たちが「雪山派弟子、掌門をお迎えします！」と出迎える
     -   結びの語りでは、夏侯蘭は「雪山派中興の祖」と讃えられ、雪山派は武林七大門派の一つとして、唐門と姻戚を結び、錦香宮と親しく、崆峒と互角で、上官と肩を並べたとされる
     -   この動画と同じ場面の台本は、2026年10月の大型更新でゲームのデータに収録されたが、ゲーム内で見る経路は無い
+    -   表情タブの〈目細〉と〈幼少期〉の立ち絵三枚は、この動画にしか登場しない
 -   夏侯蘭海捕令資料フォルダ周辺商品文案：[ソース](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
     > 案犯 奪魄幽蘭
     > 心狠手辣殺人如麻
@@ -355,8 +408,5 @@ aside: false
     </div>
 	<div>
         <img src="/images/collab/20241220_toranoana/photo_17.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
-    </div>
-	<div>
-        <img src="/images/characters/girl_5/childhood.webp" alt="幼少期の立ち絵、公式の雪山派後日談動画より" style="width:200px; margin:5px"/>
     </div>
 </div>

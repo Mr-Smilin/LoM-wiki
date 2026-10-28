@@ -18,6 +18,8 @@ tags:
 
 # {{ $frontmatter.title }}
 
+地の文の文体は[イベントページテンプレート](/ja/develop/clean-event-template#文体)の「文体」節に従います。
+
 ```markdown
 ---
 title: キャラクター名

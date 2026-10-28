@@ -246,7 +246,7 @@ tags:
         <td id = "思想戰">思想戦</td>
         <td>1~5?</td>
         <td>決闘開始時、LVに相当するコンボ数を持ち、LVx5の気を獲得</td>
-        <td><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>LV5</td>
+        <td><MarkdownWrapper>[《唐門暗器総綱》](/ja/system/books/book_1000)</MarkdownWrapper>LV4<br><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>LV5</td>
     </tr>
     <tr>
         <td id = "劍界">剣界</td>

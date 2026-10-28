@@ -38,7 +38,7 @@ tags:
 
 > 「そうだ、我々は、白鮫衆だ！ (搜噠，挖咧挖咧挖，喜囉撒妹糾噠！)」
 
-[泥教](/ja/people/factions/mud-school.md)の餓鬼道は東海を横行し、[上官世家](/ja/people/factions/shang-guan-family.md)や朝廷に対抗します。法王[劉顎](/ja/people/characters/special1)は現在海上指名手配第一位で、朝廷が何度も兵を派遣して海賊討伐に当たりましたが、すべて徒労に終わり、今なお彼らの根拠地がどこにあるか知られていません。
+[泥教](/ja/people/factions/mud-school.md)の餓鬼道は東海を横行し、[上官世家](/ja/people/factions/shang-guan-family.md)や朝廷に対抗する。法王[劉顎](/ja/people/characters/special1)は現在海上指名手配第一位で、朝廷が何度も兵を派遣して海賊討伐に当たったが、すべて徒労に終わり、今なお彼らの根拠地がどこにあるか知られていない。
 
 <br>
 
@@ -61,19 +61,19 @@ tags:
 
 - 戸々の窓に活魚を投げ込み、公然と漁商秩序を破壊し、[滄幇](/ja/people/factions/cang-gang.md)に対抗する。
 
-- [上官世家](/ja/people/factions/shang-guan-family.md)が朝廷来使を招宴する日にも魚を投げ込み、[解無塵](/ja/people/characters/special808)にばったり見かけられました。魚が臭うのを嫌い、[上官螢](/ja/people/characters/girl4)の前で格好をつけようと、[劉顎](/ja/people/characters/special1)の前に立ちはだかって成敗しようとしました。ところが[劉顎](/ja/people/characters/special1)は通行人から佩剣をひょいと奪うと、攻めも守りもない、それでいてことごとく急所だけを狙う剣を繰り出し、防がないわけにはいきません。[解無塵](/ja/people/characters/special808)は持ち味を何ひとつ出せないまま、怒りのあまり血を吐いて敗北し、《風雷神腿》を《[つよつよ蹴り](/ja/system/books/book_4002)》へ改名させられ、泣きながら逃げ帰りました。
+- [上官世家](/ja/people/factions/shang-guan-family.md)が朝廷来使を招宴する日にも魚を投げ込み、[解無塵](/ja/people/characters/special808)にばったり見かけられた。魚が臭うのを嫌い、[上官螢](/ja/people/characters/girl4)の前で格好をつけようと、[劉顎](/ja/people/characters/special1)の前に立ちはだかって成敗しようとした。ところが[劉顎](/ja/people/characters/special1)は通行人から佩剣をひょいと奪うと、攻めも守りもない、それでいてことごとく急所だけを狙う剣を繰り出し、防がないわけにはいかない。[解無塵](/ja/people/characters/special808)は持ち味を何ひとつ出せないまま、怒りのあまり血を吐いて敗北し、《風雷神腿》を《[つよつよ蹴り](/ja/system/books/book_4002)》へ改名させられ、泣きながら逃げ帰った。
 
-- 南宮寿宴の時期に、滄幇の船を襲いました。<MarkdownWrapper>||たまたま滄幇の船を襲っただけでしたが、積荷の米が安済坊の貧しい人々に届くはずのものだったと聞くと、官兵に追われながら江陵の町を駆け回り、米をすべて安済坊に投げ込みました。||</MarkdownWrapper>
+- 南宮寿宴の時期に、滄幇の船を襲った。<MarkdownWrapper>||たまたま滄幇の船を襲っただけであったが、積荷の米が安済坊の貧しい人々に届くはずのものだったと聞くと、官兵に追われながら江陵の町を駆け回り、米をすべて安済坊に投げ込んだ。||</MarkdownWrapper>
 
-- [嵩山派](/ja/people/factions/mount-song-sect.md)の南嵩山寺を襲撃し、麺棒で住職を殴り、強制的に街を全裸で走らせ、同役が魚膾を住職の胴体に置いて犬に食べさせ、その日に住職は心の傷で引退しました。<MarkdownWrapper>||釈明は当時雲遊中で、偶然逃れました。||</MarkdownWrapper>
+- [嵩山派](/ja/people/factions/mount-song-sect.md)の南嵩山寺を襲撃し、麺棒で住職を殴り、強制的に街を全裸で走らせ、同役が魚膾を住職の胴体に置いて犬に食べさせ、その日に住職は心の傷で引退した。<MarkdownWrapper>||釈明は当時雲遊中で、偶然逃れた。||</MarkdownWrapper>
 
-- [上官螢](/ja/people/characters/girl4)を拐かそうとしました。[劉顎](/ja/people/characters/special1)は好意で客として招いたと称しますが、ひどく罵倒され、脅して異国に売ると言いました。
+- [上官螢](/ja/people/characters/girl4)を拐かそうとした。[劉顎](/ja/people/characters/special1)は好意で客として招いたと称するが、ひどく罵倒され、脅して異国に売ると言った。
 
-- 地獄道とともに風雨山に赴いて人間道を救い、山に火をつけます。
+- 地獄道とともに風雨山に赴いて人間道を救い、山に火をつける。
 
-- 唐惟元行商の時、<MarkdownWrapper>||もし路線を変えて唐黙鈴を見舞いに行くなら、風雨山に行く餓鬼道に洗いざらい略奪されます。同行の仲間は衣を脱がされ、活魚で乳首を吸わせられ、屈辱極まりません。劉顎は趙活の分で、唐惟元だけは難を逃れますが、事後、同行に恨まれました。||</MarkdownWrapper>
+- 唐惟元行商の時、<MarkdownWrapper>||もし路線を変えて唐黙鈴を見舞いに行くなら、風雨山に行く餓鬼道に洗いざらい略奪される。同行の仲間は衣を脱がされ、活魚で乳首を吸わせられ、屈辱極まりない。劉顎は趙活の分で、唐惟元だけは難を逃れるが、事後、同行に恨まれた。||</MarkdownWrapper>
 
-- 西武林之戦後、[釈明](/ja/people/characters/special826)禅師は[唐門](/ja/people/factions/tang-men.md)の報復を畏れ、片刻も留まらず荷物をまとめて海外に逃げ、白鮫幇に捕まってしまいました。筆舌に尽くしがたい辱めを経験した後、魚腹に葬られました。
+- 西武林之戦後、[釈明](/ja/people/characters/special826)禅師は[唐門](/ja/people/factions/tang-men.md)の報復を畏れ、片刻も留まらず荷物をまとめて海外に逃げ、白鮫幇に捕まってしまった。筆舌に尽くしがたい辱めを経験した後、魚腹に葬られた。
 
 ## 備考
 

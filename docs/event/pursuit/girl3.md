@@ -178,7 +178,7 @@ tags:
     <li><MarkdownWrapper>[對決金烏](/event/simple/3-05-1-對決金烏)</MarkdownWrapper></li>
   </td>
   <td>
-    <li>先確保心上人為<Girl3Icon>虞小梅</Girl3Icon>，條件5與條件6中有多次檢定。</li>
+    <li>先確保心上人為<Girl3Icon>虞小梅</Girl3Icon>，條件6與條件7中有多次檢定。</li>
     <li>金烏鬧事若選擇📖「群而毆之」，連戰皆需勝利。</li>
     <li>對決金烏初戰需獲勝。</li>
     <li>若觸發金烏偷襲，需【🎲≧90 迴避成功】。</li>

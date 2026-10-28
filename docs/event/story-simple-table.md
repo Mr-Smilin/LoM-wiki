@@ -905,6 +905,7 @@ tags:
           [特訓段考](/event/simple/3-12-1-特訓段考)<br>
           [集思廣益](/event/simple/3-12-1-集思廣益)<br>
           [武林盟對策](/event/simple/3-12-1-武林盟對策)<br>
+          [眾人的決策](/event/detailed_description/3-12-1-眾人的決策)<br>
       </MarkdownWrapper>    
   </td>
 </tr>

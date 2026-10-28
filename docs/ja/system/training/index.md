@@ -184,6 +184,7 @@ text: '葉雲裳好感+',
 		<td>
             • 🚩「福韞が唐門にいる」<br>
             • 🚩「掌門が唐門にいる」<br>
+            • <MarkdownWrapper>[福韞との出会い](/ja/event/simple/1-09-2-初識福韞)</MarkdownWrapper>を発生済み<br>
         </td>
 		<td>-</td>
 	</tr>
@@ -1893,7 +1894,10 @@ text: '葉雲裳好感+',
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 15</td>
-		<td>🚩「福韞が唐門にいる」</td>
+		<td>
+            • 🚩「福韞が唐門にいる」<br>
+            • <MarkdownWrapper>[福韞との出会い](/ja/event/simple/1-09-2-初識福韞)</MarkdownWrapper>を発生済み<br>
+        </td>
 		<td>-</td>
 	</tr>
 <tr>
@@ -1912,6 +1916,7 @@ text: '葉雲裳好感+',
 		<td>
             • 🚩「福韞が唐門にいる」<br>
             • 🚩「四師兄が唐門にいる」<br>
+            • <MarkdownWrapper>[福韞との出会い](/ja/event/simple/1-09-2-初識福韞)</MarkdownWrapper>を発生済み<br>
         </td>
 		<td>-</td>
 	</tr>
@@ -2055,7 +2060,10 @@ text: '葉雲裳好感+',
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 30</td>
-		<td>🚩「李富貴が唐門にいる」</td>
+		<td>
+            • 🚩「李富貴が唐門にいる」<br>
+            • <MarkdownWrapper>[李富貴・樊嘯天との出会い](/ja/event/simple/1-09-2-初識李富貴、樊嘯天)</MarkdownWrapper>を発生済み<br>
+        </td>
 		<td>
             🚩「外出で李富貴に遭遇」:<br>
             本行動の後続で李富貴イベントが<br>
@@ -2092,7 +2100,10 @@ text: '葉雲裳好感+',
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 20</td>
-		<td>🚩「李富貴が唐門にいる」</td>
+		<td>
+            • 🚩「李富貴が唐門にいる」<br>
+            • <MarkdownWrapper>[李富貴・樊嘯天との出会い](/ja/event/simple/1-09-2-初識李富貴、樊嘯天)</MarkdownWrapper>を発生済み<br>
+        </td>
 		<td>
             🚩「外出で李富貴に遭遇」:<br>
             本行動の後続で李富貴イベントが<br>
@@ -2116,6 +2127,7 @@ text: '葉雲裳好感+',
 		<td>
             • 🚩「福韞が唐門にいる」<br>
             • 🚩「福韞を殴った」を発生済み<br>
+            • <MarkdownWrapper>[福韞との出会い](/ja/event/simple/1-09-2-初識福韞)</MarkdownWrapper>を発生済み<br>
         </td>
 		<td>-</td>
 	</tr>
@@ -2780,6 +2792,7 @@ text: '葉雲裳好感+',
 		<td>
             • 🚩「龍湘が唐門にいる」<br>
             • 🚩「福韞が唐門にいる」<br>
+            • <MarkdownWrapper>[福韞との出会い](/ja/event/simple/1-09-2-初識福韞)</MarkdownWrapper>を発生済み<br>
         </td>
 		<td>
             🚩「外堡で龍湘/福韞に遭遇」:<br>
@@ -2908,6 +2921,7 @@ text: '葉雲裳好感+',
 		<td>
             🚩「福韞が唐門にいる」<br>
             🚩「外堡で福韞に遭遇」なし<br>
+            <MarkdownWrapper>[福韞との出会い](/ja/event/simple/1-09-2-初識福韞)</MarkdownWrapper>を発生済み<br>
         </td>
 		<td>-</td>
 	</tr>
@@ -2927,6 +2941,7 @@ text: '葉雲裳好感+',
             🚩「葉雲舟が唐門にいる」<br>
             🚩「福韞が唐門にいる」<br>
             🚩「外堡で福韞に遭遇」なし<br>
+            <MarkdownWrapper>[福韞との出会い](/ja/event/simple/1-09-2-初識福韞)</MarkdownWrapper>を発生済み<br>
         </td>
 		<td>-</td>
 	</tr>
@@ -2946,6 +2961,7 @@ text: '葉雲裳好感+',
             🚩「葉雲裳が唐門にいる」<br>
             🚩「福韞が唐門にいる」<br>
             🚩「外堡で福韞に遭遇」なし<br>
+            <MarkdownWrapper>[福韞との出会い](/ja/event/simple/1-09-2-初識福韞)</MarkdownWrapper>を発生済み<br>
         </td>
 		<td>-</td>
 	</tr>

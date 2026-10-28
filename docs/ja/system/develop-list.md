@@ -893,6 +893,25 @@ tags:
     <td style="text-align: center">2950</td>
   </tr>
 
+<tr>
+    <td rowspan=3 style="text-align: center" id = "完竟劍">完竟剣<br><img src="/images/items/swords/icon_sword_90.webp" style="width:100px"></td>
+    <td rowspan=3 style="text-align: center">なし</td>
+    <td style="text-align: center">決闘-攻撃ダメージ</td>
+    <td colspan=11 style="text-align: center">100</td>
+    <td rowspan=3>
+        <li><MarkdownWrapper>[皆の知恵を集める](/ja/event/simple/3-12-1-集思廣益#郁竹意見)</MarkdownWrapper>で小竹を訪ねたとき、<br>【設計図を破棄する】、【俺に剣を一振り造ってくれ】を選ぶと、<br>西武林ルート第4年2月下旬に鍛冶場を訪れた際に入手。</li>
+    </td>
+    <td rowspan=3></td>
+  </tr>
+  <tr>
+    <td style="text-align: center">戦役-近接ダメージ</td>
+    <td colspan=11 style="text-align: center">100</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">戦役-爆発率</td>
+    <td colspan=11 style="text-align: center">15%</td>
+  </tr>
+
 </table>
 
 ## 鍛冶場-装備-防具
@@ -1575,7 +1594,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=8 style="text-align: center" id = "逆鱗宝衣">逆鱗宝衣<br></td>
+    <td rowspan=8 style="text-align: center" id = "逆鱗宝衣">逆鱗宝衣<br><img src="/images/items/equips/icon_equip_24.webp" style="width:100px"></td>
     <td rowspan=8 style="text-align: center">
         <li>軽量化<br>レベル10<br></li>
     </td>
@@ -1712,7 +1731,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=10 style="text-align: center" id = "烏蚕宝衣">烏蚕宝衣<br></td>
+    <td rowspan=10 style="text-align: center" id = "烏蚕宝衣">烏蚕宝衣<br><img src="/images/items/equips/icon_equip_23.webp" style="width:100px"></td>
     <td rowspan=10 style="text-align: center">
         <li>護心鏡<br>レベル10<br></li>
     </td>
