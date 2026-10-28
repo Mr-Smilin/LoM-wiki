@@ -8,6 +8,8 @@ import Twikoo from "./default/Twikoo.vue";
 import Borderless from "./default/Borderless.vue";
 import MetaManager from "./default/MetaManager.vue";
 import EventSeriesNav from "./default/EventSeriesNav.vue";
+// 導入自定義語言選擇器
+import MyLanguageSwitcher from "./MyLanguageSwitcher.vue";
 
 const { Layout } = DefaultTheme;
 const NotFound = defineAsyncComponent(() => import("./default/NotFound.vue"));
@@ -31,6 +33,13 @@ provide('toggle-appearance', async (event) => {
 <template>
 	<Layout>
 		<!-- 其他自定義內容可以放在這裡 -->
+		<!-- 自定義語言選擇器 -->
+		<template #nav-bar-content-after>
+			<MyLanguageSwitcher />
+		</template>
+		<template #nav-screen-content-after>
+			<MyLanguageSwitcher />
+		</template>
 		<template #not-found>
 			<NotFound />
 		</template>
