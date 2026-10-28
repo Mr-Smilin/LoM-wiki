@@ -917,6 +917,7 @@ tags:
     [特訓の段階試験](/ja/event/simple/3-12-1-特訓段考)<br>
     [皆の知恵を集める](/ja/event/simple/3-12-1-集思廣益)<br>
     [武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)<br>
+    [衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)<br>
     </MarkdownWrapper>
   </td>
 </tr>
