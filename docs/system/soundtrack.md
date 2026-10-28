@@ -238,8 +238,15 @@ tags:
   </tbody>
 </table>
 
-## 訪談
+## 幽火的活俠音樂訪談
 
 - [巴哈姆特 - 那些年我做過的配樂案件3..原始鳥熊 Obb studio - 活俠傳](https://forum.gamer.com.tw/C.php?bsn=73317&snA=1488)
 - [Youtube - 「帳中夢守人，感動數萬人」 你不知道的幕後故事，作曲為什麼難以取得生活平衡？](https://www.youtube.com/watch?v=xsuEOoaFWlI)
 - [Youtube - 【活俠傳】完整音樂解析《一呼百諾西武林》，天命難違的趙活，將如何一飛衝天？ ft.幽火](https://youtu.be/frlGGc4KV1o)
+- [Youtube - 【活俠傳】- 子夜寄君書 -最感人的音樂，人氣投票第一名! 原本卻是的美麗誤會 - 幽火的音樂解析](https://www.youtube.com/watch?v=yjVGLuu6dFM)
+- [Youtube - 【活俠傳】-帳中夢守人，半夢半醒其實是賴床？ 幽火的音樂解析](https://www.youtube.com/watch?v=xoAZyDtHqLc)
+- [Youtube - 【活俠傳】某人的傳說-我才不是樹，我是活人！ 幽火的音樂解析](https://www.youtube.com/watch?v=SubF9pJlG2E)
+- [Youtube - 【活俠傳】君所願兮江湖行 最是輕狂不願醒 -被惡作劇造就的狂曲 -幽火的音樂解析](https://www.youtube.com/watch?v=0YSOu8BNfkw)
+- [Youtube - 【活俠傳】-歷劫知俠氣 - 感謝神秘貴人！ 心不屈服，再遠也能到！ -幽火的音樂解析](https://www.youtube.com/watch?v=A1AcrkFfHGM)
+- [Youtube - 【活俠傳】-最崎嶇的路- 賀梅竹線更新！武術交流就是要打穿你的脊椎？ -幽火的音樂解析](https://www.youtube.com/watch?v=Cik5oX1oE1k)
+- [Youtube - 【活俠傳】與作者鳥熊相遇，到主題曲的開發-上集-「走進配樂篇」 ft.幽火](https://youtu.be/C8O17RTUs3U?si=r8QR4ltQOICmAid9)
