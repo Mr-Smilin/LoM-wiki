@@ -110,12 +110,18 @@ tags:
 <tr>
   <td id = "條件4">4</td>
   <td>第二年十月上旬</td>
-  <td><MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper></td>
+  <td>
+      <li><MarkdownWrapper>[江陵決戰準備](/event/simple/2-10-1-江陵決戰準備)</MarkdownWrapper></li>
+      <li><MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper></li>
+  </td>
   <td>
     <li>先確保心上人為<Girl3Icon>虞小梅</Girl3Icon>，且虞小梅好感≥35。</li>
     <li>若無🚩<MarkdownWrapper>[收留葉氏兄妹](/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>，需確保心相＞30。</li>
     <li>
-      選擇「打拳散心」，並符合以下任一條件以進入「林中修練」:<br>
+        若觸發「南宮橫出城」，需選擇📖「我還有點事」，以免進入南宮橫釣魚事件。
+    </li>
+    <li>
+      睡不著時選擇「打拳散心」，並符合以下任一條件以進入「林中修練」:<br>
       1. 離開崆峒時🚩虞小梅送行。<br>
       2. 處世＜40。<br>
     </li>
