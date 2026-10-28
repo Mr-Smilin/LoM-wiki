@@ -68,3 +68,9 @@
         z-index: 1;
     }
 }
+
+/* 隱藏 VitePress 默認的語言選擇器，改用 MyLanguageSwitcher */
+.VPNavBarTranslations,
+.VPNavScreenTranslations {
+    display: none !important;
+}

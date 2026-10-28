@@ -5,21 +5,19 @@ import { useData, useRoute, withBase } from "vitepress";
 const { site, localeIndex } = useData();
 const route = useRoute();
 
-// 非 root 的语言键（zh-hans / en / ja），用于剥离当前 URL 的语言前缀
+// 非 root 的語言鍵（zh-hans / en / ja），用於剝離當前 URL 的語言前綴
 const localeKeys = computed(() =>
     Object.keys(site.value.locales).filter((k) => k !== "root"),
 );
 
-// 根据当前 URL 和目标语言，拼接目标 URL
-// 缺翻译时不查文件，直接拼 → 落到 404 页
-// 在 404 页面上再点其他语言 → 仍能从 URL 拼出正确路径
+// 根據當前語言的 URL 和目標語言拼接 URL
 function resolveLink(targetKey) {
     const base = site.value.base || "/";
     let p = route.path;
     if (p.startsWith(base)) p = p.slice(base.length);
     if (!p.startsWith("/")) p = "/" + p;
 
-    // 剥离当前语言前缀，得到 subPath（如 "/develop/2-vitepress" 或 "/"）
+    // 剝離當前語言前綴，得到 subPath（如 "/develop/2-vitepress" 或 "/"）
     let subPath = p;
     for (const key of localeKeys.value) {
         if (p === `/${key}` || p.startsWith(`/${key}/`)) {
