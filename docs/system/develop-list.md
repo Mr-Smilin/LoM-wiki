@@ -99,7 +99,7 @@ tags:
     <td style="text-align: center">單級鍛造</td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">5</td>
-    <td style="text-align: center">2</td> 
+    <td style="text-align: center">2</td>
     <td style="text-align: center">3</td>
     <td style="text-align: center">4</td>
     <td style="text-align: center">5</td>
@@ -107,7 +107,7 @@ tags:
     <td style="text-align: center">7</td>
     <td style="text-align: center">8</td>
     <td style="text-align: center">9</td>
-    <td style="text-align: center">10</td>   
+    <td style="text-align: center">10</td>
   </tr>
   <tr>
     <td style="text-align: center">累積鍛造</td>
@@ -149,7 +149,7 @@ tags:
     <td style="text-align: center">1600</td>
     <td style="text-align: center">2000</td>
     <td style="text-align: center">2450</td>
-    <td style="text-align: center">2950</td>    
+    <td style="text-align: center">2950</td>
   </tr>
 
   <tr>
@@ -227,7 +227,7 @@ tags:
     <td style="text-align: center">8</td>
     <td style="text-align: center">9</td>
     <td style="text-align: center">10</td>
-    <td style="text-align: center">11</td>    
+    <td style="text-align: center">11</td>
   </tr>
   <tr>
     <td style="text-align: center">累積鍛造</td>
@@ -396,7 +396,7 @@ tags:
     <td style="text-align: center">6400</td>
   </tr>
 
-  
+
   <tr>
     <td rowspan=8 style="text-align: center" id = "瀝泉小劍">瀝泉小劍<br><img src="/images/items/swords/icon_sword_22.webp" style="width:100px"></td>
     <td rowspan=8 style="text-align: center">
@@ -891,6 +891,25 @@ tags:
     <td style="text-align: center">2000</td>
     <td style="text-align: center">2450</td>
     <td style="text-align: center">2950</td>
+  </tr>
+
+<tr>
+    <td rowspan=3 style="text-align: center" id = "完竟劍">完竟劍<br><img src="/images/items/swords/icon_sword_90.webp" style="width:100px"></td>
+    <td rowspan=3 style="text-align: center">無</td>
+    <td style="text-align: center">決鬥-捅人傷害</td>
+    <td colspan=11 style="text-align: center">100</td>
+    <td rowspan=3>
+        <li><MarkdownWrapper>[集思廣益](/event/simple/3-12-1-集思廣益#郁竹意見)</MarkdownWrapper>訪問小竹時，選擇<br>【銷毀圖紙】、【為我造一柄劍吧】，<br>西武林線第四年二月下旬訪問鍛冶場時獲得。</li>
+    </td>
+    <td rowspan=3></td>
+  </tr>
+  <tr>
+    <td style="text-align: center">戰役-近戰傷害</td>
+    <td colspan=11 style="text-align: center">100</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">戰役-爆擊率</td>
+    <td colspan=11 style="text-align: center">15%</td>
   </tr>
 
 </table>
@@ -1575,7 +1594,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=8 style="text-align: center" id = "逆鱗寶衣">逆鱗寶衣<br></td>
+    <td rowspan=8 style="text-align: center" id = "逆鱗寶衣">逆鱗寶衣<br><img src="/images/items/equips/icon_equip_24.webp" style="width:100px"></td>
     <td rowspan=8 style="text-align: center">
         <li>輕量化<br>等級10<br></li>
     </td>
@@ -1712,7 +1731,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=10 style="text-align: center" id = "烏蠶寶衣">烏蠶寶衣<br></td>
+    <td rowspan=10 style="text-align: center" id = "烏蠶寶衣">烏蠶寶衣<br><img src="/images/items/equips/icon_equip_23.webp" style="width:100px"></td>
     <td rowspan=10 style="text-align: center">
         <li>護心鏡<br>等級10<br></li>
     </td>
@@ -1874,7 +1893,7 @@ tags:
     <td style="text-align: center">3750</td>
     <td style="text-align: center">4250</td>
   </tr>
-  
+
 </table>
 
 ## 鍛冶場-暗器-平射
@@ -1947,7 +1966,7 @@ tags:
   </tr>
   <tr>
     <td style="text-align: center">戰役-爆擊率</td>
-    <td style="text-align: center">0%</td>    
+    <td style="text-align: center">0%</td>
     <td style="text-align: center">2%</td>
     <td style="text-align: center">4%</td>
     <td style="text-align: center">6%</td>
@@ -2467,7 +2486,7 @@ tags:
     <td style="text-align: center">4020</td>
     <td style="text-align: center">4560</td>
   </tr>
-  
+
 </table>
 
 ## 鍛冶場-暗器-拋射
@@ -3774,7 +3793,7 @@ tags:
     <td style="text-align: center">48</td>
     <td style="text-align: center">58</td>
     <td style="text-align: center">68</td>
-    <td style="text-align: center">78</td>    
+    <td style="text-align: center">78</td>
   </tr>
   <tr>
     <td style="text-align: center">單級銀兩</td>
@@ -3792,7 +3811,7 @@ tags:
   </tr>
   <tr>
     <td style="text-align: center">累積銀兩</td>
-    <td style="text-align: center">-</td>    
+    <td style="text-align: center">-</td>
     <td style="text-align: center">350</td>
     <td style="text-align: center">700</td>
     <td style="text-align: center">1120</td>
@@ -3926,7 +3945,7 @@ tags:
   </tr>
   <tr>
     <td style="text-align: center">單級煉丹</td>
-    <td style="text-align: center">-</td>    
+    <td style="text-align: center">-</td>
     <td style="text-align: center">5</td>
     <td style="text-align: center">6</td>
     <td style="text-align: center">7</td>
@@ -4123,7 +4142,7 @@ tags:
             不需要真的做出成品。)<br>
         </li>
     </td>
-  </tr>  
+  </tr>
 
 </table>
 
