@@ -249,3 +249,4 @@ tags:
 - [Youtube - 【活俠傳】君所願兮江湖行 最是輕狂不願醒 -被惡作劇造就的狂曲 -幽火的音樂解析](https://www.youtube.com/watch?v=0YSOu8BNfkw)
 - [Youtube - 【活俠傳】-歷劫知俠氣 - 感謝神秘貴人！ 心不屈服，再遠也能到！ -幽火的音樂解析](https://www.youtube.com/watch?v=A1AcrkFfHGM)
 - [Youtube - 【活俠傳】-最崎嶇的路- 賀梅竹線更新！武術交流就是要打穿你的脊椎？ -幽火的音樂解析](https://www.youtube.com/watch?v=Cik5oX1oE1k)
+- [Youtube - 【活俠傳】與作者鳥熊相遇，到主題曲的開發-上集-「走進配樂篇」 ft.幽火](https://youtu.be/C8O17RTUs3U?si=r8QR4ltQOICmAid9)
