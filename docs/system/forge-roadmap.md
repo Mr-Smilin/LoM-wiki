@@ -49,7 +49,6 @@ graph TB
   F -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| B
   G -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
 
-  
   %% 自訂箭頭樣式與文字顏色
   linkStyle 0 stroke:#FFD700,stroke-width:2px
   linkStyle 1 stroke:#FFD700,stroke-width:2px
@@ -96,6 +95,8 @@ graph TB
     D[密密縫<img src="/LoM-wiki/images/items/equips/icon_equip_20.webp"><br>需要：裝備等級10<br>門派規模3]
     E[牛皮制服<img src="/LoM-wiki/images/items/equips/icon_equip_22.webp"><br>需要：裝備等級10<br>門派規模2]
     F[紙甲<img src="/LoM-wiki/images/items/equips/icon_equip_21.webp"><br>需要：裝備等級10<br>門派規模3]
+    G[烏蠶寶衣<img src="/LoM-wiki/images/items/equips/icon_equip_23.webp"><br>需要：裝備等級10]
+    H[逆鱗寶衣<img src="/LoM-wiki/images/items/equips/icon_equip_24.webp"><br>需要：裝備等級10]
   end
 
   %% 升級箭頭（黃色）+ 文字
@@ -104,6 +105,8 @@ graph TB
   A --> D
   A --> E
   B --> F
+  B --> H
+  C --> G
 
   %% 退還箭頭（綠色）+ 文字
   B -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
@@ -111,18 +114,24 @@ graph TB
   D -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   E -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   F -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| B
-  
+  G -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| C
+  H -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| B
+
   %% 自訂箭頭樣式與文字顏色
   linkStyle 0 stroke:#FFD700,stroke-width:2px
   linkStyle 1 stroke:#FFD700,stroke-width:2px
   linkStyle 2 stroke:#FFD700,stroke-width:2px
   linkStyle 3 stroke:#FFD700,stroke-width:2px
   linkStyle 4 stroke:#FFD700,stroke-width:2px
-  linkStyle 5 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 6 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 5 stroke:#FFD700,stroke-width:2px
+  linkStyle 6 stroke:#FFD700,stroke-width:2px
   linkStyle 7 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 8 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 9 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 10 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 11 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 12 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 13 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
 
   %% 設定節點樣式
   classDef default padding:15px,margin:10px,fill:#000,color:#FFF
@@ -132,6 +141,8 @@ graph TB
   style D stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
   style E stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
   style F stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
+  style G stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
+  style H stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
 
 ```
 
@@ -163,7 +174,7 @@ graph TB
   B -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   C -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| B
   D -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
-  
+
   %% 自訂箭頭樣式與文字顏色
   linkStyle 0 stroke:#FFD700,stroke-width:2px
   linkStyle 1 stroke:#FFD700,stroke-width:2px
@@ -209,7 +220,7 @@ graph TB
   B -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   C -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| B
   D -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
-  
+
   %% 自訂箭頭樣式與文字顏色
   linkStyle 0 stroke:#FFD700,stroke-width:2px
   linkStyle 1 stroke:#FFD700,stroke-width:2px
@@ -252,7 +263,7 @@ graph TB
   %% 退還箭頭（綠色）+ 文字
   B -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   C -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
-  
+
   %% 自訂箭頭樣式與文字顏色
   linkStyle 0 stroke:#FFD700,stroke-width:2px
   linkStyle 1 stroke:#FFD700,stroke-width:2px
@@ -293,7 +304,7 @@ graph TB
   B -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   C -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
   D -.->|<font color='#00FF00'>退還消耗鍛造點、貨幣90%</font>| A
-  
+
   %% 自訂箭頭樣式與文字顏色
   linkStyle 0 stroke:#FFD700,stroke-width:2px
   linkStyle 1 stroke:#FFD700,stroke-width:2px
