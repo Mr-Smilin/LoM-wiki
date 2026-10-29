@@ -310,7 +310,11 @@ tags:
 <tr>
     <td rowspan = 2 style="text-align: center">五</td>
     <td style="text-align: center">上</td>
-    <td style="text-align: center">-</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+            神秘人送錢<br>
+        </MarkdownWrapper>
+    </td>
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
             [多人拜師](/event/simple/2-05-1-多人拜師)<br>
@@ -736,7 +740,6 @@ tags:
             </td>
 			<td>
 				<MarkdownWrapper>
-                    神秘人送錢<br>
 				    [建造樹屋](/event/simple/3-05-3-建造樹屋)<br>
 				</MarkdownWrapper>
 			</td>
