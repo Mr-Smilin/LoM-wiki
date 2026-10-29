@@ -10,7 +10,30 @@ tags:
 
 # {{ $frontmatter.title }}
 
-## 唐秀秀
+點擊有名字的弟子可前往個別頁面；無名弟子的事蹟記在本頁下方。
+
+### 有名字的弟子
+
+<div class="mob-index">
+    <a class="mob-card" href="../characters/trainee_girl8.html"><img src="/images/mobs/tang-men/female/traineegirl8_normal.webp" alt="唐秀秀" loading="lazy"><span class="mob-name">唐秀秀</span></a>
+    <a class="mob-card" href="../characters/trainee_girl1.html"><img src="/images/mobs/tang-men/female/traineegirl1_normal.webp" alt="唐敏華" loading="lazy"><span class="mob-name">唐敏華</span></a>
+    <a class="mob-card" href="../characters/special813.html"><img src="/images/mobs/tang-men/female/traineegirl6_normal.webp" alt="唐仙兒" loading="lazy"><span class="mob-name">唐仙兒</span></a>
+</div>
+
+### 無名弟子
+
+<div class="mob-index">
+    <a class="mob-card" href="#唐康的女友"><img src="/images/mobs/tang-men/female/traineegirl8_normal.webp" alt="唐康的女友" loading="lazy"><span class="mob-name">唐康的女友</span></a>
+    <a class="mob-card" href="#志遠湯"><img src="/images/mobs/tang-men/female/traineegirl2_normal.webp" alt="志遠湯" loading="lazy"><span class="mob-name">志遠湯</span></a>
+    <a class="mob-card" href="#伙房偷吃"><img src="/images/mobs/tang-men/female/traineegirl10_normal.webp" alt="伙房偷吃" loading="lazy"><span class="mob-name">伙房偷吃</span></a>
+    <a class="mob-card" href="#瑞笙拜帖兄弟之妻"><img src="/images/mobs/tang-men/female/traineegirl3_normal.webp" alt="瑞笙拜帖兄弟之妻" loading="lazy"><span class="mob-name">瑞笙拜帖兄弟之妻</span></a>
+    <a class="mob-card" href="#後山告白"><img src="/images/mobs/tang-men/female/traineegirl7_normal.webp" alt="後山告白" loading="lazy"><span class="mob-name">後山告白</span></a>
+    <a class="mob-card" href="#後山推人"><img src="/images/mobs/tang-men/female/traineegirl5_normal.webp" alt="後山推人" loading="lazy"><span class="mob-name">後山推人</span></a>
+    <a class="mob-card" href="#使牛毛針的女弟子"><img src="/images/mobs/tang-men/female/traineegirl11_normal.webp" alt="使牛毛針的女弟子" loading="lazy"><span class="mob-name">使牛毛針的女弟子</span></a>
+    <a class="mob-card" href="#其他"><img src="/images/mobs/tang-men/female/traineegirl9_normal.webp" alt="其他" loading="lazy"><span class="mob-name">其他</span></a>
+</div>
+
+## 唐康的女友
 
 <img src="/images/mobs/tang-men/female/traineegirl8_normal.webp" style="width:200px;" />
 <table>
@@ -25,26 +48,6 @@ tags:
     <tr>
         <td>破廟線</td>
         <td>在賊人偷襲唐門當晚看守女弟子房，沒敲門就闖入的話會打死你。</td>
-    </tr>
-    <tr>
-        <td>下山尋人<br>「唐秀秀」</td>
-        <td>得掌門許可下山見峨嵋情郎霍郎，一走就是三年，連房子都蓋好了，就是遲遲沒有成親。<br>與情郎的吵架結果視天命骰而定。如果兩人決裂、趙活殺死情郎，會傷心隨情郎而去。也有可能轉而怪罪趙活，聯手攻擊趙活。<br>為已逝師伯的愛徒，論武功在當今唐門算得上佼佼者，情郎亦非等閒之輩。兩人一同新創一套鴛鴦拳劍譜，雖尚未打磨，卻已可以兩人之力使出比四人共鬥還難纏的拳劍合璧之術。<br>回到唐門後包括小師妹在內的女弟子都很開心。</td>
-    </tr>
-    <tr>
-        <td>夏侯蘭告別</td>
-        <td>與同寢弟子吵架要趙活仲裁，被指控拉對方頭髮。</td>
-    </tr>
-    <tr>
-        <td>武林大會</td>
-        <td>在葉雲舟戰勝聽海生後準備了生龍活虎丹，並改稱葉雲舟為師兄。</td>
-    </tr>
-    <tr>
-        <td>武林大會</td>
-        <td>誤會趙活為宋國皇室宗親。懺悔曾踢過趙活下體。</td>
-    </tr>
-    <tr>
-        <td>滅門線</td>
-        <td>與師弟一同拚死替趙活斷後，被師弟求親，攜手共赴黃泉。<br>「師姊，要是我們能活，妳、妳能不能跟我成親。」「不必活，死了也在一起。」</td>
     </tr>
 </table>
 
@@ -75,52 +78,6 @@ tags:
     <tr>
         <td>西武林</td>
         <td>新唐門十傑。<br>請命護衛代掌門。</td>
-    </tr>
-</table>
-
-## 唐敏華
-
-<img src="/images/mobs/tang-men/female/traineegirl1_normal.webp" style="width:200px;" />
-<table>
-    <tr>
-        <td>段考</td>
-        <td>段考第三個對手，與趙活同期入門。<br>第一次對上時會要求趙活讓著自己，若勝過她便會跟小師妹說趙活壞話，反之，若敗給她，下一次對上時會說不用讓，一人贏一次就不會被二師兄罵了。<br>看著趙活一直不能入室，心裡怪難受的。</td>
-    </tr>
-    <tr>
-        <td>破廟線</td>
-        <td>在賊人偷襲唐門當晚在後山棧道裝地鳴雷，看守講經閣。<br>在抓住闖入者後被南宮己推倒逃逸，又被急著追趕的趙活踩了。</td>
-    </tr>
-    <tr>
-        <td>廣州唐門</td>
-        <td>雖然覺得大師兄英俊隨和，卻在聽到掌門欲傳位大師兄的決定表示難以安心。<br>表示生活不能只靠臉皮，在如今這樣不安穩的世道寧可跟隨踏實的人過日子。</td>
-    </tr>
-    <tr>
-        <td>葉雲裳留下</td>
-        <td>為留下葉雲裳而圍毆葉雲舟，導致葉雲舟獲得浩劫餘生debuff。</td>
-    </tr>
-    <tr>
-        <td>小師妹出嫁</td>
-        <td>小師妹出嫁前教導小師妹相關事項。</td>
-    </tr>
-    <tr>
-        <td>武林大會</td>
-        <td>於錦香宮作客時跟著錦香宮弟子賞花學花藝。</td>
-    </tr>
-    <tr>
-        <td>武林大會</td>
-        <td>在趙活進行武林交際之前說了風涼話，你可以選擇清理門戶。若打輸的話會被餵乖乖水。<br>在龍湘決定幫助錦香宮時勸她考慮清楚。<br>曾被晁和抱住非禮。</td>
-    </tr>
-    <tr>
-        <td>西武林</td>
-        <td>決戰前夕決定把本要縫給大師兄的新衣縫好，燒給大師兄。</td>
-    </tr>
-    <tr>
-        <td>西武林</td>
-        <td>新唐門十傑。<br>請命護衛代掌門。</td>
-    </tr>
-    <tr>
-        <td>西武林<br>「唐敏華」</td>
-        <td>被葉雲舟記得名字，害羞地打了雲舟一下，葉雲舟以為自己被嫌惡了。</td>
     </tr>
 </table>
 
@@ -189,6 +146,20 @@ tags:
     </tr>
 </table>
 
+## 使牛毛針的女弟子
+
+<img src="/images/mobs/tang-men/female/traineegirl11_normal.webp" style="width:200px;" />
+<table>
+    <tr>
+        <td>郁竹入唐門</td>
+        <td>問郁竹是不是真會打鐵，明明是女子。<br>男弟子們向郁竹獻殷勤，她罵他們是一群看人家貌美的豬哥。聽郁竹說刀槍棍劍都能打，也跟著要一柄。</td>
+    </tr>
+    <tr>
+        <td>兵器檢查</td>
+        <td>四師兄宣布兵裝檢後，說自己沒在用脫手鏢，問能不能用牛毛針代替。<br>接著搶著要郁竹先修她的小劍，說裡邊的鋼珠卡住了，郁竹要是不肯，她索性不要這小劍，插在趙活身上便了。</td>
+    </tr>
+</table>
+
 ## 其他
 
 <img src="/images/mobs/tang-men/female/traineegirl9_normal.webp" style="width:200px;" />
@@ -202,3 +173,37 @@ tags:
         <td>拜師比較晚，沒見過大師兄，只知道趙師兄。覺得有趙師兄在，事情總會有辦法解決。<br>佩服歸佩服，但太醜了還是不行。</td>
     </tr>
 </table>
+
+<style>
+/* 立繪要直接放在 a 底下：內文裡父元素不是 a 的圖片，會被留言區的燈箱包上一層連結，卡片的連結就點不動了 */
+.mob-index {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 12px;
+    margin: 16px 0 32px;
+}
+.mob-index .mob-card {
+    display: grid;
+    grid-template-columns: 1fr;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--vp-c-bg-soft);
+    text-decoration: none;
+    color: var(--vp-c-text-1);
+    transition: border-color .2s;
+}
+.mob-index .mob-card:hover { border-color: var(--vp-c-brand-1); }
+.mob-index .mob-card.w2 { grid-column: span 2; grid-template-columns: repeat(2, 1fr); }
+.mob-index .mob-card.w3 { grid-column: span 3; grid-template-columns: repeat(3, 1fr); }
+.mob-index .mob-card img { width: 100%; min-width: 0; height: 200px; object-fit: contain; object-position: 50% 100%; }
+.mob-index .mob-name {
+    grid-column: 1 / -1;
+    padding: 6px 4px;
+    font-size: 14px;
+    line-height: 1.4;
+    text-align: center;
+    border-top: 1px solid var(--vp-c-divider);
+    background: var(--vp-c-bg);
+}
+</style>
