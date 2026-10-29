@@ -282,6 +282,14 @@ aside: false
 
 彼女は方向オンチだから、鈴を付けるのはその一部が迷子防止なのだ。
 
+## 結縁過程
+
+::: warning
+攻略情報を含みます。閲覧は自己責任で。
+:::
+
+詳細は<MarkdownWrapper>[〈唐黙鈴結縁攻略〉](/ja/event/pursuit/girl0)</MarkdownWrapper>を参照。
+
 ## 結縁信物
 
 <SpecialItemIcon :size="`medium`" :needLink="false" :no="1000" />

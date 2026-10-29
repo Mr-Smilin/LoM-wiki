@@ -340,3 +340,7 @@ tags:
         <td></td>
     </tr>
 </table>
+
+## 備考
+- 煉丹房の霊丹の効果は[開発項目一覧](/ja/system/develop-list#煉丹房-霊丹)を参照。
+- 資料出典：https://docs.google.com/spreadsheets/u/0/?authuser=0&usp=sheets_web

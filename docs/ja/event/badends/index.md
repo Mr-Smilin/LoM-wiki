@@ -260,30 +260,6 @@ tags:
             -
         </td>
     </tr>
-    <tr>
-        <td id="生死簿-No.110">
-            <BadendIcon :no="110">生死簿 No.110</BadendIcon>
-        </td>
-        <td>
-            灰燼と消える (灰飛煙滅)
-        </td>
-        <td>
-            想うは公子の往時、小竹は嫁いだばかり、雄姿英発。<br>
-            鉄鎚とマフラー、談笑のうちに、趙活は灰燼と消えた。
-        </td>
-        <td>-</td>
-        <td>
-            <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学する。</li>
-            <li><Girl3Icon>虞小梅</Girl3Icon>ルートで<MarkdownWrapper>[郁竹の帰郷準備](/ja/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper>が発生する。</li>
-            <li>
-                <MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の
-                <MarkdownWrapper>[家族の反目](/ja/event/simple/2-04-2-家人反目)</MarkdownWrapper>で、<br>
-                想い人が<Girl6Icon>郁竹</Girl6Icon>ではなく、👉「小竹の一家をぶん殴る」を選ぶ。<br>
-                続いて発生する🆚「戦：余公子」に勝利し、さらに🆚「戦：郁竹」に敗北する。
-            </li>
-        </td>
-        <td>-</td>
-    </tr>
 </Btable>
 </div>
 
@@ -1683,7 +1659,7 @@ tags:
             -
         </td>
         <td>
-            1. 西武林盟を結成し、<Girl5Icon>夏侯蘭</Girl5Icon>と結縁、武林大会で錦香宮を支援していない（武林大会で<Girl8Icon>龍湘</Girl8Icon>を受け入れると強制的に錦香宮支援になるため、受け入れてはいけない）、丹霞子が唐門に加わっていない（唐惟元を崆峒派への救援要請に派遣して失敗していてはいけない）状態で、唐門囲攻戦で「出撃」を選び、その後の万里鵬程が音波功を使う場面で「門を固く閉じる」を選ぶ。内力≧20かつ性情≧20だと（そうでなければ<BadendIcon :no="84">生死簿84-「恐怖のあまり」</BadendIcon>が発生）<Girl5Icon>夏侯蘭</Girl5Icon>が出撃し、万里鵬程との戦闘で敗北する<br>
+            1. 西武林盟を結成し、<Girl5Icon>夏侯蘭</Girl5Icon>と結縁、武林大会で錦香宮を支援していない（武林大会で<Girl8Icon>龍湘</Girl8Icon>を受け入れると強制的に錦香宮支援になるため、受け入れてはいけない）、丹霞子が唐門に加わっていない（唐惟元を崆峒派への救援要請に派遣して失敗していてはいけない）状態で、唐門囲攻戦で「出撃」を選び、その後の万里鵬程が音波功を使う場面で「門を固く閉ざす」を選ぶ。内力≧20かつ性情≧20だと（そうでなければ<BadendIcon :no="84">生死簿84-「恐怖のあまり」</BadendIcon>が発生）<Girl5Icon>夏侯蘭</Girl5Icon>が出撃し、万里鵬程との戦闘で敗北する<br>
             2. 廃寺ルートで厨房の防衛に敗北した場合も発生
         </td>
         <td>
@@ -2095,7 +2071,7 @@ tags:
             -
         </td>
         <td>
-            西武林盟を結成し、武林大会で錦香宮を支援しておらず（武林大会で<Girl8Icon>龍湘</Girl8Icon>を受け入れると錦香宮支援しか選べなくなるため、受け入れてはいけない）、丹霞子が唐門に加わっていない（唐惟元を崆峒派への救援要請に派遣して失敗していてはいけない）状態で、唐門囲攻戦で「戦略：唐門出撃」を選び、その後の万里鵬程が音波功を使う場面で「門を固く閉じる」を選ぶ。内力<20または性情<20だとそのまま恐怖で死ぬ
+            西武林盟を結成し、武林大会で錦香宮を支援しておらず（武林大会で<Girl8Icon>龍湘</Girl8Icon>を受け入れると錦香宮支援しか選べなくなるため、受け入れてはいけない）、丹霞子が唐門に加わっていない（唐惟元を崆峒派への救援要請に派遣して失敗していてはいけない）状態で、唐門囲攻戦で「戦略：唐門出撃」を選び、その後の万里鵬程が音波功を使う場面で「門を固く閉ざす」を選ぶ。内力<20または性情<20だとそのまま恐怖で死ぬ
         </td>
         <td>
             同意だ
@@ -2667,6 +2643,30 @@ tags:
                 <MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の
                 <MarkdownWrapper>[帰郷の道中](/ja/event/simple/2-04-2-返家路程)</MarkdownWrapper>で、
                 ランダムで<MarkdownWrapper>[「戦：官兵」](/ja/event/simple/2-04-2-返家路程#遇捕快)</MarkdownWrapper>が発生して敗北する。
+            </li>
+        </td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.110">
+            <BadendIcon :no="110">生死簿 No.110</BadendIcon>
+        </td>
+        <td>
+            灰燼と消える (灰飛煙滅)
+        </td>
+        <td>
+            想うは公子の往時、小竹は嫁いだばかり、雄姿英発。<br>
+            鉄鎚とマフラー、談笑のうちに、趙活は灰燼と消えた。
+        </td>
+        <td>-</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学する。</li>
+            <li><Girl3Icon>虞小梅</Girl3Icon>ルートで<MarkdownWrapper>[郁竹の帰郷準備](/ja/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper>が発生する。</li>
+            <li>
+                <MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の
+                <MarkdownWrapper>[家族の反目](/ja/event/simple/2-04-2-家人反目)</MarkdownWrapper>で、<br>
+                想い人が<Girl6Icon>郁竹</Girl6Icon>ではなく、👉「小竹の一家をぶん殴る」を選ぶ。<br>
+                続いて発生する🆚「戦：余公子」に勝利し、さらに🆚「戦：郁竹」に敗北する。
             </li>
         </td>
         <td>-</td>
