@@ -3,7 +3,7 @@
 // import { onMounted } from 'vue';
 import DefaultTheme from "vitepress/theme";
 // 新增 watch 和 nextTick，前者監視404，後者等待dom加載完畢
-import { defineAsyncComponent, provide, computed, watch, nextTick } from "vue";
+import { defineAsyncComponent, provide, computed, watch, nextTick, onMounted } from "vue";
 import { useData } from "vitepress";
 import Twikoo from "./default/Twikoo.vue";
 import Borderless from "./default/Borderless.vue";
@@ -31,6 +31,8 @@ provide('toggle-appearance', async (event) => {
 
 // 直接修正原生語言選擇器的<a>的herf
 const fixLanguageLinks = async () => {
+	// 建置（SSR）時沒有 window，不跑；正常頁的連結 VitePress 本來就算對了，只修 404 頁
+	if (typeof window === "undefined" || !page.value.isNotFound) return;
 	// 等待DOM渲染完畢
     await nextTick(); 
     const base = site.value.base || "/";
@@ -61,8 +63,8 @@ const fixLanguageLinks = async () => {
     for (const key of localeKeys) {
         correctUrls[key] = cleanBase + `/${key}` + (subPath === "/" ? "/" : subPath);
     }
-    // 遍歷語言選擇器下拉菜單，重寫 href
-    const links = document.querySelectorAll('.VPNavBarTranslations a, .VPNavScreenTranslations a');
+    // 遍歷語言選擇器下拉菜單，重寫 href（寬螢幕的語言選單、寬 768～1279 的「…」選單、手機的漢堡選單）
+    const links = document.querySelectorAll('.VPNavBarTranslations a, .VPNavBarExtra .translations a, .VPNavScreenTranslations a');
     links.forEach(link => {
         const labelText = link.textContent.trim();
         const targetKey = Object.keys(site.value.locales).find(
@@ -77,6 +79,12 @@ const fixLanguageLinks = async () => {
 watch(() => page.value.path, fixLanguageLinks, { immediate: true });
 // 404也要處理。
 watch(() => page.value.isNotFound, fixLanguageLinks);
+// 手機的漢堡選單點開時語言連結才產生，換頁時那次碰不到：導覽列裡有元素增減就再修一次
+// （只看增減，不看屬性，改 href 不會再觸發自己）
+onMounted(() => {
+	const nav = document.querySelector(".VPNav");
+	if (nav) new MutationObserver(fixLanguageLinks).observe(nav, { childList: true, subtree: true });
+});
 
 </script>
 
