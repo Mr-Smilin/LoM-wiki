@@ -10,7 +10,35 @@ tags:
 
 # {{ $frontmatter.title }}
 
-## 弱い者いじめ三人組
+名前のある弟子をクリックすると個別ページへ移る。名前のない弟子の出番はこのページの下にまとめてある。
+
+### 名前のある弟子
+
+<div class="mob-index">
+    <a class="mob-card" href="../characters/trainee1.html"><img src="/images/mobs/tang-men/male/trainee1_normal.webp" alt="唐泉/唐与黥" loading="lazy"><span class="mob-name">唐泉/唐与黥</span></a>
+    <a class="mob-card" href="../characters/trainee011.html"><img src="/images/mobs/tang-men/male/trainee11_normal.webp" alt="唐翊" loading="lazy"><span class="mob-name">唐翊</span></a>
+    <a class="mob-card" href="../characters/trainee2.html"><img src="/images/mobs/tang-men/male/trainee2_normal.webp" alt="唐康" loading="lazy"><span class="mob-name">唐康</span></a>
+    <a class="mob-card" href="../characters/trainee3.html"><img src="/images/mobs/tang-men/male/trainee3_normal.webp" alt="唐亜霆" loading="lazy"><span class="mob-name">唐亜霆</span></a>
+    <a class="mob-card" href="../characters/trainee012.html"><img src="/images/mobs/tang-men/male/trainee12_normal.webp" alt="唐皓" loading="lazy"><span class="mob-name">唐皓</span></a>
+    <a class="mob-card" href="../characters/trainee010.html"><img src="/images/mobs/tang-men/male/trainee10_normal.webp" alt="唐牛" loading="lazy"><span class="mob-name">唐牛</span></a>
+    <a class="mob-card" href="../characters/trainee4.html"><img src="/images/mobs/tang-men/male/trainee4_normal.webp" alt="デブ" loading="lazy"><span class="mob-name">デブ</span></a>
+</div>
+
+### 名前のない弟子
+
+<div class="mob-index">
+    <a class="mob-card w3" href="#欺善怕惡三人組"><img src="/images/mobs/tang-men/male/trainee9_normal.webp" alt="弱い者いじめ三人組" loading="lazy"><img src="/images/mobs/tang-men/male/trainee5_normal.webp" alt="弱い者いじめ三人組" loading="lazy"><img src="/images/mobs/tang-men/male/trainee6_normal.webp" alt="弱い者いじめ三人組" loading="lazy"><span class="mob-name">弱い者いじめ三人組</span></a>
+    <a class="mob-card" href="#濃眉黑眼圈師兄"><img src="/images/mobs/tang-men/male/trainee8_normal.webp" alt="濃眉の隈師兄" loading="lazy"><span class="mob-name">濃眉の隈師兄</span></a>
+    <a class="mob-card" href="#段考對手二"><img src="/images/mobs/tang-men/male/trainee7_normal.webp" alt="段階試験の相手その二" loading="lazy"><span class="mob-name">段階試験の相手その二</span></a>
+    <a class="mob-card" href="#改使拳掌的師兄"><img src="/images/mobs/tang-men/male/trainee13_normal.webp" alt="拳掌に鞍替えした師兄" loading="lazy"><span class="mob-name">拳掌に鞍替えした師兄</span></a>
+    <a class="mob-card" href="#嘴賤師兄"><img src="/images/mobs/tang-men/male/trainee14_normal.webp" alt="口の悪い師兄" loading="lazy"><span class="mob-name">口の悪い師兄</span></a>
+    <a class="mob-card w2" href="#裏切り者二人組"><img src="/images/mobs/tang-men/male/trainee20_normal.webp" alt="裏切り者二人組" loading="lazy"><img src="/images/mobs/tang-men/male/trainee24_normal.webp" alt="裏切り者二人組" loading="lazy"><span class="mob-name">裏切り者二人組</span></a>
+    <a class="mob-card w3" href="#三師兄徒弟"><img src="/images/mobs/tang-men/male/trainee23_normal.webp" alt="唐陞の弟子" loading="lazy"><img src="/images/mobs/tang-men/male/trainee22_normal.webp" alt="唐陞の弟子" loading="lazy"><img src="/images/mobs/tang-men/male/trainee31_normal.webp" alt="唐陞の弟子" loading="lazy"><span class="mob-name">唐陞の弟子</span></a>
+    <a class="mob-card" href="#大義分舵"><img src="/images/mobs/tang-men/male/trainee30_normal.webp" alt="大義分舵" loading="lazy"><span class="mob-name">大義分舵</span></a>
+    <a class="mob-card" href="#出使青城"><img src="/images/mobs/tang-men/male/trainee21_normal.webp" alt="青城への使者" loading="lazy"><span class="mob-name">青城への使者</span></a>
+</div>
+
+## 弱い者いじめ三人組 {#欺善怕惡三人組}
 
 <img src="/images/mobs/tang-men/male/trainee9_normal.webp" style="width:200px;" />
 <table>
@@ -21,6 +49,10 @@ tags:
     <tr>
         <td>後山告白事件</td>
         <td>救いようのないルートで、恋文で趙活を後山に呼び出し、闇討ちする。<br>正体は蝴蝶幇の蝴蝶双雄で、朝廷から捕縛令の出ている大盗賊。<br>唐門が蝴蝶幇を滅ぼしたのを恨み、弟子の身分で唐門に潜伏し、この手口で唐門の者を密かに始末している。</td>
+    </tr>
+    <tr>
+        <td>大師兄下山</td>
+        <td>趙活が申屠龍に内力を吸い取られた時の回想の中で、厨房で趙活をいじめる。</td>
     </tr>
 </table>
 
@@ -37,6 +69,10 @@ tags:
     <tr>
         <td>後山告白事件</td>
         <td>救いようのないルートで、恋文で趙活を後山に呼び出し、闇討ちする。<br>正体は蝴蝶幇の蝴蝶双雄で、朝廷から捕縛令の出ている大盗賊。<br>唐門が蝴蝶幇を滅ぼしたのを恨み、弟子の身分で唐門に潜伏し、この手口で唐門の者を密かに始末している。</td>
+    </tr>
+    <tr>
+        <td>大師兄下山</td>
+        <td>趙活が申屠龍に内力を吸い取られた時の回想の中で、厨房で趙活をいじめる。</td>
     </tr>
     <tr>
         <td>小師妹との縁結び</td>
@@ -64,97 +100,7 @@ tags:
     </tr>
 </table>
 
-## 唐泉/唐与鯨
-
-<img src="/images/mobs/tang-men/male/trainee1_normal.webp" style="width:200px;" />
-<table>
-    <tr>
-        <td>贈薬事件</td>
-        <td>趙活が下山して牛を買えるよう、唐惟元に呼ばれて趙活の仕事を代わった。<br>貢献値によって趙活に同情したり不満をこぼしたりする。</td>
-    </tr>
-    <tr>
-        <td>初めての段階試験</td>
-        <td>試験後に趙活と弟子房で談笑する。趙活より入門が浅く、趙活に因縁をつける弟子たちを快く思っていない。</td>
-    </tr>
-    <tr>
-        <td>上官螢の唐門訪問</td>
-        <td>上官螢の拝帖を届ける。上官娘子は美人だと聞いて、自ら迎えに行くと志願し、そのためなら趙活と一戦交えるのも辞さない構えである。</td>
-    </tr>
-    <tr>
-        <td>晁和の唐門入門<br>「唐泉」</td>
-        <td>本姓は李。<MarkdownWrapper>[唐小楼](/ja/people/characters/aunt2)</MarkdownWrapper>に泉児と呼ばれ、唐小楼に一から鍛えられた。師匠同然の存在で、逆らえない。<br>唐小楼の指名で趙活と対練することがある。</td>
-    </tr>
-    <tr>
-        <td>晁和のサボり</td>
-        <td>眠っている趙活を晁和と間違えて殴りつけ、殴ってから人違いに気づいた。</td>
-    </tr>
-    <tr>
-        <td>鬼手事件</td>
-        <td>被害者。ひどく怯え、ずっと「アレ」と呼んで幽霊を指す。<br>後に人数の多さに乗じて幽霊退治についていった。</td>
-    </tr>
-    <tr>
-        <td>練武場の乱闘</td>
-        <td>留学生と口論になり、唐錚の追及の際、先に手を出したと認めた。<br>趙活がかばいに出ると趙活の言い分に話を合わせ、遺恨を水に流してくれた趙活に感謝した。</td>
-    </tr>
-    <tr>
-        <td>趙活の出奔<br>「唐与鯨」</td>
-        <td>本姓は陳。留学後に唐姓に改め、掌門を師とした。</td>
-    </tr>
-    <tr>
-        <td>廃廟ルート</td>
-        <td>賊が唐門を夜襲した晩、後山の桟道に地鳴雷を仕掛け、講経閣を見張った。</td>
-    </tr>
-    <tr>
-        <td>江陵馳援</td>
-        <td>江陵到着前夜に彼と手合わせできる。負けると、趙活に暗器のコツを教えてくれる。</td>
-    </tr>
-    <tr>
-        <td>飛石幇との交戦</td>
-        <td>飛石幇との戦闘後に飛石幇を追撃しようとして、逆に伏兵の警告を受けた。<br>唐錚が「部外者は下がれ」と言った時、身の程をわきまえてさっと下がり、ついでに同じく部外者の趙活を連れて行った。</td>
-    </tr>
-    <tr>
-        <td>広州唐門</td>
-        <td>唐錚の離反後、趙活を呼んで代掌門に会わせる。掌門を護衛した趙活の行動に敬服し、趙活を師兄と呼び改めた。</td>
-    </tr>
-    <tr>
-        <td>小師妹の嫁入り</td>
-        <td>すでに古参と言える身で、昼は賓客の世話、夜は夜警も務める。<br>辛儒の嫁入りの時はまだ唐門に入っておらず、趙活と昔話をする。</td>
-    </tr>
-    <tr>
-        <td>小師妹との縁結び</td>
-        <td>見張りを任されながら自ら盗みを働いた趙活を、痛めつけた一人。</td>
-    </tr>
-    <tr>
-        <td>武林大会</td>
-        <td>錦香宮に客として滞在中、同門と兄弟同然の仲だったのに、錦香宮の許姑娘をめぐって嫉妬合戦になった。<br>許姑娘に鏡を贈った。</td>
-    </tr>
-    <tr>
-        <td>武林大会</td>
-        <td>趙活が武林交際を行う前に嫌味を言い、門戸の清掃 (制裁) を選択できる。負けると乖乖水を飲まされる。<br>龍湘を助けに行こうとした趙活のセリフを横取りした。<br>晁和はまだ彼に借金がある。</td>
-    </tr>
-    <tr>
-        <td>武林大会</td>
-        <td>帰路で蛇に噛まれ、体内の胡椒粉毒で逆に蛇が死んだ。破廟で雨宿りする際、その蛇を供出して蛇肉スープを作った。<br>常にサイコロを懐に忍ばせており、賭場に投壺の要素を加えることを提案する。</td>
-    </tr>
-    <tr>
-        <td>西武林</td>
-        <td>決戦前夜、死んだ後に敵に使われないよう、貯金を使い果たすことにした。</td>
-    </tr>
-    <tr>
-        <td>西武林</td>
-        <td>新唐門十傑。<br>代掌門の護衛を自ら願い出た。</td>
-    </tr>
-    <tr>
-        <td>西武林<br>「那誰 (あいつ)」</td>
-        <td>葉雲裳に呼ばれて一緒に罠を仕掛けに行った。「那誰」は雲裳が勝手につけたあだ名である。</td>
-    </tr>
-    <tr>
-        <td>西武林</td>
-        <td>瑞笙が大院に現れた時、無鉄砲に瑞笙へ攻撃を仕掛け、腕に毒針を受けて痺れて倒れた。</td>
-    </tr>
-</table>
-
-## 濃眉の隈師兄
+## 濃眉の隈師兄 {#濃眉黑眼圈師兄}
 
 <img src="/images/mobs/tang-men/male/trainee8_normal.webp" style="width:200px;" />
 <table>
@@ -196,89 +142,7 @@ tags:
     </tr>
 </table>
 
-## 唐翊/濃眉2
-
-<img src="/images/mobs/tang-men/male/trainee11_normal.webp" style="width:200px;" />
-<table>
-    <tr>
-        <td>廃廟ルート<br>「唐翊」</td>
-        <td>急報の後に唐錚の毒で気絶した趙活を起こしに来たが、棍棒で趙活を叩いていた雲裳に濡れ衣を着せられた。<br>雲裳は趙活に特に容赦がない、たぶん顔のせいだと思っている。唐門の女弟子は随分と気が強いと感じている。<br>唐錚の伝言「無駄口を叩くな！」を伝え、アドリブで平手打ちを追加した。<br>賊が唐門を夜襲した晩、男弟子房の中で見張りを担当し、趙活の応援を断った。何度も弟子房に入ると手違いで殴り殺される。<br>趙活が練武場に堂々と立って待ち伏せることを選ぶと、趙活を蹴り出す。<br>人質を捕らえた後、唐錚に指名されて毒砂の甕の準備を手伝った。</td>
-    </tr>
-    <tr>
-        <td>青城留学</td>
-        <td>最初は登場するものの、途中から姿が見えなくなる。</td>
-    </tr>
-    <tr>
-        <td>武林大会</td>
-        <td>趙活より入門は遅いものの、先に入室した。江湖に出て長く、趙活よりも早い。唐姓で唐惟元より下の存命でまだ去っていない者では、彼が最古参である。<br>趙活は小さい頃から老け顔で、10歳の子供が50歳のおばさんに見えたと言い、当時なぜ趙活が青衣を着ているのか不思議に思ったそうだ。<br>いつまでも名を成せず、帰路の破廟で雨宿りする際、引退の考えを口にした。<br>「来る時は意気軒昂だったのに、帰る時は意気消沈。胸の熱い血も、もうたぎることはなくなったようだ。今の江湖に、命を賭ける価値のある何が残っているというのか？」</td>
-    </tr>
-</table>
-
-- 隈師兄とよく似ていて、どちらも眉が濃いが、よく見ると別人である。隈がなく、髪の結い方も違う。
-
-## 唐康
-
-<img src="/images/mobs/tang-men/male/trainee2_normal.webp" style="width:200px;" />
-<table>
-    <tr>
-        <td>初めての段階試験</td>
-        <td>試験後に趙活と弟子房で談笑する。趙活より入門が浅く、趙活に因縁をつける弟子たちを快く思っていない。</td>
-    </tr>
-    <tr>
-        <td>晁和殴打事件</td>
-        <td>交際中の師妹に自分は唐布衣と互角だと自慢し、彼女の言うことを聞いて趙活に立ち向かう。勝つと男女弟子の大戦になり、二人は別れ、相次いで別れを告げて去っていく。</td>
-    </tr>
-    <tr>
-        <td>晁和の唐門入門</td>
-        <td><MarkdownWrapper>[唐小楼](/ja/people/characters/aunt2)</MarkdownWrapper>の過去を説明し、掌門は晁和の加入を認めるだろうと予測した。</td>
-    </tr>
-    <tr>
-        <td>煉丹房爆発</td>
-        <td>晁和の煉丹房爆破に巻き込まれ、趙活に支えられて目を洗いに行った。</td>
-    </tr>
-    <tr>
-        <td>鬼手事件</td>
-        <td>被害者。趙活が幽霊退治に行くのを見て、面子が立たないと幽霊退治に加わった。</td>
-    </tr>
-    <tr>
-        <td>趙活の出奔<br>「唐康」</td>
-        <td>本姓は皮。留学後に唐姓に改め、掌門を師とした。</td>
-    </tr>
-    <tr>
-        <td>小師妹の婿取り</td>
-        <td>趙活と簪を挿す風習について雑談した際、父が当時、贈り物を持って母の家に求婚に行き、一度に二人の妻を娶って帰ったと語った。</td>
-    </tr>
-    <tr>
-        <td>小師妹との縁結び</td>
-        <td>見張りを任されながら自ら盗みを働いた趙活を、痛めつけた一人。</td>
-    </tr>
-    <tr>
-        <td>雲裳谷落ち</td>
-        <td>葉雲舟と一緒に雲裳を探す。<br>趙活と雲裳は九分九厘駄目だと思いつつ、憔悴した葉雲舟を見ていられず、軽功の稽古と思って納得のいくまで付き合った。<br>段智秀が唐門の小剣を無理やり娶るのではと心配している。</td>
-    </tr>
-    <tr>
-        <td>武林大会</td>
-        <td>錦香宮に客として滞在中、同門と兄弟同然の仲だったのに、錦香宮の許姑娘をめぐって嫉妬合戦になった。<br>許姑娘に小遣いをあげた。</td>
-    </tr>
-    <tr>
-        <td>武林大会</td>
-        <td>趙活が錦香宮の救援に向かった後、その場の唐門で一番偉い立場になり、自分は錦香宮を助けに行く、他の者は各自判断しろと言った。</td>
-    </tr>
-    <tr>
-        <td>武林大会</td>
-        <td>帰路の破廟で雨宿りする際、江陵大戦の頃はまだ入門したばかりだったと語った。<br>江湖の荒波に足を踏み入れたことをとっくに後悔している。</td>
-    </tr>
-    <tr>
-        <td>西武林<br>「誰誰 (だれそれ)」</td>
-        <td>葉雲裳に呼ばれて一緒に罠を仕掛けに行った。「誰誰」は雲裳が勝手につけたあだ名である。</td>
-    </tr>
-    <tr>
-        <td>西武林</td>
-        <td>新唐門十傑。<br>代掌門の護衛を自ら願い出た。</td>
-    </tr>
-</table>
-
-## 段階試験の相手その二
+## 段階試験の相手その二 {#段考對手二}
 
 <img src="/images/mobs/tang-men/male/trainee7_normal.webp" style="width:200px;" />
 <table>
@@ -296,59 +160,31 @@ tags:
     </tr>
 </table>
 
-## 唐亞霆
+## 拳掌に鞍替えした師兄 {#改使拳掌的師兄}
 
-<img src="/images/mobs/tang-men/male/trainee3_normal.webp" style="width:200px;" />
+<img src="/images/mobs/tang-men/male/trainee13_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>晁和の薪割りサボり事件</td>
-        <td>突き出た顎で晁和を見分け、晁和の嘘を信じた。</td>
+        <td>郁竹、唐門に入る</td>
+        <td>郁竹に噂の裂骨魔かと尋ねる。郁竹が留学に来たと聞いて大歓迎し、神兵利器を一振り打ってほしいと頼む。<br>同門が騒ぎ立てた時に、郁竹が急に怒鳴ったので驚いたと同調することがある。</td>
     </tr>
     <tr>
-        <td>鬼手事件</td>
-        <td>被害者。手が暗がりの奥から伸びてきてまた飛んで戻るのを目撃した。<br>みんな幽霊退治に行ってしまい、家に誰もいないのが怖いので、自分も幽霊退治についていった。</td>
-    </tr>
-    <tr>
-        <td>練武場の乱闘</td>
-        <td>唐錚は口だけだと思っていたが、唐布衣がとりなしに現れた時、初めて怒った唐錚を目の当たりにした。</td>
-    </tr>
-    <tr>
-        <td>趙活の出奔<br>「唐亞霆」</td>
-        <td>本姓は許。留学後に唐姓に改め、掌門を師とした。</td>
-    </tr>
-    <tr>
-        <td>広州唐門</td>
-        <td>趙活が防がなければ、交渉決裂時に広州唐門の暗器の不意打ちを受ける。</td>
-    </tr>
-    <tr>
-        <td>小師妹の嫁入り</td>
-        <td>唐黙鈴の比武招親に乱入しようとした葉雲裳を趙活が説得して連れ戻した後、師門の危機を収めた趙活にとても丁寧に話す。<br>雲裳に痛い目に遭わされて初めて、この世で一番つらい仕事は雲裳と揉み合うことだと知ったと言う。</td>
-    </tr>
-    <tr>
-        <td>小師妹との縁結び</td>
-        <td>見張りを任されながら自ら盗みを働いた趙活を、痛めつけた一人。</td>
-    </tr>
-    <tr>
-        <td>武林大会</td>
-        <td>同門の師妹たちについて錦香宮弟子と花見をする。狙いは花ではない。<br>「君たちは花を愛でる。俺は君たちの花のような顔を愛でる。」</td>
-    </tr>
-    <tr>
-        <td>西武林</td>
-        <td>李富貴と福韞が唐門を訪れた時、慌てふためいて趙活に知らせに来た。<br>相手が少人数でとても礼儀正しいのにすでに緊張しきっており、もし相手が無礼だったらそのまま驚き死にして、山に登って報告もできなかったと白状する。</td>
-    </tr>
-    <tr>
-        <td>西武林</td>
-        <td>瑞笙が大院に現れた時、無鉄砲に瑞笙へ攻撃を仕掛け、攻撃を受けた際に趙活か唐布衣に守られた。<br>驚いて気絶した。</td>
+        <td>兵器の点検</td>
+        <td>護腕は面倒だと着けたことがなく、どこへやったかもわからない。制服にも穴が開いている。唐惟元が兵装の点検を告げると、金を上乗せするから先に装備を揃えてくれと趙活に泣きつく。<br>点検当日の反応は、趙活が鍛冶場でどこまで手伝ったかで変わる。<br>最後まで手伝った場合は、これで安心だと礼を言う。留学で他派の武功を学んで拳掌に鞍替えしたので、唐門の支給品は制服しか残っていなかったと明かす。<br>手伝えるだけ手伝った場合は、礼は言うものの、急ごしらえで使えるだけだと言う。<br>途中で投げ出された場合は、装備が揃わなかったのは趙活のせいだと責める。<br>手伝わなかった場合は、冷や汗をかくほど緊張しており、今も護腕を着けている趙活にわけを聞く。こうしていると唐門弟子らしい気がすると聞いて、「お前はもともと唐門弟子だ。何も着ないで素っ裸でも唐門弟子だ」と返す。</td>
     </tr>
 </table>
 
-## 唐皓
+## 口の悪い師兄 {#嘴賤師兄}
 
-<img src="/images/mobs/tang-men/male/trainee12_normal.webp" style="width:200px;" />
+<img src="/images/mobs/tang-men/male/trainee14_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>廃廟ルート<br>「唐皓」</td>
-        <td>賊が唐門を夜襲した晩に厨房を見張っていたが、それに乗じてつまみ食いをし、美味しいものを食べ尽くして侵入者のせいにしようとした。趙活に見つかると、趙活を共犯に仕立てる。<br>梁から落ちて侵入者を圧死させ、骨折した模様である。</td>
+        <td>郁竹、唐門に入る</td>
+        <td>郁竹には借金もたっぷりあると口を挟み、言い当てる。「趙師弟みたいな醜男とつるむのはやめて、俺はどうだ」と言い寄り、郁竹に「ぶん殴られたいの？」と怒鳴られる。<br>その後、趙活が郁竹にどんな惚れ薬を盛ったのかと愚痴る。同門ににらまれて女弟子に口の悪さを咎められると、昔はみんなで趙活を笑いものにしていたじゃないかと言い訳することがある。</td>
+    </tr>
+    <tr>
+        <td>兵器の点検</td>
+        <td>唐惟元が告げた点検の罰則を聞いて、基本の四品が一つもなければ死ぬまでしごかれると嘆く。</td>
     </tr>
 </table>
 
@@ -378,51 +214,7 @@ tags:
     </tr>
 </table>
 
-## 唐牛
-
-<img src="/images/mobs/tang-men/male/trainee10_normal.webp" style="width:200px;" />
-<table>
-    <tr>
-        <td>下山して人探し「唐牛」</td>
-        <td>かつて包丁と花椒を得意とした唐門の名料理人。当時は包丁さばきで人を斬るのも野菜を刻むのも同じくらい鮮やかだった。<br>下山して7年、妻を娶って家庭を築いたが、今なお唐門の制服を着続け、いつか唐門に戻れる日を待ち望んでいる。</td>
-    </tr>
-    <tr>
-        <td>小師妹の嫁入り</td>
-        <td>かつての仲間を率いて唐黙鈴の婚礼料理を取り仕切り、食材費しか受け取らない。<br>料理は美味しく、賓客は絶賛しきりだった。</td>
-    </tr>
-</table>
-
-## 肥肥
-
-<img src="/images/mobs/tang-men/male/trainee4_normal.webp" style="width:200px;" />
-<table>
-    <tr>
-        <td>広州唐門</td>
-        <td>唐錚の離反時に正心堂に入り、趙活と鉢合わせした。唐錚を恐れて、唐錚捕縛の命令に従えなかった。</td>
-    </tr>
-    <tr>
-        <td>小師妹の嫁入り</td>
-        <td>屋根の上で求婚者の比武を見物中に押し合いになり、唐門弟子の集団転落を引き起こした。<br>趙活は罪悪感が消えるまで正座を命じたが、彼はたった3秒で立ち上がった。<br>罰金を要求すると、彼が大金を持っていることがわかる。</td>
-    </tr>
-    <tr>
-        <td>小師妹との縁結び</td>
-        <td>見張りを任されながら自ら盗みを働いた趙活を、痛めつけた一人。</td>
-    </tr>
-    <tr>
-        <td>武林大会</td>
-        <td>趙活を宋国皇室の宗親と誤解する。かつて趙活に窃盗の濡れ衣を着せたことを懺悔する。</td>
-    </tr>
-    <tr>
-        <td>武林大会「肥肥」</td>
-        <td>温夫人が雲裳に琴を贈り、彼が預かることになった。<br>雲裳が「肥肥」というあだ名をつけてくれたおかげで、今では彼の本当の名前を覚えている者は誰もいない。</td>
-    </tr>
-    <tr>
-        <td>西武林</td>
-        <td>武林盟が東から来た日、南宮深らが唐門に近づくのを阻止し、晁和が虎の威を借りて粋がった時には平手打ち一発で化けの皮を剥がした。</td>
-    </tr>
-</table>
-
-## 唐陞の弟子
+## 唐陞の弟子 {#三師兄徒弟}
 
 <img src="/images/mobs/tang-men/male/trainee23_normal.webp" style="width:200px;" />
 <table>
@@ -444,7 +236,15 @@ tags:
     </tr>
 </table>
 
-## 大義分舵
+<img src="/images/mobs/tang-men/male/trainee31_normal.webp" style="width:200px;" />
+<table>
+    <tr>
+        <td>夏侯蘭の武芸談義</td>
+        <td>内戦の後に唐陞が新しく取った弟子で、天資に恵まれている。趙活を師兄と呼ぶ。<br>唐門に住む夏侯蘭が練武場へ趙活を探しに来ると、美人の前でいいところを見せようと張り切って技を繰り出し、武功の講評まで求める。酷評されると食ってかかる。<br>夏侯蘭が自ら手を下し、肋骨にひびを入れられることがある。煉丹房で目覚めても破る手が思いつかず、師兄ならどう受けるかと趙活に不意打ちを仕掛ける。趙活が食らった場合は、師兄でも受けられない技だと思い込む。趙活がかわして心構えの隙を指摘した場合は悟りを開き、傷が治ってから夏侯蘭に礼を言いに行って、また肋骨を一本折られる。趙活が手を出して懲らしめた場合は、助かってからは夏侯蘭と趙活の師弟を見ると震えるようになるか、趙活に殴り殺されて崖から突き落とされる。<br>夏侯蘭が代わりに趙活と手合わせして見せることもあり、その時は小師叔と並んで見物する。趙活が勝つと、二人のうち一人は十年後に《美女醜男拳》をまとめ上げ、もう一人は二十年かけて会得し当代の達人になる。</td>
+    </tr>
+</table>
+
+## 大義分舵 {#大義分舵}
 
 <img src="/images/mobs/tang-men/male/trainee30_normal.webp" style="width:200px;" />
 <table>
@@ -454,7 +254,7 @@ tags:
     </tr>
 </table>
 
-## 青城への使者
+## 青城への使者 {#出使青城}
 
 <img src="/images/mobs/tang-men/male/trainee21_normal.webp" style="width:200px;" />
 <table>
@@ -467,3 +267,37 @@ tags:
         <td>青城への使者を務める。<br>自分は本門一の命惜しみで、雲行きが怪しくなるまでもなく、相手が眉をひそめただけで逃げ出すと言う。</td>
     </tr>
 </table>
+
+<style>
+/* 立ち絵は a の直下に置く。親が a でない本文中の画像はコメント欄の拡大表示用リンクで包まれ、カードのリンクが効かなくなる */
+.mob-index {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 12px;
+    margin: 16px 0 32px;
+}
+.mob-index .mob-card {
+    display: grid;
+    grid-template-columns: 1fr;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--vp-c-bg-soft);
+    text-decoration: none;
+    color: var(--vp-c-text-1);
+    transition: border-color .2s;
+}
+.mob-index .mob-card:hover { border-color: var(--vp-c-brand-1); }
+.mob-index .mob-card.w2 { grid-column: span 2; grid-template-columns: repeat(2, 1fr); }
+.mob-index .mob-card.w3 { grid-column: span 3; grid-template-columns: repeat(3, 1fr); }
+.mob-index .mob-card img { width: 100%; min-width: 0; height: 200px; object-fit: contain; object-position: 50% 100%; }
+.mob-index .mob-name {
+    grid-column: 1 / -1;
+    padding: 6px 4px;
+    font-size: 14px;
+    line-height: 1.4;
+    text-align: center;
+    border-top: 1px solid var(--vp-c-divider);
+    background: var(--vp-c-bg);
+}
+</style>
