@@ -25,5 +25,5 @@ tags:
 </EndBackground>
 
 ## 條件與流程
-1. 照[〈郁竹結緣攻略〉](/event/pursuit/girl6)進行到第三年五月上旬金烏事變。
+1. 照[〈郁竹結緣攻略〉](/event/pursuit/girl6)進行到第三年五月上旬崆峒爭奪戰。
 2. 戰局惡化後，<Girl6Icon>郁竹</Girl6Icon>折回來撲進你懷裡時，選擇**📖「我們逃跑吧」**，進入結局。

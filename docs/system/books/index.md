@@ -175,7 +175,7 @@ tags:
         <td>刀劍10<br>輕功12<br>風刀<br>火劍</td>
         <td>80</td>
         <td>內力&gt;=60</td>
-        <td><MarkdownWrapper>金烏事變前往崆峒的路上，[[丹霞子]]好感≧30獲得</MarkdownWrapper></td>
+        <td><MarkdownWrapper>崆峒爭奪戰前往崆峒的路上，[[丹霞子]]好感≧30獲得</MarkdownWrapper></td>
         <td></td>
     </tr>
     <tr>

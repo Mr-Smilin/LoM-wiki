@@ -40,7 +40,7 @@ tags:
 { text: '【青城留學】' },
 { text: '【小梅綁架】' },
 { text: '【隨四師兄行商】' },
-{ text: '【金烏事變】' },
+{ text: '【崆峒爭奪戰】' },
 { text: '【離開唐門】' },
 { text: '【戰死】' },
 { text: '【遣散唐門】' },
@@ -755,9 +755,9 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 56</td>
     <td><EndIcon no="56">平凡的悲劇</EndIcon></td>
     <td>
-        <span style="color: #FF8C00;">【金烏事變】</span>
+        <span style="color: #FF8C00;">【崆峒爭奪戰】</span>
         <span style="color: #70AA39;">【郁竹】</span><br>
-        金烏事變戰局惡化時，和郁竹一起逃下崆峒。
+        崆峒爭奪戰中局勢惡化時，和郁竹一起逃下崆峒。
     </td>
 </tr>
 
@@ -765,9 +765,9 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 57</td>
     <td><EndIcon no="57">神不在的證明</EndIcon></td>
     <td>
-        <span style="color: #FF8C00;">【金烏事變】</span>
+        <span style="color: #FF8C00;">【崆峒爭奪戰】</span>
         <span style="color: #FF2D51;">【虞小梅】</span><br>
-        金烏事變時在半雨屏與虞小梅決鬥敗戰。
+        崆峒爭奪戰時在半雨屏與虞小梅決鬥敗戰。
     </td>
 </tr>
 
@@ -775,9 +775,9 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 58</td>
     <td><EndIcon no="58">修仙</EndIcon></td>
     <td>
-        <span style="color: #FF8C00;">【金烏事變】</span>
+        <span style="color: #FF8C00;">【崆峒爭奪戰】</span>
         <span style="color: #FF2D51;">【虞小梅】</span><br>
-        金烏事變時在半雨屏沒能喚醒虞小梅。
+        崆峒爭奪戰時在半雨屏沒能喚醒虞小梅。
     </td>
 </tr>
 
@@ -785,9 +785,9 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 59</td>
     <td><EndIcon no="59">自創武功</EndIcon></td>
     <td>
-        <span style="color: #FF8C00;">【金烏事變】</span>
+        <span style="color: #FF8C00;">【崆峒爭奪戰】</span>
         <span style="color: #70AA39;">【郁竹】</span><br>
-        金烏事變後探望郁竹時，說掌派人迎娶四姝是傳統美德。
+        崆峒爭奪戰後探望郁竹時，說掌派人迎娶四姝是傳統美德。
     </td>
 </tr>
 
@@ -795,9 +795,9 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 60</td>
     <td><EndIcon no="60">崆峒掌派人</EndIcon></td>
     <td>
-        <span style="color: #FF8C00;">【金烏事變】</span>
+        <span style="color: #FF8C00;">【崆峒爭奪戰】</span>
         <span style="color: #FF2D51;">【虞小梅】</span><br>
-        金烏事變中喚醒虞小梅，事後探望時不讓她離開。
+        崆峒爭奪戰中喚醒虞小梅，事後探望時不讓她離開。
     </td>
 </tr>
 
@@ -805,10 +805,10 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>結局 61</td>
     <td><EndIcon no="61">崆峒掌派人</EndIcon></td>
     <td>
-        <span style="color: #FF8C00;">【金烏事變】</span>
+        <span style="color: #FF8C00;">【崆峒爭奪戰】</span>
         <span style="color: #FF2D51;">【虞小梅】</span>
         <span style="color: #70AA39;">【郁竹】</span><br>
-        金烏事變後，辭別崆峒時接任崆峒掌派人。
+        崆峒爭奪戰後，辭別崆峒時接任崆峒掌派人。
     </td>
 </tr>
 
