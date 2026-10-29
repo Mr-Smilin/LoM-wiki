@@ -198,7 +198,7 @@ tags:
         <td id = "大師兄的塗鴉">大師兄的塗鴉</td>
         <td></td>
         <td></td>
-        <td>雜匠隨機觸發事件，<br>打造<MarkdownWrapper>[逆鱗寶衣](i/system/develop-list)</MarkdownWrapper></td>
+        <td>雜匠隨機觸發事件，<br>打造<MarkdownWrapper>[逆鱗寶衣](/system/develop-list)</MarkdownWrapper></td>
         <td>不明</td>
         <td>一年弟子房-大師兄聊詩琴書畫，不喜歡肩甲。</td>
         <td>相關事件：<br>第一年債主上門時，若骰到"不行，得即刻想辦法"<br>可拿給先生看，但會被罵一頓<br>
@@ -219,7 +219,7 @@ tags:
         <td></td>
         <td>不明</td>
         <td>不明</td>
-        <td>拜夏侯蘭為師<MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>全勝，可能遇有其他條件（好感/性情/處世？）</td>
+        <td>拜夏侯蘭為師&<MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>全勝，可能遇有其他條件（好感/性情/處世？）</td>
         <td></td>
     </tr>
     <tr>
@@ -228,7 +228,7 @@ tags:
         <td></td>
         <td><Girl6Icon>郁竹</Girl6Icon>結緣後，<br>事件差分道具</td>
         <td>事件道具</td>
-        <td>第二年崆峒派留學－拜入鐵拳門<MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>全勝獎勵</td>
+        <td>第二年崆峒派留學－拜入鐵拳門&<MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>全勝獎勵</td>
         <td></td>
     </tr>
     <tr>
@@ -289,7 +289,7 @@ tags:
         <td id = "金念珠">金念珠</td>
         <td>賣價8000</td>
         <td></td>
-        <td>武林盟敗給<MarkdownWrapper>[上官隼]</MarkdownWrapper>，<br>可觸發喪家之犬結局</td>
+        <td>武林盟敗給<MarkdownWrapper>[上官隼](/people/characters/special407)</MarkdownWrapper>，<br>可觸發<MarkdownWrapper>[喪家之犬](/event/ends/end-49)</MarkdownWrapper>結局</td>
         <td>事件道具</td>
         <td>
             <MarkdownWrapper>[「雲裳結緣」](/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>的子事件<MarkdownWrapper>[「谷底生活」](/event/simple/3-05-1-谷底生活)</MarkdownWrapper>中，第五天拾獲物品【🎲≥50 某人的黑歷史】。<br>
