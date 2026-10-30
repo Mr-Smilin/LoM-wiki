@@ -95,7 +95,7 @@ tags:
     <br>• 不同酒品有劇情差異，優先性為:
     <br>1. <MarkdownWrapper>[菊花酒](/event/simple/3-07-2-雪山之約)</MarkdownWrapper>: 擊敗第三香後，🎲【≧70】「放生」、接著🎲【≧60】「都沒有」。
     <br>2. <MarkdownWrapper>[猴兒酒](/event/simple/3-03-1-猴兒酒)</MarkdownWrapper>: <MarkdownWrapper>[臥雲岡回程](/event/simple/3-01-3-回程遇刺)</MarkdownWrapper>大師兄彌留時選擇📖「是你藏起來不讓喝的猴兒酒」，同年三月上旬於後山覓得。
-    <br>3. 其他酒類。
+    <br>3. 其他酒類（第三香「無情殺害」且道德＜40 時會搜到黃酒×3）。
     <br>• 若🗡️對決夏侯蘭時落敗，進入<MarkdownWrapper>[生死簿74: 與花合葬](/event/badends/badend-74)</MarkdownWrapper></td>
 </tr>
 
