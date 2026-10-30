@@ -491,7 +491,7 @@ aside: false
 -   <MarkdownWrapper>||小梅は経験から、屍心丹の作用は本人の良心しだいだと推測している。だから小梅は善行をするときも、悪行という名目で行う。||</MarkdownWrapper>
 -   <MarkdownWrapper>||[荊紅](/ja/people/characters/special824)が千面人魔の令牌を持って命じると、[勾魂叟](/ja/people/characters/special806)の屍心丹が働いた。屍心丹による服従は、命じる者本人によるものではないことが確かめられた。||</MarkdownWrapper>
 -   <MarkdownWrapper>||杏花林を通りかかったときにたくさんの願いをかけ、その中に自由になりたいという願いもあった。そのため[画中仙](/ja/people/characters/special813)（唐仙児）は[瑞杏](/ja/people/characters/girl1)（姫）の命を受け、小梅を屍心丹の支配から解く手助けをする。||</MarkdownWrapper>
--   <MarkdownWrapper>||初代の千面人魔は今の奪魄門掌門で、崆峒掌派人の権限は奪魄門より上にある。そのため[画中仙](/ja/people/characters/special813)（唐仙児）は[趙活](/ja/people/characters/player)が崆峒掌派人になるのを助け、小梅の屍心丹の支配を解くよう命じさせた。||</MarkdownWrapper>
+-   <MarkdownWrapper>||初代の千面人魔は今の奪魄門掌門の[姚不知名](/ja/people/characters/special216)で、崆峒掌派人の権限は奪魄門より上にある。そのため[画中仙](/ja/people/characters/special813)（唐仙児）は[趙活](/ja/people/characters/player)が崆峒掌派人になるのを助け、小梅の屍心丹の支配を解くよう命じさせた。||</MarkdownWrapper>
 
 ## 郁竹
 

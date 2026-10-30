@@ -1115,7 +1115,7 @@ tags:
             -
         </td>
         <td>
-            鉄琵琶功を習得しており崆峒派弟子ではない状態で、<Girl0Icon>唐黙鈴</Girl0Icon>の比武招親で「寄ってたかって殴る」を選び、追撃戦の4人目の玄功弟子との決闘に敗北する
+            鉄琵琶功を習得しており崆峒派弟子ではない状態で、<Girl0Icon>唐黙鈴</Girl0Icon>の比武招親で「寄ってたかって殴る」を選び、追撃戦の第4関で玄功護法の鞠冬音との決闘に敗北する
         </td>
         <td>
             崆峒四姝に誅されるのを考えてみようか、なかなか爽快ではないか。
@@ -2641,7 +2641,8 @@ tags:
             <li>
                 🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学し、
                 <MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の
-                <MarkdownWrapper>[帰郷の道中](/ja/event/simple/2-04-2-返家路程)</MarkdownWrapper>で、
+                <MarkdownWrapper>[帰郷の道中](/ja/event/simple/2-04-2-返家路程)</MarkdownWrapper>または
+                <MarkdownWrapper>[崆峒へ戻る](/ja/event/simple/2-04-2-返回崆峒)</MarkdownWrapper>で、
                 ランダムで<MarkdownWrapper>[「戦：官兵」](/ja/event/simple/2-04-2-返家路程#遇捕快)</MarkdownWrapper>が発生して敗北する。
             </li>
         </td>

@@ -336,7 +336,33 @@ tags:
 
 ## 崆峒派
 
-### 飛天門
+名前のある弟子をクリックすると個別ページへ移る。名前のない弟子の出番はこの節の下にまとめてある。四門の護法や孔鵲などの主要人物は[人物一覧](/ja/people/characters/)に載せている。
+
+**名前のある弟子**
+
+<div class="mob-index">
+    <a class="mob-card" href="../characters/trainee202.html"><img src="/images/mobs/kong-tong-sect/flying/trainee2_normal.webp" alt="許勝/胡離火/秋虎/夏嵐" loading="lazy"><span class="mob-name">許勝/胡離火/秋虎/夏嵐</span></a>
+    <a class="mob-card" href="../characters/trainee203.html"><img src="/images/mobs/kong-tong-sect/flying/trainee3_normal.webp" alt="胡壱千" loading="lazy"><span class="mob-name">胡壱千</span></a>
+    <a class="mob-card" href="../characters/trainee205.html"><img src="/images/mobs/kong-tong-sect/flying/trainee5_normal.webp" alt="阿金" loading="lazy"><span class="mob-name">阿金</span></a>
+    <a class="mob-card" href="../characters/trainee212.html"><img src="/images/mobs/kong-tong-sect/iron/trainee2_normal.webp" alt="黄某/梁老哥" loading="lazy"><span class="mob-name">黄某/梁老哥</span></a>
+    <a class="mob-card" href="../characters/trainee241.html"><img src="/images/characters/trainee241/normal.webp" alt="翟老漢" loading="lazy"><span class="mob-name">翟老漢</span></a>
+    <a class="mob-card" href="../characters/trainee222.html"><img src="/images/mobs/kong-tong-sect/soul/trainee2_normal.webp" alt="郭某" loading="lazy"><span class="mob-name">郭某</span></a>
+    <a class="mob-card" href="../characters/trainee223.html"><img src="/images/mobs/kong-tong-sect/soul/trainee3_normal.webp" alt="耿怔忡" loading="lazy"><span class="mob-name">耿怔忡</span></a>
+    <a class="mob-card" href="../characters/trainee225.html"><img src="/images/mobs/kong-tong-sect/soul/trainee5_normal.webp" alt="王老五" loading="lazy"><span class="mob-name">王老五</span></a>
+</div>
+
+**名前のない弟子**
+
+<div class="mob-index">
+    <a class="mob-card" href="#崆峒戰隊隊長"><img src="/images/mobs/kong-tong-sect/flying/trainee1_normal.webp" alt="崆峒戦隊の隊長" loading="lazy"><span class="mob-name">崆峒戦隊の隊長</span></a>
+    <a class="mob-card" href="#二男"><img src="/images/mobs/kong-tong-sect/iron/trainee1_normal.webp" alt="二男" loading="lazy"><span class="mob-name">二男</span></a>
+    <a class="mob-card" href="#鎮魂獄の鉄拳弟子"><img src="/images/mobs/kong-tong-sect/iron/trainee3_normal.webp" alt="鎮魂獄の鉄拳弟子" loading="lazy"><span class="mob-name">鎮魂獄の鉄拳弟子</span></a>
+    <a class="mob-card w2" href="#死亡擂台夫妻"><img src="/images/mobs/kong-tong-sect/soul/trainee1_normal.webp" alt="死亡擂台の夫婦" loading="lazy"><img src="/images/mobs/kong-tong-sect/mystic/trainee2_normal.webp" alt="死亡擂台の夫婦" loading="lazy"><span class="mob-name">死亡擂台の夫婦</span></a>
+    <a class="mob-card" href="#持緝凶令牌的奪魄弟子"><img src="/images/mobs/kong-tong-sect/soul/trainee6_normal.webp" alt="緝凶令牌を持つ奪魄弟子" loading="lazy"><span class="mob-name">緝凶令牌を持つ奪魄弟子</span></a>
+    <a class="mob-card" href="#玄功門師姐"><img src="/images/mobs/kong-tong-sect/mystic/trainee1_normal.webp" alt="玄功門の師姉" loading="lazy"><span class="mob-name">玄功門の師姉</span></a>
+</div>
+
+### 崆峒戦隊の隊長 {#崆峒戰隊隊長}
 
 <img src="/images/mobs/kong-tong-sect/flying/trainee1_normal.webp" style="width:200px;" />
 <table>
@@ -349,8 +375,24 @@ tags:
         <td>趙活が郁竹に会った後、面白がって郁竹の「裂骨魔」の逸話を知らせに来た。</td>
     </tr>
     <tr>
+        <td>飛天門のいじめ</td>
+        <td>顔疆・金烏の師弟。金烏師兄を持ち上げ、南宮浅を指導する顔疆が頭に血を上らせると、なだめに入る。<br>趙活の顔を「こいつのお袋は豚か犬とでもできてたんじゃねえか」と笑う。趙活が手を出すと「望みどおりにしてやる」と殴り返す。</td>
+    </tr>
+    <tr>
+        <td>鎮魂獄での拘留</td>
+        <td>奪魄森林へ逃げ込んだ趙活を追った結果、自分も鎮魂獄に入れられる。<br>保釈されて出るときは「やっとこの汗臭い荒くれどもと押し合わずに済む！」と言う。</td>
+    </tr>
+    <tr>
         <td>崆峒留学</td>
         <td>崆峒戦隊の隊長。趙活と小梅が連れ立って崆峒を見物した後に現れ、趙活に絡んでくる。<br>合体時は頭部を担当し、指揮が付くと賢くなる。</td>
+    </tr>
+    <tr>
+        <td>季試の知らせ</td>
+        <td>夜明けに留学生を呼び集めに来る。季試の褒美の話になり、飛天門なら真人が仙術を授けてくれるかもしれないが、鉄拳門は「まあ鍋でも一つ選んで帰るんだな！」と笑う。</td>
+    </tr>
+    <tr>
+        <td>南宮への急援</td>
+        <td>朝早く趙活を半雨屏へ集合させる。自分の後ろに並ぶ趙活を嫌がり、小梅には前へ行くよう勧める。<br>火龍仙君の命で南宮家の二公子を呼びに行く。</td>
     </tr>
     <tr>
         <td>馳援江陵</td>
@@ -360,88 +402,91 @@ tags:
         <td>医術救大師兄</td>
         <td>千灯楼が崆峒に送り込んだ間者。階級は二炷香。青城と崆峒を煽って争わせた。<br>小梅に決行の合図を出したが無視されたため、やむなく自ら手を下した。煉丹房を見張る唐門弟子二名を殺害して死体を始末し、煉丹房に押し入って、唐布衣を治療中の趙活の心をかき乱そうとした。気を散らせて内功を暴走させ死なせれば、暗殺の痕跡が残らないからである。<br>小梅に阻止され、警戒を緩めたところを不意打ちで殺された。<br>小梅が唐門にいない場合、言葉では趙活を動揺させられないと悟ると攻撃に出る。趙活があくまで功を収めずに治療を続けると、一刀で趙活もろとも唐布衣を刺し貫くが、わざと趙活の急所は外し、息のあるまま絶望を味わわせようとする。</td>
     </tr>
-</table>
-
-<img src="/images/mobs/kong-tong-sect/flying/trainee2_normal.webp" style="width:200px;" />
-<table>
     <tr>
-        <td>崆峒留学</td>
-        <td>趙活たち留学生を接待する。</td>
+        <td>金烏の騒動<br>金烏との決闘</td>
+        <td>金烏師兄に落ち着くよう言う。劣勢になっても「勝負はまだ決まってねえ、続けろ！」と叫ぶ。</td>
     </tr>
     <tr>
-        <td>医術救大師兄</td>
-        <td>千灯楼が崆峒に送り込んだ間者。<br>煉丹房を見張る唐門の門人のツボを突いて動けなくし、意識のあるまま谷底へ投げ落とした。趙活が最初の千灯楼の刺客を倒した後、青城に潜り込んでいた千灯楼の殺し屋とともに煉丹房へ入り、正派の人物を装った。</td>
+        <td>崆峒争奪戦</td>
+        <td>丹霞子を大師兄と呼び、金烏の不意打ちを卑怯だと罵る。<br>神雷剣が顕れると皆にひれ伏せと言い、金烏が勝ちを宣言すると「まだ決着ついてねえだろ！何で勝った気でいるんだ！」と食ってかかる。</td>
     </tr>
     <tr>
-        <td>馳援江陵<br>「火狐狸」胡離火</td>
-        <td>火龍仙君の門下弟子。王二壮が戦いを挑んできた時、『身の程知らずの輩』が出ると登場する。<br>見物人が人物紹介を終える前に敗退した。<br>「飛天五杰」の末弟。<br>続いて参戦した二人には立ち絵がない。<br>「飛天五杰」の「秋老虎」は紹介すらされないうちに敗退した。<br>その次の「暑吏」夏嵐は奪魄門から飛天門に移った身で、内功による尋問を得意とするが、逆に王二壮の掌力に追い込まれて燃え上がってしまった。</td>
+        <td>武林大会</td>
+        <td>崆峒が唐門の側に付くと「ちくしょう、ずっと我慢してたんだ、掌派人よく言った！」と叫ぶ。<br>少林の僧に「俺は崆峒の者だ！俺なら罵ってもいいだろ！」と言い返す。</td>
     </tr>
 </table>
 
-### 奪魄門
-
-<img src="/images/mobs/kong-tong-sect/soul/trainee1_normal.webp" style="width:200px;" />
-
-<table>
-    <tr>
-        <td>崆峒留学</td>
-        <td>趙活が奪魄門に留学した時の接待役で、掌門に代わって奪魄の秘笈・無影爪を趙活に授けた。</td>
-    </tr>
-    <tr>
-        <td>崆峒留学</td>
-        <td>死亡擂台を紹介する。<br>「お前のようなへなちょこ決闘者に、わが崆峒が主催する死亡擂台大会に出る資格はない！！」</td>
-    </tr>
-    <tr>
-        <td>崆峒留学<br>「王老五」</td>
-        <td>郁竹に武器の研磨を予約していたが、郁竹が人違いをしたせいで、郁竹が趙活の割り込みを許したと思い込み、さらに郁竹が趙活を自分と取り違えたことに腹を立て、売り言葉に買い言葉で口論になった。<br>趙活が割って入らないと、郁竹の朝食を「手付金の返却だ」と言って奪う。もっとも、そもそも手付金など払っていない。</td>
-    </tr>
-</table>
-
-<img src="/images/mobs/kong-tong-sect/soul/trainee2_normal.webp" style="width:200px;" />
-<table>
-    <tr>
-        <td>崆峒留学</td>
-        <td>趙活が奪魄門に留学した時の接待役。<br>趙活を宿舎まで送り、注意事項を言い聞かせるが、自分の名前すら名乗らない。</td>
-    </tr>
-    <tr>
-        <td>崆峒派</td>
-        <td>崆峒戦隊の一員。趙活と小梅が連れ立って崆峒を見物した後に現れ、趙活に絡んでくる。<br>合体時は脚と足を担当し、神出鬼没の身のこなしで相手を惑わす。<br>瑞笙の顔を見ると頭に血が上り、攻撃の矛先を瑞笙に移す。<br>戦隊の鉄拳弟子から春画を借りて、死んでも返さない。</td>
-    </tr>
-    <tr>
-        <td>崆峒留学</td>
-        <td>趙活が賭場で大勝ちした時に目をつけ、金を奪おうと企んだ。</td>
-    </tr>
-</table>
-
-### 鉄拳門
+### 二男
 
 <img src="/images/mobs/kong-tong-sect/iron/trainee1_normal.webp" style="width:200px;" />
 <table>
     <tr>
         <td>崆峒留学</td>
-        <td>鉄拳巷で初めて趙活を見た時、妖怪だと思い込み、飛天門から買った辟邪の玉が効かないと嘆いた。</td>
-    </tr>
-</table>
-
-<img src="/images/mobs/kong-tong-sect/iron/trainee2_normal.webp" style="width:200px;" />
-<table>
-    <tr>
-        <td>崆峒留学「黄某」</td>
-        <td>崆峒戦隊の一員。趙活と小梅が連れ立って崆峒を見物した後に現れ、趙活に絡んでくる。<br>合体時は胴体と腕を担当。<br>自分より見た目の良い人間が嫌いで、瑞笙が現れると攻撃の矛先を瑞笙に移す。<br>賭け事の時に「負けたら他人の姓を名乗ってやる」と言ったため、今は荘姓ではなく黄姓を名乗っている。もっとも、もともと荘姓でもなかった。<br>春画を描く腕があり、崆峒戦隊解散後、残る二人に以前描いた春画の返却を求めたが、拒まれた。</td>
+        <td>雷掌門が鉄拳門は崆峒で一番ひどいと言うと、「掌門師伯、そういう言い方はよくないですよ」とたしなめる。<br>雷掌門に「二男」と呼ばれ、趙活を新装した招待所へ案内する。道すがら、歴代の掌門が他門の要らない人間を引き受けてきたので人が増え、食事や雑務を一手に引き受けるようになったと話す。他門に嫌味を言われたら教えてくれ、「ケツを直接料理に向けて噴射しないだけ、同門のよしみってやつだ」と言う。</td>
     </tr>
     <tr>
         <td>崆峒留学</td>
-        <td>趙活が賭場で大勝ちした時に目をつけ、金を奪おうと企んだ。</td>
+        <td>鉄拳巷で初めて趙活を見た時、妖怪だと思い込み、飛天門から買った辟邪の玉が効かないと嘆いた。<br>鉄鍋や農具の注文をどう回すか趙活と相談し、頭を剃りたければ俺に言え、まけてやると言う。</td>
+    </tr>
+    <tr>
+        <td>鎮魂獄での拘留</td>
+        <td>趙活を奪魄森林まで追い、そのまま鎮魂獄に入れられる。「雷の親分が出してくれる」と騒ぐ。</td>
+    </tr>
+    <tr>
+        <td>崆峒争奪戦</td>
+        <td>戦死した同門の家族のために医者を呼びに走る。<br>丹霞子が山に戻ると、寝返った飛天弟子を「日和見野郎」と罵り、丹霞子に「お前が掌派をやらなきゃ誰がやる？」と言う。<br>金烏が継承を宣言すると「俺は何も見届けちゃいねえ、見届けたのはお前の真っ赤な嘘だけだ」と言い返す。</td>
+    </tr>
+    <tr>
+        <td>唐門の決断</td>
+        <td>「錦香宮の人はみんな鉄拳巷に引き取れ！崆峒には独り身がまだ大勢いるんだ！」</td>
     </tr>
 </table>
 
-### 玄功門
+### 鎮魂獄の鉄拳弟子
 
-<img src="/images/mobs/kong-tong-sect/mystic/trainee1_normal.webp" style="width:200px;" />
+<img src="/images/mobs/kong-tong-sect/iron/trainee3_normal.webp" style="width:200px;" />
+<table>
+    <tr>
+        <td>鎮魂獄での拘留</td>
+        <td>趙活を追ったほかの崆峒弟子と一緒に鎮魂獄に入れられる。小竹が保釈に来たと聞いて「小竹だ！やった、出られるぞ！」と叫ぶ。</td>
+    </tr>
+    <tr>
+        <td>唐門の迎撃</td>
+        <td>破廟線で、鉄拳弟子を装って唐門を夜襲する賊の手下にも、同じ顔の者がいる。</td>
+    </tr>
+</table>
+
+### 死亡擂台の夫婦 {#死亡擂台夫妻}
+
+<img src="/images/mobs/kong-tong-sect/soul/trainee1_normal.webp" style="width:200px;" />
 <table>
     <tr>
         <td>崆峒留学</td>
-        <td>峨嵋留学生に点穴を指導する教師。趙活には後ろ盾がなくいじめやすいと見て、留学生に趙活で腕試しをさせ、脇から指南した。<br>なぜか峨嵋派の秘笈を身に付けている。</td>
+        <td>趙活が奪魄門に留学した時の接待役で、閉関中の掌門に代わって奪魄の秘笈・無影爪を趙活に授けた。</td>
+    </tr>
+    <tr>
+        <td>崆峒留学</td>
+        <td>死亡擂台を紹介する。<br>「お前のようなへなちょこ決闘者に、わが崆峒が主催する死亡擂台大会に出る資格はない！！」<br>「別嬪の女房をもらった」のが自慢。</td>
+    </tr>
+    <tr>
+        <td>鎮魂獄での拘留</td>
+        <td>保釈人の付いた崆峒弟子を牢から連れ出しに来る。</td>
+    </tr>
+    <tr>
+        <td>崆峒派季期試験</td>
+        <td>審判を務める。趙活が三連勝すると「勝負はついた、これ以上やったら死人が出る」と止める。</td>
+    </tr>
+    <tr>
+        <td>南宮への急援</td>
+        <td>奪魄門に籍を置く弟子たちに、半雨屏へ集まるよう触れて回る。</td>
+    </tr>
+    <tr>
+        <td>崆峒争奪戦</td>
+        <td>小竹の父を殴ったのはこの男。「どんな人間なら、娘の死に金で博打を打ち……もう一人の娘を借金の形に差し出せるんだ？」<br>丹霞子が戻ってきたことを雷掌門に知らせ、その後は魏掌門に戦況を報告する。</td>
+    </tr>
+    <tr>
+        <td>唐門の決断</td>
+        <td>「そうだ、六大派なんかやめちまえ、ペッ！」</td>
     </tr>
 </table>
 
@@ -451,4 +496,86 @@ tags:
         <td>崆峒留学</td>
         <td>死亡擂台の受付にいる、奪魄弟子の女房。<br>夫に余計な世話を焼くなと言い、参加志願者を勝手に追い返す。</td>
     </tr>
+    <tr>
+        <td>南宮への急援</td>
+        <td>魏掌門の命で、玄功門に籍を置く趙活を起こしに来る。半雨屏では玄功門の列で待つよう言う。</td>
+    </tr>
 </table>
+
+### 緝凶令牌を持つ奪魄弟子 {#持緝凶令牌的奪魄弟子}
+
+<img src="/images/mobs/kong-tong-sect/soul/trainee6_normal.webp" style="width:200px;" />
+<table>
+    <tr>
+        <td>大鉄舗の盗難</td>
+        <td>左を追って旋鼓を盗んだ男の子を捕まえると現れる。緝凶令牌を掲げ、先代掌門の命を受けていると言って、男の子の手を斬ろうとする。<br>小竹が嫡伝女弟子の立場で止めると「竹師姉も嫡伝女弟子の看板を振りかざすんだな」と皮肉るが、わけを聞いたうえで「俺にもいいお袋がいたんだ」と言って見逃す。</td>
+    </tr>
+    <tr>
+        <td>崆峒争奪戦</td>
+        <td>金烏側の人馬に混じって「勝てねえ、早く、早く退け！」と叫ぶ。</td>
+    </tr>
+</table>
+
+### 玄功門の師姉 {#玄功門師姐}
+
+<img src="/images/mobs/kong-tong-sect/mystic/trainee1_normal.webp" style="width:200px;" />
+<table>
+    <tr>
+        <td>崆峒留学</td>
+        <td>魏菊の師姉で、魏菊を「掌門師妹」と呼ぶ。他派から来た雑用係を掌門自らもてなすのは筋違いだと言って、茶器を取り上げる。<br>趙活を招待所へ案内し、魏掌門が自分を「小妹」と呼んでも真に受けるなと釘を刺す。</td>
+    </tr>
+    <tr>
+        <td>崆峒留学</td>
+        <td>崆峒のしきたりを趙活に説明する。玄功門は内功を重んじる。新しい掌派人は四門の嫡伝女弟子を妻に迎えることができ、「梅、蘭、竹、菊はみな未来の掌派人の許嫁なのよ」。</td>
+    </tr>
+    <tr>
+        <td>崆峒留学</td>
+        <td>峨嵋留学生に点穴を指導する教師。趙活には後ろ盾がなくいじめやすいと見て、留学生に趙活で腕試しをさせ、脇から指南した。<br>なぜか峨嵋派の秘笈を身に付けている。</td>
+    </tr>
+    <tr>
+        <td>江陵決戦</td>
+        <td>趙活の脈を取り、鉄琵琶功を修めていることを見抜く。<br>魏掌門が趙活を玄功門に迎えようとすると「あなた、この人を掌派人にするつもり？この顔を見なさいよ」と反対する。</td>
+    </tr>
+    <tr>
+        <td>唐門の決断</td>
+        <td>「だめよ、それならみんな玄功門に入ってもらわなきゃ！」</td>
+    </tr>
+    <tr>
+        <td>武林大会</td>
+        <td>魏菊が掌門の座を譲った後も「私たちの心の中では、あなたはずっと玄功の掌門です」と言い、崆峒の同門の救援に向かう。</td>
+    </tr>
+</table>
+
+<style>
+/* 立ち絵は a の直下に置く。親が a でない本文中の画像はコメント欄の拡大表示用リンクで包まれ、カードのリンクが効かなくなる */
+.mob-index {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 12px;
+    margin: 16px 0 32px;
+}
+.mob-index .mob-card {
+    display: grid;
+    grid-template-columns: 1fr;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--vp-c-bg-soft);
+    text-decoration: none;
+    color: var(--vp-c-text-1);
+    transition: border-color .2s;
+}
+.mob-index .mob-card:hover { border-color: var(--vp-c-brand-1); }
+.mob-index .mob-card.w2 { grid-column: span 2; grid-template-columns: repeat(2, 1fr); }
+.mob-index .mob-card.w3 { grid-column: span 3; grid-template-columns: repeat(3, 1fr); }
+.mob-index .mob-card img { width: 100%; min-width: 0; height: 200px; object-fit: contain; object-position: 50% 100%; }
+.mob-index .mob-name {
+    grid-column: 1 / -1;
+    padding: 6px 4px;
+    font-size: 14px;
+    line-height: 1.4;
+    text-align: center;
+    border-top: 1px solid var(--vp-c-divider);
+    background: var(--vp-c-bg);
+}
+</style>

@@ -1731,7 +1731,7 @@ tags:
   </tr>
 
   <tr>
-    <td rowspan=10 style="text-align: center" id = "烏蚕宝衣">烏蚕宝衣<br><img src="/images/items/equips/icon_equip_23.webp" style="width:100px"></td>
+    <td rowspan=10 style="text-align: center" id = "烏蚕宝衣">烏蚕の宝衣<br><img src="/images/items/equips/icon_equip_23.webp" style="width:100px"></td>
     <td rowspan=10 style="text-align: center">
         <li>護心鏡<br>レベル10<br></li>
     </td>

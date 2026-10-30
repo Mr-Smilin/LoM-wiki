@@ -28,7 +28,7 @@ tags:
         <td>備考</td>
     </tr>
     <tr>
-        <td>色紙</td>
+        <td id = "色紙">色紙</td>
         <td>50</td>
         <td>5</td>
         <td>
@@ -40,7 +40,7 @@ tags:
         <td>安価な心相回復手段</td>
     </tr>
     <tr>
-        <td>サトウキビ</td>
+        <td id = "甘蔗">サトウキビ</td>
         <td>50</td>
         <td>10</td>
         <td>心相+50</td>
@@ -49,7 +49,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>肉まん</td>
+        <td id = "肉餡饅頭">肉まん</td>
         <td>150</td>
         <td>5</td>
         <td>心相+60 / 団結-1</td>
@@ -58,7 +58,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>肉干</td>
+        <td id = "肉乾">肉干</td>
         <td>100</td>
         <td>5</td>
         <td>心相+50</td>
@@ -67,7 +67,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>焼刀子</td>
+        <td id = "燒刀子">焼刀子</td>
         <td>200</td>
         <td>3</td>
         <td>心相+60 / 品性-1</td>
@@ -76,7 +76,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>蘇合香酒</td>
+        <td id = "蘇合香酒">蘇合香酒</td>
         <td>700</td>
         <td>3</td>
         <td>心相+60 / 内功+1</td>
@@ -85,7 +85,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>納渓梅嶺</td>
+        <td id = "納溪梅嶺">納渓梅嶺</td>
         <td>300</td>
         <td>3</td>
         <td>心相+60 / 品性+1</td>
@@ -94,7 +94,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>蒙頂露芽</td>
+        <td id = "蒙頂露芽">蒙頂露芽</td>
         <td>300</td>
         <td>3</td>
         <td>心相+60 / 品性+1</td>
@@ -103,7 +103,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>黄酒</td>
+        <td id = "黃酒">黄酒</td>
         <td>150</td>
         <td>15</td>
         <td>武功修練材料</td>
@@ -112,7 +112,7 @@ tags:
         <td>酩酊玄剣掌修練の必須品の一つ(全80本必要)</td>
     </tr>
     <tr>
-        <td>峨嵋雪芽</td>
+        <td id = "峨嵋雪芽">峨嵋雪芽</td>
         <td>500</td>
         <td>5</td>
         <td>心相+60 / 品性+2</td>
@@ -121,7 +121,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>姜記肉まん</td>
+        <td id = "姜記肉包">姜記肉まん</td>
         <td>500</td>
         <td></td>
         <td>心相+80 / 団結-1</td>
@@ -130,7 +130,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>塩漬けイノシシ肉</td>
+        <td id = "塩漬けイノシシ肉">塩漬けイノシシ肉</td>
         <td>売価?</td>
         <td></td>
         <td>心相+50、体力+1</td>
@@ -139,7 +139,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>漢方蜜漬け</td>
+        <td id = "中藥蜜餞">漢方蜜漬け</td>
         <td>売価<br>400</td>
         <td></td>
         <td>心相+80、体力+1、抗毒+1、抗麻+1</td>
@@ -148,7 +148,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>あんこまん</td>
+        <td id = "豆沙包">あんこまん</td>
         <td>売価?</td>
         <td></td>
         <td><li>体力+1、内功-1、抗毒+1、抗麻+1</li>
@@ -160,7 +160,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>降真香</td>
+        <td id = "降真香">降真香</td>
         <td>売価?</td>
         <td></td>
         <td>体力+1、内功+2、品性+2、抗毒-1、抗麻-1、心相+40</td>
@@ -169,7 +169,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>湘妃魚ケーキ</td>
+        <td id = "湘妃魚糕">湘妃魚ケーキ</td>
         <td>売価?</td>
         <td></td>
         <td>心相+30、体力-1、抗毒+1、料理+2</td>
@@ -178,7 +178,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>龍象豹力子丹</td>
+        <td id = "龍象豹力子丹">龍象豹力子丹</td>
         <td>売価<br>2000</td>
         <td></td>
         <td>なし</td>
@@ -187,17 +187,17 @@ tags:
         <td>鉄拳門秘伝の霊薬「龍象豹力丹」の炉の底に残ったかすを丸めた子丹。母丹は小竹が飲んでしまった。</td>
     </tr>
     <tr>
-        <td>大師兄の落書き</td>
+        <td id = "大師兄的塗鴉">大師兄の落書き</td>
         <td></td>
         <td></td>
-        <td>雑匠ランダムイベントで、<br>逆鱗宝衣を作る</td>
+        <td>雑匠ランダムイベントで、<br><MarkdownWrapper>[逆鱗宝衣](/ja/system/develop-list#逆鱗宝衣)</MarkdownWrapper>を作る</td>
         <td>不明</td>
         <td>1年弟子房-<MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>と詩琴書画について雑談。肩甲が嫌い。</td>
         <td><MarkdownWrapper>関連イベント：<br>1年目債権者が来た時、「行きなさい、今すぐ何か考えねば」の目が出た場合<br>先生に見せられるが、たしなめられる<br>
 (前置条件：6月上旬[唐惟元](/ja/people/characters/brother4)が会議に呼んだ時、「もしかして...あの件か」+「うっかり字画を焼いてしまった」を選択)</MarkdownWrapper></td>
     </tr>
     <tr>
-        <td>龍湘の銀銭</td>
+        <td id = "龍湘の銀銭">龍湘の銀銭</td>
         <td>売価<br>5000</td>
         <td></td>
         <td></td>
@@ -206,25 +206,25 @@ tags:
         <td>唐惟元に手動で売却する必要</td>
     </tr>
     <tr>
-        <td>崆峒磨喝楽</td>
+        <td id = "崆峒磨喝樂">崆峒磨喝楽</td>
         <td></td>
         <td></td>
         <td>不明</td>
         <td>不明</td>
         <td>崆峒派留学ルート－夏侯蘭限定</td>
-        <td>夏侯蘭を師匠として拝き、季試全勝で獲得可能。他の条件がある可能性(好感度/性情/処世?)</td>
+        <td>夏侯蘭を師匠として拝き、<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>で全勝すると獲得可能。他の条件がある可能性(好感度/性情/処世?)</td>
     </tr>
     <tr>
-        <td>小竹マッサージチケット</td>
+        <td id = "小竹按摩券">小竹マッサージチケット</td>
         <td></td>
         <td></td>
         <td><Girl6Icon>郁竹</Girl6Icon>と結縁後、<br>イベント差分用の道具</td>
         <td>イベント道具</td>
         <td>崆峒派留学ルート－鉄拳門限定</td>
-        <td>2年目崆峒派留学－鉄拳門に入門して季試全勝の報酬</td>
+        <td>2年目崆峒派留学－鉄拳門に入門して<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>で全勝した報酬</td>
     </tr>
     <tr>
-        <td>文房四宝</td>
+        <td id = "文房四宝">文房四宝</td>
         <td></td>
         <td></td>
         <td>不明</td>
@@ -233,7 +233,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>五彩龍砂丹</td>
+        <td id = "五彩龍砂丹">五彩龍砂丹</td>
         <td></td>
         <td></td>
         <td></td>
@@ -242,7 +242,7 @@ tags:
         <td>千面人魔イベント-「神仙妙丹」「功力向上」選択</td>
     </tr>
     <tr>
-        <td>九泉丹方</td>
+        <td id = "九泉丹方">九泉丹方</td>
         <td></td>
         <td></td>
         <td></td>
@@ -251,7 +251,7 @@ tags:
         <td>千面人魔イベント-「神仙妙丹」「救命」選択</td>
     </tr>
     <tr>
-        <td>還虚丹</td>
+        <td id = "還虚丹">還虚丹</td>
         <td></td>
         <td></td>
         <td>不明</td>
@@ -261,7 +261,7 @@ tags:
 <br>(唐錚が南宮丹薬を送った説に従えば、この丹が相殺されるため、バッドエンドの可能性が高い)</td>
     </tr>
     <tr>
-        <td>猴児酒</td>
+        <td id = "猴兒酒">猴児酒</td>
         <td></td>
         <td></td>
         <td></td>
@@ -271,7 +271,7 @@ tags:
 後に後山でイベントを発動して取得(取得の有無にかかわらず行動回数を消費)。猴児酒を取得すると、雪山の夏侯蘭ルートのストーリーに飲み交わすシーンが追加される</td>
     </tr>
     <tr>
-        <td>茅台酒</td>
+        <td id = "茅台酒">茅台酒</td>
         <td></td>
         <td></td>
         <td>(今のところ金銭交換の役割のみ?)</td>
@@ -280,10 +280,10 @@ tags:
         <td>修練場の清掃でうっかり脱手標に撃たれた</td>
     </tr>
     <tr>
-        <td>金念珠</td>
+        <td id = "金念珠">金念珠</td>
         <td>売価8000</td>
         <td></td>
-        <td><MarkdownWrapper>武林盟で[上官隼](/ja/people/characters/special407)に敗れると、<br>「喪家の犬」エンディングをトリガー</MarkdownWrapper></td>
+        <td><MarkdownWrapper>武林盟で[上官隼](/ja/people/characters/special407)に敗れると、<br>[汗青書49：宿無し犬](/ja/event/ends/end-49)をトリガー</MarkdownWrapper></td>
         <td>イベント道具</td>
         <td>雲裳ルート限定</td>
         <td>
@@ -291,7 +291,7 @@ tags:
         </td>
     </tr>
     <tr>
-        <td>焼き魚</td>
+        <td id = "烤魚">焼き魚</td>
         <td>-</td>
         <td></td>
         <td>
@@ -304,7 +304,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>髪簪</td>
+        <td id = "髪簪">髪簪</td>
         <td></td>
         <td></td>
         <td><Girl6Icon>郁竹</Girl6Icon>と結縁後、<br>イベント差分用の道具</td>
@@ -313,7 +313,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>磨喝楽 緑</td>
+        <td id = "磨喝楽 緑">磨喝楽 緑</td>
         <td></td>
         <td></td>
         <td>不明</td>
@@ -322,7 +322,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>磨喝楽 紅</td>
+        <td id = "磨喝樂 紅">磨喝楽 紅</td>
         <td></td>
         <td></td>
         <td>不明</td>
@@ -331,7 +331,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>趙活磨喝楽</td>
+        <td id = "趙活磨喝樂">趙活磨喝楽</td>
         <td></td>
         <td></td>
         <td><Girl6Icon>郁竹</Girl6Icon>と結縁後、<br><MarkdownWrapper>[汗青書35：慷慨、義に赴く](/ja/event/ends/end-35)</MarkdownWrapper>のイベント差分用の道具</td>

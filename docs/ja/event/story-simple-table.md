@@ -313,7 +313,11 @@ tags:
 <tr>
     <td rowspan = 2 style="text-align: center">五</td>
     <td style="text-align: center">上</td>
-    <td style="text-align: center">-</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+            謎の人物からの送金<br>
+        </MarkdownWrapper>
+    </td>
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
             [複数の人が弟子入りする](/ja/event/simple/2-05-1-多人拜師)<br>
@@ -737,7 +741,6 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
-                    謎の人物からの送金<br>
 				[樹屋を建造する](/ja/event/simple/3-05-3-建造樹屋)<br>
 				</MarkdownWrapper>
 			</td>

@@ -510,14 +510,7 @@ tags:
 
 ### 顔嫂
 
-<img src="/images/mobs/kong-tong-sect/flying/trainee431_normal.webp" style="width:200px;" />
-
-<table>
-    <tr>
-        <td>小梅ルート<br>牢への面会</td>
-        <td>金を使って見張りを買収し、面会に来た。名残惜しさから、水・手ぬぐい・着替えを持参して、小梅と郁竹の身を清めてやった。</td>
-    </tr>
-</table>
+[顔疆](/ja/people/characters/trainee204)の妻で、本名は孔鵲。出番は個別ページ[孔鵲](/ja/people/characters/trainee431)にまとめてある。
 
 ## 動物
 

@@ -95,6 +95,8 @@ graph TB
     D[密密縫<img src="/LoM-wiki/images/items/equips/icon_equip_20.webp"><br>必要：装備レベル10<br>門派規模3]
     E[牛革の制服<img src="/LoM-wiki/images/items/equips/icon_equip_22.webp"><br>必要：装備レベル10<br>門派規模2]
     F[紙甲<img src="/LoM-wiki/images/items/equips/icon_equip_21.webp"><br>必要：装備レベル10<br>門派規模3]
+    G[烏蚕の宝衣<img src="/LoM-wiki/images/items/equips/icon_equip_23.webp"><br>必要：装備レベル10]
+    H[逆鱗宝衣<img src="/LoM-wiki/images/items/equips/icon_equip_24.webp"><br>必要：装備レベル10]
   end
 
   %% アップグレード矢印（黄色）+ テキスト
@@ -103,6 +105,8 @@ graph TB
   A --> D
   A --> E
   B --> F
+  B --> H
+  C --> G
 
   %% 返却矢印（緑色）+ テキスト
   B -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
@@ -110,18 +114,24 @@ graph TB
   D -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
   E -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
   F -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| B
-  
+  G -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| C
+  H -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| B
+
   %% カスタム矢印スタイルとテキスト色
   linkStyle 0 stroke:#FFD700,stroke-width:2px
   linkStyle 1 stroke:#FFD700,stroke-width:2px
   linkStyle 2 stroke:#FFD700,stroke-width:2px
   linkStyle 3 stroke:#FFD700,stroke-width:2px
   linkStyle 4 stroke:#FFD700,stroke-width:2px
-  linkStyle 5 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 6 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 5 stroke:#FFD700,stroke-width:2px
+  linkStyle 6 stroke:#FFD700,stroke-width:2px
   linkStyle 7 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 8 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
   linkStyle 9 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 10 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 11 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 12 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+  linkStyle 13 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
 
   %% ノードスタイルを設定
   classDef default padding:15px,margin:10px,fill:#000,color:#FFF
@@ -131,6 +141,8 @@ graph TB
   style D stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
   style E stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
   style F stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
+  style G stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
+  style H stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
 
 ```
 

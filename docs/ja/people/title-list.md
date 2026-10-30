@@ -110,7 +110,8 @@ tags:
             <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
             <li>
                 <MarkdownWrapper>[郁竹の帰郷](/ja/event/simple/2-04-2-郁竹返家)</MarkdownWrapper>の
-                <MarkdownWrapper>[帰郷の道中](/ja/event/simple/2-04-2-返家路程)</MarkdownWrapper>で、
+                <MarkdownWrapper>[帰郷の道中](/ja/event/simple/2-04-2-返家路程)</MarkdownWrapper>または
+                <MarkdownWrapper>[崆峒へ戻る](/ja/event/simple/2-04-2-返回崆峒)</MarkdownWrapper>で、
                 ランダムで<MarkdownWrapper>[「戦：官兵」](/ja/event/simple/2-04-2-返家路程#遇捕快)</MarkdownWrapper>が発生し、勝利する。
             </li>
         </td>

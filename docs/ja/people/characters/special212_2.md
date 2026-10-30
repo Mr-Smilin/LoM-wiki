@@ -11,6 +11,10 @@ tags:
 
 # {{ $frontmatter.title }}
 
+::: danger 前方注意
+このページには重大なネタバレが含まれています。ゲーム体験が損なわれるのを避けたい場合は、すぐに離脱してください。
+:::
+
 <ChTabs position="bottom">
 	<ChTab title="無相祖師">
 		<Ch src='/images/characters/special212/real.webp' position='right'/>
@@ -72,9 +76,13 @@ tags:
 <br><br>
 嵩山派では、[覚醒](/ja/people/characters/monk2)という僧に化身し、かつて唐門を恐れて住職の座を退いた老僧[釈明](/ja/people/characters/special826)に付け入り、唐門への恐怖から生じていた心の内なる迷いをさらに深めさせた。
 <br><br>
-[崆峒派](/ja/people/factions/kong-tong-sect)奪魄門では、閉関中の姚掌門に成り代わり、かねてより千灯楼の教官として目をかけていた[金烏上人](/ja/people/characters/special207)を掌派人候補として後押しした。
+[崆峒派](/ja/people/factions/kong-tong-sect)奪魄門では、閉関中の掌門[姚不知名](/ja/people/characters/special216)に成り代わり、崆峒争奪戦が起きないルートで、かねてより千灯楼の教官として目をかけていた[金烏上人](/ja/people/characters/special207)を掌派人候補として後押しした。
 <br><br>
 西武林ルートで飛侠帰還の際、[覚醒](/ja/people/characters/monk2)に化身して[申屠龍](/ja/people/characters/special405)と並んで眉山の戦を傍観。教主がもう江湖に留まる気がなくなり、心が乱れたのを見て、[唐布衣](/ja/people/characters/brother1)に奇襲され、手の筋を断たれた。[唐錚](/ja/people/characters/brother2)がこの隙に毒を下し、薬効が発動した後、唐布衣に斬殺された。
+
+### 崆峒争奪戦
+
+奪魄掌門の[姚不知名](/ja/people/characters/special216)に化身して掌派人選出の前に閉関から出て、無色広場で[虞小梅](/ja/people/characters/girl3)が[金烏上人](/ja/people/characters/special207)を刺そうとするのを阻止する。半雨屏の戦いでは、金烏と刺し違えようとした小梅を阻み、千灯楼の祖師として命を下して、大切な人を自らの手で殺し尽くすまで目覚めぬよう小梅の正気を奪う。抗議に出た[火龍仙君](/ja/people/characters/special204)から「お前は姚知命ではないな」と問われても否定しなかった。小梅ルートでは[画中仙](/ja/people/characters/special813)に正体を暴かれ、最後は奪魄森林で手を引いて去る。詳しくは[姚不知名](/ja/people/characters/special216)を参照。
 
 ### 葉雲裳ルート
 
@@ -88,4 +96,4 @@ tags:
 - 十里一詩は学のある[趙活](/ja/people/characters/player)に平仄が合っていないとやじられ、聞いていられなくなった。彼はこの詩は戦場が出所で、戦争の酷さを描写したもので、本来は風流な修飾がないと言った。
 - もし[趙活](/ja/people/characters/player)が瀝泉小剣を手にすれば、怒り狂って「いい度胆だ」と大声で罵る。
 - 疑いを持つが[杏花林](/ja/people/factions/apricot-forest)と何か関係あるらしい。
-- 無相が奪魄門で偽装するのは閉関中の姚掌門で、[勾魂叟](/ja/people/characters/special806)ではない。[勾魂叟](/ja/people/characters/special806)は代理掌門に過ぎない。
+- 無相が奪魄門で成り代わっていたのは閉関中の姚掌門（[姚不知名](/ja/people/characters/special216)）であり、[勾魂叟](/ja/people/characters/special806)ではない。[勾魂叟](/ja/people/characters/special806)は代掌門に過ぎない。

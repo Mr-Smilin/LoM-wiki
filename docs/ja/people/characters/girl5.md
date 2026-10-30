@@ -332,7 +332,7 @@ aside: false
 ## 武功
 
 -   [崆峒派](/ja/people/factions/kong-tong-sect)で彼女と匹敵できるのは、[火龍仙君](/ja/people/characters/special204)と[丹霞子](/ja/people/characters/special404)のみ。
--   奪魄掌門がかつて武力で彼女に嫡伝女弟子の地位を譲らせようと強要したが、かえって両腕を捻り折られ、頭を足で踏みにじられた。以来、崆峒の長老たちに顔向けできず、隠棲して修行に励んでいる。
+-   奪魄掌門の[姚不知名](/ja/people/characters/special216)がかつて武力で彼女に嫡伝女弟子の地位を譲らせようと強要したが、かえって両腕を捻り折られ、頭を足で踏みにじられた。以来、崆峒の長老たちに顔向けできず、隠棲して修行に励んでいる。
 -   常日頃から、鉄拳門が製造した奇兵・鋼骨傘を用いる。傘柄の機関を起動すると、鋭い刃が飛び出す。攻防一体、水火不侵。
 -   雪山に赴いた際、[雪山派](/ja/people/factions/mount-snow-sect)の秘伝点穴手法「冰川払穴手」を用いて、[趙活](/ja/people/characters/player)を動けなくした。
 -   [上官隼](/ja/people/characters/special407)との対決で、[雪山派](/ja/people/factions/mount-snow-sect)の「梅顫枝頭」を用いて金背龍王刀を振り開こうと試みた。

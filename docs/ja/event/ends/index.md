@@ -40,7 +40,7 @@ tags:
 { text: '【青城留学】' },
 { text: '【小梅拉致】' },
 { text: '【四師兄と商売】' },
-{ text: '【金烏事変】' },
+{ text: '【崆峒争奪戦】' },
 { text: '【唐門離脱】' },
 { text: '【戦死】' },
 { text: '【唐門解散】' },
@@ -776,9 +776,9 @@ tags:
 <EndIcon no="56">平凡な悲劇</EndIcon>
 </td>
 <td>
-<span style="color: #FF8C00;">【金烏事変】</span>
+<span style="color: #FF8C00;">【崆峒争奪戦】</span>
 <span style="color: #70AA39;">【郁竹】</span><br>
-金烏事変で戦局が悪化したとき、郁竹と一緒に崆峒から逃げ出す。
+崆峒争奪戦で戦局が悪化したとき、郁竹と一緒に崆峒から逃げ出す。
 </td>
 </tr>
 <tr>
@@ -789,9 +789,9 @@ tags:
 <EndIcon no="57">神の不在証明</EndIcon>
 </td>
 <td>
-<span style="color: #FF8C00;">【金烏事変】</span>
+<span style="color: #FF8C00;">【崆峒争奪戦】</span>
 <span style="color: #FF2D51;">【虞小梅】</span><br>
-金烏事変のとき、半雨屏で虞小梅との決闘に負ける。
+崆峒争奪戦のとき、半雨屏で虞小梅との決闘に負ける。
 </td>
 </tr>
 <tr>
@@ -802,9 +802,9 @@ tags:
 <EndIcon no="58">修仙</EndIcon>
 </td>
 <td>
-<span style="color: #FF8C00;">【金烏事変】</span>
+<span style="color: #FF8C00;">【崆峒争奪戦】</span>
 <span style="color: #FF2D51;">【虞小梅】</span><br>
-金烏事変のとき、半雨屏で虞小梅を目覚めさせられない。
+崆峒争奪戦のとき、半雨屏で虞小梅を目覚めさせられない。
 </td>
 </tr>
 <tr>
@@ -815,9 +815,9 @@ tags:
 <EndIcon no="59">自創の武功</EndIcon>
 </td>
 <td>
-<span style="color: #FF8C00;">【金烏事変】</span>
+<span style="color: #FF8C00;">【崆峒争奪戦】</span>
 <span style="color: #70AA39;">【郁竹】</span><br>
-金烏事変のあと郁竹を見舞ったとき、掌派人が四姝を娶るのは伝統の美徳だと言う。
+崆峒争奪戦のあと郁竹を見舞ったとき、掌派人が四姝を娶るのは伝統の美徳だと言う。
 </td>
 </tr>
 <tr>
@@ -828,9 +828,9 @@ tags:
 <EndIcon no="60">崆峒掌派人</EndIcon>
 </td>
 <td>
-<span style="color: #FF8C00;">【金烏事変】</span>
+<span style="color: #FF8C00;">【崆峒争奪戦】</span>
 <span style="color: #FF2D51;">【虞小梅】</span><br>
-金烏事変で虞小梅を目覚めさせ、そのあと見舞ったときに彼女をどこへも行かせない。
+崆峒争奪戦で虞小梅を目覚めさせ、そのあと見舞ったときに彼女をどこへも行かせない。
 </td>
 </tr>
 <tr>
@@ -841,10 +841,10 @@ tags:
 <EndIcon no="61">崆峒掌派人</EndIcon>
 </td>
 <td>
-<span style="color: #FF8C00;">【金烏事変】</span>
+<span style="color: #FF8C00;">【崆峒争奪戦】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
 <span style="color: #70AA39;">【郁竹】</span><br>
-金烏事変のあと、崆峒に別れを告げるときに崆峒の掌派人を引き継ぐ。
+崆峒争奪戦のあと、崆峒に別れを告げるときに崆峒の掌派人を引き継ぐ。
 </td>
 </tr>
 <tr>

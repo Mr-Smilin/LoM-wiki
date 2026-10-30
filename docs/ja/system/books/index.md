@@ -175,7 +175,7 @@ tags:
         <td>刀剣10<br>軽功12<br>風刀<br>火剣</td>
         <td>80</td>
         <td>内功&gt;=60</td>
-        <td><MarkdownWrapper>金烏事変で崆峒へ向かう道中、[丹霞子](/ja/people/characters/special404)の好感度≧30で入手</MarkdownWrapper></td>
+        <td><MarkdownWrapper>崆峒争奪戦で崆峒へ向かう道中、[丹霞子](/ja/people/characters/special404)の好感度≧30で入手</MarkdownWrapper></td>
         <td></td>
     </tr>
     <tr>
@@ -259,7 +259,7 @@ tags:
         <td>拳掌10<br>軽功6<br>借勢LV2<br>風雷神腳</td>
         <td>80</td>
         <td>形意拳LV1</td>
-        <td>囲城イベント－丐幇優勢で、宿屋へ撤退 (戦術LV0が必要) すると丐幇に遭遇、風神に助けられ、一千金で取得<br>二年崆峒派留学－夏侯蘭に弟子入りし、三年比武招親の時に後山で練功・墓参りする</td>
+        <td>囲城イベント－丐幇優勢で、宿屋へ撤退 (戦術LV≦2が必要) すると丐幇に遭遇、風神に助けられ、一千金で取得<br>二年崆峒派留学－夏侯蘭に弟子入りし、三年比武招親の時に後山で練功・墓参りする</td>
         <td>1000</td>
     </tr>
     <tr>
