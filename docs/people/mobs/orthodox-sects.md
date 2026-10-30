@@ -336,7 +336,33 @@ tags:
 
 ## 崆峒派
 
-### 飛天門
+點擊有名字的弟子可前往個別頁面；無名弟子的事蹟記在本節下方。四門護法與孔鵲等主要人物收錄於[人物列表](/people/characters/)。
+
+**有名字的弟子**
+
+<div class="mob-index">
+    <a class="mob-card" href="../characters/trainee202.html"><img src="/images/mobs/kong-tong-sect/flying/trainee2_normal.webp" alt="許勝/胡離火/秋老虎/夏嵐" loading="lazy"><span class="mob-name">許勝/胡離火/秋老虎/夏嵐</span></a>
+    <a class="mob-card" href="../characters/trainee203.html"><img src="/images/mobs/kong-tong-sect/flying/trainee3_normal.webp" alt="胡壹千" loading="lazy"><span class="mob-name">胡壹千</span></a>
+    <a class="mob-card" href="../characters/trainee205.html"><img src="/images/mobs/kong-tong-sect/flying/trainee5_normal.webp" alt="阿金" loading="lazy"><span class="mob-name">阿金</span></a>
+    <a class="mob-card" href="../characters/trainee212.html"><img src="/images/mobs/kong-tong-sect/iron/trainee2_normal.webp" alt="黃某/梁老哥" loading="lazy"><span class="mob-name">黃某/梁老哥</span></a>
+    <a class="mob-card" href="../characters/trainee241.html"><img src="/images/characters/trainee241/normal.webp" alt="翟老漢" loading="lazy"><span class="mob-name">翟老漢</span></a>
+    <a class="mob-card" href="../characters/trainee222.html"><img src="/images/mobs/kong-tong-sect/soul/trainee2_normal.webp" alt="郭某" loading="lazy"><span class="mob-name">郭某</span></a>
+    <a class="mob-card" href="../characters/trainee223.html"><img src="/images/mobs/kong-tong-sect/soul/trainee3_normal.webp" alt="耿怔忡" loading="lazy"><span class="mob-name">耿怔忡</span></a>
+    <a class="mob-card" href="../characters/trainee225.html"><img src="/images/mobs/kong-tong-sect/soul/trainee5_normal.webp" alt="王老五" loading="lazy"><span class="mob-name">王老五</span></a>
+</div>
+
+**無名弟子**
+
+<div class="mob-index">
+    <a class="mob-card" href="#崆峒戰隊隊長"><img src="/images/mobs/kong-tong-sect/flying/trainee1_normal.webp" alt="崆峒戰隊隊長" loading="lazy"><span class="mob-name">崆峒戰隊隊長</span></a>
+    <a class="mob-card" href="#二男"><img src="/images/mobs/kong-tong-sect/iron/trainee1_normal.webp" alt="二男" loading="lazy"><span class="mob-name">二男</span></a>
+    <a class="mob-card" href="#鎮魂獄的鐵拳弟子"><img src="/images/mobs/kong-tong-sect/iron/trainee3_normal.webp" alt="鎮魂獄的鐵拳弟子" loading="lazy"><span class="mob-name">鎮魂獄的鐵拳弟子</span></a>
+    <a class="mob-card w2" href="#死亡擂台夫妻"><img src="/images/mobs/kong-tong-sect/soul/trainee1_normal.webp" alt="死亡擂台夫妻" loading="lazy"><img src="/images/mobs/kong-tong-sect/mystic/trainee2_normal.webp" alt="死亡擂台夫妻" loading="lazy"><span class="mob-name">死亡擂台夫妻</span></a>
+    <a class="mob-card" href="#持緝凶令牌的奪魄弟子"><img src="/images/mobs/kong-tong-sect/soul/trainee6_normal.webp" alt="持緝凶令牌的奪魄弟子" loading="lazy"><span class="mob-name">持緝凶令牌的奪魄弟子</span></a>
+    <a class="mob-card" href="#玄功門師姐"><img src="/images/mobs/kong-tong-sect/mystic/trainee1_normal.webp" alt="玄功門師姐" loading="lazy"><span class="mob-name">玄功門師姐</span></a>
+</div>
+
+### 崆峒戰隊隊長
 
 <img src="/images/mobs/kong-tong-sect/flying/trainee1_normal.webp" style="width:200px;" />
 <table>
@@ -349,8 +375,24 @@ tags:
         <td>在趙活見過郁竹後，幸災樂禍地跑來告訴趙活郁竹的裂骨魔事蹟。</td>
     </tr>
     <tr>
+        <td>飛天門霸凌</td>
+        <td>顏疆、金烏的師弟。在一旁捧著金烏師兄，顏疆指點南宮淺動了肝火時勸他冷靜。<br>嘲笑趙活的長相：「他娘親怕不是跟啥豬狗有了首尾。」趙活若動手，便回一句「教你求仁得仁」打回去。</td>
+    </tr>
+    <tr>
+        <td>鎮魂獄羈押</td>
+        <td>追趕逃進奪魄森林的趙活，結果自己也被關進鎮魂獄。<br>獲保出獄時說：「總算不用跟這些汗臭大老粗擠一塊了！」</td>
+    </tr>
+    <tr>
         <td>崆峒留學</td>
         <td>崆峒戰隊的隊長，在趙活與小梅一同逛崆峒後出現找趙活麻煩。<br>組成頭部，有了指揮會變聰明。</td>
+    </tr>
+    <tr>
+        <td>季試消息</td>
+        <td>天剛亮就來叫留學生集合。說起季試的獎賞，飛天門或許能得真人傳授仙法，至於鐵拳門「大概就自選一口鍋子回家吧！」</td>
+    </tr>
+    <tr>
+        <td>馳援南宮</td>
+        <td>一早叫趙活到半雨屏集合。嫌趙活排在自己身後，要小梅往前站。<br>受火龍仙君之命去請南宮家二公子。</td>
     </tr>
     <tr>
         <td>馳援江陵</td>
@@ -360,88 +402,91 @@ tags:
         <td>醫術救大師兄</td>
         <td>千燈樓安插在崆峒的內鬼，階級為二炷香，煽動青城與崆峒使兩派相爭。<br>給小梅發下下手的信號卻遭無視，逼不得已親自動手。殺死看守煉丹房的兩名唐門弟子，毀屍滅跡，闖入煉丹房意圖擾亂醫治大師兄的趙活，亂其心性使其分心岔氣而亡，如此才不會留下刺殺痕跡。<br>被小梅阻止，並於放鬆警戒時遭暗算殺害。<br>若小梅不在唐門，則會在發現難以用言語動搖趙活後出手攻擊。倘若趙活執意不收功迎戰，會一刀刺穿趙活與大師兄，又故意避開趙活要害，留他一口氣感受絕望。</td>
     </tr>
-</table>
-
-<img src="/images/mobs/kong-tong-sect/flying/trainee2_normal.webp" style="width:200px;" />
-<table>
     <tr>
-        <td>崆峒留學</td>
-        <td>接待趙活等留學生。</td>
+        <td>金烏鬧事<br>對決金烏</td>
+        <td>勸金烏師兄冷靜。落居下風時還喊：「勝負還未見分曉呢，接著打呀！」</td>
     </tr>
     <tr>
-        <td>醫術救大師兄</td>
-        <td>千燈樓安插在崆峒的內鬼。<br>將看守煉丹房的唐門門人點穴，在神智清醒的強況下活生生扔下山谷。在趙活擊敗第一名千燈樓刺客後，與安插在青城的千燈樓殺手一同進入煉丹房，佯裝正派人士。</td>
+        <td>崆峒爭奪戰</td>
+        <td>稱丹霞子為大師兄，罵金烏偷襲卑鄙。<br>神雷劍顯靈時要大家快跪下；金烏宣布自己勝出時嗆：「壓根沒打完！你憑啥就當自己贏了！」</td>
     </tr>
     <tr>
-        <td>馳援江陵<br>「火狐狸」胡離火</td>
-        <td>火龍仙君座下弟子，於王二壯叫戰時骰出「不知斤兩的傢伙」時出面。<br>旁觀者還沒做完人物介紹就下場了。<br>「飛天五杰」中的么弟。<br>隨後參戰的兩人皆無立繪。<br>「飛天五杰」中的「秋老虎」還沒介紹就下場了。<br>再之後的「暑吏」夏嵐為奪魄門轉拜飛天門，擅長使用內功逼供，卻反被王二壯掌力逼迫，燃燒起來。</td>
+        <td>武林大會</td>
+        <td>崆峒站到唐門這邊時大喊：「媽的咧，我憋得夠久了，掌派人好樣的！」<br>對少林僧人嗆：「我是崆峒的！我總可以罵吧！」</td>
     </tr>
 </table>
 
-### 奪魄門
-
-<img src="/images/mobs/kong-tong-sect/soul/trainee1_normal.webp" style="width:200px;" />
-
-<table>
-    <tr>
-        <td>崆峒留學</td>
-        <td>趙活留學奪魄時接待趙活，並代替掌門將奪魄秘笈無影爪授予趙活。</td>
-    </tr>
-    <tr>
-        <td>崆峒留學</td>
-        <td>介紹死亡擂台。<br>「像你這種軟腳蝦決鬥者，沒有資格參加我崆峒舉辦的死亡擂台大賽！！」</td>
-    </tr>
-    <tr>
-        <td>崆峒留學<br>「王老五」</td>
-        <td>與郁竹預約了打磨兵器，因郁竹認錯人的關係誤以為郁竹讓趙活插隊，又因郁竹將趙活認作他而憤怒，口不擇言爆發爭執。<br>若趙活沒有介入，會搶走郁竹的晨食說是退訂金，然而他本來就沒付訂金。</td>
-    </tr>
-</table>
-
-<img src="/images/mobs/kong-tong-sect/soul/trainee2_normal.webp" style="width:200px;" />
-<table>
-    <tr>
-        <td>崆峒留學</td>
-        <td>趙活留學奪魄時接待趙活。<br>送趙活到招待所、叮囑注意事項，卻連姓名都不說。</td>
-    </tr>
-    <tr>
-        <td>崆峒派</td>
-        <td>崆峒戰隊，在趙活與小梅一同逛崆峒後出現找趙活麻煩。<br>組合腳和腿，用神出鬼沒的身法迷惑你。<br>見到瑞笙的臉便怒急攻心，將火力轉移至瑞笙身上。<br>跟戰隊裡的鐵拳弟子借了春宮圖，死也不還。</td>
-    </tr>
-    <tr>
-        <td>崆峒留學</td>
-        <td>在趙活於賭場大贏時盯上趙活，意圖搶錢。</td>
-    </tr>
-</table>
-
-### 鐵拳門
+### 二男
 
 <img src="/images/mobs/kong-tong-sect/iron/trainee1_normal.webp" style="width:200px;" />
 <table>
     <tr>
         <td>崆峒留學</td>
-        <td>於鐵拳巷初見趙活時，以為趙活是妖怪，自己向飛天門買的辟邪玉不管用。</td>
-    </tr>
-</table>
-
-<img src="/images/mobs/kong-tong-sect/iron/trainee2_normal.webp" style="width:200px;" />
-<table>
-    <tr>
-        <td>崆峒留學「黃某」</td>
-        <td>崆峒戰隊，在趙活與小梅一同逛崆峒後出現找趙活麻煩。<br>組合軀幹和手臂。<br>討厭長得比他好看的人，瑞笙一出現就將火力轉移至瑞笙身上。<br>賭錢時說若輸了就跟別人姓，所以現在姓黃不姓莊。然而他原本也不姓莊。<br>會畫春宮圖，崆峒戰隊拆夥後欲向餘下兩人討回之前畫的春宮圖，遭到拒絕。</td>
+        <td>雷掌門說鐵拳門是崆峒最糟的一門時，勸他「掌門師伯，你這樣說不好吧」。<br>雷掌門叫他「二男」，要他帶趙活去新裝潢的招待所。路上說起鐵拳門歷代掌門好收留別門不要的人，人多了便攬下伙食與雜務；別門若說風涼話儘管告訴他們，「沒有用屁股直接朝菜餚上噴灑，已經算顧念同派情誼了」。</td>
     </tr>
     <tr>
         <td>崆峒留學</td>
-        <td>在趙活於賭場大贏時盯上趙活，意圖搶錢。</td>
+        <td>於鐵拳巷初見趙活時，以為趙活是妖怪，自己向飛天門買的辟邪玉不管用。<br>和趙活商量要接哪些鐵鍋、農具的活，還說要剃頭毛可以找他，給打折。</td>
+    </tr>
+    <tr>
+        <td>鎮魂獄羈押</td>
+        <td>一路追趕趙活到奪魄森林，跟著被關進鎮魂獄，嚷著「雷老大會保我們出去」。</td>
+    </tr>
+    <tr>
+        <td>崆峒爭奪戰</td>
+        <td>替戰死同門的家人去請大夫。<br>丹霞子回山時，罵倒戈的飛天弟子「牆頭草」，並對丹霞子說：「你不當掌派，誰當？」<br>金烏宣布繼任時嗆：「我可沒有見證任何事情，就見證了你睜眼說瞎話。」</td>
+    </tr>
+    <tr>
+        <td>唐門抉擇</td>
+        <td>「把錦香宮人都接到鐵拳巷！崆峒還有好多光棍！」</td>
     </tr>
 </table>
 
-### 玄功門
+### 鎮魂獄的鐵拳弟子
 
-<img src="/images/mobs/kong-tong-sect/mystic/trainee1_normal.webp" style="width:200px;" />
+<img src="/images/mobs/kong-tong-sect/iron/trainee3_normal.webp" style="width:200px;" />
+<table>
+    <tr>
+        <td>鎮魂獄羈押</td>
+        <td>和其他追趕趙活的崆峒弟子一起被關進鎮魂獄。聽說小竹來保人，喊道：「是小竹！太好了，可以出去了！」</td>
+    </tr>
+    <tr>
+        <td>唐門迎敵</td>
+        <td>破廟線中，假扮鐵拳弟子夜襲唐門的賊人手下，也有人長這個樣子。</td>
+    </tr>
+</table>
+
+### 死亡擂台夫妻
+
+<img src="/images/mobs/kong-tong-sect/soul/trainee1_normal.webp" style="width:200px;" />
 <table>
     <tr>
         <td>崆峒留學</td>
-        <td>指導峨嵋留學生點穴的老師，見趙活無人仰仗好欺負，讓留學生拿趙活練手，並從旁指點。<br>不知為何身上帶著峨嵋派的秘笈。</td>
+        <td>趙活留學奪魄時接待趙活，並代替閉關的掌門將奪魄秘笈無影爪授予趙活。</td>
+    </tr>
+    <tr>
+        <td>崆峒留學</td>
+        <td>介紹死亡擂台。<br>「像你這種軟腳蝦決鬥者，沒有資格參加我崆峒舉辦的死亡擂台大賽！！」<br>得意自己「討了個漂亮婆娘」。</td>
+    </tr>
+    <tr>
+        <td>鎮魂獄羈押</td>
+        <td>來牢裡帶走有人作保的崆峒弟子。</td>
+    </tr>
+    <tr>
+        <td>崆峒季試</td>
+        <td>擔任裁判。趙活連勝三場後喊停：「勝負已分，再打就要出人命了。」</td>
+    </tr>
+    <tr>
+        <td>馳援南宮</td>
+        <td>負責通知記名奪魄門的弟子到半雨屏集合。</td>
+    </tr>
+    <tr>
+        <td>崆峒爭奪戰</td>
+        <td>小竹的父親就是他打的：「什麼樣的人，會拿女兒的身後錢去賭博……又拿另一個女兒去抵債？」<br>丹霞子回山時向雷掌門報信，之後向魏掌門回報戰況。</td>
+    </tr>
+    <tr>
+        <td>唐門抉擇</td>
+        <td>「沒錯，大不了不當六大派了，呸！」</td>
     </tr>
 </table>
 
@@ -451,4 +496,86 @@ tags:
         <td>崆峒留學</td>
         <td>死亡擂台登記處，奪魄弟子的老婆。<br>要丈夫不要多管閒事，擅自把參賽志願者趕走。</td>
     </tr>
+    <tr>
+        <td>馳援南宮</td>
+        <td>奉魏掌門之命叫醒記名玄功門的趙活，要他到半雨屏後在玄功門的隊列中等候。</td>
+    </tr>
 </table>
+
+### 持緝凶令牌的奪魄弟子
+
+<img src="/images/mobs/kong-tong-sect/soul/trainee6_normal.webp" style="width:200px;" />
+<table>
+    <tr>
+        <td>大鐵鋪遭竊</td>
+        <td>選擇追左邊並抓到偷旋鼓的男童時出現。亮出緝凶令牌，自稱受先掌門之命，要斬男童的手。<br>小竹以嫡傳女弟子的身分攔下，他嘲諷「竹師姐也會擺嫡傳女弟子的架子」，問清緣由後說「我也有個好娘親」，放過男童。</td>
+    </tr>
+    <tr>
+        <td>崆峒爭奪戰</td>
+        <td>混在金烏一方的人馬中，喊著「打不贏了，快，快退回去！」</td>
+    </tr>
+</table>
+
+### 玄功門師姐
+
+<img src="/images/mobs/kong-tong-sect/mystic/trainee1_normal.webp" style="width:200px;" />
+<table>
+    <tr>
+        <td>崆峒留學</td>
+        <td>魏菊的師姐，稱她「掌門師妹」。不滿魏菊親自招呼別派來打雜的弟子，搶過茶具。<br>帶趙活到招待所，提醒他魏掌門雖然自稱小妹，他卻不能當真。</td>
+    </tr>
+    <tr>
+        <td>崆峒留學</td>
+        <td>向趙活說明崆峒的規矩：玄功門重內功；新任掌派人可以迎娶四門的嫡傳女弟子為妻，「梅、蘭、竹、菊皆是未來掌派人的未過門新娘子」。</td>
+    </tr>
+    <tr>
+        <td>崆峒留學</td>
+        <td>指導峨嵋留學生點穴的老師，見趙活無人仰仗好欺負，讓留學生拿趙活練手，並從旁指點。<br>不知為何身上帶著峨嵋派的秘笈。</td>
+    </tr>
+    <tr>
+        <td>江陵決戰</td>
+        <td>替趙活把脈，看出他練了鐵琵琶功。<br>魏掌門要收趙活入玄功門時反對：「妳還想讓他當掌派人？妳看看他這張臉。」</td>
+    </tr>
+    <tr>
+        <td>唐門抉擇</td>
+        <td>「沒門，那必須得通通加入我們玄功門啊！」</td>
+    </tr>
+    <tr>
+        <td>武林大會</td>
+        <td>魏菊讓出掌門之位後，仍說「在我們心中，您永遠都是玄功掌門」，隨後去馳援崆峒同門。</td>
+    </tr>
+</table>
+
+<style>
+/* 立繪要直接放在 a 底下：內文裡父元素不是 a 的圖片，會被留言區的燈箱包上一層連結，卡片的連結就點不動了 */
+.mob-index {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 12px;
+    margin: 16px 0 32px;
+}
+.mob-index .mob-card {
+    display: grid;
+    grid-template-columns: 1fr;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--vp-c-bg-soft);
+    text-decoration: none;
+    color: var(--vp-c-text-1);
+    transition: border-color .2s;
+}
+.mob-index .mob-card:hover { border-color: var(--vp-c-brand-1); }
+.mob-index .mob-card.w2 { grid-column: span 2; grid-template-columns: repeat(2, 1fr); }
+.mob-index .mob-card.w3 { grid-column: span 3; grid-template-columns: repeat(3, 1fr); }
+.mob-index .mob-card img { width: 100%; min-width: 0; height: 200px; object-fit: contain; object-position: 50% 100%; }
+.mob-index .mob-name {
+    grid-column: 1 / -1;
+    padding: 6px 4px;
+    font-size: 14px;
+    line-height: 1.4;
+    text-align: center;
+    border-top: 1px solid var(--vp-c-divider);
+    background: var(--vp-c-bg);
+}
+</style>

@@ -510,14 +510,7 @@ tags:
 
 ### 顏嫂
 
-<img src="/images/mobs/kong-tong-sect/flying/trainee431_normal.webp" style="width:200px;" />
-
-<table>
-    <tr>
-        <td>小梅線<br>探監</td>
-        <td>花錢收買守衛探監。出於不捨，帶水、毛巾、換洗衣物替小梅和郁竹梳洗。</td>
-    </tr>
-</table>
+[[顏疆]]的妻子，本名孔鵲。事蹟見個別頁面[[孔鵲]]。
 
 ## 動物
 
