@@ -97,7 +97,7 @@ tags:
         <td><Girl6Icon :size="`medium`">郁竹</Girl6Icon></td>
         <td>6</td>
         <td>嬌小玲瓏</td>
-        <td>恬靜溫馴</td>
+        <td>活潑開朗<br>或<br>恬靜溫馴</td>
         <td>力拔山兮氣蓋世</td>
         <td>
             請見<MarkdownWrapper>[〈郁竹結緣攻略〉](/event/pursuit/girl6)</MarkdownWrapper><br>
