@@ -131,9 +131,6 @@ tags:
     </tr>
 </table>
 
-
-# {{ $frontmatter.title }}
-
 ### 丐幫/畜生道
 #### 乞丐
 <img src="/images/mobs/beggar-gang/beggar1_normal.webp" style="width:200px;" />
