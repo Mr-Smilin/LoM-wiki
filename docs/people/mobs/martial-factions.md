@@ -79,6 +79,7 @@ tags:
 ## 泥教
 ### 泥教採藥弟子
 
+<img src="/images/mobs/mud-school/herb_gatherer_group1.webp" style="width:310px;" />
 <table>
     <tr>
         <td>大師兄重傷</td>
@@ -106,6 +107,8 @@ tags:
 
 ### 地獄道
 #### 鬼卒
+
+<img src="/images/mobs/mud-school/ghost1_normal.webp" style="width:200px;" />
 <table>
     <tr>
         <td>逃離青城</td>
