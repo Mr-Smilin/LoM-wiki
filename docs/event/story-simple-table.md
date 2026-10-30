@@ -280,7 +280,7 @@ tags:
 </tr>
 
 <tr>
-    <td rowspan = 2 style="text-align: center">四</td>
+    <td rowspan = 3 style="text-align: center">四</td>
     <td style="text-align: center">上</td>
     <td style="text-align: center">
         <MarkdownWrapper>
@@ -306,15 +306,20 @@ tags:
     </td>
     <td colspan = 3 style="text-align: center">-</td>
 </tr>
+<tr>
+    <td style="text-align: center">中</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+			[神秘人送錢](/event/simple/2-04-3-神秘人送錢)<br>
+        </MarkdownWrapper>
+    </td>
+    <td colspan = 3 style="text-align: center">-</td>
+</tr>
 
 <tr>
     <td rowspan = 2 style="text-align: center">五</td>
     <td style="text-align: center">上</td>
-    <td style="text-align: center">
-        <MarkdownWrapper>
-            神秘人送錢<br>
-        </MarkdownWrapper>
-    </td>
+    <td style="text-align: center">-</td>
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
             [多人拜師](/event/simple/2-05-1-多人拜師)<br>
