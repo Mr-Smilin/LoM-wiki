@@ -307,7 +307,7 @@ tags:
     <td colspan = 3 style="text-align: center">-</td>
 </tr>
 <tr>
-    <td style="text-align: center">中</td>
+    <td style="text-align: center">下</td>
     <td style="text-align: center">
         <MarkdownWrapper>
 			[神秘人送錢](/event/simple/2-04-3-神秘人送錢)<br>
