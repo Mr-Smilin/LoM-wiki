@@ -49,6 +49,10 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special213/laugh.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
 </ChTabs>
 <br>
 

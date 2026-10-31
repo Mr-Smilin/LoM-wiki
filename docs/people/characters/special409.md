@@ -50,6 +50,10 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="受傷">
+		<Ch src='/images/characters/special409/hurt.webp' position='center'/>
+		<ChName nameZh='受傷' nameEn='Injured' position='right' />
+	</ChTab>
 </ChTabs>
 <br>
 
@@ -65,7 +69,7 @@ tags:
 
 <br>
 
-現版本(v1.0.5000)完全沒有戲份，只有在發售PV短暫出現過：[連結](https://youtu.be/O3To9yxYRvU?si=2T8AYhgTGattE-Sh&t=56)。
+沒有台詞，只在<EndIcon no="61">汗青書61：崆峒掌派人</EndIcon>結局的旁白裡以重傷的樣子出場；發售PV也短暫出現過：[連結](https://youtu.be/O3To9yxYRvU?si=2T8AYhgTGattE-Sh&t=56)。
 
 ## 備註
 

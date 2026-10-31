@@ -56,6 +56,14 @@ tags:
             </ChTr>
         </ChTable>
     </ChTab>
+    <ChTab title="高潮">
+        <Ch src='/images/characters/lingnan_trainee/trainee3_special1.webp' position='center'/>
+        <ChName nameZh='高潮' nameEn='Ecstasy' position='right' />
+    </ChTab>
+    <ChTab title="受傷">
+        <Ch src='/images/characters/lingnan_trainee/trainee3_hurt.webp' position='center'/>
+        <ChName nameZh='受傷' nameEn='Injured' position='right' />
+    </ChTab>
 </ChTabs>
 
 > 「哦……哦哦……我成功了……我造謠成功了，好爽……！大名鼎鼎的蒼松劍客，也被我一張嘴輕言擺佈，我還不用負責，這就是言語的力量！」

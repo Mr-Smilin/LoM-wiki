@@ -51,6 +51,10 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/other18/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
