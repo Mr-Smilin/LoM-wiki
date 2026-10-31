@@ -72,6 +72,48 @@ tags:
             </ChTr>
         </ChTable>
     </ChTab>
+    <ChTab title="微笑">
+        <Ch
+            src='/images/characters/special208/laugh1.webp' 
+            position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch
+            src='/images/characters/special208/nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="驚嚇">
+        <Ch
+            src='/images/characters/special208/nervous2.webp' 
+            position='center'/>
+        <ChName nameZh='驚嚇' nameEn='Shock' position='right' />
+    </ChTab>
+    <ChTab title="生氣">
+        <Ch
+            src='/images/characters/special208/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="哭泣">
+        <Ch
+            src='/images/characters/special208/sad.webp' 
+            position='center'/>
+        <ChName nameZh='哭泣' nameEn='Cry' position='right' />
+    </ChTab>
+    <ChTab title="假哭得逞">
+        <Ch
+            src='/images/characters/special208/special1.webp' 
+            position='center'/>
+        <ChName nameZh='假哭得逞' nameEn='Crocodile Tears' position='right' />
+    </ChTab>
+    <ChTab title="嶺南派">
+        <Ch
+            src='/images/characters/special208/section_normal.webp' 
+            position='center'/>
+        <ChName nameZh='嶺南派' nameEn='Lingnan Sect' position='right' />
+    </ChTab>
 </ChTabs>
 
 > 「跩什麼，我可是入室弟子，從今以後叫唐和。」
