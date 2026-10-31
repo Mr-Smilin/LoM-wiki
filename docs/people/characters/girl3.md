@@ -149,6 +149,14 @@ aside: false
 			nameZh='駕～阿活'
 			nameEn='Giddy-up!'/>
 	</ChTab>
+	<ChTab title="駕～阿活2">
+		<Ch 
+			src='/images/characters/girl_3/special5_2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='駕～阿活2'
+			nameEn='Giddy-up! 2'/>
+	</ChTab>
 	<ChTab title="害羞">
 		<Ch 
 			src='/images/characters/girl_3/shy1.webp' 
