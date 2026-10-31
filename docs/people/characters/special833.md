@@ -67,6 +67,42 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special833/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch src='/images/characters/special833/nervous2.webp' position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch src='/images/characters/special833/nervous3.webp' position='center'/>
+		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special833/angry2.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="陰沉">
+		<Ch src='/images/characters/special833/gloomy.webp' position='center'/>
+		<ChName nameZh='陰沉' nameEn='Gloomy' position='right' />
+	</ChTab>
+	<ChTab title="怨念">
+		<Ch src='/images/characters/special833/gloomy2.webp' position='center'/>
+		<ChName nameZh='怨念' nameEn='Grudge' position='right' />
+	</ChTab>
+	<ChTab title="哭泣">
+		<Ch src='/images/characters/special833/cry.webp' position='center'/>
+		<ChName nameZh='哭泣' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="絕望">
+		<Ch src='/images/characters/special833/hopeless.webp' position='center'/>
+		<ChName nameZh='絕望' nameEn='Despair' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special833/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
 </ChTabs>
 <br>
 
@@ -84,7 +120,7 @@ tags:
 
 多年前收到家書，得知十一歲的親妹[[段婉清]]將被嫁去吐蕃，才知多年抄佛經沒換來皇帝一絲同情，只有變本加厲的欺辱。孰不可忍，與葉家兄妹計畫襲擊和親車隊，趁亂救人。
 <br><br>
-反抗皇帝需要養兵，蓄養軍隊需要雄厚財力，他想起[[葉雲裳]]九歲在七龍女池畔伴家家時，曾說葉家有岳王寶藏。堅信這點，他臨陣變卦，收買同門師兄弟，棄[[葉雲舟]]於亂軍之中，更騙走聽雲劍，以此取信葉雲裳，欲哄騙出寶藏線索。然而葉雲舟命不該絕，一劍廢了段智秀的右手，與他恩斷義絕，攜妹子逃往中原。
+反抗皇帝需要養兵，蓄養軍隊需要雄厚財力，他想起[[葉雲裳]]九歲在七龍女池畔扮家家時，曾說葉家有岳王寶藏。堅信這點，他臨陣變卦，收買同門師兄弟，棄[[葉雲舟]]於亂軍之中，更騙走聽雲劍，以此取信葉雲裳，欲哄騙出寶藏線索。然而葉雲舟命不該絕，一劍廢了段智秀的右手，與他恩斷義絕，攜妹子逃往中原。
 <br><br>
 右手被廢，斷了劍客生涯，只好退出點蒼派，拜入[[青城派]]的[[鐵冠道人]]門下。為了雄圖大志，執意追蹤葉家兄妹行蹤，聽信[[溫夫人]]的計策，假扮為南宮秀，收買盜匪襲擊[[唐門]]，間接導致[[趙活]]到青城留學，並與[[葉雲裳]]再次見面。
 <br><br>
