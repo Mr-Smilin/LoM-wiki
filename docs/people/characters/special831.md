@@ -34,12 +34,12 @@ tags:
 					[[瑞笙]] (郎君)
 				</ChTd>
 			</ChTr>
-    			<ChTr>
+			<ChTr>
 				<ChTd position='center'>
 					[[趙方]] (外祖父)
 				</ChTd>
-            </ChTr>
-    			<ChTr>
+			</ChTr>
+			<ChTr>
 				<ChTd position='center'>
 					孟珙 (四哥)
 				</ChTd>
@@ -50,6 +50,38 @@ tags:
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special831/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special831/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch src='/images/characters/special831/nervous2.webp' position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="害羞">
+		<Ch src='/images/characters/special831/shy.webp' position='center'/>
+		<ChName nameZh='害羞' nameEn='Shy' position='right' />
+	</ChTab>
+	<ChTab title="不悅">
+		<Ch src='/images/characters/special831/angry1.webp' position='center'/>
+		<ChName nameZh='不悅' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special831/angry2.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="哭泣">
+		<Ch src='/images/characters/special831/sad.webp' position='center'/>
+		<ChName nameZh='哭泣' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="喝醉">
+		<Ch src='/images/characters/special831/drunk.webp' position='center'/>
+		<ChName nameZh='喝醉' nameEn='Drunk' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>
