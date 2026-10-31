@@ -43,6 +43,12 @@ tags:
             </ChTr>
         </ChTable>
     </ChTab>
+    <ChTab title="生氣">
+        <Ch
+            src='/images/characters/aunt2/normal_2_angry.webp' 
+            position='center'/>
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+    </ChTab>
 </ChTabs>
 
 > 「區區一個外姓弟子，不認清自己身份，還敢動手打我乾兒？」
