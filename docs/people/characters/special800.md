@@ -59,7 +59,7 @@ aside: false
 	</ChTab>
 	<ChTab title="兔美臉">
 		<Ch src='/images/characters/special800/special.webp' position='center'/>
-		<ChName nameZh='兔美臉' nameEn='Dumbfounded' position='right' />
+		<ChName nameZh='兔美臉' nameEn='Usami Face' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>
