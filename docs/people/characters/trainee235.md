@@ -47,6 +47,18 @@ tags:
             </ChTr>
         </ChTable>
     </ChTab>
+    <ChTab title="汗顏">
+        <Ch src='/images/characters/trainee235/nervous1.webp' position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="翻白眼">
+        <Ch src='/images/characters/trainee235/roll_eye.webp' position='center'/>
+        <ChName nameZh='翻白眼' nameEn='Eye Roll' position='right' />
+    </ChTab>
+    <ChTab title="撐傘">
+        <Ch src='/images/characters/trainee235/umbrella.webp' position='center'/>
+        <ChName nameZh='撐傘' nameEn='Umbrella' position='right' />
+    </ChTab>
 </ChTabs>
 
 > 「小妹是玄功先掌門座下弟子，黃佩華。論位份，掌門、護法以下，佩華虛佔第一。」

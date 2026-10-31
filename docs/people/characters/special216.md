@@ -55,6 +55,10 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="驚嚇">
+		<Ch src='/images/characters/special216/nervous2.webp' position='center'/>
+		<ChName nameZh='驚嚇' nameEn='Shock' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 

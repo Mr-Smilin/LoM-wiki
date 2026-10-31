@@ -55,6 +55,18 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special806/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="喝醉">
+		<Ch src='/images/characters/special806/drunk.webp' position='center'/>
+		<ChName nameZh='喝醉' nameEn='Drunk' position='right' />
+	</ChTab>
+	<ChTab title="流鼻血">
+		<Ch src='/images/characters/special806/norseblood.webp' position='center'/>
+		<ChName nameZh='流鼻血' nameEn='Nosebleed' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
