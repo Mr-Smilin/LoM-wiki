@@ -35,6 +35,30 @@ aside: false
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special825/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch src='/images/characters/special825/nervous2.webp' position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="害羞">
+		<Ch src='/images/characters/special825/shy.webp' position='center'/>
+		<ChName nameZh='害羞' nameEn='Shy' position='right' />
+	</ChTab>
+	<ChTab title="不悅">
+		<Ch src='/images/characters/special825/angry1.webp' position='center'/>
+		<ChName nameZh='不悅' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special825/angry2.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="陰笑">
+		<Ch src='/images/characters/special825/gloomy.webp' position='center'/>
+		<ChName nameZh='陰笑' nameEn='Sinister Smile' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
