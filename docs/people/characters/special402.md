@@ -99,6 +99,50 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special402/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="閉眼笑">
+		<Ch src='/images/characters/special402/close_eye_laugh.webp' position='center'/>
+		<ChName nameZh='閉眼笑' nameEn='Close Eyes Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special402/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="不悅">
+		<Ch src='/images/characters/special402/angry1.webp' position='center'/>
+		<ChName nameZh='不悅' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="陰笑">
+		<Ch src='/images/characters/special402/gloomy.webp' position='center'/>
+		<ChName nameZh='陰笑' nameEn='Sinister Smile' position='right' />
+	</ChTab>
+	<ChTab title="沉吟">
+		<Ch src='/images/characters/special402/special.webp' position='center'/>
+		<ChName nameZh='沉吟' nameEn='Pondering' position='right' />
+	</ChTab>
+	<ChTab title="悲傷">
+		<Ch src='/images/characters/special402/sad.webp' position='center'/>
+		<ChName nameZh='悲傷' nameEn='Sad' position='right' />
+	</ChTab>
+	<ChTab title="彈奏">
+		<Ch src='/images/characters/special402/angry3.webp' position='center'/>
+		<ChName nameZh='彈奏' nameEn='Playing Pipa' position='right' />
+	</ChTab>
+	<ChTab title="受傷">
+		<Ch src='/images/characters/special402/hurt.webp' position='center'/>
+		<ChName nameZh='受傷' nameEn='Injured' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special402/crazy.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="重傷(哀傷)">
+		<Ch src='/images/characters/special402/crazy_sad.webp' position='center'/>
+		<ChName nameZh='重傷(哀傷)' nameEn='Severely Injured (Sad)' position='right' />
+	</ChTab>
 	<ChTab title="蘇迎香">
 		<Ch src='/images/characters/special402/normal2.webp' position='center'/>
 		<ChName nameZh='蘇迎香' nameEn='Su Ying Xiang' position='right' />
