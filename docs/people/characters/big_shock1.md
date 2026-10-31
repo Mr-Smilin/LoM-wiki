@@ -42,6 +42,34 @@ tags:
             </ChTr>
         </ChTable>
     </ChTab>
+    <ChTab title="汗顏">
+        <Ch src='/images/characters/big_shock1/nervous1.webp' position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="唐大鯨">
+        <Ch src='/images/characters/big_shock1/tang_normal.webp' position='center'/>
+        <ChName nameZh='唐大鯨' nameEn='Tang Da Jing' position='right' />
+    </ChTab>
+    <ChTab title="唐大鯨(微笑)">
+        <Ch src='/images/characters/big_shock1/tang_laugh1.webp' position='center'/>
+        <ChName nameZh='唐大鯨(微笑)' nameEn='Tang Da Jing (Smile)' position='right' />
+    </ChTab>
+    <ChTab title="唐大鯨(汗顏)">
+        <Ch src='/images/characters/big_shock1/tang_nervous1.webp' position='center'/>
+        <ChName nameZh='唐大鯨(汗顏)' nameEn='Tang Da Jing (Sweating)' position='right' />
+    </ChTab>
+    <ChTab title="唐大鯨(緊張)">
+        <Ch src='/images/characters/big_shock1/tang_nervous2.webp' position='center'/>
+        <ChName nameZh='唐大鯨(緊張)' nameEn='Tang Da Jing (Nervous)' position='right' />
+    </ChTab>
+    <ChTab title="唐大鯨(不悅)">
+        <Ch src='/images/characters/big_shock1/tang_angry1.webp' position='center'/>
+        <ChName nameZh='唐大鯨(不悅)' nameEn='Tang Da Jing (Displeased)' position='right' />
+    </ChTab>
+    <ChTab title="唐大鯨(生氣)">
+        <Ch src='/images/characters/big_shock1/tang_angry2.webp' position='center'/>
+        <ChName nameZh='唐大鯨(生氣)' nameEn='Tang Da Jing (Angry)' position='right' />
+    </ChTab>
 </ChTabs>
 
 > 「一條草魚就賣二百文，從沒喊價。怎麼家家戶戶都嫌貴、說我坑錢。」
