@@ -43,6 +43,26 @@ aside: false
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special809/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch src='/images/characters/special809/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch src='/images/characters/special809/nervous2.webp' position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special809/angry1.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="哭泣">
+		<Ch src='/images/characters/special809/sad.webp' position='center'/>
+		<ChName nameZh='哭泣' nameEn='Cry' position='right' />
+	</ChTab>
 </ChTabs>
 
 > 「武林盟那那那群傢伙，一定想不到我們會從城鎮夾夾夾，夾夾～夾 ── 他媽的！」
