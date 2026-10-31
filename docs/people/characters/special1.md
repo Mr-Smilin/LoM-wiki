@@ -55,6 +55,30 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special1/laugh.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch src='/images/characters/special1/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special1/nervous.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special1/angry2.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="瘋狂">
+		<Ch src='/images/characters/special1/angry3.webp' position='center'/>
+		<ChName nameZh='瘋狂' nameEn='Frenzy' position='right' />
+	</ChTab>
+	<ChTab title="受傷">
+		<Ch src='/images/characters/special1/hurt.webp' position='center'/>
+		<ChName nameZh='受傷' nameEn='Injured' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
