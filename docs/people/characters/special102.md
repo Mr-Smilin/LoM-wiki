@@ -61,13 +61,57 @@ aside: false
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special102/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch src='/images/characters/special102/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special102/nervious1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="不悅">
+		<Ch src='/images/characters/special102/angry1.webp' position='center'/>
+		<ChName nameZh='不悅' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special102/angry2.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="陰笑">
+		<Ch src='/images/characters/special102/gloomy2.webp' position='center'/>
+		<ChName nameZh='陰笑' nameEn='Sinister Smile' position='right' />
+	</ChTab>
+	<ChTab title="悲傷">
+		<Ch src='/images/characters/special102/sad.webp' position='center'/>
+		<ChName nameZh='悲傷' nameEn='Sad' position='right' />
+	</ChTab>
+	<ChTab title="受傷">
+		<Ch src='/images/characters/special102/hurt.webp' position='center'/>
+		<ChName nameZh='受傷' nameEn='Injured' position='right' />
+	</ChTab>
 	<ChTab title="鳳凰寶衣1">
 		<Ch src='/images/characters/special102/special1.webp' position='center'/>
 		<ChName nameZh='鳳凰寶衣' nameEn='Phoenix Armor' position='right' />
 	</ChTab>
-		<ChTab title="鳳凰寶衣2">
+	<ChTab title="鳳凰寶衣2">
 		<Ch src='/images/characters/special102/special2.webp' position='center'/>
 		<ChName nameZh='鳳凰寶衣' nameEn='Phoenix Armor' position='right' />
+	</ChTab>
+	<ChTab title="鳳凰寶衣(汗)">
+		<Ch src='/images/characters/special102/special_nervous1.webp' position='center'/>
+		<ChName nameZh='鳳凰寶衣(汗)' nameEn='Phoenix Armor (Sweat)' position='right' />
+	</ChTab>
+	<ChTab title="鳳凰寶衣(不悅)">
+		<Ch src='/images/characters/special102/special_angry1.webp' position='center'/>
+		<ChName nameZh='鳳凰寶衣(不悅)' nameEn='Phoenix Armor (Displeased)' position='right' />
+	</ChTab>
+	<ChTab title="鳳凰寶衣(重傷)">
+		<Ch src='/images/characters/special102/special_hurt.webp' position='center'/>
+		<ChName nameZh='鳳凰寶衣(重傷)' nameEn='Phoenix Armor (Severely Injured)' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>
