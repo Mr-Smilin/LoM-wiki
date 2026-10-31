@@ -18,6 +18,90 @@ aside: false
 			:animation=true
 		/>
     </ChTab>
+    <ChTab title="微笑">
+        <Ch
+            src='/images/characters/brother1/laugh1.webp' 
+            position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="大笑">
+        <Ch
+            src='/images/characters/brother1/laugh2.webp' 
+            position='center'/>
+        <ChName nameZh='大笑' nameEn='Laugh' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch
+            src='/images/characters/brother1/nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="緊張">
+        <Ch
+            src='/images/characters/brother1/nervous2.webp' 
+            position='center'/>
+        <ChName nameZh='緊張' nameEn='Nervous' position='right' />
+    </ChTab>
+    <ChTab title="尷尬">
+        <Ch
+            src='/images/characters/brother1/nervous3.webp' 
+            position='center'/>
+        <ChName nameZh='尷尬' nameEn='Awkward' position='right' />
+    </ChTab>
+    <ChTab title="驚嚇">
+        <Ch
+            src='/images/characters/brother1/shock.webp' 
+            position='center'/>
+        <ChName nameZh='驚嚇' nameEn='Shock' position='right' />
+    </ChTab>
+    <ChTab title="不悅">
+        <Ch
+            src='/images/characters/brother1/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='不悅' nameEn='Displeased' position='right' />
+    </ChTab>
+    <ChTab title="生氣">
+        <Ch
+            src='/images/characters/brother1/angry2.webp' 
+            position='center'/>
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="出招">
+        <Ch
+            src='/images/characters/brother1/angry3.webp' 
+            position='center'/>
+        <ChName nameZh='出招' nameEn='Ready to Strike' position='right' />
+    </ChTab>
+    <ChTab title="嚴肅">
+        <Ch
+            src='/images/characters/brother1/serious.webp' 
+            position='center'/>
+        <ChName nameZh='嚴肅' nameEn='Serious' position='right' />
+    </ChTab>
+    <ChTab title="嫌棄">
+        <Ch
+            src='/images/characters/brother1/suck.webp' 
+            position='center'/>
+        <ChName nameZh='嫌棄' nameEn='Disgusted' position='right' />
+    </ChTab>
+    <ChTab title="重傷">
+        <Ch
+            src='/images/characters/brother1/hurt.webp' 
+            position='center'/>
+        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+    </ChTab>
+    <ChTab title="忍痛">
+        <Ch
+            src='/images/characters/brother1/special1.webp' 
+            position='center'/>
+        <ChName nameZh='忍痛' nameEn='Enduring the Pain' position='right' />
+    </ChTab>
+    <ChTab title="斗笠">
+        <Ch
+            src='/images/characters/brother1/hat.webp' 
+            position='center'/>
+        <ChName nameZh='斗笠' nameEn='Bamboo Hat' position='right' />
+    </ChTab>
 </ChTabs>
 <br>
 
