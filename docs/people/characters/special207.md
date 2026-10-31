@@ -54,6 +54,34 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special207/laugh.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special207/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch src='/images/characters/special207/nervous2.webp' position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch src='/images/characters/special207/nervous3.webp' position='center'/>
+		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special207/angry1.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="陰笑">
+		<Ch src='/images/characters/special207/gloomy2.webp' position='center'/>
+		<ChName nameZh='陰笑' nameEn='Sinister Smile' position='right' />
+	</ChTab>
+	<ChTab title="真身">
+		<Ch src='/images/characters/special207/special1.webp' position='center'/>
+		<ChName nameZh='真身' nameEn='True Form' position='right' />
+	</ChTab>
 </ChTabs>
 <br>
 
