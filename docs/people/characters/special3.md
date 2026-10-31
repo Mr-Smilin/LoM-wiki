@@ -61,6 +61,54 @@ aside: false
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special3/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special3/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch src='/images/characters/special3/nervous2.webp' position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch src='/images/characters/special3/nervous3.webp' position='center'/>
+		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="不悅">
+		<Ch src='/images/characters/special3/angry1.webp' position='center'/>
+		<ChName nameZh='不悅' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special3/angry2.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="哭泣">
+		<Ch src='/images/characters/special3/sad1.webp' position='center'/>
+		<ChName nameZh='哭泣' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special3/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="憔悴">
+		<Ch src='/images/characters/special3/drawn.webp' position='center'/>
+		<ChName nameZh='憔悴' nameEn='Haggard' position='right' />
+	</ChTab>
+	<ChTab title="劍鬼">
+		<Ch src='/images/characters/special3/crazy.webp' position='center'/>
+		<ChName nameZh='劍鬼' nameEn='Sword Fiend' position='right' />
+	</ChTab>
+	<ChTab title="斗笠">
+		<Ch src='/images/characters/special3/special1.webp' position='center'/>
+		<ChName nameZh='斗笠' nameEn='Bamboo Hat' position='right' />
+	</ChTab>
+	<ChTab title="褐衣">
+		<Ch src='/images/characters/special3/brown_normal-2.webp' position='center'/>
+		<ChName nameZh='褐衣' nameEn='Brown Robe' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
@@ -146,7 +194,7 @@ aside: false
 -   ~~長照悲歌~~
 -   對[[葉雲裳|妹妹]]感覺虧欠良多，愧疚得緊，十分寵膩，但該打屁股時還是會打。
 -   若[[葉雲裳|妹妹]]死亡，會入魔成為點蒼劍鬼，狂劍客葉雲舟。四處尋仇，宰殺昔日以惡言苦苦相逼的仇敵，情節不分輕重，但凡曾有一詞加諸於其妹，決殺不留。最後被點蒼雙尊斬於劍下。
--   因為[[葉雲裳|妹妹]]嘴叼，也求食譜下苦工鑽研過，但是成就平平。[^2]
+-   因為[[葉雲裳|妹妹]]嘴刁，也求食譜下苦工鑽研過，但是成就平平。[^2]
 -   他知道[[葉雲裳|妹妹]]一身珠寶的價值，但不捨剝奪她心愛之物，連買藥都堅持自己出錢。
 -   顧慮葉家名譽，始終未將[[葉雲裳|雲裳]]實際情況告知大夫，千方百計求來的丹藥只得保她一時無恙，卻也助長異種真氣。直至[[唐芳]]點破，才知道自己害了妹妹。
 
@@ -154,7 +202,7 @@ aside: false
 
 -   與[[段智秀]]同病相憐，結拜為異姓兄弟。得知[[段婉清|其妹]]將被嫁去吐蕃，與另外兩名點蒼弟子四人前去劫人。卻因段智秀變卦而未得接應，險些喪命。
 -   一劍廢了[[段智秀]]右手，使其無法用劍。
--   在葉雲舟於西武林牽制點蒼雙尊時，[[段智秀]]若在場會前來助陣，被雙尊吐槽配合得一蹋糊塗。事後葉雲舟讓他離去，兩人並未和好。
+-   在葉雲舟於西武林牽制點蒼雙尊時，[[段智秀]]若在場會前來助陣，被雙尊吐槽配合得一塌糊塗。事後葉雲舟讓他離去，兩人並未和好。
 
 ## 欠錢
 
