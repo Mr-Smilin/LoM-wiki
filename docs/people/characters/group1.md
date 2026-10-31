@@ -10,6 +10,94 @@ tags:
 
 # {{ $frontmatter.title }}
 
+<ChTabs position="bottom">
+	<ChTab title="陳序">
+		<Ch src='/images/mobs/artists/young_master1_normal.webp' position='right'/>
+		<ChName nameZh='陳序' nameEn='Chen Xu' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮深]] (好友)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+	<ChTab title="陳序(受傷)">
+		<Ch src='/images/mobs/artists/young_master1_hurt.webp' position='center'/>
+		<ChName nameZh='陳序(受傷)' nameEn='Chen Xu (Injured)' position='right' />
+	</ChTab>
+	<ChTab title="余自詠">
+		<Ch src='/images/mobs/artists/young_master2_normal.webp' position='right'/>
+		<ChName nameZh='余自詠' nameEn='Yu Ziyong' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮深]] (好友)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+	<ChTab title="余自詠(汗顏)">
+		<Ch src='/images/mobs/artists/young_master2_nervous.webp' position='center'/>
+		<ChName nameZh='余自詠(汗顏)' nameEn='Yu Ziyong (Sweating)' position='right' />
+	</ChTab>
+	<ChTab title="余自詠(重傷)">
+		<Ch src='/images/mobs/artists/young_master2_hurt.webp' position='center'/>
+		<ChName nameZh='余自詠(重傷)' nameEn='Yu Ziyong (Severely Injured)' position='right' />
+	</ChTab>
+	<ChTab title="成溪">
+		<Ch src='/images/mobs/artists/young_master1_normal.webp' position='right'/>
+		<ChName nameZh='成溪' nameEn='Cheng Xi' position='right' />
+		<ChTable>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮深]] (好友)
+				</ChTd>
+			</ChTr>
+		</ChTable>
+	</ChTab>
+</ChTabs>
+<br><br>
+
 花城四少是[[南宮深]]與三五好友的並稱，是煙花柳巷的常客。除了[[南宮深]]本人外，分別是陳序、余自詠、成溪、公子秀。
 
 <br>
@@ -19,6 +107,8 @@ tags:
 <br>
 
 余自詠，滅門線與[[譚霸刀]]、木仙姑一起襲來的高手。
+
+<MarkdownWrapper>||郁竹返家時扮演她未婚夫的「余公子」，其實是[[虞小梅]]照他的樣子易容假扮的。||</MarkdownWrapper>
 
 <br>
 
