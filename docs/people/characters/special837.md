@@ -36,6 +36,10 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special837/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
 </ChTabs>
 <br>
 
