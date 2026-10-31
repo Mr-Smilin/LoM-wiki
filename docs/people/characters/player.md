@@ -90,91 +90,7 @@ tags:
             position='center'/>
         <ChName nameZh='自戀' nameEn='Narcissist' position='right' />
     </ChTab>
-    <ChTab title="不爽">
-        <Ch
-            src='/images/characters/player/angry1.webp' 
-            position='center'/>
-        <ChName nameZh='不爽' nameEn='Pissed' position='right' />
-    </ChTab>
-    <ChTab title="生氣">
-        <Ch
-            src='/images/characters/player/angry2.webp' 
-            position='center'/>
-        <ChName nameZh='生氣' nameEn='Angry' position='right' />
-    </ChTab>
-    <ChTab title="猙獰">
-        <Ch
-            src='/images/characters/player/angry3.webp' 
-            position='center'/>
-        <ChName nameZh='猙獰' nameEn='Feral' position='right' />
-    </ChTab>
-    <ChTab title="背影">
-        <Ch
-            src='/images/characters/player/back.webp' 
-            position='center'/>
-        <ChName nameZh='背影' nameEn='Back' position='right' />
-    </ChTab>
-    <ChTab title="中招">
-        <Ch
-            src='/images/characters/player/caught.webp' 
-            position='center'/>
-        <ChName nameZh='中招' nameEn='Caught' position='right' />
-    </ChTab>
-    <ChTab title="閉眼">
-        <Ch
-            src='/images/characters/player/close_eye.webp' 
-            position='center'/>
-        <ChName nameZh='閉眼' nameEn='Close Eyes' position='right' />
-    </ChTab>
-    <ChTab title="決心">
-        <Ch
-            src='/images/characters/player/determined.webp' 
-            position='center'/>
-        <ChName nameZh='決心' nameEn='Determined' position='right' />
-    </ChTab>
-    <ChTab title="吐槽">
-        <Ch
-            src='/images/characters/player/doubt.webp' 
-            position='center'/>
-        <ChName nameZh='吐槽' nameEn='Doubt' position='right' />
-    </ChTab>
-    <ChTab title="無悔">
-        <Ch
-            src='/images/characters/player/fist_north_star.webp' 
-            position='center'/>
-        <ChName nameZh='無悔' nameEn='Fist North Star' position='right' />
-    </ChTab>
-    <ChTab title="計畫通">
-        <Ch
-            src='/images/characters/player/gloomy2.webp' 
-            position='center'/>
-        <ChName nameZh='計畫通' nameEn='As Planned' position='right' />
-    </ChTab>
-    <ChTab title="被揍">
-        <Ch
-            src='/images/characters/player/head.webp' 
-            position='center'/>
-        <ChName nameZh='被揍' nameEn='Beaten' position='right' />
-    </ChTab>
-    <ChTab title="落地">
-        <Ch
-            src='/images/characters/player/hero_landing.webp' 
-            position='center'/>
-        <ChName nameZh='落地' nameEn='Landing' position='right' />
-    </ChTab>
-    <ChTab title="鼻青臉腫">
-        <Ch
-            src='/images/characters/player/hurt.webp' 
-            position='center'/>
-        <ChName nameZh='鼻青臉腫' nameEn='Black and Blue' position='right' />
-    </ChTab>
-    <ChTab title="奄奄一息">
-        <Ch
-            src='/images/characters/player/hurt2.webp' 
-            position='center'/>
-        <ChName nameZh='奄奄一息' nameEn='Dying' position='right' />
-    </ChTab>
-        <ChTab title="微笑">
+    <ChTab title="微笑">
         <Ch
             src='/images/characters/player/laugh1.webp' 
             position='center'/>
@@ -185,6 +101,12 @@ tags:
             src='/images/characters/player/laugh2.webp' 
             position='center'/>
         <ChName nameZh='大笑' nameEn='Laugh' position='right' />
+    </ChTab>
+    <ChTab title="閉眼笑">
+        <Ch
+            src='/images/characters/player/close_eye_laugh.webp' 
+            position='center'/>
+        <ChName nameZh='閉眼笑' nameEn='Close Eyes Smile' position='right' />
     </ChTab>
     <ChTab title="頓住">
         <Ch
@@ -204,35 +126,17 @@ tags:
             position='center'/>
         <ChName nameZh='尷尬' nameEn='Awkward' position='right' />
     </ChTab>
-    <ChTab title="甩頭">
-        <Ch
-            src='/images/characters/player/oraora.webp' 
-            position='center'/>
-        <ChName nameZh='甩頭' nameEn='Shaken' position='right' />
-    </ChTab>
-    <ChTab title="想入非非">
-        <Ch
-            src='/images/characters/player/revel.webp' 
-            position='center'/>
-        <ChName nameZh='想入非非' nameEn='Revel' position='right' />
-    </ChTab>
-    <ChTab title="悲傷">
-        <Ch
-            src='/images/characters/player/sad1.webp' 
-            position='center'/>
-        <ChName nameZh='悲傷' nameEn='Sad' position='right' />
-    </ChTab>
     <ChTab title="驚嚇">
         <Ch
             src='/images/characters/player/shock.webp' 
             position='center'/>
         <ChName nameZh='驚嚇' nameEn='Shock' position='right' />
     </ChTab>
-    <ChTab title="使徒">
+    <ChTab title="吐槽">
         <Ch
-            src='/images/characters/player/special1.webp' 
+            src='/images/characters/player/doubt.webp' 
             position='center'/>
-        <ChName nameZh='使徒' nameEn='EVA Angel' position='right' />
+        <ChName nameZh='吐槽' nameEn='Doubt' position='right' />
     </ChTab>
     <ChTab title="耍笨">
         <Ch
@@ -240,11 +144,65 @@ tags:
             position='center'/>
         <ChName nameZh='耍笨' nameEn='Stupid' position='right' />
     </ChTab>
+    <ChTab title="不爽">
+        <Ch
+            src='/images/characters/player/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='不爽' nameEn='Pissed' position='right' />
+    </ChTab>
+    <ChTab title="生氣">
+        <Ch
+            src='/images/characters/player/angry2.webp' 
+            position='center'/>
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="猙獰">
+        <Ch
+            src='/images/characters/player/angry3.webp' 
+            position='center'/>
+        <ChName nameZh='猙獰' nameEn='Feral' position='right' />
+    </ChTab>
+    <ChTab title="悲傷">
+        <Ch
+            src='/images/characters/player/sad1.webp' 
+            position='center'/>
+        <ChName nameZh='悲傷' nameEn='Sad' position='right' />
+    </ChTab>
+    <ChTab title="閉眼">
+        <Ch
+            src='/images/characters/player/close_eye.webp' 
+            position='center'/>
+        <ChName nameZh='閉眼' nameEn='Close Eyes' position='right' />
+    </ChTab>
+    <ChTab title="決心">
+        <Ch
+            src='/images/characters/player/determined.webp' 
+            position='center'/>
+        <ChName nameZh='決心' nameEn='Determined' position='right' />
+    </ChTab>
+    <ChTab title="想入非非">
+        <Ch
+            src='/images/characters/player/revel.webp' 
+            position='center'/>
+        <ChName nameZh='想入非非' nameEn='Revel' position='right' />
+    </ChTab>
+    <ChTab title="計畫通">
+        <Ch
+            src='/images/characters/player/gloomy2.webp' 
+            position='center'/>
+        <ChName nameZh='計畫通' nameEn='As Planned' position='right' />
+    </ChTab>
     <ChTab title="城之內">
         <Ch
             src='/images/characters/player/suck1.webp' 
             position='center'/>
         <ChName nameZh='城之內' nameEn='Jonouchi' position='right' />
+    </ChTab>
+    <ChTab title="尖下巴">
+        <Ch
+            src='/images/characters/player/suck4.webp' 
+            position='center'/>
+        <ChName nameZh='尖下巴' nameEn='Pointy Chin' position='right' />
     </ChTab>
     <ChTab title="舔刀">
         <Ch
@@ -252,13 +210,103 @@ tags:
             position='center'/>
         <ChName nameZh='舔刀' nameEn='Lick Knife' position='right' />
     </ChTab>
-        <ChTab title="幼年">
+    <ChTab title="甩頭">
+        <Ch
+            src='/images/characters/player/oraora.webp' 
+            position='center'/>
+        <ChName nameZh='甩頭' nameEn='Shaken' position='right' />
+    </ChTab>
+    <ChTab title="無悔">
+        <Ch
+            src='/images/characters/player/fist_north_star.webp' 
+            position='center'/>
+        <ChName nameZh='無悔' nameEn='Fist North Star' position='right' />
+    </ChTab>
+    <ChTab title="落地">
+        <Ch
+            src='/images/characters/player/hero_landing.webp' 
+            position='center'/>
+        <ChName nameZh='落地' nameEn='Landing' position='right' />
+    </ChTab>
+    <ChTab title="使徒">
+        <Ch
+            src='/images/characters/player/special1.webp' 
+            position='center'/>
+        <ChName nameZh='使徒' nameEn='EVA Angel' position='right' />
+    </ChTab>
+    <ChTab title="運功">
+        <Ch
+            src='/images/characters/player/close_eye_nervous.webp' 
+            position='center'/>
+        <ChName nameZh='運功' nameEn='Circulating Qi' position='right' />
+    </ChTab>
+    <ChTab title="神雷劍">
+        <Ch
+            src='/images/characters/player/god_thunder.webp' 
+            position='center'/>
+        <ChName nameZh='神雷劍' nameEn='Divine Thunder Sword' position='right' />
+    </ChTab>
+    <ChTab title="中招">
+        <Ch
+            src='/images/characters/player/caught.webp' 
+            position='center'/>
+        <ChName nameZh='中招' nameEn='Caught' position='right' />
+    </ChTab>
+    <ChTab title="被揍">
+        <Ch
+            src='/images/characters/player/head.webp' 
+            position='center'/>
+        <ChName nameZh='被揍' nameEn='Beaten' position='right' />
+    </ChTab>
+    <ChTab title="鼻青臉腫">
+        <Ch
+            src='/images/characters/player/hurt.webp' 
+            position='center'/>
+        <ChName nameZh='鼻青臉腫' nameEn='Black and Blue' position='right' />
+    </ChTab>
+    <ChTab title="奄奄一息">
+        <Ch
+            src='/images/characters/player/hurt2.webp' 
+            position='center'/>
+        <ChName nameZh='奄奄一息' nameEn='Dying' position='right' />
+    </ChTab>
+    <ChTab title="浴血">
+        <Ch
+            src='/images/characters/player/blood.webp' 
+            position='center'/>
+        <ChName nameZh='浴血' nameEn='Bloodied' position='right' />
+    </ChTab>
+    <ChTab title="最後的暗器">
+        <Ch
+            src='/images/characters/player/hurt_fist.webp' 
+            position='center'/>
+        <ChName nameZh='最後的暗器' nameEn='The Last Hidden Weapon' position='right' />
+    </ChTab>
+    <ChTab title="背影">
+        <Ch
+            src='/images/characters/player/back.webp' 
+            position='center'/>
+        <ChName nameZh='背影' nameEn='Back' position='right' />
+    </ChTab>
+    <ChTab title="蒙眼">
+        <Ch
+            src='/images/characters/player/eye_mask_nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='蒙眼' nameEn='Blindfolded' position='right' />
+    </ChTab>
+    <ChTab title="蒙面">
+        <Ch
+            src='/images/characters/player/mask.webp' 
+            position='center'/>
+        <ChName nameZh='蒙面' nameEn='Masked' position='right' />
+    </ChTab>
+    <ChTab title="幼年">
         <Ch
             src='/images/characters/player/child.webp' 
             position='center'/>
         <ChName nameZh='幼年' nameEn='Child' position='right' />
     </ChTab>
-        <ChTab title="老年">
+    <ChTab title="老年">
         <Ch
             src='/images/characters/player/old.webp' 
             position='center'/>
@@ -275,6 +323,60 @@ tags:
             src='/images/characters/player/mega_player.webp' 
             position='center'/>
         <ChName nameZh='百萬趙活' nameEn='Mega Zhao Huo' position='right' />
+    </ChTab>
+    <ChTab title="青城">
+        <Ch
+            src='/images/characters/player/section_special_1.webp' 
+            position='center'/>
+        <ChName nameZh='青城' nameEn='Qingcheng' position='right' />
+    </ChTab>
+    <ChTab title="嵩山">
+        <Ch
+            src='/images/characters/player/section_special_2.webp' 
+            position='center'/>
+        <ChName nameZh='嵩山' nameEn='Songshan' position='right' />
+    </ChTab>
+    <ChTab title="全真">
+        <Ch
+            src='/images/characters/player/section_special_3.webp' 
+            position='center'/>
+        <ChName nameZh='全真' nameEn='Quanzhen' position='right' />
+    </ChTab>
+    <ChTab title="點蒼">
+        <Ch
+            src='/images/characters/player/section_special_4.webp' 
+            position='center'/>
+        <ChName nameZh='點蒼' nameEn='Diancang' position='right' />
+    </ChTab>
+    <ChTab title="峨嵋">
+        <Ch
+            src='/images/characters/player/section_special_5.webp' 
+            position='center'/>
+        <ChName nameZh='峨嵋' nameEn='Emei' position='right' />
+    </ChTab>
+    <ChTab title="崆峒">
+        <Ch
+            src='/images/characters/player/section_special_6.webp' 
+            position='center'/>
+        <ChName nameZh='崆峒' nameEn='Kongtong' position='right' />
+    </ChTab>
+    <ChTab title="南宮">
+        <Ch
+            src='/images/characters/player/section_special_7.webp' 
+            position='center'/>
+        <ChName nameZh='南宮' nameEn='Nangong' position='right' />
+    </ChTab>
+    <ChTab title="上官">
+        <Ch
+            src='/images/characters/player/section_special_8.webp' 
+            position='center'/>
+        <ChName nameZh='上官' nameEn='Shangguan' position='right' />
+    </ChTab>
+    <ChTab title="掌派人">
+        <Ch
+            src='/images/characters/player/section_special_9.webp' 
+            position='center'/>
+        <ChName nameZh='掌派人' nameEn='Sect Leader' position='right' />
     </ChTab>
 </ChTabs>
 
