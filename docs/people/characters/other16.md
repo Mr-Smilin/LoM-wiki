@@ -33,6 +33,26 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/other16/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/other16/nervous.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="緊張">
+		<Ch src='/images/characters/other16/nervous2.webp' position='center'/>
+		<ChName nameZh='緊張' nameEn='Nervous' position='right' />
+	</ChTab>
+	<ChTab title="不悅">
+		<Ch src='/images/characters/other16/angry1.webp' position='center'/>
+		<ChName nameZh='不悅' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/other16/angry2.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
 </ChTabs>
 
 > 「像你這種不起眼的嘍囉，憑什麼贏我？小爺方震天可是天之驕子！」
