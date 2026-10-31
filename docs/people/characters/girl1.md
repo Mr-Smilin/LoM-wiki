@@ -89,6 +89,38 @@ aside: false
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch 
+			src='/images/characters/girl_1/laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='微笑'
+			nameEn='Smile'/>
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch 
+			src='/images/characters/girl_1/laugh2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='大笑'
+			nameEn='Laugh'/>
+	</ChTab>
+	<ChTab title="陰沉">
+		<Ch 
+			src='/images/characters/girl_1/gloomy.webp' 
+			position='center'/>
+		<ChName
+			nameZh='陰沉'
+			nameEn='Gloomy'/>
+	</ChTab>
+	<ChTab title="人間至惡">
+		<Ch 
+			src='/images/characters/girl_1/special.webp' 
+			position='center'/>
+		<ChName
+			nameZh='人間至惡'
+			nameEn='Supreme Evil'/>
+	</ChTab>
 </ChTabs>
 
 > 「那有什麼？不作人便是。吾便是人間至惡又何妨？」
