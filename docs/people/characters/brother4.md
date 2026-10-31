@@ -81,6 +81,36 @@ aside: false
             </ChTr>
         </ChTable>
     </ChTab>
+    <ChTab title="微笑">
+        <Ch
+            src='/images/characters/brother4/laugh1.webp' 
+            position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch
+            src='/images/characters/brother4/nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="生氣">
+        <Ch
+            src='/images/characters/brother4/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="陰笑">
+        <Ch
+            src='/images/characters/brother4/gloomy2.webp' 
+            position='center'/>
+        <ChName nameZh='陰笑' nameEn='Sinister Smile' position='right' />
+    </ChTab>
+    <ChTab title="重傷">
+        <Ch
+            src='/images/characters/brother4/hurt.webp' 
+            position='center'/>
+        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+    </ChTab>
 </ChTabs>
 
 > 「我的天，師弟你的臉真醜，配不上你的靈魂。」
