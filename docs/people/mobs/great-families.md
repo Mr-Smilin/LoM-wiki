@@ -78,7 +78,32 @@ tags:
 
 ### 南宮己
 
-<img src="/images/mobs/nan-gong-family/trainee4_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="南宮己">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_normal.webp' position='center'/>
+        <ChName nameZh='南宮己' nameEn='Nan Gong Ji' position='right' />
+    </ChTab>
+    <ChTab title="生氣">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_angry1.webp' position='center'/>
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="著火">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_fire.webp' position='center'/>
+        <ChName nameZh='著火' nameEn='On Fire' position='right' />
+    </ChTab>
+    <ChTab title="著火(生氣)">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_fire_angry.webp' position='center'/>
+        <ChName nameZh='著火(生氣)' nameEn='On Fire (Angry)' position='right' />
+    </ChTab>
+    <ChTab title="居家">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_home.webp' position='center'/>
+        <ChName nameZh='居家' nameEn='At Home' position='right' />
+    </ChTab>
+    <ChTab title="閃亮">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_special1.webp' position='center'/>
+        <ChName nameZh='閃亮' nameEn='Sparkling' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>破廟線<br>「南宮己」</td>
@@ -88,7 +113,16 @@ tags:
 
 ### 南宮偉
 
-<img src="/images/mobs/nan-gong-family/oldman_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="南宮偉">
+        <Ch src='/images/mobs/nan-gong-family/oldman_normal.webp' position='center'/>
+        <ChName nameZh='南宮偉' nameEn='Nan Gong Wei' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch src='/images/mobs/nan-gong-family/oldman_nervous1.webp' position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>小師妹出嫁<br>「鐵鞭」南宮偉</td>
