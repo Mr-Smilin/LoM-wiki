@@ -3,7 +3,7 @@
   stats：分等級的表（素質 x 等級 0..N）；info：一欄一值的表（例如靈丹）。
 -->
 <script setup>
-import { computed } from "vue";
+import { computed, inject } from "vue";
 import { withBase } from "vitepress";
 import MarkdownIt from "markdown-it";
 
@@ -20,6 +20,12 @@ const render = (text) => (text ? md.render(String(text)) : "");
 const props = defineProps({
   item: { type: Object, required: true },
 });
+
+// 介面文字與列名翻譯（ForgeRoot 依語系提供）
+const terms = inject("forgeTerms");
+const L = computed(() => terms.value.labels);
+const row = (k) => terms.value.rows[k] ?? k;
+const val = (v) => (typeof v === "string" ? terms.value.values[v] ?? v : v);
 
 const stats = computed(() => Object.entries(props.item.stats || {}));
 const info = computed(() => Object.entries(props.item.info || {}));
@@ -40,20 +46,20 @@ if (import.meta.env.DEV) {
       <table>
         <thead>
           <tr>
-            <th class="forge-sticky">{{ hasLevels ? "素質＼等級" : "素質" }}</th>
+            <th class="forge-sticky">{{ hasLevels ? L.statLevel : L.stat }}</th>
             <template v-if="hasLevels">
               <th v-for="n in levels" :key="n">{{ n - 1 }}</th>
             </template>
-            <th v-else>數值</th>
+            <th v-else>{{ L.value }}</th>
           </tr>
         </thead>
         <tbody>
           <tr v-for="[name, values] in stats" :key="name">
-            <th scope="row" class="forge-sticky">{{ name }}</th>
+            <th scope="row" class="forge-sticky">{{ row(name) }}</th>
             <template v-if="Array.isArray(values)">
-              <td v-for="(v, i) in values" :key="i">{{ v }}</td>
+              <td v-for="(v, i) in values" :key="i">{{ val(v) }}</td>
             </template>
-            <td v-else :colspan="levels">{{ values }}</td>
+            <td v-else :colspan="levels">{{ val(values) }}</td>
           </tr>
         </tbody>
       </table>
@@ -62,7 +68,7 @@ if (import.meta.env.DEV) {
       <table>
         <tbody>
           <tr v-for="[name, value] in info" :key="name">
-            <th scope="row">{{ name }}</th>
+            <th scope="row">{{ row(name) }}</th>
             <td class="forge-pre">{{ value }}</td>
           </tr>
         </tbody>
@@ -70,11 +76,11 @@ if (import.meta.env.DEV) {
     </div>
     <dl class="forge-meta">
       <template v-if="item.obtain">
-        <dt>獲得方式</dt>
+        <dt>{{ L.obtain }}</dt>
         <dd v-html="render(item.obtain)"></dd>
       </template>
       <template v-if="item.note">
-        <dt>備註</dt>
+        <dt>{{ L.note }}</dt>
         <dd v-html="render(item.note)"></dd>
       </template>
     </dl>

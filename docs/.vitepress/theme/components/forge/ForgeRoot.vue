@@ -1,19 +1,60 @@
 <!--
-  鍛冶場 / 煉丹房開發樹。只管「節點之間的關係」：讀資料檔、依 parent 組成樹。
-  用法（Markdown 裡）：<ForgeRoot category="weapon" />
-  category 對應 .vitepress/theme/data/forge/<category>.js；新增、修改項目只要改資料檔。
+  鍛冶場 / 煉丹房開發樹。只管「節點之間的關係」：讀資料檔、套上目前語系的翻譯、依 parent 組成樹。
+  用法（各語系的 Markdown 都一樣）：<ForgeRoot category="weapon" />
+  數值只在 .vitepress/theme/data/forge/<category>.js（繁中）維護；
+  其他語系的文字放在 data/forge/i18n/<語系>/<category>.js 與 terms.js，沒翻到的欄位自動用繁中。
 -->
 <script setup>
-import { computed, onMounted, onUnmounted } from "vue";
+import { computed, onMounted, onUnmounted, provide } from "vue";
+import { useData } from "vitepress";
 import ForgeItem from "./ForgeItem.vue";
 
-const modules = import.meta.glob("../../data/forge/*.js", { eager: true });
+const modules = import.meta.glob("../../data/forge/**/*.js", { eager: true });
+const load = (p) => modules[`../../data/forge/${p}.js`]?.default;
 
 const props = defineProps({
   category: { type: String, required: true },
 });
 
-const data = computed(() => modules[`../../data/forge/${props.category}.js`]?.default);
+const { localeIndex } = useData();
+const lang = computed(() => (localeIndex.value === "root" ? "" : localeIndex.value));
+
+// 介面文字：繁中預設 + 目前語系覆蓋
+const terms = computed(() => {
+  const base = load("terms");
+  const t = lang.value ? load(`i18n/${lang.value}/terms`) : null;
+  return {
+    labels: { ...base.labels, ...t?.labels },
+    cost: { ...base.cost, ...t?.cost },
+    rows: { ...base.rows, ...t?.rows },
+    values: { ...base.values, ...t?.values },
+  };
+});
+provide("forgeTerms", terms);
+
+// 資料：繁中資料檔為準，翻譯檔只覆蓋文字欄位。
+//   key    = 繁中名稱（parent 一律寫繁中名稱，組樹用）
+//   name   = 顯示名稱
+//   anchor = 網址錨點（#…），翻譯檔沒指定就沿用繁中名稱，讓既有連結不失效
+const data = computed(() => {
+  const base = load(props.category);
+  if (!base) return null;
+  const tr = lang.value ? load(`i18n/${lang.value}/${props.category}`) : null;
+  const items = base.items.map((item) => {
+    const t = tr?.items?.[item.name] ?? {};
+    return {
+      ...item,
+      key: item.name,
+      name: t.name ?? item.name,
+      anchor: t.anchor ?? item.name,
+      requires: t.requires ?? item.requires,
+      obtain: t.obtain ?? item.obtain,
+      note: t.note ?? item.note,
+      info: item.info && t.info ? { ...item.info, ...t.info } : item.info,
+    };
+  });
+  return { title: tr?.title ?? base.title, intro: tr?.intro ?? base.intro, items };
+});
 
 const tree = computed(() => {
   const d = data.value;
@@ -23,8 +64,8 @@ const tree = computed(() => {
   }
   const nodes = new Map();
   for (const item of d.items) {
-    if (nodes.has(item.name)) console.warn(`[forge] ${d.title}：項目名稱重複「${item.name}」，後面那個會被忽略`);
-    else nodes.set(item.name, { item, children: [] });
+    if (nodes.has(item.key)) console.warn(`[forge] ${d.title}：項目名稱重複「${item.key}」，後面那個會被忽略`);
+    else nodes.set(item.key, { item, children: [] });
   }
   const roots = [];
   const special = [];
@@ -34,14 +75,14 @@ const tree = computed(() => {
     else if (parent && nodes.has(parent)) nodes.get(parent).children.push(node);
     else {
       // 打錯 parent 時當成起點顯示，不讓項目消失
-      if (parent) console.warn(`[forge] ${d.title}：「${node.item.name}」的 parent「${parent}」不存在`);
+      if (parent) console.warn(`[forge] ${d.title}：「${node.item.key}」的 parent「${parent}」不存在`);
       roots.push(node);
     }
   }
   return { roots, special };
 });
 
-// 網址帶 #項目名稱 時展開該項目（VitePress 自己處理頁內錨點，瀏覽器原生的自動展開不會觸發）
+// 網址帶 #項目 時展開該項目（VitePress 自己處理頁內錨點，瀏覽器原生的自動展開不會觸發）
 const openFromHash = () => {
   const el = document.getElementById(decodeURIComponent(location.hash.slice(1)));
   if (el?.tagName === "DETAILS" && el.classList.contains("forge-node")) {
@@ -60,16 +101,17 @@ onUnmounted(() => window.removeEventListener("hashchange", openFromHash));
   <div class="forge">
     <p v-if="data?.intro" class="forge-intro">{{ data.intro }}</p>
     <ul class="forge-tree">
-      <ForgeItem v-for="node in tree.roots" :key="node.item.name" :node="node" />
+      <ForgeItem v-for="node in tree.roots" :key="node.item.key" :node="node" />
     </ul>
     <template v-if="tree.special.length">
-      <p class="forge-intro">特殊取得（不在開發樹上）</p>
+      <p class="forge-intro">{{ terms.labels.special }}</p>
       <ul class="forge-tree">
-        <ForgeItem v-for="node in tree.special" :key="node.item.name" :node="node" />
+        <ForgeItem v-for="node in tree.special" :key="node.item.key" :node="node" />
       </ul>
     </template>
   </div>
 </template>
+
 
 <style>
 .forge {

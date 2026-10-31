@@ -3,6 +3,7 @@
   node = { item: 資料檔裡的一個項目, children: [node, ...] }，由 ForgeRoot 組好傳進來。
 -->
 <script setup>
+import { computed, inject } from "vue";
 import { withBase } from "vitepress";
 import ForgeTable from "./ForgeTable.vue";
 
@@ -25,26 +26,35 @@ const fmt = (v) => (typeof v === "number" ? v.toLocaleString("en-US") : v);
 const isText = (v) => typeof v === "string" && v.includes("\n");
 // [名稱, 值]；「陰陽+10」這種效果文字拆成 ["陰陽", "+10"]
 const splitEffect = (line) => {
-  const m = line.match(/^(.+?)([+\-−]\d.*)$/);
+  const m = line.match(/^(.+?)\s*([+\-−]\d.*)$/);
   return m ? [m[1], m[2]] : [line, ""];
 };
-const summary = stats.length
-  ? stats.filter(([k]) => !/^(單級|累積)/.test(k)).map(([k, v]) => [k, fmt(last(v))])
-  : info.filter(([, v]) => isText(v)).flatMap(([, v]) => v.split("\n").filter(Boolean).map(splitEffect));
-const cost = stats.length
-  ? stats.filter(([k]) => k.startsWith("累積")).map(([k, v]) => [`滿級${k.slice(2)}${/鍛造|煉丹/.test(k) ? "點" : ""}`, fmt(last(v))])
-  : info.filter(([, v]) => !isText(v)).map(([k, v]) => [k, fmt(v)]);
-const summaryLabel = stats.length ? (hasLevels ? "滿級數值" : "數值") : "效果";
+// 介面文字與列名翻譯由 ForgeRoot 依語系提供；判斷「單級／累積」一律看資料檔的繁中列名
+const terms = inject("forgeTerms");
+const L = computed(() => terms.value.labels);
+const row = (k) => terms.value.rows[k] ?? k;
+const val = (v) => (typeof v === "string" ? terms.value.values[v] ?? v : v);
+const summary = computed(() =>
+  stats.length
+    ? stats.filter(([k]) => !/^(單級|累積)/.test(k)).map(([k, v]) => [row(k), val(fmt(last(v)))])
+    : info.filter(([, v]) => isText(v)).flatMap(([, v]) => v.split("\n").filter(Boolean).map(splitEffect))
+);
+const cost = computed(() =>
+  stats.length
+    ? stats.filter(([k]) => k.startsWith("累積")).map(([k, v]) => [terms.value.cost[k] ?? row(k), fmt(last(v))])
+    : info.filter(([, v]) => !isText(v)).map(([k, v]) => [row(k), fmt(v)])
+);
+const summaryLabel = computed(() => (stats.length ? (hasLevels ? L.value.maxStats : L.value.stats) : L.value.effects));
 </script>
 
 <template>
   <li :class="['forge-li', node.item.special ? '' : lvl]">
-    <details :id="node.item.name" class="forge-node">
+    <details :id="node.item.anchor" class="forge-node">
       <summary>
         <img :src="withBase(node.item.icon)" alt="" loading="lazy" />
         <span>
           <b>{{ node.item.name }}</b>
-          <small>解鎖：{{ node.item.requires?.length ? node.item.requires.join("、") : "無" }}</small>
+          <small>{{ L.unlock }}{{ L.colon }}{{ node.item.requires?.length ? node.item.requires.join(L.sep) : L.none }}</small>
           <template v-if="summary.length">
             <small class="forge-sum-label">{{ summaryLabel }}</small>
             <span class="forge-kv">
@@ -61,7 +71,7 @@ const summaryLabel = stats.length ? (hasLevels ? "滿級數值" : "數值") : "�
       <ForgeTable :item="node.item" />
     </details>
     <ul v-if="node.children.length" :class="['forge-ul', lvl]">
-      <ForgeItem v-for="child in node.children" :key="child.item.name" :node="child" :depth="depth + 1" />
+      <ForgeItem v-for="child in node.children" :key="child.item.key" :node="child" :depth="depth + 1" />
     </ul>
   </li>
 </template>

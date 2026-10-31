@@ -6,10 +6,10 @@ aside: false
 ---
 
 <script setup>
-// 舊網址相容：帶著 #錨點 轉到新頁（項目與分類的錨點名稱沿用）
+// 舊網址相容：帶著 #錨點 轉到新頁（項目與分類的錨點名稱沿用）。
+// 用相對路徑，簡中頁（由這頁自動轉出）也會轉到簡中的新頁
 import { onMounted } from "vue";
-import { withBase } from "vitepress";
-onMounted(() => location.replace(withBase("/system/forge-roadmap") + location.hash));
+onMounted(() => location.replace("forge-roadmap" + location.hash));
 </script>
 
 # {{ $frontmatter.title }}
