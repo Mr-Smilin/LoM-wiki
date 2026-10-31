@@ -69,6 +69,30 @@ aside: false
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special401/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch src='/images/characters/special401/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special401/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch src='/images/characters/special401/nervous3.webp' position='center'/>
+		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special401/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="重傷(笑)">
+		<Ch src='/images/characters/special401/hurt2.webp' position='center'/>
+		<ChName nameZh='重傷(笑)' nameEn='Severely Injured (Smile)' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
@@ -109,7 +133,7 @@ aside: false
 -   少年時與[[南宮遠]]為摯友，兩人說好要效法紅篷王與曾文，互相扶持，濟拔顛危，匡扶社稷。
 -   少年時與[[南宮遠]]賭誰能博得[[溫夫人|蘇迎香]]一笑，輸的人作馬騎。迎香偏袒南宮遠，每次都是他背南宮遠。
 -   為成全好友而遠走他鄉，豈料[[南宮遠]]卻辜負了[[溫夫人|]]。他氣不過，長達二十年不見南宮遠。
--   遲了二十年，定遠郎王士，終於兌現了少年時對[[南宮遠|好友]]發下的豪語:「總有一日，我要聚千軍萬馬在你麾下，聽你號令，就像你曾曾曾祖父，武林盟主南宮智一樣。你得練好武功，要強過我才行!等我們都長大……。」
+-   遲了二十年，定遠郎王某人，終於兌現了少年時對[[南宮遠|好友]]發下的豪語:「總有一日，我要聚千軍萬馬在你麾下，聽你號令，就像你曾曾曾祖父，武林盟主南宮智一樣。你得練好武功，要強過我才行!等我們都長大……。」
 
 ## 備註
 
