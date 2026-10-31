@@ -59,6 +59,26 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special201/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special201/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="不悅">
+		<Ch src='/images/characters/special201/angry1.webp' position='center'/>
+		<ChName nameZh='不悅' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special201/angry2.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special201/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
@@ -89,7 +109,7 @@ tags:
 
 ## 備註
 
--   鄒博與全真七子中的太古真人[[郝大通]]為忘機道友，曾一同講經論道，由此引進全真的外丹數。青城「還虛丹」即兩人共研的心血結晶。
+-   鄒博與全真七子中的太古真人[[郝大通]]為忘機道友，曾一同講經論道，由此引進全真的外丹術。青城「還虛丹」即兩人共研的心血結晶。
 -   在前江陵圍城期間前往協助，將令牌交予師弟[[申屠龍]]，使其代掌青城。
 -   被[[葉雲裳]]稱為鄒肥伯。
 -   若[[趙活]]達到條件，會表示想收趙活為徒。答應後能成為其親傳弟子，並被起了道號「棄塵」，取忘棄紅塵之意。被拒絕也不會生氣，反倒欣慰於趙活的恆心，可惜這麼塊大好材料當年跑到唐門，給[[唐中翎|唐老哥]]撿了個大便宜。
