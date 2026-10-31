@@ -57,7 +57,7 @@ tags:
     <ChTab title="JOJO立">
         <Ch 
             src='/images/characters/big_trainee_girl_1/jojo2.webp' 
-            position='right' />
+            position='center' />
         <ChName
             nameZh='JOJO立'
             nameEn='Jojo Pose'/>
@@ -65,7 +65,7 @@ tags:
     <ChTab title="唐嬌嬌">
         <Ch 
             src='/images/characters/big_trainee_girl_1/normal.webp' 
-            position='right' />
+            position='center' />
         <ChName
             nameZh='唐嬌嬌'
             nameEn='Tang Jiao Jiao'/>
@@ -73,7 +73,7 @@ tags:
     <ChTab title="JOJO立2">
         <Ch 
             src='/images/characters/big_trainee_girl_1/jojo.webp' 
-            position='right' />
+            position='center' />
         <ChName
             nameZh='JOJO立'
             nameEn='Jojo Pose'/>

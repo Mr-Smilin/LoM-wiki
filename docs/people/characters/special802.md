@@ -49,11 +49,11 @@ tags:
 		</ChTable>
 	</ChTab>
     <ChTab title="笑">
-		<Ch src='/images/characters/special802/laugh1.webp' position='right'/>
+		<Ch src='/images/characters/special802/laugh1.webp' position='center'/>
 		<ChName nameZh='笑' nameEn='Laugh' position='right' />
 	</ChTab>
     <ChTab title="緊張">
-		<Ch src='/images/characters/special802/nervous.webp' position='right'/>
+		<Ch src='/images/characters/special802/nervous.webp' position='center'/>
 		<ChName nameZh='緊張' nameEn='Nervous' position='right' />
 	</ChTab>
 </ChTabs>

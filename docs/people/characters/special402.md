@@ -100,7 +100,7 @@ tags:
 		</ChTable>
 	</ChTab>
 	<ChTab title="蘇迎香">
-		<Ch src='/images/characters/special402/normal2.webp' position='right'/>
+		<Ch src='/images/characters/special402/normal2.webp' position='center'/>
 		<ChName nameZh='蘇迎香' nameEn='Su Ying Xiang' position='right' />
 	</ChTab>
 </ChTabs>

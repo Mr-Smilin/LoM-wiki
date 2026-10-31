@@ -57,11 +57,11 @@ tags:
 		</ChTable>
 	</ChTab>
 	<ChTab title="卸妝">
-		<Ch src='/images/characters/special813/normal2.webp' position='right'/>
+		<Ch src='/images/characters/special813/normal2.webp' position='center'/>
 		<ChName nameZh='畫中仙' nameEn='Hua Zhong Xian' position='right' />
 	</ChTab>
 	<ChTab title="華仙兒">
-		<Ch src='/images/characters/special813/normal3.webp' position='right'/>
+		<Ch src='/images/characters/special813/normal3.webp' position='center'/>
 		<ChName nameZh='華仙兒' nameEn='Hua Xian Er' position='right' />
 	</ChTab>
 </ChTabs>
