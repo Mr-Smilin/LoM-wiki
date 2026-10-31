@@ -54,6 +54,30 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special812/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special812/angry1.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="受傷">
+		<Ch src='/images/characters/special812/hurt.webp' position='center'/>
+		<ChName nameZh='受傷' nameEn='Injured' position='right' />
+	</ChTab>
+	<ChTab title="受傷(汗)">
+		<Ch src='/images/characters/special812/hurt_nervous.webp' position='center'/>
+		<ChName nameZh='受傷(汗)' nameEn='Injured (Sweat)' position='right' />
+	</ChTab>
+	<ChTab title="受傷(不悅)">
+		<Ch src='/images/characters/special812/hurt_angry.webp' position='center'/>
+		<ChName nameZh='受傷(不悅)' nameEn='Injured (Displeased)' position='right' />
+	</ChTab>
+	<ChTab title="藍色守鴻傳說">
+		<Ch src='/images/characters/special812/blue.webp' position='center'/>
+		<ChName nameZh='藍色守鴻傳說' nameEn='The Legend of Blue Shou Hong' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
