@@ -35,26 +35,50 @@ tags:
 				</ChTd>
 			</ChTr>
 			<ChTr>
-                <ChTd position='center'>
-                    [[林志恆]] (師弟)
-                </ChTd>
-            </ChTr>
-            <ChTr>
-                <ChTd position='center'>
-                    [[阮蛋]] (師弟)
-                </ChTd>
-            </ChTr>
-            <ChTr>
-                <ChTd position='center'>
-                    [[米歐寬]] (師妹)
-                </ChTd>
-            </ChTr>
-            <ChTr>
-                <ChTd position='center'>
-                    [[陳倔]] (師弟)
-                </ChTd>
-            </ChTr>
+				<ChTd position='center'>
+					[[林志恆]] (師弟)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[阮蛋]] (師弟)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[米歐寬]] (師妹)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[陳倔]] (師弟)
+				</ChTd>
+			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special829/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special829/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch src='/images/characters/special829/nervous2.webp' position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="害羞">
+		<Ch src='/images/characters/special829/shy.webp' position='center'/>
+		<ChName nameZh='害羞' nameEn='Shy' position='right' />
+	</ChTab>
+	<ChTab title="出招">
+		<Ch src='/images/characters/special829/angry3.webp' position='center'/>
+		<ChName nameZh='出招' nameEn='Ready to Strike' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special829/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>
