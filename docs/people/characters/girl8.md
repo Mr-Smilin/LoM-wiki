@@ -35,12 +35,116 @@ borderless: false
 			nameZh='雞腿劍'
 			nameEn='Drumstick Sword'/>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch 
+			src='/images/characters/girl_8/laugh1.webp' 
+			position='right'/>
+		<ChName
+			nameZh='微笑'
+			nameEn='Smile'/>
+	</ChTab>
 	<ChTab title="大笑">
 		<Ch src='/images/characters/girl_8/laugh2.webp'
 			position='right'/>
 		<ChName 
 			nameZh='大笑'
 			nameEn='Laugh heartily'/>
+	</ChTab>
+	<ChTab title="緊張">
+		<Ch 
+			src='/images/characters/girl_8/nervous1.webp' 
+			position='right'/>
+		<ChName
+			nameZh='緊張'
+			nameEn='Nervous'/>
+	</ChTab>
+	<ChTab title="驚嚇">
+		<Ch 
+			src='/images/characters/girl_8/nervous2.webp' 
+			position='right'/>
+		<ChName
+			nameZh='驚嚇'
+			nameEn='Startled'/>
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch 
+			src='/images/characters/girl_8/nervous3.webp' 
+			position='right'/>
+		<ChName
+			nameZh='尷尬'
+			nameEn='Awkward'/>
+	</ChTab>
+	<ChTab title="不悅">
+		<Ch 
+			src='/images/characters/girl_8/angry1.webp' 
+			position='right'/>
+		<ChName
+			nameZh='不悅'
+			nameEn='Displeased'/>
+	</ChTab>
+	<ChTab title="害羞">
+		<Ch 
+			src='/images/characters/girl_8/shy.webp' 
+			position='right'/>
+		<ChName
+			nameZh='害羞'
+			nameEn='Shy'/>
+	</ChTab>
+	<ChTab title="羞到冒煙">
+		<Ch 
+			src='/images/characters/girl_8/shy2.webp' 
+			position='right'/>
+		<ChName
+			nameZh='羞到冒煙'
+			nameEn='Flustered'/>
+	</ChTab>
+	<ChTab title="閉眼">
+		<Ch 
+			src='/images/characters/girl_8/close_eyes.webp' 
+			position='right'/>
+		<ChName
+			nameZh='閉眼'
+			nameEn='Eyes Closed'/>
+	</ChTab>
+	<ChTab title="懷疑">
+		<Ch 
+			src='/images/characters/girl_8/doubt.webp' 
+			position='right'/>
+		<ChName
+			nameZh='懷疑'
+			nameEn='Doubt'/>
+	</ChTab>
+	<ChTab title="心虛">
+		<Ch 
+			src='/images/characters/girl_8/diffident.webp' 
+			position='right'/>
+		<ChName
+			nameZh='心虛'
+			nameEn='Sheepish'/>
+	</ChTab>
+	<ChTab title="大哭">
+		<Ch 
+			src='/images/characters/girl_8/sad.webp' 
+			position='right'/>
+		<ChName
+			nameZh='大哭'
+			nameEn='Wailing'/>
+	</ChTab>
+	<ChTab title="哭泣">
+		<Ch 
+			src='/images/characters/girl_8/sad2.webp' 
+			position='right'/>
+		<ChName
+			nameZh='哭泣'
+			nameEn='Teary'/>
+	</ChTab>
+	<ChTab title="拔劍">
+		<Ch 
+			src='/images/characters/girl_8/sword.webp' 
+			position='right'/>
+		<ChName
+			nameZh='拔劍'
+			nameEn='Sword Drawn'/>
 	</ChTab>
 	<ChTab title="戰鬥">
 		<Ch src='/images/characters/girl_8/angry3.webp'
@@ -56,12 +160,36 @@ borderless: false
 			nameZh='覺醒'
 			nameEn='Awakening'/>
 	</ChTab>
+	<ChTab title="受傷">
+		<Ch 
+			src='/images/characters/girl_8/hurt.webp' 
+			position='right'/>
+		<ChName
+			nameZh='受傷'
+			nameEn='Injured'/>
+	</ChTab>
 	<ChTab title="宮裝">
 		<Ch src='/images/characters/girl_8/dress_shy.webp'
 			position='right'/>
 		<ChName 
 			nameZh='宮裝'
 			nameEn='Dress'/>
+	</ChTab>
+	<ChTab title="宮裝(平常)">
+		<Ch 
+			src='/images/characters/girl_8/dress_normal.webp' 
+			position='right'/>
+		<ChName
+			nameZh='宮裝(平常)'
+			nameEn='Dress (Normal)'/>
+	</ChTab>
+	<ChTab title="宮裝(臉紅)">
+		<Ch 
+			src='/images/characters/girl_8/dress_shy2.webp' 
+			position='right'/>
+		<ChName
+			nameZh='宮裝(臉紅)'
+			nameEn='Dress (Blush)'/>
 	</ChTab>
 </ChTabs>
 
