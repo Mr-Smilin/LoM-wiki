@@ -9,21 +9,57 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+	<ChTab title="初識">
 		<ChMeet 
 			src='/images/characters/special206/normal.webp' 
-            nameTitle=''
+			nameTitle=''
 			nameMain='福韞'
 			desc='嵩山派的年輕弟子，雲遊大宋，弘揚佛法，籌措善款以期修繕敗破的嵩山寺。'
 			:animation=true
 		/>
-    </ChTab>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch
+			src='/images/characters/special206/laugh1.webp' 
+			position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch
+			src='/images/characters/special206/nervous1.webp' 
+			position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch
+			src='/images/characters/special206/nervous2.webp' 
+			position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch
+			src='/images/characters/special206/hurt.webp' 
+			position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="誦經">
+		<Ch
+			src='/images/characters/special206/special1.webp' 
+			position='center'/>
+		<ChName nameZh='誦經' nameEn='Chanting' position='right' />
+	</ChTab>
+	<ChTab title="金漆">
+		<Ch
+			src='/images/characters/special206/golden.webp' 
+			position='center'/>
+		<ChName nameZh='金漆' nameEn='Gilded' position='right' />
+	</ChTab>
 </ChTabs>
 
 <InfoList>
-    <Info title='角色資料' :open=true>
-        <table>
-            <ChTr>
+	<Info title='角色資料' :open=true>
+		<table>
+			<ChTr>
 				<ChTd isTitle=true>
 					性別
 				</ChTd>
@@ -64,8 +100,8 @@ aside: false
 					[[萬里鵬程]] (師叔祖)
 				</ChTd>
 			</ChTr>
-        </table>
-    </Info>
+		</table>
+	</Info>
 </InfoList>
 
 > 「蛤也一樣。施主，你問過魚和蝦的意願嗎？我猜沒有，你只想到你自己。」
