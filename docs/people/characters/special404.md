@@ -10,22 +10,70 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+	<ChTab title="初識">
 		<ChMeet 
 			src='/images/characters/special404/normal.webp' 
-            nameTitle=''
+			nameTitle=''
 			nameMain='丹霞子'
 			desc='崆峒派·飛天門掌門火龍仙君座下的大弟子。<br>
 			亦是襄陽戰場聲名赫赫的「道法將軍」，百戰不殆，為宋國軍民仰仗，為金國兵馬忌憚。'
 			:animation=true
 		/>
-    </ChTab>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch
+			src='/images/characters/special404/laugh1.webp' 
+			position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch
+			src='/images/characters/special404/laugh2.webp' 
+			position='center'/>
+		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch
+			src='/images/characters/special404/nervous1.webp' 
+			position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch
+			src='/images/characters/special404/nervous2.webp' 
+			position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch
+			src='/images/characters/special404/angry1.webp' 
+			position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="受傷">
+		<Ch
+			src='/images/characters/special404/hurt.webp' 
+			position='center'/>
+		<ChName nameZh='受傷' nameEn='Injured' position='right' />
+	</ChTab>
+	<ChTab title="施法">
+		<Ch
+			src='/images/characters/special404/cast.webp' 
+			position='center'/>
+		<ChName nameZh='施法' nameEn='Casting' position='right' />
+	</ChTab>
+	<ChTab title="負荊請罪">
+		<Ch
+			src='/images/characters/special404/special1.webp' 
+			position='center'/>
+		<ChName nameZh='負荊請罪' nameEn='Bearing Thorns' position='right' />
+	</ChTab>
 </ChTabs>
 
 <InfoList>
-    <Info title='角色資料' :open=true>
-        <table>
-            <ChTr>
+	<Info title='角色資料' :open=true>
+		<table>
+			<ChTr>
 				<ChTd isTitle=true>
 					性別
 				</ChTd>
@@ -64,8 +112,8 @@ aside: false
 					[[趙方]] (戰友)
 				</ChTd>
 			</ChTr>
-        </table>
-    </Info>
+		</table>
+	</Info>
 </InfoList>
 
 <br><br>
