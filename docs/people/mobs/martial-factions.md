@@ -111,7 +111,24 @@ tags:
 
 #### 牛頭馬面
 
-<img src="/images/mobs/mud-school/cow_horse_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="牛頭馬面">
+        <Ch src='/images/mobs/mud-school/cow_horse_normal.webp' position='center'/>
+        <ChName nameZh='牛頭馬面' nameEn='Niu Tou Ma Mian' position='right' />
+    </ChTab>
+    <ChTab title="牛頭">
+        <Ch src='/images/mobs/mud-school/cow_man_normal.webp' position='center'/>
+        <ChName nameZh='牛頭' nameEn='Niu Tou' position='right' />
+    </ChTab>
+    <ChTab title="馬面">
+        <Ch src='/images/mobs/mud-school/horse_man_normal.webp' position='center'/>
+        <ChName nameZh='馬面' nameEn='Ma Mian' position='right' />
+    </ChTab>
+    <ChTab title="馬面(汗)">
+        <Ch src='/images/mobs/mud-school/horse_man_nervous1.webp' position='center'/>
+        <ChName nameZh='馬面(汗)' nameEn='Ma Mian (Sweat)' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>逃離青城<br>「牛頭馬面」</td>
