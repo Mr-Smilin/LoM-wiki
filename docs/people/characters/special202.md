@@ -40,7 +40,7 @@ tags:
 			<ChTr>
 				<ChTd position='center'>
 					[[聽海生]] (師弟)
-                </ChTd>
+				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
@@ -48,6 +48,10 @@ tags:
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special202/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
 	</ChTab>
 </ChTabs>
 <br>
@@ -66,5 +70,5 @@ tags:
 -   當年[[葉雲舟|雲舟]][[葉雲裳|雲裳]]兄妹抱病拜入點蒼，得點蒼雙尊贊掌，以點蒼「兩儀劍氣」，才強行降服體內躁亂真氣。
 -   若[[葉雲舟]]加入唐門，西武林會出來牽制雙尊，有以下結果：
 	- 以活人之劍，一人擋下雙尊的兩儀劍法。
-	- 若[[段智秀]]在場，兩人一同牽制雙尊，被雙尊吐槽配合得一蹋糊塗，逐出師門。
+	- 若[[段智秀]]在場，兩人一同牽制雙尊，被雙尊吐槽配合得一塌糊塗，逐出師門。
 	- 若入魔，被雙尊斬於劍下。

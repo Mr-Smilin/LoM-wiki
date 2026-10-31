@@ -40,7 +40,7 @@ tags:
 			<ChTr>
 				<ChTd position='center'>
 					[[觀雲客]] (師兄)
-                </ChTd>
+				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
@@ -48,6 +48,10 @@ tags:
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="受傷">
+		<Ch src='/images/characters/special203/hurt.webp' position='center'/>
+		<ChName nameZh='受傷' nameEn='Injured' position='right' />
 	</ChTab>
 </ChTabs>
 <br>
@@ -67,5 +71,5 @@ tags:
 -   在武林大會上作為點蒼派代表出場，卻無意爭奪武林盟主。若[[葉雲舟]]出來接戰，兩人會藉此澄清武穆王寶藏謠言，聽海生欲出《劍聖第三遺招》，卻被[[葉雲舟]]的《點破雲關．雷動九天》擊敗，直言青出於藍。
 -   若[[葉雲舟]]加入唐門，西武林會出來牽制雙尊，有以下結果：
 	- 以活人之劍，一人擋下雙尊的兩儀劍法。
-	- 若[[段智秀]]在場，兩人一同牽制雙尊，被雙尊吐槽配合得一蹋糊塗，逐出師門。
+	- 若[[段智秀]]在場，兩人一同牽制雙尊，被雙尊吐槽配合得一塌糊塗，逐出師門。
 	- 若入魔，被雙尊斬於劍下。
