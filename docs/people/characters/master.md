@@ -73,6 +73,42 @@ aside: false
             </ChTr>
         </ChTable>
     </ChTab>
+    <ChTab title="微笑">
+        <Ch
+            src='/images/characters/master/laugh1.webp' 
+            position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch
+            src='/images/characters/master/nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="不悅">
+        <Ch
+            src='/images/characters/master/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='不悅' nameEn='Displeased' position='right' />
+    </ChTab>
+    <ChTab title="震怒">
+        <Ch
+            src='/images/characters/master/angry2.webp' 
+            position='center'/>
+        <ChName nameZh='震怒' nameEn='Furious' position='right' />
+    </ChTab>
+    <ChTab title="悲傷">
+        <Ch
+            src='/images/characters/master/sad1.webp' 
+            position='center'/>
+        <ChName nameZh='悲傷' nameEn='Sad' position='right' />
+    </ChTab>
+    <ChTab title="重傷">
+        <Ch
+            src='/images/characters/master/hurt.webp' 
+            position='center'/>
+        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+    </ChTab>
 </ChTabs>
 
 > 「何必成為龍淵？你能成為任何人。」
