@@ -31,7 +31,7 @@ tags:
       <td>1</td>
       <td>某人的傳說<br>Mou Ren De Chuan Shuo</td>
       <td>4:13</td>
-      <td>[備註](#某人的傳說)</td>
+      <td><MarkdownWrapper>[備註](#某人的傳說)</MarkdownWrapper></td>
     </tr>
     <tr>
       <td>2</td>
@@ -61,13 +61,13 @@ tags:
       <td>6</td>
       <td>君所願兮江湖行 最是輕狂不願醒<br>Jun Suo Yuan Zhi Jiang Hu Xing Zui Shi Qing Kuang Bu Yuan Xing</td>
       <td>3:04</td>
-      <td>[備註](#君所願兮江湖行 最是輕狂不願醒)</td>
+      <td><MarkdownWrapper>[備註](#君所願兮江湖行 最是輕狂不願醒)</MarkdownWrapper></td>
     </tr>
     <tr>
       <td>7</td>
       <td>戰令堂<br>Zhan Ling Tang</td>
       <td>4:13</td>
-      <td>[備註](#戰令堂)</td>
+      <td><MarkdownWrapper>[備註](#戰令堂)</MarkdownWrapper></td>
     </tr>
     <tr>
       <td>8</td>
@@ -103,19 +103,19 @@ tags:
       <td>13</td>
       <td>恐怖君臨<br>Kong Bu Jun Lin</td>
       <td>3:29</td>
-      <td>[備註](#恐怖君臨)</td>
+      <td><MarkdownWrapper>[備註](#恐怖君臨)</MarkdownWrapper></td>
     </tr>
     <tr>
       <td>14</td>
       <td>仙侶宮 哪吒令 龍遊淺水<br>Xian Lv Gong Ne Zha Ling Long You Qian Shui</td>
       <td>2:51</td>
-      <td>[典故](#仙侶宮 哪吒令 龍遊淺水)</td>
+      <td><MarkdownWrapper>[典故](#仙侶宮 哪吒令 龍遊淺水)</MarkdownWrapper></td>
     </tr>
     <tr>
       <td>15</td>
       <td>歷劫知俠氣<br>Li Jie Zhi Xia Qi</td>
       <td>4:00</td>
-      <td>[備註](#歷劫知俠氣)</td>
+      <td><MarkdownWrapper>[備註](#歷劫知俠氣)</MarkdownWrapper></td>
     </tr>
     <tr>
       <td>16</td>
@@ -127,7 +127,7 @@ tags:
       <td>17</td>
       <td>吾往矣<br>Wu Wang Yi</td>
       <td>2:59</td>
-      <td>[典故](#吾往矣)</td>
+      <td><MarkdownWrapper>[典故](#吾往矣)</MarkdownWrapper></td>
     </tr>
     <tr>
       <td>18</td>
@@ -139,7 +139,7 @@ tags:
       <td>19</td>
       <td>子夜寄君書<br>Zi Ye Ji Jun Shu</td>
       <td>2:54</td>
-      <td>[備註](#子夜寄君書)</td>
+      <td><MarkdownWrapper>[備註](#子夜寄君書)</MarkdownWrapper></td>
     </tr>
     <tr>
       <td>20</td>
@@ -166,7 +166,7 @@ tags:
 - 原聲帶第一輯英文，之所以採羅馬拼音直翻，是因為團隊內當時沒合適翻譯人選。
   
 #### 某人的傳說
-- 常見誤會：
+- 玩家常見誤會：
     - 雖然子夜寄君書作為遊戲封面主選單曲&劇情中播放率最高的配樂，但實際真正的主題曲是某人的傳說。[^2]
 - [Youtube - 【活俠傳】某人的傳說-我才不是樹，我是活人！ 幽火的音樂解析](https://www.youtube.com/watch?v=SubF9pJlG2E)
 
