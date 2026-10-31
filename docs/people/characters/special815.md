@@ -34,12 +34,24 @@ tags:
 					[[石公遠]] (丈夫)
 				</ChTd>
 			</ChTr>
-				<ChTr>
+			<ChTr>
 				<ChTd position='center'>
 					[[唐布衣]] (幫手)
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special815/angry.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="哭泣">
+		<Ch src='/images/characters/special815/sad.webp' position='center'/>
+		<ChName nameZh='哭泣' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="害羞">
+		<Ch src='/images/characters/special815/shy.webp' position='center'/>
+		<ChName nameZh='害羞' nameEn='Shy' position='right' />
 	</ChTab>
 </ChTabs>
 
