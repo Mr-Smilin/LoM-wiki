@@ -18,6 +18,48 @@ aside: false
 			:animation=true
 		/>
     </ChTab>
+    <ChTab title="微笑">
+        <Ch
+            src='/images/characters/brother3/laugh1.webp' 
+            position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch
+            src='/images/characters/brother3/nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="驚嚇">
+        <Ch
+            src='/images/characters/brother3/nervous2.webp' 
+            position='center'/>
+        <ChName nameZh='驚嚇' nameEn='Shock' position='right' />
+    </ChTab>
+    <ChTab title="尷尬">
+        <Ch
+            src='/images/characters/brother3/nervous3.webp' 
+            position='center'/>
+        <ChName nameZh='尷尬' nameEn='Awkward' position='right' />
+    </ChTab>
+    <ChTab title="不悅">
+        <Ch
+            src='/images/characters/brother3/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='不悅' nameEn='Displeased' position='right' />
+    </ChTab>
+    <ChTab title="悲傷">
+        <Ch
+            src='/images/characters/brother3/sad1.webp' 
+            position='center'/>
+        <ChName nameZh='悲傷' nameEn='Sad' position='right' />
+    </ChTab>
+    <ChTab title="重傷">
+        <Ch
+            src='/images/characters/brother3/hurt.webp' 
+            position='center'/>
+        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+    </ChTab>
 </ChTabs>
 <br>
 
