@@ -60,6 +60,18 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/trainee204/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="不悅">
+		<Ch src='/images/characters/trainee204/angry1.webp' position='center'/>
+		<ChName nameZh='不悅' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/trainee204/angry2.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
