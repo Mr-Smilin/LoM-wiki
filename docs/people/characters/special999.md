@@ -12,11 +12,101 @@ aside: false
 	<ChTab title="初識">
 		<ChMeet 
 			src='/images/characters/special999/normal.webp' 
-            nameTitle='縞衣劍少'
+			nameTitle='縞衣劍少'
 			nameMain='瑞笙'
 			desc='初出茅廬，近來名聲漸響的年輕劍客。<br>英俊瀟灑，磊落君子，處世溫文爾雅，胸中亦藏豪情萬丈，仗劍行俠，快意恩仇，緊要關頭就會出現的傢伙。'
 			:animation=true
 		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch
+			src='/images/characters/special999/laugh.webp' 
+			position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch
+			src='/images/characters/special999/laugh2.webp' 
+			position='center'/>
+		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch
+			src='/images/characters/special999/nervous1.webp' 
+			position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch
+			src='/images/characters/special999/nervous2.webp' 
+			position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch
+			src='/images/characters/special999/nervous3.webp' 
+			position='center'/>
+		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="懷疑">
+		<Ch
+			src='/images/characters/special999/doubt.webp' 
+			position='center'/>
+		<ChName nameZh='懷疑' nameEn='Doubt' position='right' />
+	</ChTab>
+	<ChTab title="不悅">
+		<Ch
+			src='/images/characters/special999/angry1.webp' 
+			position='center'/>
+		<ChName nameZh='不悅' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch
+			src='/images/characters/special999/angry2.webp' 
+			position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="閉眼">
+		<Ch
+			src='/images/characters/special999/close_eye.webp' 
+			position='center'/>
+		<ChName nameZh='閉眼' nameEn='Close Eyes' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch
+			src='/images/characters/special999/hurt2.webp' 
+			position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="重傷(閉眼)">
+		<Ch
+			src='/images/characters/special999/hurt_close_eye.webp' 
+			position='center'/>
+		<ChName nameZh='重傷(閉眼)' nameEn='Severely Injured (Close Eyes)' position='right' />
+	</ChTab>
+	<ChTab title="鼻青臉腫">
+		<Ch
+			src='/images/characters/special999/hurt3.webp' 
+			position='center'/>
+		<ChName nameZh='鼻青臉腫' nameEn='Black and Blue' position='right' />
+	</ChTab>
+	<ChTab title="浴血">
+		<Ch
+			src='/images/characters/special999/blood.webp' 
+			position='center'/>
+		<ChName nameZh='浴血' nameEn='Bloodied' position='right' />
+	</ChTab>
+	<ChTab title="浴血(閉眼)">
+		<Ch
+			src='/images/characters/special999/close_eye_blood.webp' 
+			position='center'/>
+		<ChName nameZh='浴血(閉眼)' nameEn='Bloodied (Close Eyes)' position='right' />
+	</ChTab>
+	<ChTab title="斗篷">
+		<Ch
+			src='/images/characters/special999/special1.webp' 
+			position='center'/>
+		<ChName nameZh='斗篷' nameEn='Hooded Cloak' position='right' />
 	</ChTab>
 </ChTabs>
 <br>
