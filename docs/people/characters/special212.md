@@ -41,6 +41,30 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special212/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch src='/images/characters/special212/nervous2.webp' position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special212/angry1.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="抓狂">
+		<Ch src='/images/characters/special212/angry3.webp' position='center'/>
+		<ChName nameZh='抓狂' nameEn='Rage' position='right' />
+	</ChTab>
+	<ChTab title="陰笑">
+		<Ch src='/images/characters/special212/gloomy.webp' position='center'/>
+		<ChName nameZh='陰笑' nameEn='Sinister Smile' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special212/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
 </ChTabs>
 <br>
 
