@@ -55,6 +55,14 @@ aside: false
 			nameZh='哭泣'
 			nameEn='Cry'/>
 	</ChTab>
+	<ChTab title="閉眼落淚">
+		<Ch 
+			src='/images/characters/girl_4/close_eyes_cry.webp' 
+			position='center'/>
+		<ChName
+			nameZh='閉眼落淚'
+			nameEn='Close Eyes (Tears)'/>
+	</ChTab>
 	<ChTab title="忍耐">
 		<Ch 
 			src='/images/characters/girl_4/endure.webp' 
@@ -102,6 +110,14 @@ aside: false
 		<ChName
 			nameZh='緊張'
 			nameEn='Nervous'/>
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch 
+			src='/images/characters/girl_4/nervous3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='尷尬'
+			nameEn='Awkward'/>
 	</ChTab>
 	<ChTab title="害羞">
 		<Ch 
