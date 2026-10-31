@@ -11,22 +11,52 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+	<ChTab title="初識">
 		<ChMeet 
 			src='/images/characters/special405/normal.webp' 
-            nameTitle=''
+			nameTitle=''
 			nameMain='申屠龍'
 			desc='青城派的修真道士，年紀雖輕，輩份卻高，是青城前任掌門的關門弟子。<br>
 			面目清俊，隨和儒雅，不修道法時多在山中閒遊，不太理會江湖事，極少與人爭執，只在青城派自家月考時顯露武功，饒是如此，名聲依然默默的傳開。'
 			:animation=true
 		/>
-    </ChTab>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch
+			src='/images/characters/special405/laugh.webp' 
+			position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch
+			src='/images/characters/special405/nervous1.webp' 
+			position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch
+			src='/images/characters/special405/nervous3.webp' 
+			position='center'/>
+		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="邪氣">
+		<Ch
+			src='/images/characters/special405/angry2.webp' 
+			position='center'/>
+		<ChName nameZh='邪氣' nameEn='Malevolent' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch
+			src='/images/characters/special405/hurt.webp' 
+			position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
 </ChTabs>
 
 <InfoList>
-    <Info title='角色資料' :open=true>
-        <table>
-            <ChTr>
+	<Info title='角色資料' :open=true>
+		<table>
+			<ChTr>
 				<ChTd isTitle=true>
 					性別
 				</ChTd>
@@ -67,8 +97,8 @@ aside: false
 					[[虞小梅]] (手下)
 				</ChTd>
 			</ChTr>
-        </table>
-    </Info>
+		</table>
+	</Info>
 </InfoList>
 <br><br>
 
@@ -97,7 +127,7 @@ aside: false
 -   留學期間[[趙活]]所住的房間便是他的房間，他則是搬到[[鄒博|掌門]]房間住。
 -   嫌棄[[趙活]]樣貌，連與趙活親暱的[[葉雲裳]]也一同腹誹。在被女香客糾纏的時候拿趙活出去擋，意外發現了趙活的好用之處。
 -   意外是個好人，青城留學期間打好關係，會送很多書。
--   [[葉雲裳]]體內的九轉輪迴真氣正是其神功大城所欠缺的一味藥，在發現之後便想將她練成丹。
+-   [[葉雲裳]]體內的九轉輪迴真氣正是其神功大成所欠缺的一味藥，在發現之後便想將她煉成丹。
 
 ## 李仁友
 
@@ -109,7 +139,7 @@ aside: false
 -   屠龍可能意指欲屠[[龍淵]]。
 -   對已不在人世的昔日宿敵[[龍淵]]有無限緬懷。
 -   面對餘毒未清的[[龍湘]]，決定養敵為患。期許龍湘能夠步上她偉大[[龍淵|父親]]的道路，登峰造極，來日再決雌雄，以雪前生敗北之恥。
--   
+
 ## 備註
 
 -   鳥熊 Facebook 的介紹，[連結](https://www.facebook.com/photo.php?fbid=443066998246681&id=100076301525150&set=a.165167019370015)
