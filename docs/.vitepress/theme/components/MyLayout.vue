@@ -38,22 +38,18 @@ const fixLanguageLinks = async () => {
     const base = site.value.base || "/";
 	// 獲取地址
     const currentPath = window.location.pathname; 
+    // 合併連續斜線：避免 //evil.com 這種網址組出跳到外站的連結
+    let subPath = currentPath.replace(/\/{2,}/g, "/");
     // 剝離 base，例如 /LoM-wiki/zh-hans/event/... 轉換成 /zh-hans/event/...
-    let subPath = currentPath;
     if (base !== "/" && subPath.startsWith(base)) {
 		// 保留開頭的斜杠/
         subPath = subPath.slice(base.length - 1); 
     }
-    // 剝離當前語言前綴，獲取乾净的 subPath
+    // 剝離語言前綴，獲取乾净的 subPath（舊網址可能疊了好幾層，例如 /en/ja/...，全部剝掉）
     const localeKeys = Object.keys(site.value.locales).filter(k => k !== "root");
-    for (const key of localeKeys) {
-        if (subPath === `/${key}/` || subPath === `/${key}`) {
-            subPath = "/";
-            break;
-        } else if (subPath.startsWith(`/${key}/`)) {
-            subPath = subPath.slice(key.length + 1);
-            break;
-        }
+    let key;
+    while ((key = localeKeys.find(k => subPath === `/${k}` || subPath.startsWith(`/${k}/`)))) {
+        subPath = subPath.slice(key.length + 1) || "/";
     }
     //  計算所有語言正確的 URL
     const cleanBase = base.replace(/\/$/, "");
