@@ -69,6 +69,14 @@ aside: false
 			nameZh='浴血'
 			nameEn='Bloodied'/>
 	</ChTab>
+	<ChTab title="重傷">
+		<Ch 
+			src='/images/characters/girl_6/hurt.webp' 
+			position='center'/>
+		<ChName
+			nameZh='重傷'
+			nameEn='Severely Injured'/>
+	</ChTab>
 	<ChTab title="微笑">
 		<Ch 
 			src='/images/characters/girl_6/laugh1.webp' 

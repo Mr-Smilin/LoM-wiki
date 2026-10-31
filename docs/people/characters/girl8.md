@@ -168,6 +168,14 @@ borderless: false
 			nameZh='受傷'
 			nameEn='Injured'/>
 	</ChTab>
+	<ChTab title="重傷">
+		<Ch 
+			src='/images/characters/girl_8/hurt2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='重傷'
+			nameEn='Severely Injured'/>
+	</ChTab>
 	<ChTab title="宮裝">
 		<Ch src='/images/characters/girl_8/dress_shy.webp'
 			position='center'/>
