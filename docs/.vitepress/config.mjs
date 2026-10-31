@@ -54,7 +54,6 @@ const baseConfig = {
 					{ text: "隱藏參數列表", link: "/system/hidden-params" },
 					{ text: "對戰指南", link: "/system/engagement/battle-ui" },
 					{ text: "鍛冶場、煉丹房開發路線圖", link: "/system/forge-roadmap" },
-					{ text: "開發項目列表", link: "/system/develop-list" },
 					{ text: "道具列表", link: "/system/items" },
 					{ text: "養成指令", link: "/system/training" },
 					{ text: "原聲帶", link: "/system/soundtrack" },
