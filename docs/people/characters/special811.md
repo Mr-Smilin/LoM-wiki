@@ -45,6 +45,42 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special811/laugh.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special811/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚嚇">
+		<Ch src='/images/characters/special811/nervous2.webp' position='center'/>
+		<ChName nameZh='驚嚇' nameEn='Shock' position='right' />
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch src='/images/characters/special811/nervous3.webp' position='center'/>
+		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="不悅">
+		<Ch src='/images/characters/special811/angry1.webp' position='center'/>
+		<ChName nameZh='不悅' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="悲傷">
+		<Ch src='/images/characters/special811/sad.webp' position='center'/>
+		<ChName nameZh='悲傷' nameEn='Sad' position='right' />
+	</ChTab>
+	<ChTab title="傷疤">
+		<Ch src='/images/characters/special811/scar_normal.webp' position='center'/>
+		<ChName nameZh='傷疤' nameEn='Scarred' position='right' />
+	</ChTab>
+	<ChTab title="傷疤(汗)">
+		<Ch src='/images/characters/special811/scar_nervous1.webp' position='center'/>
+		<ChName nameZh='傷疤(汗)' nameEn='Scarred (Sweat)' position='right' />
+	</ChTab>
+	<ChTab title="傷疤(不悅)">
+		<Ch src='/images/characters/special811/scar_angry1.webp' position='center'/>
+		<ChName nameZh='傷疤(不悅)' nameEn='Scarred (Displeased)' position='right' />
+	</ChTab>
 </ChTabs>
 
 > 「我想拜的不是別派，就是唐門！甘受唐門戒律，到宗祠前領罰懺悔，入毒沙缸、走草地，絕無怨言。」
