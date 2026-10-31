@@ -14,7 +14,20 @@ tags:
 
 ### 大眼錐
 
-<img src="/images/mobs/folks/stranger_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="大眼錐">
+        <Ch src='/images/mobs/folks/stranger_normal.webp' position='center'/>
+        <ChName nameZh='大眼錐' nameEn='Da Yan Zhui' position='right' />
+    </ChTab>
+    <ChTab title="生氣">
+        <Ch src='/images/mobs/folks/stranger_angry1.webp' position='center'/>
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch src='/images/mobs/folks/stranger_nervous1.webp' position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+</ChTabs>
 
 <table>
     <tr>
@@ -45,7 +58,16 @@ tags:
 
 ### 李大夫
 
-<img src="/images/mobs/folks/lee1_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="李大夫">
+        <Ch src='/images/mobs/folks/lee1_normal.webp' position='center'/>
+        <ChName nameZh='李大夫' nameEn='Li Da Fu' position='right' />
+    </ChTab>
+    <ChTab title="生氣">
+        <Ch src='/images/mobs/folks/lee1_angry1.webp' position='center'/>
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>贈藥事件<br>「李大夫」</td>
@@ -336,7 +358,16 @@ tags:
 
 ## 店小二
 
-<img src="/images/mobs/folks/waiter_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="店小二">
+        <Ch src='/images/mobs/folks/waiter_normal.webp' position='center'/>
+        <ChName nameZh='店小二' nameEn='Dian Xiao Er' position='right' />
+    </ChTab>
+    <ChTab title="重傷">
+        <Ch src='/images/mobs/folks/waiter_hurt.webp' position='center'/>
+        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>FB情報<br>「店小二」</td>
@@ -372,7 +403,28 @@ tags:
     </tr>
 </table>
 
-<img src="/images/mobs/folks/waiterC_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="店小二">
+        <Ch src='/images/mobs/folks/waiterC_normal.webp' position='center'/>
+        <ChName nameZh='店小二' nameEn='Dian Xiao Er' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch src='/images/mobs/folks/waiterC_nervous1.webp' position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="不悅">
+        <Ch src='/images/mobs/folks/waiterC_angry.webp' position='center'/>
+        <ChName nameZh='不悅' nameEn='Displeased' position='right' />
+    </ChTab>
+    <ChTab title="上菜">
+        <Ch src='/images/mobs/folks/waiterC_normal2.webp' position='center'/>
+        <ChName nameZh='上菜' nameEn='Serving' position='right' />
+    </ChTab>
+    <ChTab title="被掀盤">
+        <Ch src='/images/mobs/folks/waiterC_empty.webp' position='center'/>
+        <ChName nameZh='被掀盤' nameEn='Tray Flipped' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>武林大會</td>
@@ -424,7 +476,16 @@ tags:
 
 ### 知縣
 
-<img src="/images/mobs/imperials/magistrate_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="知縣">
+        <Ch src='/images/mobs/imperials/magistrate_normal.webp' position='center'/>
+        <ChName nameZh='知縣' nameEn='Zhi Xian' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch src='/images/mobs/imperials/magistrate_nervous1.webp' position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>西武林</td>
@@ -440,7 +501,36 @@ tags:
 
 ### 郁父
 
-<img src="/images/characters/special838/normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="郁父">
+        <Ch src='/images/characters/special838/normal.webp' position='center'/>
+        <ChName nameZh='郁父' nameEn='Yu Fu' position='right' />
+    </ChTab>
+    <ChTab title="微笑">
+        <Ch src='/images/characters/special838/laugh.webp' position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="大笑">
+        <Ch src='/images/characters/special838/laugh2.webp' position='center'/>
+        <ChName nameZh='大笑' nameEn='Laugh' position='right' />
+    </ChTab>
+    <ChTab title="生氣">
+        <Ch src='/images/characters/special838/angry.webp' position='center'/>
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch src='/images/characters/special838/nervous.webp' position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="憔悴">
+        <Ch src='/images/characters/special838/haggard_normal.webp' position='center'/>
+        <ChName nameZh='憔悴' nameEn='Haggard' position='right' />
+    </ChTab>
+    <ChTab title="憔悴(受傷)">
+        <Ch src='/images/characters/special838/haggard_hurt.webp' position='center'/>
+        <ChName nameZh='憔悴(受傷)' nameEn='Haggard (Injured)' position='right' />
+    </ChTab>
+</ChTabs>
 
 <table>
     <tr>
@@ -455,7 +545,20 @@ tags:
 
 ### 郁母
 
-<img src="/images/characters/special839/normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="郁母">
+        <Ch src='/images/characters/special839/normal.webp' position='center'/>
+        <ChName nameZh='郁母' nameEn='Yu Mu' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch src='/images/characters/special839/nervous.webp' position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="哭泣">
+        <Ch src='/images/characters/special839/sad.webp' position='center'/>
+        <ChName nameZh='哭泣' nameEn='Cry' position='right' />
+    </ChTab>
+</ChTabs>
 
 <table>
     <tr>
@@ -470,7 +573,32 @@ tags:
 
 ### 郁寶花
 
-<img src="/images/characters/special840/normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="郁寶花">
+        <Ch src='/images/characters/special840/normal.webp' position='center'/>
+        <ChName nameZh='郁寶花' nameEn='Yu Bao Hua' position='right' />
+    </ChTab>
+    <ChTab title="微笑">
+        <Ch src='/images/characters/special840/laugh1.webp' position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch src='/images/characters/special840/nervous.webp' position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="陰笑">
+        <Ch src='/images/characters/special840/gloomy.webp' position='center'/>
+        <ChName nameZh='陰笑' nameEn='Sinister Smile' position='right' />
+    </ChTab>
+    <ChTab title="哭泣">
+        <Ch src='/images/characters/special840/sad.webp' position='center'/>
+        <ChName nameZh='哭泣' nameEn='Cry' position='right' />
+    </ChTab>
+    <ChTab title="灰心">
+        <Ch src='/images/characters/special840/discouraged.webp' position='center'/>
+        <ChName nameZh='灰心' nameEn='Discouraged' position='right' />
+    </ChTab>
+</ChTabs>
 
 <table>
     <tr>
@@ -489,7 +617,48 @@ tags:
 
 ### 郁城
 
-<img src="/images/characters/special841/normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="郁城">
+        <Ch src='/images/characters/special841/normal.webp' position='center'/>
+        <ChName nameZh='郁城' nameEn='Yu Cheng' position='right' />
+    </ChTab>
+    <ChTab title="生氣">
+        <Ch src='/images/characters/special841/angry.webp' position='center'/>
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch src='/images/characters/special841/nervous.webp' position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="落魄">
+        <Ch src='/images/characters/special841/worn_normal.webp' position='center'/>
+        <ChName nameZh='落魄' nameEn='Down and Out' position='right' />
+    </ChTab>
+    <ChTab title="落魄(微笑)">
+        <Ch src='/images/characters/special841/worn_laugh1.webp' position='center'/>
+        <ChName nameZh='落魄(微笑)' nameEn='Down and Out (Smile)' position='right' />
+    </ChTab>
+    <ChTab title="落魄(汗)">
+        <Ch src='/images/characters/special841/worn_nervous1.webp' position='center'/>
+        <ChName nameZh='落魄(汗)' nameEn='Down and Out (Sweat)' position='right' />
+    </ChTab>
+    <ChTab title="落魄(驚慌)">
+        <Ch src='/images/characters/special841/worn_nervous2.webp' position='center'/>
+        <ChName nameZh='落魄(驚慌)' nameEn='Down and Out (Panic)' position='right' />
+    </ChTab>
+    <ChTab title="落魄(尷尬)">
+        <Ch src='/images/characters/special841/worn_nervous3.webp' position='center'/>
+        <ChName nameZh='落魄(尷尬)' nameEn='Down and Out (Awkward)' position='right' />
+    </ChTab>
+    <ChTab title="落魄(受傷)">
+        <Ch src='/images/characters/special841/worn_hurt.webp' position='center'/>
+        <ChName nameZh='落魄(受傷)' nameEn='Down and Out (Injured)' position='right' />
+    </ChTab>
+    <ChTab title="落魄(受傷哭)">
+        <Ch src='/images/characters/special841/worn_hurt_cry.webp' position='center'/>
+        <ChName nameZh='落魄(受傷哭)' nameEn='Down and Out (Injured, Crying)' position='right' />
+    </ChTab>
+</ChTabs>
 
 <table>
     <tr>
@@ -516,7 +685,16 @@ tags:
 
 ### 狗
 
-<img src="/images/mobs/animals/dog_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="狗">
+        <Ch src='/images/mobs/animals/dog_normal.webp' position='center'/>
+        <ChName nameZh='狗' nameEn='Dog' position='right' />
+    </ChTab>
+    <ChTab title="生氣">
+        <Ch src='/images/mobs/animals/dog_angry.webp' position='center'/>
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>龍湘碎銀事件<br>「肉」</td>
