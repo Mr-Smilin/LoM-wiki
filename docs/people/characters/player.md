@@ -264,17 +264,17 @@ tags:
             position='center'/>
         <ChName nameZh='鼻青臉腫' nameEn='Black and Blue' position='right' />
     </ChTab>
-    <ChTab title="奄奄一息">
-        <Ch
-            src='/images/characters/player/hurt2.webp' 
-            position='center'/>
-        <ChName nameZh='奄奄一息' nameEn='Dying' position='right' />
-    </ChTab>
     <ChTab title="浴血">
         <Ch
             src='/images/characters/player/blood.webp' 
             position='center'/>
         <ChName nameZh='浴血' nameEn='Bloodied' position='right' />
+    </ChTab>
+    <ChTab title="奄奄一息">
+        <Ch
+            src='/images/characters/player/hurt2.webp' 
+            position='center'/>
+        <ChName nameZh='奄奄一息' nameEn='Dying' position='right' />
     </ChTab>
     <ChTab title="最後的暗器">
         <Ch
