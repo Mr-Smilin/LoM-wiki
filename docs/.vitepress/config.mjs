@@ -11,7 +11,6 @@ import {
 import cjkFriendly from "markdown-it-cjk-friendly";
 // 註腳
 import footnote from "markdown-it-footnote";
-import { withMermaid } from "vitepress-plugin-mermaid";
 
 const baseUrl = "/LoM-wiki/";
 
@@ -54,7 +53,6 @@ const baseConfig = {
 					{ text: "隱藏參數列表", link: "/system/hidden-params" },
 					{ text: "對戰指南", link: "/system/engagement/battle-ui" },
 					{ text: "鍛冶場、煉丹房開發路線圖", link: "/system/forge-roadmap" },
-					{ text: "開發項目列表", link: "/system/develop-list" },
 					{ text: "道具列表", link: "/system/items" },
 					{ text: "養成指令", link: "/system/training" },
 					{ text: "原聲帶", link: "/system/soundtrack" },
@@ -971,7 +969,6 @@ const baseConfig = {
 								text: "鍛冶場・煉丹房 開発ロードマップ",
 								link: "/ja/system/forge-roadmap",
 							},
-							{ text: "開発項目一覧", link: "/ja/system/develop-list" },
 							{ text: "道具一覧", link: "/ja/system/items" },
 							{ text: "養成コマンド", link: "/ja/system/training" },
 							{ text: "サウンドトラック", link: "/ja/system/soundtrack" },
@@ -1391,14 +1388,4 @@ const baseConfig = {
 	],
 };
 
-// Mermaid
-export default withMermaid({
-	...baseConfig,
-	// Mermaid 特定配置
-	mermaid: {
-		theme: "dark",
-	},
-	mermaidPlugin: {
-		class: "mermaid mermaid-m",
-	},
-});
+export default defineConfig(baseConfig);

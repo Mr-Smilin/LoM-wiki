@@ -1,368 +1,47 @@
 ---
 title: 鍛冶場・煉丹房開発ロードマップ
-description: 鍛冶場・煉丹房開発ロードマップ
+description: 鍛冶場・煉丹房の開発ロードマップと各項目の数値
 aside: true
-outline: [2, 3]
+outline: [2, 2]
 sidebar: false
 borderless: true
 tags:
     - Forge Roadmap
     - forge roadmap
+    - development
+    - forge
+    - pills
 ---
 
-## {{ $frontmatter.title }}
+# {{ $frontmatter.title }}
+- 開発ツリーの項目をクリックすると、その項目の数値表・入手方法・備考が開く。
+- カードと線の色は開発の段階を表す：第1段階は緑、第2段階は橙、第3段階は赤。
 
-### 鍛冶場 - 装備 - 武器
-```mermaid
-%%{init: {
-  'flowchart': {
-    'nodeSpacing': 70,
-    'rankSpacing': 80,
-    'theme': 'dark'
-  }
-} }%%
-graph TB
-  subgraph 鍛冶場 - 装備 - 武器
-    A[唐門短剣<img src="/LoM-wiki/images/items/swords/icon_sword_01.webp"><br>必要：なし]
-    B[唐門精鋭短剣<img src="/LoM-wiki/images/items/swords/icon_sword_10.webp"><br>必要：装備レベル5<br>門派規模2]
-    C[唐門伝承短剣<img src="/LoM-wiki/images/items/swords/icon_sword_20.webp"><br>必要：装備レベル10<br>門派規模2]
-    D[魚切り包丁<img src="/LoM-wiki/images/items/swords/icon_sword_11.webp"><br>必要：装備レベル5<br>門派規模2]
-    E[玉霄神匕<img src="/LoM-wiki/images/items/swords/icon_sword_21.webp"><br>必要：装備レベル10]
-    F[瀝泉短剣<img src="/LoM-wiki/images/items/swords/icon_sword_22.webp"><br>必要：装備レベル10<br>門派規模2]
-    G[金銭剣<img src="/LoM-wiki/images/items/swords/icon_sword_12.webp"><br>必要：装備レベル10]
-  end
+<!-- 数値は .vitepress/theme/data/forge/<category>.js（繁中）、日本語の文字は data/forge/i18n/ja/ に置く -->
 
-  %% アップグレード矢印（黄色）+ テキスト
-  A --> B
-  B --> C
-  A --> D
-  A --> E
-  B --> F
-  A --> G
+## 鍛冶場 - 装備 - 武器
+<ForgeRoot category="weapon" />
 
-  %% 返却矢印（緑色）+ テキスト
-  B -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  C -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| B
-  D -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  E -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  F -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| B
-  G -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
+## 鍛冶場 - 装備 - 防具
+<ForgeRoot category="armor" />
 
-  
-  %% カスタム矢印スタイルとテキスト色
-  linkStyle 0 stroke:#FFD700,stroke-width:2px
-  linkStyle 1 stroke:#FFD700,stroke-width:2px
-  linkStyle 2 stroke:#FFD700,stroke-width:2px
-  linkStyle 3 stroke:#FFD700,stroke-width:2px
-  linkStyle 4 stroke:#FFD700,stroke-width:2px
-  linkStyle 5 stroke:#FFD700,stroke-width:2px
-  linkStyle 6 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 7 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 8 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 9 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 10 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 11 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
+## 鍛冶場 - 暗器 - 平射
+<ForgeRoot category="dart" />
 
-  %% ノードスタイルを設定
-  classDef default padding:15px,margin:10px,fill:#000,color:#FFF
-  style A stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style B stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style C stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style D stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style E stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style F stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style G stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
+## 鍛冶場 - 暗器 - 投射
+<ForgeRoot category="throw" />
 
+## 鍛冶場 - 暗器 - 罠
+<ForgeRoot category="trap" />
 
-```
+## 煉丹房 - 毒薬
+<ForgeRoot category="poison" />
 
----
+## 煉丹房 - 霊丹
+<ForgeRoot category="medicine" />
 
-### 鍛冶場 - 装備 - 防具
-```mermaid
-%%{init: {
-  'flowchart': {
-    'nodeSpacing': 70,
-    'rankSpacing': 80,
-    'theme': 'dark'
-  }
-} }%%
-graph TB
-  subgraph 鍛冶場 - 装備 - 防具
-    A[唐門制服<img src="/LoM-wiki/images/items/equips/icon_equip_01.webp"><br>必要：なし]
-    B[軽量化<img src="/LoM-wiki/images/items/equips/icon_equip_11.webp"><br>必要：装備レベル5<br>門派規模2]
-    C[護心鏡<img src="/LoM-wiki/images/items/equips/icon_equip_10.webp"><br>必要：装備レベル10<br>門派規模2]
-    D[密密縫<img src="/LoM-wiki/images/items/equips/icon_equip_20.webp"><br>必要：装備レベル10<br>門派規模3]
-    E[牛革の制服<img src="/LoM-wiki/images/items/equips/icon_equip_22.webp"><br>必要：装備レベル10<br>門派規模2]
-    F[紙甲<img src="/LoM-wiki/images/items/equips/icon_equip_21.webp"><br>必要：装備レベル10<br>門派規模3]
-    G[烏蚕の宝衣<img src="/LoM-wiki/images/items/equips/icon_equip_23.webp"><br>必要：装備レベル10]
-    H[逆鱗宝衣<img src="/LoM-wiki/images/items/equips/icon_equip_24.webp"><br>必要：装備レベル10]
-  end
-
-  %% アップグレード矢印（黄色）+ テキスト
-  A --> B
-  A --> C
-  A --> D
-  A --> E
-  B --> F
-  B --> H
-  C --> G
-
-  %% 返却矢印（緑色）+ テキスト
-  B -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  C -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  D -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  E -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  F -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| B
-  G -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| C
-  H -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| B
-
-  %% カスタム矢印スタイルとテキスト色
-  linkStyle 0 stroke:#FFD700,stroke-width:2px
-  linkStyle 1 stroke:#FFD700,stroke-width:2px
-  linkStyle 2 stroke:#FFD700,stroke-width:2px
-  linkStyle 3 stroke:#FFD700,stroke-width:2px
-  linkStyle 4 stroke:#FFD700,stroke-width:2px
-  linkStyle 5 stroke:#FFD700,stroke-width:2px
-  linkStyle 6 stroke:#FFD700,stroke-width:2px
-  linkStyle 7 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 8 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 9 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 10 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 11 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 12 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 13 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-
-  %% ノードスタイルを設定
-  classDef default padding:15px,margin:10px,fill:#000,color:#FFF
-  style A stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style B stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style C stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style D stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style E stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style F stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style G stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style H stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-
-```
-
----
-
-### 鍛冶場 - 暗器 - 平射
-```mermaid
-%%{init: {
-  'flowchart': {
-    'nodeSpacing': 70,
-    'rankSpacing': 80,
-    'theme': 'dark'
-  }
-} }%%
-graph TB
-  subgraph 鍛冶場 - 暗器 - 平射
-    A[脱手鏢<img src="/LoM-wiki/images/items/knifes/icon_knife_01.webp"><br>必要：なし]
-    B[飛梭<img src="/LoM-wiki/images/items/knifes/icon_knife_11.webp"><br>必要：装備レベル5<br>門派規模2]
-    C[無形矢<img src="/LoM-wiki/images/items/knifes/icon_knife_21.webp"><br>必要：装備レベル10<br>門派規模3]
-    D[鉄橄欖<img src="/LoM-wiki/images/items/knifes/icon_knife_10.webp"><br>必要：装備レベル10<br>門派規模2]
-  end
-
-  %% アップグレード矢印（黄色）+ テキスト
-  A --> B
-  B --> C
-  A --> D
-
-  %% 返却矢印（緑色）+ テキスト
-  B -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  C -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| B
-  D -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  
-  %% カスタム矢印スタイルとテキスト色
-  linkStyle 0 stroke:#FFD700,stroke-width:2px
-  linkStyle 1 stroke:#FFD700,stroke-width:2px
-  linkStyle 2 stroke:#FFD700,stroke-width:2px
-  linkStyle 3 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 4 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 5 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-
-  %% ノードスタイルを設定
-  classDef default padding:15px,margin:10px,fill:#000,color:#FFF
-  style A stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style B stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style C stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style D stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-
-```
-
----
-
-### 鍛冶場 - 暗器 - 投射
-```mermaid
-%%{init: {
-  'flowchart': {
-    'nodeSpacing': 70,
-    'rankSpacing': 80,
-    'theme': 'dark'
-  }
-} }%%
-graph TB
-  subgraph 鍛冶場 - 暗器 - 投射
-    A[爆竹<img src="/LoM-wiki/images/items/balls/icon_ball_01.webp"><br>必要：なし]
-    B[流星矢<img src="/LoM-wiki/images/items/balls/icon_ball_11.webp"><br>必要：装備レベル5<br>門派規模2]
-    C[雷火弾<img src="/LoM-wiki/images/items/balls/icon_ball_20.webp"><br>必要：装備レベル10<br>門派規模3]
-    D[神奇球<img src="/LoM-wiki/images/items/balls/icon_ball_10.webp"><br>必要：装備レベル10<br>門派規模2]
-  end
-
-  %% アップグレード矢印（黄色）+ テキスト
-  A --> B
-  B --> C
-  A --> D
-
-  %% 返却矢印（緑色）+ テキスト
-  B -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  C -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| B
-  D -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  
-  %% カスタム矢印スタイルとテキスト色
-  linkStyle 0 stroke:#FFD700,stroke-width:2px
-  linkStyle 1 stroke:#FFD700,stroke-width:2px
-  linkStyle 2 stroke:#FFD700,stroke-width:2px
-  linkStyle 3 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 4 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 5 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-
-  %% ノードスタイルを設定
-  classDef default padding:15px,margin:10px,fill:#000,color:#FFF
-  style A stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style B stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style C stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style D stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-
-```
-
-### 鍛冶場 - 暗器 - 罠
-```mermaid
-%%{init: {
-  'flowchart': {
-    'nodeSpacing': 70,
-    'rankSpacing': 80,
-    'theme': 'dark'
-  }
-} }%%
-graph TB
-  subgraph 鍛冶場 - 暗器 - 罠
-    A[似草針<img src="/LoM-wiki/images/items/traps/icon_trap_01.webp"><br>必要：なし]
-    B[地鳴雷<img src="/LoM-wiki/images/items/traps/icon_trap_10.webp"><br>必要：装備レベル10<br>門派規模2]
-    C[猛火油櫃<img src="/LoM-wiki/images/items/traps/icon_trap_11.webp"><br>必要：装備レベル10<br>門派規模2]
-  end
-
-  %% アップグレード矢印（黄色）+ テキスト
-  A --> B
-  A --> C
-
-  %% 返却矢印（緑色）+ テキスト
-  B -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  C -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  
-  %% カスタム矢印スタイルとテキスト色
-  linkStyle 0 stroke:#FFD700,stroke-width:2px
-  linkStyle 1 stroke:#FFD700,stroke-width:2px
-  linkStyle 2 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 3 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-
-  %% ノードスタイルを設定
-  classDef default padding:15px,margin:10px,fill:#000,color:#FFF
-  style A stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style B stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style C stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-
-```
-
-### 煉丹房 - 毒物
-```mermaid
-%%{init: {
-  'flowchart': {
-    'nodeSpacing': 70,
-    'rankSpacing': 80,
-    'theme': 'dark'
-  }
-} }%%
-graph TB
-  subgraph 煉丹房 - 毒物
-    A[赤煉砂<img src="/LoM-wiki/images/items/poisons/icon_poison_01.webp"><br>必要：なし]
-    B[烏水仙<img src="/LoM-wiki/images/items/poisons/icon_poison_10.webp"><br>必要：装備レベル5<br>門派規模2]
-    C[三陰虫草膠<img src="/LoM-wiki/images/items/poisons/icon_poison_11.webp"><br>必要：装備レベル10<br>門派規模2]
-    D[彼岸仙香<img src="/LoM-wiki/images/items/poisons/icon_poison_20.webp"><br>必要：装備レベル10<br>門派規模3]
-  end
-
-  %% アップグレード矢印（黄色）+ テキスト
-  A --> B
-  A --> C
-  A --> D
-
-  %% 返却矢印（緑色）+ テキスト
-  B -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  C -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  D -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  
-  %% カスタム矢印スタイルとテキスト色
-  linkStyle 0 stroke:#FFD700,stroke-width:2px
-  linkStyle 1 stroke:#FFD700,stroke-width:2px
-  linkStyle 2 stroke:#FFD700,stroke-width:2px
-  linkStyle 3 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 4 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 5 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-
-  %% ノードスタイルを設定
-  classDef default padding:15px,margin:10px,fill:#000,color:#FFF
-  style A stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style B stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style C stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style D stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-
-
-```
-
-### 煉丹房 - 霊丹
-```mermaid
-%%{init: {
-  'flowchart': {
-    'nodeSpacing': 70,
-    'rankSpacing': 80,
-    'theme': 'dark'
-  }
-} }%%
-graph TB
-  subgraph 煉丹房 - 霊丹
-    A[南蝥礜石散<img src="/LoM-wiki/images/items/medis/icon_medi_01.webp"><br>必要：なし]
-    B[穿心龍膽湯<img src="/LoM-wiki/images/items/medis/icon_medi_02.webp"><br>必要：なし]
-    C[乖乖水<img src="/LoM-wiki/images/items/medis/icon_medi_04.webp"><br>必要：なし]
-    D[胡椒粉丸<img src="/LoM-wiki/images/items/medis/icon_medi_03.webp"><br>必要：門派規模2]
-    E[睡丹<img src="/LoM-wiki/images/items/medis/icon_medi_05.webp"><br>必要：なし]
-  end
-
-  A --> B
-  A --> C
-  B --> D
-  A --> E
-
-  B -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  C -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-  D -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| B
-  E -.->|<font color='#00FF00'>鍛造ポイント・通貨を90%返却</font>| A
-
-  linkStyle 0 stroke:#FFD700,stroke-width:2px
-  linkStyle 1 stroke:#FFD700,stroke-width:2px
-  linkStyle 2 stroke:#FFD700,stroke-width:2px
-  linkStyle 3 stroke:#FFD700,stroke-width:2px
-  linkStyle 4 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 5 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 6 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-  linkStyle 7 stroke:#00FF00,stroke-width:2px,stroke-dasharray:5,5
-
-  classDef default padding:15px,margin:10px,fill:#000,color:#FFF
-  style A stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style B stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style C stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style D stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-  style E stroke:#FFF,stroke-width:2px,padding:15px,margin:10px,fill:#000,color:#FFF
-
-```
+## 備考
+- 開発項目を取り消すと、投資済みの鍛造/煉丹ポイントの90%、銀両の90%が返却される。
+- 項目を一度解放した後なら、取り消して開発し直す際に解放条件のレベルを再度満たす必要はない。ただし項目自体は正しく揃える必要があり、たとえば護心鏡は唐門制服が開発中であることを要する。
+- 解放できるのは入手済みの項目だけで、未入手なら開発条件を満たしていても、将来入手した時点で自動的に解放されることはない。
+- 本記事のデータは[活俠傳資料彙総](https://docs.google.com/spreadsheets/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o)、[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)、[活俠傳事件分岐資料庫](https://mortal-web-database.vercel.app/)を参考に作成。

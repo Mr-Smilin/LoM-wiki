@@ -198,7 +198,7 @@ tags:
         <td id = "大師兄的塗鴉">大師兄的塗鴉</td>
         <td></td>
         <td></td>
-        <td>雜匠隨機觸發事件，<br>打造<MarkdownWrapper>[逆鱗寶衣](/system/develop-list)</MarkdownWrapper></td>
+        <td>雜匠隨機觸發事件，<br>打造<MarkdownWrapper>[逆鱗寶衣](/system/forge-roadmap#逆鱗寶衣)</MarkdownWrapper></td>
         <td>不明</td>
         <td>一年弟子房-大師兄聊詩琴書畫，不喜歡肩甲。</td>
         <td>相關事件：<br>第一年債主上門時，若骰到"不行，得即刻想辦法"<br>可拿給先生看，但會被罵一頓<br>
@@ -348,5 +348,5 @@ tags:
 </table>
 
 ## 備註
-- 煉丹房靈丹效果請見[開發項目列表](/system/develop-list#煉丹房-靈丹)。
+- 煉丹房靈丹效果請見[鍛冶場、煉丹房開發路線圖](/system/forge-roadmap#煉丹房-靈丹)。
 - 資料來源：https://docs.google.com/spreadsheets/u/0/?authuser=0&usp=sheets_web

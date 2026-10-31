@@ -61,9 +61,5 @@
   },
   "author": "mr-smilin",
   "license": "CC BY-NC-SA 4.0",
-  "description": "活俠傳 wiki",
-  "devDependencies": {
-    "mermaid": "^11.10.1",
-    "vitepress-plugin-mermaid": "^2.0.17"
-  }
+  "description": "活俠傳 wiki"
 }

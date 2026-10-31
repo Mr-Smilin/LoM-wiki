@@ -347,4 +347,67 @@ function main() {
     console.log(`Simplified Chinese locale generated: ${count} files -> docs/zh-hans`);
 }
 
+// 鍛冶場开发树 (ForgeRoot 组件) 的数据: 由繁体数据 data/forge/<category>.js 生成简体翻译档
+// data/forge/i18n/zh-hans/<category>.js 与 terms.js。数值、parent、图标不转换 (仍读繁体数据档),
+// 只输出显示用文字; 锚点 (anchor) 跟随简体名称, 与简体页面中被转换的链接锚点一致。
+// 与 docs/zh-hans 相同为生成物 (.gitignore), 每次全量重建。
+// 数据档为 ESM, CI 的 Node 20 无法 require(esm), 因此用 import() 读取。
+const FORGE_DIR = path.join(DOCS, ".vitepress", "theme", "data", "forge");
+const FORGE_OUT = path.join(FORGE_DIR, "i18n", "zh-hans");
+
+async function buildForgeData() {
+    const { pathToFileURL } = require("url");
+    const load = async (file) => (await import(pathToFileURL(path.join(FORGE_DIR, file)).href)).default;
+    const q = (v) => JSON.stringify(v);
+    const convertObject = (obj) =>
+        Object.fromEntries(Object.entries(obj || {}).map(([k, v]) => [k, convert(v)]));
+
+    fs.rmSync(FORGE_OUT, { recursive: true, force: true });
+    fs.mkdirSync(FORGE_OUT, { recursive: true });
+    const header = "// 生成物: 由 tools/buildSimplifiedChinese.js 从繁体数据档转换, 请勿手动编辑。\n";
+
+    const rowNames = new Set();
+    const textValues = new Set();
+    const categories = fs
+        .readdirSync(FORGE_DIR)
+        .filter((f) => f.endsWith(".js") && f !== "terms.js");
+    for (const file of categories) {
+        const data = await load(file);
+        const items = {};
+        for (const item of data.items) {
+            for (const [k, v] of Object.entries(item.stats || {})) {
+                rowNames.add(k);
+                for (const x of [].concat(v)) if (typeof x === "string" && /[\u4e00-\u9fff]/.test(x)) textValues.add(x);
+            }
+            Object.keys(item.info || {}).forEach((k) => rowNames.add(k));
+            const t = {
+                name: convert(item.name),
+                anchor: convert(item.name),
+                requires: (item.requires || []).map(convert),
+                obtain: transformTextWithLinks(item.obtain || ""),
+                note: transformTextWithLinks(item.note || ""),
+            };
+            const info = Object.entries(item.info || {}).filter(([, v]) => typeof v === "string");
+            if (info.length) t.info = Object.fromEntries(info.map(([k, v]) => [k, convert(v)]));
+            items[item.name] = t;
+        }
+        const out = { title: convert(data.title), ...(data.intro ? { intro: convert(data.intro) } : {}), items };
+        fs.writeFileSync(path.join(FORGE_OUT, file), `${header}export default ${JSON.stringify(out, null, 2)};\n`, "utf8");
+    }
+
+    const terms = await load("terms.js");
+    const out = {
+        labels: convertObject(terms.labels),
+        cost: convertObject(terms.cost),
+        rows: Object.fromEntries([...rowNames].map((k) => [k, convert(k)])),
+        values: Object.fromEntries([...textValues].map((v) => [v, convert(v)])),
+    };
+    fs.writeFileSync(path.join(FORGE_OUT, "terms.js"), `${header}export default ${JSON.stringify(out, null, 2)};\n`, "utf8");
+    console.log(`Simplified Chinese forge data generated: ${categories.length} categories -> data/forge/i18n/zh-hans`);
+}
+
 main();
+buildForgeData().catch((err) => {
+    console.error(err);
+    process.exit(1);
+});
