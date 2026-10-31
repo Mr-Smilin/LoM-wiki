@@ -64,6 +64,30 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special407/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="淡笑">
+		<Ch src='/images/characters/special407/laugh3.webp' position='center'/>
+		<ChName nameZh='淡笑' nameEn='Faint Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special407/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="不悅">
+		<Ch src='/images/characters/special407/angry1.webp' position='center'/>
+		<ChName nameZh='不悅' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special407/angry2.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="陰笑">
+		<Ch src='/images/characters/special407/gloomy2.webp' position='center'/>
+		<ChName nameZh='陰笑' nameEn='Sinister Smile' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
