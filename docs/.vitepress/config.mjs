@@ -4,9 +4,10 @@ import { defineConfig } from "vitepress";
 import { InlineLinkPreviewElementTransform } from "@nolebase/vitepress-plugin-inline-link-preview/markdown-it";
 // 歷史貢獻
 import {
-	GitChangelog,
+	GitChangelog as NolebaseGitChangelog,
 	GitChangelogMarkdownSection,
 } from "@nolebase/vitepress-plugin-git-changelog/vite";
+import { GitChangelog } from "./gitChangelog.mjs";
 // CJK 強調記法 (「**強調**を選択」等、全角約物の直後に閉じ ** が来る場合の CommonMark 非対応を修正)
 import cjkFriendly from "markdown-it-cjk-friendly";
 // 註腳
@@ -1334,10 +1335,16 @@ const baseConfig = {
 	},
 	vite: {
 		plugins: [
+			// dev 沿用原插件 (開到哪頁才抓哪頁); build 改用一次抓完的版本, 見 gitChangelog.mjs
+			{
+				...NolebaseGitChangelog({ repoURL: () => "https://github.com/Mr-Smilin/LoM-wiki" }),
+				apply: "serve",
+			},
 			GitChangelog({
-				repoURL: () => "https://github.com/Mr-Smilin/LoM-wiki",
+				repoURL: "https://github.com/Mr-Smilin/LoM-wiki",
 				// 只抓站內文檔; docs/zh-hans 為生成物、不在 Git 中, 明確排除
-				include: ["docs/**/*.md", "!docs/zh-hans/**"],
+				srcDir: "docs",
+				exclude: ["docs/zh-hans/"],
 			}),
 			GitChangelogMarkdownSection(),
 		],
