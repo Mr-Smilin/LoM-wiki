@@ -64,7 +64,7 @@ tags:
                 </ChTd>
             </ChTr>
             <ChTr>
-                <ChTd position='center'>
+                <ChTd position='center'>  
                     [[丹霞子]] (大弟子)
                 </ChTd>
             </ChTr>
@@ -218,12 +218,12 @@ tags:
                 </ChTd>
             </ChTr>
             <ChTr>
-                <ChTd position='center'>
+                <ChTd position='center'>  
                     [[郁竹]] (嫡傳女弟子)
                 </ChTd>
             </ChTr>
             <ChTr>
-                <ChTd position='center'>
+                <ChTd position='center'>  
                     [[童大蟲]] (地護法)
                 </ChTd>
             </ChTr>
@@ -271,12 +271,12 @@ tags:
 				</ChTd>
 			</ChTr>
             <ChTr>
-                <ChTd position='center'>
+                <ChTd position='center'>  
                     [[魏菊]] (掌門)
                 </ChTd>
             </ChTr>
             <ChTr>
-                <ChTd position='center'>
+                <ChTd position='center'>  
                     [[鞠冬音]] (風護法)
                 </ChTd>
             </ChTr>
