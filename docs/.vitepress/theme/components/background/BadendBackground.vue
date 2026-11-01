@@ -97,10 +97,10 @@ export default {
     --x: 159px; /* 標題右緣距左 */
     --y: 36px;
     --title: 35px;
-    --title-max: none; /* 同遊戲: 標題不換列, 超出畫面就切掉 (No.3) */
+    --title-max: none; /* 同遊戲: 標題不換列, 超出畫面的字不顯示 (No.3) */
     --text: 18px;
     --text-lh: 24px;
-    --text-max: none; /* 同遊戲: 只在原文換行處換列, 長句直排到底, 超出畫面就切掉 (No.41/46/59) */
+    --text-max: none; /* 同遊戲: 只在原文換行處換列, 長句直排到底, 超出畫面的字不顯示 (No.41/46) */
     position: relative;
     overflow: hidden;
     transform-origin: top left;
@@ -110,6 +110,15 @@ export default {
     font-family: 'SourceHanSerifTW-Bold', serif;
     color: #f04648;
 }
+/* 同遊戲: 超出畫面的字整個不顯示, 不露出半個字 (No.3 / 41 / 46)。
+   高度取畫面可容納的整數字數: 標題 12 字、內文 25 字 (字距 = 字級 x (1 + letter-spacing)) */
+.stage:not(.portrait):not(.wrap-overflow) .title,
+.stage:not(.portrait):not(.wrap-overflow) .context {
+    white-space: pre;
+    overflow: hidden;
+}
+.stage:not(.portrait):not(.wrap-overflow) .title { inline-size: calc(12 * 1.16 * var(--title)); }
+.stage:not(.portrait):not(.wrap-overflow) .context { inline-size: calc(25 * 1.115 * var(--text)); }
 .stage.wrap-overflow {
     --title-max: 504px; /* 排到畫面底部 (y≈1076) 才換列 */
     --text-max: 500px;
