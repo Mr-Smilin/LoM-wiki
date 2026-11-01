@@ -2,7 +2,7 @@
 // 不用 dom-to-image: 新版 Chrome 的 computed style 會列出 CSS 自訂屬性, VitePress 的
 // --vp-icon-* 內含未跳脫的 "<svg", 會讓它組出的 SVG 解析失敗; 且它會嵌入全站 130+ 個字型 (36MB)。
 import { toJpeg } from 'html-to-image';
-import { saveAs } from 'file-saver';
+import FileSaver from 'file-saver'; // CJS 套件, SSR (Node ESM) 不支援具名 import
 import { withBase } from 'vitepress';
 
 // iPadOS 會偽裝成 Mac, 以觸控點數辨識
@@ -44,6 +44,6 @@ export async function saveFile(file) {
     if (isIOS() && navigator.canShare && navigator.canShare({ files: [file] })) {
         await navigator.share({ files: [file] });
     } else {
-        saveAs(file, file.name);
+        FileSaver.saveAs(file, file.name);
     }
 }
