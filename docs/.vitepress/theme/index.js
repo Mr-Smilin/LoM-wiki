@@ -70,6 +70,10 @@ import EndContext from "./components/background/EndContext.vue";
 import EndBook from "./components/background/EndBook.vue";
 // import 鍛冶場、煉丹房開發樹
 import ForgeRoot from "./components/forge/ForgeRoot.vue";
+// import BadendBackground (生死簿)
+import BadendBackground from "./components/background/BadendBackground.vue";
+import BadendTitle from "./components/background/BadendTitle.vue";
+import BadendContext from "./components/background/BadendContext.vue";
 
 export default {
     extends: DefaultTheme,
@@ -189,5 +193,9 @@ export default {
         app.component("EndContext", EndContext);
         app.component("EndBook", EndBook);
         app.component("ForgeRoot", ForgeRoot);
+        // BadendBackground component
+        app.component("BadendBackground", BadendBackground);
+        app.component("BadendTitle", BadendTitle);
+        app.component("BadendContext", BadendContext);
     },
 };
