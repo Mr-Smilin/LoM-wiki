@@ -1,23 +1,31 @@
 // 煉丹房 - 毒藥
 //
 // 新增項目：複製下面任一個 { … } 區塊，貼進 items，改內容即可。不需要改任何 .vue。
-//   name     項目名稱（同分類內不可重複，也是網址錨點，例如 #赤煉砂）
+//
+// 翻譯（同 eventSeries.js 的寫法）：會因語言不同的文字寫成 { root: 繁中, ja: 日文, en: 英文 }，
+// 只有繁中時直接寫字串。沒寫的語言顯示繁中；簡中不用寫，build 時由繁中自動轉換。
+//
+//   name     項目名稱 { root, ja, en }。root（繁中）同分類內不可重複，也是網址錨點，例如 #赤煉砂
+//   anchor   只在要沿用舊連結時寫，例如 { ja: "舊日文錨點" }；沒寫的語言用繁中名稱
 //   icon     圖示路徑（/images/ 開頭）
-//   parent   上一層項目的 name；開發樹起點填 null
+//   parent   上一層項目的繁中名稱；開發樹起點填 null
 //   special  true = 不在開發樹上（事件取得等），會列在「特殊取得」；平常不用寫
 //   requires 解鎖條件，一個條件一個字串；沒有條件填 []
+//            翻譯時整組寫成 { root: [...], ja: [...], en: [...] }
 //   stats    數值表，一行一個素質："素質名稱": [等級0, 等級1, …, 等級10]
 //            整行只有一個值時直接寫一個值，例如 "戰役-爆擊率": "15%"
+//   info     （靈丹、毒藥）數值表，"欄位名稱": 值；多行文字（物品效果）可寫成 { root, ja, en }
+//   obtain   獲得方式（Markdown：[文字](/路徑) 是連結，「- 」開頭是條列），可寫成 { root, ja, en }
+//   note     備註（Markdown，同上），可寫成 { root, ja, en }
 //
-// 新增一行數值：在該項目的 stats 裡加一行 "素質名稱": [...]，個數要和其他行一樣。
-//
-//   obtain   獲得方式（Markdown：[文字](/路徑) 是連結，「- 」開頭是條列）
-//   note     備註（Markdown，同上）
+// 新增一行數值：在該項目的 stats（或 info）裡加一行 "名稱": [...]，個數要和其他行一樣。
+// 名稱是新的話，到 terms.js 的 rows 加一行 "名稱": { ja: "…", en: "…" }（繁中直接顯示名稱，不用寫 root）；
+// 數值裡的文字（例如「一種」）翻譯在 terms.js 的 values，寫法相同。
 export default {
   title: "煉丹房 - 毒藥",
   items: [
     {
-      name: "赤煉砂",
+      name: { root: "赤煉砂", en: "Scarlet Smelting Sand" },
       icon: "/images/items/poisons/icon_poison_01.webp",
       parent: null,
       requires: [],
@@ -31,14 +39,18 @@ export default {
         "單級銀兩": ["-", 250, 100, 150, 200, 250, 300, 350, 400, 450, 500],
         "累積銀兩": ["-", 250, 350, 500, 700, 950, 1250, 1600, 2000, 2450, 2950],
       },
-      obtain: "初始",
+      obtain: { root: "初始", ja: "初期", en: "Initial" },
       note: "",
     },
     {
-      name: "烏水仙",
+      name: { root: "烏水仙", en: "Black Narcissus" },
       icon: "/images/items/poisons/icon_poison_10.webp",
       parent: "赤煉砂",
-      requires: ["赤煉砂等級5", "門派規模2"],
+      requires: {
+        root: ["赤煉砂等級5", "門派規模2"],
+        ja: ["赤煉砂レベル5", "門派規模2"],
+        en: ["Scarlet Smelting Sand Lv 5", "Sect Scale 2"],
+      },
       stats: {
         "決鬥-神經毒": ["-", 3, 6, 9, 12, 15, 18, 21, 24, 27, 30],
         "決鬥-抗麻": ["-", 3, 6, 9, 12, 15, 18, 21, 24, 27, 30],
@@ -49,14 +61,18 @@ export default {
         "單級銀兩": ["-", 250, 150, 200, 250, 300, 350, 400, 450, 500, 550],
         "累積銀兩": ["-", 250, 400, 600, 850, 1150, 1500, 1900, 2350, 2850, 3400],
       },
-      obtain: "初始",
+      obtain: { root: "初始", ja: "初期", en: "Initial" },
       note: "",
     },
     {
-      name: "三陰蟲草膠",
+      name: { root: "三陰蟲草膠", ja: "三陰虫草膠", en: "Triple-Yin Cordyceps Paste" },
       icon: "/images/items/poisons/icon_poison_11.webp",
       parent: "赤煉砂",
-      requires: ["赤煉砂等級10", "門派規模2"],
+      requires: {
+        root: ["赤煉砂等級10", "門派規模2"],
+        ja: ["赤煉砂レベル10", "門派規模2"],
+        en: ["Scarlet Smelting Sand Lv 10", "Sect Scale 2"],
+      },
       stats: {
         "決鬥-血毒": ["-", 3, 6, 9, 12, 15, 18, 21, 24, 27, 30],
         "決鬥-神經毒": ["-", 3, 6, 9, 12, 15, 18, 21, 24, 27, 30],
@@ -71,14 +87,18 @@ export default {
         "單級銀兩": ["-", 350, 350, 420, 490, 560, 630, 560, 700, 700, 700],
         "累積銀兩": ["-", 350, 700, 1120, 1610, 2170, 2800, 3360, 4060, 4760, 5460],
       },
-      obtain: "初始",
+      obtain: { root: "初始", ja: "初期", en: "Initial" },
       note: "",
     },
     {
-      name: "彼岸仙香",
+      name: { root: "彼岸仙香", en: "Other Shore Immortal Incense" },
       icon: "/images/items/poisons/icon_poison_20.webp",
       parent: "赤煉砂",
-      requires: ["赤煉砂等級10", "門派規模3"],
+      requires: {
+        root: ["赤煉砂等級10", "門派規模3"],
+        ja: ["赤煉砂レベル10", "門派規模3"],
+        en: ["Scarlet Smelting Sand Lv 10", "Sect Scale 3"],
+      },
       stats: {
         "決鬥-血毒": ["-", 5, 10, 15, 20, 25, 30, 35, 40, 45, 50],
         "決鬥-神經毒": ["-", 4, 8, 12, 16, 20, 24, 28, 32, 36, 40],
@@ -93,7 +113,7 @@ export default {
         "單級銀兩": ["-", 400, 480, 560, 640, 720, 800, 800, 800, 800, 800],
         "累積銀兩": ["-", 400, 880, 1440, 2080, 2800, 3600, 4400, 5200, 6000, 6800],
       },
-      obtain: "初始",
+      obtain: { root: "初始", ja: "初期", en: "Initial" },
       note: "",
     },
   ],

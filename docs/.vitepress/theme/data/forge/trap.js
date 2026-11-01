@@ -1,23 +1,31 @@
 // 鍛冶場 - 暗器 - 陷阱
 //
 // 新增項目：複製下面任一個 { … } 區塊，貼進 items，改內容即可。不需要改任何 .vue。
-//   name     項目名稱（同分類內不可重複，也是網址錨點，例如 #似草針）
+//
+// 翻譯（同 eventSeries.js 的寫法）：會因語言不同的文字寫成 { root: 繁中, ja: 日文, en: 英文 }，
+// 只有繁中時直接寫字串。沒寫的語言顯示繁中；簡中不用寫，build 時由繁中自動轉換。
+//
+//   name     項目名稱 { root, ja, en }。root（繁中）同分類內不可重複，也是網址錨點，例如 #似草針
+//   anchor   只在要沿用舊連結時寫，例如 { ja: "舊日文錨點" }；沒寫的語言用繁中名稱
 //   icon     圖示路徑（/images/ 開頭）
-//   parent   上一層項目的 name；開發樹起點填 null
+//   parent   上一層項目的繁中名稱；開發樹起點填 null
 //   special  true = 不在開發樹上（事件取得等），會列在「特殊取得」；平常不用寫
 //   requires 解鎖條件，一個條件一個字串；沒有條件填 []
+//            翻譯時整組寫成 { root: [...], ja: [...], en: [...] }
 //   stats    數值表，一行一個素質："素質名稱": [等級0, 等級1, …, 等級10]
 //            整行只有一個值時直接寫一個值，例如 "戰役-爆擊率": "15%"
+//   info     （靈丹、毒藥）數值表，"欄位名稱": 值；多行文字（物品效果）可寫成 { root, ja, en }
+//   obtain   獲得方式（Markdown：[文字](/路徑) 是連結，「- 」開頭是條列），可寫成 { root, ja, en }
+//   note     備註（Markdown，同上），可寫成 { root, ja, en }
 //
-// 新增一行數值：在該項目的 stats 裡加一行 "素質名稱": [...]，個數要和其他行一樣。
-//
-//   obtain   獲得方式（Markdown：[文字](/路徑) 是連結，「- 」開頭是條列）
-//   note     備註（Markdown，同上）
+// 新增一行數值：在該項目的 stats（或 info）裡加一行 "名稱": [...]，個數要和其他行一樣。
+// 名稱是新的話，到 terms.js 的 rows 加一行 "名稱": { ja: "…", en: "…" }（繁中直接顯示名稱，不用寫 root）；
+// 數值裡的文字（例如「一種」）翻譯在 terms.js 的 values，寫法相同。
 export default {
   title: "鍛冶場 - 暗器 - 陷阱",
   items: [
     {
-      name: "似草針",
+      name: { root: "似草針", en: "Herb-Like Needle" },
       icon: "/images/items/traps/icon_trap_01.webp",
       parent: null,
       requires: [],
@@ -29,14 +37,18 @@ export default {
         "單級銀兩": ["-", 150, 60, 90, 120, 150, 180, 210, 240, 270, 300],
         "累積銀兩": ["-", 150, 210, 300, 420, 570, 750, 960, 1200, 1470, 1770],
       },
-      obtain: "初始",
+      obtain: { root: "初始", ja: "初期", en: "Initial" },
       note: "",
     },
     {
-      name: "地鳴雷",
+      name: { root: "地鳴雷", en: "Ground-Thunder Mine" },
       icon: "/images/items/traps/icon_trap_10.webp",
       parent: "似草針",
-      requires: ["似草針等級10", "門派規模2"],
+      requires: {
+        root: ["似草針等級10", "門派規模2"],
+        ja: ["似草針レベル10", "門派規模2"],
+        en: ["Herb-Like Needle Lv 10", "Sect Scale 2"],
+      },
       stats: {
         "決鬥-暗器傷害": ["-", 2, 4, 6, 8, 10, 12, 14, 16, 18, 20],
         "決鬥-暗器骰子": ["-", 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
@@ -46,14 +58,18 @@ export default {
         "單級銀兩": ["-", 300, 300, 360, 420, 480, 540, 600, 600, 600, 600],
         "累積銀兩": ["-", 300, 600, 960, 1380, 1860, 2400, 3000, 3600, 4200, 4800],
       },
-      obtain: "初始",
+      obtain: { root: "初始", ja: "初期", en: "Initial" },
       note: "",
     },
     {
-      name: "猛火油櫃",
+      name: { root: "猛火油櫃", en: "Fierce Fire Oil Tank" },
       icon: "/images/items/traps/icon_trap_11.webp",
       parent: "似草針",
-      requires: ["似草針等級10", "門派規模2"],
+      requires: {
+        root: ["似草針等級10", "門派規模2"],
+        ja: ["似草針レベル10", "門派規模2"],
+        en: ["Herb-Like Needle Lv 10", "Sect Scale 2"],
+      },
       stats: {
         "決鬥-暗器傷害": ["-", 4, 8, 12, 16, 20, 24, 28, 32, 36, 40],
         "戰役-陷阱傷害": [5, 9, 12, 16, 19, 23, 26, 30, 33, 37, 40],
@@ -62,7 +78,11 @@ export default {
         "單級銀兩": ["-", 300, 300, 360, 420, 480, 540, 600, 600, 600, 600],
         "累積銀兩": ["-", 300, 600, 960, 1380, 1860, 2400, 3000, 3600, 4200, 4800],
       },
-      obtain: "- 🚩[破廟線](/event/simple/2-06-1-離家出走)，[唐門迎敵](/event/simple/2-08-2-唐門迎敵)時，協防講經堂並擲骰到【🎲＜66 猛火油櫃圖紙】後獲得",
+      obtain: {
+        root: "- 🚩[破廟線](/event/simple/2-06-1-離家出走)，[唐門迎敵](/event/simple/2-08-2-唐門迎敵)時，協防講經堂並擲骰到【🎲＜66 猛火油櫃圖紙】後獲得",
+        ja: "- 🚩「破廟ルート」([家出](/ja/event/simple/2-06-1-離家出走)) で、[唐門の迎撃](/ja/event/simple/2-08-2-唐門迎敵)の時に講経堂の防衛に加わり、ダイスで【🎲＜66 猛火油櫃の図紙】を出すと入手",
+        en: "- 🚩[Abandoned Temple route](/en/event/simple/2-06-1-離家出走): during [Tang Sect Under Attack](/event/simple/2-08-2-唐門迎敵), help defend the Sutra Hall and roll 【🎲<66 Fierce Fire Oil Tank Blueprint】 to obtain.",
+      },
       note: "",
     },
   ],

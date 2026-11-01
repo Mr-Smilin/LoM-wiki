@@ -1,23 +1,32 @@
 // 鍛冶場 - 暗器 - 平射
 //
 // 新增項目：複製下面任一個 { … } 區塊，貼進 items，改內容即可。不需要改任何 .vue。
-//   name     項目名稱（同分類內不可重複，也是網址錨點，例如 #脫手鏢）
+//
+// 翻譯（同 eventSeries.js 的寫法）：會因語言不同的文字寫成 { root: 繁中, ja: 日文, en: 英文 }，
+// 只有繁中時直接寫字串。沒寫的語言顯示繁中；簡中不用寫，build 時由繁中自動轉換。
+//
+//   name     項目名稱 { root, ja, en }。root（繁中）同分類內不可重複，也是網址錨點，例如 #脫手鏢
+//   anchor   只在要沿用舊連結時寫，例如 { ja: "舊日文錨點" }；沒寫的語言用繁中名稱
 //   icon     圖示路徑（/images/ 開頭）
-//   parent   上一層項目的 name；開發樹起點填 null
+//   parent   上一層項目的繁中名稱；開發樹起點填 null
 //   special  true = 不在開發樹上（事件取得等），會列在「特殊取得」；平常不用寫
 //   requires 解鎖條件，一個條件一個字串；沒有條件填 []
+//            翻譯時整組寫成 { root: [...], ja: [...], en: [...] }
 //   stats    數值表，一行一個素質："素質名稱": [等級0, 等級1, …, 等級10]
 //            整行只有一個值時直接寫一個值，例如 "戰役-爆擊率": "15%"
+//   info     （靈丹、毒藥）數值表，"欄位名稱": 值；多行文字（物品效果）可寫成 { root, ja, en }
+//   obtain   獲得方式（Markdown：[文字](/路徑) 是連結，「- 」開頭是條列），可寫成 { root, ja, en }
+//   note     備註（Markdown，同上），可寫成 { root, ja, en }
 //
-// 新增一行數值：在該項目的 stats 裡加一行 "素質名稱": [...]，個數要和其他行一樣。
-//
-//   obtain   獲得方式（Markdown：[文字](/路徑) 是連結，「- 」開頭是條列）
-//   note     備註（Markdown，同上）
+// 新增一行數值：在該項目的 stats（或 info）裡加一行 "名稱": [...]，個數要和其他行一樣。
+// 名稱是新的話，到 terms.js 的 rows 加一行 "名稱": { ja: "…", en: "…" }（繁中直接顯示名稱，不用寫 root）；
+// 數值裡的文字（例如「一種」）翻譯在 terms.js 的 values，寫法相同。
 export default {
   title: "鍛冶場 - 暗器 - 平射",
   items: [
     {
-      name: "脫手鏢",
+      name: { root: "脫手鏢", ja: "脱手鏢", en: "Hand-Released Dart" },
+      anchor: { ja: "脫手標" },
       icon: "/images/items/knifes/icon_knife_01.webp",
       parent: null,
       requires: [],
@@ -32,14 +41,14 @@ export default {
         "單級銀兩": ["-", 250, 100, 150, 200, 250, 300, 350, 400, 450, 500],
         "累積銀兩": ["-", 250, 350, 500, 700, 950, 1250, 1600, 2000, 2450, 2950],
       },
-      obtain: "初始",
+      obtain: { root: "初始", ja: "初期", en: "Initial" },
       note: "",
     },
     {
-      name: "飛梭",
+      name: { root: "飛梭", en: "Flying Shuttle" },
       icon: "/images/items/knifes/icon_knife_11.webp",
       parent: "脫手鏢",
-      requires: ["脫手鏢等級5", "門派規模2"],
+      requires: { root: ["脫手鏢等級5", "門派規模2"], ja: ["脱手鏢レベル5", "門派規模2"], en: ["Hand-Released Dart Lv 5", "Sect Scale 2"] },
       stats: {
         "決鬥-命中補正": ["-", 2, 3, 5, 6, 8, 9, 11, 12, 14, 15],
         "決鬥-血毒": ["-", 2, 4, 6, 8, 10, 12, 14, 16, 18, 20],
@@ -52,14 +61,14 @@ export default {
         "單級銀兩": ["-", 250, 150, 200, 250, 300, 350, 400, 450, 500, 550],
         "累積銀兩": ["-", 250, 400, 600, 850, 1150, 1500, 1900, 2350, 2850, 3400],
       },
-      obtain: "初始",
+      obtain: { root: "初始", ja: "初期", en: "Initial" },
       note: "",
     },
     {
-      name: "無形箭",
+      name: { root: "無形箭", ja: "無形矢", en: "Invisible Arrow" },
       icon: "/images/items/knifes/icon_knife_21.webp",
       parent: "飛梭",
-      requires: ["飛梭等級10", "門派規模3"],
+      requires: { root: ["飛梭等級10", "門派規模3"], ja: ["飛梭レベル10", "門派規模3"], en: ["Flying Shuttle Lv 10", "Sect Scale 3"] },
       stats: {
         "決鬥-暗器傷害": ["-", 3, 6, 9, 12, 15, 18, 21, 24, 27, 30],
         "決鬥-命中補正": ["-", 2, 3, 5, 6, 8, 9, 11, 12, 14, 15],
@@ -73,17 +82,31 @@ export default {
         "單級銀兩": ["-", 400, 480, 560, 640, 720, 800, 1600, 800, 800, 800],
         "累積銀兩": ["-", 400, 880, 1440, 2080, 2800, 3600, 5200, 6000, 6800, 7600],
       },
-      obtain: `
+      obtain: {
+        root: `
 - 初始
 - 🚩[大師兄負傷](/event/simple/3-01-1-大師兄負傷)時使大師兄痊癒，臥雲崗[回程客棧](/event/simple/3-01-3-圍觀臥雲崗)時，閒聊「金剛神槍指」獲得。
 `,
+        ja: `
+- 初期
+- [臥雲崗見物](/ja/event/simple/3-01-3-圍觀臥雲崗)で「石公遠の死演技」になり([大師兄の負傷](/ja/event/simple/3-01-1-大師兄負傷)で大師兄を治癒済み、または未治癒で🎲≧50)、かつ1月中旬の宿屋で雑談「金剛神槍指」をしていない場合、帰路の宿屋の雑談「金剛神槍指」で入手。
+`,
+        en: `
+- Initial
+- 🚩Fully heal the First Senior Brother during [Master Brother Injured](/en/event/simple/3-01-1-大師兄負傷); at the inn on the way back from Woyun Hill ([Watching at Woyun Hill](/en/event/simple/3-01-3-圍觀臥雲崗)), chat about "Vajra Divine Spear Finger" to obtain.
+`,
+      },
       note: "",
     },
     {
-      name: "鐵橄欖",
+      name: { root: "鐵橄欖", ja: "鉄橄欖", en: "Iron Olive" },
       icon: "/images/items/knifes/icon_knife_10.webp",
       parent: "脫手鏢",
-      requires: ["脫手鏢等級10", "門派規模2"],
+      requires: {
+        root: ["脫手鏢等級10", "門派規模2"],
+        ja: ["脱手鏢レベル10", "門派規模2"],
+        en: ["Hand-Released Dart Lv 10", "Sect Scale 2"],
+      },
       stats: {
         "決鬥-暗器傷害": ["-", 5, 10, 15, 20, 25, 30, 35, 40, 45, 50],
         "決鬥-命中補正": ["-", 1, 2, 2, 3, 4, 5, 6, 6, 7, 8],
@@ -94,7 +117,7 @@ export default {
         "單級銀兩": ["-", 300, 300, 360, 420, 480, 540, 540, 540, 540, 540],
         "累積銀兩": ["-", 300, 600, 960, 1380, 1860, 2400, 2940, 3480, 4020, 4560],
       },
-      obtain: "初始",
+      obtain: { root: "初始", ja: "初期", en: "Initial" },
       note: "",
     },
   ],

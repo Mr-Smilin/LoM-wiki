@@ -1,13 +1,14 @@
 <!--
   鍛冶場 / 煉丹房開發樹。只管「節點之間的關係」：讀資料檔、套上目前語系的翻譯、依 parent 組成樹。
   用法（各語系的 Markdown 都一樣）：<ForgeRoot category="weapon" />
-  數值只在 .vitepress/theme/data/forge/<category>.js（繁中）維護；
-  其他語系的文字放在 data/forge/i18n/<語系>/<category>.js 與 terms.js，沒翻到的欄位自動用繁中。
+  資料只在 .vitepress/theme/data/forge/<category>.js 與 terms.js 維護；
+  各語系的文字同 eventSeries.js 寫成 { root, ja, en }，沒寫的語系用繁中，簡中在 build 時自動產生。
 -->
 <script setup>
 import { computed, onMounted, onUnmounted, provide } from "vue";
 import { useData } from "vitepress";
 import ForgeItem from "./ForgeItem.vue";
+import { resolve } from "./resolve.js";
 
 const modules = import.meta.glob("../../data/forge/**/*.js", { eager: true });
 const load = (p) => modules[`../../data/forge/${p}.js`]?.default;
@@ -17,44 +18,16 @@ const props = defineProps({
 });
 
 const { localeIndex } = useData();
-const lang = computed(() => (localeIndex.value === "root" ? "" : localeIndex.value));
 
-// 介面文字：繁中預設 + 目前語系覆蓋
-const terms = computed(() => {
-  const base = load("terms");
-  const t = lang.value ? load(`i18n/${lang.value}/terms`) : null;
-  return {
-    labels: { ...base.labels, ...t?.labels },
-    cost: { ...base.cost, ...t?.cost },
-    rows: { ...base.rows, ...t?.rows },
-    values: { ...base.values, ...t?.values },
-  };
-});
-provide("forgeTerms", terms);
-
-// 資料：繁中資料檔為準，翻譯檔只覆蓋文字欄位。
-//   key    = 繁中名稱（parent 一律寫繁中名稱，組樹用）
-//   name   = 顯示名稱
-//   anchor = 網址錨點（#…），翻譯檔沒指定就沿用繁中名稱，讓既有連結不失效
+// 資料檔裡的文字依語系取出（見 resolve.js）。簡中讀 build 時產生的 data/forge/zh-hans/，還沒產生就用繁中
 const data = computed(() => {
-  const base = load(props.category);
-  if (!base) return null;
-  const tr = lang.value ? load(`i18n/${lang.value}/${props.category}`) : null;
-  const items = base.items.map((item) => {
-    const t = tr?.items?.[item.name] ?? {};
-    return {
-      ...item,
-      key: item.name,
-      name: t.name ?? item.name,
-      anchor: t.anchor ?? item.name,
-      requires: t.requires ?? item.requires,
-      obtain: t.obtain ?? item.obtain,
-      note: t.note ?? item.note,
-      info: item.info && t.info ? { ...item.info, ...t.info } : item.info,
-    };
-  });
-  return { title: tr?.title ?? base.title, intro: tr?.intro ?? base.intro, items };
+  const lang = localeIndex.value;
+  const src = (name) => (lang === "zh-hans" && load(`zh-hans/${name}`)) || load(name);
+  const base = src(props.category);
+  return base ? resolve(base, src("terms"), lang) : null;
 });
+const terms = computed(() => data.value?.terms);
+provide("forgeTerms", terms);
 
 const tree = computed(() => {
   const d = data.value;

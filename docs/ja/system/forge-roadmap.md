@@ -17,7 +17,7 @@ tags:
 - 開発ツリーの項目をクリックすると、その項目の数値表・入手方法・備考が開く。
 - カードと線の色は開発の段階を表す：第1段階は緑、第2段階は橙、第3段階は赤。
 
-<!-- 数値は .vitepress/theme/data/forge/<category>.js（繁中）、日本語の文字は data/forge/i18n/ja/ に置く -->
+<!-- データは .vitepress/theme/data/forge/<category>.js。日本語の文字は同じファイルの { root, ja, en } の ja に書く -->
 
 ## 鍛冶場 - 装備 - 武器
 <ForgeRoot category="weapon" />
