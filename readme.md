@@ -210,7 +210,7 @@ npm run dev
 
 简体中文以繁體中文 root 文檔作為唯一內容來源，建置或啟動開發伺服器前由 `tools/buildSimplifiedChinese.js` 自動產生至 `docs/zh-hans/`。`docs/zh-hans/` 是可重建的生成目錄，已加入 `.gitignore`，請勿直接編輯或提交其中檔案；若要修正文案或資料，請修改對應的繁體中文 root 文檔。
 
-生成器會處理正文、frontmatter、Markdown/程式碼範例、Mermaid 文字、站內連結與 VitePress include，並使用 OpenCC 加上少量台灣慣用異體字對照產生符合中國大陸習慣的簡體內容。可執行：
+生成器會處理正文、frontmatter、Markdown/程式碼範例、站內連結與 VitePress include，並使用 OpenCC 加上少量台灣慣用異體字對照產生符合中國大陸習慣的簡體內容。可執行：
 
 ```sh
 npm run check:zh-hans
