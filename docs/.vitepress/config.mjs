@@ -1336,6 +1336,8 @@ const baseConfig = {
 		plugins: [
 			GitChangelog({
 				repoURL: () => "https://github.com/Mr-Smilin/LoM-wiki",
+				// 只抓站內文檔; docs/zh-hans 為生成物、不在 Git 中, 明確排除
+				include: ["docs/**/*.md", "!docs/zh-hans/**"],
 			}),
 			GitChangelogMarkdownSection(),
 		],
