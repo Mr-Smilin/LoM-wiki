@@ -29,6 +29,9 @@ hero:
           text: 汗青書(結局) 圖片產生器
           link: /other/image-generator/end.html
         - theme: alt
+          text: 生死簿(驟死結局) 圖片產生器
+          link: /other/image-generator/badend.html
+        - theme: alt
           text: 安卓手機APP
           link: https://github.com/Tiger-roll-STU/LegendofMortalwiki/releases
 features:

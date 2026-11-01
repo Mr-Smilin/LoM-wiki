@@ -28,6 +28,9 @@ hero:
         - theme: alt
           text: Historical Book (Ending) Image Generator
           link: /en/other/image-generator/end.html
+        - theme: alt
+          text: Book of Life and Death (Badend) Image Generator
+          link: /en/other/image-generator/badend.html
 features:
     - icon: ❓
       title: Why create LoM-Wiki?

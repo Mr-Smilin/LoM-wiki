@@ -107,6 +107,10 @@ const baseConfig = {
 								text: "汗青書(結局) 圖片產生器",
 								link: "/other/image-generator/end",
 							},
+							{
+								text: "生死簿(驟死結局) 圖片產生器",
+								link: "/other/image-generator/badend",
+							},
 						],
 					},
 					{ text: "唐門圖書館(google sheet)", link: "/other/lom-sheet" },
@@ -503,6 +507,10 @@ const baseConfig = {
 										text: "汗青书(结局) 图片生成器",
 										link: "/zh-hans/other/image-generator/end",
 									},
+									{
+										text: "生死簿(骤死结局) 图片生成器",
+										link: "/zh-hans/other/image-generator/badend",
+									},
 								],
 							},
 							{ text: "唐门图书馆(google sheet)", link: "/zh-hans/other/lom-sheet" },
@@ -770,6 +778,10 @@ const baseConfig = {
 										text: "Historical Book (Ending) Image Generator",
 										link: "/en/other/image-generator/end",
 									},
+									{
+										text: "Book of Life and Death (Badend) Image Generator",
+										link: "/en/other/image-generator/badend",
+									},
 								],
 							},
 							{ text: "唐門圖書館(google sheet)", link: "/en/other/lom-sheet" },
@@ -1035,6 +1047,10 @@ const baseConfig = {
 									{
 										text: "汗青書 (エンディング) 画像ジェネレーター",
 										link: "/ja/other/image-generator/end",
+									},
+									{
+										text: "生死簿 (バッドエンド) 画像ジェネレーター",
+										link: "/ja/other/image-generator/badend",
 									},
 								],
 							},
