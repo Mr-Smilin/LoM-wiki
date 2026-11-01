@@ -1,6 +1,6 @@
 ---
-title: 生死簿71：眼睜睜看著你死
-description: 生死簿71：眼睜睜看著你死
+title: 生死簿71：眼睛睜睜看你死
+description: 生死簿71：眼睛睜睜看你死
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -9,7 +9,7 @@ tags:
     - badends
     - 生死簿
     - 死法
-    - 眼睜睜看著你死
+    - 眼睛睜睜看你死
     - 夏侯蘭
     - 雪山行
 ---
