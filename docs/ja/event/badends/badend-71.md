@@ -1,5 +1,5 @@
 ---
-title: 生死簿71：見殺し (眼睜睜看著你死)
+title: 生死簿71：見殺し (眼睛睜睜看你死)
 description: 生死簿71：見殺し
 aside: true
 outline: [2, 3]
