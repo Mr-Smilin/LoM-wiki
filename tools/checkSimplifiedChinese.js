@@ -63,13 +63,14 @@ function scanFile(file, rel) {
 }
 
 // 扫描共享组件中 zh-hans 分支的字符串 ("zh-hans": "..." / localeIndex === "zh-hans" ? "...", 单双引号均可)
+// 字符串内的链接目标同样先剥离 (开发树生成物 data/forge/zh-hans/ 的获得方式含站内链接)
 function scanComponent(file, rel) {
     const lines = fs.readFileSync(file, "utf8").split("\n");
     const RE =
         /"zh-hans":\s*"((?:[^"\\]|\\.)*)"|'zh-hans':\s*'((?:[^'\\]|\\.)*)'|===\s*"zh-hans"\s*\?\s*"((?:[^"\\]|\\.)*)"|===\s*'zh-hans'\s*\?\s*'((?:[^'\\]|\\.)*)'/g;
     for (let i = 0; i < lines.length; i++) {
         for (const m of lines[i].matchAll(RE)) {
-            for (const ch of m[1] || m[2] || m[3] || m[4] || "") {
+            for (const ch of stripProtected(m[1] || m[2] || m[3] || m[4] || "")) {
                 recordChar(ch, rel, i + 1);
             }
         }

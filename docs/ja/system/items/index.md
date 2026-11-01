@@ -190,7 +190,7 @@ tags:
         <td id = "大師兄的塗鴉">大師兄の落書き</td>
         <td></td>
         <td></td>
-        <td>雑匠ランダムイベントで、<br><MarkdownWrapper>[逆鱗宝衣](/ja/system/develop-list#逆鱗宝衣)</MarkdownWrapper>を作る</td>
+        <td>雑匠ランダムイベントで、<br><MarkdownWrapper>[逆鱗宝衣](/ja/system/forge-roadmap#逆鱗宝衣)</MarkdownWrapper>を作る</td>
         <td>不明</td>
         <td>1年弟子房-<MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>と詩琴書画について雑談。肩甲が嫌い。</td>
         <td><MarkdownWrapper>関連イベント：<br>1年目債権者が来た時、「行きなさい、今すぐ何か考えねば」の目が出た場合<br>先生に見せられるが、たしなめられる<br>
@@ -342,5 +342,5 @@ tags:
 </table>
 
 ## 備考
-- 煉丹房の霊丹の効果は[開発項目一覧](/ja/system/develop-list#煉丹房-霊丹)を参照。
+- 煉丹房の霊丹の効果は[鍛冶場・煉丹房開発ロードマップ](/ja/system/forge-roadmap#煉丹房-霊丹)を参照。
 - 資料出典：https://docs.google.com/spreadsheets/u/0/?authuser=0&usp=sheets_web
