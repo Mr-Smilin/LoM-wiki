@@ -38,12 +38,12 @@ tags:
                 </ChTd>
             </ChTr>
             <ChTr>
-                <ChTd position='center'> 
+                <ChTd position='center'>　
                     [[唐嬌嬌|狄傲]] (弟子)
                 </ChTd>
             </ChTr>
             <ChTr>
-                <ChTd position='center'> 
+                <ChTd position='center'>　
                     [[袁乘風]] (叛徒)
                 </ChTd>
             </ChTr>
