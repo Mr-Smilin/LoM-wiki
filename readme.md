@@ -41,53 +41,80 @@ npm run dev
 
 ```
 .
+├── .github
+│         ├── ISSUE_TEMPLATE
+│         └── workflows
 ├── backup
 │         └── en
 ├── docs
+│         ├── .vitepress
+│         │         └── theme
+│         │                   ├── components
+│         │                   ├── data
+│         │                   ├── script
+│         │                   └── styles
 │         ├── develop
 │         ├── en
+│         ├── ja
+│         ├── zh-hans                       (自動生成，不進 Git)
 │         ├── event
-│         │         ├── achivements
+│         │         ├── achievements
 │         │         ├── badends
+│         │         ├── detailed_description
 │         │         ├── ends
+│         │         ├── pursuit
+│         │         ├── simple
 │         │         └── stories
-│         │         └── pursuit
 │         ├── other
 │         │         ├── guide
 │         │         │         └── mechanism
-│         │         └── news
+│         │         ├── image-generator
+│         │         ├── news
+│         │         ├── qna
+│         │         └── test
 │         ├── people
-│         │         └── characters
+│         │         ├── characters
+│         │         ├── factions
+│         │         └── mobs
 │         ├── public
+│         │         ├── font
 │         │         ├── images
+│         │         │         ├── badends
 │         │         │         ├── characters
-│         │         │         │         ├── girl_0
-│         │         │         │         ├── girl_1
-│         │         │         │         ├── girl_2
-│         │         │         │         ├── girl_3
-│         │         │         │         ├── girl_4
-│         │         │         │         ├── girl_5
-│         │         │         │         ├── girl_6
-│         │         │         │         ├── girl_7
-│         │         │         │         └── girl_8
+│         │         │         │         ├── girl_0 ~ girl_8
+│         │         │         │         └── ...
+│         │         │         ├── collab
 │         │         │         ├── develop
+│         │         │         ├── engagement
+│         │         │         ├── factions
 │         │         │         ├── generic
 │         │         │         │         ├── achievement_icon
 │         │         │         │         ├── background
-│         │         │         │         └── face_icon
+│         │         │         │         └── mood_icon
+│         │         │         ├── guide
 │         │         │         ├── index
-│         │         │         └── items
-│         │         │                   ├── books
-│         │         │                   └── specials
-│         │         │
+│         │         │         ├── items
+│         │         │         │         ├── books
+│         │         │         │         ├── specials
+│         │         │         │         └── ...
+│         │         │         ├── mobs
+│         │         │         ├── news
+│         │         │         ├── qna
+│         │         │         └── story-branch-timeline
 │         │         └── json
 │         └── system
 │                   ├── books
-│                   ├── training
-│                   └── items
+│                   ├── engagement
+│                   ├── items
+│                   └── training
 ├── node_modules
 └── tools
 ```
+
+### `./.github` 存放 GitHub 設定
+
+`./.github/ISSUE_TEMPLATE` Issue 範本。  
+`./.github/workflows` GitHub Actions：`deploy.yml` 建置並部署到 GitHub Pages、`steam-news.yml` 每日抓 Steam 新聞產生江湖快報草稿、`algolia-scraper.yml` 每日更新 Algolia 搜尋索引。
 
 ### `./backup` 存放各版本的備份文件、模板文件等。
 
@@ -95,7 +122,19 @@ npm run dev
 
 ### `./docs` 存放各類別的文檔，md 檔案、開發用的資料文件都會放在這裡。
 
-`./docs/en` 英文版文檔。
+#### `./docs/.vitepress` VitePress 設定與自訂主題
+
+`./docs/.vitepress/config.mjs` 站台設定（navbar、sidebar、多語系等）。  
+`./docs/.vitepress/theme/components` Vue 元件，如人物頁、圖示、分頁、鍛冶場開發樹、圖片產生器等。  
+`./docs/.vitepress/theme/data` 元件用資料檔，如 `eventSeries.js`、鍛冶場 / 煉丹房開發樹資料 `forge/`。  
+`./docs/.vitepress/theme/script` 共用腳本，如語系路徑、WikiLink 索引等。  
+`./docs/.vitepress/theme/styles` 自訂樣式。
+
+#### 多語系目錄
+
+`./docs/en` 英文版文檔。  
+`./docs/ja` 日文版文檔。  
+`./docs/zh-hans` 簡體中文版，由繁體中文 root 文檔自動生成，請勿手動編輯（詳見[國際化](#國際化--i18n)）。
 
 其餘同 `navbar` 一級分類
 
@@ -108,34 +147,62 @@ npm run dev
 二級分類同 `navbar` 子分類
 
 `./docs/people/characters` 存放人物列表及人物頁面。  
-`./docs/system/facility` 存放唐門門派設施介紹。  
+`./docs/people/factions` 存放各門派、勢力頁面。  
+`./docs/people/mobs` 存放江湖人士（路人、配角）頁面。  
+`./docs/people/*.md` 單頁資料，如稱號列表 `title-list.md`、夢境心上人 `dream-sweetheart.md`。  
 `./docs/system/books` 存放武學列表及武學頁面。  
-`./docs/system/skill` 存放技能效果。  
-`./docs/system/pills` 存放煉丹效果。  
+`./docs/system/engagement` 存放戰鬥相關資料，如戰鬥指令、狀態、技能、介面說明。  
 `./docs/system/items` 存放道具列表資料。  
 `./docs/system/training` 存放養成指令頁面。  
-`./docs/event/achivements` 風雲史資料。  
+`./docs/system/*.md` 單頁資料，如門派設施 `facility.md`、技能效果 `skill.md`、煉丹效果 `pills.md`、鍛冶場 / 煉丹房開發樹 `forge-roadmap.md`、商店、隱藏數值、彈珠台、原聲帶等。  
+`./docs/event/achievements` 風雲史資料。  
 `./docs/event/badends` 生死簿資料。  
 `./docs/event/ends` 汗青書資料。  
 `./docs/event/stories` 軼事奇聞整理。  
-`./docs/event/pursuit` 結緣事件整理。
-`./docs/other/news` 存放官方更新資料。  
+`./docs/event/pursuit` 結緣事件整理。  
+`./docs/event/simple` 劇情事件（簡述）。  
+`./docs/event/detailed_description` 劇情事件（詳述）。  
+`./docs/event/*.md` 單頁資料，如主支線年表 `story-branch-timeline.md`、主支線簡易表格 `story-simple-table.md`、開幕前史年表 `pre-game-timeline.md`。  
+`./docs/other/news` 存放官方更新資料（江湖快報）。  
 `./docs/other/guide` 存放遊戲指南。  
-`./docs/other/guide/mechanism` 存放遊戲機制資料。
+`./docs/other/guide/mechanism` 存放遊戲機制資料。  
+`./docs/other/image-generator` 汗青書、生死簿圖片產生器頁面。  
+`./docs/other/qna` 官方問答、訪談整理。  
+`./docs/other/test` 測試資料。  
+`./docs/other/*.md` 單頁資料，如唐門圖書館 `lom-sheet.md`、大理段氏世系 `dali-duan-lineage.md`、測試用頁面 `test.md`；江湖快報 `news.md` 由 `tools/buildNewsList.js` 建置時生成，不進 Git。
 
-#### `./docs/public` 存放公共資源，如圖片、JSON 檔案等。
+#### `./docs/public` 存放公共資源，如圖片、字型、JSON 檔案等。
 
+`./docs/public/font` 存放字型（圖片產生器使用）  
 `./docs/public/images` 存放圖片  
 `./docs/public/images/characters` 存放人物圖片(具體會再往下一層, 依據角色做分類)  
+`./docs/public/images/badends` 存放生死簿圖片  
 `./docs/public/images/develop` 存放開發文件用圖片  
-`./docs/public/images/generic` 存放一般用圖片  
+`./docs/public/images/generic` 存放一般用圖片，如成就圖示、背景、心情圖示  
 `./docs/public/images/index` 存放首頁用圖片  
 `./docs/public/images/items` 存放物品圖片, 會依據類別做分類  
-`./docs/public/json` 存放 JSON 檔案
+`./docs/public/images/factions`、`mobs`、`engagement`、`guide`、`news`、`qna`、`collab`、`story-branch-timeline` 存放對應頁面用圖片  
+`./docs/public/json` 存放 JSON 檔案（`contributors.json`、`badend_list.json`、`badend_texts.json` 為建置時生成，不進 Git）
 
 ### `./node_modules` 存放 npm 模組, 一般為 npm 自行創建, 不會隨著你的 commit 提交, 也不會、不應讓你去修改它。
 
 ### `./tools` 存放開發打包工具
+
+由 `npm run dev` / `npm run build` 自動執行，一般不需手動呼叫。
+
+| 檔案 | 用途 |
+|---|---|
+| `buildSimplifiedChinese.js` | 由繁體 root 文檔生成 `docs/zh-hans/` |
+| `checkSimplifiedChinese.js` | 檢查簡體頁面是否有繁體殘留 |
+| `zhHansVariantMap.js` | 台灣慣用異體字對照表（上兩者共用） |
+| `buildNewsList.js` | 產生官方更新列表 `docs/other/news.md` |
+| `buildBadendList.js` | 產生生死簿列表資料 |
+| `buildBadendTexts.js` | 產生生死簿圖片產生器的範本資料 |
+| `buildLocalePageManifest.js` | 產生各語系已存在頁面清單，避免連到未翻譯頁 |
+| `buildWikiLinkIndex.js` | 產生 WikiLink 標題索引 |
+| `buildContributors.js` | 產生貢獻者名單 |
+| `buildConvertToWebp.js` | 圖片轉 WebP |
+| `fetchNews.js` | 抓 Steam 新聞產生江湖快報草稿（GitHub Actions 每日執行） |
 
 ## 國際化 | i18n
 
