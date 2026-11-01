@@ -7,6 +7,7 @@ import {
 	GitChangelog,
 	GitChangelogMarkdownSection,
 } from "@nolebase/vitepress-plugin-git-changelog/vite";
+import { GitChangelogXssFix } from "./gitChangelogXss.mjs";
 // CJK 強調記法 (「**強調**を選択」等、全角約物の直後に閉じ ** が来る場合の CommonMark 非対応を修正)
 import cjkFriendly from "markdown-it-cjk-friendly";
 // 註腳
@@ -1338,6 +1339,7 @@ const baseConfig = {
 				repoURL: () => "https://github.com/Mr-Smilin/LoM-wiki",
 			}),
 			GitChangelogMarkdownSection(),
+			GitChangelogXssFix(),
 		],
 		ssr: {
 			noExternal: ["@nolebase/*"],
