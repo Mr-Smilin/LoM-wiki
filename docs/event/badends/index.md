@@ -2633,7 +2633,19 @@ tags:
         <td>
             你是千古第一例，也是唯一一例受害者。
         </td>
-        <td>-</td>
+        <td>
+            <li>
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>並
+                🚩<MarkdownWrapper>[入飛天門](/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>。
+            </li>
+            <li>
+                🚩<MarkdownWrapper>[開啟鶴崖](/event/simple/2-03-3-鶴崖事件集#解鎖條件)</MarkdownWrapper>後，
+                點選鶴崖指令，且未觸發特殊事件。
+            </li>
+            <li>
+                觸發「向火閃電討教」後，對決落敗。
+            </li>
+        </td>
         <td>-</td>
         <td>-</td>
     </tr>
