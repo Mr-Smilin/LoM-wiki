@@ -9,7 +9,7 @@
     <hr>
     <div>
         {{ t.mobileNote }}<br>
-        <div type="button" class="btn download-bnt" @click="generateImage()">{{ t.btnGenerate }}</div>
+        <ImageDownloadButton :target="captureTarget" prefix="LoM"></ImageDownloadButton>
         <div type="button" class="btn" @click="clearData()">{{ t.btnClear }}</div>
         <div type="button" class="btn" @click="showExampleData()">{{ t.btnExample }}</div>
     </div>
@@ -40,10 +40,8 @@
     </div>
 </template>
 <script>
-    import domtoimage from 'dom-to-image';
-    // saveAs 有使用到, 請勿移除。
-    import { saveAs } from 'file-saver';
     import { useData } from "vitepress";
+    import ImageDownloadButton from "./ImageDownloadButton.vue";
 
     // 所有對外文字的多語表; 缺該語系時 t 會回退繁中 (zh)
     const I18N = {
@@ -59,7 +57,6 @@
             en: "On some browsers and mobile devices, the image is saved via the \"Share\" dialog instead of a direct download.",
             ja: "一部のブラウザ・モバイル端末では、直接ダウンロードの代わりに「共有」から画像を保存します。"
         },
-        btnGenerate: { zh: "產生圖片", "zh-hans": "生成图片", en: "Generate Image", ja: "画像を生成" },
         btnClear: { zh: "清除全部資料", "zh-hans": "清除全部数据", en: "Clear All", ja: "すべてクリア" },
         btnExample: { zh: "帶入範本", "zh-hans": "载入模板", en: "Load Example", ja: "サンプルを読み込む" },
         titleLabel: { zh: "請在這裡輸入標題：", "zh-hans": "请在这里输入标题：", en: "Enter a title here:", ja: "タイトルを入力：" },
@@ -95,6 +92,7 @@
     };
 
     export default {
+        components: { ImageDownloadButton },
         setup() {
             const { localeIndex } = useData();
             return { localeIndex };
@@ -144,43 +142,11 @@
                 }
                 return string;
             },
-            async generateImage(){
-                let image_div = document.querySelector("#image-generator")
-                image_div.style.backgroundColor = '#111';
-                let filename = this.getDownloadFileName();
-
-                var scale = 2;
-
-                try {
-                    // 背景已設為不透明(#111), 直接輸出 JPEG; toBlob 只能出 PNG, 故用 toJpeg 再轉 blob
-                    const dataUrl = await domtoimage.toJpeg(image_div, {
-                        quality: 0.95,
-                        width: image_div.clientWidth * scale,
-                        height: image_div.clientHeight * scale,
-                        style: {
-                            transform: 'scale('+scale+')',
-                            transformOrigin: 'top left'
-                        }});
-                    const blob = await (await fetch(dataUrl)).blob();
-
-                    const file = new File([blob], filename, { type: 'image/jpeg' });
-                    // iOS(含 iPadOS) Safari 不支援程式化下載 blob, 改用 Web Share 讓使用者存到「照片/檔案」;
-                    // 桌機/Android 的 saveAs 正常, 維持直接下載 (桌機 canShare 也可能為 true, 故限縮到 iOS)。
-                    // ponytail: Web Share 需在使用者手勢內觸發, domtoimage 產圖夠快通常沒問題;
-                    //           若 iOS 之後仍偶發 NotAllowedError, 再改成點擊當下先開分頁的作法。
-                    const isIOS = /iP(hone|ad|od)/.test(navigator.userAgent)
-                        || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1); // iPadOS 偽裝成 Mac
-                    if (isIOS && navigator.canShare && navigator.canShare({ files: [file] })) {
-                        await navigator.share({ files: [file] });
-                    } else {
-                        window.saveAs(blob, filename);
-                    }
-                } catch (error) {
-                    if (error && error.name === 'AbortError') return; // 使用者取消分享
-                    console.error('oops, something went wrong!', error);
-                }
-
-                return true;
+            // 給下載鈕截圖用; 背景補不透明色 (JPEG 無透明)
+            captureTarget(){
+                const node = document.querySelector("#image-generator");
+                node.style.backgroundColor = '#111';
+                return { node, w: node.clientWidth, h: node.clientHeight };
             },
             clearData(){
                 this.title = "";
@@ -194,11 +160,6 @@
                 this.imageSource = "/images/generic/background/pic_end_0000.webp";
                 document.getElementById("auto-line-break").checked = true;
                 return true;
-            },
-            getDownloadFileName(){
-                const d = new Date();
-                let text = d.toISOString();
-                return "LoM-"+ text +".jpeg";
             },
             triggerAutoLineBreak(){
                 this.context = this.context + " ";
@@ -226,13 +187,6 @@
     background-color: #0056b3;
 }
 
-.download-bnt{
-    background-color: #05af56;
-}
-
-.download-bnt:hover{
-    background-color: #047c45;
-}
 
 .title-input{
     margin: 10px;
