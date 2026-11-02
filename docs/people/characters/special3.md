@@ -9,57 +9,14 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="葉雲舟">
-		<Ch src='/images/characters/special3/normal.webp' position='right'/>
-		<ChName nameZh='葉雲舟' nameEn='Ye Yun Zhou' position='right' />
-		<ChTable>
-			<ChTr>
-				<ChTd isTitle=true>
-					性別
-				</ChTd>
-				<ChTd>
-					男
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd isTitle=true>
-					稱號
-				</ChTd>
-				<ChTd>
-					蒼松劍客<br>點蒼第一快劍手
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd isTitle=true position='center'>
-					關係
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[觀雲客]] (掌門)
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[聽海生]] (師父)
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[葉雲裳]] (妹妹)
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[段智秀]] (仇人)
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[李元棄]] (族叔)
-				</ChTd>
-			</ChTr>
-		</ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special3/normal.webp'
+			nameTitle='蒼松劍客'
+			nameMain='葉雲舟'
+			desc='身穿點蒼派服飾的年輕劍客。<br>好像在哪兒聽過這個名字，不過你記不得了。不知為何要以斗笠掩藏面目，觀其面目俊美，似乎也不像江洋大盜。'
+			:animation=true
+		/>
 	</ChTab>
 	<ChTab title="微笑">
 		<Ch src='/images/characters/special3/laugh1.webp' position='center'/>
@@ -110,6 +67,61 @@ aside: false
 		<ChName nameZh='褐衣' nameEn='Brown Robe' position='right' />
 	</ChTab>
 </ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					蒼松劍客<br>點蒼第一快劍手
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[觀雲客]] (掌門)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[聽海生]] (師父)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[葉雲裳]] (妹妹)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[段智秀]] (仇人)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[李元棄]] (族叔)
+				</ChTd>
+			</ChTr>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 點蒼派第一快劍手，當今武林最負盛名的年輕俠客之一，近年時常被刊載於江湖快報之上。
@@ -126,6 +138,8 @@ aside: false
 
 對自己妹妹很是寵膩，該教訓的時候也不會手軟。
 <br clear="all">
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
