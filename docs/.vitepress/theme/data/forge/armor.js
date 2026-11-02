@@ -102,7 +102,7 @@ export default {
         "累積銀兩": ["-", 250, 500, 800, 1150, 1550, 2000, 2500, 3000, 3500, 4000],
       },
       obtain: { root: "初始", ja: "初期", en: "Initial" },
-      note: { root: "- 除路線限定的烏蠶寶衣外，目前仍是素質最佳的護甲", ja: "- 現状でも性能が最良の防具", en: "- Still the armor with the best stats" },
+      note: { root: "- 除路線限定的烏蠶寶衣外，目前仍是素質最佳的護甲", ja: "- ルート限定の烏蚕の宝衣を除けば、現状でも性能が最良の防具", en: "- Still the armor with the best stats" },
     },
     {
       name: { root: "密密縫", ja: "密々綴", en: "Dense Stitching" },
