@@ -12,44 +12,14 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="孟仙謠">
-		<Ch src='/images/characters/special831/normal.webp' position='right'/>
-		<ChName nameZh='孟仙謠' nameEn='Meng Xian Yao' position='right' />
-		<ChTable>
-			<ChTr>
-				<ChTd isTitle=true>
-					性別
-				</ChTd>
-				<ChTd>
-					女
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd isTitle=true position='center'>
-					關係
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[瑞笙]] (郎君)
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[趙方]] (外祖父)
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					孟珙 (四哥)
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[丁承烈]] (護衛)
-				</ChTd>
-			</ChTr>
-		</ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special831/normal.webp'
+			nameTitle=''
+			nameMain='孟仙謠'
+			desc='京湖制置使兼知襄陽府趙方之外孫女，荊鄂都統制孟政宗之女。<br>其母有烈節，於棗陽戰歿，方與政宗以哀疾求退，帝詔慰留之。政宗又請命推恩及女，帝允之，宣詔敕封，是為棗陽縣主。'
+			:animation=true
+		/>
 	</ChTab>
 	<ChTab title="微笑">
 		<Ch src='/images/characters/special831/laugh1.webp' position='center'/>
@@ -84,9 +54,53 @@ tags:
 		<ChName nameZh='喝醉' nameEn='Drunk' position='right' />
 	</ChTab>
 </ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					女
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[瑞笙]] (郎君)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[趙方]] (外祖父)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					孟珙 (四哥)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[丁承烈]] (護衛)
+				</ChTd>
+			</ChTr>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 [[瑞笙]]的後宮之一，棗陽縣主。
+
+<div style="clear:both;"></div>
 
 ## 家人
 
