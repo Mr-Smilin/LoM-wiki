@@ -259,7 +259,7 @@ tags:
       <td>6</td>
       <td>金光裂重雲，指天喚霹靂<br>Shot Through the Storm</td>
       <td>3:19</td>
-      <td><MarkdownWrapper>[備註](#金光裂重雲，指天喚霹靂)</MarkdownWrapper></td>
+      <td><MarkdownWrapper>[備註](#金光裂重雲-指天喚霹靂)</MarkdownWrapper></td>
     </tr>
     <tr>
       <td>7</td>
@@ -333,7 +333,7 @@ tags:
 ### 第二輯備註
 - 原聲帶第二輯英文，由公關鼠協助翻譯。
 
-#### 金光裂重雲，指天喚霹靂
+#### 金光裂重雲-指天喚霹靂
 - [[王二壯]]的專屬曲。
 - 崆峒掌派爭奪戰，握起仙劍神雷劍的插入曲。
 - 「金光」&「霹靂」分別是台灣兩大布袋戲公司。
@@ -355,7 +355,7 @@ tags:
     > 十步殺一人，千里不留行
 
 #### 帳中夢守人
-- <Girl2Icon>葉雲裳</Girl2Icon>[九轉療傷]真氣戰後的劇情插入曲。
+- <Girl2Icon>葉雲裳</Girl2Icon>真氣戰後的劇情插入曲。
 - [【杏花仙絕無僅有的心血來潮】](https://www.youtube.com/watch?v=ZELq9yk-Z5U)的劇情曲。
 - 製作組要求營造夢中溫柔的感覺。[^3]
 - [Youtube - 【活俠傳】-帳中夢守人，半夢半醒其實是賴床？ 幽火的音樂解析](https://www.youtube.com/watch?v=xoAZyDtHqLc)
