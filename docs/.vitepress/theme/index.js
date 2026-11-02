@@ -23,6 +23,7 @@ import MarkCharacterTable from "./components/character/base/MarkCharacterTable.v
 import CharacterTr from "./components/character/base/CharacterTr.vue";
 import CharacterTd from "./components/character/base/CharacterTd.vue";
 import CharacterMeet from "./components/character/type/CharacterMeet.vue";
+import CharacterList from "./components/character/CharacterList.vue";
 import ChineseStyleTd from "./components/tdStyles/ChineseStyleTd.vue";
 // import Icon Group
 import Icon from "./components/icon-family/Icon.vue";
@@ -143,6 +144,7 @@ export default {
         app.component("ChTd", CharacterTd);
         app.component("CnTd", ChineseStyleTd);
         app.component("ChMeet", CharacterMeet);
+        app.component("ChList", CharacterList);
 
         // Icon component group
         app.component("Icon", Icon);
