@@ -2708,7 +2708,9 @@ tags:
             遙想公子當年，小竹初嫁了，雄姿英發。<br>
             鐵鎚圍巾，談笑間，趙活灰飛湮滅。
         </td>
-        <td>-</td>
+        <td>蘇軾〈念奴嬌．赤壁懷古〉：<br>
+            遙想公瑾當年，小喬初嫁了，雄姿英發。<br>
+            羽扇綸巾，談笑處、強虜灰飛煙滅。</td>
         <td>
             <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>。</li>
             <li>由<Girl3Icon>虞小梅</Girl3Icon>途徑觸發<MarkdownWrapper>[郁竹返家準備](/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper>。</li>
