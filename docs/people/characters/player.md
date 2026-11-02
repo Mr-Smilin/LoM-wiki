@@ -12,77 +12,14 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="趙活">
-        <Ch
-            src='/images/characters/player/normal.webp' 
-            position='right'/>
-        <ChName nameZh='趙活' nameEn='Zhao Huo' position='right' />
-        <ChTable>
-            <ChTr>
-                <ChTd isTitle=true>
-                    性別
-                </ChTd>
-                <ChTd>
-                    男
-                </ChTd>
-            </ChTr>
-            <ChTr>
-                <ChTd isTitle=true>
-                    年齡
-                </ChTd>
-                <ChTd>
-                    推測18~23 (第一年)
-                </ChTd>
-            </ChTr>
-            <ChTr>
-                <ChTd isTitle=true>
-                    稱號
-                </ChTd>
-                <ChTd>
-                    唐門雜魚
-                </ChTd>
-            </ChTr>
-            <ChTr>
-                <ChTd isTitle=true position='center'>
-                    關係
-                </ChTd>
-            </ChTr>
-            <ChTr>
-                <ChTd position='center'>
-                    [[唐中翎]] (掌門)
-                </ChTd>
-            </ChTr>
-            <ChTr>
-                <ChTd position='center'>
-                    [[唐鹿]] (師娘)
-                </ChTd>
-            </ChTr>
-            <ChTr>
-                <ChTd position='center'>  
-                    [[唐布衣]] (大師兄)
-                </ChTd>
-            </ChTr>
-            <ChTr>
-                <ChTd position='center'>  
-                    [[唐錚]] (二師兄)
-                </ChTd>
-            </ChTr>
-            <ChTr>
-                <ChTd position='center'>  
-                    [[唐陞]] (三師兄)
-                </ChTd>
-            </ChTr>
-            <ChTr>
-                <ChTd position='center'>  
-                    [[唐惟元]] (四師兄)
-                </ChTd>
-            </ChTr>
-            <ChTr>
-                <ChTd position='center'>
-                    [[唐默鈴]] (小師妹)
-                </ChTd>
-            </ChTr>
-        </ChTable>
+    <ChTab title="初識">
+        <ChMeet
+            src='/images/characters/player/normal.webp'
+            nameTitle='唐門雜魚'
+            nameMain='趙活'
+            desc='唐門最後的外姓弟子，相貌醜陋，資質平庸，窮，沒有人愛你。<br>之所以至今猶未死透，只因不甘認命。'
+            :animation=true
+        />
     </ChTab>
     <ChTab title="自戀">
         <Ch
@@ -379,6 +316,78 @@ tags:
         <ChName nameZh='掌派人' nameEn='Sect Leader' position='right' />
     </ChTab>
 </ChTabs>
+<br>
+
+<InfoList>
+    <Info title='角色資料' :open=true>
+        <table>
+            <ChTr>
+                <ChTd isTitle=true>
+                    性別
+                </ChTd>
+                <ChTd>
+                    男
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
+                    年齡
+                </ChTd>
+                <ChTd>
+                    推測18~23 (第一年)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true>
+                    稱號
+                </ChTd>
+                <ChTd>
+                    唐門雜魚
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true position='center'>
+                    關係
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐中翎]] (掌門)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐鹿]] (師娘)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐布衣]] (大師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐錚]] (二師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐陞]] (三師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>  
+                    [[唐惟元]] (四師兄)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[唐默鈴]] (小師妹)
+                </ChTd>
+            </ChTr>
+        </table>
+    </Info>
+</InfoList>
 
 > 「我長得真是慘不忍睹，老天怎就如此恨我？」
 
@@ -389,6 +398,8 @@ tags:
 死活不肯離開唐門，不知多少年仍不得入室，只能繼續做雜務，被當下人使喚。
 <br><br>
 喜歡[[唐默鈴|小師妹]]，遠遠望一眼就能滿足過一天。
+
+<div style="clear:both;"></div>
 
 ## 童年
 
