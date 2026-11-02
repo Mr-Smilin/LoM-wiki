@@ -9,12 +9,51 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="唐惟元">
+    <ChTab title="初識">
+        <ChMeet
+            src='/images/characters/brother4/normal.webp'
+            nameTitle='四師兄'
+            nameMain='唐惟元'
+            desc='本名惟元，唐門掌門的關門弟子。<br>被委以往返山下兜售藥品、採購生活用品的任務，樂此不疲，經常鑽門規的空子，夾帶私貨抬價賣給同門師兄弟賺取差價。'
+            :animation=true
+        />
+    </ChTab>
+    <ChTab title="微笑">
         <Ch
-            src='/images/characters/brother4/normal.webp' 
-            position='right'/>
-        <ChName nameZh='唐惟元' nameEn='Tang Wei Yuan' position='right' />
-        <ChTable>
+            src='/images/characters/brother4/laugh1.webp' 
+            position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch
+            src='/images/characters/brother4/nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="生氣">
+        <Ch
+            src='/images/characters/brother4/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='生氣' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="陰笑">
+        <Ch
+            src='/images/characters/brother4/gloomy2.webp' 
+            position='center'/>
+        <ChName nameZh='陰笑' nameEn='Sinister Smile' position='right' />
+    </ChTab>
+    <ChTab title="重傷">
+        <Ch
+            src='/images/characters/brother4/hurt.webp' 
+            position='center'/>
+        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+    </ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+    <Info title='角色資料' :open=true>
+        <table>
             <ChTr>
                 <ChTd isTitle=true>
                     性別
@@ -79,39 +118,9 @@ aside: false
                     [[趙活]] (師弟)
                 </ChTd>
             </ChTr>
-        </ChTable>
-    </ChTab>
-    <ChTab title="微笑">
-        <Ch
-            src='/images/characters/brother4/laugh1.webp' 
-            position='center'/>
-        <ChName nameZh='微笑' nameEn='Smile' position='right' />
-    </ChTab>
-    <ChTab title="汗顏">
-        <Ch
-            src='/images/characters/brother4/nervous1.webp' 
-            position='center'/>
-        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
-    </ChTab>
-    <ChTab title="生氣">
-        <Ch
-            src='/images/characters/brother4/angry1.webp' 
-            position='center'/>
-        <ChName nameZh='生氣' nameEn='Angry' position='right' />
-    </ChTab>
-    <ChTab title="陰笑">
-        <Ch
-            src='/images/characters/brother4/gloomy2.webp' 
-            position='center'/>
-        <ChName nameZh='陰笑' nameEn='Sinister Smile' position='right' />
-    </ChTab>
-    <ChTab title="重傷">
-        <Ch
-            src='/images/characters/brother4/hurt.webp' 
-            position='center'/>
-        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
-    </ChTab>
-</ChTabs>
+        </table>
+    </Info>
+</InfoList>
 
 > 「我的天，師弟你的臉真醜，配不上你的靈魂。」
 
@@ -120,6 +129,8 @@ aside: false
 <br>
 
 被委以往返山下兜售藥品、採購生活用品的任務，樂此不疲，經常鑽門規的空子，夾帶私貨抬價賣給同門師兄弟賺取差價。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
