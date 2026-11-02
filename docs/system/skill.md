@@ -263,6 +263,22 @@ tags:
         <td>《唐門暗器總綱》LV4<br>《孫子兵法》LV5<br>《雪球教戰守則》LV5<br>《破金策》LV5</td>
     </tr>
     <tr>
+        <td id = "讀勢">讀勢</td>
+        <td>1~3?</td>
+        <td>決鬥時依據臨陣提升招架機率</td>
+        <td>
+            <li>
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>並
+                🚩<MarkdownWrapper>[入飛天門](/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>。<br>
+                🚩<MarkdownWrapper>[開啟鶴崖](/event/simple/2-03-3-鶴崖事件集#解鎖條件)</MarkdownWrapper>後
+                持續<MarkdownWrapper>[向火閃電討教](/event/simple/2-03-3-向火閃電討教)</MarkdownWrapper>，
+                使🚩向火閃電討教≥4。<br>
+                <Girl3Icon>虞小梅</Girl3Icon>好感≥20，在第二年四月上旬至七月中旬，
+                至鶴崖觸發<MarkdownWrapper>[小梅共舞](/event/simple/2-04-1-小梅共舞)</MarkdownWrapper>後獲得
+            </li>
+        </td>
+    </tr>
+    <tr>
         <td id = "劍界">劍界</td>
         <td></td>
         <td>
