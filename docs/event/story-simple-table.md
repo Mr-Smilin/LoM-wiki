@@ -664,22 +664,11 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[臥雲崗事件](/event/simple/3-01-2-臥雲崗事件)<br>
-				[臥雲崗留守](/event/simple/3-01-2-臥雲崗留守)<br>
-                兵器裝檢<br>
-                幫助同門<br>
-                劍閣到訪<br>
-				[前往臥雲崗](/event/simple/3-01-2-前往臥雲崗)<br>
+                [臥雲崗下山線](/event/simple/3-01-2-臥雲崗下山線)<br>
+				[臥雲崗留守線](/event/simple/3-01-2-臥雲崗留守線)<br>
 				</MarkdownWrapper>
 			</td>
-			<td>
-				<MarkdownWrapper>
-				[圍觀臥雲崗](/event/simple/3-01-3-圍觀臥雲崗)<br>
-				[回程遇刺](/event/simple/3-01-3-回程遇刺)<br>
-				[大師兄重傷](/event/simple/3-01-3-大師兄重傷)<br>
-				[後山安葬](/event/simple/3-01-3-後山安葬)<br>
-				[煉丹解毒](/event/simple/3-01-3-煉丹解毒)<br>
-				</MarkdownWrapper>
-			</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>二月</td>
