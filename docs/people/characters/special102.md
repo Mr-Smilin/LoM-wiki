@@ -9,57 +9,14 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="南宮深">
-		<Ch src='/images/characters/special102/normal.webp' position='right'/>
-		<ChName nameZh='南宮深' nameEn='Nan Gong Shen' position='right' />
-		<ChTable>
-			<ChTr>
-				<ChTd isTitle=true>
-					性別
-				</ChTd>
-				<ChTd>
-					男
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd isTitle=true>
-					稱號
-				</ChTd>
-				<ChTd>
-					南宮大公子<br>~~深V俠~~
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd isTitle=true position='center'>
-					關係
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[南宮橫]] (爺爺)
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[南宮遠]] (父親)
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[南宮淺]] (弟弟)
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[上官螢]] (婚約)
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[魏菊]] (同學)
-				</ChTd>
-			</ChTr>
-		</ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special102/normal.webp'
+			nameTitle=''
+			nameMain='南宮深'
+			desc='南宮世家的嫡長大公子。<br>集萬千矚目於一身，承襲家學，儒雅翩翩，四藝皆全，不止江湖人面廣闊，在文人雅士圈中亦頗有人脈。'
+			:animation=true
+		/>
 	</ChTab>
 	<ChTab title="微笑">
 		<Ch src='/images/characters/special102/laugh1.webp' position='center'/>
@@ -114,10 +71,67 @@ aside: false
 		<ChName nameZh='鳳凰寶衣(重傷)' nameEn='Phoenix Armor (Severely Injured)' position='right' />
 	</ChTab>
 </ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					南宮大公子<br>~~深V俠~~
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮橫]] (爺爺)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮遠]] (父親)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮淺]] (弟弟)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[上官螢]] (婚約)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[魏菊]] (同學)
+				</ChTd>
+			</ChTr>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 南宮世家的嫡長大公子。  
 集萬千矚目於一身，承襲家學，儒雅翩翩，四藝皆全，不止江湖人面廣闊，在文人雅士圈中亦頗有人脈。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
