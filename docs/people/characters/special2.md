@@ -9,10 +9,29 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="龍淵">
-		<Ch src='/images/characters/special2/normal.webp' position='right'/>
-		<ChName nameZh='龍淵' nameEn='Long Yuan' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special2/normal.webp'
+			nameTitle='前武林盟主'
+			nameMain='龍淵'
+			desc='最為江湖人津津樂道的武林傳奇之一。在他的諸般傳奇事蹟之中，尤以決戰極樂教主為最。其後舊魔教覆滅，而正邪兩道最強高手亦銷聲匿跡，完結了一個時代。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special2/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special2/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -49,22 +68,17 @@ aside: false
 					[[溫夫人]] (舊友)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-	<ChTab title="微笑">
-		<Ch src='/images/characters/special2/laugh1.webp' position='center'/>
-		<ChName nameZh='微笑' nameEn='Smile' position='right' />
-	</ChTab>
-	<ChTab title="汗顏">
-		<Ch src='/images/characters/special2/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 最為江湖人津津樂道的武林傳奇之一。在他的諸般傳奇事蹟之中，尤以[[決戰極樂教|決戰極樂教主]]為最。其後舊魔教覆滅，而正邪兩道最強高手亦銷聲匿跡，完結了一個時代。
 <br><br>
 在極樂教一役後，因為[[完顏珣|翼王]]的背信，把女兒[[龍湘]]託付給[[溫夫人]]後，自斷一臂，隱姓埋名，蟄伏於[[丐幫]]大義分舵。
+
+<div style="clear:both;"></div>
 
 ## 備註
 
