@@ -9,47 +9,14 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="南宮淺">
-		<Ch src='/images/characters/special103/normal.webp' position='right'/>
-		<ChName nameZh='南宮淺' nameEn='Nan Gong Qian' position='right' />
-		<ChTable>
-			<ChTr>
-				<ChTd isTitle=true>
-					性別
-				</ChTd>
-				<ChTd>
-					男
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd isTitle=true>
-					稱號
-				</ChTd>
-				<ChTd>
-					南宮二公子<br>~~劫串俠~~
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd isTitle=true position='center'>
-					關係
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[南宮橫]] (爺爺)
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[南宮遠]] (父親)
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[南宮深]] (哥哥)
-				</ChTd>
-			</ChTr>
-		</ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special103/normal.webp'
+			nameTitle=''
+			nameMain='南宮淺'
+			desc='南宮世家的庶子。<br>他的出生並非人所期望，他娘親更為南宮遠所深惡痛絕。<br>連帶南宮淺也不受人待見，雖是二公子，在家待遇卻還不如家丁下人。'
+			:animation=true
+		/>
 	</ChTab>
 	<ChTab title="微笑">
 		<Ch src='/images/characters/special103/laugh1.webp' position='center'/>
@@ -88,11 +55,58 @@ aside: false
 		<ChName nameZh='黑化' nameEn='Darkened' position='right' />
 	</ChTab>
 </ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					男
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true>
+					稱號
+				</ChTd>
+				<ChTd>
+					南宮二公子<br>~~劫串俠~~
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮橫]] (爺爺)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮遠]] (父親)
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[南宮深]] (哥哥)
+				</ChTd>
+			</ChTr>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 南宮世家的庶子。  
 他的出生並非人所期望，他娘親更為[[南宮遠]]所深惡痛絕。  
 連帶南宮淺也不受人待見，雖是二公子，在家待遇卻還不如家丁下人。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
