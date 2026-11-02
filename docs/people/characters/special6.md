@@ -10,10 +10,21 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="萬里鵬程">
-		<Ch src='/images/characters/special6/normal.webp' position='right'/>
-		<ChName nameZh='萬里鵬程' nameEn='Wan Li Peng Cheng' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special6/normal.webp'
+			nameTitle='鷹人'
+			nameMain='萬里鵬程'
+			desc='身披鷹羽破簑衣的精悍老者。<br>雖然形貌怪異，其武功路數卻博大精深，氣度非凡，顯是名家風範。卻不知為何到了這把年紀仍是名不見經傳。'
+			:animation=true
+		/>
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -55,14 +66,17 @@ aside: false
 					[[福韞]] (師姪孫)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 身披鷹羽破簑衣的精悍老者。
 <br><br>
 雖然形貌怪異，其武功路數卻博大精深，氣度非凡，顯是名家風範。卻不知為何到了這把年紀仍是名不見經傳。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
