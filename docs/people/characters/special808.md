@@ -9,10 +9,41 @@ aside: false
 # 風神 {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="解無塵">
-		<Ch src='/images/characters/special808/normal.webp' position='right'/>
-		<ChName nameZh='解無塵' nameEn='Xie Wu Chen' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special808/normal.webp'
+			nameTitle=''
+			nameMain='解無塵'
+			desc='峨嵋派當代有名的年輕高手，人稱「風神」。<br>與唐門飛俠唐布衣江湖齊名的峨嵋高手，擅長腿法。<br>自詡為你大師兄的生平勁敵，非常煩人，見面就打架，也曾有結伴遊戲江湖的美談。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special808/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special808/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch src='/images/characters/special808/nervous2.webp' position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch src='/images/characters/special808/nervous3.webp' position='center'/>
+		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special808/angry1.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -59,34 +90,17 @@ aside: false
 					[[劉顎]] (孽緣)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-	<ChTab title="微笑">
-		<Ch src='/images/characters/special808/laugh1.webp' position='center'/>
-		<ChName nameZh='微笑' nameEn='Smile' position='right' />
-	</ChTab>
-	<ChTab title="汗顏">
-		<Ch src='/images/characters/special808/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
-	</ChTab>
-	<ChTab title="驚慌">
-		<Ch src='/images/characters/special808/nervous2.webp' position='center'/>
-		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
-	</ChTab>
-	<ChTab title="尷尬">
-		<Ch src='/images/characters/special808/nervous3.webp' position='center'/>
-		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
-	</ChTab>
-	<ChTab title="生氣">
-		<Ch src='/images/characters/special808/angry1.webp' position='center'/>
-		<ChName nameZh='生氣' nameEn='Angry' position='right' />
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 峨嵋派當代有名的年輕高手，人稱「風神」。  
 與唐門飛俠[[唐布衣]]江湖齊名的峨嵋高手，擅長腿法。  
 自詡為你大師兄的生平勁敵，非常煩人，見面就打架，也曾有結伴遊戲江湖的美談。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
