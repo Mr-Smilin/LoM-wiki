@@ -5,7 +5,7 @@
 // 翻譯（同 eventSeries.js 的寫法）：會因語言不同的文字寫成 { root: 繁中, ja: 日文, en: 英文 }，
 // 只有繁中時直接寫字串。沒寫的語言顯示繁中；簡中不用寫，build 時由繁中自動轉換。
 //
-//   name     項目名稱 { root, ja, en }。root（繁中）同分類內不可重複，也是網址錨點，例如 #南螫礜石散
+//   name     項目名稱 { root, ja, en }。root（繁中）同分類內不可重複，也是網址錨點，例如 #南蝥礜石散
 //   anchor   只在要沿用舊連結時寫，例如 { ja: "舊日文錨點" }；沒寫的語言用繁中名稱
 //   icon     圖示路徑（/images/ 開頭）
 //   parent   上一層項目的繁中名稱；開發樹起點填 null
@@ -30,8 +30,7 @@ export default {
   },
   items: [
     {
-      name: { root: "南螫礜石散", ja: "南蝥礜石散", en: "Nanmao Yushi Powder" },
-      anchor: { ja: "南蝥礜石散" },
+      name: { root: "南蝥礜石散", ja: "南蝥礜石散", en: "Nanmao Yushi Powder" },
       icon: "/images/items/medis/icon_medi_01.webp",
       parent: null,
       requires: [],
@@ -68,8 +67,8 @@ Mind +30
     {
       name: { root: "穿心龍膽湯", en: "Chuanxin Longdan Soup" },
       icon: "/images/items/medis/icon_medi_02.webp",
-      parent: "南螫礜石散",
-      requires: { root: ["南螫礜石散開發中"], ja: ["南蝥礜石散開発中"], en: ["Nanmao Yushi Powder in development"] },
+      parent: "南蝥礜石散",
+      requires: { root: ["南蝥礜石散開發中"], ja: ["南蝥礜石散開発中"], en: ["Nanmao Yushi Powder in development"] },
       info: {
         "總煉丹": 15,
         "總銀兩": 300,
@@ -103,8 +102,8 @@ Mind +30
     {
       name: { root: "乖乖水", en: "Guai Guai Water" },
       icon: "/images/items/medis/icon_medi_04.webp",
-      parent: "南螫礜石散",
-      requires: { root: ["南螫礜石散開發中"], ja: ["南蝥礜石散開発中"], en: ["Nanmao Yushi Powder in development"] },
+      parent: "南蝥礜石散",
+      requires: { root: ["南蝥礜石散開發中"], ja: ["南蝥礜石散開発中"], en: ["Nanmao Yushi Powder in development"] },
       info: {
         "總煉丹": 15,
         "總銀兩": 300,
@@ -166,8 +165,8 @@ Mind +50
     {
       name: { root: "睡丹", en: "Sleeping Pill" },
       icon: "/images/items/medis/icon_medi_05.webp",
-      parent: "南螫礜石散",
-      requires: { root: ["南螫礜石散開發中"], ja: ["南蝥礜石散開発中"], en: ["Nanmao Yushi Powder in development"] },
+      parent: "南蝥礜石散",
+      requires: { root: ["南蝥礜石散開發中"], ja: ["南蝥礜石散開発中"], en: ["Nanmao Yushi Powder in development"] },
       info: {
         "總煉丹": 25,
         "總銀兩": 500,
@@ -202,9 +201,9 @@ Action Count -1
     {
       name: { root: "萬靈油", ja: "万霊油", en: "Ten Thousand Spirit Oil" },
       icon: "/images/items/medis/icon_medi_22.webp",
-      parent: "南螫礜石散",
+      parent: "南蝥礜石散",
       requires: {
-        root: ["南螫礜石散開發中", "門派規模2"],
+        root: ["南蝥礜石散開發中", "門派規模2"],
         ja: ["南蝥礜石散開発中", "門派規模2"],
         en: ["Nanmao Yushi Powder in development", "Sect Scale 2"],
       },
