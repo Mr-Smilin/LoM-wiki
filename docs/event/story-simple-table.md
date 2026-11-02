@@ -334,6 +334,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
 			[崆峒季試](/event/simple/2-05-3-崆峒季試)<br>
+            神兵帖系列事件<gr>
         </MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">-</td>
