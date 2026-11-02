@@ -13,10 +13,29 @@ tags:
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="阿鶴俠">
-		<Ch src='/images/characters/special805/special.webp' position='right'/>
-		<ChName nameZh='阿鶴俠' nameEn='A He Xia' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special805/special.webp'
+			nameTitle=''
+			nameMain='？？？'
+			desc='某個人的手。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="出來玩！">
+		<Ch src='/images/characters/special805/special2.webp' position='center'/>
+		<ChName nameZh='阿鶴俠' nameEn='A He Xia' />
+	</ChTab>
+	<ChTab title="跑吧，小竹">
+		<Ch src='/images/characters/special805/hand.webp' position='center'/>
+		<ChName nameZh='阿鶴俠' nameEn='A He Xia' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -48,23 +67,17 @@ tags:
 					[[火閃電]] (朋友)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-	<ChTab title="出來玩！">
-		<Ch src='/images/characters/special805/special2.webp' position='center'/>
-		<ChName nameZh='阿鶴俠' nameEn='A He Xia' />
-	</ChTab>
-	<ChTab title="跑吧，小竹">
-		<Ch src='/images/characters/special805/hand.webp' position='center'/>
-		<ChName nameZh='阿鶴俠' nameEn='A He Xia' />
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
 
 > 「樓梯是每個渴望復仇的可憐人最無私的幫兇。」
 
 出沒於崆峒派飛天門窗戶的鶴手前輩，實為山上修行千年的靈鶴，摔死後還魂寄宿在[[虞小梅|小梅]]的右手。喜歡介紹小梅交朋友，帶人瀏覽崆峒山的名勝景點。
 <br><br>
 聽了[[趙活]]悲慘的故事，建議他把愛欺負人的師兄推下樓梯。樓梯就跟兵器一樣，沒有好壞之分。決定要做好事還是壞事的，還是站在樓梯上風處的人。
+
+<div style="clear:both;"></div>
 
 ## 備註
 
