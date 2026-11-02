@@ -9,10 +9,41 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="李富貴">
-		<Ch src='/images/characters/special809/normal.webp' position='right'/>
-		<ChName nameZh='李富貴' nameEn='Li Fu Gui' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special809/normal.webp'
+			nameTitle=''
+			nameMain='李富貴'
+			desc='丐幫後起新秀，明明是乞丐，卻被取名為富貴。<br>既是丐幫老派長老千金叟的遺孤，也是丐幫新派領袖兼幫主王二壯的義子。<br>講話口吃，其實人不算笨。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special809/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch src='/images/characters/special809/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch src='/images/characters/special809/nervous2.webp' position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special809/angry1.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="哭泣">
+		<Ch src='/images/characters/special809/sad.webp' position='center'/>
+		<ChName nameZh='哭泣' nameEn='Cry' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -41,29 +72,9 @@ aside: false
 					[[樊嘯天]] (同門)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-	<ChTab title="微笑">
-		<Ch src='/images/characters/special809/laugh1.webp' position='center'/>
-		<ChName nameZh='微笑' nameEn='Smile' position='right' />
-	</ChTab>
-	<ChTab title="大笑">
-		<Ch src='/images/characters/special809/laugh2.webp' position='center'/>
-		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
-	</ChTab>
-	<ChTab title="驚慌">
-		<Ch src='/images/characters/special809/nervous2.webp' position='center'/>
-		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
-	</ChTab>
-	<ChTab title="生氣">
-		<Ch src='/images/characters/special809/angry1.webp' position='center'/>
-		<ChName nameZh='生氣' nameEn='Angry' position='right' />
-	</ChTab>
-	<ChTab title="哭泣">
-		<Ch src='/images/characters/special809/sad.webp' position='center'/>
-		<ChName nameZh='哭泣' nameEn='Cry' position='right' />
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
 
 > 「武林盟那那那群傢伙，一定想不到我們會從城鎮夾夾夾，夾夾～夾 ── 他媽的！」
 
@@ -76,6 +87,8 @@ aside: false
 <br>
 
 講話口吃，其實人不算笨。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
