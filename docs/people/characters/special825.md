@@ -11,29 +11,14 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="夏靈犀">
-		<Ch src='/images/characters/special825/normal.webp' position='right'/>
-		<ChName nameZh='夏靈犀' nameEn='Xia Ling Xi' position='right' />
-		<ChTable>
-			<ChTr>
-				<ChTd isTitle=true>
-					性別
-				</ChTd>
-				<ChTd>
-					女
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd isTitle=true position='center'>
-					關係
-				</ChTd>
-			</ChTr>
-			<ChTr>
-				<ChTd position='center'>
-					[[瑞笙]] (郎君)
-				</ChTd>
-			</ChTr>
-		</ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special825/normal.webp'
+			nameTitle=''
+			nameMain='夏靈犀'
+			desc='瑞笙的紅顏知己之一，苗疆巫靈教聖女。還在娘親腹中便被族中巫婆指作蛟龍妻。瑞笙與三五好友入苗疆，闖越五仙陣，揮劍斬大蛇，揭穿金蟾娘子和銀蛇公子的陰謀，喜聞樂見的英雄救美。'
+			:animation=true
+		/>
 	</ChTab>
 	<ChTab title="汗顏">
 		<Ch src='/images/characters/special825/nervous1.webp' position='center'/>
@@ -60,10 +45,39 @@ aside: false
 		<ChName nameZh='陰笑' nameEn='Sinister Smile' position='right' />
 	</ChTab>
 </ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
+			<ChTr>
+				<ChTd isTitle=true>
+					性別
+				</ChTd>
+				<ChTd>
+					女
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd isTitle=true position='center'>
+					關係
+				</ChTd>
+			</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[[瑞笙]] (郎君)
+				</ChTd>
+			</ChTr>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 瑞笙的紅顏知己之一，苗疆巫靈教聖女。  
 還在娘親腹中便被族中巫婆指作蛟龍妻。[[瑞笙]]與三五好友入苗疆，闖越五仙陣，揮劍斬大蛇，揭穿金蟾娘子和銀蛇公子的陰謀，喜聞樂見的英雄救美。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
