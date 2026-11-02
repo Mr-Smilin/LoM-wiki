@@ -2618,6 +2618,7 @@ tags:
           <li>
             隨後觸發<MarkdownWrapper>[鎮魂獄羈押](/event/simple/2-03-3-鎮魂獄羈押)</MarkdownWrapper>，
             進行至<MarkdownWrapper>[小梅更衣](/event/simple/2-03-3-鎮魂獄羈押#小梅更衣)</MarkdownWrapper>時，
+            道德＜40，且性情≥60，<br>
             選擇👉「聽話讓我看看」，再擲骰到【🎲≥50 看到了一點】。
           </li>
         </td>
