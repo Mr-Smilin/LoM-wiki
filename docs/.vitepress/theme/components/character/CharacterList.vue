@@ -40,7 +40,7 @@
             :key="tag.query"
             type="button"
             class="ch-list-tag"
-            :aria-pressed="String(terms.includes(tag.query))"
+            :aria-pressed="String(activeTags.includes(tag.query))"
             @click="toggleTag(tag.query)"
           >{{ tag.text }}</button>
         </div>
@@ -48,7 +48,7 @@
     </div>
 
     <div class="ch-list-bar">
-      <span class="ch-list-count">{{ terms.length ? t.found(shownRows.length) : t.total(rows.length) }}</span>
+      <span class="ch-list-count">{{ hasFilter ? t.found(shownRows.length) : t.total(rows.length) }}</span>
       <div class="ch-list-view" role="group" :aria-label="t.view">
         <button type="button" :aria-pressed="String(view === 'card')" @click="setView('card')">{{ t.card }}</button>
         <button type="button" :aria-pressed="String(view === 'table')" @click="setView('table')">{{ t.table }}</button>
@@ -64,13 +64,11 @@
         :href="row.href || undefined"
         :title="row.name"
       >
-        <span class="ch-list-pic">
-          <img v-if="row.avatar" :src="row.avatar" alt="" loading="lazy" decoding="async" />
-          <svg v-else class="ch-list-noav" viewBox="0 0 75 100" aria-hidden="true">
-            <circle cx="37.5" cy="34" r="17" />
-            <path d="M4 100c0-27 14.5-44 33.5-44S71 73 71 100z" />
-          </svg>
-        </span>
+        <img v-if="row.avatar" class="ch-list-pic" :src="row.avatar" alt="" loading="lazy" decoding="async" />
+        <svg v-else class="ch-list-pic ch-list-noav" viewBox="0 0 75 100" aria-hidden="true">
+          <circle cx="37.5" cy="34" r="17" />
+          <path d="M4 100c0-27 14.5-44 33.5-44S71 73 71 100z" />
+        </svg>
         <span class="ch-list-name">{{ row.name }}</span>
       </component>
     </div>
@@ -89,16 +87,23 @@
       <tbody>
         <tr v-for="row in shownRows" :key="row.id">
           <td class="ch-list-avcol">
-            <span class="ch-list-face">
+            <component
+              :is="row.href ? 'a' : 'span'"
+              class="ch-list-face"
+              :href="row.href || undefined"
+              tabindex="-1"
+              aria-hidden="true"
+            >
               <img v-if="row.avatar" :src="row.avatar" alt="" loading="lazy" decoding="async" />
               <svg v-else class="ch-list-noav" viewBox="0 0 100 100" aria-hidden="true">
                 <circle cx="50" cy="44" r="22" />
                 <path d="M10 100c0-20 18-31 40-31s40 11 40 31z" />
               </svg>
-            </span>
+            </component>
           </td>
           <td>
             <WikiLink v-if="row.link" :text="row.link" />
+            <a v-else-if="row.href" :href="row.href">{{ row.name }}</a>
             <template v-else>{{ row.name }}</template>
             <template v-if="row.alias"><br /><span class="ch-list-alias">{{ row.alias }}</span></template>
           </td>
@@ -126,14 +131,27 @@ const props = defineProps({
 
 const slots = useSlots()
 const { localeIndex } = useData()
-const hans = computed(() => localeIndex.value === 'zh-hans')
 
 // 元件自己的字跟著語系（簡中頁是建置時從繁中轉的，元件裡的字不會被轉到）
-const t = computed(() => hans.value
-  ? { placeholder: '搜索名字或阵营', factions: '阵营', view: '显示方式', card: '图案', table: '列表',
-      total: n => `共 ${n} 人`, found: n => `找到 ${n} 人`, empty: '找不到符合的人物。' }
-  : { placeholder: '搜尋名字或陣營', factions: '陣營', view: '顯示方式', card: '圖案', table: '列表',
-      total: n => `共 ${n} 人`, found: n => `找到 ${n} 人`, empty: '找不到符合的人物。' })
+const TEXTS = {
+  root: {
+    placeholder: '搜尋名字或陣營', factions: '陣營', view: '顯示方式', card: '圖案', table: '列表',
+    total: n => `共 ${n} 人`, found: n => `找到 ${n} 人`, empty: '找不到符合的人物。'
+  },
+  'zh-hans': {
+    placeholder: '搜索名字或阵营', factions: '阵营', view: '显示方式', card: '图案', table: '列表',
+    total: n => `共 ${n} 人`, found: n => `找到 ${n} 人`, empty: '找不到符合的人物。'
+  },
+  en: {
+    placeholder: 'Search name or affiliation', factions: 'Affiliation', view: 'View', card: 'Cards', table: 'List',
+    total: n => `${n} characters`, found: n => `${n} found`, empty: 'No matching characters.'
+  },
+  ja: {
+    placeholder: '名前や所属で検索', factions: '所属', view: '表示方式', card: 'カード', table: 'リスト',
+    total: n => `全 ${n} 人`, found: n => `該当 ${n} 人`, empty: '該当する人物が見つかりません。'
+  }
+}
+const t = computed(() => TEXTS[localeIndex.value] || TEXTS.root)
 
 const headers = ref([])
 const rows = shallowRef([])
@@ -177,22 +195,30 @@ function parseRow(cells, id) {
   const factionLines = lines(toText(cells[1]?.children))
   const avatar = toText(cells[2]?.children).trim()
   // [[頁面]] 或 [[頁面|顯示文字]]
-  const m = nameLine.match(/\[\[([^\]]+)\]\]/)
-  const link = m ? m[1] : ''
+  const wiki = nameLine.match(/\[\[([^\]]+)\]\]/)
+  const md = wiki ? null : nameLine.match(/\[([^\]]*)\]\(([^)\s]+)\)/)
+  const link = wiki ? wiki[1] : ''
   const [page, shown] = link.split('|')
-  const name = stripMarkdown(shown || page || nameLine)
+  const name = stripMarkdown(md ? md[1] : (shown || page || nameLine))
   const alias = aliasLines.join(' ')
   return {
     id,
     name,
     alias,
     link,
-    href: link ? pageHref(page.split('#')[0]) : '',
+    href: link ? pageHref(page.split('#')[0]) : (md ? mdHref(md[2]) : ''),
     factionLines,
     factions: factionLines.join(' '),
+    factionTags: factionLines.flatMap(line => line.split(' - ').map(s => s.trim())),
     avatar: avatar ? withBase(avatar) : '',
     haystack: stripMarkdown([name, alias, ...factionLines].join(' ')).toLowerCase()
   }
+}
+
+function mdHref(href) {
+  if (/^(?:[a-z]+:|\/\/)/i.test(href)) return href
+  const [path, hash] = href.split('#')
+  return withBase(/\.\w+$/.test(path) ? path : `${path}.html`) + (hash ? `#${hash}` : '')
 }
 
 // 跟 WikiLink 同一套：先找目前語系的頁，沒有就退回繁中
@@ -206,6 +232,7 @@ function pageHref(page) {
 
 //#region 搜尋：空格分隔，符合任一個詞就列出
 const terms = computed(() => query.value.split(/\s+/).filter(Boolean))
+const activeTags = ref([])
 
 // 按鈕可以只寫一個詞，也可以寫 { text, query }（顯示的字與搜的詞不同）
 const tagGroups = computed(() => props.groups.map(group => ({
@@ -216,17 +243,18 @@ const tagGroups = computed(() => props.groups.map(group => ({
 })))
 
 function toggleTag(tag) {
-  const list = [...terms.value]
-  const at = list.indexOf(tag)
-  if (at < 0) list.push(tag)
-  else list.splice(at, 1)
-  query.value = list.join(' ')
+  const at = activeTags.value.indexOf(tag)
+  if (at < 0) activeTags.value.push(tag)
+  else activeTags.value.splice(at, 1)
 }
 
+const hasFilter = computed(() => terms.value.length > 0 || activeTags.value.length > 0)
+
 const filteredRows = computed(() => {
+  if (!hasFilter.value) return rows.value
   const words = terms.value.map(w => w.toLowerCase())
-  if (!words.length) return rows.value
-  return rows.value.filter(row => words.some(w => row.haystack.includes(w)))
+  return rows.value.filter(row => words.some(w => row.haystack.includes(w))
+    || activeTags.value.some(tag => row.factionTags.includes(tag)))
 })
 //#endregion
 
@@ -234,7 +262,13 @@ const filteredRows = computed(() => {
 const sortKey = ref('')
 const sortOrder = ref('asc')
 // 繁中照筆畫、簡中照拼音
-const collator = computed(() => new Intl.Collator(hans.value ? 'zh-Hans-CN-u-co-pinyin' : 'zh-Hant-TW-u-co-stroke', { numeric: true }))
+const COLLATOR_LOCALES = {
+  root: 'zh-Hant-TW-u-co-stroke',
+  'zh-hans': 'zh-Hans-CN-u-co-pinyin',
+  en: 'en',
+  ja: 'ja'
+}
+const collator = computed(() => new Intl.Collator(COLLATOR_LOCALES[localeIndex.value] || COLLATOR_LOCALES.root, { numeric: true }))
 
 function toggleSort(key) {
   if (sortKey.value !== key) {
@@ -422,18 +456,12 @@ function restoreView() {
 
 .ch-list-pic {
   display: block;
+  width: 100%;
   aspect-ratio: 3 / 4;
-  overflow: hidden;
+  object-fit: cover;
   border-radius: 8px;
   background-color: var(--vp-c-bg-soft);
   transition: transform 0.15s, box-shadow 0.15s;
-}
-
-.ch-list-pic img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
 }
 
 .ch-list-name {
@@ -457,10 +485,13 @@ a.ch-list-card:hover .ch-list-name {
 }
 
 .ch-list-noav {
+  fill: var(--vp-c-text-3);
+}
+
+.ch-list-face .ch-list-noav {
   display: block;
   width: 100%;
   height: 100%;
-  fill: var(--vp-c-text-3);
 }
 
 /* 列表：表頭黏在導覽列下面（手機導覽列會捲走，黏在最上面） */
