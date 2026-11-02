@@ -111,7 +111,7 @@ onUnmounted(() => window.removeEventListener("hashchange", openFromHash));
 .forge .forge-tree,
 .forge .forge-ul { list-style: none; margin: 0; padding-left: var(--forge-indent); }
 .forge .forge-tree { padding-left: 0; }
-.forge .forge-li { position: relative; margin: 6px 0; padding: 0; }
+.forge .forge-li { position: relative; margin: 6px 0; padding: 0; --forge-card: var(--vp-c-text-3); /* 特殊取得沒有階層：灰色，其餘樣式同開發樹 */ }
 
 /* 連接線：子節點左側的 L 形，終點在卡片垂直中線 */
 .forge .forge-ul > .forge-li::before {
@@ -143,8 +143,8 @@ onUnmounted(() => window.removeEventListener("hashchange", openFromHash));
   background: var(--vp-c-bg-soft); color: var(--vp-c-text-1);
   cursor: pointer; list-style: none;
 }
-/* 卡片底色依階層（特殊取得的卡片沒有階層，維持灰底） */
-.forge .forge-li[class*="forge-lvl-"] > .forge-node > summary {
+/* 卡片底色依階層（特殊取得沒有階層，用 .forge-li 預設的灰色） */
+.forge .forge-li > .forge-node > summary {
   background: color-mix(in srgb, var(--forge-card) 22%, var(--vp-c-bg-soft));
   border-color: color-mix(in srgb, var(--forge-card) 55%, transparent);
 }

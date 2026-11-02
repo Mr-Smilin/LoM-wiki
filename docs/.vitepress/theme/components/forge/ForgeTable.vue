@@ -106,13 +106,13 @@ if (import.meta.env.DEV) {
 }
 /* 手機上左右滑時，素質名稱固定在左邊 */
 .forge .forge-sticky { position: sticky; left: 0; z-index: 1; background: var(--vp-c-bg-soft); }
-/* 表格跟卡片同階同色（--forge-card 由 ForgeRoot 依階層設定；特殊取得沒有階層，維持灰色） */
-.forge .forge-li[class*="forge-lvl-"] > .forge-node > .forge-body {
+/* 表格跟卡片同階同色（--forge-card 由 ForgeRoot 依階層設定；特殊取得用預設灰色） */
+.forge .forge-li > .forge-node > .forge-body {
   padding: 8px; border: 1px solid color-mix(in srgb, var(--forge-card) 55%, transparent); border-radius: 8px;
 }
-.forge .forge-li[class*="forge-lvl-"] > .forge-node > .forge-body thead th,
-.forge .forge-li[class*="forge-lvl-"] > .forge-node > .forge-body .forge-sticky,
-.forge .forge-li[class*="forge-lvl-"] > .forge-node > .forge-body tbody th {
+.forge .forge-li > .forge-node > .forge-body thead th,
+.forge .forge-li > .forge-node > .forge-body .forge-sticky,
+.forge .forge-li > .forge-node > .forge-body tbody th {
   background: color-mix(in srgb, var(--forge-card) 22%, var(--vp-c-bg-soft));
 }
 .forge .forge-pre { white-space: pre-line !important; text-align: left !important; }
