@@ -9,10 +9,41 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="石公遠">
-		<Ch src='/images/characters/special7/normal.webp' position='right'/>
-		<ChName nameZh='石公遠' nameEn='Shi Gong Yuan' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special7/normal.webp'
+			nameTitle='飛石幫主'
+			nameMain='石公遠'
+			desc='飛石幫主，形貌剽悍的豪傑。<br>起初是落草於茂州的土匪，成親後金盆洗手，不再滋擾民生，轉而租賃人力包攬粗活，飛石幫名聲漸響，隱然能與三大幫派分庭抗禮。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch src='/images/characters/special7/laugh1.webp' position='center'/>
+		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special7/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚嚇">
+		<Ch src='/images/characters/special7/nervous2.webp' position='center'/>
+		<ChName nameZh='驚嚇' nameEn='Shock' position='right' />
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch src='/images/characters/special7/nervous3.webp' position='center'/>
+		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special7/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -39,29 +70,10 @@ aside: false
 					[[石夫人]] (妻子)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-	<ChTab title="大笑">
-		<Ch src='/images/characters/special7/laugh1.webp' position='center'/>
-		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
-	</ChTab>
-	<ChTab title="汗顏">
-		<Ch src='/images/characters/special7/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
-	</ChTab>
-	<ChTab title="驚嚇">
-		<Ch src='/images/characters/special7/nervous2.webp' position='center'/>
-		<ChName nameZh='驚嚇' nameEn='Shock' position='right' />
-	</ChTab>
-	<ChTab title="尷尬">
-		<Ch src='/images/characters/special7/nervous3.webp' position='center'/>
-		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
-	</ChTab>
-	<ChTab title="重傷">
-		<Ch src='/images/characters/special7/hurt.webp' position='center'/>
-		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br>
 
 飛石幫主，形貌剽悍的豪傑，妻管嚴。
@@ -69,6 +81,10 @@ aside: false
 <br>
 
 起初是落草於茂州的土匪，成親後金盆洗手，不再滋擾民生，轉而租賃人力包攬粗活，飛石幫名聲漸響，隱然能與三大幫派分庭抗禮。
+
+<div style="clear:both;"></div>
+
+## 列傳
 
 <Tabs>
   <Tab title="列傳一">
