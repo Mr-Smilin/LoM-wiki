@@ -9,12 +9,57 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="唐中翎">
+    <ChTab title="初識">
+        <ChMeet
+            src='/images/characters/master/normal.webp'
+            nameTitle='唐門掌門'
+            nameMain='唐中翎'
+            desc='本名唐中翎，當任唐門掌門人。<br>性情剛烈，嫉惡如仇，曾列名武林十大高手的傳奇人物，可惜中年過後，身體已然大不如前，飛燕流星翎成為絕響。'
+            :animation=true
+        />
+    </ChTab>
+    <ChTab title="微笑">
         <Ch
-            src='/images/characters/master/normal.webp' 
-            position='right'/>
-        <ChName nameZh='唐中翎' nameEn='Tang Zhong Ling' position='right' />
-        <ChTable>
+            src='/images/characters/master/laugh1.webp' 
+            position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch
+            src='/images/characters/master/nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="不悅">
+        <Ch
+            src='/images/characters/master/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='不悅' nameEn='Displeased' position='right' />
+    </ChTab>
+    <ChTab title="震怒">
+        <Ch
+            src='/images/characters/master/angry2.webp' 
+            position='center'/>
+        <ChName nameZh='震怒' nameEn='Furious' position='right' />
+    </ChTab>
+    <ChTab title="悲傷">
+        <Ch
+            src='/images/characters/master/sad1.webp' 
+            position='center'/>
+        <ChName nameZh='悲傷' nameEn='Sad' position='right' />
+    </ChTab>
+    <ChTab title="重傷">
+        <Ch
+            src='/images/characters/master/hurt.webp' 
+            position='center'/>
+        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+    </ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+    <Info title='角色資料' :open=true>
+        <table>
             <ChTr>
                 <ChTd isTitle=true>
                     性別
@@ -71,45 +116,9 @@ aside: false
                     [[趙活]] (外姓弟子)
                 </ChTd>
             </ChTr>
-        </ChTable>
-    </ChTab>
-    <ChTab title="微笑">
-        <Ch
-            src='/images/characters/master/laugh1.webp' 
-            position='center'/>
-        <ChName nameZh='微笑' nameEn='Smile' position='right' />
-    </ChTab>
-    <ChTab title="汗顏">
-        <Ch
-            src='/images/characters/master/nervous1.webp' 
-            position='center'/>
-        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
-    </ChTab>
-    <ChTab title="不悅">
-        <Ch
-            src='/images/characters/master/angry1.webp' 
-            position='center'/>
-        <ChName nameZh='不悅' nameEn='Displeased' position='right' />
-    </ChTab>
-    <ChTab title="震怒">
-        <Ch
-            src='/images/characters/master/angry2.webp' 
-            position='center'/>
-        <ChName nameZh='震怒' nameEn='Furious' position='right' />
-    </ChTab>
-    <ChTab title="悲傷">
-        <Ch
-            src='/images/characters/master/sad1.webp' 
-            position='center'/>
-        <ChName nameZh='悲傷' nameEn='Sad' position='right' />
-    </ChTab>
-    <ChTab title="重傷">
-        <Ch
-            src='/images/characters/master/hurt.webp' 
-            position='center'/>
-        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
-    </ChTab>
-</ChTabs>
+        </table>
+    </Info>
+</InfoList>
 
 > 「何必成為龍淵？你能成為任何人。」
 
@@ -118,6 +127,8 @@ aside: false
 性情剛烈，嫉惡如仇，曾列名武林十大高手的傳奇人物，可惜中年過後，身體已然大不如前，飛燕流星翎成為絕響。
 <br><br>
 於[極樂教一役](/event/stories/決戰極樂教)，不惜吞服毒藥強行催谷功力，以飛燕流星翎誅殺右護法，只是從此落下病根。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
