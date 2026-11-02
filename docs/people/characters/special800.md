@@ -9,10 +9,41 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="宋悲">
-		<Ch src='/images/characters/special800/normal.webp' position='right'/>
-		<ChName nameZh='宋悲' nameEn='Song Bei' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special800/normal.webp'
+			nameTitle=''
+			nameMain='宋悲'
+			desc='大宋神捕，御賜銀魚袋、御前帶刀。<br>天下捕役總指揮使，可以越州拿緝人犯。<br>行於江湖之間，算是半個武林人。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special800/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special800/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch src='/images/characters/special800/nervous3.webp' position='center'/>
+		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special800/angry2.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="兔美臉">
+		<Ch src='/images/characters/special800/special.webp' position='center'/>
+		<ChName nameZh='兔美臉' nameEn='Usami Face' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -39,34 +70,17 @@ aside: false
 					[[丹霞子]] (戰友)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-	<ChTab title="微笑">
-		<Ch src='/images/characters/special800/laugh1.webp' position='center'/>
-		<ChName nameZh='微笑' nameEn='Smile' position='right' />
-	</ChTab>
-	<ChTab title="汗顏">
-		<Ch src='/images/characters/special800/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
-	</ChTab>
-	<ChTab title="尷尬">
-		<Ch src='/images/characters/special800/nervous3.webp' position='center'/>
-		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
-	</ChTab>
-	<ChTab title="生氣">
-		<Ch src='/images/characters/special800/angry2.webp' position='center'/>
-		<ChName nameZh='生氣' nameEn='Angry' position='right' />
-	</ChTab>
-	<ChTab title="兔美臉">
-		<Ch src='/images/characters/special800/special.webp' position='center'/>
-		<ChName nameZh='兔美臉' nameEn='Usami Face' position='right' />
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 大宋神捕，御賜銀魚袋、御前帶刀。  
 天下捕役總指揮使，可以越州拿緝人犯。  
 行於江湖之間，算是半個武林人。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
