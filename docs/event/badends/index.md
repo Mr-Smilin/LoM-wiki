@@ -2644,7 +2644,7 @@ tags:
                 點選鶴崖指令，且未觸發特殊事件。
             </li>
             <li>
-                觸發「向火閃電討教」後，對決落敗。
+                觸發<MarkdownWrapper>[「向火閃電討教」](/event/simple/2-03-3-向火閃電討教)</MarkdownWrapper>後，對決落敗。
             </li>
         </td>
         <td>-</td>
