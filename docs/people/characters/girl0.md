@@ -15,7 +15,7 @@ aside: false
 			src='/images/characters/girl_0/normal.webp' 
 			nameTitle='小師妹'
 			nameMain='唐默鈴'
-			desc='芳名默鈴，唐門掌門獨生愛女，宛如森林小動物般的少女，性情淡漠，身繫七串從來不響的鈴噹。<br>興趣是摺紙。'
+			desc='芳名默鈴，掌門獨生愛女，宛如森林小動物般的少女，性情淡漠，身繫七串從來不響的鈴鐺。<br>興趣是摺紙。'
 			:animation=true
 		/>
     </ChTab>

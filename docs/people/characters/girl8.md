@@ -15,7 +15,7 @@ borderless: false
 		<ChMeet 
 			src='/images/characters/girl_8/normal.webp' 
 			nameMain='龍湘'
-			desc='師承錦香宮，劍法精絕的清麗佳人。<br>踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。'
+			desc='師承錦香宮，劍法精絕的清麗佳人。<br>踏著父親從前的足跡踽踽前行，嚮往能夠承其父志，行俠四方。雖然如此，由於不諳世事，意外地容易受騙上當。'
 			:animation=true
 		/>
 	</ChTab>

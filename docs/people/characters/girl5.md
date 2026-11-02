@@ -15,7 +15,7 @@ aside: false
 	<ChTab title="初識">
 		<ChMeet 
 			src='/images/characters/girl_5/normal.webp' 
-			nameTitle='奪魂幽蘭'
+			nameTitle='奪魄幽蘭'
 			nameMain='夏侯蘭'
 			desc='崆峒派‧奪魄門當代的嫡傳女弟子，江湖人稱奪魄幽蘭，惡名昭彰的女魔頭，行事作風狠辣乖戾，幽居在不見天日的奪魄森林中，生人勿近。'
 			:animation=true
