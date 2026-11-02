@@ -60,6 +60,10 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="舊版立繪">
+		<Ch src='/images/characters/trainee204/old_normal.webp' position='center'/>
+		<ChName nameZh='舊版立繪' nameEn='Old Portrait' position='right' />
+	</ChTab>
 	<ChTab title="汗顏">
 		<Ch src='/images/characters/trainee204/nervous1.webp' position='center'/>
 		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />

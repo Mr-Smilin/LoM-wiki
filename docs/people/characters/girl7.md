@@ -24,6 +24,14 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
+	<ChTab title="舊版立繪">
+		<Ch 
+			src='/images/characters/girl_7/old_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='舊版立繪'
+			nameEn='Old Portrait'/>
+	</ChTab>
 	<ChTab title="不悅">
 		<Ch 
 			src='/images/characters/girl_7/angry1.webp' 

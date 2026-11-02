@@ -134,6 +134,14 @@ aside: false
 			nameZh='很生氣'
 			nameEn='Very Angry'/>
 	</ChTab>
+	<ChTab title="很生氣(舊)">
+		<Ch 
+			src='/images/characters/girl_3/old_angry2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='很生氣(舊)'
+			nameEn='Very Angry (Old)'/>
+	</ChTab>
 	<ChTab title="殺掉">
 		<Ch 
 			src='/images/characters/girl_3/angry3.webp' 
