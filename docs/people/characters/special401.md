@@ -9,10 +9,45 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="王二壯">
-		<Ch src='/images/characters/special401/normal.webp' position='right'/>
-		<ChName nameZh='王二壯' nameEn='Wang Er Zhuang' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special401/normal.webp'
+			nameTitle=''
+			nameMain='王二壯'
+			desc='天下第一大幫，丐幫的幫主。<br>一就任即雷厲風行，提拔新派弟子，架空舊派長老，以俠義精神誆騙幫中子弟重拾尊嚴，令他們相信當乞丐是種選擇。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special401/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch src='/images/characters/special401/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special401/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="尷尬">
+		<Ch src='/images/characters/special401/nervous3.webp' position='center'/>
+		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special401/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="重傷(笑)">
+		<Ch src='/images/characters/special401/hurt2.webp' position='center'/>
+		<ChName nameZh='重傷(笑)' nameEn='Severely Injured (Smile)' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -67,37 +102,16 @@ aside: false
 					[[上官隼]] (舊友)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-	<ChTab title="微笑">
-		<Ch src='/images/characters/special401/laugh1.webp' position='center'/>
-		<ChName nameZh='微笑' nameEn='Smile' position='right' />
-	</ChTab>
-	<ChTab title="大笑">
-		<Ch src='/images/characters/special401/laugh2.webp' position='center'/>
-		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
-	</ChTab>
-	<ChTab title="汗顏">
-		<Ch src='/images/characters/special401/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
-	</ChTab>
-	<ChTab title="尷尬">
-		<Ch src='/images/characters/special401/nervous3.webp' position='center'/>
-		<ChName nameZh='尷尬' nameEn='Awkward' position='right' />
-	</ChTab>
-	<ChTab title="重傷">
-		<Ch src='/images/characters/special401/hurt.webp' position='center'/>
-		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
-	</ChTab>
-	<ChTab title="重傷(笑)">
-		<Ch src='/images/characters/special401/hurt2.webp' position='center'/>
-		<ChName nameZh='重傷(笑)' nameEn='Severely Injured (Smile)' position='right' />
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 天下第一大幫，丐幫的幫主。  
 一就任即雷厲風行，提拔新派弟子，架空舊派長老，以俠義精神誆騙幫中子弟重拾尊嚴，令他們相信當乞丐是種選擇。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
