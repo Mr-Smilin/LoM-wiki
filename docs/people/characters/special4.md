@@ -9,10 +9,45 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="樊嘯天">
-		<Ch src='/images/characters/special4/normal.webp' position='right'/>
-		<ChName nameZh='樊嘯天' nameEn='Fan Xiao Tian' position='right' />
-		<ChTable>
+	<ChTab title="初識">
+		<ChMeet
+			src='/images/characters/special4/normal.webp'
+			nameTitle='狂犬'
+			nameMain='樊嘯天'
+			desc='來自丐幫的江湖後起新秀。<br>人稱「狂犬」，莫欺他個頭矮小，但凡動起手來就是拼命，不僅外人怕他，就連丐幫中人亦不敢隨意招惹這瘋狂小子。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="大笑">
+		<Ch src='/images/characters/special4/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="汗顏">
+		<Ch src='/images/characters/special4/nervous1.webp' position='center'/>
+		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="驚慌">
+		<Ch src='/images/characters/special4/nervous2.webp' position='center'/>
+		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="生氣">
+		<Ch src='/images/characters/special4/angry1.webp' position='center'/>
+		<ChName nameZh='生氣' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="哭泣">
+		<Ch src='/images/characters/special4/sad.webp' position='center'/>
+		<ChName nameZh='哭泣' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special4/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='角色資料' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -49,33 +84,10 @@ aside: false
 					[[阿叔]] (照料者)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-	<ChTab title="大笑">
-		<Ch src='/images/characters/special4/laugh2.webp' position='center'/>
-		<ChName nameZh='大笑' nameEn='Laugh' position='right' />
-	</ChTab>
-	<ChTab title="汗顏">
-		<Ch src='/images/characters/special4/nervous1.webp' position='center'/>
-		<ChName nameZh='汗顏' nameEn='Sweating' position='right' />
-	</ChTab>
-	<ChTab title="驚慌">
-		<Ch src='/images/characters/special4/nervous2.webp' position='center'/>
-		<ChName nameZh='驚慌' nameEn='Panic' position='right' />
-	</ChTab>
-	<ChTab title="生氣">
-		<Ch src='/images/characters/special4/angry1.webp' position='center'/>
-		<ChName nameZh='生氣' nameEn='Angry' position='right' />
-	</ChTab>
-	<ChTab title="哭泣">
-		<Ch src='/images/characters/special4/sad.webp' position='center'/>
-		<ChName nameZh='哭泣' nameEn='Cry' position='right' />
-	</ChTab>
-	<ChTab title="重傷">
-		<Ch src='/images/characters/special4/hurt.webp' position='center'/>
-		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 來自[[丐幫]]的江湖後起新秀，在大義分舵管狗。
@@ -83,6 +95,8 @@ aside: false
 <br>
 
 人稱「狂犬」，莫欺他個頭矮小，但凡動起手來就是拼命，不僅外人怕他，就連丐幫中人亦不敢隨意招惹這瘋狂小子。
+
+<div style="clear:both;"></div>
 
 ## 列傳
 
