@@ -80,7 +80,7 @@ tags:
 	<td>/images/avatars/aunt2.webp</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[[唐嬌嬌]]</MarkdownWrapper><br>(狄傲)</td>
+	<td><MarkdownWrapper>[[唐嬌嬌]]</MarkdownWrapper><br>狄傲</td>
 	<td>峨嵋派<br>蜀中唐門</td>
 	<td>/images/avatars/big_trainee_girl_1.webp</td>
 </tr>
@@ -230,7 +230,7 @@ tags:
 	<td>/images/avatars/trainee204.webp</td>
 </tr>
 <tr>
-	<td>[[孔鵲]]</td>
+	<td><MarkdownWrapper>[[孔鵲|顏嫂]]</MarkdownWrapper><br>孔鵲</td>
 	<td>崆峒派 - 飛天門</td>
 	<td>/images/avatars/trainee431.webp</td>
 </tr>
