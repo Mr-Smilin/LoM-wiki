@@ -2760,7 +2760,14 @@ tags:
             於是你個路人倒楣鬼就此犧牲了性命。
         </td>
         <td>-</td>
-        <td>-</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
+            <li>🚩造訪鐵拳巷次數≥4</li>
+            <li><Girl6Icon>郁竹</Girl6Icon>好感≥20</li>
+            <li>🚩<MarkdownWrapper>[神兵帖進度](/event/simple/2-05-3-神兵帖系列事件)</MarkdownWrapper>=0</li>
+            <li>第二年五月下旬至六月中旬間，點選「鐵拳巷」指令觸發<MarkdownWrapper>[「神兵會請帖」](/event/simple/2-05-3-神兵會請帖)</MarkdownWrapper>事件</li>
+            <li>事件中，觸發🆚「戰鐵匠」後對決落敗</li>
+        </td>
         <td>-</td>
     </tr>
     <tr>
