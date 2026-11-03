@@ -278,6 +278,14 @@ aside: false
 			nameZh='扮大師兄'
 			nameEn='Disguised as Senior Brother'/>
 	</ChTab>
+	<ChTab title="扮大師兄(受傷)">
+		<Ch 
+			src='/images/characters/girl_3/brother1_hurt.webp' 
+			position='center'/>
+		<ChName
+			nameZh='扮大師兄(受傷)'
+			nameEn='Disguised as Senior Brother (Injured)'/>
+	</ChTab>
 	<ChTab title="入魔">
 		<Ch 
 			src='/images/characters/girl_3/berserk_normal.webp' 
