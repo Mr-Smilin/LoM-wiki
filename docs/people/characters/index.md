@@ -70,6 +70,11 @@ tags:
 	<td>/images/avatars/girl0.webp</td>
 </tr>
 <tr>
+	<td>[[唐芬]]</td>
+	<td>蜀中唐門</td>
+	<td></td>
+</tr>
+<tr>
 	<td>[[唐芳]]</td>
 	<td>蜀中唐門</td>
 	<td>/images/avatars/special832.webp</td>
