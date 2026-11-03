@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
     <ChTab title="米欧寛">
         <Ch src='/images/characters/lingnan_trainee/trainee3_normal.webp' position='right'/>
-        <ChName nameZh='米歐寬' nameEn='Mi O Kuan' position='right' />
+        <ChName nameZh='米欧寛' nameEn='Mi O Kuan' position='right' />
         <ChTable>
             <ChTr>
                 <ChTd isTitle=true>
@@ -56,9 +56,17 @@ tags:
             </ChTr>
         </ChTable>
     </ChTab>
+    <ChTab title="恍惚">
+        <Ch src='/images/characters/lingnan_trainee/trainee3_special1.webp' position='center'/>
+        <ChName nameZh='恍惚' nameEn='Ecstasy' position='right' />
+    </ChTab>
+    <ChTab title="負傷">
+        <Ch src='/images/characters/lingnan_trainee/trainee3_hurt.webp' position='center'/>
+        <ChName nameZh='負傷' nameEn='Injured' position='right' />
+    </ChTab>
 </ChTabs>
 
-> 「おお……おおお……成功した……誹謗に成功した。気持ちいい……!著名な蒼松剣客も、我が一張りの口で軽々と操られてしまい、我は責任も負わない。これが言葉の力だ!」
+> 「お……おお……やった……流言をまんまと信じ込ませたよぉ、超気持ちいい……！名高い蒼松剣客も、アタイの口一つで思いのまま。しかも責任すら取らなくていい、これが言葉の力だよ！」
 
 [嶺南派](/ja/people/factions/lingnan-sect)弟子。嶺南四醜の一人。
 

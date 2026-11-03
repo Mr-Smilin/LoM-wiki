@@ -9,10 +9,69 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="葉雲舟">
-		<Ch src='/images/characters/special3/normal.webp' position='right'/>
-		<ChName nameZh='葉雲舟' nameEn='Ye Yun Zhou' position='right' />
-		<ChTable>
+	<ChTab title="初対面">
+		<ChMeet
+			src='/images/characters/special3/normal.webp'
+			nameTitle='蒼松剣客'
+			nameMain='葉雲舟'
+			desc='<ruby>点蒼<rt>てんそう</rt></ruby>派の服を纏った若き剣客。<br>どこかでこの名を聞いた気がするが、思い出せない。なぜ笠で顔を隠すのか分からないが、その容貌は端正で、盗賊には見えない。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special3/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special3/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special3/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch src='/images/characters/special3/nervous3.webp' position='center'/>
+		<ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="不機嫌">
+		<Ch src='/images/characters/special3/angry1.webp' position='center'/>
+		<ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special3/angry2.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="泣き">
+		<Ch src='/images/characters/special3/sad1.webp' position='center'/>
+		<ChName nameZh='泣き' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special3/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="やつれ">
+		<Ch src='/images/characters/special3/drawn.webp' position='center'/>
+		<ChName nameZh='やつれ' nameEn='Haggard' position='right' />
+	</ChTab>
+	<ChTab title="剣鬼">
+		<Ch src='/images/characters/special3/crazy.webp' position='center'/>
+		<ChName nameZh='剣鬼' nameEn='Sword Fiend' position='right' />
+	</ChTab>
+	<ChTab title="笠">
+		<Ch src='/images/characters/special3/special1.webp' position='center'/>
+		<ChName nameZh='笠' nameEn='Bamboo Hat' position='right' />
+	</ChTab>
+	<ChTab title="褐衣">
+		<Ch src='/images/characters/special3/brown_normal-2.webp' position='center'/>
+		<ChName nameZh='褐衣' nameEn='Brown Robe' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -51,7 +110,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[段智秀](/ja/people/characters/special833) (仇人)
+					[段智秀](/ja/people/characters/special833) (仇敵)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -59,9 +118,10 @@ aside: false
 					[李元棄](/ja/people/characters/special213) (叔父)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 [点蒼派](/ja/people/factions/dian-cang-sect)第一快剣手。今日武林で最も名声高い若き侠客の一人。近年江湖快報に載ることが多い。
@@ -78,6 +138,8 @@ aside: false
 
 妹への溺愛は並々ならず。懲らしめるべき時も手を緩めず。
 <br clear="all">
+
+<div style="clear:both;"></div>
 
 ## 列伝
 
@@ -162,13 +224,13 @@ aside: false
 -   一剣で[段智秀](/ja/people/characters/special833)の右手を廃して、剣を使うことができなくしてしまった。
 -   葉雲舟が西武林で点蒼の双尊を牽制している時、[段智秀](/ja/people/characters/special833)が現場にいれば前に駆けつけて助力し、双尊にひどい連携だとツッコまれる。その後葉雲舟は彼に去ることを許し、二人は和解しなかった。
 
-## 欠銭
+## 借金
 
--   [趙活](/ja/people/characters/player)に借金しながら友人に代わりに返させることに申し訳なさを覚えないが、しかし始終他の形式で静かに恩返しをしている。[^1]
--   上記に続いて、彼は返すだろう。彼は様々な形式で返済を企図している。[^4]
--   版本v1.0.5000.8で、彼は本当に返金した！特に更新記録に一項を列挙した！[リンク](https://store.steampowered.com/news/app/1859910/view/501710062213923123?l=tchinese)
--   外堡に住む時には外堡の守衛を務めて家賃に埋め合わせている。[^2]
--   葉雲舟海捕令資料夾周辺文案：[出典](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
+-   [趙活](/ja/people/characters/player)に借金を肩代わりさせても悪びれないが、別の形でずっとこっそり恩を返している。[^1]
+-   前項に続き、返す気はある。いろいろな形で返済しようとしている。[^4]
+-   バージョン v1.0.5000.8 で本当に借金を返した！ わざわざ更新履歴に一項目を設けている！[リンク](https://store.steampowered.com/news/app/1859910/view/501710062213923123?l=tchinese)
+-   外堡に住むときは、外堡の守衛を務めて家賃の代わりにしている。[^2]
+-   葉雲舟の手配書クリアファイル (グッズ) の文面：[出典](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
     > 案犯 点蒼剣鬼葉雲舟<br>
     > 尋仇行兇窮凶極悪<br>
     > 如揭此榜拿得此人<br>
@@ -178,6 +240,8 @@ aside: false
     > 犯人同罪<br>
     > 成都府衙
 
+    訳：お尋ね者 点蒼の剣鬼・葉雲舟。仇討ちと称して凶行に及んだ極悪人。この高札を剥がして本人を捕らえ、成都府衙に突き出した者には賞金白銀千両を与える。匿ったり、事情を知りながら届け出なかったりした者は犯人と同罪とする。成都府衙
+
 ## 備考
 
 -   鳥熊 FB の紹介：[リンク](https://www.facebook.com/photo.php?fbid=424312253455489&set=pb.100076301525150.-2207520000&type=3)
@@ -185,7 +249,7 @@ aside: false
     > 熊がこれを解説していわく：<br>
     > 原因は多い。まず彼の個性が非常に謹慎で真摯であり、柔軟性を知らない。次に宋朝の医書や医学理論は時代の検証を経ていない。多くの説は実は信じるべきではない。全部信じる者は死ぬ。<br>
     > [趙活](/ja/people/characters/player)から習ったのも医術ではなくて、草薬の識別の基本常識及び一部の入門毒術や薬理に近い。<br>
-    > だから葉雲舟は師匠から伝わることなく自分で本に従って説いて、不注意に人を医して害するのは、これは人の常のことではないか。[^6]
+    > だから師匠もおらず書物頼みで治療している葉雲舟が、うっかり治療で人を損なってしまうのも無理からぬことではないか。[^6]
 -   [唐仙児](/ja/people/characters/special813)に痛く罵られて、容貌は優れているが人心を買うことを知らず、また実務には従事しない役立たずだと言われ、あまりに苦しい。
 
 [^1]: 巴哈姆特－[【情報】龍湘の体型についての答え+鳥熊への私信のやり取り](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)

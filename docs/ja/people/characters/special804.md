@@ -32,10 +32,26 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[郁竹](/ja/people/characters/girl6) (嫡傳女弟子)
+					[郁竹](/ja/people/characters/girl6) (嫡伝女弟子)
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch src='/images/characters/special804/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special804/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="酔い">
+		<Ch src='/images/characters/special804/drunk.webp' position='center'/>
+		<ChName nameZh='酔い' nameEn='Drunk' position='right' />
+	</ChTab>
+	<ChTab title="若い頃">
+		<Ch src='/images/characters/special804/young.webp' position='center'/>
+		<ChName nameZh='若い頃' nameEn='Young' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>

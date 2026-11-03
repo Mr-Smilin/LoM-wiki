@@ -16,7 +16,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="温夫人">
 		<Ch src='/images/characters/special402/normal.webp' position='right'/>
-		<ChName nameZh='溫夫人' nameEn='Lady Wen' position='right' />
+		<ChName nameZh='温夫人' nameEn='Lady Wen' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -31,7 +31,7 @@ tags:
 					年齢
 				</ChTd>
 				<ChTd>
-					四十多歳
+					四十代
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -54,7 +54,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[画中仙](/ja/people/characters/special813) (妹妹)
+					[画中仙](/ja/people/characters/special813) (妹)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -74,7 +74,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[南宮遠](/ja/people/characters/special101) (前戀人)
+					[南宮遠](/ja/people/characters/special101) (元恋人)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -84,12 +84,12 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[上官隼](/ja/people/characters/special407) (舊友)
+					[上官隼](/ja/people/characters/special407) (旧友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[龍淵](/ja/people/characters/special2) (舊友)
+					[龍淵](/ja/people/characters/special2) (旧友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -99,8 +99,52 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special402/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="にっこり">
+		<Ch src='/images/characters/special402/close_eye_laugh.webp' position='center'/>
+		<ChName nameZh='にっこり' nameEn='Close Eyes Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special402/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="不機嫌">
+		<Ch src='/images/characters/special402/angry1.webp' position='center'/>
+		<ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="黒い笑み">
+		<Ch src='/images/characters/special402/gloomy.webp' position='center'/>
+		<ChName nameZh='黒い笑み' nameEn='Sinister Smile' position='right' />
+	</ChTab>
+	<ChTab title="思案">
+		<Ch src='/images/characters/special402/special.webp' position='center'/>
+		<ChName nameZh='思案' nameEn='Pondering' position='right' />
+	</ChTab>
+	<ChTab title="悲しみ">
+		<Ch src='/images/characters/special402/sad.webp' position='center'/>
+		<ChName nameZh='悲しみ' nameEn='Sad' position='right' />
+	</ChTab>
+	<ChTab title="弾奏">
+		<Ch src='/images/characters/special402/angry3.webp' position='center'/>
+		<ChName nameZh='弾奏' nameEn='Playing Pipa' position='right' />
+	</ChTab>
+	<ChTab title="負傷">
+		<Ch src='/images/characters/special402/hurt.webp' position='center'/>
+		<ChName nameZh='負傷' nameEn='Injured' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special402/crazy.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="重傷(悲しみ)">
+		<Ch src='/images/characters/special402/crazy_sad.webp' position='center'/>
+		<ChName nameZh='重傷(悲しみ)' nameEn='Severely Injured (Sad)' position='right' />
+	</ChTab>
 	<ChTab title="蘇迎香">
-		<Ch src='/images/characters/special402/normal2.webp' position='right'/>
+		<Ch src='/images/characters/special402/normal2.webp' position='center'/>
 		<ChName nameZh='蘇迎香' nameEn='Su Ying Xiang' position='right' />
 	</ChTab>
 </ChTabs>
@@ -135,11 +179,12 @@ tags:
 
 ## 備考
 
+-   本来なら年齢は[南宮遠](/ja/people/characters/special101) (南宮家主) と同じくらい、少なくとも四十は超えているはずだが、歳月の痕跡がまったく見えない。
 -   [上官隼](/ja/people/characters/special407)によれば、彼女は罪人の遺児だという。
 -   [上官隼](/ja/people/characters/special407)：「蘇迎香。あなたが心を[南宮遠](/ja/people/characters/special101)に、体を[温無畏](/ja/people/characters/other13)に、二十年の友情を[王二壮](/ja/people/characters/special401)に捧げたなら、命を私に官位購入金として与えてくれ。これがあなたが俺に借りているものだ。」
 -   [画中仙](/ja/people/characters/special813)とはかつてそれぞれ別の主人に仕えていた関係だった。[瑞杏](/ja/people/characters/girl1)によってようやく仲直りすることができた。
 -   [明玉](/ja/people/characters/other18)、[画中仙](/ja/people/characters/special813)あるいは[龍湘](/ja/people/characters/girl8)、[盛雪](/ja/people/characters/other12)はみな攻防一体の二人絹法と剣法を習得して、護衛の最高の人選だった。ただし残念なことに、風雨山の変のときに離散させられ、そのため[上官隼](/ja/people/characters/special407)に敗北してしまった。
--   もし風雨山の変がなければ、[錦香宮](/ja/people/factions/jin-xiang-palace)を解散した後、東北へ遠く去り、長白山の西で長く年を重ねる計画だった。
+-   もし風雨山の変がなければ、[錦香宮](/ja/people/factions/jin-xiang-palace)を解散した後、東北へ遠く去り、長白山の西で長く年を重ねる計画だった。そこは一年中雪が解けず、亡き友の魂が帰る里だという。どのみち江湖を退けば何もすることがないのだから、車いっぱいの暗香を載せて遠出し、故人を弔い、こう伝えるのも悪くない。[南宮遠](/ja/people/characters/special101)がついに武林盟主になった、皆の夢はこれからも続いていく、と。
 -   蔘鶏湯を煮込むことができ、鶏脚は両方とも[龍湘](/ja/people/characters/girl8)に独占させた。料理の腕も非常に良いが、[趙活](/ja/people/characters/player)は機会があれば彼女を超えることができるだろう。[^1]
 -   江湖では「真心か偽りか、琵琶で心を問う」という言葉がある。錦香宮の女性を求婚しようという者は、誰であっても、まず[温夫人](/ja/people/characters/special402)の琵琶曲を聞かなければならない。曲を聞いた者の内功や定力が不足していれば、必ず幻に陥り、本性が現れてしまう。軽ければ手舞足蹈して人前で恥をかき、重ければ経脈を傷つけて走火入魔してしまう。
 

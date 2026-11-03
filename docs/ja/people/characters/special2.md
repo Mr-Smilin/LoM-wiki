@@ -9,10 +9,29 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="龍淵">
-		<Ch src='/images/characters/special2/normal.webp' position='right'/>
-		<ChName nameZh='龍淵' nameEn='Long Yuan' position='right' />
-		<ChTable>
+	<ChTab title="初対面">
+		<ChMeet
+			src='/images/characters/special2/normal.webp'
+			nameTitle='前武林盟主'
+			nameMain='龍淵'
+			desc='<ruby>武林<rt>ぶりん</rt></ruby>で最も語り継がれる伝説の一つ。彼の数々の伝説的事績の中でも、<ruby>極楽教主<rt>ごくらくきょうしゅ</rt></ruby>との決戦が最も名高い。その後旧魔教は滅び、正邪両道の最強の達人もまた姿を消し、一つの時代が幕を閉じた。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special2/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special2/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -49,14 +68,17 @@ aside: false
 					[温夫人](/ja/people/characters/special402) (旧友)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 江湖の人々に最も語り草となっている武林の伝説の一人。数ある伝説的な事績の中でも、とりわけ[極楽教主との決戦](/ja/event/stories/決戰極樂教)は白眉である。その後、旧魔教は滅び、正邪両道の最強の高手もまた姿を消し、一つの時代が幕を閉じた。
 <br><br>
 極楽教の一戦の後、[翼王](/ja/people/characters/special819)の背信により、娘の[龍湘](/ja/people/characters/girl8)を[温夫人](/ja/people/characters/special402)に託すと、自ら片腕を断ち、名を捨てて[丐幇](/ja/people/factions/beggar-gang)大義分舵に身を潜めた。
+
+<div style="clear:both;"></div>
 
 ## 備考
 

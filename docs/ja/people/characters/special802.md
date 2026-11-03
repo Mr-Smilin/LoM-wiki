@@ -25,7 +25,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
-					生日
+					誕生日
 				</ChTd>
 				<ChTd>
 					11/10
@@ -38,7 +38,7 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[唐布衣](/ja/people/characters/brother1) (暗戀)
+					[唐布衣](/ja/people/characters/brother1) (片思い)
 				</ChTd>
 			</ChTr>
             <ChTr>
@@ -49,16 +49,16 @@ tags:
 		</ChTable>
 	</ChTab>
     <ChTab title="笑">
-		<Ch src='/images/characters/special802/laugh1.webp' position='right'/>
+		<Ch src='/images/characters/special802/laugh1.webp' position='center'/>
 		<ChName nameZh='笑' nameEn='Laugh' position='right' />
 	</ChTab>
     <ChTab title="緊張">
-		<Ch src='/images/characters/special802/nervous.webp' position='right'/>
+		<Ch src='/images/characters/special802/nervous.webp' position='center'/>
 		<ChName nameZh='緊張' nameEn='Nervous' position='right' />
 	</ChTab>
 </ChTabs>
 
-> 「別れてからどう？相変わらず下品な面をしていて、小師妹のお尻の後ろを走ってるのか?」
+> 「元気にしてた？相変わらず猥褻な顔して、小師妹の尻を追いかけ回してるの？」
 
 元[唐門](/ja/people/factions/tang-men)の女弟子・唐儒は、見た目は美しいが、寝床から門敷居まで寝転がってしまう奇人である。睡相は悪く、常識外れの睡眠癖があり、さらに拿捕技で左右の師姉妹を捕らえて抱き枕にすることもある。
 

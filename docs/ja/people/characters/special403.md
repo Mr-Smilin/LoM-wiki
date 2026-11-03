@@ -56,6 +56,26 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special403/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch src='/images/characters/special403/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special403/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special403/angry2.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special403/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
 </ChTabs>
 
 > 「貴様ら、侠士を名乗りながら口を開けば正だの邪だの、己こそ悪事の限りを尽くしていると知らぬのか！地獄道判官・趙逵、ここにあり！妖魔鬼怪ども、まだ懲りずに悪さをするか～！」

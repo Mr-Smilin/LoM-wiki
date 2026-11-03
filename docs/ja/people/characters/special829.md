@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="南渓">
 		<Ch src='/images/characters/special829/normal.webp' position='right'/>
-		<ChName nameZh='南溪' nameEn='Nan Xi' position='right' />
+		<ChName nameZh='南渓' nameEn='Nan Xi' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -55,6 +55,30 @@ tags:
                 </ChTd>
             </ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special829/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special829/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special829/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="照れ">
+		<Ch src='/images/characters/special829/shy.webp' position='center'/>
+		<ChName nameZh='照れ' nameEn='Shy' position='right' />
+	</ChTab>
+	<ChTab title="技を放つ">
+		<Ch src='/images/characters/special829/angry3.webp' position='center'/>
+		<ChName nameZh='技を放つ' nameEn='Ready to Strike' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special829/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>

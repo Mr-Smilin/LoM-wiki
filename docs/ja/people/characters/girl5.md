@@ -12,10 +12,10 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/girl_5/normal.webp' 
-			nameTitle='奪魂幽蘭'
+			nameTitle='奪魄幽蘭'
 			nameMain='夏侯蘭'
 			desc='<ruby>崆峒<rt>こうどう</rt></ruby>派・<ruby>奪魄門<rt>だっぱくもん</rt></ruby>の<ruby>掌門<rt>しょうもん</rt></ruby>の<ruby>嫡伝<rt>ちゃくでん</rt></ruby>女弟子、<ruby>江湖<rt>こうこ</rt></ruby>では<ruby>奪魄幽蘭<rt>だっぱくゆうらん</rt></ruby>と呼ばれている。悪名高き女怪で、手口は冷酷かつ残虐。陽の当たらない奪魄の森に身を寄せており、生者は近づくべからず。'
 			:animation=true
@@ -37,12 +37,12 @@ aside: false
 			nameZh='怒り'
 			nameEn='Angry'/>
 	</ChTab>
-	<ChTab title="顔隠す">
+	<ChTab title="顔を隠す">
 		<Ch 
 			src='/images/characters/girl_5/block.webp' 
 			position='center'/>
 		<ChName
-			nameZh='顔隠す'
+			nameZh='顔を隠す'
 			nameEn='Block'/>
 	</ChTab>
 	<ChTab title="血飛沫">
@@ -77,20 +77,20 @@ aside: false
 			nameZh='微笑'
 			nameEn='Laugh'/>
 	</ChTab>
-	<ChTab title="揉脚">
+	<ChTab title="足揉み">
 		<Ch 
 			src='/images/characters/girl_5/love.webp' 
 			position='center'/>
 		<ChName
-			nameZh='揉脚'
+			nameZh='足揉み'
 			nameEn='Love'/>
 	</ChTab>
-	<ChTab title="停止">
+	<ChTab title="固まる">
 		<Ch 
 			src='/images/characters/girl_5/nervous.webp' 
 			position='center'/>
 		<ChName
-			nameZh='停止'
+			nameZh='固まる'
 			nameEn='Nervous'/>
 	</ChTab>
 	<ChTab title="照れ">
@@ -125,12 +125,12 @@ aside: false
 			nameZh='無気力'
 			nameEn='Listless'/>
 	</ChTab>
-	<ChTab title="目細">
+	<ChTab title="細目">
 		<Ch 
 			src='/images/characters/girl_5/squint.webp' 
 			position='center'/>
 		<ChName
-			nameZh='目細'
+			nameZh='細目'
 			nameEn='Squint'/>
 	</ChTab>
 	<ChTab title="幼少期">
@@ -207,7 +207,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[第三香](/ja/people/characters/special820) (前夫)
+					[第三香](/ja/people/characters/special820) (元夫)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -232,12 +232,12 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[唐布衣](/ja/people/characters/brother1.md) (前旅伴)
+					[唐布衣](/ja/people/characters/brother1.md) (元旅仲間)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[解無塵](/ja/people/characters/special808) (前旅伴)
+					[解無塵](/ja/people/characters/special808) (元旅仲間)
 				</ChTd>
 			</ChTr>
 		</table>
@@ -307,15 +307,15 @@ aside: false
 
 <SpecialItemIcon :size="`medium`" :needLink="false" :no="1002" />
 
-夏侯蘭の髪帯
+夏侯蘭の髪紐
 
 <br>
 
-夏侯蘭が愛用する髪帯。何ら珍しいものではなく、素材も普通である。
+夏侯蘭愛用の髪紐、珍しいものではなく、質も普通である。
 
 <br>
 
-彼女が身につけていたからこそ、初めて意義が生じたのである。
+彼女が身につけていたからこそ、並々ならぬ意味がある。
 
 ## 年齢
 
@@ -324,8 +324,8 @@ aside: false
 -   第三年一月、大師兄について下山した時（[臥雲崗見物](/ja/event/simple/3-01-3-圍觀臥雲崗)）、通行人は「彼女は江湖を渡り歩いて名を上げてからもう十年近くになる。少なく見積もっても二十五、六歳にはなるだろう」と言う。
 -   3年目の小師妹の比武招親で、夏侯蘭に師事していなければ、[解無塵](/ja/people/characters/special808)は「彼女は二十六、七歳だ。もう中年女性ですよ」と言う。
 -   第三年雪山行。本来は七年の約定であったが、夏侯蘭が[趙活](/ja/people/characters/player)に全ての武功を伝授するため、一年早く現れた。
--   夏侯蘭：「師が当時、ちょうど情竇初開の頃で……身の潔白を証明するため、旅から戻ってほどなく、師は第三師兄と夫妻となったのです。」
-    -   v1.0.5000 ではこの台詞は「師が当時、ちょうど二八年華の時分で」だった。現在は「情竇初開」に変わったため、年齢を推算し直した。
+-   夏侯蘭：「私はあの頃、初めて恋を知ったばかりでな……身の潔白を証明するため、旅から戻って間もなく、第三師兄と夫婦の契りを結んだ。」
+    -   v1.0.5000 ではこの台詞の原文は「二八年華」(数えで十六) だった。現在は「情竇初開」(初めて恋に目覚める年頃) に変わったため、年齢を推算し直した。
 -   <MarkdownWrapper>||[葉雲舟](/ja/people/characters/special3)は、妹が[李元棄](/ja/people/characters/special213)から渡された九泉丹を飲んでから今まで「わずか十年」だと言う。李元棄は大師兄、夏侯蘭ら五人の旅の最後に死んだので、旅はおよそ十年前だと分かる。||</MarkdownWrapper>
 -   以上を総合すると、第三年でおよそ25～27歳。
 
@@ -335,10 +335,10 @@ aside: false
 -   奪魄掌門の[姚不知名](/ja/people/characters/special216)がかつて武力で彼女に嫡伝女弟子の地位を譲らせようと強要したが、かえって両腕を捻り折られ、頭を足で踏みにじられた。以来、崆峒の長老たちに顔向けできず、隠棲して修行に励んでいる。
 -   常日頃から、鉄拳門が製造した奇兵・鋼骨傘を用いる。傘柄の機関を起動すると、鋭い刃が飛び出す。攻防一体、水火不侵。
 -   雪山に赴いた際、[雪山派](/ja/people/factions/mount-snow-sect)の秘伝点穴手法「冰川払穴手」を用いて、[趙活](/ja/people/characters/player)を動けなくした。
--   [上官隼](/ja/people/characters/special407)との対決で、[雪山派](/ja/people/factions/mount-snow-sect)の「梅顫枝頭」を用いて金背龍王刀を振り開こうと試みた。
--   奪魄幽霊爪は無影爪の上位版武功。夏侯蘭が用いる奪魄幽霊爪の招数は奪魄門のもので、心法は雪山派のもの。名前は同じだが、優劣は天地の差。彼女が[趙活](/ja/people/characters/player)に伝授したのは彼女自身の版本である。[^8]
+-   [上官隼](/ja/people/characters/special407)との対決で、[雪山派](/ja/people/factions/mount-snow-sect)の「梅顫枝頭」を用いて金背龍王刀を弾き返そうと試みた。
+-   奪魄幽霊爪は無影爪の上位武功。夏侯蘭が用いる奪魄幽霊爪は招式こそ奪魄門のものだが心法は雪山派のもので、名は同じでも威力には雲泥の差がある。彼女が[趙活](/ja/people/characters/player)に伝授したのはこの独自版である。[^8]
 
-## 人際関係
+## 人間関係
 
 -   かつて[唐布衣](/ja/people/characters/brother1.md)・[解無塵](/ja/people/characters/special808)と他の二人と共に旅をし、極楽左使を撃破した。
 -   室内で傘を開くと鬼を招くという説がある。これは[呼延菊](/ja/people/characters/special822)の霊魂を留めるために開いたもの。昼間でも光が届かぬ林に住まう原因もこれである。
@@ -346,13 +346,13 @@ aside: false
 -   [南宮深](/ja/people/characters/special102)のことを三下だと思っているが、南宮老太爺のことは敬重の対象と見ており、[唐中翎](/ja/people/characters/master.md)も甚だ尊敬している。
 -   かつて長沙雨花亭で難に遭ったが、[唐布衣](/ja/people/characters/brother1.md)が手を貸して救った。
 -   夏侯蘭は以前、[小梅](/ja/people/characters/girl3.md)・[小竹](/ja/people/characters/girl6)によく物語を聞かせていた。ある時、二人を奪魄森林に連れて行き、怪談を話したところ、小竹は大いに驚き、樹を一本折ってしまった。そのとき夏侯蘭も極度の恐怖を感じた。
--   [唐門](/ja/people/factions/tang-men)の樹屋を「雪山派唐門分部」と呼ぶ。
+-   [唐門](/ja/people/factions/tang-men)の樹上小屋を「雪山派唐門支部」と呼ぶ。
 
 ## 結縁
 
 -   足をもむ動作は合図である。そろそろお風呂の時間だ！
 -   攻略の際、[龍吟功](/ja/system/books/book_7005)を学ぶことをお勧めする。西武林ルートに驚きあり。
--   西武林エンディング後、[趙活](/ja/people/characters/player)と雪山に定居する。[^1]
+-   西武林エンディング後、[趙活](/ja/people/characters/player)と雪山に定住する。[^1]
 -   結婚後、男女一人ずつ儲けた。子どもは二人とも母親似で、彼女は子どもたちを極度に溺愛する。
 -   子どもの教育のため、ある日出かけて[魏菊](/ja/people/characters/girl7)を捕らえ、家庭教師に雇った。
 -   結縁しなかった場合、最終的に雪山派の遺跡へ向かい、第三香と決闘した後に自決する。
@@ -365,22 +365,22 @@ aside: false
 -   生粋の蘭州人である。[^3]
 -   奪魄森林に住んでいるが、実は最近一、二年で引っ越してきたばかりだという。奪魄門が鬱陶しいのが理由らしい。
 -   奪魄森林に一人住まいする食糧問題。森の小動物を狩って食べたり、森を出て鉄拳門の人が育てる菜を無断で採ったり、時には街に買いに行ったりする。[^2]
--   森の樹屋に長く住んでいたため、蚊が多かった。しかし蚊取り線香も蚊帳も用意していなかった。[趙活](/ja/people/characters/player)に指摘されて初めて気づいた。その後、蝋燭に火をつけて四、五時間にわたって蚊を焼き続け、蚊への復讐に没頭した。狂気的である。
+-   森の樹上小屋に長く住んでいたため、蚊が多かった。しかし蚊取り線香も蚊帳も用意していなかった。[趙活](/ja/people/characters/player)に指摘されて初めて気づいた。その後、蝋燭に火をつけて四、五時間にわたって蚊を焼き続け、蚊への復讐に没頭した。狂気的である。
 -   少女時代は温柔で奥ゆかしく、愛情に満ちていた。弱者を保護し、不正に立ち向かった。武力より対話を好む傾向がある。[^2]
 -   火鍋が好きである。[^2]
 -   歌声は概ね良い。[^4]
--   狼より、犬の方が怖いと感じている。狼に食べられるなら、焼いて食べてしまえばいい。犬は厄介だ。絶えず尻尾を振って媚びてくる。そのために心が痛んで殺すことができない。しかし、紐をつけていない、人を傷つける悪犬に出くわすと、容赦しない。犬をけしかけて人に傷をつけた飼い主も一緒に殺す。
+-   狼よりも犬の方が苦手だという。狼は彼女を食おうと襲ってくるのだから返り討ちにして焼いて食ってしまえば済むが、犬はしきりに尻尾を振って懐いてくるため情が移って殺すに殺せないからである。もっとも、縄もつけずに人を噛む悪犬には容赦せず、けしかけた飼い主ごと始末する。
 -   辛儒と同じ11月10日生まれ。占い師は、その日の吉時に宋国に絶世の美女が生まれると言ったそうだ。[^5][^6]
 -   名言：「衆生皆死に至り、万物皆殺すべし」
--   髪帯が左右対称であるかどうかを非常に気にする。
+-   髪紐が左右対称であるかどうかを非常に気にする。
 -   耳環は雪山派の遺物である。
 -   2025年の「想い人に色紙を送ろう」投票活動で優勝。公式が[雪山派その後の物語の動画](https://www.youtube.com/watch?v=yHEq6HJ2YpE)を公開した。雪山派は夏侯蘭の指導下で武林七大門派の一つとなり、弟子は天下に満ちた。[^9]
     -   動画では、師走の雪山で夏侯蘭が幼い頃を思い出す。母に「小梅」と呼ばれ、雪山派の一人娘で将来は大師姉になるのだからおてんばはいけないとたしなめられると、「うちみたいな小さな門派の大師姉なら、少しくらいおてんばでもいいでしょ」と言い返す。父は、きっと母のような天下一の美人になると言う
     -   今の雪山派では、[趙活](/ja/people/characters/player)が夏侯蘭の嫡伝弟子で雪山派の大師兄、しかも子の父になっており、[樊嘯天](/ja/people/characters/special4)が師妹である。最後は弟子たちが「雪山派弟子、掌門をお迎えします！」と出迎える
     -   結びの語りでは、夏侯蘭は「雪山派中興の祖」と讃えられ、雪山派は武林七大門派の一つとして、唐門と姻戚を結び、錦香宮と親しく、崆峒と互角で、上官と肩を並べたとされる
     -   この動画と同じ場面の台本は、2026年10月の大型更新でゲームのデータに収録されたが、ゲーム内で見る経路は無い
-    -   表情タブの〈目細〉と〈幼少期〉の立ち絵三枚は、この動画にしか登場しない
--   夏侯蘭海捕令資料フォルダ周辺商品文案：[ソース](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
+    -   表情タブの〈細目〉と〈幼少期〉の立ち絵三枚は、この動画にしか登場しない
+-   夏侯蘭の手配書クリアファイル (グッズ) の文面：[ソース](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
     > 案犯 奪魄幽蘭
     > 心狠手辣殺人如麻
     > 如揭此榜拿得此人
@@ -389,6 +389,8 @@ aside: false
     > 匿知情不報者依犯
     > 人同罪
     > 涼州府衙
+
+    訳：お尋ね者 奪魄幽蘭。冷酷非道にして数え切れぬほど人を殺めた。この高札を剥がして本人を捕らえ、涼州府衙に突き出した者には賞金白銀千両を与える。匿ったり、事情を知りながら届け出なかったりした者は犯人と同罪とする。涼州府衙
 
 [^1]: PTT C 洽 - [\[活俠\] 龍湘と奇怪な小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
 [^2]: バハムート - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)

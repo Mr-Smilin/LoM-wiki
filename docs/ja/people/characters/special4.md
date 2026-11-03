@@ -9,10 +9,45 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="樊嘯天">
-		<Ch src='/images/characters/special4/normal.webp' position='right'/>
-		<ChName nameZh='樊嘯天' nameEn='Fan Xiao Tian' position='right' />
-		<ChTable>
+	<ChTab title="初対面">
+		<ChMeet
+			src='/images/characters/special4/normal.webp'
+			nameTitle='狂犬'
+			nameMain='樊嘯天'
+			desc='<ruby>丐幇<rt>かいほう</rt></ruby>出身の<ruby>江湖<rt>こうこ</rt></ruby>新鋭。<br>「狂犬」と呼ばれ、小柄な体躯を侮るなかれ。戦いとなれば命懸け、外部の者が恐れるのみならず、<ruby>丐幇<rt>かいほう</rt></ruby>内でもこの狂気の若者に軽々しく手を出す者はいない。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch src='/images/characters/special4/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special4/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special4/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special4/angry1.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="泣き">
+		<Ch src='/images/characters/special4/sad.webp' position='center'/>
+		<ChName nameZh='泣き' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special4/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -46,12 +81,13 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[阿叔](/ja/people/characters/other17) (照料者)
+					[阿叔](/ja/people/characters/other17) (世話人)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 [丐幇](/ja/people/factions/beggar-gang)から出た江湖の後起新秀。大義分舵で犬の管理をしている。
@@ -59,6 +95,8 @@ aside: false
 <br>
 
 世間では「狂犬」と呼ばれている。背は低いとはいえ、戦い始めたら必死になり、外部の人間だけでなく丐幇の者たちも軽々しくこの狂児に逆らおうとはしない。
+
+<div style="clear:both;"></div>
 
 ## 列伝
 
@@ -105,12 +143,12 @@ aside: false
 -   [阿叔](/ja/people/characters/other17)の関係で、[丐幇](/ja/people/factions/beggar-gang)旧派の打手として飼われ、表面的には従順だが、それでも彼女は老犬阿花への仇を報いたいと思っている。
 -   分舵主、[幇主](/ja/people/characters/special401)、および[龍大叔](/ja/people/characters/special2)にわずかながら武功を教わった。
 -   多くの犬を飼うようになり、飼料費を補うために[李富貴](/ja/people/characters/special809)と一緒に[飛石幇](/ja/people/factions/flying-stone-gang)でバイトして稼いだ。
--   救いようのないルートで、舵主は彼女が[唐門](/ja/people/factions/tang-men)のために総舵で暴れることを恐れて、虚の官職を作って『弼狗温』と名づけた。主に[丐幇](/ja/people/factions/beggar-gang)各分舵を訪れて野良犬保護施設を開設し、これからは犬肉を食べるべきではないと宣導しており、彼女は大いに張り切っている。
+-   救いようのないルートで、舵主は彼女が[唐門](/ja/people/factions/tang-men)のために総舵で暴れることを恐れて、名ばかりの役職を作って『弼狗温』と名付けた。もっぱら[丐幇](/ja/people/factions/beggar-gang)の各分舵を回って野良犬の保護施設を開き、今後は犬肉を食べないよう説いて回る役目で、本人は大いに張り切っている。
 
 ## 雪山派
 
 -   もし[趙活](/ja/people/characters/player)が[夏侯蘭](/ja/people/characters/girl5)を師とすれば、狂犬を[雪山派](/ja/people/factions/mount-snow-sect)に入門させるチャンスがある。これが唯一、狂犬が女だと知ることができるルートだ。
--   雪山行の前に、[夏侯蘭](/ja/people/characters/girl5)は[李富貴](/ja/people/characters/special809)が彼女に特別な世話をしており、身の回りに一群の犬がいたが、すべて連れていくわけにはいかず、招かなかった。
+-   雪山行の前に、[夏侯蘭](/ja/people/characters/girl5)は、[李富貴](/ja/people/characters/special809)が彼女を格別に気にかけていることと、彼女の周りにいる大勢の犬を全部は連れて行けないことを考えて、彼女を誘わなかった。
 -   公式の「想い人のための色紙を送る」投票活動の雪山派後日談ビデオに、雪山派師妹の身分で出場し、[趙活](/ja/people/characters/player)と戯れている。[^1]
 
 ## 備考

@@ -104,7 +104,7 @@ tags:
     </td>
     <td>
       <li>主に<MarkdownWrapper>[養成コマンド](/ja/system/training/)</MarkdownWrapper>の厨房の作業コマンドで増加する</li>
-      <li>他のコマンドの調理イベントでも増加しうる。例: 後山修練での魚焼き</li>
+      <li>他のコマンドの調理イベントでも増加しうる。例: 裏山修練での魚焼き</li>
       <li>シナリオで入手できる。例: <MarkdownWrapper>[唐門の財務改善](/ja/event/simple/1-08-1-唐門財務改善)</MarkdownWrapper>での調理器具の入手</li>
     </td>
     <td></td>
@@ -123,7 +123,7 @@ tags:
     </td>
     <td>
       <li>主にシナリオで増減する</li>
-      <li>一部の<MarkdownWrapper>[養成コマンド](/ja/system/training/)</MarkdownWrapper>で増減する。例: 男弟子房での折り紙</li>
+      <li>一部の<MarkdownWrapper>[養成コマンド](/ja/system/training/)</MarkdownWrapper>で増減する。例: 男弟子室での折り紙</li>
     </td>
     <td>
       <li>

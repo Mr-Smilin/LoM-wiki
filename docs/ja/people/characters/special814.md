@@ -13,7 +13,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="万勝">
 		<Ch src='/images/characters/special814/normal.webp' position='right'/>
-		<ChName nameZh='萬勝' nameEn='Wan Sheng' position='right' />
+		<ChName nameZh='万勝' nameEn='Wan Sheng' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>

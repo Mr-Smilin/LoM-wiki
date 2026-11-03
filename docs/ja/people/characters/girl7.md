@@ -15,7 +15,7 @@ aside: false
 :::
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/girl_7/normal.webp' 
 			nameTitle='玄功掌門'
@@ -24,12 +24,20 @@ aside: false
 			:animation=true
 		/>
 	</ChTab>
-	<ChTab title="不悅">
+	<ChTab title="旧版立ち絵">
+		<Ch 
+			src='/images/characters/girl_7/old_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='旧版立ち絵'
+			nameEn='Old Portrait'/>
+	</ChTab>
+	<ChTab title="不機嫌">
 		<Ch 
 			src='/images/characters/girl_7/angry1.webp' 
 			position='center'/>
 		<ChName
-			nameZh='不悅'
+			nameZh='不機嫌'
 			nameEn='Displeased'/>
 	</ChTab>
 	<ChTab title="瞼閉じ">
@@ -64,12 +72,12 @@ aside: false
 			nameZh='笑顔'
 			nameEn='Laugh'/>
 	</ChTab>
-	<ChTab title="停止">
+	<ChTab title="固まる">
 		<Ch 
 			src='/images/characters/girl_7/nervous1.webp' 
 			position='center'/>
 		<ChName
-			nameZh='停止'
+			nameZh='固まる'
 			nameEn='Uh...'/>
 	</ChTab>
 	<ChTab title="緊張">
@@ -296,13 +304,13 @@ aside: false
 
 ## 才女
 
-- [唐陞](/ja/people/characters/brother3)は、魏大才女が読書人の間で雷のごとく知られ、易安居士・李清照のようなものだと言う。
-- 魏菊の詩作や絵画はすべて散逸してしまい、今では千金を出しても手に入らない。[宋詞選集](/ja/system/books/book_8105)を手に入れると、[上官螢](/ja/people/characters/girl4)は金をぶちまけて狂ったようになるだろう。
+- [唐陞](/ja/people/characters/brother3)いわく、魏大才女の名は読書人の間で雷鳴のごとく轟いており、易安居士・李清照の再来と称されているという。
+- 魏菊の詩画はすべて散逸しており、今や千金を積んでも手に入らない。[宋詞選集](/ja/system/books/book_8105)が手に入ろうものなら、[上官螢](/ja/people/characters/girl4)は大金を投げ打って狂喜乱舞することだろう。
 - [孟仙謡](/ja/people/characters/special831)の先生だったことがあり、彼女を耕陽読書斎に推薦して入門させた。孟仙謡からとても尊敬されている。
 - [郁竹](/ja/people/characters/girl6)に頼まれて読み書きを教えており、宿題まで出す。
 - [当世詞選](/ja/system/books/book_8013)の最後のページは意図的に黒く塗りつぶされて壊されており、もう読むことができない。作者の姓が魏であることが薄ぼんやりと見える。
-- 活俠傳の作者は、魏菊はすべてを知っている！
-- 二次創作の活動により、~~徐々に耕陽読書斎に近い存在になっていく~~
+- 『活俠傳』（列伝）の筆者であり、魏菊はすべてを知っている！
+- 二次創作の影響で、~~徐々に龍陽読書斎へと近づきつつある~~
 - ~~礼楽が崩壊し、廉恥心を失った。豚樽漬けに！豚樽漬けに！豚樽漬けに！~~
 
 ## 崆峒神威
@@ -317,16 +325,16 @@ aside: false
 - [鳥熊 Facebook での紹介](https://www.facebook.com/photo.php?fbid=170987155454668&id=100076301525150&set=a.165167019370015)
 - 額が非常に高く、天庭が豊かなのは福相である。~~色情額~~[^1]
 - 一身の深い内功は前掌門から伝えられた[鉄琵琶功](/ja/system/books/book_7008)であり、この他は一切の武功を練習したことがない。
-- 江陵の戦いで、もし「不妙な人」を引くなら、魏菊が[王二壮](/ja/people/characters/special401)（王幇主）と対戦することになり、その胆識は想像できるだろう。王幇主との対掌三度の手合わせを要求し、内功で競う。しかし内功は厚いものの、どのように使うかを知らず、一掌に対して早くも劣勢を示し、幸いにも[瑞笙](/ja/people/characters/special999)が駆けつけて、代わりに応戦した。
+- 江陵包囲戦でダイスにより「まずい相手」を引いた場合、魏菊が自ら[王二壮](/ja/people/characters/special401)（王幇主）の前に進み出て対掌三合の勝負を申し出る場面があり、その度胸のほどが窺える。もっとも内功こそ深いものの運用法を知らないため、一掌合わせただけで劣勢に立たされ、駆けつけた[瑞笙](/ja/people/characters/special999)が代わって応戦した。
 - [上官螢](/ja/people/characters/girl4)、[南宮深](/ja/people/characters/special102)と[耕陽読書斎](/ja/people/factions/geng-yang-study)の同窓生。
-- 同窓生ではあるが、[南宮深](/ja/people/characters/special102)に対しては好感を持てず、距離を置いている。旧交を温めるときでさえ、門下の腕利きを同行させる。伝説の文本における彼に対する記述は特に辛辣で、彼を貶めているのではないかと疑われる。
+- 同窓生ではあるが、[南宮深](/ja/people/characters/special102)のことは快く思っておらず距離を置いており、旧交を温める席にさえ門下の腕利きを帯同させる。列伝テキストにおける彼への筆致もとりわけ辛辣で、私情を交えて貶めているのではないかと噂される。
 - かつて[上官螢](/ja/people/characters/girl4)と共に授業をサボって野菜を育てたことがあり、今も掌門の権威を使って、玄功洞の天光と雨水が降る場所で秘かに野菜と西瓜を育てている。
 - 悪党に強奪された村娘 by [夏侯蘭](/ja/people/characters/girl5)
-- <EndIcon no="11">結局 11</EndIcon>の対話によると、若し結縁なければ、最終的に掌門職を引き継ぎ、[耕陽読書斎](/ja/people/factions/geng-yang-study)へ戻って女塾の先生になるという。
-- <EndIcon no="23">結局 23</EndIcon>では抑鬱で亡くなるが、その結局の著者は依然として彼女である。~~死者が執筆中、怖い！~~
+- <EndIcon no="11">エンディング11</EndIcon>の会話によると、結縁しなかった場合、最終的には掌門の職を後任に引き継いで[耕陽読書斎](/ja/people/factions/geng-yang-study)へ戻り、女塾の先生になるという。
+- <EndIcon no="23">エンディング23</EndIcon>では鬱病の末に亡くなるが、そのエンディングの列伝の筆者名も依然として彼女のままである。~~死者が執筆中、怖い！~~
 - 誕生日は 9/10。鳥熊からの誕生日の手がかりは「東籬把酒黄昏後，有暗香盈袖（東籬で酒を飲み、黄昏の後、暗香が袖に満ちる）。」[^2][^3]
 - 本名は魏招弟で、魏菊は[崆峒派](/ja/people/factions/kong-tong-sect)へ入った時に改名した。しかし[上官螢](/ja/people/characters/girl4)は今でも招弟で呼びかけるのが習慣である。
-- 「招弟」は女性の卑名で、意味は「後に男の子が生まれることを期待する」という意味。
+- 「招弟」は女児に付けられる卑名の一つで、「次に男の子（弟）が生まれるように」という意味が込められている。
 - 当時、彼女を貶めて下嫁させることになった犯人は嶺南派の[陳倔](/ja/people/characters/lingnan_trainee4)。
 - <MarkdownWrapper>||手炉は乾坤造化炉と呼ばれ、怒った時は回転して真っ赤に熱くなる。||</MarkdownWrapper>
 - 🚧未実装：<MarkdownWrapper>||酒癖が悪く、酔うと人が変わったように時局を批判し、昔の出来事にかこつけて今の世を風刺する。||</MarkdownWrapper>

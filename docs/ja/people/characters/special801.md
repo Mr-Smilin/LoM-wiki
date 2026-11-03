@@ -13,7 +13,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="譚覇刀">
 		<Ch src='/images/characters/special801/normal.webp' position='right'/>
-		<ChName nameZh='譚霸刀' nameEn='Tan Ba Dao' position='right' />
+		<ChName nameZh='譚覇刀' nameEn='Tan Ba Dao' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -24,6 +24,18 @@ tags:
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special801/laugh.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special801/nervous.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="負傷">
+		<Ch src='/images/characters/special801/hurt.webp' position='center'/>
+		<ChName nameZh='負傷' nameEn='Injured' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>
@@ -36,7 +48,7 @@ tags:
 
 ## 備考
 
--   ~~又名王八刀~~
+-   ~~別名：カス刀~~
 -   彼の破山斬は[上官隼](/ja/people/characters/special407)の金背龍王刀、広州流放客の割夢刀と並んで江湖三把刀と称される。
 -   寿宴で彼が暴露されなければ、酒好きで好色なため、ある時酒に紛れて狂気を装い良家の娘を辱めたことで[宋悲](/ja/people/characters/special800)から懸賞をかけられ、悪名を轟かせていただろう。
 -   西夏人。

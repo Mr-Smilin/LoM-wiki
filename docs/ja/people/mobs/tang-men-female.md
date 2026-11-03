@@ -27,8 +27,8 @@ tags:
     <a class="mob-card" href="#志遠湯"><img src="/images/mobs/tang-men/female/traineegirl2_normal.webp" alt="志遠湯" loading="lazy"><span class="mob-name">志遠湯</span></a>
     <a class="mob-card" href="#伙房偷吃"><img src="/images/mobs/tang-men/female/traineegirl10_normal.webp" alt="厨房のつまみ食い" loading="lazy"><span class="mob-name">厨房のつまみ食い</span></a>
     <a class="mob-card" href="#瑞笙拜帖兄弟之妻"><img src="/images/mobs/tang-men/female/traineegirl3_normal.webp" alt="瑞笙の拝帖兄弟の妻" loading="lazy"><span class="mob-name">瑞笙の拝帖兄弟の妻</span></a>
-    <a class="mob-card" href="#後山告白"><img src="/images/mobs/tang-men/female/traineegirl7_normal.webp" alt="後山の告白" loading="lazy"><span class="mob-name">後山の告白</span></a>
-    <a class="mob-card" href="#後山推人"><img src="/images/mobs/tang-men/female/traineegirl5_normal.webp" alt="後山の突き落とし" loading="lazy"><span class="mob-name">後山の突き落とし</span></a>
+    <a class="mob-card" href="#後山告白"><img src="/images/mobs/tang-men/female/traineegirl7_normal.webp" alt="裏山の告白" loading="lazy"><span class="mob-name">裏山の告白</span></a>
+    <a class="mob-card" href="#後山推人"><img src="/images/mobs/tang-men/female/traineegirl5_normal.webp" alt="裏山の突き落とし" loading="lazy"><span class="mob-name">裏山の突き落とし</span></a>
     <a class="mob-card" href="#使牛毛針的女弟子"><img src="/images/mobs/tang-men/female/traineegirl11_normal.webp" alt="牛毛針を使う女弟子" loading="lazy"><span class="mob-name">牛毛針を使う女弟子</span></a>
     <a class="mob-card" href="#其他"><img src="/images/mobs/tang-men/female/traineegirl9_normal.webp" alt="その他" loading="lazy"><span class="mob-name">その他</span></a>
 </div>
@@ -46,8 +46,8 @@ tags:
         <td>狄傲が女でも容赦しないので怯えていたが、趙活が標的になってようやく安心した。</td>
     </tr>
     <tr>
-        <td>廃廟ルート</td>
-        <td>賊が唐門を夜襲した晩に女弟子房を見張っており、ノックせずに押し入ると殴り殺される。</td>
+        <td>廃寺ルート</td>
+        <td>賊が唐門を夜襲した晩に女弟子室を見張っており、ノックせずに押し入ると殴り殺される。</td>
     </tr>
 </table>
 
@@ -56,15 +56,15 @@ tags:
 <img src="/images/mobs/tang-men/female/traineegirl2_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>廃廟ルート</td>
-        <td>賊が唐門を夜襲した晩に女弟子房を見張っており、ノックせずに押し入ると殴り殺される。</td>
+        <td>廃寺ルート</td>
+        <td>賊が唐門を夜襲した晩に女弟子室を見張っており、ノックせずに押し入ると殴り殺される。</td>
     </tr>
     <tr>
         <td>葉雲裳残留</td>
         <td>葉雲裳を残すために葉雲舟を袋叩きにし、葉雲舟に「浩劫余生」デバフを与えた。</td>
     </tr>
     <tr>
-        <td>大師兄下山</td>
+        <td>大師兄の下山</td>
         <td>趙活が申屠龍に内力を吸い取られた時の回想の中で、厨房で趙活をいじめる。</td>
     </tr>
     <tr>
@@ -90,7 +90,7 @@ tags:
 <img src="/images/mobs/tang-men/female/traineegirl10_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>廃廟ルート</td>
+        <td>廃寺ルート</td>
         <td>賊が唐門を夜襲した晩に厨房を見張っていたが、それに乗じてつまみ食いをし、美味しいものを食べ尽くして侵入者のせいにしようとした。趙活に見つかると、趙活を共犯に仕立てる。<br>梁から落ちて侵入者を圧死させ、血を見て少し慌てたが、後で自分の血ではないと気づいた。</td>
     </tr>
 </table>
@@ -100,8 +100,8 @@ tags:
 <img src="/images/mobs/tang-men/female/traineegirl3_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>女弟子房の薪担ぎ</td>
-        <td>女弟子房に薪がないのを見て趙活に担がせ、厨房の薪と女弟子房の薪は分けて置くべきで、厨房の薪で沸かした湯は汚いと主張する。<br>趙活が従わないと袋叩きにする。唐陞にさえ強気である。<br>趙活が勝つと結託して唐黙鈴に悪口を言う。趙活が負けると唐錚に挑戦しようとするが、煉丹房を出た後はおとなしくなった。</td>
+        <td>女弟子室の薪担ぎ</td>
+        <td>女弟子室に薪がないのを見て趙活に担がせ、厨房の薪と女弟子室の薪は分けて置くべきで、厨房の薪で沸かした湯は汚いと主張する。<br>趙活が従わないと袋叩きにする。唐陞にさえ強気である。<br>趙活が勝つと結託して唐黙鈴に悪口を言う。趙活が負けると唐錚に挑戦しようとするが、煉丹房を出た後はおとなしくなった。</td>
     </tr>
     <tr>
         <td>葉雲裳残留</td>
@@ -113,7 +113,7 @@ tags:
     </tr>
 </table>
 
-## 後山の告白 {#後山告白}
+## 裏山の告白 {#後山告白}
 
 <img src="/images/mobs/tang-men/female/traineegirl7_normal.webp" style="width:200px;" />
 <table>
@@ -127,21 +127,21 @@ tags:
     </tr>
     <tr>
         <td>最後の段階試験</td>
-        <td>趙活が試験官を務めた時、指導において優れた水準を発揮し、師弟妹たちは感服し、恋心さえ芽生えた。</td>
+        <td>趙活が試験官を務めたときに見事な指導ぶりを見せたので、師弟・師妹たちはすっかり感服し、恋心を抱く者まで出た。</td>
     </tr>
     <tr>
-        <td>後山告白事件</td>
-        <td>救いようのないルートで、趙活を後山に呼び出して告白する。<br>父はもともと外姓弟子だったが、後に青城の門下に入り、唐門の衰退を聞いて、唐門の血脈が絶えるのを恐れ、彼女に唐門への入門を命じたと言う。<br>
+        <td>裏山告白事件</td>
+        <td>救いようのないルートで、趙活を裏山に呼び出して告白する。<br>父はもともと外姓弟子だったが、後に青城の門下に入り、唐門の衰退を聞いて、唐門の血脈が絶えるのを恐れ、彼女に唐門への入門を命じたと言う。<br>
         道徳が十分に高ければ、結ばれて青城山の麓に定住できる。</td>
     </tr>
 </table>
 
-## 後山の突き落とし {#後山推人}
+## 裏山の突き落とし {#後山推人}
 
 <img src="/images/mobs/tang-men/female/traineegirl5_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>後山桟道突き落とし事件</td>
+        <td>裏山桟道突き落とし事件</td>
         <td>趙活とカップルにされて囃し立てられたことに不満を持ち、趙活を桟道から突き落とそうとする。成功すると生死簿を獲得する。<br>失敗すると逆に自分がバランスを崩して趙活に助けられ、趙活に恋心を抱く。<br>「趙活師弟、趙、趙公子……は、破廉恥すぎます！」</td>
     </tr>
 </table>
@@ -165,8 +165,8 @@ tags:
 <img src="/images/mobs/tang-men/female/traineegirl9_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>廃廟ルート</td>
-        <td>賊が唐門を夜襲した晩に女弟子房を見張っており、ノックせずに押し入ると殴り殺される。</td>
+        <td>廃寺ルート</td>
+        <td>賊が唐門を夜襲した晩に女弟子室を見張っており、ノックせずに押し入ると殴り殺される。</td>
     </tr>
     <tr>
         <td>西武林</td>

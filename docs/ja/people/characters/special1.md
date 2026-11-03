@@ -55,6 +55,30 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special1/laugh.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch src='/images/characters/special1/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special1/nervous.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special1/angry2.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="狂気">
+		<Ch src='/images/characters/special1/angry3.webp' position='center'/>
+		<ChName nameZh='狂気' nameEn='Frenzy' position='right' />
+	</ChTab>
+	<ChTab title="負傷">
+		<Ch src='/images/characters/special1/hurt.webp' position='center'/>
+		<ChName nameZh='負傷' nameEn='Injured' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
@@ -84,7 +108,7 @@ tags:
 -   [車軒轅](/ja/people/characters/special409)を始末する機会を窺ったことがある。[^4]
 -   [上官螢](/ja/people/characters/girl4)を誘拐することがあり、間接的に[南宮深](/ja/people/characters/special102)の婚約破棄を招く。
 -   [南嵩山寺](/ja/people/factions/mount-song-sect)を襲撃し、麺棒で住職を殴打して街中を裸で走らせ、仲間に魚膾を切らせて住職の胴体に載せ、犬に食わせた。住職はその日のうちに心に傷を負って引退した。[釈明](/ja/people/characters/special826)は当時雲遊の旅で外に出ており、かろうじて難を逃れた。
--   [解無塵](/ja/people/characters/special808)とは浅からぬ悪縁。公衆の面前で打ち破ったばかりか、独門の絶招「風雷神腳」を「[つよつよ蹴り](/ja/system/books/book_4002)」へ改名するよう強要し、辱めの限りを尽くした。
+-   [解無塵](/ja/people/characters/special808)とは浅からぬ悪縁。公衆の面前で打ち破ったばかりか、独門の絶招「風雷神脚」を「[つよつよ蹴り](/ja/system/books/book_4002)」へ改名するよう強要し、辱めの限りを尽くした。
 -   [南宮深](/ja/people/characters/special102)とは面識がないが、互いに嫌い合っている。[南宮深](/ja/people/characters/special102)は大敵とみなし、劉顎は歯牙にもかけていない。[^2]
 -   [温夫人](/ja/people/characters/special402)にはかなり感服している。[^2]
 -   [王二壮](/ja/people/characters/special401)とは微妙な間柄。性質が近いため、認める部分も認めない部分もあるが、互いの処世の道は尊重し合っている。[^2]

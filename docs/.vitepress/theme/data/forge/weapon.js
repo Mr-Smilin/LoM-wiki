@@ -148,7 +148,7 @@ export default {
       },
       obtain: {
         root: "- 🚩[無可救藥線](/event/simple/1-06-1-掌門的安排)，月會選擇投靠魔教、不是空穴來風、我認識劉顎，即可獲得。離開無可救藥線後消失。",
-        ja: "- 🚩「救いようのないルート」([掌門の手配](/ja/event/simple/1-06-1-掌門的安排)) で、月例会で「魔教に身を寄せる」「根も葉もない話ではない」「劉顎を知っている」を選べば入手。救いようのないルートを離れると消失。",
+        ja: "- 🚩「救いようのないルート」([掌門の手配](/ja/event/simple/1-06-1-掌門的安排)) の月例会で「いっそ本当に魔教に寝返る」「六魔の悪名がこれほど高いのには、それなりの理由があるはずだ。」「実は俺、あの劉顎を知ってます。」を選べば入手。救いようのないルートを離れると消失。",
         en: "- 🚩[Hopeless route](/en/event/simple/1-06-1-掌門的安排): at the monthly meeting choose \"Join the Demonic Cult\", \"It's not baseless\" and \"I know Liu E\". Lost after leaving the Hopeless route.",
       },
       note: "",
@@ -186,7 +186,7 @@ export default {
 - 小梅の襄陽行が発生済み
 - [小梅、唐門を頼る](/ja/event/simple/2-10-3-小梅投靠)が発生済み
 - 🚩[臥雲崗イベント](/ja/event/simple/3-01-2-臥雲崗事件)で山に残る
-- [大師兄の重傷](/ja/event/simple/3-01-3-大師兄重傷)で大師兄の治療が発生し、「功を収めない」を選んで小梅を唐門に留める
+- [大師兄の重傷](/ja/event/simple/3-01-3-大師兄重傷)で大師兄の治療が発生し、「やめない」を選んで小梅を唐門に留める
 - 3年目2月上旬に行動回数≦2になると、梅竹の別れのイベントが自動で発生する。このとき以下を満たしていれば、小梅はこの刀を後で渡すよう三師兄に託す:
  1. 小梅の襄陽行が発生済み
  2. 虞小梅好感≧50
@@ -224,7 +224,7 @@ export default {
       },
       obtain: {
         root: "- [青城醒轉](/event/simple/2-08-3-青城醒轉)時道德＜40，選擇翻箱倒櫃，再【🎲＜66 錢?】後獲得。",
-        ja: "- [青城での目覚め](/ja/event/simple/2-08-3-青城醒轉)の時に道徳＜40で、「箱をひっくり返して漁る」を選び、さらに【🎲＜66 金?】の後に入手。",
+        ja: "- [青城での目覚め](/ja/event/simple/2-08-3-青城醒轉)の時に道徳＜40で、「人がいないうちに周りを物色する」を選び、さらに【🎲＜66 金?】の後に入手。",
         en: "- During [Qingcheng Awakening](/event/simple/2-08-3-青城醒轉) with Morality < 40, choose \"Rummage through the chests\", then obtained after 【🎲<66 Money?】.",
       },
       note: "",

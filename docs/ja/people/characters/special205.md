@@ -41,6 +41,18 @@ aside: false
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special205/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special205/nervous.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch src='/images/characters/special205/nervous3.webp' position='center'/>
+		<ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
@@ -61,6 +73,6 @@ aside: false
 -   滅門ルートで唯一、双方の戦闘を阻止しようとした者。惜しいかな阻止できず。
 -   容貌のためしばしば悪人と誤解され、何もしていないのに皆に黒幕と疑われている。
 -   少年の[飛侠](/ja/people/characters/brother1)、[風神](/ja/people/characters/special808)、[奪魄幽蘭](/ja/people/characters/girl5)に極楽左使と勘違いされて集団暴行を受け、危うく昇天するところだった。<br>（FB では右使と書かれているが、v1.0.3202 の更新内容によれば、左使が正しい）
--   [趙活](/ja/people/characters/player)を見ると格別親しみを感じ、同じく天涯の沦落人として、醜男同盟の第二把交椅だと自任している。君が第一位だと。
+-   [趙活](/ja/people/characters/player)を見ると格別の親しみを感じ、同じく天涯孤独の身の上として、醜男同盟の二番手だと自任している。なお一番手は君だとのこと。
 -   歴史上、全真教第六代掌教。
 -   囲碁が好きで、自分にも手段があると思っているが、[南宮遠](/ja/people/characters/special101)に負けた。賭け約束に従って[南宮深](/ja/people/characters/special102)に全真派の定陽針を教えた。

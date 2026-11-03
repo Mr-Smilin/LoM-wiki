@@ -35,5 +35,5 @@ tags:
 - 第二年十二月上旬、<MarkdownWrapper>[「葉雲舟の帰還」](/ja/event/simple/2-12-1-葉雲舟歸來)</MarkdownWrapper>で🚩寂滅三摩地の噂を聞くがトリガーされる。<br>
 - 第三年一月上旬、<MarkdownWrapper>[「葉家兄妹の出発」](/ja/event/simple/3-01-1-葉氏兄妹離去)</MarkdownWrapper>で葉雲裳を唐門に留める。<br>
 - 第三年五月上旬、<MarkdownWrapper>[「小師妹の比武招親 後半」](/ja/event/simple/3-05-1-師妹招親後半)</MarkdownWrapper>で🚩雲裳結縁の前提を満たし、<MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>系列イベントに入る。<br>
-- <MarkdownWrapper>[「雲裳との決別」](/ja/event/simple/3-05-1-雲裳訣別)</MarkdownWrapper>で、👉「軟対応」を三回選択する。<br>
+- <MarkdownWrapper>[「雲裳との決別」](/ja/event/simple/3-05-1-雲裳訣別)</MarkdownWrapper>で、👉「柔軟策」を三回選択する。<br>
 - <MarkdownWrapper>[「九転の療傷」](/ja/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>で、いずれかの戦闘に敗北すればよい。<br>

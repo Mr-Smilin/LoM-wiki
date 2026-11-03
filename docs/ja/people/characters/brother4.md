@@ -9,7 +9,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+    <ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/brother4/normal.webp' 
             nameTitle='四師兄'
@@ -17,6 +17,36 @@ aside: false
 			desc='名は<ruby>惟元<rt>いげん</rt></ruby>、<ruby>唐門<rt>とうもん</rt></ruby><ruby>掌門<rt>しょうもん</rt></ruby>の最後の直弟子。<br>山下で薬品を売り、生活用品を購入する任務を委ねられ、これを楽しみとし、よく門規の隙を突いて、ブツを持ち込み同門の<ruby>師兄弟<rt>しきょうだい</rt></ruby>に高値で売りつけて差額を稼いでいる。'
 			:animation=true
 		/>
+    </ChTab>
+    <ChTab title="微笑">
+        <Ch
+            src='/images/characters/brother4/laugh1.webp' 
+            position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch
+            src='/images/characters/brother4/nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="怒り">
+        <Ch
+            src='/images/characters/brother4/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='怒り' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="黒い笑み">
+        <Ch
+            src='/images/characters/brother4/gloomy2.webp' 
+            position='center'/>
+        <ChName nameZh='黒い笑み' nameEn='Sinister Smile' position='right' />
+    </ChTab>
+    <ChTab title="重傷">
+        <Ch
+            src='/images/characters/brother4/hurt.webp' 
+            position='center'/>
+        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
     </ChTab>
 </ChTabs>
 <br>
@@ -142,32 +172,32 @@ aside: false
 </Tabs>
 
 
-## 身世
+## 生い立ち
 
--   [掌門](/ja/people/characters/master.md)はかつて「隔年の大雪の日に、惟元を拾った。さらに二年後、私に[鈴児](/ja/people/characters/girl0.md)ができた」と言った。これから分かるように、四師兄は小師妹より二歳年上である。
--   星座は詳しくない。[^4]
--   彼を拾って教えた師父は亡くなった「千機巧匠」唐菱。後に彼が鍛冶を学ぶ気がなく、一心に稼ぐのを見て、[掌門](/ja/people/characters/master.md)に推したのだ。
+-   [掌門](/ja/people/characters/master.md)はかつて「翌年の大雪の日に惟元を拾い、さらに二年後に[鈴児](/ja/people/characters/girl0.md)が生まれた」と語っており、四師兄は小師妹より二歳年上にあたる。
+-   拾われ子のため星座は不明。[^4]
+-   もともと彼を拾って手ほどきした師匠は故人である「千機巧匠」唐菱だが、鍛冶を学ぶ気がまるでなく金儲けにばかり精を出すのを見て、[掌門](/ja/people/characters/master.md)のもとへ推挙した。
 
-## 貪財
+## 銭好き
 
--   「消費するだけで好感度が上昇するキャラクター」――鳥熊[^2]
--   野心家である。彼の眼中では金銭があれば女性も自ずと得られる、と考える。[上官螢](/ja/people/characters/girl4.md)のような金銭を稼ぐ才能のある女性に対しては、彼は競争相手としてしか見ない。[^1]
--   四師兄の公務は常に人を充てるのが難しい。そのため彼はしょっちゅう買い付け業務の便に託けて、他の者に自分の代わりに人の私物を運ばせ、その後それを高く転売するのだ。師兄弟は皆だまされ尽くし、今では誰も引っかかろうとしない。やむを得ない場合は、[趙活](/ja/people/characters/player)を推し出して言い訳する。
+-   「買い物をするだけで好感度が上がるキャラクター」――鳥熊[^2]
+-   野心家であり、金さえあれば女など後からいくらでもついてくると考えている。[上官螢](/ja/people/characters/girl4.md)のように商才に長けた女性に対しては商売敵としか見ない。[^1]
+-   四師兄の公用はいつも成り手が集まらない。買い出しの役目にかこつけて自分の仕入れ品を他人に運ばせ、後で高値で転売するからである。師兄弟全員がひと通り騙されてからは誰も引っかからなくなり、どうしようもない時は[趙活](/ja/people/characters/player)を押し出して急場をしのぐ。
 -   貪欲ではあるが、家族や友人に対しては挺身して義侠心を発揮する。[趙活](/ja/people/characters/player)の助力で[晁和](/ja/people/characters/special208)から詐取した銭は、率先して[趙活](/ja/people/characters/player)に半分を与える。[小師妹](/ja/people/characters/girl0.md)が嫁ぐ際には金銭を惜しまず、自ら嫁資を調達し、婚礼を準備し、小師妹を盛大に嫁がせようとした。
 
 ## 武功
 
--   武を好まず、友好な試合であってさえ汗をかくことを嫌う。
+-   武芸を好まず、友好的な手合わせであってさえ汗をかくのを嫌がる。
 -   外出時に危険に遭えば、通常は金銭で事を済ます。手持ちの金を奪われた時は本来の実力が現れ、二人の強盗に相対しても打ち倒すことができる。
--   性情は慎重で、気も小さい。常に「和気は財を生む」を信条とし、めったに人と武力沙汰にならない。[大師兄](/ja/people/characters/brother1.md)が[龍湘](/ja/people/characters/girl8.md)の誤解で討伐に遭った時、武林人でありながらも役所に赴いて太鼓を鳴らして無実を訴え、一般庶民に訴状を出した。
+-   慎重で臆病に近い性分であり、常に「和気生財（和やかな気運が財を生む）」を信条としてめったに人と刃傷沙汰を起こさない。[大師兄](/ja/people/characters/brother1.md)が[龍湘](/ja/people/characters/girl8.md)の勘違いで討伐された際は、武林の身でありながら役所へ駆け込んで太鼓を打ち鳴らし、市井の民を相手取って訴え出た。
 -   背中のからくり<ruby>篋笥<rt>きょうし</rt></ruby>は多くの形に変形することができる。しかし商売人としての体面を考え、四師兄はむしろ[金烏上人](/ja/people/characters/special207)に打たれて吐血しても、衆目の下で篋笥を変形させることを望まない。
 -   篋笥上のパイナップルは本物ではなく、パイナップルに似た金属暗器で、爆発して人を殺す。[^3]
 
 ## 備考
 
--   行商の都合で常に寝室では眠らない。だが彼が帰ってくる時、皆が眠れないほど部屋が狭くなる。
+-   行商で飛び回っているため普段は寝部屋にいないが、いざ戻ってくると山のような荷物のせいで皆が眠れないほど部屋が狭くなる。
 -   揚げパンの油条（ユウティアオ）が好物。
--   廃廟ルートにおいて[趙活](/ja/people/characters/player)が青城に療傷に赴いたと聞き、すぐに探しに向かった。だが青城掌門への手土産を買いたくないばかりに、そのまま青城山鎮に居着いてしまった。青城山鎮都江客栈の楚掌櫃とは古い付き合いがあり、彼が困窮していた時に一筆の救命銭を与えた。これで恩を盾に永久住店特権を獲得した。
+-   廃寺ルートでは、[趙活](/ja/people/characters/player)が青城に療傷に赴いたと聞き、すぐに探しに向かった。だが青城掌門への手土産を買いたくないばかりに、そのまま青城山町に居着いてしまった。青城山町の都江客桟の楚主人とは古い付き合いで、楚主人が困窮していたときにまとまった金を渡して救ったことがあり、その恩を盾に永久にただで泊まれる特権を得ている。
 -   [葉雲裳](/ja/people/characters/girl2)に四師肥と呼ばれている。散々からかわれている。
 
 [^1]: [問答集2024-10-08](/ja/other/qna/202410)

@@ -15,7 +15,7 @@ tags:
 <ChTabs position="bottom">
     <ChTab title="黄佩華">
         <Ch src='/images/characters/trainee235/normal.webp' position='right'/>
-        <ChName nameZh='黃佩華' nameEn='Huang Pei Hua' position='right' />
+        <ChName nameZh='黄佩華' nameEn='Huang Pei Hua' position='right' />
         <ChTable>
             <ChTr>
                 <ChTd isTitle=true>
@@ -46,6 +46,18 @@ tags:
                 </ChTd>
             </ChTr>
         </ChTable>
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch src='/images/characters/trainee235/nervous1.webp' position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="白目">
+        <Ch src='/images/characters/trainee235/roll_eye.webp' position='center'/>
+        <ChName nameZh='白目' nameEn='Eye Roll' position='right' />
+    </ChTab>
+    <ChTab title="傘をさす">
+        <Ch src='/images/characters/trainee235/umbrella.webp' position='center'/>
+        <ChName nameZh='傘をさす' nameEn='Umbrella' position='right' />
     </ChTab>
 </ChTabs>
 

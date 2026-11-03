@@ -9,7 +9,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+    <ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/brother3/normal.webp' 
             nameTitle='三師兄'
@@ -17,6 +17,48 @@ aside: false
 			desc='名は<ruby>陞<rt>しょう</rt></ruby>、<ruby>唐門<rt>とうもん</rt></ruby><ruby>掌門<rt>しょうもん</rt></ruby>が三番目の直弟子。<br>技を携えて入門したため、二人の<ruby>師兄<rt>しけい</rt></ruby>より年長である。<br>かつては志の高い<ruby>読書人<rt>どくしょじん</rt></ruby>だったが、権力者の不興を買い、<ruby>江湖<rt>こうこ</rt></ruby>に逃れた。趣味は講談、英才の教育、世の出来事を笑談すること。'
 			:animation=true
 		/>
+    </ChTab>
+    <ChTab title="微笑">
+        <Ch
+            src='/images/characters/brother3/laugh1.webp' 
+            position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch
+            src='/images/characters/brother3/nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="びっくり">
+        <Ch
+            src='/images/characters/brother3/nervous2.webp' 
+            position='center'/>
+        <ChName nameZh='びっくり' nameEn='Shock' position='right' />
+    </ChTab>
+    <ChTab title="気まずい">
+        <Ch
+            src='/images/characters/brother3/nervous3.webp' 
+            position='center'/>
+        <ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+    </ChTab>
+    <ChTab title="不機嫌">
+        <Ch
+            src='/images/characters/brother3/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+    </ChTab>
+    <ChTab title="悲しみ">
+        <Ch
+            src='/images/characters/brother3/sad1.webp' 
+            position='center'/>
+        <ChName nameZh='悲しみ' nameEn='Sad' position='right' />
+    </ChTab>
+    <ChTab title="重傷">
+        <Ch
+            src='/images/characters/brother3/hurt.webp' 
+            position='center'/>
+        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
     </ChTab>
 </ChTabs>
 <br>
@@ -158,7 +200,7 @@ aside: false
 -   [大師兄](/ja/people/characters/brother1.md)が下山するたびに、いつか嫁を連れて帰ってくるのではないかと気が気でない。
 -   [葉雲裳](/ja/people/characters/girl2.md)から「お爺ちゃん」と呼ばれている。
 
-[^1]: PTT C 洽 - [\[活俠\] 龍湘与奇怪的小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
+[^1]: PTT C 洽 - [\[活俠\] 龍湘与奇妙な小知識 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
 [^2]: バハムート - [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^3]: Facebook - [オリジナル鳥熊2023/3/24](https://www.facebook.com/photo.php?fbid=227827013104015&set=p.227827013104015&type=3)
 [^4]: Facebook - [オリジナル鳥熊2022/6/10](https://www.facebook.com/obbstudio/posts/pfbid02MXCJHSKuyf2njkZ3BT2Qtmx1HD6sjDJdWLx8sbmbKQ5BbiHLwQEjoDcGFo9CRqBQl)

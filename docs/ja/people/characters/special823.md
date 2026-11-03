@@ -35,12 +35,12 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[荊紅](/ja/people/characters/special824) (同伴)
+					[荊紅](/ja/people/characters/special824) (仲間)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[丁承烈](/ja/people/characters/special214) (同伴)
+					[丁承烈](/ja/people/characters/special214) (仲間)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -49,6 +49,14 @@ tags:
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special823/nervous.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="黒い笑み">
+		<Ch src='/images/characters/special823/gloomy2.webp' position='center'/>
+		<ChName nameZh='黒い笑み' nameEn='Sinister Smile' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>

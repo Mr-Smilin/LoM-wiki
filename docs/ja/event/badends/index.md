@@ -83,7 +83,7 @@ tags:
         </td>
         <td>
             1.崖に登って眺望し、「休息する」を選んだ後の判定に失敗する<br>
-            2.女弟子房の待ち伏せで、<Girl0Icon>唐黙鈴</Girl0Icon>に窓から谷へ突き落とされる<br>
+            2.女弟子室の待ち伏せで、<Girl0Icon>唐黙鈴</Girl0Icon>に窓から谷へ突き落とされる<br>
             3.第一年五月下旬までに裏山の薪拾いイベントが発生した場合（低確率）
         </td>
         <td>
@@ -124,9 +124,9 @@ tags:
             -
         </td>
         <td>
-            <li>煉丹房の<MarkdownWrapper>[唐錚との初対面](/ja/event/simple/1-04-1-初識唐錚)</MarkdownWrapper>で👉「そうさ、死にに来たんだ。それがどうした？」を選択</li>
+            <li>煉丹房の<MarkdownWrapper>[唐錚との初対面](/ja/event/simple/1-04-1-初識唐錚)</MarkdownWrapper>で👉「死にに来たんだよ、悪いか？」を選択</li>
             <li>いずれかの<MarkdownWrapper>[定期段階試験](/ja/event/simple/1-07-3-唐門段考)</MarkdownWrapper>で、🚩二師兄が試験官、対決に敗北し、ダイスで【🎲＜10 怪しい薬】が出る。</li>
-            <li>崆峒留学ルートの<MarkdownWrapper>[唐門に帰還](/ja/event/simple/2-10-1-返回唐門)</MarkdownWrapper>で、唐錚好感≧35かつ👉「先に二師兄と正事の相談をしましょう」を選び、さらに👉「この場で死ぬ」を選んで二師兄との対決が発生し、敗北する。</li>
+            <li>崆峒留学ルートの<MarkdownWrapper>[唐門に帰還](/ja/event/simple/2-10-1-返回唐門)</MarkdownWrapper>で、唐錚好感≧35かつ👉「二師兄との公務を優先する。」を選び、さらに👉「この場で死ぬ」を選んで二師兄との対決が発生し、敗北する。</li>
         </td>
         <td>
             -
@@ -146,7 +146,7 @@ tags:
             FPS ゲームのヘッドショット（頭部への一撃必殺）を指す。
         </td>
         <td>
-            1.<MarkdownWrapper>[葉氏兄妹との初対面](/ja/event/simple/1-04-3-初遇葉氏兄妹)</MarkdownWrapper>の船上で「ふりをする」(とぼける) を選び、続く🎲天運「嘘をつく」に失敗する<br>
+            1.<MarkdownWrapper>[葉氏兄妹との初対面](/ja/event/simple/1-04-3-初遇葉氏兄妹)</MarkdownWrapper>の船上で「とぼける。」を選び、続く🎲天運「嘘をつく」に失敗する<br>
             2.<Girl0Icon>唐黙鈴</Girl0Icon>の比武招親夜間に金烏上人襲来。「寄ってたかって殴る」を選択、団戦勝利後、追撃の最初の決闘で鉄拳弟子に敗北して逃亡に失敗（崆峒派への留学ができず、かつ鉄拳門入門もなく、唐黙鈴・葉雲舟・瑞笙が同行下山していない場合のみ）<br>
             3.青城留学ルートの終盤、<MarkdownWrapper>[青城からの脱出](/ja/event/simple/2-11-3-逃離青城)</MarkdownWrapper>でダイスが仙姑の待ち伏せになり、対決に敗北する<br>
         </td>
@@ -211,7 +211,7 @@ tags:
         </td>
         <td>
             裏山の薪拾いイベント（転落による）<br>
-            <Girl0Icon>唐黙鈴</Girl0Icon>の嫁入り後、女弟子房で低心相のときに発生
+            <Girl0Icon>唐黙鈴</Girl0Icon>の嫁入り後、女弟子室で低心相のときに発生
         </td>
         <td>
             -
@@ -473,7 +473,7 @@ tags:
             -
         </td>
         <td>
-            1. 唐門が葉家兄妹を受け入れておらず、崆峒派に留学した状態で、江陵囲城戦前の最後の夜に「打拳で気を散らす」を選ぶ。処世≦40だと屋敷の外で修行することになり、ダイスで80以上を出して女飛賊との決闘に敗北する<br>
+            1. 唐門が葉家兄妹を受け入れておらず、崆峒派に留学した状態で、江陵囲城戦前の最後の夜に「拳法の稽古で気晴らしをする」を選ぶ。処世≦40だと屋敷の外で修行することになり、ダイスで80以上を出して女飛賊との決闘に敗北する<br>
             2. <MarkdownWrapper>[廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>イベント中にある複数の殺される結末を参照<br>
         </td>
         <td>
@@ -494,7 +494,7 @@ tags:
             -
         </td>
         <td>
-            1. 江陵攻城イベントで想い人が<Girl7Icon>魏菊</Girl7Icon>のとき、王二壮が戦いを挑んできた場面でダイスが「悪い人物が動いた」になると、
+            1. 江陵攻城イベントで想い人が<Girl7Icon>魏菊</Girl7Icon>のとき、王二壮が戦いを挑んできた場面でダイスが「まずい人物が出てきた」になると、
             趙活が二撃目の掌を受ける。<Girl7Icon>小菊</Girl7Icon>の運功治療を受けることを選び、
             ダイスが<80：爆体して死亡（基本上限40、内功が加算）<br>
             2. 🚩「夏侯蘭に師事」(<MarkdownWrapper>[衣服が盗まれる](/ja/event/simple/2-04-1-衣服遭竊)</MarkdownWrapper>参照)の状態で、
@@ -550,7 +550,7 @@ tags:
             -
         </td>
         <td>
-            江陵攻城イベントで想い人が<Girl7Icon>魏菊</Girl7Icon>のとき、王二壮が戦いを挑んできた場面でダイスが「悪い人物が動いた」になると趙活が二撃目の掌を受ける。<Girl7Icon>小菊</Girl7Icon>の運功治療を受けることを選び、治療中のダイスで≧80（基本上限40、内功が加算）を出して鉄琵琶功を習得。その後のイベントで崆峒派弟子にならないことを選び、決闘に敗北する
+            江陵攻城イベントで想い人が<Girl7Icon>魏菊</Girl7Icon>のとき、王二壮が戦いを挑んできた場面でダイスが「まずい人物が出てきた」になると趙活が二撃目の掌を受ける。<Girl7Icon>小菊</Girl7Icon>の運功治療を受けることを選び、治療中のダイスで≧80（基本上限40、内功が加算）を出して鉄琵琶功を習得。その後のイベントで崆峒派弟子にならないことを選び、決闘に敗北する
         </td>
         <td>
             法度 = 規則
@@ -655,7 +655,7 @@ tags:
             -
         </td>
         <td>
-            崆峒派に留学し、江陵囲城戦の終了後、帰路の大地図移動で発生する落馬イベントでダイスが大失敗「命に関わることになった」になる
+            崆峒派に留学し、江陵囲城戦の終了後、帰路の大地図移動で発生する落馬イベントでダイスが大失敗「死人が出た」になる
         </td>
         <td>
             馬に踏み潰されるのは絶対に試すべき。<br>
@@ -718,7 +718,7 @@ tags:
             -
         </td>
         <td>
-            第二年十二月下旬に掌門好感＜40かつ唐錚好感≧30で「煉丹房の番をする」を選び、イベントのダイスで「主炉を開いてみよう！」を引く
+            第二年十二月下旬に掌門好感＜40かつ唐錚好感≧30で「煉丹房の番をする」を選び、イベントのダイスで「主炉を開けてみる！」を引く
         </td>
         <td>
             <MarkdownWrapper>~~舎利が出なかった。~~</MarkdownWrapper><br>
@@ -1076,7 +1076,7 @@ tags:
             2. <MarkdownWrapper>[廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>イベントで「逃げる」を選んで勝利し、道徳<40<br>
         </td>
         <td>
-            道徳が悪人以下かつ<Girl5Icon>夏侯蘭</Girl5Icon>に拝師していない場合
+            道徳が悪人以下かつ<Girl5Icon>夏侯蘭</Girl5Icon>に師事していない場合
         </td>
     </tr>
     <tr>
@@ -1137,9 +1137,9 @@ tags:
         <td>
             <Girl0Icon>唐黙鈴</Girl0Icon>の比武招親の下山イベント<MarkdownWrapper>[金烏との決闘](/ja/event/simple/3-05-1-對決金烏)</MarkdownWrapper>で、以下の流れを満たす:<br>
             1. 同行者がいない（現状は唐黙鈴・葉雲舟が同行可能、スクリプト上は瑞笙の同行も存在する）<br>
-            2. 金烏との初戦に敗北する。または勝利した上で🚩「<MarkdownWrapper>[金烏の死んだふりを見ていない](/ja/people/characters/special207_death#見過金烏詐死)</MarkdownWrapper>」かつ擲骰の結果が【🎲＜90 奇襲を受ける】<br>
+            2. 金烏との初戦に敗北する。または勝利した上で🚩「<MarkdownWrapper>[金烏の死んだふりを見ていない](/ja/people/characters/special207_death#見過金烏詐死)</MarkdownWrapper>」かつダイスの結果が【🎲＜90 不意打ちを受ける】<br>
             3. 再戦で金烏に敗北し、選択肢が発生する<br>
-            4. 👉「降参」を選ぶ。または👉「戦う」を選び、3回の擲骰で少なくとも1回【🎲＜50 降参】が出る<br>
+            4. 👉「降参する」を選ぶ。または👉「ぶちのめす」を選び、3回のダイスで少なくとも1回【🎲＜50 降参する】が出る<br>
         </td>
         <td>
             要するに「びっくり死」
@@ -1271,7 +1271,7 @@ tags:
         <td>
             1.葉家兄妹についての江湖の噂を聞いた後に下山すると宿屋で葉家兄妹イベントが発生。「二階へ上がる」か「下で待つ」を選び、その後の点蒼弟子との決闘に敗北する<br>
             ※唐惟元が牛を買うイベントで薬代を出して<Girl2Icon>葉雲裳</Girl2Icon>を救っていなくても発生する。この場合は葉家兄妹との初対面になるが、<Girl2Icon>葉雲裳</Girl2Icon>がいきなり趙活を「趙哥哥」と呼ぶ。バグの疑いあり<br>
-            2.<MarkdownWrapper>[「武林大会へ向かう」](/ja/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>の道中前半にランダムで<MarkdownWrapper>[点蒼派との遭遇](/ja/event/simple/3-09-1-遭遇點蒼派)</MarkdownWrapper>が発生し、🚩「宋悲が武林大会に同行」(<MarkdownWrapper>[官兵との遭遇](/ja/event/simple/3-09-1-遭遇官兵)</MarkdownWrapper>参照)が無いときに現れる選択肢で「代表を選んで一対一で手合わせ」を選び、決闘に敗北する
+            2.<MarkdownWrapper>[「武林大会へ向かう」](/ja/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>の道中前半にランダムで<MarkdownWrapper>[点蒼派との遭遇](/ja/event/simple/3-09-1-遭遇點蒼派)</MarkdownWrapper>が発生し、🚩「宋悲が武林大会に同行」(<MarkdownWrapper>[官兵との遭遇](/ja/event/simple/3-09-1-遭遇官兵)</MarkdownWrapper>参照)が無いときに現れる選択肢で「代表を選び、一対一で勝負する」を選び、決闘に敗北する
         </td>
         <td>
             -
@@ -1313,7 +1313,7 @@ tags:
             2. <MarkdownWrapper>[丐幇と嵩山の喧嘩](/ja/event/simple/1-08-3-丐幫與嵩山打架)</MarkdownWrapper>イベントで下山し、和尚と乞食の混戦が終わった後のダイスで「あなたの敗北」を引く<br>
             3. 廃寺で<Girl8Icon>龍湘</Girl8Icon>と初めて出会うイベントで姉弟と呼び合う関係に至らず、その後の<Girl8Icon>龍湘</Girl8Icon>との決闘に敗北する<br>
             4. 留学しない宿屋ルートで唐門を離れて龍淵と千面人魔に出会ったとき、龍淵か千面人魔のどちらかとの決闘に敗北する<br>
-            5. 青城留学ルートで、<MarkdownWrapper>[趙逵の登山](/ja/event/simple/2-11-3-趙逵上山)</MarkdownWrapper>の際に道徳＞40で趙逵に引き留められ、趙逵と鄒博が掌を合わせる場面で👉「動く」を選び、さらにダイスが【≧70】封じられた経穴を突破 になる<br>
+            5. 青城留学ルートで、<MarkdownWrapper>[趙逵の登山](/ja/event/simple/2-11-3-趙逵上山)</MarkdownWrapper>の際に道徳＞40で趙逵に引き留められ、趙逵と鄒博が掌を合わせる場面で👉「動く」を選び、さらにダイスが【≧70】封じられた穴道を突破する になる<br>
         </td>
         <td>
             このエンディング説明文は同様に<br>
@@ -1417,7 +1417,7 @@ tags:
             送頭（人頭送り）：あるゲームで敵キャラに最後の一撃を与えることで大量の金貨が得られることを「人頭」と呼ぶ
         </td>
         <td>
-            留学せずに唐門へ戻った後、「唐門を離れる」を選び、ダイスで「別派に投じる」が出て、峨嵋派弟子との戦闘に敗北する
+            留学せずに唐門へ戻った後、「唐門を離れる」を選び、ダイスで「他の門派に入門する」が出て、峨嵋派弟子との戦闘に敗北する
         </td>
         <td>
             -
@@ -1439,7 +1439,7 @@ tags:
             -
         </td>
         <td>
-            留学せずに唐門へ戻った後、「唐門を離れる」を選び、ダイスで「別派に投じる」が出て、峨嵋派弟子との戦闘に勝利する
+            留学せずに唐門へ戻った後、「唐門を離れる」を選び、ダイスで「他の門派に入門する」が出て、峨嵋派弟子との戦闘に勝利する
         </td>
         <td>
             -
@@ -1596,7 +1596,7 @@ tags:
             杜甫『蜀相』より。蜀の征伐は成功せず、軍中で病死した話。
         </td>
         <td>
-            <MarkdownWrapper>[武林大会へ向かう](/ja/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>の道中にランダムで<MarkdownWrapper>[地獄道が道を塞ぐ](/ja/event/simple/3-09-1-地獄道攔路)</MarkdownWrapper>か<MarkdownWrapper>[餓鬼道が道を塞ぐ](/ja/event/simple/3-09-1-餓鬼道攔路)</MarkdownWrapper>が発生し、🚩「宋悲が武林大会に同行」(<MarkdownWrapper>[官兵との遭遇](/ja/event/simple/3-09-1-遭遇官兵)</MarkdownWrapper>参照)が無いときに現れる選択肢で「全力で戦う」を選び、混戦で敗北する<br>
+            <MarkdownWrapper>[武林大会へ向かう](/ja/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>の道中にランダムで<MarkdownWrapper>[地獄道が道を塞ぐ](/ja/event/simple/3-09-1-地獄道攔路)</MarkdownWrapper>か<MarkdownWrapper>[餓鬼道が道を塞ぐ](/ja/event/simple/3-09-1-餓鬼道攔路)</MarkdownWrapper>が発生し、🚩「宋悲が武林大会に同行」(<MarkdownWrapper>[官兵との遭遇](/ja/event/simple/3-09-1-遭遇官兵)</MarkdownWrapper>参照)が無いときに現れる選択肢で「全力で迎え撃つ」を選び、混戦で敗北する<br>
         </td>
         <td>
             唐門も蜀中にある。これは偶然か？<br>
@@ -1608,7 +1608,7 @@ tags:
             <BadendIcon :no="66">生死簿 No.66</BadendIcon>
         </td>
         <td>
-            <ruby>道士<rt>どうし</rt></ruby>の妖怪退治 (被道士當妖怪誤殺)
+            <ruby>道士<rt>どうし</rt></ruby>に妖怪として退治される (被道士當妖怪誤殺)
         </td>
         <td>
            「何処の妖魔か、命を寄越せ！……何、人間だと？ちくしょう、まずいことになった。」
@@ -1617,7 +1617,7 @@ tags:
             -
         </td>
         <td>
-            1. <MarkdownWrapper>[武林大会へ向かう](/ja/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>の道中後半にランダムで<MarkdownWrapper>[全真教との遭遇](/ja/event/simple/3-09-1-遭遇全真教)</MarkdownWrapper>が発生し、🚩「宋悲が武林大会に同行」(<MarkdownWrapper>[官兵との遭遇](/ja/event/simple/3-09-1-遭遇官兵)</MarkdownWrapper>参照)が無く門派規模<3のときに現れる選択肢で「唐門を舐めるか。ぶん殴ってやる！」を選び、全真長老との決闘に敗北する<br>
+            1. <MarkdownWrapper>[武林大会へ向かう](/ja/event/simple/3-09-1-前往武林大會)</MarkdownWrapper>の道中後半にランダムで<MarkdownWrapper>[全真教との遭遇](/ja/event/simple/3-09-1-遭遇全真教)</MarkdownWrapper>が発生し、🚩「宋悲が武林大会に同行」(<MarkdownWrapper>[官兵との遭遇](/ja/event/simple/3-09-1-遭遇官兵)</MarkdownWrapper>参照)が無く門派規模<3のときに現れる選択肢で「唐門を舐めるか。ぶん殴ってやる！」を選び、全真派長老との決闘に敗北する<br>
             2. 青城ルートで「上清宮-道士下山」を選ぶと決闘イベントに遭遇することがあり、敗北すれば発生
         </td>
         <td>
@@ -1639,7 +1639,7 @@ tags:
             -
         </td>
         <td>
-            <Girl5Icon>夏侯蘭</Girl5Icon>に拝師しており、<Girl0Icon>唐黙鈴</Girl0Icon>の比武招親の「寄ってたかって殴る」団戦で敗北すると<Girl5Icon>夏侯蘭</Girl5Icon>が崆峒へ殴り込みに連れて行く。そこでの金烏上人との戦闘で敗北する
+            <Girl5Icon>夏侯蘭</Girl5Icon>に師事しており、<Girl0Icon>唐黙鈴</Girl0Icon>の比武招親の「寄ってたかって殴る」団戦で敗北すると<Girl5Icon>夏侯蘭</Girl5Icon>が崆峒へ殴り込みに連れて行く。そこでの金烏上人との戦闘で敗北する
         </td>
         <td>
             -
@@ -1856,7 +1856,7 @@ tags:
             -
         </td>
         <td>
-            1. 武林大会前に錦香宮へ滞在中、温夫人に2回目に呼び出されたとき、2回目の選択肢で「ナンセンスだ」を選び（品性<40、性情>60が必要）、その後「居座る」を選んで温夫人と決闘する。勝敗にかかわらずシナリオ上の死<br>
+            1. 武林大会前に錦香宮へ滞在中、温夫人に2回目に呼び出されたとき、2回目の選択肢で「戯言だ」を選び（品性<40、性情>60が必要）、その後「居座って動かない」を選んで温夫人と決闘する。勝敗にかかわらずシナリオ上の死<br>
             2. 廃寺ルートの唐門夜襲で「弟子房を守る」を繰り返し選ぶ
         </td>
         <td>
@@ -1923,8 +1923,8 @@ tags:
             武林大会で錦香宮を支持する(<MarkdownWrapper>[唐門の決断](/ja/event/simple/3-10-2-唐門抉擇)</MarkdownWrapper>)と、団戦の勝敗にかかわらず、その後の決闘で上官隼か南宮深に敗北する<br>
             <br>
             武林大会で錦香宮を支持する条件（いずれか）：<br>
-            1. <Girl8Icon>龍湘</Girl8Icon>好感≧30で、「周囲の冷眼に構わず龍湘を受け入れる」を選ぶ<br>
-            2. 条件1に当てはまらない場合は🚩錦香宮を支持できる状態が必要（条件は<MarkdownWrapper>[唐門の決断](/ja/event/simple/3-10-2-唐門抉擇#條件判定)</MarkdownWrapper>を参照）。そのうえで「錦香宮を支援する」を選ぶ<br>
+            1. <Girl8Icon>龍湘</Girl8Icon>好感≧30で、「周囲の冷たい視線を気にせず龍湘を受け入れる」を選ぶ<br>
+            2. 条件1に当てはまらない場合は🚩錦香宮を支持できる状態が必要（条件は<MarkdownWrapper>[唐門の決断](/ja/event/simple/3-10-2-唐門抉擇#條件判定)</MarkdownWrapper>を参照）。そのうえで「錦香宮を支持する」を選ぶ<br>
         </td>
         <td>
             -
@@ -1949,7 +1949,7 @@ tags:
             南宮浅好感≧40で、武林大会の<MarkdownWrapper>[南宮家への哀悼](/ja/event/simple/3-10-2-戰後閒聊#致哀南宮)</MarkdownWrapper>の際に<MarkdownWrapper>[南宮浅を追う](/ja/event/simple/3-10-2-追南宮淺)</MarkdownWrapper>を選び、南宮浅との対決に敗北する
         </td>
         <td>
-            これを…一物剋一物と言うのか？
+            これが…一物が一物を制すってやつか？
         </td>
     </tr>
 </Btable>
@@ -1996,7 +1996,7 @@ tags:
         </td>
         <td>
             武林大会の大戦後、<MarkdownWrapper>[南宮家への哀悼](/ja/event/simple/3-10-2-戰後閒聊#致哀南宮)</MarkdownWrapper>の際、南宮浅好感≧40で
-            👉<MarkdownWrapper>[「南宮浅を追う」](/ja/event/simple/3-10-2-追南宮淺)</MarkdownWrapper>を選び、追いついた後の南宮浅との対決に勝利する。その後、性情≧60または処世≧60で解放される👉「追いつけなくても一発殴ってやる」を選んで、袁無憲との対戦に敗北する
+            👉<MarkdownWrapper>[「南宮浅を追う」](/ja/event/simple/3-10-2-追南宮淺)</MarkdownWrapper>を選び、追いついた後の南宮浅との対決に勝利する。その後、性情≧60または処世≧60で解放される👉「追いつけなくてもぶん殴ってやる」を選んで、袁無憲との対戦に敗北する
         </td>
         <td>
             -
@@ -2071,7 +2071,7 @@ tags:
             -
         </td>
         <td>
-            西武林盟を結成し、武林大会で錦香宮を支援しておらず（武林大会で<Girl8Icon>龍湘</Girl8Icon>を受け入れると錦香宮支援しか選べなくなるため、受け入れてはいけない）、丹霞子が唐門に加わっていない（唐惟元を崆峒派への救援要請に派遣して失敗していてはいけない）状態で、唐門囲攻戦で「戦略：唐門出撃」を選び、その後の万里鵬程が音波功を使う場面で「門を固く閉ざす」を選ぶ。内力<20または性情<20だとそのまま恐怖で死ぬ
+            西武林盟を結成し、武林大会で錦香宮を支援しておらず（武林大会で<Girl8Icon>龍湘</Girl8Icon>を受け入れると錦香宮支援しか選べなくなるため、受け入れてはいけない）、丹霞子が唐門に加わっていない（唐惟元を崆峒派への救援要請に派遣して失敗していてはいけない）状態で、唐門囲攻戦で「戦役：唐門出撃」を選び、その後の万里鵬程が音波功を使う場面で「門を固く閉ざす」を選ぶ。内功<20または性情<20だとそのまま恐怖で死ぬ
         </td>
         <td>
             同意だ
@@ -2246,8 +2246,8 @@ tags:
         </td>
         <td>
             以下の流れを参照:<br>
-            <li>唐惟元好感≥40かつ銀両≥100で、男弟子房で<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>を行い、「四師兄に挑戦」を選んで対決に勝利する</li>
-            <li>唐惟元好感≥50で、再び男弟子房で四師兄と雑談し、「四師兄の実力」を選ぶ</li>
+            <li>唐惟元好感≥40かつ銀両≥100で、男弟子室で<MarkdownWrapper>[四師兄との雑談](/ja/event/simple/0-0-0-四師兄閒聊)</MarkdownWrapper>を行い、「四師兄に挑戦」を選んで対決に勝利する</li>
+            <li>唐惟元好感≥50で、再び男弟子室で四師兄と雑談し、「四師兄の実力」を選ぶ</li>
             <li>銀両≥1000で、再び四師兄と雑談して「全力の四師兄に挑戦」を選び、対決で敗北する</li>
         </td>
         <td>
@@ -2310,7 +2310,7 @@ tags:
             -
         </td>
         <td>
-            廃寺ルートで女弟子房に直接乱入し、敗北する
+            廃寺ルートで女弟子室に直接乱入し、敗北する
         </td>
         <td>
             -
@@ -2353,7 +2353,7 @@ tags:
             -
         </td>
         <td>
-            青城留学ルートで、<MarkdownWrapper>[青城の段階試験](/ja/event/simple/2-11-3-青城段考)</MarkdownWrapper>の下山時に地獄道の鬼卒と遭遇し、👉「青城には恩がある、助けねばならない」を選んで決闘に敗北。
+            青城留学ルートで、<MarkdownWrapper>[青城の段階試験](/ja/event/simple/2-11-3-青城段考)</MarkdownWrapper>の下山時に地獄道の鬼卒と遭遇し、👉「青城には恩がある、助けなければ」を選んで決闘に敗北。
         </td>
         <td>
             -
@@ -2414,7 +2414,7 @@ tags:
             -
         </td>
         <td>
-            <MarkdownWrapper>[南宮己の拷問](/ja/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>イベントで、南宮己の命乞いを取り次いだ後に【🎲＜20 怪しすぎる】が出る。<br>
+            <MarkdownWrapper>[南宮己の拷問](/ja/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>イベントで、南宮己の命乞いを取り次いだ後に【🎲＜20 貴様も怪しいな】が出る。<br>
             • 要件: 品性＞40、かつ性情＜80、かつ道徳≥40、かつ唐錚好感＜20（運命収束の力なし）または＜70（運命収束の力あり）。<br>
         </td>
         <td>
@@ -2484,7 +2484,7 @@ tags:
             「俺は力を入れてない。なのにお前は倒れた。」『西遊記後伝』
         </td>
         <td>
-            <MarkdownWrapper>[南宮己の拷問](/ja/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>イベントで、拷問方法に「肉体への責め」を選び決闘に敗北する。
+            <MarkdownWrapper>[南宮己の拷問](/ja/event/simple/2-09-1-拷問南宮己)</MarkdownWrapper>イベントで、拷問方法に「肉体的拷問」を選び決闘に敗北する。
         </td>
         <td>
             -
@@ -2545,7 +2545,7 @@ tags:
             -
         </td>
         <td>
-            <MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「谷底での生活」](/ja/event/simple/3-05-1-谷底生活)</MarkdownWrapper>で、三日目に採取した薬草が【🎲≥66 劇毒の薬草】、かつ道徳＜40の状態で、👉「そう、口で吸い出すしかない（嘘）」を選択する。<br>
+            <MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「谷底での生活」](/ja/event/simple/3-05-1-谷底生活)</MarkdownWrapper>で、三日目に採取した薬草が【🎲≥66 劇毒の薬草】、かつ道徳＜40の状態で、👉「ああ、口で吸い出さないとな（嘘）」を選択する。<br>
         </td>
         <td>
             -
@@ -2565,7 +2565,7 @@ tags:
             同名ゲーム『undertale』
         </td>
         <td>
-            <MarkdownWrapper>[葉雲裳結縁攻略](/ja/event/pursuit/girl2)</MarkdownWrapper>で結縁して西武林ルートに入り、<MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>で「三師兄を守る」を選択。前 2 戦に勝った後、無相祖師との 1 戦目で 8 ラウンドに達する前に敗北するか、2 戦目で敗北する。
+            <MarkdownWrapper>[葉雲裳結縁攻略](/ja/event/pursuit/girl2)</MarkdownWrapper>で結縁して西武林ルートに入り、<MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>で「決闘：三師兄を護衛する」を選択。前 2 戦に勝った後、無相祖師との 1 戦目で 8 ラウンドに達する前に敗北するか、2 戦目で敗北する。
         </td>
         <td>
             -
@@ -2596,8 +2596,35 @@ tags:
           <li>
             その後の<MarkdownWrapper>[鎮魂獄での拘留](/ja/event/simple/2-03-3-鎮魂獄羈押)</MarkdownWrapper>で、
             <MarkdownWrapper>[小梅の着替え](/ja/event/simple/2-03-3-鎮魂獄羈押#小梅更衣)</MarkdownWrapper>まで進んだとき、
-            👉「素直に見せなさい」を選び、ダイスで【🎲≥50 少し見えた】が出る。
+            道徳＜40、かつ性情≥60で、<br>
+            👉「おとなしく俺にも見せろ！」を選び、ダイスで【🎲≥50 少し見えた】が出る。
           </li>
+        </td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.107">
+            <BadendIcon :no="107">生死簿 No.107</BadendIcon>
+        </td>
+        <td>
+            鳥に殺される (被鳥殺死)
+        </td>
+        <td>
+            あなたは有史以来最初の、そして唯一の犠牲者だ。
+        </td>
+        <td>-</td>
+        <td>
+            <li>
+                🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学し、
+                🚩<MarkdownWrapper>[崆峒派への留学](/ja/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>で飛天門に入門。
+            </li>
+            <li>
+                <MarkdownWrapper>[鶴崖イベント集](/ja/event/simple/2-03-3-鶴崖事件集#解放条件)</MarkdownWrapper>の🚩「鶴崖を開放」後、
+                「鶴崖」コマンドを選び、他のサブイベントが発生しない。
+            </li>
+            <li>
+                <MarkdownWrapper>[火閃電に教えを請う](/ja/event/simple/2-03-3-向火閃電討教)</MarkdownWrapper>が発生したあと、決闘に敗北する。
+            </li>
         </td>
         <td>-</td>
     </tr>
@@ -2659,7 +2686,9 @@ tags:
             想うは公子の往時、小竹は嫁いだばかり、雄姿英発。<br>
             鉄鎚とマフラー、談笑のうちに、趙活は灰燼と消えた。
         </td>
-        <td>-</td>
+        <td>蘇軾「念奴嬌・赤壁懐古」:<br>
+            遥かに想う公瑾の当年、小喬初めて嫁し、雄姿英発。<br>
+            羽扇綸巾、談笑の処、強虜は灰飛煙滅す。</td>
         <td>
             <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学する。</li>
             <li><Girl3Icon>虞小梅</Girl3Icon>ルートで<MarkdownWrapper>[郁竹の帰郷準備](/ja/event/simple/2-04-1-郁竹返家準備)</MarkdownWrapper>が発生する。</li>
@@ -2670,6 +2699,247 @@ tags:
                 続いて発生する🆚「戦：余公子」に勝利し、さらに🆚「戦：郁竹」に敗北する。
             </li>
         </td>
+        <td>-</td>
+    </tr>
+</Btable>
+
+## 生死簿 No.111 - 生死簿 No.120
+
+<Btable>
+    <tr>
+        <td>
+            エンディング番号
+        </td>
+        <td>
+            エンディング名
+        </td>
+        <td>
+            エンディング説明文
+        </td>
+        <td>
+            ネタバレ
+        </td>
+        <td>
+            達成条件
+        </td>
+        <td>
+            備考
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.111">
+            <BadendIcon :no="111">生死簿 No.111</BadendIcon>
+        </td>
+        <td>
+            試し斬りの犠牲者 (試劍的犧牲品)
+        </td>
+        <td>
+            名剣は人を斬り血を吸わせてこそ真の切れ味を得る（刃開き）、と信じ込む狂人がいる。<br>
+            かくして通りすがりの不運なあなたは、あえなくその犠牲となった。
+        </td>
+        <td>-</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学</li>
+            <li>🚩鉄拳巷を訪れた回数≥4</li>
+            <li><Girl6Icon>郁竹</Girl6Icon>好感≥25</li>
+            <li>🚩神兵帖の進行度=0 (<MarkdownWrapper>[神兵帖シリーズイベント](/ja/event/simple/2-05-3-神兵帖系列事件)</MarkdownWrapper>を参照)</li>
+            <li>2年目5月下旬から6月中旬に「鉄拳巷」コマンドを選び、<MarkdownWrapper>[「神兵会の招待状」](/ja/event/simple/2-05-3-神兵會請帖)</MarkdownWrapper>イベントを発生させる</li>
+            <li>イベント中の🆚鍛冶屋との対決で敗北する</li>
+        </td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.112">
+            <BadendIcon :no="112">生死簿 No.112</BadendIcon>
+        </td>
+        <td>
+            小梅の謀殺 (小梅的謀殺)
+        </td>
+        <td>
+            今日の小梅は悪い小梅だ。<br>
+            悪人は悪事を働いても眉一つ動かさない。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.113">
+            <BadendIcon :no="113">生死簿 No.113</BadendIcon>
+        </td>
+        <td>
+            国のために命を捧ぐ (為國捐軀)
+        </td>
+        <td>
+            だが大宋の官家があなたに感謝することはなく、<br>
+            誰の記憶にも残らない。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.114">
+            <BadendIcon :no="114">生死簿 No.114</BadendIcon>
+        </td>
+        <td>
+            新絶招の生贄 (新絕招的祭品)
+        </td>
+        <td>
+            新たな絶招が世に出るたび、取るに足りない雑魚が何人か斬られ、<br>
+            その技の凄まじさが示される。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.115">
+            <BadendIcon :no="115">生死簿 No.115</BadendIcon>
+        </td>
+        <td>
+            急死 (暴斃)
+        </td>
+        <td>
+            相手は肋骨が折れ、この勝負は負けだと観念していた。<br>
+            だがあなたはそれ以上にふがいなく、その場でぽっくり頓死した。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.116">
+            <BadendIcon :no="116">生死簿 No.116</BadendIcon>
+        </td>
+        <td>
+            猿も木から落ちる (人有失足)
+        </td>
+        <td>
+            金烏上人に勝ったあなたが、あろうことか道端の山賊の手にかかって命を落とした。<br>
+            その山賊たちはこれで江湖の伝説となり、<br>
+            それぞれ何人もの妻を娶って家名を揚げた。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.117">
+            <BadendIcon :no="117">生死簿 No.117</BadendIcon>
+        </td>
+        <td>
+            玄功門の変 (玄功門之變)
+        </td>
+        <td>
+            あなたは後に「玄功門の変」と呼ばれる崆峒の武装政変で命を落とし、<br>
+            数え切れない無名の犠牲者の一人となった。<br>
+            想い人は、あなたが自分のために駆けつけたことを最後まで知らなかった。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.118">
+            <BadendIcon :no="118">生死簿 No.118</BadendIcon>
+        </td>
+        <td>
+            鞭打たれて死ぬ (鞭死)
+        </td>
+        <td>
+            荊紅はあなたを倒し、灯をともして初めて、<br>
+            斬り合っていた相手が夏侯蘭ではなく、<br>
+            あなたのような醜い代物だったと気づいた。<br>
+            激怒した彼女は、あなたの死体を鞭打ち、どろどろの血肉の塊に変わるまでやめなかった。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.119">
+            <BadendIcon :no="119">生死簿 No.119</BadendIcon>
+        </td>
+        <td>
+            最後の藁 (稻草)
+        </td>
+        <td>
+            あなたは崆峒山で魂を散らし、首は唐門への見せしめに送り返された。<br>
+            新旧の恨みが重なって師兄弟たちは理性を失い、<br>
+            崆峒へ攻め上って双方深手を負い、眉山へ引き返す途上で<br>
+            千灯楼に挟み撃ちされ、全滅した。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.120">
+            <BadendIcon :no="120">生死簿 No.120</BadendIcon>
+        </td>
+        <td>
+            探検隊全滅 (探險隊全滅)
+        </td>
+        <td>
+            冒険とは、胸の高鳴りや血のたぎりだけではなく、危険も伴うものだ。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+</Btable>
+
+## 生死簿 No.121 - 生死簿 No.122
+
+<Btable>
+    <tr>
+        <td>
+            エンディング番号
+        </td>
+        <td>
+            エンディング名
+        </td>
+        <td>
+            エンディング説明文
+        </td>
+        <td>
+            ネタバレ
+        </td>
+        <td>
+            達成条件
+        </td>
+        <td>
+            備考
+        </td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.121">
+            <BadendIcon :no="121">生死簿 No.121</BadendIcon>
+        </td>
+        <td>
+            壁に激突して死ぬ (撞牆死)
+        </td>
+        <td>
+            あなたは壁にめり込み、ほじくり出せなくなった。
+        </td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td id="生死簿-No.122">
+            <BadendIcon :no="122">生死簿 No.122</BadendIcon>
+        </td>
+        <td>
+            餓死
+        </td>
+        <td>
+            秘境に落ちた者のすべてに、生きて脱出する機会があるわけではない。<br>
+            たとえばあなたには、その運がなかった。
+        </td>
+        <td>-</td>
+        <td>-</td>
         <td>-</td>
     </tr>
 </Btable>

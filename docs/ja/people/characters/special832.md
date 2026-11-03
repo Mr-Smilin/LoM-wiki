@@ -51,6 +51,30 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special832/laugh.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special832/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special832/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch src='/images/characters/special832/nervous3.webp' position='center'/>
+		<ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special832/angry.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="やつれ">
+		<Ch src='/images/characters/special832/special1.webp' position='center'/>
+		<ChName nameZh='やつれ' nameEn='Haggard' position='right' />
+	</ChTab>
 </ChTabs>
 <br>
 

@@ -42,6 +42,10 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special818/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
@@ -60,6 +64,8 @@ tags:
 -   鳥熊のFacebookの紹介は[リンク](https://www.facebook.com/photo.php?fbid=340029288550453&id=100076301525150&set=a.165167019370015)。
 -   元々は豆蔻の年を「舞勺の年」と書いていたが、その後鳥熊が誤ってネタバレしたと言って変更した。ということは書蓉の性別は...!？
 -   元々は攻略可能な対象だったが、開発圧力のため削除された。
--   初期設定では、書蓉は[温夫人](/ja/people/characters/special402)が[瑞杏](/ja/people/characters/girl1)のそばに送り込んだ間者だった。逆に「錦香宮殺人魔」([龍湘](/ja/people/characters/girl8)) は瑞杏の指図で温夫人を監視しており、最終的に両者とも寝返って相手側の陣営につき、プレイヤーがどちらか一方を自陣営に引き込める構想だった。[^1]
+-   初期設定では、書蓉は[温夫人](/ja/people/characters/special402)が[瑞杏](/ja/people/characters/girl1)のそばに送り込んだ間者だった。逆に「錦香宮の殺人魔」([龍湘](/ja/people/characters/girl8)) は瑞杏の指図で温夫人を監視しており、最終的に両者とも寝返って相手側の陣営につき、プレイヤーがどちらか一方を自陣営に引き込める構想だった。[^1]
+-   <MarkdownWrapper>||[温夫人](/ja/people/characters/special402)、[画中仙](/ja/people/characters/special813)姉妹と血縁がある。[虞小梅](/ja/people/characters/girl3)ルートの武林大会で[錦香宮への挨拶](/ja/event/simple/3-10-2-武林交際#拜會錦香)に行った際、温夫人が「わたしたち姉妹が世に残る身内は、書蓉姉弟のほかにまだいるのかしら」と心の中で思う。||</MarkdownWrapper>
+-   <MarkdownWrapper>||[郁竹](/ja/people/characters/girl6)ルートの崆峒争奪戦の隠しシナリオ(条件は[姚不知名](/ja/people/characters/special216)を参照)で、[画中仙](/ja/people/characters/special813)が[無相祖師](/ja/people/characters/special212_2)に、家に帰って告げ口するなら「第四代」が恨み帳に彼の名を一筆書き足す、と言う。||</MarkdownWrapper>
 
 [^1]: [専訪鳥熊鼠虫 129題訪談](/ja/other/qna/interview-129)の第5篇

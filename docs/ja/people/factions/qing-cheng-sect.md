@@ -61,7 +61,7 @@ tags:
 
 ## 香火
 
-青城派は道観であり、符を求める参拝客が絶えず、時には山を下りて厄払いを頼まれることもある。外から見れば「香火銭がたっぷり稼げる」道観だが、門人の側は「青城派の暮らしは清貧で、参拝客の香油銭は主に道観の維持に充てられ、日々の暮らしに要るもの以外の余剰はない」と語る。[南宮橫](/ja/people/characters/special104)が門戸の垣根をなくそうと各派に大金を振る舞った際も、青城派は真っ先に断っている。
+青城派は道観であり、符を求める参拝客が絶えず、時には山を下りて厄払いを頼まれることもある。外から見れば「香火銭がたっぷり稼げる」道観だが、門人の側は「青城派の暮らしは清貧で、参拝客の香油銭は主に道観の維持に充てられ、日々の暮らしに要るもの以外の余剰はない」と語る。[南宮横](/ja/people/characters/special104)が門戸の垣根をなくそうと各派に大金を振る舞った際も、青城派は真っ先に断っている。
 
 ## 無為丹道
 
@@ -77,13 +77,13 @@ tags:
 <br><br>
 この仙丹は極めて稀少であり、一枚を煉成するのに数年を要し、貴重な材料も数えきれぬほど多く必要とし、且つ派中の高手が内功を運用して護持する必要がある。趣意は道家の内功と合して、修練者が煉神還虚へと至り、大道至簡の純樸妙境に回帰し、寿元消耗を減緩することである。
 <br><br>
-[唐中翎](/ja/people/characters/master)掌門が旧魔教戦後、傷病に纏わられ、鄒道長は一枚を送った。唐門掌門は[唐錚](/ja/people/characters/brother2)に賜り、丹方を研究する為に化解させ、唐門の胡椒粉毒を改良したが、掌門の痼疾を治すことはできなかった。
+[唐中翎](/ja/people/characters/master)掌門が旧魔教との戦いの後で傷と病に苦しんでいたとき、鄒道長が一粒贈ったことがある。唐門掌門はそれを[唐錚](/ja/people/characters/brother2)に与え、溶かして研究させた。おかげで唐門の胡椒粉毒は改良されたが、掌門の持病は治らなかった。
 <br><br>
 [葉雲舟](/ja/people/characters/special3)はかつて青城派に来て丹を求め、[葉雲裳](/ja/people/characters/girl2)の病を治したいと願ったが、最後に[申屠龍](/ja/people/characters/special405)に追い払われた。
 <br><br>
-[南宮橫](/ja/people/characters/special104)南宮老人家主が百歳を迎えた時、青城鄒掌門もまた一枚を寿礼として贈った。もしこの時[唐門](/ja/people/factions/tang-men)の礼物が《万寿回春丹》を選べば、上記の薬効と、双丹の薬力相衝之事が言及される。
+南宮老太爺こと[南宮横](/ja/people/characters/special104)の百歳の寿宴でも、青城の鄒掌門は一粒を祝いの品として贈った。このとき[唐門](/ja/people/factions/tang-men)の祝いの品に《万寿回春丹》を選んでいると、上記の薬効と、二つの丹薬の効き目がぶつかり合うことに話が及ぶ。
 
-## 趙逵叛逃
+## 趙逵の離反
 
 かつての[旧魔教との頂上決戦](/ja/event/stories/決戰極樂教)の最終局面、正邪それぞれ三名ずつの絶世の高手が出て、生死を決し英雄を論じた。青城[鄒博](/ja/people/characters/special201)掌門の師弟[趙逵](/ja/people/characters/special403)は、[極楽左使](/ja/people/characters/special213)と対戦して敗れ、重傷を負った。左使はそのまま姿をくらました。
 <br><br>
@@ -98,10 +98,10 @@ tags:
 - [虎嘯功](/ja/system/books/book_7016)
 - [陰陽奪](/ja/system/books/book_7018)
 
-## 画廊
+## ギャラリー
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_03.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_03.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>

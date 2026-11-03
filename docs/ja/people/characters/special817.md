@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="趙拡">
 		<Ch src='/images/characters/special817/normal.webp' position='right'/>
-		<ChName nameZh='趙擴' nameEn='Zhao Kuo' position='right' />
+		<ChName nameZh='趙拡' nameEn='Zhao Kuo' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -49,6 +49,10 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special817/nervous.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
@@ -56,4 +60,4 @@ tags:
 <br><br>
 [唐中翎](/ja/people/characters/master)が当時処刑場を襲撃したのは王権を軽視する行為だと考え、[上官隼](/ja/people/characters/special407)に命じて唐門を弱体化させ、風雨山武林大会を開催してトラ（唐門）を使って狼（他の勢力）を食べさせるような展開を狙って唐門を殲滅しようとする。
 <br><br>
-初版の平手エンディングでは、[瑞杏](/ja/people/characters/girl1)を皇姉と呼び、唯々諾々として反抗できない。その後瑞杏が不満を持って送り出され、八月初三に史官が伝えるところによれば福寧殿で崩ずるという。
+初版の引き分けエンディングでは、[瑞杏](/ja/people/characters/girl1)を皇姉と呼び、唯々諾々として反抗できない。その後瑞杏が不満を持って送り出され、八月初三に史官が伝えるところによれば福寧殿で崩ずるという。

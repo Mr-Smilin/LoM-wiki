@@ -14,7 +14,20 @@ tags:
 
 ### 大眼錐
 
-<img src="/images/mobs/folks/stranger_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="大眼錐">
+        <Ch src='/images/mobs/folks/stranger_normal.webp' position='center'/>
+        <ChName nameZh='大眼錐' nameEn='Da Yan Zhui' position='right' />
+    </ChTab>
+    <ChTab title="怒り">
+        <Ch src='/images/mobs/folks/stranger_angry1.webp' position='center'/>
+        <ChName nameZh='怒り' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch src='/images/mobs/folks/stranger_nervous1.webp' position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+</ChTabs>
 
 <table>
     <tr>
@@ -23,14 +36,14 @@ tags:
     </tr>
     <tr>
         <td>贈薬事件<br>「大眼錐」</td>
-        <td>田氏の村人の末っ子。<br>唐門の麓で捏麺人 (麺細工人形) を売っていたが商売は散々で、父親に屋台を壊されて麺屋をやらされる羽目に。売っている素うどんは塩をひとつまみ入れる以外、何の味もしない。<br>家の老牛を潰して牛肉麺にしてやると売り言葉を吐き、親子喧嘩となり、唐惟元の牛買い依頼事件につながった。<br>実は家の牛「大黄」とは幼馴染みで、殺すには忍びないのである。趙活の弁舌で言い負かされると、家に帰って大黄を抱きしめて泣く。<br>「これは家庭のしつけの問題だ。俺の人品に問題があるなら、全部親父のせいだ。」</td>
+        <td>田氏の村人の末っ子。<br>唐門の麓で捏麺人 (麺細工人形) を売っていたが商売は散々で、父親に屋台を壊されて麺屋をやらされる羽目に。売っている素うどんは塩をひとつまみ入れる以外、何の味もしない。<br>家の老牛を潰して牛肉麺にしてやると売り言葉を吐き、親子喧嘩となり、唐惟元の牛買い依頼事件につながった。<br>実は家の牛「大黄」とは幼馴染みで、殺すには忍びないのである。趙活の弁舌で言い負かされると、家に帰って大黄を抱きしめて泣く。<br>「これは家庭教育の問題だ、俺の人格に欠陥があるなら、全部親父のせいさ。」</td>
     </tr>
     <tr>
         <td>西武林<br>「大眼錐」</td>
-        <td>休戦期間に外堡に戻り、唐門を責めず、逆に武林盟を責めた。<br>「俺様、大眼錐は殺し合いは嫌いだが、誰が正しくて誰が悪いかはわきまえてる。親父にあれこれ強いられるのが嫌なのと同じ理屈だ。人生は俺自身のものだ。やりたいことをやる。天に背き道理に反することさえしなけりゃ、誰に強制する資格がある！」</td>
+        <td>休戦期間に外堡に戻り、唐門を責めず、逆に武林盟を責めた。<br>「この大眼錐、殺し合いは嫌いだが、誰が正しくて誰が悪いかくらいは分かる。親父がしょっちゅうああしろこうしろと迫ってくるのが嫌なのと同じ理屈さ。暮らしてるのは俺自身、何をしようが俺の勝手だ。人の道に外れてさえいなけりゃ、誰にも俺を強いる資格はねえ！」</td>
     </tr>
     <tr>
-        <td>許大鯨事件</td>
+        <td>許大鯨イベント</td>
         <td>見物人。唐門なんてただのゴロツキで暴れ者だと冗談を言う。</td>
     </tr>
     <tr>
@@ -45,7 +58,16 @@ tags:
 
 ### 李大夫
 
-<img src="/images/mobs/folks/lee1_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="李大夫">
+        <Ch src='/images/mobs/folks/lee1_normal.webp' position='center'/>
+        <ChName nameZh='李大夫' nameEn='Li Da Fu' position='right' />
+    </ChTab>
+    <ChTab title="怒り">
+        <Ch src='/images/mobs/folks/lee1_angry1.webp' position='center'/>
+        <ChName nameZh='怒り' nameEn='Angry' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>贈薬事件<br>「李大夫」</td>
@@ -66,12 +88,12 @@ tags:
 <img src="/images/mobs/folks/stranger2_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>許大鯨事件</td>
+        <td>許大鯨イベント</td>
         <td>見物人。<br>趙活が許大鯨を助けて福韞を倒すと、役所に届けて彼らを非難する。</td>
     </tr>
     <tr>
         <td>雲裳・黙鈴の遠足</td>
-        <td>冰糖葫蘆 (サンザシ飴) 売り。2本で10文。<br>上官螢に散々値切られた末、サンザシ飴全部を、藁の棒ごと20串55文の安値で上官螢に売った。</td>
+        <td>氷糖葫芦 (サンザシ飴) 売り。2本で10文。<br>上官螢に散々値切られた末、サンザシ飴全部を、藁の棒ごと20串55文の安値で上官螢に売った。</td>
     </tr>
     <tr>
         <td>和尚と乞食の喧嘩</td>
@@ -86,12 +108,12 @@ tags:
 <img src="/images/mobs/folks/stranger3_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>許大鯨事件</td>
+        <td>許大鯨イベント</td>
         <td>趙活が許大鯨を助けて福韞を倒すと、役所に届けて彼らを非難する。</td>
     </tr>
     <tr>
         <td>青城留学</td>
-        <td>町で冰糖葫蘆を売っており、雲裳が可愛いのでただで奢ろうとしたが、雲裳に「この者と犬は入るべからず」を交換条件にされ、後に段智秀が金を渡して追い払った。</td>
+        <td>町で氷糖葫芦を売っており、雲裳が可愛いのでただで奢ろうとしたが、雲裳に「この者と犬、入るべからず」と書いた札を交換条件に出され、後に段智秀が金を渡して引き取らせた。</td>
     </tr>
     <tr>
         <td>青城留学</td>
@@ -118,7 +140,7 @@ tags:
         <td>郁竹に、趙活は妖怪の化身で人を食うと吹き込んだ。<br>その直後に、家の阿矢が欲しがっている木馬をもっと綺麗に、翼をつけて、しかも箱に収納して背負えるようにしてくれと郁竹に注文した。</td>
     </tr>
     <tr>
-        <td>大師兄下山<br>「朱嬸」</td>
+        <td>大師兄の下山<br>「朱おばさん」</td>
         <td>朱家の葱肉まんを売っている。1個10文と安いものの、中身は草である。買った人がこの程度の小銭で目くじらを立てないことを祈るのみ。<br>夫は肉屋で、結婚後に肉まん屋で財を成し、ある女性を妾に娶ろうとした。<br>その女性には落ちぶれた書生の恋人がいて承知しなかったが、夫は財力を見せつけて女性の両親に結婚を認めさせた。<br>ところがその恋人は実は皇族の縁者で、金も権力もあり、婚礼に人を引き連れて乗り込み、夫はその場で卒倒して息絶え、女性も柱に頭を打ちつけて自害した。以来、家に頼るものがなくなり、草入りまんじゅうを売って人を騙すしかなくなった。<br>趙活の説得を受ければ唐門に庇護を求め、外堡で店を再開する。</td>
     </tr>
     <tr>
@@ -154,11 +176,11 @@ tags:
 <img src="/images/mobs/folks/female3_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>龍湘破廟事件</td>
+        <td>龍湘の廃寺イベント</td>
         <td>陳序の容姿と才気に惑わされ、愛のために夫を毒殺し、陳序と駆け落ちしようとした。</td>
     </tr>
     <tr>
-        <td>龍湘外堡事件</td>
+        <td>龍湘の外堡イベント</td>
         <td>かつて池に落ちたところを唐布衣に救われ、唐布衣を恋い慕うも叶わず、手に入らないならいっそ壊してしまえと、唐布衣を女たらしだと誣告し、龍湘の手を借りて殺そうとした。</td>
     </tr>
     <tr>
@@ -180,7 +202,7 @@ tags:
 <img src="/images/mobs/folks/female6_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>廃廟ルート<br>「孫嬸」</td>
+        <td>廃寺ルート<br>「孫おばさん」</td>
         <td>外堡で煮込み屋台を営んでおり、趙活は小さい頃、臭くて商売の邪魔だと嫌われていた。<br>葉雲裳は彼女の屋台の脇で三、四十人からなる魔王軍を結成し、獣骨で作った鎧を彼女に着せて、筋肉女将軍・花木蘭と名付けた。<br>本人はまんざらでもなかったのであるが、後に役所の兵が事情聴取に来て、危うく牢屋行きになるところであった。<br>気性が荒く、村人からは女丈夫と呼ばれているが、それでも雲裳の甘え攻勢には敵わない。<br>かつて娘が一人いて、彼女が嫁入りを強いたが、亡くなった時は雲裳と同じくらいの年頃であった。</td>
     </tr>
 </table>
@@ -195,12 +217,12 @@ tags:
     </tr>
 </table>
 
-### 何大媽
+### 何おばさん
 
 <img src="/images/mobs/folks/oldwoman_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>贈薬事件<br>「何大媽」</td>
+        <td>贈薬事件<br>「何おばさん」</td>
         <td>葉雲舟の薬乞いを見物していた村人。趙活に事情を説明してくれる。</td>
     </tr>
     <tr>
@@ -208,7 +230,7 @@ tags:
         <td>李富貴が自分の家の食べ物をじっと見ているのに気づき、餅を一枚渡して追い払い、五体満足なのに乞食をやるとは意気地がないと嫌味を言った。<br>ところが托鉢に来た福韞には、良い食事を用意してあると言った。<br>福韞が餅奪いの技で丐幇の気骨を示した後、李富貴への見方を改めた。</td>
     </tr>
     <tr>
-        <td>許大鯨事件</td>
+        <td>許大鯨イベント</td>
         <td>見物人。趙活に事情を説明してくれる。<br>趙活が許大鯨を助けて福韞を倒すと、役所に届けて彼らを止める。</td>
     </tr>
 </table>
@@ -227,7 +249,7 @@ tags:
 <img src="/images/mobs/folks/female4_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>龍湘外堡事件</td>
+        <td>龍湘の外堡イベント</td>
         <td>自らの不品行で子を身ごもり、これを唐布衣に着せようと自分の体に唐布衣の名を刺青し、唐布衣を女たらしだと誣告し、龍湘の手を借りて殺そうとした。</td>
     </tr>
     <tr>
@@ -249,7 +271,7 @@ tags:
 <img src="/images/mobs/folks/girl_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>大師兄下山</td>
+        <td>大師兄の下山</td>
         <td>人混みの中の女の子。異変を察知するとすぐに石夫人に知らせに走った。</td>
     </tr>
     <tr>
@@ -275,7 +297,7 @@ tags:
 <img src="/images/mobs/folks/shopman1_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>許大鯨事件</td>
+        <td>許大鯨イベント</td>
         <td>海産物を押し売りされた店の主人。愚痴をこぼしたところを店小二になだめられた。武功が使えないから殴られるのが怖い、とのことだ。</td>
     </tr>
     <tr>
@@ -322,7 +344,7 @@ tags:
 <table>
     <tr>
         <td>呂翁の借金取り立て</td>
-        <td>呂翁と一緒に山へ取り立てに来た帳簿係。呂翁の家に勤めて10年近く。<br>書画の鑑賞にはなかなかの目を持つはずが、趙活が偽造した杜甫の書画を真筆と信じ込み、長々と感想を述べた。<br>趙活は書画偽造の隠蔽のため、彼を殺して口を封じ、谷底へ投げ捨て、呂翁には高価な書画を盗んで逃げたと嘘をつくこともできる。<br>実は武功の心得がある。呂翁を追い回すと、立ち止まってあなたと戦う。</td>
+        <td>呂翁と一緒に山へ取り立てに来た帳簿係。呂翁の家に勤めて10年近く。<br>書画の鑑賞にはなかなかの目を持つはずが、趙活が偽造した杜甫の書画を真筆と信じ込み、長々と感想を述べた。<br>趙活は書画偽造の隠蔽のため、彼を殺して口を封じ、谷底へ投げ捨て、呂翁には高価な書画を盗んで逃げたと嘘をつくこともできる。<br>実は武功の心得がある。呂翁を追い回すと、立ち止まって趙活と戦う。</td>
     </tr>
     <tr>
         <td>江陵城の街ぶらり<br>「杜兄」</td>
@@ -336,7 +358,16 @@ tags:
 
 ## 店小二
 
-<img src="/images/mobs/folks/waiter_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="店小二">
+        <Ch src='/images/mobs/folks/waiter_normal.webp' position='center'/>
+        <ChName nameZh='店小二' nameEn='Dian Xiao Er' position='right' />
+    </ChTab>
+    <ChTab title="重傷">
+        <Ch src='/images/mobs/folks/waiter_hurt.webp' position='center'/>
+        <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>FB情報<br>「店小二」</td>
@@ -347,7 +378,7 @@ tags:
         <td>第三代千面人魔。</td>
     </tr>
     <tr>
-        <td>廃廟ルート</td>
+        <td>廃寺ルート</td>
         <td>葉雲裳が宿屋で悪戯をし、さらに「趙活とは兄妹同心、私の過ちの半分は趙活のもの」と宣言したため、趙活の宿泊を断った。</td>
     </tr>
     <tr>
@@ -356,7 +387,7 @@ tags:
     </tr>
     <tr>
         <td>江陵馳援</td>
-        <td>一行が江陵から唐門へ戻る道中、雨宿りに立ち寄った山の店の小二。素うどん1杯200文。<br>趙活がこの店はぼったくり宿ではと疑うのを聞いて、趙活に異臭のする麺を出し、趙活は厠で長いこと悲痛な唸り声を上げる羽目になった。<br>「このやろう、覚えてろよ！」</td>
+        <td>一行が江陵から唐門へ戻る道中、雨宿りに立ち寄った山の店の小二。素うどん1杯200文。<br>趙活がこの店はぼったくり宿ではと疑うのを聞いて、趙活に異臭のする麺を出し、趙活は厠で長いこと悲痛な唸り声を上げる羽目になった。<br>「このクソ野郎、覚えたからな！」</td>
     </tr>
 </table>
 
@@ -368,11 +399,32 @@ tags:
     </tr>
     <tr>
         <td>青城留学</td>
-        <td>青城から唐門へ戻る道中の小さな茶屋の小二。極度の厭世家。<br>「幻想は抱くな。こんな鳥も糞を落とさねえド田舎のボロ店に、うまい飲み食いなんぞあるわけねえだろ。店にあるのは粗茶と饅頭と白湯麺だけだ。銀十両出せるってんなら、店ごと売ってやるよ。」</td>
+        <td>青城から唐門へ戻る道中の小さな茶屋の小二。極度の厭世家。<br>「夢見んじゃねえよ。こんな鳥も寄り付かねえクソみてえな場所のボロ店に、美味いもんがあるわけねえだろ。あるのは粗茶と饅頭と具なし麺だけだ。銀十両出せるなら、店ごと売ってやってもいいぜ。」</td>
     </tr>
 </table>
 
-<img src="/images/mobs/folks/waiterC_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="店小二">
+        <Ch src='/images/mobs/folks/waiterC_normal.webp' position='center'/>
+        <ChName nameZh='店小二' nameEn='Dian Xiao Er' position='right' />
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch src='/images/mobs/folks/waiterC_nervous1.webp' position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="不機嫌">
+        <Ch src='/images/mobs/folks/waiterC_angry.webp' position='center'/>
+        <ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+    </ChTab>
+    <ChTab title="配膳">
+        <Ch src='/images/mobs/folks/waiterC_normal2.webp' position='center'/>
+        <ChName nameZh='配膳' nameEn='Serving' position='right' />
+    </ChTab>
+    <ChTab title="盆をひっくり返される">
+        <Ch src='/images/mobs/folks/waiterC_empty.webp' position='center'/>
+        <ChName nameZh='盆をひっくり返される' nameEn='Tray Flipped' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>武林大会</td>
@@ -408,7 +460,7 @@ tags:
 <table>
     <tr>
         <td>葉家兄妹の入門</td>
-        <td>捕快。<br>骰で「地位最も尊く、名分最も正しい者」が出た場合。<br>捕頭の身分を笠に着て良民を虐げ慣れており、江湖人を見下し、開口一番に格の違いを見せつけようと、手の大刀をびゅんびゅんと振り回し、「おい、そこの下郎ども。何様のつもりだ、謀反でも起こす気か？」と叫んだ直後、あの世へ旅立った。</td>
+        <td>捕快。<br>ダイスで「地位が最も高く、名義が最も順当な者」が出た場合。<br>捕頭の身分を笠に着て良民を虐げ慣れており、江湖の者を見下している。開口一番に威勢を見せつけようと手の大刀をびゅんびゅん振り回し、「そこの下民ども、何様のつもりだ。謀反でも起こす気か？」と叫んだ直後、あの世へ旅立った。</td>
     </tr>
 </table>
 
@@ -424,7 +476,16 @@ tags:
 
 ### 知県
 
-<img src="/images/mobs/imperials/magistrate_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="知県">
+        <Ch src='/images/mobs/imperials/magistrate_normal.webp' position='center'/>
+        <ChName nameZh='知県' nameEn='Zhi Xian' position='right' />
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch src='/images/mobs/imperials/magistrate_nervous1.webp' position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>西武林</td>
@@ -440,7 +501,36 @@ tags:
 
 ### 郁父
 
-<img src="/images/characters/special838/normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="郁父">
+        <Ch src='/images/characters/special838/normal.webp' position='center'/>
+        <ChName nameZh='郁父' nameEn='Yu Fu' position='right' />
+    </ChTab>
+    <ChTab title="微笑">
+        <Ch src='/images/characters/special838/laugh.webp' position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="大笑い">
+        <Ch src='/images/characters/special838/laugh2.webp' position='center'/>
+        <ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+    </ChTab>
+    <ChTab title="怒り">
+        <Ch src='/images/characters/special838/angry.webp' position='center'/>
+        <ChName nameZh='怒り' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch src='/images/characters/special838/nervous.webp' position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="やつれ">
+        <Ch src='/images/characters/special838/haggard_normal.webp' position='center'/>
+        <ChName nameZh='やつれ' nameEn='Haggard' position='right' />
+    </ChTab>
+    <ChTab title="やつれ(負傷)">
+        <Ch src='/images/characters/special838/haggard_hurt.webp' position='center'/>
+        <ChName nameZh='やつれ(負傷)' nameEn='Haggard (Injured)' position='right' />
+    </ChTab>
+</ChTabs>
 
 <table>
     <tr>
@@ -455,7 +545,20 @@ tags:
 
 ### 郁母
 
-<img src="/images/characters/special839/normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="郁母">
+        <Ch src='/images/characters/special839/normal.webp' position='center'/>
+        <ChName nameZh='郁母' nameEn='Yu Mu' position='right' />
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch src='/images/characters/special839/nervous.webp' position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="泣き">
+        <Ch src='/images/characters/special839/sad.webp' position='center'/>
+        <ChName nameZh='泣き' nameEn='Cry' position='right' />
+    </ChTab>
+</ChTabs>
 
 <table>
     <tr>
@@ -470,7 +573,32 @@ tags:
 
 ### 郁宝花
 
-<img src="/images/characters/special840/normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="郁宝花">
+        <Ch src='/images/characters/special840/normal.webp' position='center'/>
+        <ChName nameZh='郁宝花' nameEn='Yu Bao Hua' position='right' />
+    </ChTab>
+    <ChTab title="微笑">
+        <Ch src='/images/characters/special840/laugh1.webp' position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch src='/images/characters/special840/nervous.webp' position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="黒い笑み">
+        <Ch src='/images/characters/special840/gloomy.webp' position='center'/>
+        <ChName nameZh='黒い笑み' nameEn='Sinister Smile' position='right' />
+    </ChTab>
+    <ChTab title="泣き">
+        <Ch src='/images/characters/special840/sad.webp' position='center'/>
+        <ChName nameZh='泣き' nameEn='Cry' position='right' />
+    </ChTab>
+    <ChTab title="落胆">
+        <Ch src='/images/characters/special840/discouraged.webp' position='center'/>
+        <ChName nameZh='落胆' nameEn='Discouraged' position='right' />
+    </ChTab>
+</ChTabs>
 
 <table>
     <tr>
@@ -489,7 +617,48 @@ tags:
 
 ### 郁城
 
-<img src="/images/characters/special841/normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="郁城">
+        <Ch src='/images/characters/special841/normal.webp' position='center'/>
+        <ChName nameZh='郁城' nameEn='Yu Cheng' position='right' />
+    </ChTab>
+    <ChTab title="怒り">
+        <Ch src='/images/characters/special841/angry.webp' position='center'/>
+        <ChName nameZh='怒り' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch src='/images/characters/special841/nervous.webp' position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="落ちぶれ">
+        <Ch src='/images/characters/special841/worn_normal.webp' position='center'/>
+        <ChName nameZh='落ちぶれ' nameEn='Down and Out' position='right' />
+    </ChTab>
+    <ChTab title="落ちぶれ(微笑)">
+        <Ch src='/images/characters/special841/worn_laugh1.webp' position='center'/>
+        <ChName nameZh='落ちぶれ(微笑)' nameEn='Down and Out (Smile)' position='right' />
+    </ChTab>
+    <ChTab title="落ちぶれ(冷や汗)">
+        <Ch src='/images/characters/special841/worn_nervous1.webp' position='center'/>
+        <ChName nameZh='落ちぶれ(冷や汗)' nameEn='Down and Out (Sweat)' position='right' />
+    </ChTab>
+    <ChTab title="落ちぶれ(狼狽)">
+        <Ch src='/images/characters/special841/worn_nervous2.webp' position='center'/>
+        <ChName nameZh='落ちぶれ(狼狽)' nameEn='Down and Out (Panic)' position='right' />
+    </ChTab>
+    <ChTab title="落ちぶれ(気まずい)">
+        <Ch src='/images/characters/special841/worn_nervous3.webp' position='center'/>
+        <ChName nameZh='落ちぶれ(気まずい)' nameEn='Down and Out (Awkward)' position='right' />
+    </ChTab>
+    <ChTab title="落ちぶれ(負傷)">
+        <Ch src='/images/characters/special841/worn_hurt.webp' position='center'/>
+        <ChName nameZh='落ちぶれ(負傷)' nameEn='Down and Out (Injured)' position='right' />
+    </ChTab>
+    <ChTab title="落ちぶれ(負傷・泣き)">
+        <Ch src='/images/characters/special841/worn_hurt_cry.webp' position='center'/>
+        <ChName nameZh='落ちぶれ(負傷・泣き)' nameEn='Down and Out (Injured, Crying)' position='right' />
+    </ChTab>
+</ChTabs>
 
 <table>
     <tr>
@@ -516,7 +685,16 @@ tags:
 
 ### 犬
 
-<img src="/images/mobs/animals/dog_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="犬">
+        <Ch src='/images/mobs/animals/dog_normal.webp' position='center'/>
+        <ChName nameZh='犬' nameEn='Dog' position='right' />
+    </ChTab>
+    <ChTab title="怒り">
+        <Ch src='/images/mobs/animals/dog_angry.webp' position='center'/>
+        <ChName nameZh='怒り' nameEn='Angry' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>龍湘の小銭事件<br>「肉」</td>
@@ -532,12 +710,12 @@ tags:
     </tr>
 </table>
 
-### 森林の怒り
+### 森の怒り
 
 <img src="/images/mobs/animals/forest_rage.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>青城留学<br>「森林の怒り」</td>
-        <td>帰路に立ちはだかる、イノシシを乗りこなし人語を話すオウム。<br>そのオウムは山の山賊に飼われていたもので、耳に入るのは悪い言葉ばかり。<br>しかも人からの悪意と危害を受け続けたため、人間を心底憎み、「二本足の畜生どもとは不倶戴天」と誓い、通行人を見ればイノシシをけしかけて突進させる、まさに殺人鬼。次の獲物はお前だ！<br>戦闘中に暗器を投げると、先にオウムを撃ち落とせる。</td>
+        <td>青城留学<br>「森の怒り」</td>
+        <td>帰路に立ちはだかる、イノシシを乗りこなし人語を話すオウム。<br>もともとは山中の山賊に飼われていたオウムで、耳にしてきたのは汚い言葉ばかり。<br>そのうえ人間から散々悪意を向けられ虐待されてきたため、人間を心底憎み、「二本足の畜生どもとは不倶戴天」と誓って、通行人を見かければイノシシをけしかけて突進させる通り魔と化した。<br>戦闘中に暗器を投げると、先にオウムを撃ち落とせる。</td>
     </tr>
 </table>

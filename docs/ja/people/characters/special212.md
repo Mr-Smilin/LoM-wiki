@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="鉄冠道人">
 		<Ch src='/images/characters/special212/normal.webp' position='right'/>
-		<ChName nameZh='鐵冠道人' nameEn='Tie Guan Daoren' position='right' />
+		<ChName nameZh='鉄冠道人' nameEn='Tie Guan Daoren' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -40,6 +40,30 @@ tags:
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special212/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special212/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special212/angry1.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="逆上">
+		<Ch src='/images/characters/special212/angry3.webp' position='center'/>
+		<ChName nameZh='逆上' nameEn='Rage' position='right' />
+	</ChTab>
+	<ChTab title="黒い笑み">
+		<Ch src='/images/characters/special212/gloomy.webp' position='center'/>
+		<ChName nameZh='黒い笑み' nameEn='Sinister Smile' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special212/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
 	</ChTab>
 </ChTabs>
 <br>

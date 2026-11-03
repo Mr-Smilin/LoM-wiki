@@ -49,6 +49,18 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special408/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special408/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special408/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
@@ -66,5 +78,5 @@ tags:
 -   西武林ルートで夏侯蘭は彼に指導を求め、数招交わした後に互いに敬意を持つようになるが、彼が第三香と因縁があることを明かすと、その後彼女に追われることになる。
 -   [第三香](/ja/people/characters/special820)とは江湖の社交の場で知り合った。[^2]
 
-[^1]: PTT C 洽－[\[活俠\] 龍湘与奇妙な雑学 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘と奇妙な雑学 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
 [^2]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

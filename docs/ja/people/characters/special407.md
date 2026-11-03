@@ -39,30 +39,54 @@ tags:
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[上官螢](/ja/people/characters/girl4) (女兒)
+					[上官螢](/ja/people/characters/girl4) (娘)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[温夫人](/ja/people/characters/special402) (舊友)
+					[温夫人](/ja/people/characters/special402) (旧友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[温無畏](/ja/people/characters/other13) (舊友)
+					[温無畏](/ja/people/characters/other13) (旧友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[王二壮](/ja/people/characters/special401) (舊友)
+					[王二壮](/ja/people/characters/special401) (旧友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[南宮遠](/ja/people/characters/special101) (舊友)
+					[南宮遠](/ja/people/characters/special101) (旧友)
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special407/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="淡い笑み">
+		<Ch src='/images/characters/special407/laugh3.webp' position='center'/>
+		<ChName nameZh='淡い笑み' nameEn='Faint Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special407/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="不機嫌">
+		<Ch src='/images/characters/special407/angry1.webp' position='center'/>
+		<ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special407/angry2.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="黒い笑み">
+		<Ch src='/images/characters/special407/gloomy2.webp' position='center'/>
+		<ChName nameZh='黒い笑み' nameEn='Sinister Smile' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>
@@ -71,7 +95,7 @@ tags:
 
 <br>
 
-蘇迎香とは、まだ幼い頃から知り合っていた。当時の上官隼は生来の放蕩息子で、いつも友人たちを連れて彼女をいじめ、蘇迎香に極度の恐怖を植え付けていた。大人になってから、蘇迎香がますます美しく成長したのを見ると、彼女を禁忌の獲物のように見なし、楽坊に圧力をかけて人を連れてこさせようとしたが、少年の南宮遠に英雄救美をされて佳人の心を獲得された。その時にはじめて上官隼は悟った—自分は完全に嫌われていたのだと。
+蘇迎香とは、まだ幼い頃から知り合っていた。当時の上官隼は生来の放蕩息子で、いつも友人たちを連れて彼女をいじめ、蘇迎香に極度の恐怖を植え付けていた。大人になってから、蘇迎香がますます美しく成長したのを見ると、彼女を禁忌の獲物のように見なし、楽坊に圧力をかけて人を連れてこさせようとしたが、少年の南宮遠に危ういところを救われ、心を奪われた。その時にはじめて上官隼は悟った—自分は完全に嫌われていたのだと。
 
 <br>
 

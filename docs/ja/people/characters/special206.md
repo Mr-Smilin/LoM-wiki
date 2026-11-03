@@ -9,7 +9,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+    <ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/special206/normal.webp' 
             nameTitle=''
@@ -18,6 +18,30 @@ aside: false
 			:animation=true
 		/>
     </ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special206/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special206/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special206/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special206/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="読経">
+		<Ch src='/images/characters/special206/special1.webp' position='center'/>
+		<ChName nameZh='読経' nameEn='Chanting' position='right' />
+	</ChTab>
+	<ChTab title="金塗り">
+		<Ch src='/images/characters/special206/golden.webp' position='center'/>
+		<ChName nameZh='金塗り' nameEn='Gilded' position='right' />
+	</ChTab>
 </ChTabs>
 
 <InfoList>
@@ -36,7 +60,7 @@ aside: false
 					称号
 				</ChTd>
 				<ChTd>
-					貧嘴和尚
+					減らず口の生臭坊主
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -72,9 +96,9 @@ aside: false
 
 [嵩山派](/ja/people/factions/mount-song-sect)の若き僧侶、大宋で雲遊中。
 <br><br>
-天性聡明で、弁舌驚人。[峨嵋派](/ja/people/factions/emei-sect)と[崆峒派](/ja/people/factions/kong-tong-sect)の間を行き来しながら、一方で仏法を弘揚し、他方で善款を募って嵩山の伽藍を修繕している。
+生まれつき聡明で、弁舌は人並み外れている。[峨嵋派](/ja/people/factions/emei-sect)と[崆峒派](/ja/people/factions/kong-tong-sect)の間を行き来しながら、仏法を広める一方で、嵩山の寺を修繕するための寄進を募っている。
 <br><br>
-善良な者とは敬意をもって付き合い、悪人には容赦ない。[虞小梅](/ja/people/characters/girl3)をぐうの音もでないほど口攻撃で打ち負かした後に付けられた外号「貧嘴和尚」。小梅が彼を階段から突き落とそうとした時、嵩山の「踢樁功・千金墜」を発動して命拾いした。
+善良な者とは敬意をもって付き合い、悪人には容赦ない。[虞小梅](/ja/people/characters/girl3)を口でぐうの音も出ないほど言い負かし、「減らず口の生臭坊主」というあだ名を付けられた。小梅が彼を階段から突き落とそうとした時、嵩山の「蹴樁功・千斤墜」を発動して命拾いした。
 
 <br clear="all">
 
@@ -108,6 +132,6 @@ aside: false
 -   [丐幇](/ja/people/factions/beggar-gang)と[嵩山派](/ja/people/factions/mount-song-sect)が外堡で破壊行為をしたことで心が痛む。外堡に住み着いて修復を手伝う。
 -   外堡に住む時は掛単の身分。遊方僧侶が寺に一時身を寄せるもので、家賃は不要。[^1]
 -   嵩山寺で料理をする。[^1]
--   方丈職について、必ずものにしようと決心。武林大会終了後、十年近く続いた雲遊の誓願も告一段落。寺に帰って仏法を修進する予定。
+-   方丈の座は必ず手に入れるつもりでいる。武林大会が終わると、誓いを立てて十年近く続けてきた雲遊にも区切りを付け、寺に戻って仏法の修行に励む予定である。
 
-[^1]: PTT C 洽－[\[活俠\] 龍湘与奇怪的小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)
+[^1]: PTT C 洽－[\[活俠\] 龍湘と奇妙な小知識 P4](https://www.ptt.cc/bbs/C_Chat/M.1729423145.A.69F.html)

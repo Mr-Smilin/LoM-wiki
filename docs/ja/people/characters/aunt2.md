@@ -16,7 +16,7 @@ tags:
         <Ch
             src='/images/characters/aunt2/normal.webp' 
             position='right'/>
-        <ChName nameZh='唐小樓' nameEn='Tang Xiao Lou' position='right' />
+        <ChName nameZh='唐小楼' nameEn='Tang Xiao Lou' position='right' />
         <ChTable>
             <ChTr>
                 <ChTd isTitle=true>
@@ -43,13 +43,19 @@ tags:
             </ChTr>
         </ChTable>
     </ChTab>
+    <ChTab title="怒り">
+        <Ch
+            src='/images/characters/aunt2/normal_2_angry.webp' 
+            position='center'/>
+        <ChName nameZh='怒り' nameEn='Angry' position='right' />
+    </ChTab>
 </ChTabs>
 
-> 「区区たる外姓弟子が、身分をわきまえず、我が乾児子に手を上げようとは？」
+> 「たかが外姓の分際で、身の程も知らずに、私の可愛い息子を苛めるつもりかい？」
 
-[唐門](/ja/people/factions/tang-men)の大師姑。講経楼に二十年も座り、苦労を重ね、青春を唐門に失った。結婚の機を逃してしまい、年が四旬に近づく頃、ようやく喪に服す後家が求婚してくれた。嫁ぎ先を手に入れたのだ。[唐中翎](/ja/people/characters/master)掌門は親口で彼女に一事を許してくれた。天地の綱紀を傷つけず、伝統を蔑ろにしない限り、唐門は必ず彼女の為に天地難事をも叶えてくれると約束したのだ。彼女が堂々と嫁ぎ出ることを叶えてくれたのである。
+[唐門](/ja/people/factions/tang-men)の大師姑。講経楼に二十年も座り続け、労苦を重ねて唐門に青春を捧げた。婚期を逃し、四十近くになってようやく妻を亡くした男やもめから求婚され、落ち着く先を得た。[唐中翎](/ja/people/characters/master)掌門は直接彼女に一つの約束をした。天理に背き、先祖を忘れるようなことでない限り、唐門は必ず彼女のためにいかなる難事でも成し遂げると請け合い、盛大に送り出して嫁がせたのである。
 <br><br>
-彼女は元から人によって判断し、甚だしく私曲である。すでに嫁ぎ出したのに、ときどき戻ってきて威張ろうとする。輩分のために弟子たちも彼女に逆らいづらい。また[趙活](/ja/people/characters/player)のことを、低い身分の雑役だと認識しており、長年姓が趙のままなのが気に入らず、彼に良いことが起こるのが我慢ならない。
+もともと思い込みが激しく依怙贔屓の強い性格で、嫁いだ後も折に触れて里帰りしては先輩風を吹かせる。輩分が上のため弟子たちも逆らいづらい。また[趙活](/ja/people/characters/player)のことを身分の低い雑役と見下しており、何年も趙姓のままでいるのが気に入らず、彼が日の目を見るのが我慢ならない。
 <br><br>
 彼女は子がなく、[晁和](/ja/people/characters/special208)が何度も「娘よ」と甘く呼びかけるのに心が躍った。このお口甘い乾児子を認め、将来自分の老後を世話してもらうことを望んでいた。すべての愛情をこの者に託し、彼が唐門に入門して武芸を習得し、師門の弟子たちを号令して乾児子の威を立てることを望み、苦労して貯めた銀両を蜜漬けの菓子の下に全部隠し、乾児子が同門を懐柔するのに使わせている。
 <br><br>

@@ -52,6 +52,26 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special204/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special204/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="びっくり">
+		<Ch src='/images/characters/special204/nervous2.webp' position='center'/>
+		<ChName nameZh='びっくり' nameEn='Shock' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special204/angry1.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="酔い">
+		<Ch src='/images/characters/special204/drunk.webp' position='center'/>
+		<ChName nameZh='酔い' nameEn='Drunk' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 

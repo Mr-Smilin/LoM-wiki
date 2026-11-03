@@ -78,7 +78,7 @@ tags:
 <br><br>
 [崆峒派](/ja/people/factions/kong-tong-sect)奪魄門では、閉関中の掌門[姚不知名](/ja/people/characters/special216)に成り代わり、崆峒争奪戦が起きないルートで、かねてより千灯楼の教官として目をかけていた[金烏上人](/ja/people/characters/special207)を掌派人候補として後押しした。
 <br><br>
-西武林ルートで飛侠帰還の際、[覚醒](/ja/people/characters/monk2)に化身して[申屠龍](/ja/people/characters/special405)と並んで眉山の戦を傍観。教主がもう江湖に留まる気がなくなり、心が乱れたのを見て、[唐布衣](/ja/people/characters/brother1)に奇襲され、手の筋を断たれた。[唐錚](/ja/people/characters/brother2)がこの隙に毒を下し、薬効が発動した後、唐布衣に斬殺された。
+西武林ルートで飛侠の帰還の際、[覚醒](/ja/people/characters/monk2)に化身して[申屠龍](/ja/people/characters/special405)と並んで眉山の戦を傍観。教主がもう江湖に留まる気がなくなり、心が乱れたのを見て、[唐布衣](/ja/people/characters/brother1)に奇襲され、手の筋を断たれた。[唐錚](/ja/people/characters/brother2)がこの隙に毒を盛り、毒が回ったところで唐布衣に斬殺された。
 
 ### 崆峒争奪戦
 
@@ -86,14 +86,15 @@ tags:
 
 ### 葉雲裳ルート
 
-青城留学中、[鉄冠道人](/ja/people/characters/special212)に化身して[葉雲裳](/ja/people/characters/girl2)の体に九泉丹の気があることを発見し、彼女を人丹として[教主](/ja/people/characters/special405)に献上する目論見で、[唐黙鈴](/ja/people/characters/girl0)の招親の日に出撃。[趙活](/ja/people/characters/player)と[段智秀](/ja/people/characters/special833)に阻止され、[唐門](/ja/people/factions/tang-men)の谷底に落下。谷底で十日、生きたまま動かずにいたが、[趙活](/ja/people/characters/player)と葉雲裳の仲睦まじさに感じ入り、世の中にも本物の真心はあるものだと言い放った。
+青城留学中、[鉄冠道人](/ja/people/characters/special212)に化身して[葉雲裳](/ja/people/characters/girl2)の体内に九泉丹の気があることを見抜き、彼女を人丹として[教主](/ja/people/characters/special405)に献上しようと[唐黙鈴](/ja/people/characters/girl0)の招親の日に襲撃。[趙活](/ja/people/characters/player)と[段智秀](/ja/people/characters/special833)に阻まれ、[唐門](/ja/people/factions/tang-men)の谷底に落下した。谷底で十日間、生きていながら手を出さず、[趙活](/ja/people/characters/player)と葉雲裳の仲睦まじいやり取りを見守っては、人の世にも真の情があるものだとしみじみ語った。
 <br><br>
-趙活が顔が醜いのに努力を怠らないのを見て、非常に気に入らず、趙活が自分の生存意義を否定したと考え、共戴天の仇と見なした。西武林の一役で現身して、これを殺したくて堪らない。最後に[趙活](/ja/people/characters/player)、[鄒博](/ja/people/characters/special201)、[趙逵](/ja/people/characters/special403)三人の合力に敗れた。
+醜い顔なのに努力を怠らない趙活がひどく気に食わない。趙活に自分の生きる意味を否定されたと考え、不倶戴天の仇と見なした。西武林の戦いで姿を現し、趙活を殺そうとする。最後に[趙活](/ja/people/characters/player)、[鄒博](/ja/people/characters/special201)、[趙逵](/ja/people/characters/special403)三人の合力に敗れた。
 
 ## 備考
 
 - 現在[趙活](/ja/people/characters/player)は葉雲裳ルートでのみ彼を認識できる。(v5000)
 - 十里一詩は学のある[趙活](/ja/people/characters/player)に平仄が合っていないとやじられ、聞いていられなくなった。彼はこの詩は戦場が出所で、戦争の酷さを描写したもので、本来は風流な修飾がないと言った。
-- もし[趙活](/ja/people/characters/player)が瀝泉小剣を手にすれば、怒り狂って「いい度胆だ」と大声で罵る。
-- 疑いを持つが[杏花林](/ja/people/factions/apricot-forest)と何か関係あるらしい。
+- もし[趙活](/ja/people/characters/player)が瀝泉短剣を手にすれば、怒り狂って「いい度胸だ」と大声で罵る。
+- [杏花林](/ja/people/factions/apricot-forest)と何らかの関係がある疑いがある。
 - 無相が奪魄門で成り代わっていたのは閉関中の姚掌門（[姚不知名](/ja/people/characters/special216)）であり、[勾魂叟](/ja/people/characters/special806)ではない。[勾魂叟](/ja/people/characters/special806)は代掌門に過ぎない。
+- 第四代千面人魔を認めておらず、本人の前でその名を口にすることすら禁忌となっている。

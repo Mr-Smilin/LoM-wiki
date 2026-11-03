@@ -34,12 +34,24 @@ tags:
 					[石公遠](/ja/people/characters/special7) (夫)
 				</ChTd>
 			</ChTr>
-					<ChTr>
-					<ChTd position='center'>
-						[唐布衣](/ja/people/characters/brother1) (助け手)
-					</ChTd>
-				</ChTr>
+			<ChTr>
+				<ChTd position='center'>
+					[唐布衣](/ja/people/characters/brother1) (恩人)
+				</ChTd>
+			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special815/angry.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="泣き">
+		<Ch src='/images/characters/special815/sad.webp' position='center'/>
+		<ChName nameZh='泣き' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="照れ">
+		<Ch src='/images/characters/special815/shy.webp' position='center'/>
+		<ChName nameZh='照れ' nameEn='Shy' position='right' />
 	</ChTab>
 </ChTabs>
 

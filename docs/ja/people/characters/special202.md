@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="観雲客">
 		<Ch src='/images/characters/special202/normal.webp' position='right'/>
-		<ChName nameZh='觀雲客' nameEn='Guan Yun Ke' position='right' />
+		<ChName nameZh='観雲客' nameEn='Guan Yun Ke' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -49,6 +49,10 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special202/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
 </ChTabs>
 <br>
 
@@ -60,7 +64,7 @@ tags:
 
 -   観雲客の本姓は関。
 -   黒白双剣は[唐門](/ja/people/factions/tang-men)が鍛造したと言われている。
--   [掌門](/ja/people/characters/master)が述べるところ、点蒼双尊はまだ絶頂の境地には至っていないが、二人が力を合わせる時、実力は驚異的に増す。[極楽教主](/ja/people/characters/special405)と[龍淵](/ja/people/characters/special2)大侠が言い争いながら力を合わせても、恐らく敵ではないだろう。
+-   [掌門](/ja/people/characters/master)が述べるところ、点蒼双尊はまだ絶頂の境地には至っていないが、二人が力を合わせる時、実力は驚異的に増す。[極楽教主](/ja/people/characters/special405)と[龍淵](/ja/people/characters/special2)大侠が和解して手を組んだとしても、恐らく敵ではないだろう。
 -   点蒼派の第一高手は、歴来掌門ではない。掌門は俗務に縛られて道を問うことができないからである。聴海生は観雲客より強く、[葉雲舟](/ja/people/characters/special3)が点蒼にいた間も勝つことができなかった。
 -   点蒼派ではかつて「殺親証道」という邪風が流行り、点蒼双尊は心血を注いで正し、得意弟子の白虹剣客、朝陽剣客及び[蒼松剣客](/ja/people/characters/special3)と共に殺親犯の手首をすべて斬り、師門から逐放し、官府に送った。この邪説はようやく消えた。
 -   かつて[葉雲舟](/ja/people/characters/special3)と[葉雲裳](/ja/people/characters/girl2)兄妹が病を抱えて点蒼に入門した際、点蒼双尊の賛掌を得、点蒼の「両儀剣気」で体内の乱れた真気を強制的に鎮めた。

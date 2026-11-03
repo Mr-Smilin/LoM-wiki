@@ -9,7 +9,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+    <ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/brother2/normal.webp' 
             nameTitle='二師兄'
@@ -17,6 +17,72 @@ aside: false
 			desc='名は<ruby>錚<rt>そう</rt></ruby>、<ruby>唐門<rt>とうもん</rt></ruby>の第二弟子。<br>毒薬の使い手であり、薬毒の術の研鑽は師をも凌ぐ。思慮深く、偏屈で沈着、滅多に下山せず、故に名声は<ruby>師兄<rt>しけい</rt></ruby>に遠く及ばない。「悪辣相公」、「<ruby>悪辣公子<rt>あくらつこうし</rt></ruby>」の異名を持ち、人々から敬して遠ざけられている。'
 			:animation=true
 		/>
+    </ChTab>
+    <ChTab title="微笑">
+        <Ch
+            src='/images/characters/brother2/laugh1.webp' 
+            position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="大笑い">
+        <Ch
+            src='/images/characters/brother2/laugh2.webp' 
+            position='center'/>
+        <ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch
+            src='/images/characters/brother2/nervous1.webp' 
+            position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+    <ChTab title="狼狽">
+        <Ch
+            src='/images/characters/brother2/nervous2.webp' 
+            position='center'/>
+        <ChName nameZh='狼狽' nameEn='Panic' position='right' />
+    </ChTab>
+    <ChTab title="不機嫌">
+        <Ch
+            src='/images/characters/brother2/angry1.webp' 
+            position='center'/>
+        <ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+    </ChTab>
+    <ChTab title="怒り">
+        <Ch
+            src='/images/characters/brother2/angry2.webp' 
+            position='center'/>
+        <ChName nameZh='怒り' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="陰鬱">
+        <Ch
+            src='/images/characters/brother2/gloomy1.webp' 
+            position='center'/>
+        <ChName nameZh='陰鬱' nameEn='Gloomy' position='right' />
+    </ChTab>
+    <ChTab title="黒い笑み">
+        <Ch
+            src='/images/characters/brother2/gloomy2.webp' 
+            position='center'/>
+        <ChName nameZh='黒い笑み' nameEn='Sinister Smile' position='right' />
+    </ChTab>
+    <ChTab title="目を閉じる">
+        <Ch
+            src='/images/characters/brother2/close_eye.webp' 
+            position='center'/>
+        <ChName nameZh='目を閉じる' nameEn='Close Eyes' position='right' />
+    </ChTab>
+    <ChTab title="目を閉じる(冷や汗)">
+        <Ch
+            src='/images/characters/brother2/close_eye_nervous.webp' 
+            position='center'/>
+        <ChName nameZh='目を閉じる(冷や汗)' nameEn='Close Eyes (Sweat)' position='right' />
+    </ChTab>
+    <ChTab title="負傷">
+        <Ch
+            src='/images/characters/brother2/hurt.webp' 
+            position='center'/>
+        <ChName nameZh='負傷' nameEn='Injured' position='right' />
     </ChTab>
 </ChTabs>
 <br>
@@ -53,7 +119,7 @@ aside: false
                     称号
                 </ChTd>
                 <ChTd>
-                    二師兄<br>辣手相公
+                    二師兄<br>悪辣相公
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -88,7 +154,7 @@ aside: false
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    [唐黙鈴](/ja/people/characters/girl0.md) (異父妹妹)
+                    [唐黙鈴](/ja/people/characters/girl0.md) (異父妹)
                 </ChTd>
             </ChTr>
             <ChTr>
@@ -186,19 +252,19 @@ aside: false
     勝利すると唐錚好感度-2で唐門薬典を失い、敗北すると「毒死」で上記の生死簿へ
 -   [趙活](/ja/people/characters/player)を「役立たず」「趙氏蠢豚」と呼ぶ。
 -   口は悪いが心優しく、好感度が高いほどより厳しく罵るが、反面好感度も上げやすくなる。
--   刑場奪還当時[大師兄](/ja/people/characters/brother1.md)が7～9歳だと仮定すると、[唐惟元](/ja/people/characters/brother4.md)は翌年の大雪の日に拾われたため、年齢は約25～27と推定される。
--   [大師兄](/ja/people/characters/brother1.md)と一緒に育ち、付き合いが最も長い。大師兄の月考の答案を写すほど。だが大師兄が修行を終えて江湖に下った後、二師兄は厳しくなった。
+-   刑場破りの当時に[大師兄](/ja/people/characters/brother1.md)と二人が7～9歳だったと仮定すると、[唐惟元](/ja/people/characters/brother4.md)は翌年の大雪の日に拾われたため、年齢は約25～27歳とみられる。
+-   [大師兄](/ja/people/characters/brother1.md)と共に育った最も古い仲で、かつては月試の筆記で自分の答案を大師兄に写させてやるほどだった。しかし大師兄が修行を終えて江湖へ下ってからは厳しく当たるようになった。
 -   玉佩はかつて[掌門](/ja/people/characters/master.md)と師娘のもの。掌門のものは[大師兄](/ja/people/characters/brother1.md)に、師娘のものは二師兄の手にある。~~誓いの品かな~~。[出典](https://www.plurk.com/p/3g9a4xb0oh)
 -   胡椒粉をこよなく愛する。昔[唐門](/ja/people/factions/tang-men)の人数が少なかった時分、[趙活](/ja/people/characters/player)がどんな料理を作ろうが、彼は必ず胡椒粉を加えた。他人が食べなければ機嫌が悪くなり、新入りが増えてようやく止めた。
--   [趙活](/ja/people/characters/player)は二師兄がいない隙に彼の粉を盗んで胡椒餅を作ったことがあり、殴られた。
+-   [趙活](/ja/people/characters/player)は二師兄の留守中にその胡椒粉をくすねて胡椒餅を焼いたことがあり、実にパンチの効いた味だったという。
 -   [大師兄](/ja/people/characters/brother1.md)とともに、ある小師姑にひそかに思いを寄せていたことがある。[唐芳](/ja/people/characters/special832)の姉・唐芬である。大師兄が[趙活](/ja/people/characters/player)とこのことについて語った時、二師兄の反応は激烈で、突然怒って[小師妹](/ja/people/characters/girl0.md)を驚かせた。
--   幼い頃、唐芬が作った漢方蜜漬けで虫歯になったことがある。
--   [点蒼派](/ja/people/factions/dian-cang-sect)を恨んでいる。一つは嘗て点蒼剣に傷を負ったことがあり、もう一つは彼らが日々、誠実で正義感強い君子だと自認しながら、唐門の薬学を見下しているからである。
--   [小師妹](/ja/people/characters/girl0.md)をたいへん気にかけており、[趙活](/ja/people/characters/player)に対して下山して道を覚える[小師妹](/ja/people/characters/girl0.md)と[葉雲裳](/ja/people/characters/girl2.md)を暗に守るよう要求するため、喜んで趙活の雑務を引き受けている。過度な保護のため、[上官螢](/ja/people/characters/girl4.md)から「老媽子」と呼ばれている。
+-   幼い頃、唐芬が作った生薬の砂糖漬け（蜜餞）のせいで虫歯になったことがある。
+-   [点蒼派](/ja/people/factions/dian-cang-sect)を恨んでいる。かつて点蒼の剣で傷を負わされたことに加え、連中が日頃から廉潔な正人君子を気取りつつ唐門の薬学を見下しているためである。
+-   [小師妹](/ja/people/characters/girl0.md)を非常に可愛がっており、道覚えのため下山する[小師妹](/ja/people/characters/girl0.md)と[葉雲裳](/ja/people/characters/girl2.md)を陰から見守らせるためなら、喜んで[趙活](/ja/people/characters/player)の雑務まで肩代わりする。その過保護ぶりから、[上官螢](/ja/people/characters/girl4.md)には「老媽子（お節介婆や）」と呼ばれている。
 
 [^1]: バハムート- [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)
 [^2]: Facebook - [オリジナル鳥熊2025/9/9](https://www.facebook.com/obbstudio/posts/pfbid0jo8pNNekUkjYE7EyLqYerjfnCWcaRHPfQGaJrZDaXe3QZ5KM8SuZDeJkcQbWdf9Al)
-[^3]: バハムート - [RE:【攻略】活俠傳裡極難触発的事件総結【by火焰猫琳】](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=8219)
+[^3]: バハムート - [RE:【攻略】活俠傳裡極難発生的事件総結【by火焰猫琳】](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=8219)
 
 ## ギャラリー
 

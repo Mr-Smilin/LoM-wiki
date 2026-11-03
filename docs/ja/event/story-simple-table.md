@@ -10,7 +10,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-## 任意時間
+## 任意の時期
 <div class="table-container">
 <table>
 <tbody>
@@ -49,14 +49,14 @@ tags:
                 [ゲーム開始](/ja/event/simple/1-04-1-遊戲開局)<br> 
 				[最初の夜](/ja/event/simple/1-04-1-第一晚)<br> 
 				[各施設の初期イベント](/ja/event/simple/1-04-1-各設施初始事件)<br>
-				[後山で突き落とされる](/ja/event/simple/1-04-1-後山推人)<br>
+				[裏山で突き落とされる](/ja/event/simple/1-04-1-後山推人)<br>
 				[怠け者](/ja/event/simple/1-04-1-偷懶怪)<br>
 				[龍湘の食い逃げ](/ja/event/simple/1-04-1-龍湘霸王餐)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[仮面の人の導き](/ja/event/simple/1-04-2-蒙面人開導)<br>
+				[覆面の者の導き](/ja/event/simple/1-04-2-蒙面人開導)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -128,7 +128,7 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[晁和の入門](/ja/event/simple/1-08-3-晁和入門)<br>
-				[晁和搞鬼イベント集](/ja/event/simple/1-08-3-晁和搞鬼事件集)<br>
+				[晁和の悪だくみイベント集](/ja/event/simple/1-08-3-晁和搞鬼事件集)<br>
 				[丐幇と嵩山の喧嘩](/ja/event/simple/1-08-3-丐幫與嵩山打架)<br>
 				[唐錚の診断](/ja/event/simple/1-08-3-唐錚診斷)<br>
 				</MarkdownWrapper>
@@ -282,7 +282,7 @@ tags:
 </tr>
 
 <tr>
-    <td rowspan = 2 style="text-align: center">四</td>
+    <td rowspan = 3 style="text-align: center">四</td>
     <td style="text-align: center">上</td>
     <td style="text-align: center">
         <MarkdownWrapper>
@@ -309,15 +309,20 @@ tags:
     </td>
     <td colspan = 3 style="text-align: center">-</td>
 </tr>
+<tr>
+    <td style="text-align: center">下</td>
+    <td style="text-align: center">
+        <MarkdownWrapper>
+			[謎の人物からの送金](/ja/event/simple/2-04-3-神秘人送錢)<br>
+        </MarkdownWrapper>
+    </td>
+    <td colspan = 3 style="text-align: center">-</td>
+</tr>
 
 <tr>
     <td rowspan = 2 style="text-align: center">五</td>
     <td style="text-align: center">上</td>
-    <td style="text-align: center">
-        <MarkdownWrapper>
-            謎の人物からの送金<br>
-        </MarkdownWrapper>
-    </td>
+    <td style="text-align: center">-</td>
     <td colspan = 3 style="text-align: center">
         <MarkdownWrapper>
             [複数の人が弟子入りする](/ja/event/simple/2-05-1-多人拜師)<br>
@@ -332,6 +337,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
 			[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)<br>
+            [神兵帖シリーズイベント](/ja/event/simple/2-05-3-神兵帖系列事件)<br>
         </MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">-</td>
@@ -632,22 +638,11 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				[臥雲崗イベント](/ja/event/simple/3-01-2-臥雲崗事件)<br>
-				[臥雲崗の留守番](/ja/event/simple/3-01-2-臥雲崗留守)<br>
-                兵器の点検<br>
-                同門の手伝い<br>
-                剣閣の来訪<br>
-				[臥雲崗へ向かう](/ja/event/simple/3-01-2-前往臥雲崗)<br>
+                [臥雲崗下山ルート](/ja/event/simple/3-01-2-臥雲崗下山線)<br>
+				[臥雲崗留守ルート](/ja/event/simple/3-01-2-臥雲崗留守線)<br>
 				</MarkdownWrapper>
 			</td>
-			<td>
-				<MarkdownWrapper>
-				[臥雲崗見物](/ja/event/simple/3-01-3-圍觀臥雲崗)<br>
-				[帰路での襲撃](/ja/event/simple/3-01-3-回程遇刺)<br>
-				[大師兄の重傷](/ja/event/simple/3-01-3-大師兄重傷)<br>
-				[後山埋葬](/ja/event/simple/3-01-3-後山安葬)<br>
-				[丹薬解毒](/ja/event/simple/3-01-3-煉丹解毒)<br>
-				</MarkdownWrapper>
-			</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>二月</td>
@@ -741,7 +736,7 @@ tags:
 			</td>
 			<td>
 				<MarkdownWrapper>
-				[樹屋を建造する](/ja/event/simple/3-05-3-建造樹屋)<br>
+				[樹上小屋を建造する](/ja/event/simple/3-05-3-建造樹屋)<br>
 				</MarkdownWrapper>
 			</td>
 		</tr>
@@ -917,7 +912,7 @@ tags:
     <MarkdownWrapper>
     [武林からの檄文](/ja/event/simple/3-12-1-武林檄文)<br>
     [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
-    [特訓の段階試験](/ja/event/simple/3-12-1-特訓段考)<br>
+    [特訓の定期試験](/ja/event/simple/3-12-1-特訓段考)<br>
     [皆の知恵を集める](/ja/event/simple/3-12-1-集思廣益)<br>
     [武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)<br>
     [衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)<br>
@@ -1072,7 +1067,7 @@ tags:
   <td style="text-align: center">-</td>
   <td style="text-align: center">
       <MarkdownWrapper>
-          後山での切磋<br>
+          裏山での切磋<br>
           [剣聖の伝承](/ja/event/simple/4-02-3-劍聖傳承)<br>
           戦友を訪ねる<br>
       </MarkdownWrapper>

@@ -86,8 +86,8 @@ tags:
         <td><Girl6Icon :size="`medium`" href="/ja/people/characters/girl6">郁竹</Girl6Icon></td>
         <td>6</td>
         <td>小柄で可愛らしい</td>
-        <td>大人しくて従順</td>
-        <td>心の優しさ云々より、あいつの力は山を抜き、気は世を蓋う</td>
+        <td>活発で明るい<br>または<br>大人しくて従順</td>
+        <td>健康どころか、あいつの力は山を抜き、気は世を蓋う<br>または<br>心の優しさ云々より、あいつの力は山を抜き、気は世を蓋う</td>
         <td><MarkdownWrapper>[〈郁竹結縁攻略〉](/ja/event/pursuit/girl6)</MarkdownWrapper>を参照
             <br>(⚠️ネタバレ注意)</td>
     </tr>

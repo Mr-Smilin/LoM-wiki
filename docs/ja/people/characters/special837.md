@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="方独弱">
 		<Ch src='/images/characters/special837/normal.webp' position='right'/>
-		<ChName nameZh='方獨弱' nameEn='Fang Duruo' position='right' />
+		<ChName nameZh='方独弱' nameEn='Fang Duruo' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -35,6 +35,10 @@ tags:
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special837/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
 	</ChTab>
 </ChTabs>
 <br>

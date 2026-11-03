@@ -32,7 +32,7 @@ tags:
 					称号
 				</ChTd>
 				<ChTd>
-					髢橫渣
+					髒横渣
 				</ChTd>
 			</ChTr>
             <ChTr>
@@ -72,13 +72,41 @@ tags:
             </ChTr>
         </ChTable>
     </ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special208/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special208/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="びっくり">
+		<Ch src='/images/characters/special208/nervous2.webp' position='center'/>
+		<ChName nameZh='びっくり' nameEn='Shock' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special208/angry1.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="泣き">
+		<Ch src='/images/characters/special208/sad.webp' position='center'/>
+		<ChName nameZh='泣き' nameEn='Cry' position='right' />
+	</ChTab>
+	<ChTab title="嘘泣き成功">
+		<Ch src='/images/characters/special208/special1.webp' position='center'/>
+		<ChName nameZh='嘘泣き成功' nameEn='Crocodile Tears' position='right' />
+	</ChTab>
+	<ChTab title="嶺南派">
+		<Ch src='/images/characters/special208/section_normal.webp' position='center'/>
+		<ChName nameZh='嶺南派' nameEn='Lingnan Sect' position='right' />
+	</ChTab>
 </ChTabs>
 
 > 「偉そうなことを。俺だって入室弟子だ。これからは唐和と呼ばせてもらおう。」
 
 元[嶺南派](/ja/people/factions/lingnan-sect)大弟子。後に広州唐門に入門。[趙活](/ja/people/characters/player)が顔が醜いなら、晁和は顔も心も醜く、救い難し。
 <br><br>
-晁和とは何者か？江湖の異名「汚い横柄な奴」。正直者は騙さず、善良な人を騙す。自分の所業が人間界に残された僅かな善意を損なわせ、善人を信じなくさせることなど構わない。自分さえ快適なら、表向きは生返事だが心では、お前みたいな心優しい間抜けが早死にして二度と生まれ変わらないことを願っている。
+晁和とは何者か？江湖の渾名は「髒横渣」。賢い者は騙さず、お人よしばかりを騙す。自分の行いが人間界に残る僅かな善良さを踏みにじり、善人が他人を軽々しく信じられなくなることなどお構いなしで、自分さえ気持ちよければそれでいい。表面上は唯々諾々としているが、腹の中ではお前のような善良な間抜けが早死にし、ついでに二度と浮かばれないよう呪っている。
 <br><br>
 [趙活](/ja/people/characters/player)と同じ髪型をしているが、顎が少し突き出ているだけ。彼を偽装して詐欺行為をしておきながら、後に蜀中唐門に捕まって詰問される。ところがこの八面玲瓏な男、師姑の[唐小楼](/ja/people/characters/aunt2)を乾娘に認めさせ、生き残るばかりか唐門にも入った。
 <br><br>

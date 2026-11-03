@@ -9,10 +9,73 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="南宮深">
-		<Ch src='/images/characters/special102/normal.webp' position='right'/>
-		<ChName nameZh='南宮深' nameEn='Nan Gong Shen' position='right' />
-		<ChTable>
+	<ChTab title="初対面">
+		<ChMeet
+			src='/images/characters/special102/normal.webp'
+			nameTitle=''
+			nameMain='南宮深'
+			desc='<ruby>南宮<rt>なんきゅう</rt></ruby>家の嫡長たる大公子。<br>万人の注目を一身に集め、家学を継承し、儒雅で颯爽とし、四芸を完備し、<ruby>江湖<rt>こうこ</rt></ruby>での顔が広いだけでなく、文人雅士の間にも顔が利く。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special102/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch src='/images/characters/special102/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special102/nervious1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="不機嫌">
+		<Ch src='/images/characters/special102/angry1.webp' position='center'/>
+		<ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special102/angry2.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="黒い笑み">
+		<Ch src='/images/characters/special102/gloomy2.webp' position='center'/>
+		<ChName nameZh='黒い笑み' nameEn='Sinister Smile' position='right' />
+	</ChTab>
+	<ChTab title="悲しみ">
+		<Ch src='/images/characters/special102/sad.webp' position='center'/>
+		<ChName nameZh='悲しみ' nameEn='Sad' position='right' />
+	</ChTab>
+	<ChTab title="負傷">
+		<Ch src='/images/characters/special102/hurt.webp' position='center'/>
+		<ChName nameZh='負傷' nameEn='Injured' position='right' />
+	</ChTab>
+	<ChTab title="鳳凰宝衣1">
+		<Ch src='/images/characters/special102/special1.webp' position='center'/>
+		<ChName nameZh='鳳凰宝衣' nameEn='Phoenix Armor' position='right' />
+	</ChTab>
+	<ChTab title="鳳凰宝衣2">
+		<Ch src='/images/characters/special102/special2.webp' position='center'/>
+		<ChName nameZh='鳳凰宝衣' nameEn='Phoenix Armor' position='right' />
+	</ChTab>
+	<ChTab title="鳳凰宝衣(冷や汗)">
+		<Ch src='/images/characters/special102/special_nervous1.webp' position='center'/>
+		<ChName nameZh='鳳凰宝衣(冷や汗)' nameEn='Phoenix Armor (Sweat)' position='right' />
+	</ChTab>
+	<ChTab title="鳳凰宝衣(不機嫌)">
+		<Ch src='/images/characters/special102/special_angry1.webp' position='center'/>
+		<ChName nameZh='鳳凰宝衣(不機嫌)' nameEn='Phoenix Armor (Displeased)' position='right' />
+	</ChTab>
+	<ChTab title="鳳凰宝衣(重傷)">
+		<Ch src='/images/characters/special102/special_hurt.webp' position='center'/>
+		<ChName nameZh='鳳凰宝衣(重傷)' nameEn='Phoenix Armor (Severely Injured)' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -36,7 +99,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[南宮橫](/ja/people/characters/special104) (祖父)
+					[南宮横](/ja/people/characters/special104) (祖父)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -59,21 +122,16 @@ aside: false
 					[魏菊](/ja/people/characters/girl7) (同窓)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-	<ChTab title="鳳凰宝衣1">
-		<Ch src='/images/characters/special102/special1.webp' position='center'/>
-		<ChName nameZh='鳳凰寶衣' nameEn='Phoenix Armor' position='right' />
-	</ChTab>
-		<ChTab title="鳳凰宝衣2">
-		<Ch src='/images/characters/special102/special2.webp' position='center'/>
-		<ChName nameZh='鳳凰寶衣' nameEn='Phoenix Armor' position='right' />
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 南宮世家の嫡長子たる大公子。  
 万人の注目を一身に集め、家学を承け、儒雅にして翩々、四芸すべてに通じる。江湖に顔が広いばかりか、文人雅士の間にも広く人脈を持つ。
+
+<div style="clear:both;"></div>
 
 ## 列伝
 
@@ -140,7 +198,7 @@ aside: false
 
 ## 武功
 
--   全力で守りに入れば水も漏らさぬ堅陣で、[画中仙](/ja/people/characters/special813)ほどの強者も一時は攻めあぐねた。
+-   全力で守りに入れば水も漏らさぬ堅陣で、[画中仙](/ja/people/characters/special813)ほどの強者も一時は攻めあぐねた。さらに[虞小梅](/ja/people/characters/girl3)が加勢して猛攻をかけても、肩甲の奇跡的な働きでかろうじて攻勢を凌いだ。
 -   鳳凰宝衣は接近戦の天敵で、[南渓](/ja/people/characters/special829)すら苦戦に陥った。
 
 ## 備考
@@ -148,6 +206,8 @@ aside: false
 -   一字名の「深」は性格面の含意で、ちょうど弟[南宮浅](/ja/people/characters/special103)と好対照をなす。[^3]
 -   母は存命だが南宮家には住んでおらず、何年も前に実家へ帰り、[南宮世家](/ja/people/factions/nan-gong-family)とはほとんど音信がない。[^1]
 -   [唐布衣](/ja/people/characters/brother1)を非常に恐れている。浮気性ゆえに覆面の男に殴られたのは一度や二度ではなく、こっそり報復を仕掛けてさらにひどく打ちのめされた。
+-   [趙活](/ja/people/characters/player)が各派の武功を使いこなし、顔が人皮面具を被ったようで、正統の伝授を受けていないのに武功が高いのを見て、趙活が千面人魔ではないかと疑ったことがある。
+-   [唐門](/ja/people/factions/tang-men)が江陵囲城の魔教に積極的に対処していない間は、唐門を泥教の間者ではないかと疑うこともあり、物言いがかなり無遠慮になる。
 -   武林盟の説客でありながら、本来漏らしてはならない武林盟の情報である高手の顔ぶれを挙げ、唐門にこっそり内情を教えた。
 
 [^1]: 巴哈姆特－[RE:【情報】鳥熊問答集（已更新 11/2 第二波+私人問）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

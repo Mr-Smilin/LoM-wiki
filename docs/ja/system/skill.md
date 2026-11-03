@@ -24,7 +24,7 @@ tags:
         <td>-</td>
         <td>顔が少し良く見える。武学「混元童子炁」の前提条件</td>
         <td>
-            <li>1年目4月上旬－男弟子房の鏡のイベント</li>
+            <li>1年目4月上旬－男弟子室の鏡のイベント</li>
             <li><MarkdownWrapper>[心変わりの夢](/ja/event/simple/1-06-1-變心夢)</MarkdownWrapper>で、まだ知り合っていない相手を選ぶ条件</li>
         </td>
     </tr>
@@ -38,19 +38,19 @@ tags:
         <td id = "佛學">仏学</td>
         <td>-</td>
         <td>武学習得条件</td>
-        <td><MarkdownWrapper>[《羅漢拳譜》](/ja/system/books/book_6001)</MarkdownWrapper>LV5</td>
+        <td><MarkdownWrapper>[《羅漢拳譜》](/ja/system/books/book_6001)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《太祖長拳》](/ja/system/books/book_3001)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《金剛腿》](/ja/system/books/book_4001)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《金鐘罩》](/ja/system/books/book_1030)</MarkdownWrapper>LV10</td>
     </tr>
     <tr>
         <td id = "道學">道学</td>
         <td>-</td>
         <td>武学習得条件</td>
-        <td><MarkdownWrapper>[《全真剣法》](/ja/system/books/book_7002)</MarkdownWrapper>LV5、LV10</td>
+        <td><MarkdownWrapper>[《全真剣法》](/ja/system/books/book_7002)</MarkdownWrapper>LV5、LV10<br><MarkdownWrapper>[《手写しの全真剣法》](/ja/system/books/book_7019)</MarkdownWrapper>LV5、LV10<br><MarkdownWrapper>[《龍吟功》](/ja/system/books/book_7005)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《虎嘯功》](/ja/system/books/book_7016)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《清峰三十六路》](/ja/system/books/book_4009)</MarkdownWrapper>LV10</td>
     </tr>
     <tr>
         <td id = "形意拳">形意拳</td>
         <td>-</td>
         <td>武学習得条件</td>
-        <td><MarkdownWrapper>[《蛇形拳》](/ja/system/books/book_4008)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《白猿通臂拳》](/ja/system/books/book_6006)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《仙鶴迷蹤拳》](/ja/system/books/book_6003)</MarkdownWrapper> LV10<br><MarkdownWrapper>[《蛇兔鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《雷神腳》](/ja/system/books/book_4006)</MarkdownWrapper>LV5 、LV10</td>
+        <td><MarkdownWrapper>[《蛇形拳》](/ja/system/books/book_4008)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《白猿通臂拳》](/ja/system/books/book_6006)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《仙鶴迷踪拳》](/ja/system/books/book_6003)</MarkdownWrapper> LV10<br><MarkdownWrapper>[《手写しの仙鶴迷踪拳》](/ja/system/books/book_6015)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《蛇兎鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>LV10<br><MarkdownWrapper>[《雷神脚》](/ja/system/books/book_4006)</MarkdownWrapper>LV5 、LV10</td>
     </tr>
     <tr>
         <td id = "勇者">勇者</td>
@@ -67,14 +67,14 @@ tags:
     <tr>
         <td id = "南宮護心訣">南宮護心訣</td>
         <td>1~3</td>
-        <td>致命的な攻撃を防ぐことができます（血量が0になるとき、10点の血量を回復）。等級に応じて気力を20～40回復します。
-            <br><MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>に内功を伝えて救うときの条件は、<MarkdownWrapper>[飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來#唐門に待機)</MarkdownWrapper>を参照してください。</td>
+        <td>致命傷を防ぐことができる（HPが0になる際、HPを10回復）。レベルに応じて気力を20～40回復する。
+            <br><MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>に内功を伝えて救う条件は、<MarkdownWrapper>[飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來#唐門に待機)</MarkdownWrapper>を参照。</td>
         <td><MarkdownWrapper>[《南宮心法》](/ja/system/books/book_7012)</MarkdownWrapper></td>
     </tr>    
     <tr>
         <td id = "偕老誓">偕老の誓い</td>
         <td>-</td>
-        <td>致命的な攻撃を防ぎ、気力を回復できます。</td>
+        <td>致命傷を防ぎ、気力を回復できる。</td>
         <td><MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「九転の療傷」](/ja/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>にて、南宮護心訣LV3を持ち、かつ幻境の南宮遠に勝利した場合。</td>
     </tr>
     <tr>
@@ -82,7 +82,7 @@ tags:
         <td>-</td>
         <td>初期気力をさらに増加</td>
         <td>
-            <li>無薬可救の故事(体験版ルート)で、石幇主にプレゼントを送った後、喧嘩を選択</li>
+            <li>救いようのないルート (体験版ルート) で、石幇主にプレゼントを送った後、喧嘩を選択</li>
             <li>郁竹の帰郷イベントの町での雑談で雑貨の露店へ行くことを選び、品性≥40で、ダイスで【🎲≧85 名声】を出し、銀両5000を支払うと獲得</li>
             <li>小師妹ルートの比武招親で、想い人が唐黙鈴かつ唐黙鈴好感≧50のとき、金烏との決闘の初戦に勝った後、ダイスで【🎲≧50 小師妹は俺のものだ！】を出し、かつ道徳≥40</li>
             <li>崆峒争奪戦の郁竹ルートで、金烏上人が自ら掌派人を名乗った後、崆峒の弟子たちとの対決で負けず、心相＞0かつ性情≥60</li>
@@ -94,7 +94,7 @@ tags:
         <td>-</td>
         <td>相手にされていない(龍湘は待機状態)</td>
         <td>なし。外堡の誣告イベント中の龍湘の状態。
-<br>龍湘があなたの攻撃を受けたり怒った後、この技能は消えます</td>
+<br>龍湘が攻撃を受けるか怒った後、この技能は解除される</td>
     </tr>
     <tr>
         <td id = "玄黃納心綱">玄黄納心綱</td>
@@ -147,9 +147,9 @@ tags:
     <tr>
         <td id = "如意境">如意境</td>
         <td>-</td>
-        <td>防護罩のような状態があるとき、自身の拳掌が上がり、ブロック率も上がる</td>
+        <td>護体気罩のような防護状態があるとき、自身の拳掌が上がり、ブロック率も上がる</td>
         <td><MarkdownWrapper>[《玄玄如意指》](/ja/system/books/book_4004)</MarkdownWrapper>
-<br>龍湘の結縁イベントで「湘姉、俺が君の仇をとってやる」を選び、勝つか9ターン耐えると獲得。</td>
+<br>龍湘の結縁イベントで「湘姉、俺に仇を討たせてくれ」を選び、勝つか9ターン耐えると獲得。</td>
     </tr>
     <tr>
         <td id = "龍淵七絕">龍淵七絶</td>
@@ -202,7 +202,7 @@ tags:
         <td id = "暗箭傷人">暗矢傷人</td>
         <td>-</td>
         <td>決闘開始時に暗器を発射してダメージを与え、【怒り】を引き起こす確率がある</td>
-        <td>以下のNPCがこの能力を持つことが知られている：東西武林盟大院保衛戦中の千面人魔店小二。</td>
+        <td>以下のNPCがこの能力を持つことが知られている：東西武林盟の大院防衛戦に登場する千面人魔（給仕）。</td>
     </tr>
     <tr>
         <td id = "金錢鏢">金銭鏢</td>
@@ -246,7 +246,24 @@ tags:
         <td id = "思想戰">思想戦</td>
         <td>1~5?</td>
         <td>決闘開始時、LVに相当するコンボ数を持ち、LVx5の気を獲得</td>
-        <td><MarkdownWrapper>[《唐門暗器総綱》](/ja/system/books/book_1000)</MarkdownWrapper>LV4<br><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>LV5</td>
+        <td><MarkdownWrapper>[《唐門暗器総綱》](/ja/system/books/book_1000)</MarkdownWrapper>LV4<br><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《破金策》](/ja/system/books/book_8002)</MarkdownWrapper>LV5</td>
+    </tr>
+    <tr>
+        <td id = "読勢">読勢</td>
+        <td>1~3?</td>
+        <td>決闘時、臨陣に応じて受け流しの確率が上がる</td>
+        <td>
+            <li>
+                🚩「崆峒に留学」(<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>参照)と、
+                🚩「飛天門に入門」(<MarkdownWrapper>[崆峒派への留学](/ja/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>参照)が立っている。<br>
+                🚩<MarkdownWrapper>[鶴崖を開放](/ja/event/simple/2-03-3-鶴崖事件集#解放条件)</MarkdownWrapper>したあと、
+                <MarkdownWrapper>[火閃電に教えを請う](/ja/event/simple/2-03-3-向火閃電討教)</MarkdownWrapper>を続けて
+                🚩「火閃電に教えを請う」≥4にする。<br>
+                <Girl3Icon>虞小梅</Girl3Icon>好感≥20で、2年目4月上旬〜7月中旬に鶴崖へ行き、
+                <MarkdownWrapper>[小梅との共舞](/ja/event/simple/2-04-1-小梅共舞)</MarkdownWrapper>が発生する。<br>
+                そのうえで、このイベントの終盤に軽功≥40かつ全武学点数≥200を満たすと、読勢のレベルが+3される。
+            </li>
+        </td>
     </tr>
     <tr>
         <td id = "劍界">剣界</td>
@@ -293,7 +310,7 @@ tags:
             <li>レベルに応じて、戦術系技能の効果が上がる。</li>
             <li>シナリオに影響する: 戦術5未満だと西武林盟を自分で組めない、など。</li>
         </td>
-        <td><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>+5<br><MarkdownWrapper>[《楊家練兵操》](/ja/system/books/book_7004)</MarkdownWrapper>+1<br><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《南宮武備論》](/ja/system/books/book_8010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《蛇兔鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>+1<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>+1</td>
+        <td><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>+5<br><MarkdownWrapper>[《楊家練兵操》](/ja/system/books/book_7004)</MarkdownWrapper>+1<br><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《南宮武備論》](/ja/system/books/book_8010)</MarkdownWrapper>+1<br><MarkdownWrapper>[《蛇兎鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper>+1<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>+1<br><MarkdownWrapper>[《点蒼棒法》](/ja/system/books/book_2303)</MarkdownWrapper>+1<br><MarkdownWrapper>[《八門鎖金刀》](/ja/system/books/book_2008)</MarkdownWrapper>+1<br><MarkdownWrapper>[《破金策》](/ja/system/books/book_8002)</MarkdownWrapper>+2</td>
     </tr>
     <tr>
         <td id = "疾如風">疾如風</td>
@@ -310,7 +327,7 @@ tags:
     <tr>
         <td id = "侵掠如火">侵掠如火</td>
         <td>-</td>
-        <td>戦術LVに基づいて攻撃を上昇（毎級+0.02増傷）</td>
+        <td>戦術LVに応じて攻撃力を上昇（1レベルごとに与ダメージ+2%）</td>
         <td><MarkdownWrapper>[《楊家練兵操》](/ja/system/books/book_7004)</MarkdownWrapper></td>
     </tr>
     <tr>
@@ -323,7 +340,7 @@ tags:
         <td id = "難知如陰">難知如陰</td>
         <td>-</td>
         <td>戦術LVに基づいて弁舌を上昇（毎級+2%）</td>
-        <td><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper><br><MarkdownWrapper>[《蛇兔鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[《歴戦血書》](/ja/system/books/book_4010)</MarkdownWrapper><br><MarkdownWrapper>[《蛇兎鷹猿搏》](/ja/system/books/book_4003)</MarkdownWrapper><br><MarkdownWrapper>[《点蒼棒法》](/ja/system/books/book_2303)</MarkdownWrapper></td>
     </tr>
     <tr>
         <td id = "戰術誘導">戦術誘導</td>
@@ -331,14 +348,14 @@ tags:
         <td>【戦術】のレベルに応じて、相手の意図を見抜く確率が上がる。</td>
         <td>
             <li>玄玄如意指を習得している必要がある。</li>
-            <li>龍湘の結縁イベントで「湘姉、俺が君の仇をとってやる」を選び、龍湘に勝つか9ターン耐える。</li>
+            <li>龍湘の結縁イベントで「湘姉、俺に仇を討たせてくれ」を選び、龍湘に勝つか9ターン耐える。</li>
         </td>
     </tr>
     <tr>
         <td id = "全真體操">全真体操</td>
         <td>1~5</td>
         <td>体力に基づいて内功を上昇</td>
-        <td>秘笈<MarkdownWrapper>[《全真剣法》](/ja/system/books/book_7002)</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[《全真剣法》](/ja/system/books/book_7002)</MarkdownWrapper><br><MarkdownWrapper>[《手写しの全真剣法》](/ja/system/books/book_7019)</MarkdownWrapper></td>
     </tr>
     <tr>
         <td id = "鉄布衫">鉄布衫</td>
@@ -379,7 +396,7 @@ tags:
     <tr>
         <td id = "九轉輪迴">九転輪廻</td>
         <td>-</td>
-        <td>致命的な攻撃をブロックして、血を完全に回復できます</td>
+        <td>致命傷を防ぎ、HPを全回復する</td>
         <td><MarkdownWrapper>[「雲裳と結ばれる」](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper>の子イベント<MarkdownWrapper>[「九転の療傷」](/ja/event/simple/3-05-1-九轉療傷)</MarkdownWrapper>にて、葉雲裳と結縁した後に獲得する。
 </td>
     </tr>

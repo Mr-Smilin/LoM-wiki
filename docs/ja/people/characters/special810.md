@@ -13,7 +13,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="楽屏">
 		<Ch src='/images/characters/special810/normal.webp' position='right'/>
-		<ChName nameZh='樂屏' nameEn='Yue Ping' position='right' />
+		<ChName nameZh='楽屏' nameEn='Yue Ping' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -40,6 +40,10 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special810/laugh.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
@@ -47,7 +51,7 @@ tags:
 <br><br>
 江陵畜生道での戦闘の際、南宮深に一晩かけて縫った香嚢を贈った。一方、上官螢は寺から求めた数珠をくれようとしたが、南宮世家が道教を篤く信仰しているので受け取ってもらえなかった。
 <br><br>
-[南宮橫](/ja/people/characters/special104)の死後、楽屏が身ごもっていたため、南宮深は上官螢が[劉顎](/ja/people/characters/special1)に掠奪されたという口実で婚約を解いて、楽屏を妻として家に迎えた。
+[南宮横](/ja/people/characters/special104)の死後、楽屏が身ごもっていたため、南宮深は上官螢が[劉顎](/ja/people/characters/special1)に掠奪されたという口実で婚約を解いて、楽屏を妻として家に迎えた。
 
 ## 備考
 

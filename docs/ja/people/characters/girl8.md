@@ -11,7 +11,7 @@ borderless: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/girl_8/normal.webp' 
 			nameMain='龍湘'
@@ -22,46 +22,182 @@ borderless: false
 	<ChTab title="鶏腿を食べる">
 		<Ch 
 			src='/images/characters/girl_8/girl8_drumstick.webp' 
-			position='right'/>
+			position='center'/>
 		<ChName
-			nameZh='吃雞腿'
+			nameZh='鶏腿を食べる'
 			nameEn='Eat Drumstick'/>
 	</ChTab>
 	<ChTab title="鶏腿剣">
 		<Ch 
 			src='/images/characters/girl_8/drumstick_sword.webp' 
-			position='right'/>
+			position='center'/>
 		<ChName
-			nameZh='雞腿劍'
+			nameZh='鶏腿剣'
 			nameEn='Drumstick Sword'/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch 
+			src='/images/characters/girl_8/laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='微笑'
+			nameEn='Smile'/>
 	</ChTab>
 	<ChTab title="大笑">
 		<Ch src='/images/characters/girl_8/laugh2.webp'
-			position='right'/>
+			position='center'/>
 		<ChName 
 			nameZh='大笑'
 			nameEn='Laugh heartily'/>
 	</ChTab>
+	<ChTab title="緊張">
+		<Ch 
+			src='/images/characters/girl_8/nervous1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='緊張'
+			nameEn='Nervous'/>
+	</ChTab>
+	<ChTab title="びっくり">
+		<Ch 
+			src='/images/characters/girl_8/nervous2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='びっくり'
+			nameEn='Startled'/>
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch 
+			src='/images/characters/girl_8/nervous3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='気まずい'
+			nameEn='Awkward'/>
+	</ChTab>
+	<ChTab title="不機嫌">
+		<Ch 
+			src='/images/characters/girl_8/angry1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='不機嫌'
+			nameEn='Displeased'/>
+	</ChTab>
+	<ChTab title="照れ">
+		<Ch 
+			src='/images/characters/girl_8/shy.webp' 
+			position='center'/>
+		<ChName
+			nameZh='照れ'
+			nameEn='Shy'/>
+	</ChTab>
+	<ChTab title="照れ(湯気)">
+		<Ch 
+			src='/images/characters/girl_8/shy2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='照れ(湯気)'
+			nameEn='Flustered'/>
+	</ChTab>
+	<ChTab title="目を閉じる">
+		<Ch 
+			src='/images/characters/girl_8/close_eyes.webp' 
+			position='center'/>
+		<ChName
+			nameZh='目を閉じる'
+			nameEn='Eyes Closed'/>
+	</ChTab>
+	<ChTab title="疑い">
+		<Ch 
+			src='/images/characters/girl_8/doubt.webp' 
+			position='center'/>
+		<ChName
+			nameZh='疑い'
+			nameEn='Doubt'/>
+	</ChTab>
+	<ChTab title="後ろめたい">
+		<Ch 
+			src='/images/characters/girl_8/diffident.webp' 
+			position='center'/>
+		<ChName
+			nameZh='後ろめたい'
+			nameEn='Sheepish'/>
+	</ChTab>
+	<ChTab title="大泣き">
+		<Ch 
+			src='/images/characters/girl_8/sad.webp' 
+			position='center'/>
+		<ChName
+			nameZh='大泣き'
+			nameEn='Wailing'/>
+	</ChTab>
+	<ChTab title="泣き">
+		<Ch 
+			src='/images/characters/girl_8/sad2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='泣き'
+			nameEn='Teary'/>
+	</ChTab>
+	<ChTab title="抜剣">
+		<Ch 
+			src='/images/characters/girl_8/sword.webp' 
+			position='center'/>
+		<ChName
+			nameZh='抜剣'
+			nameEn='Sword Drawn'/>
+	</ChTab>
 	<ChTab title="戦闘">
 		<Ch src='/images/characters/girl_8/angry3.webp'
-			position='right'/>
+			position='center'/>
 		<ChName 
-			nameZh='戰鬥'
+			nameZh='戦闘'
 			nameEn='Fight'/>
 	</ChTab>
 	<ChTab title="覚醒">
 		<Ch src='/images/characters/girl_8/angry4.webp'
-			position='right'/>
+			position='center'/>
 		<ChName 
-			nameZh='覺醒'
+			nameZh='覚醒'
 			nameEn='Awakening'/>
+	</ChTab>
+	<ChTab title="負傷">
+		<Ch 
+			src='/images/characters/girl_8/hurt.webp' 
+			position='center'/>
+		<ChName
+			nameZh='負傷'
+			nameEn='Injured'/>
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch 
+			src='/images/characters/girl_8/hurt2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='重傷'
+			nameEn='Severely Injured'/>
 	</ChTab>
 	<ChTab title="宮装">
 		<Ch src='/images/characters/girl_8/dress_shy.webp'
-			position='right'/>
+			position='center'/>
 		<ChName
-			nameZh='宮裝'
+			nameZh='宮装'
 			nameEn='Dress'/>
+	</ChTab>
+	<ChTab title="宮装(平常)">
+		<Ch 
+			src='/images/characters/girl_8/dress_normal.webp' 
+			position='center'/>
+		<ChName
+			nameZh='宮装(平常)'
+			nameEn='Dress (Normal)'/>
+	</ChTab>
+	<ChTab title="宮装(赤面)">
+		<Ch 
+			src='/images/characters/girl_8/dress_shy2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='宮装(赤面)'
+			nameEn='Dress (Blush)'/>
 	</ChTab>
 </ChTabs>
 
@@ -199,32 +335,36 @@ borderless: false
 
 錦香宮殺人鬼。[唐布衣](/ja/people/characters/brother1)が勝手に付けた称号で、後に知れ渡った。
 
-鶏腿侠。一根の鶏腿で殺人を買える。衡陽雁城十盗は、貧しい庶民が鶏腿で買った殺人で全滅した。その十盗は凶悪で武功も高く、奪った財宝は一城の主並みだったという。だが鶏腿で死んだなんて、本当に悔しいだろう。
+鶏腿侠。鶏もも肉一本で人殺しを請け負うという渾名。衡陽の雁城十盗は、貧しい庶民が差し出した鶏もも肉一本で全員討ち果たされた。十盗はいずれも凶悪かつ武芸に優れ、溜め込んだ財宝は一城の主にも匹敵したというが、鶏もも肉一本で命を落としたとあっては死んでも死にきれまい。
 
-羊牯の中の羊牯。丐幇認証の移動金庫。この人は容姿も美しく、剣法も超越的だが、極度に愚か。学習能力などない。丐幇の弟子に捕まれば、皆心躍る。『[江湖鬼蜮録](/ja/system/books/book_8005)』の手口は、すべてやられたことがある!何度試しても必ず引っかかる。奇人である。しかし誰かが眠らせて淫らなことをしようとすれば、彼女は夢中で剣で反撃する。それも目覚めているときより激しい剣招で、決して活口は残さない。
+カモの中のカモ（羊牯の中の羊牯）。丐幇公認の歩く金庫。容姿端麗で剣の腕も超一流ながら、救いようがないほど世間知らずでまるで学習しないため、丐幇の弟子たちは彼女を見かけると色めき立つ。『[江湖鬼蜮録](/ja/system/books/book_8005)』に載っている手口にはひと通り引っかかったことがあり、何度試しても必ず騙される奇人である。ただし昏睡薬で眠らせて乱暴しようとした者に対しては、眠ったまま無意識に剣を抜いて反撃し、しかも起きている時以上に凄まじい剣筋で一人残らず斬り捨てる。
 
-[趙活](/ja/people/characters/player)は龍湘に救われた人々が『老天よ! この白衣菩薩がきて苦しみを救ってくださった!』と言ったと言う。[向無憂](/ja/people/characters/special408)は庶民が龍女侠のことを話すのを聞くと、みな『剣を手にした菩薩』だと言ったと聞く。
+[趙活](/ja/people/characters/player)によれば、龍湘に救われた民衆は「お天道様！白衣の菩薩様が苦難からお救いくださった！」と拝んでいたという。また[向無憂](/ja/people/characters/special408)も、民草が龍女侠を「剣を手にした生き菩薩」と讃えるのを耳にしている。
 
 ## 詩作
 
-破廟事件で[趙活](/ja/people/characters/player)の焼き鶏腿を食べて詠んだもの。詩仙李白の『侠客行』を改編。
+廃寺イベントで[趙活](/ja/people/characters/player)の焼き鶏腿を食べて詠んだもの。詩仙李白の『侠客行』を改編。
 
-> 縱死俠骨香，不慚世上英。誰人書閣下，白首太玄雞。
+> 死しても俠骨香し、世の英雄に恥じず。誰か書閣の下、白首の太玄鶏。<br>
+> (縱死俠骨香，不慚世上英。誰人書閣下，白首太玄雞。)
 
-臥雲崗事件で、鶏腿刺客の名を聞いて得意気に作った半首。
+臥雲崗イベントで、鶏腿刺客の名を聞いて得意気に作った半首。
 
-> 殺盡天下壞心人，嚐遍地上好味雞。
+> 天下の悪人を殺し尽くし、地上の美味い鶏を食らい尽くす。<br>
+> (殺盡天下壞心人，嚐遍地上好味雞。)
 
-その後、錦香宮に伝わり、[温夫人](/ja/people/characters/special402)も自分の愛弟子として汗顔し、藤の棒を用意して、龍湘が帰ったら死ぬほど殴り、その後先生を探して最初から勉強させた。
+この詩は錦香宮にも伝わった。[温夫人](/ja/people/characters/special402)も愛弟子の出来に赤面し、藤の鞭を用意させて、龍湘が戻り次第こっぴどく打ち据え、私塾の先生をつけて一から読み書きをやり直させるつもりでいた。
 
 風雨山を離れ、客舎で休息、目覚めて鶏腿がないのを見て詠んだ。
 
-> 嗚呼，早市無鶏腿。
+> 嗚呼、朝市に鶏ももがないなんて。<br>
+> (嗚呼，早市無雞腿。)
 
-西武林戦後、自分は教養がないと言い張るのを否定して、自分で詞を作った。『長相思令・詠鶏腿』という、公式に[画像](https://www.facebook.com/photo.php?fbid=181922514361132&id=100076301525150&set=a.165167019370015)がある。
+西武林戦の後、自分には学がないという評判に反論して、自分で詞を作った。『長相思令・鶏ももを詠む』という、公式に[画像](https://www.facebook.com/photo.php?fbid=181922514361132&id=100076301525150&set=a.165167019370015)がある。
 
-> 醃雞腿。烤雞腿，烤到微焦色最美。腹鳴如打雷。<br>
-> 你是誰。他是誰。聞香下馬皆忘歸。好吃到流淚。
+> 漬けた鶏。焼いた鶏、焦げ目がついて色が綺麗。腹の虫は雷のよう。<br>
+> あんたは誰。あいつは誰。香りに誘われ馬を降り、帰るのも忘れる。涙が出るほど美味い。<br>
+> (醃雞腿。烤雞腿，烤到微焦色最美。腹鳴如打雷。你是誰。他是誰。聞香下馬皆忘歸。好吃到流淚。)
 
 この詩は熊が作ったもので、これだけではない。現在龍湘の一連の詩は限定ルートでしか見られない。[^10]
 
@@ -250,14 +390,14 @@ borderless: false
 -   鳥熊公認のうっかり砲当番。[^2]
 -   [龍淵](/ja/people/characters/special2)は[龍湘](/ja/people/characters/girl8)のこの抜けた散漫な性格は、ほとんど自分に遺伝していると言う。
 -   想い人の中で最も浮気しない人。<EndIcon no="24">後果は深刻</EndIcon>
--   青楼の女には反感なし。多くの師姉が身を引いて改心した元風塵女性だから。彼女たちは体を売って生計を立て、奪わず騙さず、生まれつき富んで悪行を尽くしながら高潔ぶる人より優越している。しかし青楼に行く好色な男はそれとは別(拔劍)
+-   青楼の女性に対する偏見はない。錦香宮の師姉たちの多くが苦界から足を洗った元遊女だからである。盗みも騙しもせず身一つで生計を立てる彼女たちの方が、生まれつき富貴でありながら悪事を重ねて高潔ぶる連中よりよほど立派だと考えている。ただし青楼通いをする好色な男どもは別である（抜剣）。
 -   通常は信義にあつく、鶏腿で買収されても鶏腿をくわえて約束に向かう。[^15]
 -   虫は好きではないが、見ると悲鳴を上げることはない。暗いことは怖くないが、夜出ると灯りを持つ。[^23]
 -   天も地も怖くない。唯一怖いのは[温夫人](/ja/people/characters/special402)。[^23]
 -   [温夫人](/ja/people/characters/special402)の藤の棒は凶悪だが、心に傷を残さない。[^23]
 -   武功は高強だが盗難に遭いやすく気づかず、[丐幇](/ja/people/factions/beggar-gang)にとっては絶好のカモである。
 
-### 身体健康
+### 身体・健康
 
 -   身長174。南宋では巨人に等しい。[^3]しかし既に成長期は過ぎ、もう背は伸びない。[^8]
 -   宋代の人骨発掘調査でも女性の平均身長は156cm前後とされており、174cmは当時としてかなりの高身長にあたる。[^27]
@@ -269,14 +409,14 @@ borderless: false
 
 ### 人間関係
 
--   母親は金国先帝完顔允恭の出身、沂国公主完顔夢。[龍淵](/ja/people/characters/special2)は彼女を英姿颯爽で高貴優雅だと評し、自分には釣り合わないと言う。
+-   母は金国の顕宗・完顔允恭の娘である沂国公主・完顔夢。[龍淵](/ja/people/characters/special2)は彼女を英姿颯爽にして気高く優雅な女性と評し、自分にはもったいない相手だったと語っている。
 -   全[錦香宮](/ja/people/factions/jin-xiang-palace)の中で[龍湘](/ja/people/characters/girl8)だけが自発的に入宮しなかった。幼い頃から[温夫人](/ja/people/characters/special402)に連れられて育てられ、名義上は師徒だが、実質は母女に近い。
 -   ただし、伝説テキストではそう述べられているが、鳥熊は[温夫人](/ja/people/characters/special402)と龍湘は師弟の情だと述べている。[^12]
 -   [錦香宮](/ja/people/factions/jin-xiang-palace)でもっとも湘姉を寵愛する四人：[盛雪](/ja/people/characters/other12)、[温夫人](/ja/people/characters/special402)、[画中仙](/ja/people/characters/special813)、[明玉](/ja/people/characters/other18)。[^15]
 -   初版で[唐布衣](/ja/people/characters/brother1)と大戦後、もともと[唐布衣](/ja/people/characters/brother1)が意図的に彼女の頬にキスして逃げさせたが、ユニコーンプレイヤーから批判を受けて、[趙活](/ja/people/characters/player)が落ちてきて彼女にキスするように変更された。その後、天命ダイスで誰がキスするかが決まるように改変された。
 -   [唐布衣](/ja/people/characters/brother1)に憧憬を抱き、[龍淵](/ja/people/characters/special2)、[王二壮](/ja/people/characters/special401)と同じく仁侠義士として崇拝している。~~ただし会うたびに戦闘になることもあるが~~、そのため[趙活](/ja/people/characters/player)は常に自分が隙をついて入り込んだと思っている。
 -   [趙活](/ja/people/characters/player)への評価は高く、何をしても褒める。[唐布衣](/ja/people/characters/brother1)からは錦香宮のゴマすり殺人鬼とからかわれた。
--   飛侠が地に降りた後の一月間、[唐門](/ja/people/factions/tang-men)に仮住まいして、全派の者と切磋相手をして一通り相手をした。攻撃の気迫は驚くほどで、唐門の弟子たちを怖がらせた。[^11]
+-   大師兄の転落後の一か月間、[唐門](/ja/people/factions/tang-men)に身を寄せて門人全員とひと通り手合わせしたが、凄まじい剣気に唐門の弟子たちは震え上がった。[^11]
 -   龍家の親類は[龍淵](/ja/people/characters/special2)だけになった。[^20]
 -   [王二壮](/ja/people/characters/special401)と[温夫人](/ja/people/characters/special402)の兄妹の情が、彼女が[趙活](/ja/people/characters/player)と兄弟分になりたい理由の一つ。[^21]
 
@@ -284,7 +424,7 @@ borderless: false
 
 -   宮装で「琴歌鳳求凰」を弾いて心意を表そうとしたが、[趙活](/ja/people/characters/player)は風雅を理解せず、龍湘に壁に押さえつけられて無理やりキスされた。
 -   成親後の龍湘は依然として顔が赤くなるタイプ。むやみに冷やかしたら、彼女は怒りと羞恥で混乱して、剣を抜く。[^8]
--   西武林エンディング後、[趙活](/ja/people/characters/player)と天涯浪跡し、時々[唐門](/ja/people/factions/tang-men)に帰る。[^12]
+-   西武林エンディング後は[趙活](/ja/people/characters/player)と二人で天涯をさすらい、折に触れて[唐門](/ja/people/factions/tang-men)へ里帰りする。[^12]
 -   [趙活](/ja/people/characters/player)と二人きりの時、甘えてみたくなるが、うまくできない。相手のために何かしようとすると、台所が火事になってしまう。[^12]
 -   鶏腿大亨ルート。鳥熊は稼ぎがそこまで多くなく、稼いだだけ使うタイプだと推測している。[^15]
 -   鶏腿大亨ルート。山中茶肆の具体的な場所はない。彼らは走り回るから。[^22]
@@ -293,19 +433,19 @@ borderless: false
 ### 装備
 
 -   配剣は[龍淵](/ja/people/characters/special2)が使った天觴剣。[火炎山剣閣](/ja/people/factions/mount-fire-palace)が鍛造したもの。しかし[龍淵](/ja/people/characters/special2)は重すぎると感じ、後に龍湘の母親の嗔嵐剣を授けた。[^20]
--   天觴剣の剣頭・護手は、戦国の酒器『羽觴』。歴史は古く価値も計り知れないが、持ち主の龍湘本人は古董であることを知らない。
+-   天觴剣の剣首と鍔は戦国時代の酒器「羽觴」をあしらったもので、由緒ある計り知れない値打ちの骨董品だが、持ち主の龍湘本人はそうとは知らない。
 -   [錦香宮](/ja/people/factions/jin-xiang-palace)の弟子は剣穂を編む。市販価格は高いが、龍湘が編んだものは売れず、自分で使う。『繞指柔剣』には多くの招式で剣穂を使う。敵の視線を遮ったり、剣路を掃いたりするが、龍湘は剣穂で人を斬るレベルにまで鍛え上げた。
 -   剣はすべて自分で手入れ。材料代以外の支出はほぼない。幸い剣は良い品で、耐久性がある。[^7]
 -   天觴剣は当代では伝説の名剣だが、誰もが[錦香宮](/ja/people/factions/jin-xiang-palace)を恐れ、[龍淵](/ja/people/characters/special2)を敬っているので、誰も奪いに来ない。[^7]
 -   天觴剣に主がなければ、[点蒼派](/ja/people/factions/dian-cang-sect)は全派を動員して奪いに行く。[^10]
--   何足かの靴がある。確認できるのは[戦闘](/images/characters/girl_8/attack.webp)用の一足。2024 賀状にも登場。在宅時は軽い靴、外出時は靴。その時代の武林人はみなそのようなもの。[^18]
+-   履き物を何足か持っており、[戦闘立ち絵](/images/characters/girl_8/attack.webp)や2024年の年賀イラストで確認できる。屋内では軽便な短靴を履き、外出時は長靴を履くが、当時の武林の者としては一般的な装いである。[^18]
 -   恩師[温夫人](/ja/people/characters/special402)は彼女の忍耐心を養うため、髪を結い、外出時は必ず身なりを整えるよう命じた。結髪は龍湘の制限器と言える。錦香宮にいる時は簡単な髪型を使って手を抜く。
 
 ### 武功
 
 -   [唐門](/ja/people/factions/tang-men)は攻撃の巧妙さを重視し、[錦香宮](/ja/people/factions/jin-xiang-palace)は柔勁を尊ぶ。力を重視しない派。龍湘は例外。
 -   力は結縁女性キャラの中で二番目に大きい（一番は[郁竹](/ja/people/characters/girl6)）。ただしそこまで大きくはない。天觴剣は重いが、錦香宮は均衡を重視する派。筋肉が多すぎると協調性が低下する。[温夫人](/ja/people/characters/special402)は龍湘の食事管理をしている。[^25]
--   拳腿功夫はまあまあ。強項ではない。剣の使い手としても拳腿を活用する。[^9]
+-   拳脚の体術もそこそこ使えるが得意分野ではなく、あくまで剣術の補助として織り交ぜる程度である。[^9]
 -   西武林決戦。[上官隼](/ja/people/characters/special407)か[向無憂](/ja/people/characters/special408)に遭遇すれば、双剣に覚醒して絶世に踏み入る。
 -   鶏腿で殺人可能。<BadendIcon :no="32">生死簿 No.32</BadendIcon>
 -   鶏腿剣は人の要害を斬り、内力が内臓に達し、迷走神経叢に衝撃を与えて、そして終わり。[^16]
@@ -327,7 +467,7 @@ borderless: false
 
 -   龍湘を鶏腿の沼に陥れた張本人は、[王二壮](/ja/people/characters/special401)が焼いた叫化鶏。黄泥を開け、蓮葉を開け、その香り～凡人には耐えられない!
 -   あらゆる鶏料理が好き。[^21]
--   洞庭湖畔に住んでいるのに、特に水産物を好まない。魚は食べるが、刺を取るのが面倒。食べるのが面倒な食べ物は好きでない。[^10]
+-   洞庭湖のほとりに暮らしていながら魚介類をあまり好まない。魚自体は食べられるものの小骨を取るのが面倒で、総じて手間のかかる食べ物を嫌う。[^10]
 -   相当食べる。食費は高い。ただし基礎代謝と運動量も大きく、誰も管理しなくてもスタイルを保つ。[^10]
 -   辛いものが好きで、かなり辛いものが食べられる。[^10]
 -   管理下では一日最多二本の鶏腿（一羽分）。だが[温夫人](/ja/people/characters/special402)の死後は制限がなくなった。[^10]
@@ -358,9 +498,9 @@ borderless: false
 -   鳥熊は金国の国王になるエンディングを計画していない。[^10]
 -   誕生日は8月5日。[^24]
 -   龍湘のキャラクター設定は何度も修正：最初は[瑞杏](/ja/people/characters/girl1)の金牌殺手で、有能で人望ある敵キャラ。龍湘の改動過程で錦香宮の『寂夜慈灯』[盛雪](/ja/people/characters/other12)が派生した。[^26]
--   後のインタビューでの補足：最初の龍湘は万里鵬程と対等に渡り合う冷酷な超級殺し屋で結縁不可。「錦香宮殺人魔」は本当に殺し屋で、錦香宮にいながら[瑞杏](/ja/people/characters/girl1)に近い派閥に属し、その指図で[温夫人](/ja/people/characters/special402)をそばで監視する役どころだった。[^28]
+-   後のインタビューでの補足：最初の龍湘は万里鵬程と対等に渡り合う冷酷な超級殺し屋で結縁不可。「錦香宮の殺人魔」は本当に殺し屋で、錦香宮にいながら[瑞杏](/ja/people/characters/girl1)に近い派閥に属し、その指図で[温夫人](/ja/people/characters/special402)をそばで監視する役どころだった。[^28]
 -   鳥熊は明かした：本来[瑞杏](/ja/people/characters/girl1) DLCで龍湘が光を放つ特別ストーリーを計画していたが、現段階では本体コンテンツの完善を優先。[^26]
--   龍湘海捕令資料フォルダー周辺文案：[ソース](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
+-   龍湘の手配書クリアファイル (グッズ) の文面：[ソース](https://www.facebook.com/obbstudio/posts/pfbid02HoENVHH3p1pxbKGNVuzsSSWqepg8ZTJAAAMVNhSwfXB3j2cCKG3ACxoymSK7GoSwl)
     > 犯人 錦香宮殺人鬼<br>
     > 掠舎殺人奪鶏腿十<br>
     > 悪不赦如揭此榜拿<br>
@@ -369,22 +509,24 @@ borderless: false
     > 如有隠匿知情不報<br>
     > 者依犯人同罪<br>
     > 岳州府衙
+
+    訳：犯人 錦香宮の殺人鬼。家々を荒らして人を殺め鶏ももを奪う、十悪不赦の者。この榜を剥がしてこの者を捕らえ、岳州府衙に届け出た者には賞金白銀千両を与える。匿って知りながら届け出ない者は犯人と同罪とする。岳州府衙
 -   [大師兄、刺金行の顛末](/ja/event/simple/2-12-1-大師兄刺金行)では、父[龍淵](/ja/people/characters/special2)と義兄弟の契りを結んだ金国皇帝[完顔珣](/ja/people/characters/special819)に会いに前線へ赴き、皇帝になった完顔珣が信義に背いて父を見捨てたことを問い詰める。郡主に封じるという申し出を断って袂を分かち、「父があなた様を裏切ったことは一度もない」と言い残した。完顔珣を襲った[唐布衣](/ja/people/characters/brother1)とは、龍湘が唐布衣を斬り殺したように見せる芝居を打ち、唐布衣を生きて逃がした。
 
 ## ギャラリー
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_22.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_22.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
 	<div>
-        <img src="/images/collab/20241220_toranoana/photo_16.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_16.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
 	<div>
-        <img src="/images/collab/20241220_toranoana/photo_20.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_20.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
 	<div>
-        <img src="/images/collab/20241220_toranoana/photo_21.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_21.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>
 
@@ -396,7 +538,7 @@ borderless: false
 [^6]: PTT C 洽 - [Re: \[活俠\] 錦香宮相関小知識](https://www.ptt.cc/bbs/C_Chat/M.1725531255.A.803.html)
 [^7]: [問答集2024年9月#_2024-09-24](/ja/other/qna/202409)
 [^8]: [問答集2024年10月#_2024-10-08](/ja/other/qna/202410)
-[^9]: PTT C 洽－[\[活俠\] 龍湘小知識二則](https://www.ptt.cc/bbs/C_Chat/M.1728751231.A.9F7.html)
+[^9]: PTT C 洽－[\[活俠\] 龍湘の小知識二則](https://www.ptt.cc/bbs/C_Chat/M.1728751231.A.9F7.html)
 [^10]: 巴哈姆特－[【情報】龍湘の体型についての答え+鳥熊への私信のやり取り](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
 [^11]: PTT C 洽－[\[活俠\] 龍湘+綜合小知識数則](https://www.ptt.cc/bbs/C_Chat/M.1728840738.A.3D7.html)
 [^12]: PTT C 洽－[\[活俠\]龍湘と奇妙な雑学 P3](https://www.ptt.cc/bbs/C_Chat/M.1729093866.A.C8A.html)
@@ -411,7 +553,7 @@ borderless: false
 [^22]: [問答集2024年11月#_2024-11-04](/ja/other/qna/202411)
 [^23]: [問答集2024年11月#_2024-11-06](/ja/other/qna/202411)
 [^24]: Facebook－[原始鳥熊2025/8/5](https://www.facebook.com/share/v/15t9qW9isi/)
-[^25]: PTT C 洽－[\[活俠\] 奇怪的小知識](https://www.ptt.cc/bbs/C_Chat/M.1734956470.A.C8A.html)
+[^25]: PTT C 洽－[\[活俠\] 奇妙な小知識](https://www.ptt.cc/bbs/C_Chat/M.1734956470.A.C8A.html)
 [^26]: 遊戯角落－[専訪原始鳥熊（3）假趙活是真的—你我身辺可能都有一個晁和](https://game.udn.com/game/story/122090/8118486)
 [^27]: 人類学学報－[郑州地区汉唐宋成年居民的身高研究](https://www.anthropol.ac.cn/CN/abstract/abstract1746.shtml)
 [^28]: [専訪鳥熊鼠虫 129題訪談](/ja/other/qna/interview-129)の第5篇

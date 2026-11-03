@@ -9,10 +9,41 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="李富貴">
-		<Ch src='/images/characters/special809/normal.webp' position='right'/>
-		<ChName nameZh='李富貴' nameEn='Li Fu Gui' position='right' />
-		<ChTable>
+	<ChTab title="初対面">
+		<ChMeet
+			src='/images/characters/special809/normal.webp'
+			nameTitle=''
+			nameMain='李富貴'
+			desc='<ruby>丐幇<rt>かいほう</rt></ruby>の新星、乞食なのに富貴と名付けられた。<br><ruby>丐幇<rt>かいほう</rt></ruby>旧派の長老・<ruby>千金叟<rt>せんきんそう</rt></ruby>の遺児であり、<ruby>丐幇<rt>かいほう</rt></ruby>新派の指導者兼幇主・<ruby>王二壮<rt>おうじそう</rt></ruby>の義子でもある。<br>話すと吃音だが、実は人は愚かではない。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special809/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch src='/images/characters/special809/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special809/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special809/angry1.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="泣き">
+		<Ch src='/images/characters/special809/sad.webp' position='center'/>
+		<ChName nameZh='泣き' nameEn='Cry' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -41,11 +72,11 @@ aside: false
 					[樊嘯天](/ja/people/characters/special4) (同門)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
 
-> 「武林盟のあの連中は、俺たちが町から...え...え、え...～え ── チッ！」
+> 「武林盟のや、や、や、奴ら、まさか俺たちが町からは、は、は、は──」
 
 丐幇の新進気鋭。乞食でありながら「富貴」という名前を付けられた。
 
@@ -56,6 +87,8 @@ aside: false
 <br>
 
 言葉が吃音気味だが、実は人は愚かではない。
+
+<div style="clear:both;"></div>
 
 ## 列伝
 
@@ -73,7 +106,7 @@ aside: false
 
 ## 王二壮
 
--   王二壮に対する感情は複雑で、敬愛し尊敬する一方で、養父の仇を討ちたいという思いもある。
+-   王二壮に対する感情は複雑で、敬愛し尊敬する一方で、実父を殺された仇を討ちたいという思いもある。
 -   江陵囲城戦の最後、王二壮を背後から刺した。大義のために親族を殺すことは王二壮 (養父) の意向だった。彼はそうしたくなかったが、後退も叶わず、そこでやった。
 -   王二壮 (養父) は新派だが、実は[千金叟](/ja/people/characters/other19) (実父) のために旧派に属する。
 -   王二壮は表向きは彼を握って旧派長老を安定させているが、実は将来的に彼が幇主になった後、仲介して新旧派の内耗を緩和し、旧派の長老がすべて寿終するのを待つことを期待している。

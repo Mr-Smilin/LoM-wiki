@@ -56,7 +56,7 @@ tags:
 <td>3</td>
 <td>2年目2月上旬</td>
 <td><MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper></td>
-<td>月例会議で📜「崆峒派に留学したい」を選ばず、そのまま📜「退席」を選ぶ。</td>
+<td>月例会議で📜「崆峒派へ留学したい」を選ばず、そのまま📜「退席」を選ぶ。</td>
 <td>• 手持ちの秘笈では後で<MarkdownWrapper>[医術](/ja/system/skill)</MarkdownWrapper>をレベル3まで修練できない場合、この時点で四師兄から買っておくとよい。
     <br>• 後で<MarkdownWrapper>[九転残篇](/ja/system/books/book_8109)</MarkdownWrapper>を修練するには<MarkdownWrapper>[仏学](/ja/system/skill)</MarkdownWrapper>レベル2が必要なので、この時点で<MarkdownWrapper>[羅漢拳譜](/ja/system/books/book_6001)</MarkdownWrapper>を買っておくとよい。
     <br>• 4年目に同舟剣法または剣聖の極招 (西武林ルート限定) を習得したい場合、この時点で<MarkdownWrapper>[点蒼剣譜](/ja/system/books/book_2300)</MarkdownWrapper>を買っておく必要がある。
@@ -68,10 +68,10 @@ tags:
 <td>2年目6月上旬</td>
 <td><MarkdownWrapper>[家出](/ja/event/simple/2-06-1-離家出走)</MarkdownWrapper></td>
 <td>• あらかじめ想い人を<Girl2Icon>葉雲裳</Girl2Icon>にしておく。
-    <br>• 📖「廃寺」を選ぶ。</td>
+    <br>• 📖「廃寺に泊まる」を選ぶ。</td>
 <td>• このイベント自体は想い人を条件にしないが、これ以降は心変わりポイントを稼ぎにくくなる。
     <br>• この時点で<Girl2Icon>葉雲裳</Girl2Icon>好感≧30にしておくとよい。以降の会話の多くが変わる。
-    <br>• 葉雲裳好感≧30なら、📖「宿屋」を選んでも強制的に廃寺行きになる。
+    <br>• 葉雲裳好感≧30なら、📖「宿屋に泊まる」を選んでも強制的に廃寺行きになる。
     <br>• 唐門を出る前に秘笈<MarkdownWrapper>[金剛腿](/ja/system/books/book_4001)</MarkdownWrapper>の購入を検討してもよい(<MarkdownWrapper>[仏学](/ja/system/skill)</MarkdownWrapper>レベル1を得られるが、後にも他の仏学書がある)。
 </td>
 </tr>
@@ -112,7 +112,7 @@ tags:
 <td><MarkdownWrapper>[葉家兄妹の出発](/ja/event/simple/3-01-1-葉氏兄妹離去)</MarkdownWrapper></td>
 <td>• あらかじめ想い人を<Girl2Icon>葉雲裳</Girl2Icon>にしておく。
     <br>• 葉雲舟の考えの🎲天命で【≧80】「葉雲裳の抵抗」を出す(<MarkdownWrapper>[運命収束の力](/ja/event/achievements/#風雲史-No.16)</MarkdownWrapper>を持っていない場合、葉雲裳好感≧30が必要)。
-    <br>• あなたの提案では📖「葉雲舟を引き止める」を選ぶ。
+    <br>• あなたの提案では📖「葉雲舟に留まるよう勧める」を選ぶ。
     <br>• 唐芳との会話のあとで<MarkdownWrapper>[九転残篇](/ja/system/books/book_8109)</MarkdownWrapper>を入手できる。
 </td>
 <td>• <MarkdownWrapper>[九転残篇](/ja/system/books/book_8109)</MarkdownWrapper>は3年目5月上旬までに修練を終える必要がある。
@@ -129,14 +129,14 @@ tags:
     <MarkdownWrapper>[雲裳と結ばれる](/ja/event/simple/3-05-1-雲裳結緣)</MarkdownWrapper><br>
 </td>
 <td>• あらかじめ想い人を<Girl2Icon>葉雲裳</Girl2Icon>にし、葉雲裳好感≧50を満たし、秘笈<MarkdownWrapper>[九転残篇](/ja/system/books/book_8109)</MarkdownWrapper>を修練し終えておく。
-    <br>• 葉雲裳への対応で、3回続けて📖「軟性対策」を選ぶ。
+    <br>• 葉雲裳への対応で、3回続けて📖「柔軟策」を選ぶ。
     <br>• 🗡️段智秀との決闘に勝った場合、続く🗡️鉄冠道人との決闘では、4ラウンド以上持ちこたえてから負ける必要がある。
     <br>• 鉄冠道人との内力比べでは、🎲【<40】「死」を出してはいけない。
     <br>• 異種真気(幻境の対戦相手)との戦闘にはすべて勝つ必要がある。勝てば結縁の場面に進む。
     <br>• このイベントを終えて道具<MarkdownWrapper>[【葉雲裳の櫛】](/ja/people/characters/girl2.html#結縁信物)</MarkdownWrapper>を入手すると、結縁が完了する。
 </td>
-<td>• <Girl2Icon>葉雲裳</Girl2Icon>好感を稼ぎたい場合は、後山での修練で焼き魚イベントを狙うとよい。
-    <br>• 剣聖の伝承の条件: 内力比べで🎲【<99】「一歩及ばない」を出し、かつ<MarkdownWrapper>[谷底での生活](/ja/event/simple/3-05-1-谷底生活)</MarkdownWrapper>で雑談📜「葉雲裳の武功」を選ぶこと。
+<td>• <Girl2Icon>葉雲裳</Girl2Icon>好感を稼ぎたい場合は、裏山での修練で焼き魚イベントを狙うとよい。
+    <br>• 剣聖の伝承の条件: 内力比べで🎲【<99】「やや劣勢」を出し、かつ<MarkdownWrapper>[谷底での生活](/ja/event/simple/3-05-1-谷底生活)</MarkdownWrapper>で雑談📜「葉雲裳の武芸」を選ぶこと。
     <br>• スキル<MarkdownWrapper>[南宮護心訣](/ja/system/skill)</MarkdownWrapper>レベル3を持っている場合、幻境の南宮遠との戦闘に勝つと、新スキル<MarkdownWrapper>[偕老の誓い](/ja/system/skill)</MarkdownWrapper>に置き換わる。
     <br>• 結縁の過程で、スキル<MarkdownWrapper>[九転輪廻](/ja/system/skill)</MarkdownWrapper>を獲得する。
 </td>
@@ -170,7 +170,7 @@ tags:
     • 大門に行くと葉雲舟を武林大会に同行するよう誘える。<br>
     • <Girl2Icon>葉雲裳</Girl2Icon>を同行させたい場合は、📖「彼女のために口添えする」を選ぶ必要がある。
 </td>
-<td>同行させるのがおすすめだが、📖「彼女自身に聞いてみて」を選ぶと別の展開も見られる。</td>
+<td>同行させるのがおすすめだが、📖「君の兄に聞け」を選ぶと別の展開も見られる。</td>
 </tr>
 
 <tr>
@@ -188,7 +188,7 @@ tags:
     <br>• <Girl2Icon>葉雲裳</Girl2Icon>が同行する場合:
     <br>1. 道中イベント: 展開が変化する。
     <br>2. 錦香宮: 展開が変化する。
-    <br>3. 錦香宮: 華音閣で葉雲裳が琴を習うイベントが追加され、3回終えると🚩「葉雲裳、琴を習う」が立つ。これがあると、西武林ルートの📖「三師兄を護衛する」で雲裳の琴の支援を受けられるので、起こしておくとよい。
+    <br>3. 錦香宮: 華音閣で葉雲裳が琴を学ぶイベントが追加され、3回終えると🚩「葉雲裳、琴を習う」が立つ。これがあると、西武林ルートの📖「決闘：三師兄を護衛する」で雲裳の琴の支援を受けられるので、起こしておくとよい。
 </td>
 <td>現バージョンでは葉雲舟の同行は<Girl2Icon>葉雲裳</Girl2Icon>との結縁に紐づいているため、葉雲舟側の展開もあわせて記載する。</td>
 </tr>
@@ -202,8 +202,8 @@ tags:
     <br>2. 唐門代表として比武に参加させられる(<MarkdownWrapper>[点蒼の逆徒](/ja/event/simple/3-10-2-點蒼逆徒)</MarkdownWrapper>参照)。ただし趙活が上官隼に挑戦していないことが条件。
     <br>• <Girl2Icon>葉雲裳</Girl2Icon>が同行する場合:
     <br>1. 展開が変化する。
-    <br>2. 投票の結果、唐門が武林の公敵になり、かつ📖「葉雲裳に付き添ってもらう」を選ぶと、<MarkdownWrapper>[風雲史《悪人は悪人が制す (惡人自有惡人磨)》](/ja/event/achievements/#風雲史-No.19)</MarkdownWrapper>を解除できる。
-    <br>3. 宿屋で休むとき、📖「湯浴み」のあと📖「階下で飲む」を選ぶと南渓のイベントが発生し、葉家にまつわる展開がある。また<MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper>や<MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>で南渓が加勢してくれるので、起こしておくとよい。
+    <br>2. 投票の結果、唐門が武林の公敵になり、かつ📖「葉雲裳を連れて行く」を選ぶと、<MarkdownWrapper>[風雲史《悪人は悪人が制す (惡人自有惡人磨)》](/ja/event/achievements/#風雲史-No.19)</MarkdownWrapper>を解除できる。
+    <br>3. 宿屋で休むとき、📖「湯桶を頼んで体を洗う」のあと📖「下に降りて酒を飲む」を選ぶと南渓のイベントが発生し、葉家にまつわる展開がある。また<MarkdownWrapper>[唐門囲攻戦](/ja/event/detailed_description/4-01-2-唐門圍攻戰)</MarkdownWrapper>や<MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper>で南渓が加勢してくれるので、起こしておくとよい。
 </td>
 <td>
     • 現バージョンでは葉雲舟の同行は<Girl2Icon>葉雲裳</Girl2Icon>との結縁に紐づいているため、葉雲舟側の展開もあわせて記載する。
@@ -226,7 +226,7 @@ tags:
 <td>3年目12月上旬 (残り行動1回)</td>
 <td><MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>(退隠ルート)</td>
 <td>
-    • 女弟子房・男弟子房・煉丹房の展開が変化する。<br>
+    • 女弟子室・男弟子室・煉丹房の展開が変化する。<br>
     • <MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が<Girl2Icon>葉雲裳</Girl2Icon>バージョンになる。
 </td>
 <td></td>
@@ -259,7 +259,7 @@ tags:
 </td>
 <td><MarkdownWrapper>[伴侶との約束](/ja/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
 <td>
-    • 女弟子房に行くと<Girl2Icon>葉雲裳</Girl2Icon>と自作の紙札遊戯で遊ぶイベントが発生する。<br>
+    • 女弟子室に行くと<Girl2Icon>葉雲裳</Girl2Icon>と自作の紙札遊戯で遊ぶイベントが発生する。<br>
     • 他に結縁している相手がいる場合は<MarkdownWrapper>[修羅場](/ja/event/simple/4-01-2-修羅場)</MarkdownWrapper>イベントに置き換わり、任意の場所を選ぶと発生する。
 </td>
 <td>このイベントを起こさなかった場合、残り行動回数2の時点で<MarkdownWrapper>[約束を破る](/ja/event/simple/4-01-2-伴侶之約#失約)</MarkdownWrapper>イベントが自動発生する。</td>
@@ -286,8 +286,8 @@ tags:
 <td><MarkdownWrapper>[東西武林盟会戦](/ja/event/detailed_description/4-02-2-東西武林盟會戰)</MarkdownWrapper></td>
 <td>• 葉雲裳が参加し、展開が変化する。
     <br>• 錦香宮で<Girl2Icon>葉雲裳</Girl2Icon>が温夫人に琴を習うイベントを起こしていた場合: 葉雲裳が参戦し、各所で戦闘が変化する。
-    <br>• 📖「三師兄を護衛する」の2戦目の🗡️決闘が終わると、🗡️無相祖師との決闘が発生する。
-    <br>• 戦闘のあと📜「雲裳があなたを訪ねる」が発生したとき、葉雲裳好感≧50で、条件8の剣聖の伝承の条件も満たしていれば、剣聖の伝承のイベントが解放される。
+    <br>• 📖「決闘：三師兄を護衛する」の2戦目の🗡️決闘が終わると、🗡️無相祖師との決闘が発生する。
+    <br>• 戦闘のあと📜「雲裳が探してる」が発生したとき、葉雲裳好感≧50で、条件8の剣聖の伝承の条件も満たしていれば、剣聖の伝承のイベントが解放される。
 </td>
 <td>葉雲舟も参戦するが、それには葉雲裳との結縁は必須ではない。</td>
 </tr>
@@ -320,7 +320,7 @@ tags:
 • 条件2で葉家兄妹が唐門に滞在することになると、<Girl2Icon>葉雲裳</Girl2Icon>が関わる、時期の決まっていないイベントが起きるようになる (結縁には必須ではない)。発生時期が決まっていないので、上の表の条件の合間に挟まる。
 <br>• <MarkdownWrapper>[唐錚の診断](/ja/event/simple/1-08-3-唐錚診斷)・[山を下りての遠出](/ja/event/simple/1-09-2-下山郊遊)</MarkdownWrapper>: 1年目8月下旬〜2年目3月に発生。葉雲裳の内傷が判明し、唐錚が治療を引き受ける経緯が語られる。
 <br>• <MarkdownWrapper>[紙札遊戯の対決](/ja/event/simple/1-09-2-卡牌決鬥)</MarkdownWrapper>: <MarkdownWrapper>[唐芳の帰還](/ja/event/simple/1-09-1-唐芳歸來)</MarkdownWrapper>後、1年目9月中旬〜2年目5月下旬の毎月上旬に抽選。🎲天運で「葉雲裳の反則的な制圧」が出ると好感が上がる。
-<br>• <Girl2Icon>葉雲裳</Girl2Icon>と結縁せず、生き延びさせるだけなら、条件1・条件2を満たし、青城に留学せず(条件5参照)、条件7の🎲「葉雲裳の抵抗」と📖「葉雲舟を引き止める」を達成すればよい。ただしこの場合、彼女が再び登場するのは、西武林ルートの最終決戦に勝ったときと[汗青書37：唐門の火種](/ja/event/ends/end-37)の結末だけになる。
+<br>• <Girl2Icon>葉雲裳</Girl2Icon>と結縁せず、生き延びさせるだけなら、条件1・条件2を満たし、青城に留学せず(条件5参照)、条件7の🎲「葉雲裳の抵抗」と📖「葉雲舟に留まるよう勧める」を達成すればよい。ただしこの場合、彼女が再び登場するのは、西武林ルートの最終決戦に勝ったときと[汗青書37：唐門の火種](/ja/event/ends/end-37)の結末だけになる。
 <br>• このルートは修練の必要な武学が多く、お金のかかるサブイベントも多いので、資源に余裕のある2周目以降に挑むのがおすすめ。
 <br>• 本ページは現時点で主に[〈活俠傳イベント及び分岐まとめ〉](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)を参考に執筆しており、まだ繰り返し検証してはいない。
 <br>• 唐芳が帰らない不具合(v1.0.5000.13): 2年目1月下旬に条件1を満たし、かつ2月下旬になってから条件2を満たした場合、イベント同士の間隔設定により<MarkdownWrapper>[唐芳の帰還](/ja/event/simple/1-09-1-唐芳歸來)</MarkdownWrapper>イベントが発生しなくなる。ただし唐芳が本ルートの重要な展開を欠席することはない。彼女に関する展開の大半は「唐芳の帰還」の発生を判定条件にしていないためである。

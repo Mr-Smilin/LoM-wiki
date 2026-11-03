@@ -15,7 +15,7 @@ tags:
         <td>
             <img src="/images/mobs/tang-men/male/trainee9_normal.webp" style="width:200px;" />
         </td>
-        <td>後山蒙面人</td>
+        <td>裏山蒙面人</td>
         <td>趙活より経歴が浅い。普段から威張り散らし、善人をいじめて悪人を恐れる。<br>趙活が団練に参加しているのを見ると、意地悪をしかける。</td>
     </tr>
 </table>
@@ -91,7 +91,7 @@ tags:
         <td>本来の姓は陳で、留学から戻った後に唐に改姓して、掌門の弟子になる。</td>
     </tr>
     <tr>
-        <td>破廟ルート</td>
+        <td>廃寺ルート</td>
         <td>後山の桟道に地鳴雷を仕掛けて、講経閣を監視する。</td>
     </tr>
     <tr>

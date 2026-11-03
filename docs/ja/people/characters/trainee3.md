@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
     <ChTab title="唐亜霆">
         <Ch src='/images/mobs/tang-men/male/trainee3_normal.webp' position='right'/>
-        <ChName nameZh='唐亞霆' nameEn='Tang Yating' position='right' />
+        <ChName nameZh='唐亜霆' nameEn='Tang Yating' position='right' />
         <ChTable>
             <ChTr>
                 <ChTd isTitle=true>

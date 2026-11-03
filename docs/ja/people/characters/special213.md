@@ -49,14 +49,18 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special213/laugh.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
 </ChTabs>
 <br>
 
-> 「この百年の恩讎、俺が自ら斬り捨てる。」
+> 「この百年の恩讐は、私がこの手で断ち切る。」
 
 本名は野利察漢。葉家兄妹の傍系の叔父。祖先の一脈は岳元帥の死後、心が冷え込み、仇を報い恨みを晴らすため、軍を裏切って西夏に投じた。
 <br><br>
-[極楽教](/ja/people/factions/elysium-school)左使の身で、吞天宝鑑を修練。[決戦極楽教](/ja/event/stories/決戰極樂教)で青城の[趙逵](/ja/people/characters/special403)を撃破し、重傷を負った。信物を携えて葉家に相認されたが拒否され、聴雲剣を返却。そこで養生した。傷が癒えた後、化名して「李」姓は西夏王姓より取り、「元棄」は率直きわまりない。つまり親縁を断ち、過去を捨てるという意だ。
+[極楽教](/ja/people/factions/elysium-school)左使として吞天宝鑑を修練。[決戦極楽教](/ja/event/stories/決戰極樂教)では青城の[趙逵](/ja/people/characters/special403)を打ち破るも自らも重傷を負い、信物を携えて葉家に名乗り出たが一族として認められず、聴雲剣を返上してその場で療養した。傷が癒えた後に名乗った偽名の「李」姓は西夏の国姓から取ったもので、「元棄」は文字通り肉親の縁を断ち過去を捨てるという意味である。
 <br><br>
 数年後、彼は民変を煽動して[白風峒変亂](/ja/event/stories/白風峒變亂)を引き起こした。四路廂兵も叛軍を奪い返せず、変乱ますます激しく、中原動揺。この時葉家が密信で朝廷に上奏して李元棄を挙発し、身敗名裂にして民心を失わせようとしたが、却って朝廷に抄家された。
 <br><br>

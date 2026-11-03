@@ -9,10 +9,45 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="王二壮">
-		<Ch src='/images/characters/special401/normal.webp' position='right'/>
-		<ChName nameZh='王二壯' nameEn='Wang Er Zhuang' position='right' />
-		<ChTable>
+	<ChTab title="初対面">
+		<ChMeet
+			src='/images/characters/special401/normal.webp'
+			nameTitle=''
+			nameMain='王二壮'
+			desc='<ruby>天下<rt>てんか</rt></ruby>第一の大幇、<ruby>丐幇<rt>かいほう</rt></ruby>の<ruby>幇主<rt>ほうしゅ</rt></ruby>。<br>就任するや強引且つ果断、新派弟子を抜擢し、旧派長老を形骸化させ、俠義の精神で幇中の子弟を誑かして尊厳を取り戻させ、乞食であることは選択だと信じさせた。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special401/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch src='/images/characters/special401/laugh2.webp' position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special401/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch src='/images/characters/special401/nervous3.webp' position='center'/>
+		<ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special401/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="重傷(笑顔)">
+		<Ch src='/images/characters/special401/hurt2.webp' position='center'/>
+		<ChName nameZh='重傷(笑顔)' nameEn='Severely Injured (Smile)' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -49,7 +84,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[南宮遠](/ja/people/characters/special101) (舊友)
+					[南宮遠](/ja/people/characters/special101) (旧友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -64,16 +99,19 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[上官隼](/ja/people/characters/special407) (舊友)
+					[上官隼](/ja/people/characters/special407) (旧友)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 天下第一の大幇である[丐幇](/ja/people/factions/beggar-gang)の幇主。  
 就任当初から雷厲風行で、新派の弟子たちを抜擢し、旧派の長老を形骸化させた。侠義精神を掲げることで幇の者たちをうまく動かして尊厳を取り戻させ、乞食であることは選択肢だと信じさせたのだ。
+
+<div style="clear:both;"></div>
 
 ## 列伝
 
@@ -109,7 +147,7 @@ aside: false
 -   少年時代に[南宮遠](/ja/people/characters/special101)と摯友だった。二人は紅篷王と曾文を手本にして、互いに支え助けて、危機にある者を救い、国家を匡正しようと約束した。
 -   少年時代に[南宮遠](/ja/people/characters/special101)と誰が[蘇迎香](/ja/people/characters/special402)の笑顔を得られるか賭けた。負けた者が相手に乗られるという賭けだ。迎香は[南宮遠](/ja/people/characters/special101)に偏愛し、毎回、彼が[南宮遠](/ja/people/characters/special101)を背中に乗せることになった。
 -   友人の幸せのために遠く他郷へ去った。ところが[南宮遠](/ja/people/characters/special101)は[温夫人](/ja/people/characters/special402)に背いてしまったのだ。彼は悔しくてたまらなかった。二十年もの間、[南宮遠](/ja/people/characters/special101)に会わなかった。
--   二十年後。定遠郎王士は、ついに少年時代に[友人](/ja/people/characters/special101)に誓った豪語を果たした：「いつか必ず、千軍万馬をお前の下に集めて、お前の命令に従わせてやる。お前の曾祖々父、武林盟主南宮智のようにな。お前も武功を磨いて、俺以上に強くなってくれ。俺たちが大人になったら……。」
+-   二十年遅れはしたが、定遠郎の王某は、ついに少年の頃に[友人](/ja/people/characters/special101)に誓った豪語を果たした：「いつの日か、俺は千軍万馬をお前の麾下に集め、お前の号令に従わせる、お前の曾曾曾祖父、武林盟主南宮智のようにな。お前は武功をよく練り、俺より強くならなきゃいけないぞ！ 俺たちが大人になったら……。」
 
 ## 備考
 

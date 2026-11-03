@@ -17,8 +17,8 @@ tags:
 <img src="/images/mobs/mount-song-sect/trainee1_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>葉家兄妹上山<br>「慧光(法號)」</td>
-        <td>骰の結果「金も後ろ盾もない嵩山の小坊主」が出た場合。<br>黔州で受戒して仏門に入った。恩師の清海禅師は河南嵩山本家の出身だが、本人は嵩山本院に行ったことがない。</td>
+        <td>葉氏兄妹の唐門入り<br>「慧光(法号)」</td>
+        <td>ダイスの結果「金も権力もない嵩山の小坊主」が出た場合。<br>黔州で受戒して仏門に入った。恩師の清海禅師は河南嵩山本山の出身だが、本人は嵩山本院に行ったことがない。</td>
     </tr>
     <tr>
         <td>南宮寿宴</td>
@@ -26,7 +26,7 @@ tags:
     </tr>
     <tr>
         <td>崆峒留学</td>
-        <td>季試第二戦で骰の結果「不意打ちの手管を覚えた和尚」が出た場合。<br>金剛腿・鉄布衫のほかに、石灰粉も使ってくる。</td>
+        <td>季試第二戦でダイスの結果「闇討ちの技を覚えた僧侶」が出た場合。<br>金剛腿・鉄布衫のほかに、石灰粉も使ってくる。</td>
     </tr>
 </table>
 
@@ -48,7 +48,7 @@ tags:
 <img src="/images/mobs/quan-zhen-sect/trainee1_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>龍湘破廟事件</td>
+        <td>龍湘の廃寺イベント</td>
         <td>兄を兄嫁に毒殺されたため、陳序たちを追う小道長。武功は大したことがない。</td>
     </tr>
     <tr>
@@ -82,19 +82,19 @@ tags:
     </tr>
     <tr>
         <td>崆峒留学</td>
-        <td>季試第二戦で骰の結果「心を修めた闘士」が出た場合。<br>品性の数値は君子。</td>
+        <td>季試第二戦でダイスの結果「心身の修養を積んだ闘士」が出た場合。<br>品性の数値は君子。</td>
     </tr>
     <tr>
-        <td>馳援江陵<br>「木達」</td>
-        <td>王二壮が戦いを挑んできた時に現れる「身の程知らずの輩」の1人で、王二壮の峨嵋派武功「猿王崩山靠」に敗れる。</td>
+        <td>江陵救援<br>「木達」</td>
+        <td>王二壮が戦いを挑んできた時に現れる「身の程知らずな奴」の1人で、王二壮の峨嵋派武功「猿王崩山靠」に敗れる。</td>
     </tr>
     <tr>
-        <td>下山尋人<br>「霍郎」</td>
+        <td>下山して人探し<br>「霍郎」</td>
         <td>唐門の師姉・唐秀秀と3年同棲し、家も建て、するべきことは全部したのに、まだ結婚していない。明らかに先延ばしにして責任を取る気がない。<br>言い争いの結果が仲直りなら、掌門に結婚を申し込むと約束する。<br>決裂なら師姉は彼を捨てて唐門に戻る。師姉のために筋を通そうとして敗北すると生きたまま殴り殺され、勝利すると「愛する人がいないなら生きていたくない」と口にする。<br>実は唐秀秀には本気である。ただ「女は娶って家に入れたら所帯じみるだけ。手に入らなかった相手ほど忘れられない」と考えているだけなのだ。<br>腕は非凡で、唐秀秀とともに鴛鴦拳剣譜を新たに編み出した。まだ磨き込まれていないとはいえ、二人だけで、四人がかりよりも厄介な拳剣合璧の術を繰り出せる。惜しむらくは、趙活に薄氷の勝利をさらわれたあと、腹を立てて拳剣譜を投げ捨ててしまった。</td>
     </tr>
     <tr>
         <td>武林大会<br>「葉辰」</td>
-        <td>世界に葉辰は一人しかいないので、他の葉辰と大喧嘩する。</td>
+        <td>この世に葉辰は一人でなければならないとして、他の葉辰たちと大乱闘になる。</td>
     </tr>
 </table>
 
@@ -122,7 +122,16 @@ tags:
 
 ### 好男人/葉辰B
 
-<img src="/images/mobs/qing-cheng-sect/trainee1_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="好男人/葉辰B">
+        <Ch src='/images/mobs/qing-cheng-sect/trainee1_normal.webp' position='center'/>
+        <ChName nameZh='好男人/葉辰B' nameEn='Hao Nan Ren / Ye Chen B' position='right' />
+    </ChTab>
+    <ChTab title="結印">
+        <Ch src='/images/mobs/qing-cheng-sect/trainee1_special1.webp' position='center'/>
+        <ChName nameZh='結印' nameEn='Hand Seal' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>南宮寿宴</td>
@@ -134,16 +143,25 @@ tags:
     </tr>
     <tr>
         <td>武林大会<br>「葉鴣辰」</td>
-        <td>世界に葉辰は一人しかいないので、他の葉辰と大喧嘩する。</td>
+        <td>この世に葉辰は一人でなければならないとして、他の葉辰たちと大乱闘になる。</td>
     </tr>
 </table>
 
 ### 秋蝉子/梳雲
 
-<img src="/images/mobs/qing-cheng-sect/trainee2_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="秋蝉子/梳雲">
+        <Ch src='/images/mobs/qing-cheng-sect/trainee2_normal.webp' position='center'/>
+        <ChName nameZh='秋蝉子/梳雲' nameEn='Qiu Chan Zi / Shu Yun' position='right' />
+    </ChTab>
+    <ChTab title="技を受ける">
+        <Ch src='/images/mobs/qing-cheng-sect/trainee2_special1.webp' position='center'/>
+        <ChName nameZh='技を受ける' nameEn='Caught' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
-        <td>練武場群架</td>
+        <td>練武場の乱闘</td>
         <td>唐門の練武場が狭すぎると文句を言い、唐門の者を「青い間抜けども」呼ばわりして、門人と口論になった。<br>唐錚の評判はかねて耳にしていたが、責任を問われた時に初めて本当の恐ろしさを知った。</td>
     </tr>
     <tr>
@@ -171,11 +189,11 @@ tags:
         <td>季試で南宮浅と対戦。天命ダイスの結果次第では、切り札を出すと南宮家の機嫌を損ねると考えて、負けを認めることがある。<br>南宮浅に勝った場合は、趙活の最初の対戦相手になる。</td>
     </tr>
     <tr>
-        <td>馳援江陵</td>
-        <td>王二壮が戦いを挑んできた時に現れる「身の程知らずの輩」の1人。<br>次々と敗れていく飛天弟子に続いて登場したが、名乗りを上げる間もなく叩き出された。</td>
+        <td>江陵救援</td>
+        <td>王二壮が戦いを挑んできた時に現れる「身の程知らずな奴」の1人。<br>次々と敗れていく飛天弟子に続いて登場したが、名乗りを上げる間もなく叩き出された。</td>
     </tr>
     <tr>
-        <td>医術救大師兄</td>
+        <td>医術で大師兄を救う</td>
         <td>千灯楼が青城に送り込んだ間者。<br>煉丹房を見張る唐門の門人のツボを突いて動けなくし、意識のあるまま生きて谷底へ投げ落とした。趙活が最初の千灯楼の刺客を倒した後、崆峒に潜り込んでいた千灯楼の殺し屋とともに煉丹房へ入り、正派の人物を装って、趙活の油断に乗じて不意打ちを仕掛けた。</td>
     </tr>
 </table>
@@ -199,12 +217,12 @@ tags:
         <td>碧波子と一緒に趙活に自己紹介する。</td>
     </tr>
     <tr>
-        <td>青城留学<br>「谷渓或清流」</td>
+        <td>青城留学<br>「谷渓」または「清流」</td>
         <td>試合の前に、せめて八仙剣法を一通り最後まで使わせてくれと同門に頼んだ。</td>
     </tr>
     <tr>
         <td>青城留学</td>
-        <td>地獄道鬼卒に遭遇し、牛頭馬面に驚愕して気絶した。</td>
+        <td>地獄道鬼卒に遭遇し、牛頭馬頭に驚愕して気絶した。</td>
     </tr>
 </table>
 
@@ -248,7 +266,20 @@ tags:
 
 ### 懐素道人
 
-<img src="/images/mobs/qing-cheng-sect/daoshi1_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="懐素道人">
+        <Ch src='/images/mobs/qing-cheng-sect/daoshi1_normal.webp' position='center'/>
+        <ChName nameZh='懐素道人' nameEn='Huai Su Dao Ren' position='right' />
+    </ChTab>
+    <ChTab title="微笑">
+        <Ch src='/images/mobs/qing-cheng-sect/daoshi1_laugh.webp' position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch src='/images/mobs/qing-cheng-sect/daoshi1_nervous.webp' position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>青城留学<br>「懐素道人」</td>
@@ -258,7 +289,20 @@ tags:
 
 ### 不平道人
 
-<img src="/images/mobs/qing-cheng-sect/daoshi2_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="不平道人">
+        <Ch src='/images/mobs/qing-cheng-sect/daoshi2_normal.webp' position='center'/>
+        <ChName nameZh='不平道人' nameEn='Bu Ping Dao Ren' position='right' />
+    </ChTab>
+    <ChTab title="微笑">
+        <Ch src='/images/mobs/qing-cheng-sect/daoshi2_laugh.webp' position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch src='/images/mobs/qing-cheng-sect/daoshi2_nervous.webp' position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>青城留学<br>「不平道人」</td>
@@ -273,30 +317,39 @@ tags:
 <img src="/images/mobs/dian-cang-sect/trainee4_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>葉家兄妹上山</td>
+        <td>葉氏兄妹の唐門入り</td>
         <td>「白虹剣客」徐光輝または「朝陽剣客」盛鴻年。<br>裏切り者の追撃を命じられており、葉家兄妹が唐門に身を寄せるのを恐れて姿を現し、行く手を阻んだ。<br>点蒼双尊に師事する双剣合璧の使い手。名を揚げたのは葉雲舟より早く、当代の点蒼弟子の中でも指折りで、葉雲舟から師兄と呼ばれている。<br>雲裳が乱入すると、雲裳を傷つけるのを恐れて敗北する。<br>名号は招式の白虹貫日・鳳鳴朝陽に対応している。</td>
     </tr>
     <tr>
-        <td>破廟ルート</td>
-        <td>破廟で趙活に合言葉を試した偽の点蒼弟子。趙活が答えられないと分かるや攻撃してきた。<br>点蒼の制服を着てはいるが、使う剣法は点蒼派のものらしくない。技の型は合っていても、その意は似て非なるもの。<br>「よく聞け。『山林墨古書香、花街錦衣銅臭』。」</td>
+        <td>廃寺ルート</td>
+        <td>廃寺で趙活に合言葉を試した偽の点蒼弟子。趙活が答えられないと見るや襲いかかってきた。<br>点蒼の道服を着てはいるが、使う剣法は点蒼派のものらしくない。技の型は似ていても、その神髄は似て非なるもの。<br>「聞け、『山林の墨骨にして清香、花街の華福にして銅臭』。」</td>
     </tr>
 </table>
 
 <img src="/images/mobs/dian-cang-sect/trainee2_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>葉家兄妹上山</td>
+        <td>葉氏兄妹の唐門入り</td>
         <td>「白虹剣客」徐光輝または「朝陽剣客」盛鴻年。<br>裏切り者の追撃を命じられており、葉家兄妹が唐門に身を寄せるのを恐れて姿を現し、行く手を阻んだ。<br>点蒼双尊に師事する双剣合璧の使い手。名を揚げたのは葉雲舟より早く、当代の点蒼弟子の中でも指折りで、葉雲舟から師兄と呼ばれている。<br>雲裳が乱入すると、雲裳を傷つけるのを恐れて敗北する。<br>名号は招式の白虹貫日・鳳鳴朝陽に対応している。</td>
     </tr>
     <tr>
-        <td>練武場群架</td>
+        <td>練武場の乱闘</td>
         <td>留学生。唐門の門人と口論になったが、唐錚の追及の際には唐門をかばった。<br>趙活がかばいに出ると趙活の言い分に話を合わせ、後で趙活を酒に誘って労った。<br>唐布衣がとりなした場合は、留学弟子を代表して謝罪する。</td>
     </tr>
 </table>
 
 ### 葉辰C
 
-<img src="/images/mobs/dian-cang-sect/trainee1_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="葉辰C">
+        <Ch src='/images/mobs/dian-cang-sect/trainee1_normal.webp' position='center'/>
+        <ChName nameZh='葉辰C' nameEn='Ye Chen C' position='right' />
+    </ChTab>
+    <ChTab title="負傷">
+        <Ch src='/images/mobs/dian-cang-sect/trainee1_hurt.webp' position='center'/>
+        <ChName nameZh='負傷' nameEn='Injured' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>南宮寿宴</td>
@@ -304,32 +357,41 @@ tags:
     </tr>
     <tr>
         <td>崆峒留学</td>
-        <td>季試第二場で『火を噴く法術を会得した剣客』が出た場合。<br>点破雲関と点蒼瞬剣のほかに、烈火禅も使ってくる。</td>
+        <td>季試第二戦で「火を噴く法術を会得した剣客」が出た場合。<br>点破雲関と点蒼瞬剣のほかに、烈火禅も使ってくる。</td>
     </tr>
     <tr>
-        <td>葉雲舟回憶</td>
+        <td>葉雲舟の回想</td>
         <td>雲裳の計画を聞き、自ら郡主奪還に加わった点蒼の同門だが、段智秀に買収されて葉雲舟への手引きをしなかった。</td>
     </tr>
     <tr>
-        <td>小師妹出嫁</td>
+        <td>小師妹の輿入れ</td>
         <td>求婚者の一人で、「小師妹を娶れば点蒼と唐門の遺恨はすべて水に流す」と公言。<br>雲裳に仕組まれて、靴下を手袋と思い込んで手にはめ、暖を取ったことがある。<br>葉雲啾が葉雲舟ではないと見抜いたものの、寝台の隠し底にしまった物をばらすと雲裳に脅されている。</td>
     </tr>
     <tr>
         <td>武林大会<br>「葉辰」</td>
-        <td>世界に葉辰は一人しかいないので、他の葉辰と大喧嘩する。</td>
+        <td>この世に葉辰は一人でなければならないとして、他の葉辰たちと大乱闘になる。</td>
     </tr>
 </table>
 
 ### 盧笛
 
-<img src="/images/mobs/dian-cang-sect/trainee3_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="盧笛">
+        <Ch src='/images/mobs/dian-cang-sect/trainee3_normal.webp' position='center'/>
+        <ChName nameZh='盧笛' nameEn='Lu Di' position='right' />
+    </ChTab>
+    <ChTab title="負傷">
+        <Ch src='/images/mobs/dian-cang-sect/trainee3_hurt.webp' position='center'/>
+        <ChName nameZh='負傷' nameEn='Injured' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
-        <td>馳援江陵<br>「盧笛」</td>
-        <td>王二壮が戦いを挑んできた時に現れる「身の程知らずの輩」の1人。<br>剣の腕は悪くないが、王二壮が釣竿で繰り出した緑林の「五虎断門刀」に、あっという間に長剣をへし折られた。</td>
+        <td>江陵救援<br>「盧笛」</td>
+        <td>王二壮が戦いを挑んできた時に現れる「身の程知らずな奴」の1人。<br>剣の腕は悪くないが、王二壮が釣竿で繰り出した緑林の「五虎断門刀」に、あっという間に長剣をへし折られた。</td>
     </tr>
     <tr>
-        <td>葉雲舟回憶</td>
+        <td>葉雲舟の回想</td>
         <td>雲裳の計画を聞き、自ら郡主奪還に加わった点蒼の同門だが、段智秀に買収されて葉雲舟への手引きをしなかった。</td>
     </tr>
 </table>
@@ -395,11 +457,11 @@ tags:
         <td>朝早く趙活を半雨屏へ集合させる。自分の後ろに並ぶ趙活を嫌がり、小梅には前へ行くよう勧める。<br>火龍仙君の命で南宮家の二公子を呼びに行く。</td>
     </tr>
     <tr>
-        <td>馳援江陵</td>
+        <td>江陵救援</td>
         <td>各門派が江陵を離れる際、魏菊に頼まれて、彼女がすでに発ったことを趙活に伝えに来た。<br>趙活の顔立ちが強く印象に残っていたため、趙活の名前を覚えていた。<br>伝言のほかに、魏菊には近づくなと趙活に警告した。</td>
     </tr>
     <tr>
-        <td>医術救大師兄</td>
+        <td>医術で大師兄を救う</td>
         <td>千灯楼が崆峒に送り込んだ間者。階級は二炷香。青城と崆峒を煽って争わせた。<br>小梅に決行の合図を出したが無視されたため、やむなく自ら手を下した。煉丹房を見張る唐門弟子二名を殺害して死体を始末し、煉丹房に押し入って、唐布衣を治療中の趙活の心をかき乱そうとした。気を散らせて内功を暴走させ死なせれば、暗殺の痕跡が残らないからである。<br>小梅に阻止され、警戒を緩めたところを不意打ちで殺された。<br>小梅が唐門にいない場合、言葉では趙活を動揺させられないと悟ると攻撃に出る。趙活があくまで功を収めずに治療を続けると、一刀で趙活もろとも唐布衣を刺し貫くが、わざと趙活の急所は外し、息のあるまま絶望を味わわせようとする。</td>
     </tr>
     <tr>
@@ -452,7 +514,7 @@ tags:
     </tr>
     <tr>
         <td>唐門の迎撃</td>
-        <td>破廟線で、鉄拳弟子を装って唐門を夜襲する賊の手下にも、同じ顔の者がいる。</td>
+        <td>廃寺ルートで、鉄拳弟子を装って唐門を夜襲する賊の手下にも、同じ顔の者がいる。</td>
     </tr>
 </table>
 
@@ -466,7 +528,7 @@ tags:
     </tr>
     <tr>
         <td>崆峒留学</td>
-        <td>死亡擂台を紹介する。<br>「お前のようなへなちょこ決闘者に、わが崆峒が主催する死亡擂台大会に出る資格はない！！」<br>「別嬪の女房をもらった」のが自慢。</td>
+        <td>死亡擂台を紹介する。<br>「お前のような凡骨決闘者に、我ら崆峒が催す死亡擂台大会に出る資格はない！！」<br>「別嬪の女房をもらった」のが自慢。</td>
     </tr>
     <tr>
         <td>鎮魂獄での拘留</td>

@@ -9,10 +9,41 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="宋悲">
-		<Ch src='/images/characters/special800/normal.webp' position='right'/>
-		<ChName nameZh='宋悲' nameEn='Song Bei' position='right' />
-		<ChTable>
+	<ChTab title="初対面">
+		<ChMeet
+			src='/images/characters/special800/normal.webp'
+			nameTitle=''
+			nameMain='宋悲'
+			desc='<ruby>大宋<rt>たいそう</rt></ruby>の<ruby>名捕吏<rt>めいほり</rt></ruby>、<ruby>銀魚袋<rt>ぎんぎょたい</rt></ruby>を賜り、御前での帯刀を許可される。<br><ruby>天下<rt>てんか</rt></ruby><ruby>捕吏<rt>ほり</rt></ruby>の総指揮者であり、州を越えて犯人を捕縛できる。<br><ruby>江湖<rt>こうこ</rt></ruby>の間を行き来しており、半ば<ruby>武林<rt>ぶりん</rt></ruby>人と言える。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special800/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special800/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch src='/images/characters/special800/nervous3.webp' position='center'/>
+		<ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special800/angry2.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="宇佐美顔">
+		<Ch src='/images/characters/special800/special.webp' position='center'/>
+		<ChName nameZh='宇佐美顔' nameEn='Usami Face' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -39,14 +70,17 @@ aside: false
 					[丹霞子](/ja/people/characters/special404) (戦友)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
+
 <br><br>
 
 大宋の神捕で、皇帝から銀の魚袋と御前帯刀を賜った。  
 天下の捕役総指揮使で、州を越えて人犯を逮捕することができる。  
 江湖の間を行き来し、半ば武林人と言えるであろう。
+
+<div style="clear:both;"></div>
 
 ## 列伝
 

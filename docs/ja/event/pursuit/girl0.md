@@ -34,8 +34,8 @@ tags:
     <br>• 想い人が<Girl0Icon>唐黙鈴</Girl0Icon>
     <br>• 唐黙鈴好感50以上
     <br>満たしていれば、唐黙鈴が同行してくれる。</td>
-<td>• 想い人が<Girl0Icon>唐黙鈴</Girl0Icon>でない場合、男弟子房での折り紙で心変わりポイントを増やせる。
-    <br>• 好感度稼ぎ: 後山での修練で、ランダムに焼き魚イベントが起きる。</td>
+<td>• 想い人が<Girl0Icon>唐黙鈴</Girl0Icon>でない場合、男弟子室での折り紙で心変わりポイントを増やせる。
+    <br>• 好感度稼ぎ: 裏山での修練で、ランダムに焼き魚イベントが起きる。</td>
 </tr>
 
 <tr>
@@ -43,7 +43,7 @@ tags:
 <td>3年目5月上旬</td>
 <td>小師妹の比武招親・<MarkdownWrapper>[金烏との決闘](/ja/event/simple/3-05-1-對決金烏)</MarkdownWrapper></td>
 <td>• この戦闘には必ず勝つ。</td>
-<td>• 📜「武徳など気にせず皆で袋叩きにする」を選んだ場合は、連戦にすべて勝つ必要がある。📜「決闘」を選んだ場合は、そのまま決闘に入る。
+<td>• 📜「武徳を無視して袋叩きにする」を選んだ場合は、連戦にすべて勝つ必要がある。📜「決闘」を選んだ場合は、そのまま決闘に入る。
     <br>• 条件1を満たしていれば、金烏との決闘は一戦のみになる。
     <br>• 品性中庸以上のほうが戦いやすい。</td>
 </tr>
@@ -53,7 +53,7 @@ tags:
 <td>3年目5月上旬</td>
 <td>小師妹の比武招親・<MarkdownWrapper>[小師妹の帰る先](/ja/event/simple/3-05-1-師妹的歸宿)</MarkdownWrapper></td>
 <td>• 条件1と2を満たしている必要がある。
-    <br>• 後山で🎲天命が発動し、【≧50】「小師妹は俺のものだ!」を出す。
+    <br>• 裏山で🎲天命が発動し、【≧50】「小師妹は俺のものだ!」を出す。
     <br>• <Girl0Icon>唐黙鈴</Girl0Icon>好感≧60で、結縁イベントが発生する。
     <br>• 会話のあと道具【小師妹の香嚢】を入手し、結縁が完了する。</td>
 <td>好感≧60の条件は、条件1と2を満たして普通にプレイしていれば、実際には満たせる。</td>
@@ -90,7 +90,7 @@ tags:
 <tr>
 <td>3</td>
 <td>結縁後の任意の時点</td>
-<td>後山での修練「小師妹の焼き魚」(<MarkdownWrapper>[養成コマンド](/ja/system/training/)</MarkdownWrapper>参照)</td>
+<td>裏山での修練「小師妹の焼き魚」(<MarkdownWrapper>[養成コマンド](/ja/system/training/)</MarkdownWrapper>参照)</td>
 <td>断った場合の結果が、<Girl0Icon>唐黙鈴</Girl0Icon>と一緒に修練する内容に変わる。</td>
 <td>武学+3、心相+5</td>
 </tr>
@@ -101,7 +101,7 @@ tags:
 <td><MarkdownWrapper>[大会の招待状](/ja/event/simple/3-08-2-大會請帖)</MarkdownWrapper></td>
 <td>唐陞好感≧35で、さらに次の条件を満たせば、<Girl0Icon>唐黙鈴</Girl0Icon>を武林大会に同行させられる:
     <br>• 道徳≧60なら、三師兄がそのまま連れて行かせてくれる。
-    <br>• 道徳＜60なら、「いいだろう(嘘をつく)」を選べば連れて行ける。</td>
+    <br>• 道徳＜60なら、「できます（嘘）」を選べば連れて行ける。</td>
 <td>同行させるのがおすすめ。好感度を大きく稼げる。</td>
 </tr>
 
@@ -132,7 +132,7 @@ tags:
 <td>7</td>
 <td>3年目12月上旬 (残り行動1回)</td>
 <td><MarkdownWrapper>[唐門との別れ](/ja/event/simple/3-12-1-告別唐門)</MarkdownWrapper>(退隠ルート)</td>
-<td>• 女弟子房の展開が分岐する。<br>
+<td>• 女弟子室の展開が分岐する。<br>
     • <MarkdownWrapper>[汗青書25：江湖引退](/ja/event/ends/end-25)</MarkdownWrapper>の結末演出が<Girl0Icon>唐黙鈴</Girl0Icon>と共に過ごすバージョンになる。</td>
 <td></td>
 </tr>
@@ -143,7 +143,7 @@ tags:
     <br>• または4年目2月中旬(西武林盟成立)</td>
 <td><MarkdownWrapper>[伴侶との約束](/ja/event/simple/4-01-2-伴侶之約)</MarkdownWrapper></td>
 <td>
-    • 女弟子房に行くと<Girl0Icon>唐黙鈴</Girl0Icon>の髪を梳くイベントが発生する。<br>
+    • 女弟子室に行くと<Girl0Icon>唐黙鈴</Girl0Icon>の髪を梳くイベントが発生する。<br>
     • 他に結縁している相手がいる場合は<MarkdownWrapper>[修羅場](/ja/event/simple/4-01-2-修羅場)</MarkdownWrapper>イベントに置き換わり、任意の場所を選ぶと発生する。
 </td>
 <td>このイベントを起こさなかった場合、残り行動回数2の時点で<MarkdownWrapper>[約束を破る](/ja/event/simple/4-01-2-伴侶之約#失約)</MarkdownWrapper>イベントが自動発生する。</td>

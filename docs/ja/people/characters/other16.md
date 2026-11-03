@@ -33,6 +33,26 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/other16/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/other16/nervous.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="緊張">
+		<Ch src='/images/characters/other16/nervous2.webp' position='center'/>
+		<ChName nameZh='緊張' nameEn='Nervous' position='right' />
+	</ChTab>
+	<ChTab title="不機嫌">
+		<Ch src='/images/characters/other16/angry1.webp' position='center'/>
+		<ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/other16/angry2.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
 </ChTabs>
 
 > 「お前みたいな目立たない雑兵の分際で、どうしておれ方震天に勝つつもりなのか？小爺方震天は天之驕子だぞ!」

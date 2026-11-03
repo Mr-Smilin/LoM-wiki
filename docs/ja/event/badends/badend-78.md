@@ -20,10 +20,10 @@ tags:
 
 <img width="720" src="/images/badends/badend78.webp">
 
-## 条件と流程
+## 条件と流れ
 
 <b>条件：</b><Girl4Icon>上官螢</Girl4Icon>好感度≧30、想い人が<Girl4Icon>上官螢</Girl4Icon>、<Girl7Icon>魏菊</Girl7Icon>以外の者と結縁していない、宋悲好感度＜20、道徳＜40【悪人・極悪】、門派規模＜3<br>
-<b>流程：</b><br>
+<b>流れ：</b><br>
 
 1. 3年目10月中旬の武林大会。<Girl4Icon>上官螢</Girl4Icon>好感度≧30で、<Girl7Icon>魏菊</Girl7Icon>以外の者と結縁していない場合、<span style='color: Yellow;'>上官螢は日本に嫁ぐことになると言い出す</span>。
 2. 想い人：<Girl4Icon>上官螢</Girl4Icon>。上官隼（ショウカンシュウ）が挑戦を開放する時に選択が出現。**📖 選択：それでも行く**を選択。**🆚 決闘：上官隼**。

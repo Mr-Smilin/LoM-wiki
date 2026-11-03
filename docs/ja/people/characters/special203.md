@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="聴海生">
 		<Ch src='/images/characters/special203/normal.webp' position='right'/>
-		<ChName nameZh='聽海生' nameEn='Ting Hai Sheng' position='right' />
+		<ChName nameZh='聴海生' nameEn='Ting Hai Sheng' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -49,6 +49,10 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="負傷">
+		<Ch src='/images/characters/special203/hurt.webp' position='center'/>
+		<ChName nameZh='負傷' nameEn='Injured' position='right' />
+	</ChTab>
 </ChTabs>
 <br>
 
@@ -60,7 +64,7 @@ tags:
 
 -   聴海生の本姓は海。
 -   黒白双剣は[唐門](/ja/people/factions/tang-men)が鍛造したと言われている。
--   [掌門](/ja/people/characters/master)が述べるところ、点蒼双尊はまだ絶頂の境地には至っていないが、二人が力を合わせる時、実力は驚異的に増す。[極楽教主](/ja/people/characters/special405)と[龍淵](/ja/people/characters/special2)大侠が言い争いながら力を合わせても、恐らく敵ではないだろう。
+-   [掌門](/ja/people/characters/master)が述べるところ、点蒼双尊はまだ絶頂の境地には至っていないが、二人が力を合わせる時、実力は驚異的に増す。[極楽教主](/ja/people/characters/special405)と[龍淵](/ja/people/characters/special2)大侠が和解して手を組んだとしても、恐らく敵ではないだろう。
 -   点蒼派の第一高手は、歴来掌門ではない。掌門は俗務に縛られて道を問うことができないからである。聴海生は[観雲客](/ja/people/characters/special202)より強く、[葉雲舟](/ja/people/characters/special3)が点蒼にいた間も勝つことができなかった。
 -   点蒼派ではかつて「殺親証道」という邪説が流行り、点蒼双尊は心血を注いで正し、得意弟子の白虹剣客、朝陽剣客及び[蒼松剣客](/ja/people/characters/special3)と共に殺親犯の手首をすべて斬り、師門から逐出し、官府に送った。この邪説はようやく消えた。
 -   かつて[葉雲舟](/ja/people/characters/special3)と[葉雲裳](/ja/people/characters/girl2)兄妹が病を抱えて点蒼に入門した際、点蒼双尊の賛掌を得、点蒼の「両儀剣気」で体内の乱れた真気を強制的に鎮めた。

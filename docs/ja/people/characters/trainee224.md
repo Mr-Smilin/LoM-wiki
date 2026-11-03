@@ -50,6 +50,22 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/trainee224/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/trainee224/nervous2.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/trainee224/angry1.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="負傷">
+		<Ch src='/images/characters/trainee224/hurt.webp' position='center'/>
+		<ChName nameZh='負傷' nameEn='Injured' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 

@@ -15,7 +15,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="童大虫">
 		<Ch src='/images/characters/trainee214/normal.webp' position='right'/>
-		<ChName nameZh='童大蟲' nameEn='Tong Da Chong' position='right' />
+		<ChName nameZh='童大虫' nameEn='Tong Da Chong' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -49,6 +49,18 @@ tags:
 				</ChTd>
 			</ChTr>
 		</ChTable>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/trainee214/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/trainee214/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/trainee214/angry1.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
 	</ChTab>
 </ChTabs>
 <br><br>

@@ -10,20 +10,67 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-    <ChTab title="初識">
+    <ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/special404/normal.webp' 
             nameTitle=''
 			nameMain='丹霞子'
-			desc='崆峒派・飛天門掌門火龍仙君の配下の大弟子。<br>
-			襄陽戦場で名高い「道法将軍」。幾度の戦を経ても危地に陥らず、宋の軍民からは頼られ、金の兵馬からは畏怖されている。'
+			desc='<ruby>崆峒<rt>こうどう</rt></ruby>派・<ruby>飛天門<rt>ひてんもん</rt></ruby><ruby>掌門<rt>しょうもん</rt></ruby>の<ruby>火龍仙君<rt>かりゅうせんくん</rt></ruby>座下の大弟子。<br><ruby>襄陽<rt>じょうよう</rt></ruby>戦場で声名赫々たる「<ruby>道法将軍<rt>どうほうしょうぐん</rt></ruby>」であり、百戦不殆、<ruby>宋国<rt>そうこく</rt></ruby>の軍民に仰がれ、<ruby>金国<rt>きんこく</rt></ruby>の兵馬に忌憚される。'
 			:animation=true
 		/>
     </ChTab>
+	<ChTab title="微笑">
+		<Ch
+			src='/images/characters/special404/laugh1.webp' 
+			position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch
+			src='/images/characters/special404/laugh2.webp' 
+			position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch
+			src='/images/characters/special404/nervous1.webp' 
+			position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch
+			src='/images/characters/special404/nervous2.webp' 
+			position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch
+			src='/images/characters/special404/angry1.webp' 
+			position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="負傷">
+		<Ch
+			src='/images/characters/special404/hurt.webp' 
+			position='center'/>
+		<ChName nameZh='負傷' nameEn='Injured' position='right' />
+	</ChTab>
+	<ChTab title="術を放つ">
+		<Ch
+			src='/images/characters/special404/cast.webp' 
+			position='center'/>
+		<ChName nameZh='術を放つ' nameEn='Casting' position='right' />
+	</ChTab>
+	<ChTab title="負荊請罪">
+		<Ch
+			src='/images/characters/special404/special1.webp' 
+			position='center'/>
+		<ChName nameZh='負荊請罪' nameEn='Bearing Thorns' position='right' />
+	</ChTab>
 </ChTabs>
 
 <InfoList>
-    <Info title='角色資料' :open=true>
+    <Info title='キャラクター情報' :open=true>
         <table>
             <ChTr>
 				<ChTd isTitle=true>
@@ -69,11 +116,11 @@ aside: false
 </InfoList>
 
 <br><br>
-[崆峒派](/ja/people/factions/kong-tong-sect)・飛天門掌門[火龍仙君](/ja/people/characters/special204)の配下の大弟子。
+[崆峒派](/ja/people/factions/kong-tong-sect)・飛天門掌門[火龍仙君](/ja/people/characters/special204)座下の大弟子。
 <br><br>
 豪快で純朴な性質で、一途に仙を求め、[火龍仙君](/ja/people/characters/special204)に従って修行し、多年の修練を重ねても火を吹くことができないことに非常に恥じている。
 <br><br>
-仙法の修練に成功しなかったが、実のところ徳の厚い人で、機会に恵まれて風刀火剣を習得した。しかし師に妬まれ、「大乘期を突破するには必ず功徳を積まねばならない」「功徳を積む最速の方法は戦場に出て国を救うことだ」という理由で、宋金戦場へ送られて死んだことにされた。
+仙法の修練は成らなかったが、実は福縁深き人物で、機縁によって風刀火剣を習得した。しかし師匠に妬まれ、「大乗期を突破するには功徳を積まねばならぬ」「最も早く功徳を積む方法は戦場で国を救うことだ」と騙され、死なせるために宋金戦場へと送り込まれた。
 <br><br>
 だが彼は常に戦場に住み、結局死ななかった。むしろ官兵の信任が厚く、「道法将軍」と称えられ、戦功は輝かしく、襄陽守将の[趙方](/ja/people/characters/soldier31)老将軍からも破格の待遇を受けた。
 <br><br>
@@ -86,7 +133,7 @@ aside: false
 <Tabs>
   <Tab title="列伝一">
 	豪快で純朴で誠実、一心に仙を求め、火龍仙君に従って修行し、長年修行しても火が吹けないことに非常に羞じる。<br><br>
-	仙法の修練に成功しなかったが、実のところ徳の厚い人で、機会に恵まれて風刀火剣を習得した。しかし師に妬まれ、「大乘期を突破するには必ず功徳を積まねばならない」「功徳を積む最速の方法は戦場に出て国を救うことだ」という理由で、宋金戦場へ送られて死んだことにされた。<br><br>
+	仙法の修練は成らぬが、実は福縁深き人。機縁によって風刀火剣を習得したが、師匠に妬まれ、「大乗期を突破するには功徳を積まねばならぬ」、「最も早く功徳を積む方法は戦場で国を救うこと」と騙され、宋金戦場へ送り込まれた。<br><br>
 	だが彼は常に戦場に住み、結局死ななかった。むしろ官兵の信任が厚く、「道法将軍」と称えられ、戦功は輝かしく、襄陽守将の趙方老将軍からも破格の待遇を受けた。
   </Tab>
 </Tabs>

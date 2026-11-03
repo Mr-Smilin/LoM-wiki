@@ -14,21 +14,21 @@ aside: false
 :::
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/girl_4/normal.webp' 
-			nameTitle='上官千金'
+			nameTitle='上官家の令嬢'
 			nameMain='上官螢'
 			desc='<ruby>武林<rt>ぶりん</rt></ruby>三大名家、<ruby>福州<rt>ふくしゅう</rt></ruby>に居を構える<ruby>上官<rt>じょうかん</rt></ruby>家の一人娘にして、今や<ruby>武林<rt>ぶりん</rt></ruby>にその名を知られた美人。<br>誇り高く、何事にも負けず嫌いな性格で、名家の令嬢でありながら深窓に甘んじず、若くして父に代わり<ruby>上官<rt>じょうかん</rt></ruby>家の家業を取り仕切っている。<br>男に劣らぬ才覚を持ち、その手腕は鮮やかで、広大な家業を盛大に発展させている。'
 			:animation=true
 		/>
 	</ChTab>
-	<ChTab title="不悅">
+	<ChTab title="不機嫌">
 		<Ch 
 			src='/images/characters/girl_4/angry.webp' 
 			position='center'/>
 		<ChName
-			nameZh='不悅'
+			nameZh='不機嫌'
 			nameEn='Displeased'/>
 	</ChTab>
 	<ChTab title="激怒">
@@ -36,7 +36,7 @@ aside: false
 			src='/images/characters/girl_4/angry2.webp' 
 			position='center'/>
 		<ChName
-			nameZh='生氣'
+			nameZh='激怒'
 			nameEn='Angry'/>
 	</ChTab>
 	<ChTab title="瞑目">
@@ -44,7 +44,7 @@ aside: false
 			src='/images/characters/girl_4/close_eyes.webp' 
 			position='center'/>
 		<ChName
-			nameZh='閉眼'
+			nameZh='瞑目'
 			nameEn='Close Eyes'/>
 	</ChTab>
 	<ChTab title="泣き顔">
@@ -52,15 +52,23 @@ aside: false
 			src='/images/characters/girl_4/cry.webp' 
 			position='center'/>
 		<ChName
-			nameZh='哭泣'
+			nameZh='泣き顔'
 			nameEn='Cry'/>
+	</ChTab>
+	<ChTab title="目を閉じる(涙)">
+		<Ch 
+			src='/images/characters/girl_4/close_eyes_cry.webp' 
+			position='center'/>
+		<ChName
+			nameZh='目を閉じる(涙)'
+			nameEn='Close Eyes (Tears)'/>
 	</ChTab>
 	<ChTab title="耐える">
 		<Ch 
 			src='/images/characters/girl_4/endure.webp' 
 			position='center'/>
 		<ChName
-			nameZh='忍耐'
+			nameZh='耐える'
 			nameEn='Endure'/>
 	</ChTab>
 	<ChTab title="興奮">
@@ -92,7 +100,7 @@ aside: false
 			src='/images/characters/girl_4/nervous.webp' 
 			position='center'/>
 		<ChName
-			nameZh='頓住'
+			nameZh='呆然'
 			nameEn='Uh...'/>
 	</ChTab>
 	<ChTab title="緊張">
@@ -103,12 +111,20 @@ aside: false
 			nameZh='緊張'
 			nameEn='Nervous'/>
 	</ChTab>
+	<ChTab title="気まずい">
+		<Ch 
+			src='/images/characters/girl_4/nervous3.webp' 
+			position='center'/>
+		<ChName
+			nameZh='気まずい'
+			nameEn='Awkward'/>
+	</ChTab>
 	<ChTab title="羞恥">
 		<Ch 
 			src='/images/characters/girl_4/shy.webp' 
 			position='center'/>
 		<ChName
-			nameZh='害羞'
+			nameZh='羞恥'
 			nameEn='Shy'/>
 	</ChTab>
 </ChTabs>
@@ -138,7 +154,7 @@ aside: false
 					称号
 				</ChTd>
 				<ChTd>
-					上官千金
+					上官家の令嬢
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -153,22 +169,22 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[南宮深](/ja/people/characters/special102) (婚約)
+					[南宮深](/ja/people/characters/special102) (許嫁)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[魏菊](/ja/people/characters/girl7) (至交)
+					[魏菊](/ja/people/characters/girl7) (親友)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[書蓉](/ja/people/characters/special818) (前侍女)
+					[書蓉](/ja/people/characters/special818) (元侍女)
 				</ChTd>
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[楽屏](/ja/people/characters/special810) (情敵)
+					[楽屏](/ja/people/characters/special810) (恋敵)
 				</ChTd>
 			</ChTr>
 		</table>
@@ -197,32 +213,32 @@ aside: false
 
 ## 商才
 
--   金銭能力が最も強い。一人で[上官世家](/ja/people/factions/shang-guan-family)の事業を支えている。金銭感覚が並外れている。
--   稼いだのは金銭だけではない。誠信と人脈を得た。[上官世家](/ja/people/factions/shang-guan-family)の根基を宋国に深く植え込んだ。[^1]
--   事業を切り盛りして以来、商人として江湖を駆け回っている。独占して利益を得るのは事実だが、口にした言葉も、売った品も常に分量不足ということはない。最も誠信を重んじている。
--   仕事が多く、家族も理解してくれない。それに見知らぬ人からも嫌われ、皆が余計な言葉や悪口ばかり言う。だが和気生財のために、やむなく作り笑いをしなければならない。圧力は特に大きい。だから[苦悶拳](/ja/system/books/book_3000)は十二成功力を発揮する。[^3]
+-   金儲けの才覚にかけては右に出る者がおらず、女手一つで[上官世家](/ja/people/factions/shang-guan-family)の商いを支える並外れた金銭感覚の持ち主である。
+-   築き上げたのは財産だけでなく、信用と人脈も手に入れ、[上官世家](/ja/people/factions/shang-guan-family)の基盤を宋国内に深く根付かせた。[^1]
+-   家業を切り盛りして以来、商人として江湖を駆け回っている。市場を独占して利益を上げてはいるものの、約束を違えず目方も決してごまかさず、何より商売上の信用を重んじる。
+-   激務のうえに身内からも理解されず、赤の他人からも嫌われて陰口ばかり叩かれるが、「和気生財（和やかなところに富が集まる）」のため愛想笑いを崩せない。日頃の鬱憤がすさまじいため、[苦悶拳](/ja/system/books/book_3000)を繰り出すと十二分の威力を発揮する。[^3]
 -   生まれつきの話し言葉は中原音である。しかし貿易相手の好意を得るために、常に相手の言語や方言を意識的に使う。完璧でなくても多くの方言で人と交流することができる。[^3]
 
 ## 上官家
 
 -   富んでも仁ではない貪官の娘 by [夏侯蘭](/ja/people/characters/girl5.md)
 -   分別がつくようになってから父の愛を得ることができなかった。風雨の中、[上官隼](/ja/people/characters/special407)が彼女を抱いて毒煙から遠ざけた時、彼女は思わず涙があふれた。
--   幼い時から今まで、すべての努力は父の認同を得るためだ。悪事でさえ行った。[唐門](/ja/people/factions/tang-men)の衰弱にも彼女の罪がある。
-    -   唐門に赴いて、債務買却を条件として[掌門](/ja/people/characters/master.md)を説き伏せ朝廷に投降させようとした。
-    -   広州での唐門侵犯の時に[釈明](/ja/people/characters/special826)と共に[唐衫](/ja/people/characters/special811)を支援した。
-    -   [唐四](/ja/people/characters/brother4.md)を逃がすため、暗中で商団の東家に働きかけて遠隔地へ商隊を遣わせた。彼女は心中で申し訳なく思い、できることは彼の安全を守ることだけだ。
+-   幼い頃から今までの努力はすべて父に認められるためであり、そのために悪事にまで手を染め、[唐門](/ja/people/factions/tang-men)の衰退にも一役買ってしまった。
+    -   唐門へ赴き、借金の肩代わりを条件に[掌門](/ja/people/characters/master.md)へ朝廷への帰順を迫った。
+    -   広州唐門が侵攻してきた際には、[釈明](/ja/people/characters/special826)と共に[唐衫](/ja/people/characters/special811)を後押しした。
+    -   [唐四](/ja/people/characters/brother4.md)を巻き込まず逃がすため、裏で商団の主に働きかけて遠方へ商隊を差し向けさせた。内心では後ろめたさを抱えており、せめて彼の身の安全だけは守ろうとしたのである。
 -   身の周りの幇の人間は護衛のように見えるが、実は[上官隼](/ja/people/characters/special407)が娘を監視するために置いた者である。
 
 ## 南宮深
 
--   [南宮深](/ja/people/characters/special102)との婚約は南宮の老太爺が一手に決めた。二人とも幼い時から心が通じていた。相応に相性がいい。さらに一緒に耕陽読書斎に学びに行き、[魏菊](/ja/people/characters/girl7)と同窓になった。
--   [南宮深](/ja/people/characters/special102)との冷戦期間中、南宮深と[南宮浅](/ja/people/characters/special103)が蒙面人に襲撃されたと聞き、意地を張ることなく慌てて駆けつけた。多くの慰めの言葉を用意していたはずが、つい出た言葉は不平と教訓ばかりだった。
+-   [南宮深](/ja/people/characters/special102)との婚約は南宮老太爺が取り決めたもので、幼い頃は互いに気が合い仲も良かった。共に耕陽読書斎へ通い、[魏菊](/ja/people/characters/girl7)と同窓になった。
+-   [南宮深](/ja/people/characters/special102)との冷戦期間中、南宮深と[南宮浅](/ja/people/characters/special103)が覆面の者に襲撃されたと聞き、意地を張ることなく慌てて駆けつけた。多くの慰めの言葉を用意していたはずが、つい出た言葉は不平と教訓ばかりだった。
 -   江陵の戦後、[南宮深](/ja/people/characters/special102)に婚約を破棄された。武林大会の時、[南宮深](/ja/people/characters/special102)は既に後悔していたが、上官螢の心はすでに決まっていた。将来どこに行こうとも、二度と南宮世家には戻るまいと思っていた。
--   肩甲を支持している。肩甲を持つことは非常に立派だと認め、自家の縫い手まで説得したいと思った。高級な衣服を作る客人ほど豪華な肩甲をあつらえさせる。
+-   肩甲の支持者であり、肩甲こそ威厳の象徴だと考えてお抱えの仕立て職人まで説得しようとするほど。上等な衣装を誂える客ほど豪華な肩甲を勧める。
 
 ## 螢魔
 
--   v1.0.5000.0版本更新後、[唐黙鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)と共に下山するシナリオ([山を下りての遠出](/ja/event/simple/1-09-2-下山郊遊))が追加され、幼児好きというイメージが定着した。
+-   v1.0.5000.0更新後、[唐黙鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)と共に下山するシナリオ([山を下りての遠出](/ja/event/simple/1-09-2-下山郊遊))が追加され、幼児好きというイメージが定着した。
 -   [唐錚](/ja/people/characters/brother2.md)は彼女の心が不正直だと思い警戒している。しかし彼女が狙っているのは岳王の宝蔵や唐門の技術ではなく、[唐黙鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)本人である。
 -   最も好むのは小さくて精巧な物事だ。[唐黙鈴](/ja/people/characters/girl0.md)・[葉雲裳](/ja/people/characters/girl2.md)を見ると堪えられない。その場で連れ去りたいほどだ。彼女たちに姓を改めて上官を名乗らせ、自分の妹として認めさせたい。そうなれば、堂々と左に抱き右に抱いて、毎日脚に抱きついてほおずりをさせ、色鮮やかな衣装を買い与えて毎日着替えさせ、自分の鑑賞用にできるのだ。~~もう可愛い~~
 -   [葉雲裳](/ja/people/characters/girl2.md)に針治療を施す[唐芳](/ja/people/characters/special832)に敵意を示す。
@@ -238,14 +254,14 @@ aside: false
 
 ## 備考
 
--   外見は硬く、内面は柔らかい。心の奥底には普通の女性の普通の夢が隠されている：思わしい婿を得て嫁ぎたい、華やかな衣装を着たい、庭で猫や犬を飼いたい、キラキラした金銀の飾品が好き、小さくて精巧な物事には抵抗力がない。
+-   外剛内柔の気質で、心の奥底にはごく普通の娘らしい夢を秘めている。良き婿を得て嫁ぎ、華やかな衣装をまとい、庭で犬や猫を飼うことを夢見ており、きらびやかな金銀の装身具や小さくて精巧な細工物には目がない。
 -   独門の暗器は重型の銭貨投げで、直接銅銭を投げつける。苦悶拳と合わせれば、当たったら敗けは必定だ。
 -   [劉顎](/ja/people/characters/special1)に誘拐されたことがある。
 -   [夏侯蘭](/ja/people/characters/girl5.md)と指腹為婚（生まれる前に親同士が取り決める婚約の風習）の約があり、泣き騒ぐため[嵩山派](/ja/people/factions/mount-song-sect)福建分院に送られて拳を習った。その後[雪山派](/ja/people/factions/mount-snow-sect)が滅ぼされて約はなくなった。~~さもなければ百合もあり得た~~
 -   結縁がなければ、最後は遠く東洋へ渡って日本の北条家に嫁ぐ。
 -   [趙活](/ja/people/characters/player)を痛打するシーンはKOF草薙京の四百弐拾七式・轢鉄と同じに見える。さらに倭国へ行くことを合わせると、~~彼女が草薙家の祖先であることが分かる~~
 -   料理をしない。外出する時はいつも専属の料理人を連れている。[^2]
--   旅に出た時は従者が皇家専用の献上茶龍鳳団茶を持ってくる。通常は皇帝からの恩賜でもなければ手に入らない。これは隠れて掘り出したものを上官家に献上したのだ。
+-   旅先でも従者に皇室御用達の献上茶・龍鳳団茶を持参させる。本来は皇帝からの下賜でしか手に入らない品だが、密かに横流しされた品が上官家に献上されたものである。
 -   初生の子牛は虎を畏れず、あえて[唐錚](/ja/people/characters/brother2.md)を老媽子と呼ぶ。
 -   [唐黙鈴](/ja/people/characters/girl0.md)は寿宴で初めて[上官螢](/ja/people/characters/girl4.md)を見た時、その明るく艶やかで比べようもない姿に心を引かれ、女性でありながら暗かに敬慕の念を抱いた。
 -   唐門滞在中、[唐黙鈴](/ja/people/characters/girl0.md)を極度に溺愛したため、唐黙鈴は[南宮深](/ja/people/characters/special102)が自分を娶ろうとしたのが非常に気に入らなかった。

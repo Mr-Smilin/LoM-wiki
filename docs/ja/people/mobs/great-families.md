@@ -21,7 +21,7 @@ tags:
     </tr>
     <tr>
         <td>江陵馳援<br>「南宮乙」</td>
-        <td>「この尖った肩甲が見えるか？これが私の栄誉の象徴だ！今日はお前の金を巻き上げるだけでなく、その醜い死体を肩甲に引っ掛けて戦利品にし、市中引き回しにしてやるぞ！」<br>傍系の叔父・南宮捲に師事した。自分は家丁の中でも指折りの人物、家丁の中の家丁、家丁きっての逸材だと自称している！<br>院内での練武で南宮家丁が相手に回ると、趙活と手合わせし、金を賭けようと持ちかける。賭けを断ると、南宮浅を押し出して戦わせる。<br>南宮深が趙活に碧潤糕を振る舞った時には、趙活は醜い上に卑しい身分で、高価な碧潤糕がもったいないと言った。</td>
+        <td>「この尖った肩甲が見えるか？これこそ俺の栄誉の象徴よ！今日はお前の金を巻き上げるだけでなく、その醜い死体を肩甲にぶら下げて戦利品にしてやる！街中を引き回してやるからな！」<br>傍系の叔父・南宮捲に師事した。自分は家丁の中でも指折りの人物、家丁の中の家丁、家丁きっての逸材だと自称している！<br>院内での練武で南宮家丁が相手に回ると、趙活と手合わせし、金を賭けようと持ちかける。賭けを断ると、南宮浅を押し出して戦わせる。<br>南宮深が趙活に碧潤糕を振る舞った時には、趙活は醜い上に卑しい身分で、高価な碧潤糕がもったいないと言った。</td>
     </tr>
     <tr>
         <td>江陵馳援<br>「阿乙」</td>
@@ -64,7 +64,7 @@ tags:
 <table>
     <tr>
         <td>南宮寿宴</td>
-        <td>酔っ払った唐布衣に吐き掛けられ、さらに南宮深に罵倒された。<br>上官螢の贈り物を整理するよう指示された。<br>「俺は父と母から生まれた唯一無二の俺だ。お前が俺の名を知らないだけのこと。俺がお前の名を知らないのと同じ道理だ。見たところ、お前こそどこにでもいる顔じゃないか。お前が俺を見くびるつもりなら、俺が先にお前を見くびってやる。」</td>
+        <td>酔っ払った唐布衣に吐き掛けられ、さらに南宮深に罵倒された。<br>上官螢の贈り物を整理するよう指示された。<br>「まさか。俺は父ちゃんと母ちゃんが生んだ唯一無二の俺だ。お前が俺の名前を知らないだけさ。俺がお前の名前を知らないのと同じ理屈だ、お前もただの通行人顔だしな。お前が俺を見下すなら、俺が先にお前を見下してやる。」</td>
     </tr>
     <tr>
         <td>江陵馳援<br>「阿丁」</td>
@@ -72,26 +72,60 @@ tags:
     </tr>
     <tr>
         <td>西武林<br>「阿丁」</td>
-        <td>南宮深の鳳凰宝衣に対抗するため、唐布衣に暗器代わりに投げつけられた。<br>「誰が私を投げたんです？家主様、おやめください！」</td>
+        <td>南宮深の鳳凰宝衣に対抗するため、唐布衣に暗器代わりに投げつけられた。<br>「誰が俺を投げたんだ？家主やめてください！」</td>
     </tr>
 </table>
 
 ### 南宮己
 
-<img src="/images/mobs/nan-gong-family/trainee4_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="南宮己">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_normal.webp' position='center'/>
+        <ChName nameZh='南宮己' nameEn='Nan Gong Ji' position='right' />
+    </ChTab>
+    <ChTab title="怒り">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_angry1.webp' position='center'/>
+        <ChName nameZh='怒り' nameEn='Angry' position='right' />
+    </ChTab>
+    <ChTab title="燃える">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_fire.webp' position='center'/>
+        <ChName nameZh='燃える' nameEn='On Fire' position='right' />
+    </ChTab>
+    <ChTab title="燃える(怒り)">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_fire_angry.webp' position='center'/>
+        <ChName nameZh='燃える(怒り)' nameEn='On Fire (Angry)' position='right' />
+    </ChTab>
+    <ChTab title="家着">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_home.webp' position='center'/>
+        <ChName nameZh='家着' nameEn='At Home' position='right' />
+    </ChTab>
+    <ChTab title="きらきら">
+        <Ch src='/images/mobs/nan-gong-family/trainee4_special1.webp' position='center'/>
+        <ChName nameZh='きらきら' nameEn='Sparkling' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
-        <td>廃廟ルート<br>「南宮己」</td>
+        <td>廃寺ルート<br>「南宮己」</td>
         <td>生まれつき優れた才を持ち、資質は抜群で頭も切れ、家主の前に推挙されて、これで出世できると思っていた。ところが二公子・南宮浅の世話係に回されてしまった。<br>杏花林へ錦嚢を求めに行ってほどなく段智秀と知り合い、鞍替えしたい気持ちが芽生えた。<br>南宮の名を騙った唐門夜襲を一手に企て、手柄を立てようと葉雲裳を攫おうとした。<br>当初は拷問を受けても、南宮家の護体気功を頼みに口を割らず、相当ふてぶてしい態度であったが、唐錚が出てくるとあっという間に従順になり、立ち絵まで変わってしまった。最後は唐錚に体へ寄生キノコを植え付けられた上で放免された。<br>こそこそ動き回っていたため、また葉雲舟に捕まって唐門へ連れ戻された。</td>
     </tr>
 </table>
 
 ### 南宮偉
 
-<img src="/images/mobs/nan-gong-family/oldman_normal.webp" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="南宮偉">
+        <Ch src='/images/mobs/nan-gong-family/oldman_normal.webp' position='center'/>
+        <ChName nameZh='南宮偉' nameEn='Nan Gong Wei' position='right' />
+    </ChTab>
+    <ChTab title="冷や汗">
+        <Ch src='/images/mobs/nan-gong-family/oldman_nervous1.webp' position='center'/>
+        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
-        <td>小師妹出嫁<br>「鉄鞭」南宮偉</td>
+        <td>小師妹の輿入れ<br>「鉄鞭」南宮偉</td>
         <td>南宮深の仲人を務め、唐陞の友人である。</td>
     </tr>
     <tr>
@@ -124,8 +158,8 @@ tags:
 <img src="/images/mobs/shang-guan-family/trainee1_normal.webp" style="width:200px;" />
 <table>
     <tr>
-        <td>武林大会<br>「朱五」</td>
-        <td>家では五番目の生まれで、滄幇九仙堂の香主。滄幇の中では一人の下、万人の上と言える立場である。<br>宋悲に付き添われて唐門へ招待状を届けた。<br>漁師の家の出で学は浅いが、口は達者だと自称する。</td>
+        <td>武林大会<br>「朱五花」</td>
+        <td>家では五番目の生まれで、滄幇九仙塘の香主。滄幇の中では一人の下、万人の上と言える立場である。<br>宋悲に付き添われて唐門へ招待状を届けた。<br>漁師の家の出で学は浅いが、口は達者だと自称する。<br>天武門の門主・黄金龍とは旧友で、駆け出しの頃に江湖で名を上げ、20年後に嵩山の頂で再会しようと約束していたが、自派を興すには至らず、最終的に上官家へ身を寄せた。</td>
     </tr>
     <tr>
         <td>武林大会<br>「花一鶴」</td>
@@ -133,7 +167,7 @@ tags:
     </tr>
     <tr>
         <td>武林大会</td>
-        <td>上官螢の随従。<br>滄幇幇主の指示を聞いており、滄幇幇主は上官隼の指示を聞いており、大小姐を監視するよう派遣されており、本来は上官螢の指示には従うべきではないが、趙活が尊敬する価値があるという理由で、二人に別れの時間をくれた。<br>上官螢は唐門に酒をおごるため、50年分の報酬を条件に、彼に金を持って姿をくらますよう頼んだ。</td>
+        <td>上官螢の随従。<br>滄幇幇主の命を受け、さらにその背後にある上官隼の意向でお嬢様（上官螢）の監視役に遣わされている。そのため本来は上官螢の指示に従う立場ではないが、趙活を敬意に値する人物と認め、二人に別れの時間を与えた。<br>上官螢は唐門に酒をおごるため、50年分の報酬を条件に、彼に金を持って姿をくらますよう頼んだ。</td>
     </tr>
 </table>
 
@@ -143,7 +177,7 @@ tags:
 <table>
     <tr>
         <td>武林大会</td>
-        <td>上官螢の随従。<br>滄幇幇主の指示を聞いており、滄幇幇主は上官隼の指示を聞いており、大小姐を監視するよう派遣されており、本来は上官螢の指示には従うべきではないが、趙活が尊敬する価値があるという理由で、二人に別れの時間をくれた。<br>上官螢は唐門に酒をおごるため、50年分の報酬を条件に、彼に金を持って姿をくらますよう頼んだ。</td>
+        <td>上官螢の随従。<br>滄幇幇主の命を受け、さらにその背後にある上官隼の意向でお嬢様（上官螢）の監視役に遣わされている。そのため本来は上官螢の指示に従う立場ではないが、趙活を敬意に値する人物と認め、二人に別れの時間を与えた。<br>上官螢は唐門に酒をおごるため、50年分の報酬を条件に、彼に金を持って姿をくらますよう頼んだ。</td>
     </tr>
 </table>
 

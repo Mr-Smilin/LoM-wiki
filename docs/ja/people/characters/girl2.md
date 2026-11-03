@@ -10,7 +10,7 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="初識">
+	<ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/girl_2/normal.webp' 
 			nameTitle='点蒼明珠'
@@ -27,6 +27,14 @@ aside: false
 			nameZh='ぷくぷく'
 			nameEn='Pout'/>
 	</ChTab>
+	<ChTab title="怒り">
+		<Ch 
+			src='/images/characters/girl_2/angry2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='怒り'
+			nameEn='Angry'/>
+	</ChTab>
 	<ChTab title="瞼閉じ">
 		<Ch 
 			src='/images/characters/girl_2/close_eye.webp' 
@@ -34,6 +42,22 @@ aside: false
 		<ChName
 			nameZh='瞼閉じ'
 			nameEn='Close Eye'/>
+	</ChTab>
+	<ChTab title="にっこり">
+		<Ch 
+			src='/images/characters/girl_2/close_eye_laugh.webp' 
+			position='center'/>
+		<ChName
+			nameZh='にっこり'
+			nameEn='Close Eye Smile'/>
+	</ChTab>
+	<ChTab title="目を閉じる(吐血)">
+		<Ch 
+			src='/images/characters/girl_2/close_eye_blood.webp' 
+			position='center'/>
+		<ChName
+			nameZh='目を閉じる(吐血)'
+			nameEn='Close Eye (Blood)'/>
 	</ChTab>
 	<ChTab title="思い煩い">
 		<Ch 
@@ -67,6 +91,14 @@ aside: false
 			nameZh='悪戯'
 			nameEn='Naughty'/>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch 
+			src='/images/characters/girl_2/laugh1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='微笑'
+			nameEn='Gentle Smile'/>
+	</ChTab>
 	<ChTab title="嬉しい">
 		<Ch 
 			src='/images/characters/girl_2/laugh2.webp' 
@@ -90,6 +122,14 @@ aside: false
 		<ChName
 			nameZh='鼻血'
 			nameEn='Norseblood'/>
+	</ChTab>
+	<ChTab title="緊張">
+		<Ch 
+			src='/images/characters/girl_2/nervous1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='緊張'
+			nameEn='Nervous'/>
 	</ChTab>
 	<ChTab title="びっくり">
 		<Ch 
@@ -147,6 +187,22 @@ aside: false
 			nameZh='泣き笑い'
 			nameEn='Cry Laugh'/>
 	</ChTab>
+	<ChTab title="涙">
+		<Ch 
+			src='/images/characters/girl_2/cry1.webp' 
+			position='center'/>
+		<ChName
+			nameZh='涙'
+			nameEn='Tears'/>
+	</ChTab>
+	<ChTab title="涙ぐむ">
+		<Ch 
+			src='/images/characters/girl_2/cry2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='涙ぐむ'
+			nameEn='Teary'/>
+	</ChTab>
 	<ChTab title="真面目">
 		<Ch 
 			src='/images/characters/girl_2/serious.webp' 
@@ -171,6 +227,30 @@ aside: false
 			nameZh='病気'
 			nameEn='Sick'/>
 	</ChTab>
+	<ChTab title="病気(目を閉じる)">
+		<Ch 
+			src='/images/characters/girl_2/sick_close_eye.webp' 
+			position='center'/>
+		<ChName
+			nameZh='病気(目を閉じる)'
+			nameEn='Sick (Close Eye)'/>
+	</ChTab>
+	<ChTab title="病気(吐血)">
+		<Ch 
+			src='/images/characters/girl_2/sick_hurt.webp' 
+			position='center'/>
+		<ChName
+			nameZh='病気(吐血)'
+			nameEn='Sick (Blood)'/>
+	</ChTab>
+	<ChTab title="病気(涙)">
+		<Ch 
+			src='/images/characters/girl_2/sick_cry.webp' 
+			position='center'/>
+		<ChName
+			nameZh='病気(涙)'
+			nameEn='Sick (Tears)'/>
+	</ChTab>
 	<ChTab title="無実">
 		<Ch 
 			src='/images/characters/girl_2/special1.webp' 
@@ -184,8 +264,16 @@ aside: false
 			src='/images/characters/girl_2/stick.webp' 
 			position='center'/>
 		<ChName
-			nameZh='聽雲棒'
+			nameZh='聴雲棒'
 			nameEn='Stick'/>
+	</ChTab>
+	<ChTab title="葉雲啾">
+		<Ch 
+			src='/images/characters/girl_2/special2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='葉雲啾'
+			nameEn='Ye Yunjiu'/>
 	</ChTab>
 	<ChTab title="疲労">
 		<Ch 
@@ -202,6 +290,22 @@ aside: false
 		<ChName
 			nameZh='幼少期'
 			nameEn='Childhood'/>
+	</ChTab>
+	<ChTab title="幼少期(びっくり)">
+		<Ch 
+			src='/images/characters/girl_2/childhood_nervous2.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼少期(びっくり)'
+			nameEn='Childhood (Fright)'/>
+	</ChTab>
+	<ChTab title="幼少期(棒)">
+		<Ch 
+			src='/images/characters/girl_2/childhood_stick.webp' 
+			position='center'/>
+		<ChName
+			nameZh='幼少期(棒)'
+			nameEn='Childhood (Stick)'/>
 	</ChTab>
 </ChTabs>
 <br>
@@ -271,7 +375,7 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					<MarkdownWrapper>|| [段智秀](/ja/people/characters/special833) (仇人)||</MarkdownWrapper>
+					<MarkdownWrapper>|| [段智秀](/ja/people/characters/special833) (仇敵)||</MarkdownWrapper>
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -557,7 +661,7 @@ aside: false
 -   雲裳の「裳」は ㄕㄤ (shang) と読む。[^8]公式読音は軽声で、熊本人の発音は一声寄り。[^9]雲裳という名前は、雲公の衣裳となって、彼のために風雨を遮るという意味。
 -   ~~趙活の妹分・趙アニャ~~
 -   見よ、私の点蒼棒法！聴雲棒！
--   甘い物が大好きで、特に冰糖葫蘆 (タンフールー)。買って買って！[趙活](/ja/people/characters/player)が手に入れた食べ物はすべて彼女に横取りされる。
+-   甘い物が大好きで、特に氷糖葫芦 (タンフールー)。買って買って！[趙活](/ja/people/characters/player)が手に入れた食べ物はすべて彼女に横取りされる。
 -   やきもち焼き。嫁ぐなら一途な相手でなければならず、他人に寵愛を分けるのを許さない。
 -   ~~エッチな白テン~~「羊は黙鈴。私は白テン。白テンは人の袖に潜り込んだり、首に巻きついたり、噛みついたりするのが好き……」
 -   怪談が好き。まったく怖がらないタイプ。[^3]

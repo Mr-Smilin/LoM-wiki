@@ -30,4 +30,4 @@ tags:
 
 <br><br>
 
-[唐門](/ja/people/factions/tang-men)の弟子。廃廟ルートで賊が夜襲してきた晩、[女弟子の一人](/ja/people/mobs/tang-men-female#伙房偷吃)と厨房を見張りながらどさくさに紛れてつまみ食いをし、めぼしい食材を平らげて侵入者の仕業に仕立てようとする。[趙活](/ja/people/characters/player)に見つかると無理やり共犯に引き込むが、その後に梁から落ちて侵入者を圧死させ、自身も骨折したらしい。
+[唐門](/ja/people/factions/tang-men)の弟子。廃寺ルートで賊が夜襲してきた晩、[女弟子の一人](/ja/people/mobs/tang-men-female#伙房偷吃)と厨房を見張りながらどさくさに紛れてつまみ食いをし、めぼしい食材を平らげて侵入者の仕業に仕立てようとする。[趙活](/ja/people/characters/player)に見つかると無理やり共犯に引き込むが、その後に梁から落ちて侵入者を圧死させ、自身も骨折したらしい。

@@ -13,7 +13,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="斉壬">
 		<Ch src='/images/characters/hero2/normal.webp' position='right'/>
-		<ChName nameZh='齊壬' nameEn='Qi Ren' position='right' />
+		<ChName nameZh='斉壬' nameEn='Qi Ren' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -33,12 +33,36 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/hero2/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/hero2/nervous.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="緊張">
+		<Ch src='/images/characters/hero2/nervous2.webp' position='center'/>
+		<ChName nameZh='緊張' nameEn='Nervous' position='right' />
+	</ChTab>
+	<ChTab title="不機嫌">
+		<Ch src='/images/characters/hero2/angry1.webp' position='center'/>
+		<ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/hero2/angry2.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="照れ">
+		<Ch src='/images/characters/hero2/shy.webp' position='center'/>
+		<ChName nameZh='照れ' nameEn='Shy' position='right' />
+	</ChTab>
 </ChTabs>
 <br><br>
 
-> 「フン。面白い。俺に逆らう女は珍しい。貴様は見事、俺の注意を引いた。」
+> 「ふん、面白い。俺に逆らう女は、お前が初めてだ。見事に俺の気を引いたな。」
 
-洪州出身。『[斬天黒翼双龍剣](/ja/system/books/book_2005)』と呼ばれ、非常に中二病。セリフはどれも名台詞。双剣を持ち、必殺技と外号は同名。
+洪州出身。『[斬天黒翼双龍剣](/ja/system/books/book_2005)』と呼ばれ、重度の中二病で、口にする台詞はどれも決め台詞ばかり。双剣を携え、絶招と異名が同じ名である。
 <br><br>
 初めて[葉雲裳](/ja/people/characters/girl2)を見かけた時、「お前が起こした火、自分で消すんだな。」と言ったが、その後[点蒼派](/ja/people/factions/dian-cang-sect)の先輩たちに双剣合璧で打たれた。打たれた後も彼女に武功を覚えられた。
 <br><br>

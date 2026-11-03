@@ -12,11 +12,101 @@ aside: false
 	<ChTab title="初対面">
 		<ChMeet 
 			src='/images/characters/special999/normal.webp' 
-            nameTitle='縞衣剣少'
+            nameTitle='縞衣の剣客'
 			nameMain='瑞笙'
-			desc='世に出たばかりながら、近ごろ名声を上げつつある若き剣客。<br>眉目秀麗にして瀟洒、磊落たる君子。物腰は温文爾雅、胸には万丈の豪情を秘め、剣を仗して侠を行い、恩讐に快をなす。肝心なところで必ず現れる男。'
+			desc='世に出たばかりだが、近頃名声が高まっている若き剣客。<br>眉目秀麗で、裏表のない高潔な<ruby>君子<rt>くんし</rt></ruby>、物腰は柔らかく知的だが、その内には熱き情熱を宿している。剣を手に悪を断ち、恩仇を晴らす。肝心な時に現れる奴。'
 			:animation=true
 		/>
+	</ChTab>
+	<ChTab title="微笑">
+		<Ch
+			src='/images/characters/special999/laugh.webp' 
+			position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch
+			src='/images/characters/special999/laugh2.webp' 
+			position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch
+			src='/images/characters/special999/nervous1.webp' 
+			position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch
+			src='/images/characters/special999/nervous2.webp' 
+			position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch
+			src='/images/characters/special999/nervous3.webp' 
+			position='center'/>
+		<ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="疑い">
+		<Ch
+			src='/images/characters/special999/doubt.webp' 
+			position='center'/>
+		<ChName nameZh='疑い' nameEn='Doubt' position='right' />
+	</ChTab>
+	<ChTab title="不機嫌">
+		<Ch
+			src='/images/characters/special999/angry1.webp' 
+			position='center'/>
+		<ChName nameZh='不機嫌' nameEn='Displeased' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch
+			src='/images/characters/special999/angry2.webp' 
+			position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
+	<ChTab title="目を閉じる">
+		<Ch
+			src='/images/characters/special999/close_eye.webp' 
+			position='center'/>
+		<ChName nameZh='目を閉じる' nameEn='Close Eyes' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch
+			src='/images/characters/special999/hurt2.webp' 
+			position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+	<ChTab title="重傷(目を閉じる)">
+		<Ch
+			src='/images/characters/special999/hurt_close_eye.webp' 
+			position='center'/>
+		<ChName nameZh='重傷(目を閉じる)' nameEn='Severely Injured (Close Eyes)' position='right' />
+	</ChTab>
+	<ChTab title="あざだらけ">
+		<Ch
+			src='/images/characters/special999/hurt3.webp' 
+			position='center'/>
+		<ChName nameZh='あざだらけ' nameEn='Black and Blue' position='right' />
+	</ChTab>
+	<ChTab title="血まみれ">
+		<Ch
+			src='/images/characters/special999/blood.webp' 
+			position='center'/>
+		<ChName nameZh='血まみれ' nameEn='Bloodied' position='right' />
+	</ChTab>
+	<ChTab title="血まみれ(目を閉じる)">
+		<Ch
+			src='/images/characters/special999/close_eye_blood.webp' 
+			position='center'/>
+		<ChName nameZh='血まみれ(目を閉じる)' nameEn='Bloodied (Close Eyes)' position='right' />
+	</ChTab>
+	<ChTab title="マント">
+		<Ch
+			src='/images/characters/special999/special1.webp' 
+			position='center'/>
+		<ChName nameZh='マント' nameEn='Hooded Cloak' position='right' />
 	</ChTab>
 </ChTabs>
 <br>
@@ -37,7 +127,7 @@ aside: false
 					称号
 				</ChTd>
 				<ChTd>
-					縞衣剣少
+					縞衣の剣客
 				</ChTd>
 			</ChTr>
 			<ChTr>
@@ -212,7 +302,7 @@ aside: false
 -   放浪の旅は格好いいものと思っていたが、いざ出てみれば、荒野で野宿する浮浪者暮らしは少しも格好よくなかった。<br>宿に泊まっても不意打ちを警戒して気を抜けない。そうこうするうちに、目元の隈 (アイシャドウ) が濃くなった。[^3]
 -   派手な服が嫌いで、綺麗好き。だらしない格好もしたくない。結果、素朴で清潔な縞衣に落ち着いた。華美な装いで人目を引こうとしない意志の表れである。[^3]
 -   ゴキブリが怖い。
--   [万里鵬程](/ja/people/characters/special6)は瑞笙を「瑞小友」と呼ぶが、両者の関係は不明。
+-   [万里鵬程](/ja/people/characters/special6)は瑞笙を「瑞坊や」と呼ぶが、両者の関係は不明。
 -   初版の西武林で勝利した場合、シナリオ上強制的に[趙活](/ja/people/characters/player)と引き分けて和解する展開だったが、伏線不足でプレイヤーの不満を買い、この結末は現在削除されている。
     -   生活双侠を結成しておらず、[趙活](/ja/people/characters/player)も勝利した場合は、遺言を尋ねた後に瑞笙へ罪を償うよう求め、引き分けだと宣言する。
 
@@ -226,6 +316,6 @@ aside: false
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_23.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_23.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
     </div>
 </div>

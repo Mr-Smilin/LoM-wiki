@@ -9,10 +9,41 @@ aside: false
 # {{ $frontmatter.title }}
 
 <ChTabs position="bottom">
-	<ChTab title="石公遠">
-		<Ch src='/images/characters/special7/normal.webp' position='right'/>
-		<ChName nameZh='石公遠' nameEn='Shi Gong Yuan' position='right' />
-		<ChTable>
+	<ChTab title="初対面">
+		<ChMeet
+			src='/images/characters/special7/normal.webp'
+			nameTitle='飛石幇主'
+			nameMain='石公遠'
+			desc='<ruby>飛石幇<rt>ひせきほう</rt></ruby>の<ruby>幇主<rt>ほうしゅ</rt></ruby>にして、剽悍なる豪傑。<br>元は<ruby>茂州<rt>もしゅう</rt></ruby>に落草した山賊であったが、結婚後に足を洗い、民生を脅かすことをやめ、人材を賃貸し粗仕事を請け負うことに転じ、<ruby>飛石幇<rt>ひせきほう</rt></ruby>の名声は次第に高まり、三大幇派と対抗できるまでになった。'
+			:animation=true
+		/>
+	</ChTab>
+	<ChTab title="大笑い">
+		<Ch src='/images/characters/special7/laugh1.webp' position='center'/>
+		<ChName nameZh='大笑い' nameEn='Laugh' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special7/nervous1.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="びっくり">
+		<Ch src='/images/characters/special7/nervous2.webp' position='center'/>
+		<ChName nameZh='びっくり' nameEn='Shock' position='right' />
+	</ChTab>
+	<ChTab title="気まずい">
+		<Ch src='/images/characters/special7/nervous3.webp' position='center'/>
+		<ChName nameZh='気まずい' nameEn='Awkward' position='right' />
+	</ChTab>
+	<ChTab title="重傷">
+		<Ch src='/images/characters/special7/hurt.webp' position='center'/>
+		<ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
+	</ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+	<Info title='キャラクター情報' :open=true>
+		<table>
 			<ChTr>
 				<ChTd isTitle=true>
 					性別
@@ -36,12 +67,12 @@ aside: false
 			</ChTr>
 			<ChTr>
 				<ChTd position='center'>
-					[石夫人](/ja/people/characters/special815) (妻子)
+					[石夫人](/ja/people/characters/special815) (妻)
 				</ChTd>
 			</ChTr>
-		</ChTable>
-	</ChTab>
-</ChTabs>
+		</table>
+	</Info>
+</InfoList>
 
 <br>
 
@@ -50,6 +81,10 @@ aside: false
 <br>
 
 当初は茂州で盗賊をしていたが、結婚後に足を洗い、民衆に迷惑をかけることをやめ、かわりに労働力をレンタルして雑役を請け負うようになった。飛石幇の名声は次第に高まり、暗黙のうちに江湖の三大幇派と肩を並べるようになった。
+
+<div style="clear:both;"></div>
+
+## 列伝
 
 <Tabs>
   <Tab title="列伝一">

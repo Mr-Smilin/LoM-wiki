@@ -14,7 +14,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="釈明">
 		<Ch src='/images/characters/special826/normal.webp' position='right'/>
-		<ChName nameZh='釋明' nameEn='Shi Ming' position='right' />
+		<ChName nameZh='釈明' nameEn='Shi Ming' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -46,9 +46,25 @@ tags:
 			</ChTr>
 		</ChTable>
 	</ChTab>
+	<ChTab title="微笑">
+		<Ch src='/images/characters/special826/laugh1.webp' position='center'/>
+		<ChName nameZh='微笑' nameEn='Smile' position='right' />
+	</ChTab>
+	<ChTab title="冷や汗">
+		<Ch src='/images/characters/special826/nervous.webp' position='center'/>
+		<ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
+	</ChTab>
+	<ChTab title="狼狽">
+		<Ch src='/images/characters/special826/nervous3.webp' position='center'/>
+		<ChName nameZh='狼狽' nameEn='Panic' position='right' />
+	</ChTab>
+	<ChTab title="怒り">
+		<Ch src='/images/characters/special826/angry.webp' position='center'/>
+		<ChName nameZh='怒り' nameEn='Angry' position='right' />
+	</ChTab>
 </ChTabs>
 
-> 「老衲がどうして偽りなど申せましょう。邪祟は確かにおるのです。心より魔が生じ、唐施主を駆り立てて数多の殺業を造らせておる。あの声々の梵音は、みな施主の心中の魔障を祓わんがためのものですぞ。」
+> 「拙僧がどうして欺きましょうか？邪悪なものは確かにありました。心より魔が生じ、唐施主を駆り立てて多くの殺生をさせたのです。あの読経の声はすべて、施主の心中の魔障を払うためのものでしたよ。」
 
 釈明禅師、仏法を修めること数十年、その名声は遠くまで知れ渡っている。
 <br><br>
@@ -56,7 +72,7 @@ tags:
 <br><br>
 唐中翎が病に倒れると、上官世家を後ろ盾に得て、[広州唐門](/ja/people/characters/special812)を抱き込み簒奪を企てた。失敗した後も武林盟大会で[晁和](/ja/people/characters/special208)とともに唐門を中傷し、[福韞](/ja/people/characters/special206)の口を封じるため、同門の情誼も顧みず卑劣な手で彼を昏倒させた。
 <br><br>
-[趙活](/ja/people/characters/player)が武林大会で「混戦」と大声で叫ぶと、彼こそ唐老魔に最も近い人物だと思い込み、震え上がる。
+[趙活](/ja/people/characters/player)が武林大会で「ぶちのめしてやる！！」と大声で叫ぶと、彼こそ唐老魔に最も近い人物だと思い込み、震え上がる。
 
 ## 末路
 
