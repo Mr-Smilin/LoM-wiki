@@ -644,7 +644,7 @@ aside: false
 -   於v1.0.5000開放攻略，更新預告影片：[連結](https://www.youtube.com/watch?v=FRnzV4GRNd0)
 -   葉雲裳的本性：[連結](https://www.facebook.com/obbstudio/photos/p.173499981714855/173499981714855/?type=3)
 -   原姓氏「花」。[^4]
--   雲裳的裳，念ㄕㄤ· (shang)。[^8]雲裳之名，是指要當雲公的衣裳，為他遮風擋雨。
+-   雲裳的裳，官方讀音是輕聲ㄕㄤ˙(shang)，但熊在訪談的發音比較接近一聲ㄕㄤˉ (shāng)。[^8][^9]雲裳之名，是指要當雲公的衣裳，為他遮風擋雨。
 -   ~~趙活舍妹趙阿貓~~
 -   看我點蒼棒法！聽雲棒！
 -   愛吃甜食，特別是冰糖葫蘆，買嘛買嘛！[[趙活]]獲得的食物都會被她攔截。
@@ -662,6 +662,7 @@ aside: false
 [^6]: Facebook－[原始鳥熊2023/8/22](https://www.facebook.com/obbstudio/posts/pfbid06P9XSSoB9zaqws972XaHpJ5sXynEpiUkp9i1QS1nDEWdTRXxENnw761tbxKCS16Al)
 [^7]: Facebook－[原始鳥熊2024/6/1](https://www.facebook.com/obbstudio/posts/pfbid02DWHjzPLdRguLBns6wSeWRQUC1DcNr4nRNhgGfytbghiHANhircvTyAGndWyktv5Dl)
 [^8]: PTT－[\[活俠\] 雲裳：我不念ㄔㄤˊ我念ㄕㄤ啦](https://www.ptt.cc/bbs/C_Chat/M.1757573965.A.CC3.html)
+[^9]: 巴哈姆特－[【文字專訪】專訪鳥熊鼠蟲~129題超長訪談 Q8-1](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=15502)（本站整理：[專訪鳥熊鼠蟲 129題訪談](/other/qna/interview-129#q8-1-雲裳-晁和的官方讀音)）
 
 ## 畫廊
 
