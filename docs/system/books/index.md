@@ -107,7 +107,7 @@ tags:
         <td>刀劍6<br>體力5<br>性情+5<br>處世+5</td>
         <td>25</td>
         <td></td>
-        <td>青城留學九月下旬之前，修練三次觸發<MarkdownWrapper>[「青城排擠」](/event/simple/2-08-3-青城排擠)</MarkdownWrapper>事件，轉盤【申屠龍抵抗】獲得點蒼棒法。<br>之後九月上~二年十月中<MarkdownWrapper>[「雲裳秘笈」](/event/simple/2-09-1-雲裳秘笈)</MarkdownWrapper>事件，轉盤【黑龍劍】獲得。</td>
+        <td>青城留學九月下旬之前，修練三次觸發<MarkdownWrapper>[「青城排擠」](/event/simple/2-08-3-青城排擠)</MarkdownWrapper>事件，轉盤【申屠龍抵抗】獲得點蒼棒法。<br>之後九月上~二年十月中<MarkdownWrapper>[「雲裳秘笈」](/event/simple/2-09-1-雲裳秘笈)</MarkdownWrapper>事件，轉盤【盤古斧】獲得。</td>
         <td></td>
     </tr>
     <tr>

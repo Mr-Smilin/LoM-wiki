@@ -274,7 +274,8 @@ tags:
                 持續<MarkdownWrapper>[向火閃電討教](/event/simple/2-03-3-向火閃電討教)</MarkdownWrapper>，
                 使🚩向火閃電討教≥4。<br>
                 <Girl3Icon>虞小梅</Girl3Icon>好感≥20，在第二年四月上旬至七月中旬，
-                至鶴崖觸發<MarkdownWrapper>[小梅共舞](/event/simple/2-04-1-小梅共舞)</MarkdownWrapper>後獲得
+                至鶴崖觸發<MarkdownWrapper>[小梅共舞](/event/simple/2-04-1-小梅共舞)</MarkdownWrapper>，<br>
+                事件尾聲時輕功≥40且全武學點數≥200，則讀勢等級+3。
             </li>
         </td>
     </tr>
