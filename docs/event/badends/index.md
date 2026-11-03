@@ -2782,8 +2782,24 @@ tags:
             壞人做壞事根本不皺一下眉頭。
         </td>
         <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
+            <li>🚩<MarkdownWrapper>[神兵帖進度=1](/event/simple/2-05-3-神兵會請帖)</MarkdownWrapper></li>
+            <li>達成🚩被郁竹無視次數(見備註)≥2</li>
+            <li>一旬內未主動前往鐵拳巷觸發<MarkdownWrapper>[「郁竹的煩惱」](/event/simple/2-05-3-郁竹的煩惱)</MarkdownWrapper></li>
+            <li>
+                下一旬行動次數≤2時，自動觸發<MarkdownWrapper>[「崆峒神雷劍」](/event/simple/2-06-1-崆峒神雷劍)</MarkdownWrapper>，<br>
+                事件中擲骰到【🎲＜30 哇】
+            </li>
+        </td>
+        <td>
+            <li>
+                🚩被郁竹無視次數:<br>
+                在觸發🚩<MarkdownWrapper>[「郁竹想打造神兵」](/event/simple/2-05-3-神兵會請帖#神兵會請帖)</MarkdownWrapper>後，<br>
+                <MarkdownWrapper>[「鐵拳巷打鐵」](/system/training/)</MarkdownWrapper>指令新增的<br>
+                「郁竹鍛劍」事件中可增加。
+            </li>
+        </td>
     </tr>
     <tr>
         <td id="生死簿-No.113">
