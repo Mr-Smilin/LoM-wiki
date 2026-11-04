@@ -21,7 +21,7 @@ tags:
     { name: '邪派組織', tags: ['極樂教', '泥教'] },
     { name: '宮樓', tags: ['千燈樓', '錦香宮', '火炎山劍閣'] },
     { name: '國家', tags: ['大宋', '大金', '大理', '蒙古'] },
-    { name: '其他', tags: ['雪山派', '孤雲山派', '杏花林', '耕陽讀書齋', '嶺南派', '其他'] }
+    { name: '其他', tags: ['雪山派', '孤雲山派', '杏花林', '耕陽讀書齋', '嶺南派', '老百姓', '無立繪', '其他'] }
   ]">
 
 <tr>
@@ -41,7 +41,7 @@ tags:
 </tr>
 <tr>
 	<td>[[唐鹿]]</td>
-	<td>蜀中唐門</td>
+	<td>蜀中唐門<br>無立繪</td>
 	<td></td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ tags:
 </tr>
 <tr>
 	<td>[[唐芬]]</td>
-	<td>蜀中唐門</td>
+	<td>蜀中唐門<br>無立繪</td>
 	<td></td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@ tags:
 </tr>
 <tr>
 	<td>[[千金叟]]</td>
-	<td>丐幫</td>
+	<td>丐幫<br>無立繪</td>
 	<td></td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ tags:
 </tr>
 <tr>
 	<td>[[郝大通]]</td>
-	<td>全真派</td>
+	<td>全真派<br>無立繪</td>
 	<td></td>
 </tr>
 <tr>
@@ -246,7 +246,7 @@ tags:
 </tr>
 <tr>
 	<td>[[孟瞋]]</td>
-	<td>崆峒派 - 鐵拳門</td>
+	<td>崆峒派 - 鐵拳門<br>無立繪</td>
 	<td></td>
 </tr>
 <tr>
@@ -296,7 +296,7 @@ tags:
 </tr>
 <tr>
 	<td>[[閻羅生]]</td>
-	<td>崆峒派 - 玄功門</td>
+	<td>崆峒派 - 玄功門<br>無立繪</td>
 	<td></td>
 </tr>
 <tr>
@@ -331,7 +331,7 @@ tags:
 </tr>
 <tr>
 	<td>[[溫無畏]]</td>
-	<td>峨嵋派</td>
+	<td>峨嵋派<br>無立繪</td>
 	<td></td>
 </tr>
 <tr>
@@ -368,6 +368,16 @@ tags:
 	<td>[[來新子]]</td>
 	<td>火炎山劍閣</td>
 	<td>/images/avatars/other20.webp</td>
+</tr>
+<tr>
+	<td>[[鐵飛龍]]</td>
+	<td>火炎山劍閣</td>
+	<td>/images/avatars/blacksmith4.webp</td>
+</tr>
+<tr>
+	<td>[[鐵飛鷹]]</td>
+	<td>火炎山劍閣</td>
+	<td>/images/avatars/blacksmith5.webp</td>
 </tr>
 <tr>
 	<td>[[南宮橫]]</td>
@@ -420,14 +430,34 @@ tags:
 	<td>/images/avatars/special214.webp</td>
 </tr>
 <tr>
+	<td>[[孟珙]]</td>
+	<td>大宋</td>
+	<td>/images/avatars/special215.webp</td>
+</tr>
+<tr>
 	<td>[[完顏珣]]</td>
 	<td>大金</td>
 	<td>/images/avatars/special819.webp</td>
 </tr>
 <tr>
 	<td>[[僕散安貞]]</td>
-	<td>大金</td>
+	<td>大金<br>無立繪</td>
 	<td></td>
+</tr>
+<tr>
+	<td>[[裘志攘]]</td>
+	<td>大金</td>
+	<td>/images/avatars/special845.webp</td>
+</tr>
+<tr>
+	<td>[[胡嵩]]</td>
+	<td>大金</td>
+	<td>/images/avatars/special844.webp</td>
+</tr>
+<tr>
+	<td>[[周濁]]</td>
+	<td>大金</td>
+	<td>/images/avatars/special843.webp</td>
 </tr>
 <tr>
 	<td>[[成吉思汗]]</td>
@@ -436,7 +466,7 @@ tags:
 </tr>
 <tr>
 	<td>[[李仁友]]</td>
-	<td>極樂教<br>千燈樓</td>
+	<td>極樂教<br>千燈樓<br>無立繪</td>
 	<td></td>
 </tr>
 <tr>
@@ -451,7 +481,7 @@ tags:
 </tr>
 <tr>
 	<td>[[袁乘風]]</td>
-	<td>極樂教<br>峨嵋派</td>
+	<td>極樂教<br>峨嵋派<br>無立繪</td>
 	<td></td>
 </tr>
 <tr>
@@ -526,12 +556,12 @@ tags:
 </tr>
 <tr>
 	<td>[[樂屏]]</td>
-	<td>其他</td>
+	<td>老百姓</td>
 	<td>/images/avatars/special810.webp</td>
 </tr>
 <tr>
 	<td>[[辛儒]]</td>
-	<td>其他<br>蜀中唐門</td>
+	<td>老百姓<br>蜀中唐門</td>
 	<td>/images/avatars/special802.webp</td>
 </tr>
 <tr>
@@ -556,13 +586,38 @@ tags:
 </tr>
 <tr>
 	<td>[[呂翁]]</td>
-	<td>其他</td>
+	<td>老百姓</td>
 	<td>/images/avatars/special807.webp</td>
 </tr>
 <tr>
 	<td>[[江行老]]</td>
-	<td>其他</td>
+	<td>老百姓</td>
 	<td>/images/avatars/special803.webp</td>
+</tr>
+<tr>
+	<td>[[小卉]]</td>
+	<td>老百姓</td>
+	<td>/images/avatars/maid1.webp</td>
+</tr>
+<tr>
+	<td>[[郁父]]</td>
+	<td>老百姓</td>
+	<td>/images/avatars/special838.webp</td>
+</tr>
+<tr>
+	<td>[[郁母]]</td>
+	<td>老百姓</td>
+	<td>/images/avatars/special839.webp</td>
+</tr>
+<tr>
+	<td>[[郁寶花]]</td>
+	<td>老百姓</td>
+	<td>/images/avatars/special840.webp</td>
+</tr>
+<tr>
+	<td>[[郁城]]</td>
+	<td>老百姓</td>
+	<td>/images/avatars/special841.webp</td>
 </tr>
 <tr>
 	<td>[[花城四少]]</td>
@@ -590,7 +645,7 @@ tags:
 	<td>/images/avatars/special213.webp</td>
 </tr>
 <tr>
-	<td>[[段智秀]]</td>
+	<td><MarkdownWrapper>[[段智秀]]</MarkdownWrapper><br>南宮秀</td>
 	<td>大理<br>點蒼派<br>青城派<br>嶺南派</td>
 	<td>/images/avatars/special833.webp</td>
 </tr>
