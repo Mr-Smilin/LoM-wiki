@@ -57,7 +57,7 @@ tags:
 	</ChTab>
 	<ChTab title="啊～～">
 		<Ch src='/images/characters/firebird1/special_attack.webp' position='center'/>
-		<ChName nameZh='火閃電' nameEn='Huo Shan Dian' />
+		<ChName nameZh='火閃電' nameEn='Firebolt' />
 	</ChTab>
 </ChTabs>
             
@@ -111,13 +111,15 @@ tags:
 
 ## 參考&致敬
 -   名字參考致敬《哈利波特》，哈利的飛天掃帚-火閃電（firebolt）。
-    -   日文翻譯組和製作組確認角色讀音後，火閃電的日文讀音明確為ファイアボルト，同掃帚火閃電（firebolt）。
+    -   日文翻譯組和製作組確認角色讀音後，火閃電的日文讀音明確為ファイアボルト[^7]，同掃帚火閃電（firebolt）。
         -   此為日文翻譯組目前第一個英語系讀音的翻譯。
     -   [[虞小梅|小梅]]在2025萬聖節賀圖[^4]&巴哈姆特30週年合作賀圖[^5]，造型是魔女，2026萬聖節賀圖乘掃帚飛行[^6]。
 -   [[虞小梅|小梅]]&火閃電的組合，可能來自北宋《夢溪筆談》的「梅妻鶴子」。
 -   [[虞小梅|小梅]]在官方宣傳圖&<EndIcon no="58">某結局</EndIcon>有乘駕火閃電的圖像，可能參考成語「鶴駕西歸」。
 -   武功：飛天&急襲，可能致敬《寶可夢》飛行系經典招式-飛天，免疫傷害&突襲呈現效果一致。
--   劇情&<BadendIcon :no="107">某死法</BadendIcon>常刻意稱呼鳥，而不是鶴，可能致敬製作人之一程式鳥。
+-   劇情&<BadendIcon :no="107">某死法</BadendIcon>常刻意稱呼火閃電為鳥，而不是鶴，可能致敬製作人之一程式鳥。
+## 備註
+-   本頁面火閃電的英文名，參考製作組確認日文讀音（firebolt）。
 
 [^1]: 巴哈姆特－[【心得】火閃電是最婆的。進來，我告訴你為什麼](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2167&tnum=5)
 [^2]: 2024/8/5 的[台灣公視活俠直播訪談影片](https://www.youtube.com/watch?v=JkSfhSi3P8w)、[整理文](https://home.gamer.com.tw/artwork.php?sn=5980804)
@@ -125,4 +127,4 @@ tags:
 [^4]: FaceBook－[活俠2025萬聖節賀圖](https://www.facebook.com/share/p/1KCXXsKbvU/)
 [^5]: FaceBook－[活俠巴哈姆特30週年合作賀圖](https://www.facebook.com/share/p/1LBZYK9Tew/)
 [^6]: FaceBook－[活俠2026萬聖節賀圖](https://www.facebook.com/share/p/1BZe5GqdqQ/)
-
+[^7]: X－[火閃電的日文讀音](https://x.com/Hakko310/status/2087526065866752100)
