@@ -501,179 +501,19 @@ tags:
 
 ### 郁父
 
-<ChTabs position="bottom">
-    <ChTab title="郁父">
-        <Ch src='/images/characters/special838/normal.webp' position='center'/>
-        <ChName nameZh='郁父' nameEn='Yu Fu' position='right' />
-    </ChTab>
-    <ChTab title="微笑">
-        <Ch src='/images/characters/special838/laugh.webp' position='center'/>
-        <ChName nameZh='微笑' nameEn='Smile' position='right' />
-    </ChTab>
-    <ChTab title="大笑い">
-        <Ch src='/images/characters/special838/laugh2.webp' position='center'/>
-        <ChName nameZh='大笑い' nameEn='Laugh' position='right' />
-    </ChTab>
-    <ChTab title="怒り">
-        <Ch src='/images/characters/special838/angry.webp' position='center'/>
-        <ChName nameZh='怒り' nameEn='Angry' position='right' />
-    </ChTab>
-    <ChTab title="冷や汗">
-        <Ch src='/images/characters/special838/nervous.webp' position='center'/>
-        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
-    </ChTab>
-    <ChTab title="やつれ">
-        <Ch src='/images/characters/special838/haggard_normal.webp' position='center'/>
-        <ChName nameZh='やつれ' nameEn='Haggard' position='right' />
-    </ChTab>
-    <ChTab title="やつれ(負傷)">
-        <Ch src='/images/characters/special838/haggard_hurt.webp' position='center'/>
-        <ChName nameZh='やつれ(負傷)' nameEn='Haggard (Injured)' position='right' />
-    </ChTab>
-</ChTabs>
-
-<table>
-    <tr>
-        <td>郁竹の帰郷</td>
-        <td>郁竹の実父。<br>気性が荒く打算的で、暴力的、非を認めない、亭主関白といった傾向がある。<br>長女の郁竹は道に迷って家出したのだと言いふらしている。<br>一家の主だが博打好きで、負けて財産を失うことが多く、収入源は小竹が実家へ送る金に大きく頼っている。</td>
-    </tr>
-    <tr>
-        <td>郁家、崆峒に身を寄せる</td>
-        <td>借用書に偽造の疑いがあり、取り立ての圧力を受けて、家族を連れて郁竹を頼ろうとする。困窮してもなお性根は直らず、最後の蓄えを賭場に注ぎ込んだ。<br>博打の借金の担保として、次女の郁宝花を内緒で売り飛ばそうとまでしたが、奪魄門の制裁を受けて、ようやく過去の悪行が明るみに出た。</td>
-    </tr>
-</table>
+[郁竹](/ja/people/characters/girl6)の父。出来事は個別ページの[郁父](/ja/people/characters/special838)を参照。
 
 ### 郁母
 
-<ChTabs position="bottom">
-    <ChTab title="郁母">
-        <Ch src='/images/characters/special839/normal.webp' position='center'/>
-        <ChName nameZh='郁母' nameEn='Yu Mu' position='right' />
-    </ChTab>
-    <ChTab title="冷や汗">
-        <Ch src='/images/characters/special839/nervous.webp' position='center'/>
-        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
-    </ChTab>
-    <ChTab title="泣き">
-        <Ch src='/images/characters/special839/sad.webp' position='center'/>
-        <ChName nameZh='泣き' nameEn='Cry' position='right' />
-    </ChTab>
-</ChTabs>
-
-<table>
-    <tr>
-        <td>郁竹の帰郷</td>
-        <td>郁竹の実母。<br>気が弱く、夫の博打好きを知りながら止める力がなく、夫の言葉を信じて郁竹は道に迷って家出したのだと思い込んでいる。<br>明らかなえこひいきがあり、同じ我が子でありながら、長女の幸せを犠牲にしてでも、次女と息子を可愛がる。</td>
-    </tr>
-    <tr>
-        <td>郁家、崆峒に身を寄せる</td>
-        <td>一家で郁竹を頼るため、次女の郁宝花に手紙を書かせ、郁竹に崆峒へ戻るよう頼んだ。</td>
-    </tr>
-</table>
+[郁竹](/ja/people/characters/girl6)の母。出来事は個別ページの[郁母](/ja/people/characters/special839)を参照。
 
 ### 郁宝花
 
-<ChTabs position="bottom">
-    <ChTab title="郁宝花">
-        <Ch src='/images/characters/special840/normal.webp' position='center'/>
-        <ChName nameZh='郁宝花' nameEn='Yu Bao Hua' position='right' />
-    </ChTab>
-    <ChTab title="微笑">
-        <Ch src='/images/characters/special840/laugh1.webp' position='center'/>
-        <ChName nameZh='微笑' nameEn='Smile' position='right' />
-    </ChTab>
-    <ChTab title="冷や汗">
-        <Ch src='/images/characters/special840/nervous.webp' position='center'/>
-        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
-    </ChTab>
-    <ChTab title="黒い笑み">
-        <Ch src='/images/characters/special840/gloomy.webp' position='center'/>
-        <ChName nameZh='黒い笑み' nameEn='Sinister Smile' position='right' />
-    </ChTab>
-    <ChTab title="泣き">
-        <Ch src='/images/characters/special840/sad.webp' position='center'/>
-        <ChName nameZh='泣き' nameEn='Cry' position='right' />
-    </ChTab>
-    <ChTab title="落胆">
-        <Ch src='/images/characters/special840/discouraged.webp' position='center'/>
-        <ChName nameZh='落胆' nameEn='Discouraged' position='right' />
-    </ChTab>
-</ChTabs>
-
-<table>
-    <tr>
-        <td>郁竹の帰郷</td>
-        <td>郁家の次女で、郁竹の妹。<br>良い教育と寵愛の中で育ち、見た目は教養と礼儀をわきまえた清楚な女性。<br>父親の打算的な本性を受け継ぎ、権力と富に取り入ることを望んでおり、郁竹の恵まれた生活環境を妬んでいる。<br>郁竹の婚約者が金も権力もある御曹司だと知ると、婚約を奪って自分が嫁ごうとした。</td>
-    </tr>
-    <tr>
-        <td>郁家、崆峒に身を寄せる</td>
-        <td>父親が博打の借金の担保として自分を内緒で売ろうとしていたことでその正体を知り、鉄拳門の嫡伝女弟子が空席だと知ると、その座を乗っ取って埋めようとした。</td>
-    </tr>
-    <tr>
-        <td>小竹ルート<br>牢への面会</td>
-        <td>第一掌派候補を名目に、見張りを脅したりすかしたりして面会を果たした。<br>姉を妬んでおり不仲だと称し、面会の意図は悪意に満ちていると言ったが、実際は見張りを欺くための見事な演技だった。<br>柄の長いやっとこなど郁竹の鍛冶場の道具を大量に携え、足枷の破壊と脱獄の手助けを試みたが、足枷があまりに頑丈で、結局成果なく引き返した。</td>
-    </tr>
-</table>
+[郁竹](/ja/people/characters/girl6)の妹で、郁家の次女。出来事は個別ページの[郁宝花](/ja/people/characters/special840)を参照。
 
 ### 郁城
 
-<ChTabs position="bottom">
-    <ChTab title="郁城">
-        <Ch src='/images/characters/special841/normal.webp' position='center'/>
-        <ChName nameZh='郁城' nameEn='Yu Cheng' position='right' />
-    </ChTab>
-    <ChTab title="怒り">
-        <Ch src='/images/characters/special841/angry.webp' position='center'/>
-        <ChName nameZh='怒り' nameEn='Angry' position='right' />
-    </ChTab>
-    <ChTab title="冷や汗">
-        <Ch src='/images/characters/special841/nervous.webp' position='center'/>
-        <ChName nameZh='冷や汗' nameEn='Sweating' position='right' />
-    </ChTab>
-    <ChTab title="落ちぶれ">
-        <Ch src='/images/characters/special841/worn_normal.webp' position='center'/>
-        <ChName nameZh='落ちぶれ' nameEn='Down and Out' position='right' />
-    </ChTab>
-    <ChTab title="落ちぶれ(微笑)">
-        <Ch src='/images/characters/special841/worn_laugh1.webp' position='center'/>
-        <ChName nameZh='落ちぶれ(微笑)' nameEn='Down and Out (Smile)' position='right' />
-    </ChTab>
-    <ChTab title="落ちぶれ(冷や汗)">
-        <Ch src='/images/characters/special841/worn_nervous1.webp' position='center'/>
-        <ChName nameZh='落ちぶれ(冷や汗)' nameEn='Down and Out (Sweat)' position='right' />
-    </ChTab>
-    <ChTab title="落ちぶれ(狼狽)">
-        <Ch src='/images/characters/special841/worn_nervous2.webp' position='center'/>
-        <ChName nameZh='落ちぶれ(狼狽)' nameEn='Down and Out (Panic)' position='right' />
-    </ChTab>
-    <ChTab title="落ちぶれ(気まずい)">
-        <Ch src='/images/characters/special841/worn_nervous3.webp' position='center'/>
-        <ChName nameZh='落ちぶれ(気まずい)' nameEn='Down and Out (Awkward)' position='right' />
-    </ChTab>
-    <ChTab title="落ちぶれ(負傷)">
-        <Ch src='/images/characters/special841/worn_hurt.webp' position='center'/>
-        <ChName nameZh='落ちぶれ(負傷)' nameEn='Down and Out (Injured)' position='right' />
-    </ChTab>
-    <ChTab title="落ちぶれ(負傷・泣き)">
-        <Ch src='/images/characters/special841/worn_hurt_cry.webp' position='center'/>
-        <ChName nameZh='落ちぶれ(負傷・泣き)' nameEn='Down and Out (Injured, Crying)' position='right' />
-    </ChTab>
-</ChTabs>
-
-<table>
-    <tr>
-        <td>郁竹の帰郷</td>
-        <td>郁家の三番目の子で、郁竹の弟。<br>態度は傲慢で横暴、自己中心的な、十二歳ほどの少年。<br>父親を手本としているため小竹にとても冷たく、小竹が贈った機関玩具を見下している。<br>努力せずとも強くなり続ける大侠になりたいと願い、江湖に対して非現実的な幻想を抱いている。</td>
-    </tr>
-    <tr>
-        <td>郁家、崆峒に身を寄せる</td>
-        <td>父親の本性を知り、自分が実は長姉の仕送りで育てられたのだと知ると、小竹への見方がすっかり変わった。<br>一連の不幸に遭った後は、傲慢で横暴な性格が消え、ただ家族を守ることだけを考えるようになった。</td>
-    </tr>
-    <tr>
-        <td>小竹ルート・小梅ルート<br>救援要請</td>
-        <td>小竹と小梅の二人が投獄された後、崆峒を離れ、助けてくれる大侠を探した。<br>江湖の恐ろしい本質と江湖人の偽善を見抜いて塞ぎ込み、もはや武侠の暮らしに憧れなくなった。<br>小竹と次姉を救うため、危険を冒して崆峒を脱出し、金烏の一行に付いて唐門に来て、趙活に助けを求めに向かった。</td>
-    </tr>
-</table>
+[郁竹](/ja/people/characters/girl6)の弟。出来事は個別ページの[郁城](/ja/people/characters/special841)を参照。
 
 ## 崆峒の住民
 

@@ -428,12 +428,12 @@ aside: false
 			</ChTr>
             <ChTr>
 				<ChTd position='center'>
-					[郁宝花](/ja/people/mobs/other#郁宝花) (妹)
+					[郁宝花](/ja/people/characters/special840) (妹)
 				</ChTd>
 			</ChTr>
             <ChTr>
 				<ChTd position='center'>
-					[郁城](/ja/people/mobs/other#郁城) (弟)
+					[郁城](/ja/people/characters/special841) (弟)
 				</ChTd>
 			</ChTr>
             <ChTr>
@@ -742,12 +742,12 @@ aside: false
 
 #### 妹と弟
 
--   <MarkdownWrapper>||妹の[郁宝花](/ja/people/mobs/other#郁宝花)が両親の愛情を独り占めしているのは妬ましいが、それでも[呼延菊](/ja/people/characters/special822)（菊姉さん）や[夏侯蘭](/ja/people/characters/girl5)（蘭姉さん）を見習って、頼れるいい姉になりたいと思っている。||</MarkdownWrapper>
+-   <MarkdownWrapper>||妹の[郁宝花](/ja/people/characters/special840)が両親の愛情を独り占めしているのは妬ましいが、それでも[呼延菊](/ja/people/characters/special822)（菊姉さん）や[夏侯蘭](/ja/people/characters/girl5)（蘭姉さん）を見習って、頼れるいい姉になりたいと思っている。||</MarkdownWrapper>
 -   <MarkdownWrapper>||家族から不公平な扱いを受けても、弟や妹が危ない目に遭えば、やはり身を挺して守る。||</MarkdownWrapper>
--   <MarkdownWrapper>||妹の[郁宝花](/ja/people/mobs/other#郁宝花)は父の言葉を信じ、姉は何不自由ない暮らしをしていながら、家族が貧しい村で苦しむのを冷たく放っておいていると思い込み、深く恨んでいた。||</MarkdownWrapper>
+-   <MarkdownWrapper>||妹の[郁宝花](/ja/people/characters/special840)は父の言葉を信じ、姉は何不自由ない暮らしをしていながら、家族が貧しい村で苦しむのを冷たく放っておいていると思い込み、深く恨んでいた。||</MarkdownWrapper>
     -   <MarkdownWrapper>||のちに真相を知ると、その恨みは後ろめたさに変わった。||</MarkdownWrapper>
     -   <MarkdownWrapper>||それでも宝花は悪いのは父だと決めつけ、姉妹の仲を修復しようとはしなかった。母の代わりに家への手紙を代筆したときも、小竹が帰ってくるとはまるで期待していなかったが、小竹は帰ってきた。||</MarkdownWrapper>
--   <MarkdownWrapper>||弟の[郁城](/ja/people/mobs/other#郁城)は江湖に憧れており、姉が当代きっての名匠だとは知らない。小竹が心を込めて用意したおもちゃには見向きもせず、武器をせがむ。||</MarkdownWrapper>
+-   <MarkdownWrapper>||弟の[郁城](/ja/people/characters/special841)は江湖に憧れており、姉が当代きっての名匠だとは知らない。小竹が心を込めて用意したおもちゃには見向きもせず、武器をせがむ。||</MarkdownWrapper>
     -   <MarkdownWrapper>||小竹は郁城がけがをするのを恐れ、武器を渡そうとしない。||</MarkdownWrapper>
 -   <MarkdownWrapper>||小竹は獄中で妹と弟と仲直りし、唐門へ行って婚約者である義兄[趙活](/ja/people/characters/player)の庇護を求めるよう導いた。||</MarkdownWrapper>
 

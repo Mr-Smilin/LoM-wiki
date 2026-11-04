@@ -21,7 +21,7 @@ tags:
     { name: '邪派組織', tags: ['極楽教', '泥教'] },
     { name: '宮・楼', tags: ['千灯楼', '錦香宮', '火炎山剣閣'] },
     { name: '国家', tags: ['大宋', '大金', '大理', '蒙古'] },
-    { name: 'その他', tags: ['雪山派', '孤雲山派', '杏花林', '耕陽読書斎', '嶺南派', 'その他'] }
+    { name: 'その他', tags: ['雪山派', '孤雲山派', '杏花林', '耕陽読書斎', '嶺南派', '庶民', '立ち絵なし', 'その他'] }
   ]">
 
 <tr>
@@ -41,7 +41,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[唐鹿](/ja/people/characters/other10)</MarkdownWrapper></td>
-	<td>蜀中唐門</td>
+	<td>蜀中唐門<br>立ち絵なし</td>
 	<td></td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[唐芬](/ja/people/characters/other21)</MarkdownWrapper></td>
-	<td>蜀中唐門</td>
+	<td>蜀中唐門<br>立ち絵なし</td>
 	<td></td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[千金叟](/ja/people/characters/other19)</MarkdownWrapper></td>
-	<td>丐幇</td>
+	<td>丐幇<br>立ち絵なし</td>
 	<td></td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[郝大通](/ja/people/characters/other4)</MarkdownWrapper></td>
-	<td>全真派</td>
+	<td>全真派<br>立ち絵なし</td>
 	<td></td>
 </tr>
 <tr>
@@ -246,7 +246,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[孟瞋](/ja/people/characters/other1)</MarkdownWrapper></td>
-	<td>崆峒派 - 鉄拳門</td>
+	<td>崆峒派 - 鉄拳門<br>立ち絵なし</td>
 	<td></td>
 </tr>
 <tr>
@@ -296,7 +296,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[閻羅生](/ja/people/characters/other2)</MarkdownWrapper></td>
-	<td>崆峒派 - 玄功門</td>
+	<td>崆峒派 - 玄功門<br>立ち絵なし</td>
 	<td></td>
 </tr>
 <tr>
@@ -331,7 +331,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[温無畏](/ja/people/characters/other13)</MarkdownWrapper></td>
-	<td>峨嵋派</td>
+	<td>峨嵋派<br>立ち絵なし</td>
 	<td></td>
 </tr>
 <tr>
@@ -368,6 +368,16 @@ tags:
 	<td><MarkdownWrapper>[来新子](/ja/people/characters/other20)</MarkdownWrapper></td>
 	<td>火炎山剣閣</td>
 	<td>/images/avatars/other20.webp</td>
+</tr>
+<tr>
+	<td><MarkdownWrapper>[鉄飛龍](/ja/people/characters/blacksmith4)</MarkdownWrapper></td>
+	<td>火炎山剣閣</td>
+	<td>/images/avatars/blacksmith4.webp</td>
+</tr>
+<tr>
+	<td><MarkdownWrapper>[鉄飛鷹](/ja/people/characters/blacksmith5)</MarkdownWrapper></td>
+	<td>火炎山剣閣</td>
+	<td>/images/avatars/blacksmith5.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[南宮横](/ja/people/characters/special104)</MarkdownWrapper></td>
@@ -420,14 +430,34 @@ tags:
 	<td>/images/avatars/special214.webp</td>
 </tr>
 <tr>
+	<td><MarkdownWrapper>[孟珙](/ja/people/characters/special215)</MarkdownWrapper></td>
+	<td>大宋</td>
+	<td>/images/avatars/special215.webp</td>
+</tr>
+<tr>
 	<td><MarkdownWrapper>[完顔珣](/ja/people/characters/special819)</MarkdownWrapper></td>
 	<td>大金</td>
 	<td>/images/avatars/special819.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[僕散安貞](/ja/people/characters/other6)</MarkdownWrapper></td>
-	<td>大金</td>
+	<td>大金<br>立ち絵なし</td>
 	<td></td>
+</tr>
+<tr>
+	<td><MarkdownWrapper>[裘志攘](/ja/people/characters/special845)</MarkdownWrapper></td>
+	<td>大金</td>
+	<td>/images/avatars/special845.webp</td>
+</tr>
+<tr>
+	<td><MarkdownWrapper>[胡嵩](/ja/people/characters/special844)</MarkdownWrapper></td>
+	<td>大金</td>
+	<td>/images/avatars/special844.webp</td>
+</tr>
+<tr>
+	<td><MarkdownWrapper>[周濁](/ja/people/characters/special843)</MarkdownWrapper></td>
+	<td>大金</td>
+	<td>/images/avatars/special843.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[成吉思汗](/ja/people/characters/special210)</MarkdownWrapper></td>
@@ -436,7 +466,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[李仁友](/ja/people/characters/other7)</MarkdownWrapper></td>
-	<td>極楽教<br>千灯楼</td>
+	<td>極楽教<br>千灯楼<br>立ち絵なし</td>
 	<td></td>
 </tr>
 <tr>
@@ -451,7 +481,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[袁乘風](/ja/people/characters/other11)</MarkdownWrapper></td>
-	<td>極楽教<br>峨嵋派</td>
+	<td>極楽教<br>峨嵋派<br>立ち絵なし</td>
 	<td></td>
 </tr>
 <tr>
@@ -526,12 +556,12 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[楽屏](/ja/people/characters/special810)</MarkdownWrapper></td>
-	<td>その他</td>
+	<td>庶民</td>
 	<td>/images/avatars/special810.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[辛儒](/ja/people/characters/special802)</MarkdownWrapper></td>
-	<td>その他<br>蜀中唐門</td>
+	<td>庶民<br>蜀中唐門</td>
 	<td>/images/avatars/special802.webp</td>
 </tr>
 <tr>
@@ -556,13 +586,38 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[呂翁](/ja/people/characters/special807)</MarkdownWrapper></td>
-	<td>その他</td>
+	<td>庶民</td>
 	<td>/images/avatars/special807.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[江行老](/ja/people/characters/special803)</MarkdownWrapper></td>
-	<td>その他</td>
+	<td>庶民</td>
 	<td>/images/avatars/special803.webp</td>
+</tr>
+<tr>
+	<td><MarkdownWrapper>[小卉](/ja/people/characters/maid1)</MarkdownWrapper></td>
+	<td>庶民</td>
+	<td>/images/avatars/maid1.webp</td>
+</tr>
+<tr>
+	<td><MarkdownWrapper>[郁父](/ja/people/characters/special838)</MarkdownWrapper></td>
+	<td>庶民</td>
+	<td>/images/avatars/special838.webp</td>
+</tr>
+<tr>
+	<td><MarkdownWrapper>[郁母](/ja/people/characters/special839)</MarkdownWrapper></td>
+	<td>庶民</td>
+	<td>/images/avatars/special839.webp</td>
+</tr>
+<tr>
+	<td><MarkdownWrapper>[郁宝花](/ja/people/characters/special840)</MarkdownWrapper></td>
+	<td>庶民</td>
+	<td>/images/avatars/special840.webp</td>
+</tr>
+<tr>
+	<td><MarkdownWrapper>[郁城](/ja/people/characters/special841)</MarkdownWrapper></td>
+	<td>庶民</td>
+	<td>/images/avatars/special841.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[花城四少](/ja/people/characters/group1)</MarkdownWrapper></td>
@@ -590,7 +645,7 @@ tags:
 	<td>/images/avatars/special213.webp</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[段智秀](/ja/people/characters/special833)</MarkdownWrapper></td>
+	<td><MarkdownWrapper>[段智秀](/ja/people/characters/special833)</MarkdownWrapper><br>南宮秀</td>
 	<td>大理<br>点蒼派<br>青城派<br>嶺南派</td>
 	<td>/images/avatars/special833.webp</td>
 </tr>
