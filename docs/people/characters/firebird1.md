@@ -15,7 +15,7 @@ tags:
 <ChTabs position="bottom">
 	<ChTab title="嘎——！">
 		<Ch src='/images/characters/firebird1/normal.webp' position='right'/>
-		<ChName nameZh='火閃電' nameEn='Firebolt' position='right' />
+		<ChName nameZh='火閃電' nameEn='Huo Shan Dian' position='right' />
 		<ChTable>
 			<ChTr>
 				<ChTd isTitle=true>
@@ -49,15 +49,15 @@ tags:
 	</ChTab>
 	<ChTab title="鶴舞">
 		<Ch src='/images/characters/firebird1/attack.webp' position='center'/>
-		<ChName nameZh='火閃電' nameEn='Firebolt' />
+		<ChName nameZh='火閃電' nameEn='Huo Shan Dian' />
 	</ChTab>
 	<ChTab title="小梅服裝">
 		<Ch src='/images/characters/firebird1/special.webp' position='center'/>
-		<ChName nameZh='火閃電' nameEn='Firebolt' />
+		<ChName nameZh='火閃電' nameEn='Huo Shan Dian' />
 	</ChTab>
 	<ChTab title="小梅服裝鶴舞">
 		<Ch src='/images/characters/firebird1/special_attack.webp' position='center'/>
-		<ChName nameZh='火閃電' nameEn='Firebolt' />
+		<ChName nameZh='火閃電' nameEn='Huo Shan Dian' />
 	</ChTab>
 </ChTabs>
             
@@ -111,16 +111,16 @@ tags:
 
 ## 參考&致敬
 -   名字參考致敬《哈利波特》，哈利的飛天掃帚-火閃電（Firebolt）。
-    -   日文翻譯組和製作組確認角色讀音後，火閃電的日文讀音明確為ファイアボルト[^7]，同掃帚火閃電（Firebolt）。
-        -   此為日文翻譯組目前第一個英語系讀音的翻譯。
+    -   日文翻譯組和製作組確認角色讀音後，火閃電的日文讀音曾明確為ファイアボルト[^7]，同掃帚火閃電（Firebolt）。
+        -   此為日文翻譯組目前第一個英語系讀音的翻譯。但該讀音2.5版遭棄用。
     -   [[虞小梅|小梅]]在2025萬聖節賀圖[^4]&巴哈姆特30週年合作賀圖[^5]，造型是魔女，2026萬聖節賀圖乘掃帚飛行[^6]。
 -   [[虞小梅|小梅]]&火閃電的組合，可能來自北宋《夢溪筆談》的「梅妻鶴子」。
 -   [[虞小梅|小梅]]在官方宣傳圖&<EndIcon no="58">某結局</EndIcon>有乘駕火閃電的圖像，可能參考成語「鶴駕西歸」。
 -   武功：飛天&急襲，可能致敬《寶可夢》飛行系經典招式-飛天，免疫傷害&突襲呈現效果一致。
 -   劇情&<BadendIcon :no="107">某死法</BadendIcon>常刻意稱呼火閃電為鳥，而不是鶴，可能致敬製作人之一程式鳥。
 ## 備註
--   本頁面火閃電的英文名，參考製作組確認日文讀音（Firebolt）。
-
+-   火閃電日文翻譯組讀音異動：
+    -   火閃電(v2.3) → ファイアボルト(v2.4) → 火閃電(v2.5) 
 [^1]: 巴哈姆特－[【心得】火閃電是最婆的。進來，我告訴你為什麼](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2167&tnum=5)
 [^2]: 2024/8/5 的[台灣公視活俠直播訪談影片](https://www.youtube.com/watch?v=JkSfhSi3P8w)、[整理文](https://home.gamer.com.tw/artwork.php?sn=5980804)
 [^3]: PTT C 洽－[\[活俠\] 奇怪的小知識](https://www.pttweb.cc/bbs/C_Chat/M.1734956470.A.A0C)
