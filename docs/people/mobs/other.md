@@ -501,179 +501,19 @@ tags:
 
 ### 郁父
 
-<ChTabs position="bottom">
-    <ChTab title="郁父">
-        <Ch src='/images/characters/special838/normal.webp' position='center'/>
-        <ChName nameZh='郁父' nameEn='Yu Fu' position='right' />
-    </ChTab>
-    <ChTab title="微笑">
-        <Ch src='/images/characters/special838/laugh.webp' position='center'/>
-        <ChName nameZh='微笑' nameEn='Smile' position='right' />
-    </ChTab>
-    <ChTab title="大笑">
-        <Ch src='/images/characters/special838/laugh2.webp' position='center'/>
-        <ChName nameZh='大笑' nameEn='Laugh' position='right' />
-    </ChTab>
-    <ChTab title="生氣">
-        <Ch src='/images/characters/special838/angry.webp' position='center'/>
-        <ChName nameZh='生氣' nameEn='Angry' position='right' />
-    </ChTab>
-    <ChTab title="汗顏">
-        <Ch src='/images/characters/special838/nervous.webp' position='center'/>
-        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
-    </ChTab>
-    <ChTab title="憔悴">
-        <Ch src='/images/characters/special838/haggard_normal.webp' position='center'/>
-        <ChName nameZh='憔悴' nameEn='Haggard' position='right' />
-    </ChTab>
-    <ChTab title="憔悴(受傷)">
-        <Ch src='/images/characters/special838/haggard_hurt.webp' position='center'/>
-        <ChName nameZh='憔悴(受傷)' nameEn='Haggard (Injured)' position='right' />
-    </ChTab>
-</ChTabs>
-
-<table>
-    <tr>
-        <td>郁竹返鄉</td>
-        <td>郁竹生父<br>脾氣暴躁且勢利，有暴力、不認錯、大男人主義等傾向。<br>宣稱大女兒郁竹是迷路而離家出走。<br>雖為一家之主，但嗜賭，時常因賭輸造成財務損失，經濟來源重度依賴小竹寄回家的資金。</td>
-    </tr>
-    <tr>
-        <td>郁家投靠崆峒</td>
-        <td>因借據有偽造之嫌，在被追債的壓力下，企圖攜家帶眷投靠郁竹，即便窮困潦倒依舊死性不改，將最後的積蓄投入賭場。<br>為了抵押賭債，甚至私下打算賣掉二女兒郁寶花，遭奪魄門制裁後，才揭露其過往惡行。</td>
-    </tr>
-</table>
+[[郁竹]]的父親。事蹟見個別頁面[[郁父]]。
 
 ### 郁母
 
-<ChTabs position="bottom">
-    <ChTab title="郁母">
-        <Ch src='/images/characters/special839/normal.webp' position='center'/>
-        <ChName nameZh='郁母' nameEn='Yu Mu' position='right' />
-    </ChTab>
-    <ChTab title="汗顏">
-        <Ch src='/images/characters/special839/nervous.webp' position='center'/>
-        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
-    </ChTab>
-    <ChTab title="哭泣">
-        <Ch src='/images/characters/special839/sad.webp' position='center'/>
-        <ChName nameZh='哭泣' nameEn='Cry' position='right' />
-    </ChTab>
-</ChTabs>
-
-<table>
-    <tr>
-        <td>郁竹返鄉</td>
-        <td>郁竹生母<br>性格較懦弱，明知丈夫嗜賭卻無力制止，聽信丈夫言詞認定郁竹是迷路而離家出走。<br>有明顯偏袒心理，一樣是自家孩子卻寧願犧牲大女兒的幸福，去偏愛二女兒和兒子。</td>
-    </tr>
-    <tr>
-        <td>郁家投靠崆峒</td>
-        <td>為了讓一家投靠郁竹，請二女兒郁寶花寫信，請求郁竹返回崆峒。</td>
-    </tr>
-</table>
+[[郁竹]]的母親。事蹟見個別頁面[[郁母]]。
 
 ### 郁寶花
 
-<ChTabs position="bottom">
-    <ChTab title="郁寶花">
-        <Ch src='/images/characters/special840/normal.webp' position='center'/>
-        <ChName nameZh='郁寶花' nameEn='Yu Bao Hua' position='right' />
-    </ChTab>
-    <ChTab title="微笑">
-        <Ch src='/images/characters/special840/laugh1.webp' position='center'/>
-        <ChName nameZh='微笑' nameEn='Smile' position='right' />
-    </ChTab>
-    <ChTab title="汗顏">
-        <Ch src='/images/characters/special840/nervous.webp' position='center'/>
-        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
-    </ChTab>
-    <ChTab title="陰笑">
-        <Ch src='/images/characters/special840/gloomy.webp' position='center'/>
-        <ChName nameZh='陰笑' nameEn='Sinister Smile' position='right' />
-    </ChTab>
-    <ChTab title="哭泣">
-        <Ch src='/images/characters/special840/sad.webp' position='center'/>
-        <ChName nameZh='哭泣' nameEn='Cry' position='right' />
-    </ChTab>
-    <ChTab title="灰心">
-        <Ch src='/images/characters/special840/discouraged.webp' position='center'/>
-        <ChName nameZh='灰心' nameEn='Discouraged' position='right' />
-    </ChTab>
-</ChTabs>
-
-<table>
-    <tr>
-        <td>郁竹返鄉</td>
-        <td>郁竹的二妹。<br>在得到良好教育和寵愛下成長，形象上是知書達禮的清秀女子。<br>遺傳父親勢利的本性，渴望攀權富貴，嫉妒郁竹生活條件優沃。<br>在得知郁竹的未婚夫是有錢有勢的公子哥時，企圖捨棄婚約改嫁郁竹的未婚夫。</td>
-    </tr>
-    <tr>
-        <td>郁家投靠崆峒</td>
-        <td>父親為了抵押賭債，私下打算賣掉自己，才得知其真面目，知曉鐵拳門嫡傳女弟子從缺後，企圖篡位遞補空缺。</td>
-    </tr>
-    <tr>
-        <td>小竹線<br>探監</td>
-        <td>以第一掌派候選人的名目，威逼利誘守衛而得以探監。<br>雖稱嫉妒大姐且感情不和，探監意圖純屬不懷好意，實際上是為欺騙守衛的精湛演技。<br>攜帶郁竹鐵匠鋪如長柄鉗等大量的工具，試圖破壞腳鏈協助逃獄，最後因腳鏈過於強韌而無功而返。</td>
-    </tr>
-</table>
+[[郁竹]]的二妹。事蹟見個別頁面[[郁寶花]]。
 
 ### 郁城
 
-<ChTabs position="bottom">
-    <ChTab title="郁城">
-        <Ch src='/images/characters/special841/normal.webp' position='center'/>
-        <ChName nameZh='郁城' nameEn='Yu Cheng' position='right' />
-    </ChTab>
-    <ChTab title="生氣">
-        <Ch src='/images/characters/special841/angry.webp' position='center'/>
-        <ChName nameZh='生氣' nameEn='Angry' position='right' />
-    </ChTab>
-    <ChTab title="汗顏">
-        <Ch src='/images/characters/special841/nervous.webp' position='center'/>
-        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
-    </ChTab>
-    <ChTab title="落魄">
-        <Ch src='/images/characters/special841/worn_normal.webp' position='center'/>
-        <ChName nameZh='落魄' nameEn='Down and Out' position='right' />
-    </ChTab>
-    <ChTab title="落魄(微笑)">
-        <Ch src='/images/characters/special841/worn_laugh1.webp' position='center'/>
-        <ChName nameZh='落魄(微笑)' nameEn='Down and Out (Smile)' position='right' />
-    </ChTab>
-    <ChTab title="落魄(汗)">
-        <Ch src='/images/characters/special841/worn_nervous1.webp' position='center'/>
-        <ChName nameZh='落魄(汗)' nameEn='Down and Out (Sweat)' position='right' />
-    </ChTab>
-    <ChTab title="落魄(驚慌)">
-        <Ch src='/images/characters/special841/worn_nervous2.webp' position='center'/>
-        <ChName nameZh='落魄(驚慌)' nameEn='Down and Out (Panic)' position='right' />
-    </ChTab>
-    <ChTab title="落魄(尷尬)">
-        <Ch src='/images/characters/special841/worn_nervous3.webp' position='center'/>
-        <ChName nameZh='落魄(尷尬)' nameEn='Down and Out (Awkward)' position='right' />
-    </ChTab>
-    <ChTab title="落魄(受傷)">
-        <Ch src='/images/characters/special841/worn_hurt.webp' position='center'/>
-        <ChName nameZh='落魄(受傷)' nameEn='Down and Out (Injured)' position='right' />
-    </ChTab>
-    <ChTab title="落魄(受傷哭)">
-        <Ch src='/images/characters/special841/worn_hurt_cry.webp' position='center'/>
-        <ChName nameZh='落魄(受傷哭)' nameEn='Down and Out (Injured, Crying)' position='right' />
-    </ChTab>
-</ChTabs>
-
-<table>
-    <tr>
-        <td>郁竹返鄉</td>
-        <td>郁竹的三弟。<br>態度傲慢跋扈和自我中心，年紀約十二歲的少年。<br>以父親為榜樣，也因此對小竹非常不友善，瞧不起小竹贈送的機關玩具。<br>渴望成為不用努力也能不斷變強的大俠，對江湖保持不切實際的幻想。</td>
-    </tr>
-    <tr>
-        <td>郁家投靠崆峒</td>
-        <td>得知父親其真面目後，因知曉自己其實是被大姐的經濟支援養大，而對小竹完全改觀。<br>遭遇一連串不幸後，性格不再傲慢跋扈，一心只想守護家人。</td>
-    </tr>
-    <tr>
-        <td>小竹線&小梅線<br>求救</td>
-        <td>小竹小梅兩人被捕入獄後，離開崆峒尋求願意出手相助的大俠。<br>看透了江湖的恐怖本質與江湖人的虛偽而變得鬱鬱寡歡，不再嚮往武俠生活。<br>為營救小竹及二姐，犯險逃出崆峒，隨金烏的隊伍來到唐門，找趙活求救前往。</td>
-    </tr>
-</table>
+[[郁竹]]的三弟。事蹟見個別頁面[[郁城]]。
 
 ## 崆峒居民
 
