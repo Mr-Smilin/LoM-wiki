@@ -70,6 +70,11 @@ tags:
 	<td>/images/avatars/girl0.webp</td>
 </tr>
 <tr>
+	<td><MarkdownWrapper>[唐芬](/ja/people/characters/other21)</MarkdownWrapper></td>
+	<td>蜀中唐門</td>
+	<td></td>
+</tr>
+<tr>
 	<td><MarkdownWrapper>[唐芳](/ja/people/characters/special832)</MarkdownWrapper></td>
 	<td>蜀中唐門</td>
 	<td>/images/avatars/special832.webp</td>
@@ -80,7 +85,7 @@ tags:
 	<td>/images/avatars/aunt2.webp</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[唐嬌嬌](/ja/people/characters/big_trainee_girl_1)</MarkdownWrapper><br>(狄傲)</td>
+	<td><MarkdownWrapper>[唐嬌嬌](/ja/people/characters/big_trainee_girl_1)</MarkdownWrapper><br>狄傲</td>
 	<td>峨嵋派<br>蜀中唐門</td>
 	<td>/images/avatars/big_trainee_girl_1.webp</td>
 </tr>
@@ -230,7 +235,7 @@ tags:
 	<td>/images/avatars/trainee204.webp</td>
 </tr>
 <tr>
-	<td><MarkdownWrapper>[孔鵲](/ja/people/characters/trainee431)</MarkdownWrapper></td>
+	<td><MarkdownWrapper>[孔鵲](/ja/people/characters/trainee431)</MarkdownWrapper><br>顔嫂</td>
 	<td>崆峒派 - 飛天門</td>
 	<td>/images/avatars/trainee431.webp</td>
 </tr>

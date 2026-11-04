@@ -677,7 +677,7 @@ aside: false
 [^6]: Facebook - [オリジナル鳥熊2023/8/22](https://www.facebook.com/obbstudio/posts/pfbid06P9XSSoB9zaqws972XaHpJ5sXynEpiUkp9i1QS1nDEWdTRXxENnw761tbxKCS16Al)
 [^7]: Facebook - [オリジナル鳥熊2024/6/1](https://www.facebook.com/obbstudio/posts/pfbid02DWHjzPLdRguLBns6wSeWRQUC1DcNr4nRNhgGfytbghiHANhircvTyAGndWyktv5Dl)
 [^8]: PTT - [\[活俠\] 雲裳：我不念ㄔㄤˊ我念ㄕㄤ啦](https://www.ptt.cc/bbs/C_Chat/M.1757573965.A.CC3.html)
-[^9]: [専訪鳥熊鼠虫 129題訪談](/ja/other/qna/interview-129)の第5篇
+[^9]: バハムート - [【文字専訪】専訪鳥熊鼠虫~129題超長訪談 Q8-1](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=15502)（サイト内まとめ：[専訪鳥熊鼠虫 129題訪談](/ja/other/qna/interview-129#q8-1-雲裳と晁和の公式読音)）
 
 ## ギャラリー
 

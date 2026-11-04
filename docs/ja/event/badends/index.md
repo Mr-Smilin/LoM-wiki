@@ -893,7 +893,15 @@ tags:
             -
         </td>
         <td>
-            第三年一月上旬に唐布衣と下山し、街へ戻る途中で鍛冶屋との決闘に敗北する（<Girl3Icon>小梅</Girl3Icon>が唐門に加わっていないことが必要）
+            <li>
+                🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学し、
+                🚩<MarkdownWrapper>[崆峒派への留学](/ja/event/simple/2-03-1-崆峒留學)</MarkdownWrapper>で飛天門に入門。<br>
+                🚩<MarkdownWrapper>[鶴が外出する](/ja/event/simple/2-03-2-鶴手出遊)</MarkdownWrapper>で<Girl3Icon>虞小梅</Girl3Icon>と知り合い、好感≥30 で
+                2年目7月中旬に<MarkdownWrapper>[「横暴な虞小梅」](/ja/event/simple/2-07-2-惡霸虞小梅)</MarkdownWrapper>が自動発動する。<br>
+                イベント中の<MarkdownWrapper>[「翟老漢の登場」](/ja/event/simple/2-07-2-惡霸虞小梅#翟老漢登場)</MarkdownWrapper>で
+                【🎲≥50 「証拠はあるが、やっぱり殴って吐かせる」いつもの小梅】を引き、続く決闘で敗北する。
+            </li>
+            <li>3年目1月上旬に唐布衣と下山し、街へ戻る途中で鍛冶屋との決闘に敗北する（<Girl3Icon>小梅</Girl3Icon>が唐門に加わっていないことが必要）</li>
         </td>
         <td>
             -
@@ -2760,8 +2768,24 @@ tags:
             悪人は悪事を働いても眉一つ動かさない。
         </td>
         <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派に留学</li>
+            <li>🚩神兵帖の進行度=1 (<MarkdownWrapper>[神兵会の招待状](/ja/event/simple/2-05-3-神兵會請帖)</MarkdownWrapper>を参照)</li>
+            <li>🚩郁竹に無視された回数 (備考を参照) ≥2 になる</li>
+            <li>その旬のうちに自分から鉄拳巷へ行って<MarkdownWrapper>[「郁竹の悩み」](/ja/event/simple/2-05-3-郁竹的煩惱)</MarkdownWrapper>を発生させない</li>
+            <li>
+                翌旬の行動回数≤2 のときに<MarkdownWrapper>[「崆峒の神雷剣」](/ja/event/simple/2-06-1-崆峒神雷劍)</MarkdownWrapper>が自動で発動し、<br>
+                イベント中のダイスで【🎲＜30 「わっ！！」】を引く
+            </li>
+        </td>
+        <td>
+            <li>
+                🚩郁竹に無視された回数:<br>
+                🚩<MarkdownWrapper>[「郁竹が神兵鍛造を決意」](/ja/event/simple/2-05-3-神兵會請帖#神兵會請帖)</MarkdownWrapper>の発生後、<br>
+                <MarkdownWrapper>[養成コマンド](/ja/system/training/)</MarkdownWrapper>の「鉄拳巷・鍛冶」に<br>
+                加わる「郁竹の鍛剣」イベントで増える。
+            </li>
+        </td>
     </tr>
     <tr>
         <td id="生死簿-No.113">
