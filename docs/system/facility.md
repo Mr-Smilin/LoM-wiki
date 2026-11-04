@@ -19,7 +19,7 @@ tags:
         <td>備註</td>
     </tr>
     <tr>
-        <td colspan = 2>修整唐家大院</td>
+        <td colspan = 2 id = "修整唐家大院">修整唐家大院</td>
         <td>
             門派規模一<br>
             名聲≥5<br>
@@ -33,7 +33,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td colspan = 2>擴展門派規模</td>
+        <td colspan = 2 id = "擴展門派規模">擴展門派規模</td>
         <td>
             門派規模二<br>
             名聲≥15<br>
@@ -49,7 +49,7 @@ tags:
     </tr>
     <tr>
         <td rowspan = 5>建<br>設<br></td>
-        <td>溫泉</td>
+        <td id = "溫泉">溫泉</td>
         <td>門派規模三</td>
         <td>貢獻-30<br>門派資產-100<br></td>
         <td>門派資產+30/旬<br>
@@ -59,7 +59,7 @@ tags:
         <td>可解生死簿69、70</td>
     </tr>
     <tr>
-        <td>藥舖</td>
+        <td id = "藥舖">藥舖</td>
         <td>
             門派規模≥二<br>
             技能「醫術」≥1<br>
@@ -73,7 +73,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>茶肆</td>
+        <td id = "茶肆">茶肆</td>
         <td>門派規模≥二</td>
         <td>貢獻-30<br>門派資產-100<br></td>
         <td>
@@ -84,7 +84,7 @@ tags:
         <td>可解生死簿18</td>
     </tr>
     <tr>
-        <td>義田</td>
+        <td id = "義田">義田</td>
         <td>門派規模三</td>
         <td>貢獻-30<br>門派資產-300<br></td>
         <td>
@@ -95,7 +95,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>外堡</td>
+        <td id = "外堡">外堡</td>
         <td>
             門派規模≥二<br>
             名聲≥15<br>
@@ -111,7 +111,7 @@ tags:
     </tr>
     <tr>
         <td rowspan = 6>開<br>發<br></td>
-        <td>機關馬桶</td>
+        <td id = "機關馬桶">機關馬桶</td>
         <td>門派規模二<br></td>
         <td>貢獻-15</td>
         <td>
@@ -122,7 +122,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>偷油婆株<br>殺三族藥</td>
+        <td id = "偷油婆株殺三族藥">偷油婆株<br>殺三族藥</td>
         <td>
             全煉丹點數≥40<br>
             道德＜60<br>
@@ -132,7 +132,7 @@ tags:
         <td>AKA殺蟑蟑藥</td>
     </tr>
     <tr>
-        <td>殺人毛筆</td>
+        <td id = "殺人毛筆">殺人毛筆</td>
         <td>
             全鍛冶點數≥45<br>
             唐陞好感≥20<br>
@@ -142,7 +142,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>唐門牙粉</td>
+        <td id = "唐門牙粉">唐門牙粉</td>
         <td>
             全煉丹點數≥35<br>
             修養≥60<br>
@@ -156,7 +156,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>變重石鎖</td>
+        <td id = "變重石鎖">變重石鎖</td>
         <td>
             全鍛造點數≥40<br>
             體力≥40<br>
@@ -166,7 +166,7 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td>機關撲滿</td>
+        <td id = "機關撲滿">機關撲滿</td>
         <td></td>
         <td>貢獻-15</td>
         <td>銀兩+500、道德-1、名聲+1、<br>唐惟元好感-1、宋悲好感-1</td>
