@@ -906,7 +906,7 @@ tags:
                 <Girl3Icon>虞小梅</Girl3Icon>好感≥30，
                 第二年七月中旬自動觸發<MarkdownWrapper>[「惡霸虞小梅」](/event/simple/2-07-2-惡霸虞小梅)</MarkdownWrapper>。<br>
                 事件中<MarkdownWrapper>[「翟老漢登場」](/event/simple/2-07-2-惡霸虞小梅#翟老漢登場)</MarkdownWrapper>後，
-                選擇👉「我要打他」，且擲骰到【🎲≥50 平常小梅】，觸發對決後落敗。
+                擲骰到【🎲≥50 平常小梅】，觸發對決後落敗。
             </li>
             <li>第三年一月上旬，與大師兄下山，回城的時候與鐵匠決鬥戰敗。（需要<Girl3Icon>小梅</Girl3Icon>沒有加入唐門)</li>
         </td>
@@ -2771,7 +2771,7 @@ tags:
         <td>
             <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
             <li>🚩造訪鐵拳巷次數≥4</li>
-            <li><Girl6Icon>郁竹</Girl6Icon>好感≥20</li>
+            <li><Girl6Icon>郁竹</Girl6Icon>好感≥25</li>
             <li>🚩<MarkdownWrapper>[神兵帖進度](/event/simple/2-05-3-神兵帖系列事件)</MarkdownWrapper>=0</li>
             <li>第二年五月下旬至六月中旬間，點選「鐵拳巷」指令觸發<MarkdownWrapper>[「神兵會請帖」](/event/simple/2-05-3-神兵會請帖)</MarkdownWrapper>事件</li>
             <li>事件中，觸發🆚「戰鐵匠」後對決落敗</li>
