@@ -365,7 +365,7 @@ tags:
     <td style="text-align: center">中</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            惡霸虞小梅<br>
+            [惡霸虞小梅](/event/simple/2-07-2-惡霸虞小梅)<br>
         </MarkdownWrapper>
     </td>
     <td colspan = 3 style="text-align: center">-</td>
