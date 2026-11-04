@@ -1,0 +1,78 @@
+---
+title: 孟珙
+aside: false
+outline: [2, 3]
+sidebar: false
+borderless: false
+tags:
+    - 人物
+    - 大宋
+---
+
+# {{ $frontmatter.title }}
+
+::: info 施工中
+本頁還在施工中，內容尚未完成。
+:::
+
+<ChTabs position="bottom">
+    <ChTab title="初識">
+        <ChMeet
+            src='/images/characters/special215/normal.webp'
+            nameTitle=''
+            nameMain='孟珙'
+            desc='荊鄂都統制兼知棗陽軍孟宗政諸子之一。<br>熟讀兵書，年少有成，以軍功補授進勇副尉，隸屬京湖制置使麾下，與道法將軍俱為趙方座下猛將。<br>與孟仙謠是同父不同母的兄妹關係。'
+            :animation=true
+        />
+    </ChTab>
+    <ChTab title="微笑">
+        <Ch src='/images/characters/special215/laugh1.webp' position='center'/>
+        <ChName nameZh='微笑' nameEn='Smile' position='right' />
+    </ChTab>
+    <ChTab title="汗顏">
+        <Ch src='/images/characters/special215/nervous1.webp' position='center'/>
+        <ChName nameZh='汗顏' nameEn='Sweating' position='right' />
+    </ChTab>
+</ChTabs>
+<br>
+
+<InfoList>
+    <Info title='角色資料' :open=true>
+        <table>
+            <ChTr>
+                <ChTd isTitle=true>
+                    性別
+                </ChTd>
+                <ChTd>
+                    男
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd isTitle=true position='center'>
+                    關係
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[孟仙謠]] (同父異母的妹妹)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[趙方]] (上司)
+                </ChTd>
+            </ChTr>
+            <ChTr>
+                <ChTd position='center'>
+                    [[丹霞子]] (同袍)
+                </ChTd>
+            </ChTr>
+        </table>
+    </Info>
+</InfoList>
+
+<br><br>
+
+荊鄂都統制兼知棗陽軍孟宗政諸子之一。  
+熟讀兵書，年少有成，以軍功補授進勇副尉，隸屬京湖制置使麾下，與道法將軍[[丹霞子]]俱為[[趙方]]座下猛將。  
+與[[孟仙謠]]是同父不同母的兄妹關係。
