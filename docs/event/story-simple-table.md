@@ -463,7 +463,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
 			[崆峒派抵江陵](/event/simple/2-09-2-崆峒派抵江陵)<br>
-            郁竹在江陵<br>
+            [郁竹在江陵](/event/simple/2-09-2-郁竹在江陵)<br>
         </MarkdownWrapper>
     </td>
     <td style="text-align: center">-</td>
