@@ -682,7 +682,7 @@ tags:
 			</td>
 			<td>
                 <MarkdownWrapper>
-				    [正心修身](/event/simple/3-02-1-正心修身)<br>
+				    [正心修身](/event/simple/3-02-2-正心修身)<br>
 				</MarkdownWrapper>    
             </td>
 			<td>-</td>
