@@ -678,10 +678,13 @@ tags:
                     [一波暫平](/event/simple/3-02-1-一波暫平)<br>
                     郁竹的家書<br>
                     梅竹辭別<br>
-				    [正心修身](/event/simple/3-02-1-正心修身)<br>
 				</MarkdownWrapper>
 			</td>
-			<td>-</td>
+			<td>
+                <MarkdownWrapper>
+				    [正心修身](/event/simple/3-02-1-正心修身)<br>
+				</MarkdownWrapper>    
+            </td>
 			<td>-</td>
 		</tr>
 		<tr>
