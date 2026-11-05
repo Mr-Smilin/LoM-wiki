@@ -10,10 +10,6 @@ tags:
 
 # {{ $frontmatter.title }}
 
-::: info 施工中
-本頁還在施工中，內容尚未完成。
-:::
-
 <ChTabs position="bottom">
     <ChTab title="郁城">
         <Ch src='/images/characters/special841/normal.webp' position='right'/>
