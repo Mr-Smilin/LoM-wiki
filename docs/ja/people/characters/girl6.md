@@ -680,14 +680,14 @@ aside: false
 -   [雷謙](/ja/people/characters/special804)（雷掌門）が怪談話を好むせいで、幽霊が大の苦手である。
 -   <MarkdownWrapper>||雷謙は大雑把な男だが、人柄は正直で、この女弟子をとても可愛がっており、法を破って密かに小竹を帰郷させたことが何度もある。||</MarkdownWrapper>
     -   <MarkdownWrapper>||気の荒い前掌門のもとでは小竹がいずれ殴り殺されると思い、小竹が家へ逃げ帰ろうとしたときは見て見ぬふりをした。||</MarkdownWrapper>
-    -   <MarkdownWrapper>||江陵包囲戦では、小竹が崆峒に戻って辛い思いをしないようにと願い、小竹が戦死したと偽って報告した。さらに江陵にいる地護法の[童大虫](/ja/people/characters/trainee214)に「一人を殺せ」と書き送り、小竹を鉄拳門から破門させた。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||江陵包囲戦では、小竹が崆峒に戻って辛い思いをしないようにと願い、小竹が戦死したと偽って報告した。さらに江陵にいる地護法の[童大虫](/ja/people/characters/trainee214)に「一人殺してくれ」と書き送って小竹を鉄拳門から破門させた。||</MarkdownWrapper>
     -   <MarkdownWrapper>||小竹の家族が崆峒に身を寄せに来たことに激怒し、小竹が家族のために崆峒へ戻って苦労していることには、さらに怒りを燃やしている。||</MarkdownWrapper>
 
 ### 魏菊
 
 -   小竹は幼い頃から学ぶ機会がなく、こっそり[魏菊](/ja/people/characters/girl7)に読み書きの指導を頼んでいる。
 -   <MarkdownWrapper>||嫡伝女弟子が二人きりで会うのがどれほど危ういことか、まるで気づいていない。ただ、[魏菊](/ja/people/characters/girl7)も喜んで教えている。||</MarkdownWrapper>
--   [魏菊](/ja/people/characters/girl7)は生涯で知る中で最も輝いている女性なので、身分をでっち上げるときに、自分を魏掌門の耕陽書斎の同窓だと言った。
+-   [魏菊](/ja/people/characters/girl7)をこれまでに出会った中で最も眩しい女性だと思っており、素性を偽った際には、耕陽読書斎での魏掌門の同窓だと名乗った。
 
 ### 夏侯蘭
 

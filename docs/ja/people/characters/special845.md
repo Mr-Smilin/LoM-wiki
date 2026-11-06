@@ -35,7 +35,7 @@ tags:
             </ChTr>
             <ChTr>
                 <ChTd position='center'>
-                    <MarkdownWrapper>[丁承烈](/ja/people/characters/special214)</MarkdownWrapper> (元教頭)
+                    <MarkdownWrapper>[丁承烈](/ja/people/characters/special214)</MarkdownWrapper> (かつての教え子)
                 </ChTd>
             </ChTr>
             <ChTr>

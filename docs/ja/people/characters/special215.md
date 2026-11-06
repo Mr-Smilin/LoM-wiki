@@ -82,7 +82,7 @@ tags:
 ### 豪放で友好的
 
 -   妹の[孟仙謡](/ja/people/characters/special831)が傲慢で横暴な性格だと知っており、自ら進み出て止め、客人に詫びるよう求める。
--   [趙活](/ja/people/characters/player)と[虞小梅](/ja/people/characters/girl3)が友人の[丹霞子](/ja/people/characters/special404)の師弟だと知り、自ら進んで宴席でもてなす。
+-   [趙活](/ja/people/characters/player)と[虞小梅](/ja/people/characters/girl3)が友人の[丹霞子](/ja/people/characters/special404)の弟弟子・妹弟子だと知り、自ら進んで宴席でもてなす。
 -   生死を達観し、辺境を固く守り、国と民のために尽くす。
 -   [趙活](/ja/people/characters/player)が[唐門](/ja/people/factions/tang-men)の出だと知り、自分の馬を贈って道中を急がせる。
 
@@ -93,7 +93,7 @@ tags:
 
 ## 兵法
 
--   一騎打ちに対し、田忌の競馬（田忌賽馬）にならい、上等の馬を相手の下等の馬に当てて最大の勝算を取ることを提案する。
+-   一騎打ちに対し、『史記』の故事「田忌の競馬」（田忌賽馬）にならい、自軍の上駟を相手の下駟にぶつけて最大の勝算を得る策を提案する。
 
 ## 好感度
 
