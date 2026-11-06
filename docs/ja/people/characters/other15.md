@@ -39,7 +39,7 @@ tags:
 [火炎山剣閣](/ja/people/factions/mount-fire-palace)の総炉鍛長。[南宮深](/ja/people/characters/special102)と良友。
 
 ## 鉄剣令の贈呈
-- 武林大会へ向かう[趙活](/ja/people/characters/player)と[郁竹](/ja/people/characters/girl6)の道中で、かつて鉄氏兄弟がかけた迷惑を詫び、罪滅ぼしとして鉄剣令を贈る。
+- 武林大会へ向かう[趙活](/ja/people/characters/player)と[郁竹](/ja/people/characters/girl6)の道中で、[鉄飛龍](/ja/people/characters/blacksmith4)と[鉄飛鷹](/ja/people/characters/blacksmith5)がかけた迷惑を詫び、罪滅ぼしとして鉄剣令を贈る。
 ### 鉄剣令の効果
 - [火炎山剣閣](/ja/people/factions/mount-fire-palace)の全員に作業を止めさせ、注文を1件だけ最優先で打たせることができる。代金は2割引になる。
     - 無料ではなく割引にとどめているのは品質を保証するためであり、[火炎山剣閣](/ja/people/factions/mount-fire-palace)の職人が粗製乱造でお茶を濁すのを防ぐ狙いがある。

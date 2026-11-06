@@ -85,15 +85,15 @@ tags:
 <br><br>
 [趙活](/ja/people/characters/player)は崆峒派留学中、彼に良く思われておらず、顔を合わせれば嘲られるか、怒った顔で威嚇されるかだった。
 <br><br>
-[小梅](/ja/people/characters/girl3)に密かに想いを寄せているが、掌派人の座を狙う気はなく、その想いを断ち切るために早々と所帯を持った。
+[虞小梅](/ja/people/characters/girl3)に密かに想いを寄せているが、掌派人の座を狙う気はなく、その想いを断ち切るために早々と所帯を持った。
 
 ## 人間関係
 
 -   水護法の[余麟](/ja/people/characters/trainee224)とは、顔を合わせれば殴り合うか口喧嘩するかである。
--   [小梅](/ja/people/characters/girl3)は、かつて[火龍仙君](/ja/people/characters/special204)に告げ口されたことを根に持っており、腕で敵わないのでなければ、とっくに階段から突き落としている。
+-   [虞小梅](/ja/people/characters/girl3)は、かつて[火龍仙君](/ja/people/characters/special204)に告げ口されたことを根に持っており、腕で敵わないのでなければ、とっくに階段から突き落としている。
 -   [金烏上人](/ja/people/characters/special207)に頼まれて、留学に来た南宮家の次男・[南宮浅](/ja/people/characters/special103)を指導するが、その態度にすぐ腹を立て、[趙活](/ja/people/characters/player)に八つ当たりする。
--   妻の孔鵲とは結婚して間もなく寝室を分け、妻は毎日のように離縁を迫っている。
--   [虞小梅](/ja/people/characters/girl3)の「奥さんが包丁を持ってすごい剣幕でこっちに来るよ！」という嘘にだまされるあたり、夫婦仲はかなり険悪らしい。
+-   妻の[孔鵲](/ja/people/characters/trainee431)とは結婚して間もなく寝室を分け、妻は毎日のように離縁を迫っている。
+-   [虞小梅](/ja/people/characters/girl3)の「[孔鵲](/ja/people/characters/trainee431)さんが包丁を持ってすごい剣幕でこっちに来るよ！」という嘘にだまされるあたり、夫婦仲はかなり険悪らしい。
 -   [瑞笙](/ja/people/characters/special999)とは少し付き合いがあり、牢に入った瑞笙の保釈金を払ってやることがある。
 
 ## 備考

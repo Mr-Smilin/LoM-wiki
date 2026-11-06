@@ -51,7 +51,7 @@ tags:
 <br><br>
 二十数年前[青城論道](/ja/event/stories/青城論道)に参加したことがある。
 <br><br>
-デモ版では[趙活](/ja/people/characters/player)、[瑞杏](/ja/people/characters/girl1)と共に[成吉思汗](/ja/people/characters/special210)の大幕で長生不老の法について談じた。
+救いようのないルート（デモ版）では[趙活](/ja/people/characters/player)、[瑞杏](/ja/people/characters/girl1)と共に[成吉思汗](/ja/people/characters/special210)の大幕で長生不老の法について談じた。
 <br><br>
 正式版には現時点で出番が全くないが、「天下第一人」として、登場人物たちの口にのぼることが多い。
 
@@ -67,7 +67,9 @@ tags:
 -   字は通密、道号は長春子。
 -   山東棲霞の人。金末・モンゴルの全真道の道士で、王重陽の後を継いで道教の宣揚に努め、全真教を大いに興隆させた鍵となる人物。
 -   金の世宗・章宗・衛紹王・宣宗（[完顔珣](/ja/people/characters/special819)）、そして[成吉思汗](/ja/people/characters/special210)から敬われた。
--   遠く西域へ赴き[成吉思汗](/ja/people/characters/special210)に「上は帝王から下は庶民に至るまで、尊卑は異なれど、性命は皆同じ」と諫言し、殺戮を思いとどまらせたことで知られる。
+    -   遠く西域へ赴き[成吉思汗](/ja/people/characters/special210)に「上は帝王から下は庶民に至るまで、尊卑は異なれど、性命は皆同じ」と諫言し、殺戮を思いとどまらせたことで知られる。
+        -   丘処機の[成吉思汗](/ja/people/characters/special210)への説得は、モンゴル帝国が金を攻めた際の殺戮と破壊を減らし、<br>当時すでに人々から高く評価されていた。また全真道は当時最も栄えた宗教となった。
+        -   乾隆帝は対聯を作り、「万古長生、霞を食らって秘訣を求める用なし。一言殺を止め、始めて知る世を済うに奇功あるを」と詠んだ。
 -   道教史・信仰の上では、全真道の「北七真」の一人、また龍門派の祖師として奉られている。
 -   元の世祖は「長春演道主教真人」の号を贈り、元の武宗は「長春全徳神化明応真君」を加封した。
 
@@ -76,5 +78,6 @@ tags:
 -   [成吉思汗](/ja/people/characters/special210)
 -   [尹志平](/ja/people/characters/special205)
 -   [趙方](/ja/people/characters/soldier31)
--   孟珙
+-   [孟珙](/ja/people/characters/special215)
 -   [完顔珣](/ja/people/characters/special819)
+-   [福韞](/ja/people/characters/special206)（福裕を参考にしたのかもしれない）

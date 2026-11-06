@@ -449,7 +449,8 @@ tags:
     <td style="text-align: center">中</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-			郁竹、江陵に着く<br>
+			[崆峒派、江陵に到着](/ja/event/simple/2-09-2-崆峒派抵江陵)<br>
+            [江陵の郁竹](/ja/event/simple/2-09-2-郁竹在江陵)<br>
         </MarkdownWrapper>
     </td>
     <td style="text-align: center">-</td>
@@ -652,10 +653,13 @@ tags:
                     [一時の平穏](/ja/event/simple/3-02-1-一波暫平)<br>
                     郁竹の家書<br>
                     梅竹の別れ<br>
-				    [正心修身](/ja/event/simple/3-02-1-正心修身)<br>
 				</MarkdownWrapper>
 			</td>
-			<td>-</td>
+			<td>
+                <MarkdownWrapper>
+				    [正心修身](/ja/event/simple/3-02-2-正心修身)<br>
+				</MarkdownWrapper>
+            </td>
 			<td>-</td>
 		</tr>
 		<tr>

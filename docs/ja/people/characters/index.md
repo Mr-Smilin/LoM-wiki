@@ -21,7 +21,7 @@ tags:
     { name: '邪派組織', tags: ['極楽教', '泥教'] },
     { name: '宮・楼', tags: ['千灯楼', '錦香宮', '火炎山剣閣'] },
     { name: '国家', tags: ['大宋', '大金', '大理', '蒙古'] },
-    { name: 'その他', tags: ['雪山派', '孤雲山派', '杏花林', '耕陽読書斎', '嶺南派', '庶民', '立ち絵なし', 'その他'] }
+    { name: 'その他', tags: ['雪山派', '孤雲山派', '杏花林', '耕陽読書斎', '嶺南派', '市井の人', '立ち絵なし', 'その他'] }
   ]">
 
 <tr>
@@ -556,12 +556,12 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[楽屏](/ja/people/characters/special810)</MarkdownWrapper></td>
-	<td>庶民</td>
+	<td>市井の人</td>
 	<td>/images/avatars/special810.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[辛儒](/ja/people/characters/special802)</MarkdownWrapper></td>
-	<td>庶民<br>蜀中唐門</td>
+	<td>市井の人<br>蜀中唐門</td>
 	<td>/images/avatars/special802.webp</td>
 </tr>
 <tr>
@@ -586,37 +586,37 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[呂翁](/ja/people/characters/special807)</MarkdownWrapper></td>
-	<td>庶民</td>
+	<td>市井の人</td>
 	<td>/images/avatars/special807.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[江行老](/ja/people/characters/special803)</MarkdownWrapper></td>
-	<td>庶民</td>
+	<td>市井の人</td>
 	<td>/images/avatars/special803.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[小卉](/ja/people/characters/maid1)</MarkdownWrapper></td>
-	<td>庶民</td>
+	<td>市井の人</td>
 	<td>/images/avatars/maid1.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[郁父](/ja/people/characters/special838)</MarkdownWrapper></td>
-	<td>庶民</td>
+	<td>市井の人</td>
 	<td>/images/avatars/special838.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[郁母](/ja/people/characters/special839)</MarkdownWrapper></td>
-	<td>庶民</td>
+	<td>市井の人</td>
 	<td>/images/avatars/special839.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[郁宝花](/ja/people/characters/special840)</MarkdownWrapper></td>
-	<td>庶民</td>
+	<td>市井の人</td>
 	<td>/images/avatars/special840.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[郁城](/ja/people/characters/special841)</MarkdownWrapper></td>
-	<td>庶民</td>
+	<td>市井の人</td>
 	<td>/images/avatars/special841.webp</td>
 </tr>
 <tr>
