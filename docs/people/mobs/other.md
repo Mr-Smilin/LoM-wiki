@@ -572,7 +572,7 @@ tags:
 
 ### 猴子
 
-<img src="" style="width:200px;" />
+<img src="/images/mobs/animals/monkey.webp" style="width:200px;" />
 <table>
     <tr>
         <td>峨嵋留學夢境</td>
@@ -582,13 +582,22 @@ tags:
 
 ### 馬
 
-<img src="" style="width:200px;" />
+<ChTabs position="bottom">
+    <ChTab title="馬">
+        <Ch src='/images/mobs/animals/horse.webp' position='center'/>
+        <ChName nameZh='馬' nameEn='Horse' position='right' />
+    </ChTab>
+    <ChTab title="孟珙的馬">
+        <Ch src='/images/mobs/animals/horse2.webp' position='center'/>
+        <ChName nameZh='孟珙的馬' nameEn="Meng Gong's Horse" position='right' />
+    </ChTab>
+</ChTabs>
 <table>
     <tr>
         <td>南宮留學夢境</td>
         <td>在街上高速狂奔唐突撞死趙活的馬。</td>
     </tr>
-        <tr>
+    <tr>
         <td>孟珙贈馬</td>
         <td>孟珙為了讓趙活趕路回唐門，贈送自己的馬給趙活。</td>
     </tr>
