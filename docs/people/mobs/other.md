@@ -552,7 +552,7 @@ tags:
 
 ### 鸚鵡
 
-<img src="images/mobs/animals/parrot.webp" style="width:200px;" />
+<img src="/images/mobs/animals/parrot.webp" style="width:200px;" />
 <table>
     <tr>
         <td>測試虎戰車</td>
