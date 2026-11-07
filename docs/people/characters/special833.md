@@ -139,9 +139,11 @@ tags:
 - 人其實不壞，但背信忘義之事不可原諒。
 - 意外好騙，連[[趙活]]說自己是大宋趙氏宗親也信，難怪會堅信有岳王寶藏。
 - 會段家秘傳的[[枯榮神功上卷|枯榮神功]]，內功深厚。
-- 喜歡花卉，但不會親手種，因為泥土髒，還會有蟲。每天早上會簪不同的花出門逛街，聞一聞就丟掉。
+- 喜歡花卉，但不會親手種，因為泥土髒，還會有蟲。每天早上會簪不同的花出門逛街，聞一聞就丟掉。[^1]
 - 大理皇室出身的來龍去脈 (被視為天明帝段素興末裔的緣由、幼年政變與流放點蒼) 見[大理段氏世系](/other/dali-duan-lineage)。
 - 皇室為了維持體面，每年仍送了不少錢給他，縱比不得城裡王孫，仍有錢到不行。
 - 愛馬「沖霄」是匹駿馬，等閒馬匹望塵莫及。尋常半天的馬程，至多一、二個時辰就能追上。
 - 知道[[鐵冠道人]]武藝低微，存了好擺佈的心才拜其為師。
 - 聽信[[嶺南派]]謠言，以為與自己成親的[[南溪|已故先掌門之女]]相貌醜陋，實際見到本人才為其吸引，然而對方已心有所屬。
+
+[^1]: 鳥熊FB留言，[連結](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=851651397097128&reply_comment_id=898386008890732&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)
