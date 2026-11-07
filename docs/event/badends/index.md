@@ -476,8 +476,16 @@ tags:
             -
         </td>
         <td>
-            1. 唐門沒有收留葉家兄妹，留學崆峒派，江陵圍城戰前最後一夜，選擇打拳散心，處事≦40(知禮)會到宅外練功，轉盤骰到80以上，與女飛賊決鬥戰敗 <br> 
-            2. 見<MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，多個被殺結局。<br>
+            <li>
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>。<br>
+                <MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>時，<br>                
+                未隨南宮橫出城，睡不著時選擇「打拳散心」。<br>
+                滿足「心上人為<Girl3Icon>虞小梅</Girl3Icon>且🚩<MarkdownWrapper>[小梅送行](/event/simple/2-08-1-馳援南宮)</MarkdownWrapper>，或處世＜40」，<br>
+                再滿足「未🚩<MarkdownWrapper>[收留葉氏兄妹](/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>，
+                且心相＞30，且虞小梅好感＜20，且無技能<MarkdownWrapper>[『思想戰』](/system/skill#思想戰)</MarkdownWrapper>」。<br>
+                擲骰【🎲≥80 射中女飛賊】，觸發對決後，在第5回合判定平手之前落敗。
+            </li>
+            <li>見<MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，多個被殺結局。<br></li>
         </td>
         <td>
             -
