@@ -477,8 +477,8 @@ tags:
         </td>
         <td>
             <li>
-                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>。<br>
-                <MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>時，<br>                
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>。
+                <MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>時，             
                 未隨南宮橫出城，睡不著時選擇「打拳散心」。<br>
                 滿足「心上人為<Girl3Icon>虞小梅</Girl3Icon>且🚩<MarkdownWrapper>[小梅送行](/event/simple/2-08-1-馳援南宮)</MarkdownWrapper>，或處世＜40」，<br>
                 再滿足「未🚩<MarkdownWrapper>[收留葉氏兄妹](/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>，
