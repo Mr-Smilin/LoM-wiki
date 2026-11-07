@@ -153,8 +153,17 @@ tags:
         <td>-</td>
         <td>身有防護罩類型狀態時，提升自身拳掌，並有額外格擋率</td>
         <td>
-            《玄玄如意指》<br>
-            在龍湘結緣事件，選擇「湘姊，讓我幫妳報仇」，勝利或撐過9回合獲得。
+            <li>
+                <MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>時已有
+                <MarkdownWrapper>[思想戰](#思想戰)</MarkdownWrapper>等級1，<br>
+                選擇<MarkdownWrapper>[「打拳散心」](/event/simple/2-10-1-打拳散心)</MarkdownWrapper>後，<br>
+                符合條件(見該事件)進入<MarkdownWrapper>[「林中修練」的「思想戰」](/event/simple/2-10-1-林中修練#思想戰)</MarkdownWrapper>劇情，<br>
+                對決獲勝獲得。<br>
+            </li>
+            <li>
+                修練《玄玄如意指》:<br>
+                在龍湘結緣事件，選擇「湘姊，讓我幫妳報仇」，勝利或撐過9回合獲得。
+            </li>            
         </td>
     </tr>
     <tr>
@@ -260,7 +269,21 @@ tags:
         <td id = "思想戰">思想戰</td>
         <td>1~5?</td>
         <td>決鬥開始時即有等同於LV的連擊數，並獲得LVx5的氣</td>
-        <td>《唐門暗器總綱》LV4<br>《孫子兵法》LV5<br>《雪球教戰守則》LV5<br>《破金策》LV5</td>
+        <td>
+            <li>
+                修練秘笈:<br>
+                《唐門暗器總綱》LV4<br>
+                《孫子兵法》LV5<br>
+                《雪球教戰守則》LV5<br>
+                《破金策》LV5
+            </li>
+            <li>
+                <MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>時已有思想戰等級1，<br>
+                選擇<MarkdownWrapper>[「打拳散心」](/event/simple/2-10-1-打拳散心)</MarkdownWrapper>後，<br>
+                符合條件(見該事件)進入<MarkdownWrapper>[「林中修練」的「思想戰」](/event/simple/2-10-1-林中修練#思想戰)</MarkdownWrapper>劇情，<br>
+                對決落敗獲得。<br>
+            </li>
+        </td>
     </tr>
     <tr>
         <td id = "讀勢">讀勢</td>
