@@ -155,9 +155,9 @@ tags:
         <td>
             <li>
                 <MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>時已有
-                <MarkdownWrapper>[思想戰](#思想戰)</MarkdownWrapper>等級1，<br>
+                <MarkdownWrapper>[思想戰](#思想戰)</MarkdownWrapper>等級1，
                 選擇<MarkdownWrapper>[「打拳散心」](/event/simple/2-10-1-打拳散心)</MarkdownWrapper>後，<br>
-                符合條件(見該事件)進入<MarkdownWrapper>[「林中修練」的「思想戰」](/event/simple/2-10-1-林中修練#思想戰)</MarkdownWrapper>劇情，<br>
+                符合條件(見該事件)進入<MarkdownWrapper>[「林中修練」的「思想戰」](/event/simple/2-10-1-林中修練#思想戰)</MarkdownWrapper>劇情，
                 對決獲勝獲得。<br>
             </li>
             <li>
@@ -278,9 +278,9 @@ tags:
                 《破金策》LV5
             </li>
             <li>
-                <MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>時已有思想戰等級1，<br>
+                <MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>時已有思想戰等級1，
                 選擇<MarkdownWrapper>[「打拳散心」](/event/simple/2-10-1-打拳散心)</MarkdownWrapper>後，<br>
-                符合條件(見該事件)進入<MarkdownWrapper>[「林中修練」的「思想戰」](/event/simple/2-10-1-林中修練#思想戰)</MarkdownWrapper>劇情，<br>
+                符合條件(見該事件)進入<MarkdownWrapper>[「林中修練」的「思想戰」](/event/simple/2-10-1-林中修練#思想戰)</MarkdownWrapper>劇情，
                 對決落敗獲得。<br>
             </li>
         </td>
