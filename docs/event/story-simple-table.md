@@ -540,7 +540,6 @@ tags:
     <td style="text-align: center">下</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            襄陽行結束<br>
             [小梅投靠](/event/simple/2-10-3-小梅投靠)<br>
             梅竹重逢<br>
 		</MarkdownWrapper>
