@@ -549,7 +549,8 @@ tags:
                 🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>。
                 <MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>時，未與南宮橫出城。<br>
                 滿足「心上人非<Girl3Icon>虞小梅</Girl3Icon>，或無🚩<MarkdownWrapper>[小梅送行](/event/simple/2-08-1-馳援南宮)</MarkdownWrapper>」，
-                且處世≥40，且南宮深好感≥15。<br>
+                且處世≥40，且南宮深好感≥15，<br>
+                且「<Girl6Icon>郁竹</Girl6Icon>好感＜40，或心上人非郁竹，或無🚩<MarkdownWrapper>[郁竹送行](/event/simple/2-08-1-馳援南宮)</MarkdownWrapper>」。<br>
                 睡不著時選擇「打拳散心」，自動觸發南宮深贈笈劇情後獲得。
             </li>
             <li>三年四月上旬－四師兄買物($1500)</li>
