@@ -1,0 +1,57 @@
+name: 留言系統後端健康檢查
+
+# 每 6 小時打一次 Twikoo 後端。壞掉時開一張 twikoo-down issue(已有未關的就不重開),
+# 恢復時自動留言並關閉。網站留言區失敗時的「查看狀態」連結就是指向這些 issue。
+on:
+  schedule:
+    - cron: "17 */6 * * *" # 避開整點排隊
+  workflow_dispatch: {} # 也可在 Actions 頁手動觸發
+
+permissions:
+  issues: write
+
+jobs:
+  check:
+    if: github.repository == 'Mr-Smilin/LoM-wiki'
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      ENDPOINT: https://twikoo.smilin.net # 與 Twikoo.vue 的 envId 一致, 搬家時兩邊一起改
+      LABEL: twikoo-down
+    steps:
+      - name: 檢查後端並開關 issue
+        run: |
+          touch body.txt
+          # 重試 2 次(間隔 20 秒), 避免一次冷啟動或網路抖動就誤開 issue
+          code=$(curl -s -m 15 --retry 2 --retry-delay 20 --retry-all-errors -o body.txt -w '%{http_code}' -X POST \
+            -H 'Content-Type: application/json' -d '{"event":"GET_CONFIG"}' "$ENDPOINT" || true)
+          now=$(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M')
+          open=$(gh issue list --label "$LABEL" --state open --json number --jq '.[0].number // empty')
+
+          if [ "$code" = "200" ] && grep -q '"config"' body.txt; then
+            echo "正常 (HTTP $code)"
+            if [ -n "$open" ]; then
+              gh issue close "$open" --comment "$now(台灣時間)檢查已恢復正常,自動關閉。"
+            fi
+            exit 0
+          fi
+
+          detail="HTTP $code: $(head -c 300 body.txt)"
+          echo "異常 $detail"
+          if [ -n "$open" ]; then
+            echo "已有未關閉的 issue #$open,不重複開"
+            exit 0
+          fi
+          gh label create "$LABEL" --color B60205 --description "留言系統後端故障(監控自動標記)" --force
+          printf '%s\n' \
+            "網站的留言區與瀏覽數目前無法使用,頁面內容不受影響。恢復後這張 issue 會自動關閉。" \
+            "" \
+            "- 偵測時間:$now(台灣時間)" \
+            "- 後端:\`$ENDPOINT\`" \
+            "- 回應:\`$detail\`" \
+            "" \
+            "維護者可先檢查:後端平台的用量/免費額度、function 錯誤 log、資料庫連線。" \
+            "查到原因請在下方補充(例如「額度用完,下月 1 日恢復」),讀者點網站上的「查看狀態」會看到這裡。" \
+            > issue.md
+          gh issue create --label "$LABEL" --title "留言系統後端無回應" --body-file issue.md
