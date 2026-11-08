@@ -493,7 +493,6 @@ tags:
     <td style="text-align: center">上</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-			[江陵決戰準備](/event/simple/2-10-1-江陵決戰準備)<br>
 			[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)<br>
             小梅襄陽行<br>
 			[江陵決戰](/event/simple/2-10-1-江陵決戰)<br>
