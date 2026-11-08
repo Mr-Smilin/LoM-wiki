@@ -483,7 +483,7 @@ tags:
                 滿足「心上人為<Girl3Icon>虞小梅</Girl3Icon>且🚩<MarkdownWrapper>[小梅送行](/event/simple/2-08-1-馳援南宮)</MarkdownWrapper>，或處世＜40」，<br>
                 再滿足「未🚩<MarkdownWrapper>[收留葉氏兄妹](/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>，
                 且心相＞30，且虞小梅好感＜20，且無技能<MarkdownWrapper>[『思想戰』](/system/skill#思想戰)</MarkdownWrapper>」。<br>
-                擲骰【🎲≥80 射中女飛賊】，觸發對決後，在第5回合判定平手之前落敗。
+                擲骰【🎲≥80 埋伏的女飛賊：「呃啊！」】，觸發對決後，在第5回合判定平手之前落敗。
             </li>
             <li>見<MarkdownWrapper>[破廟密謀](/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>事件中，多個被殺結局。<br></li>
         </td>
