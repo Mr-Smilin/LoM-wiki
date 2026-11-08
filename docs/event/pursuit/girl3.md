@@ -111,7 +111,6 @@ tags:
   <td id = "條件4">4</td>
   <td>第二年十月上旬</td>
   <td>
-      <li><MarkdownWrapper>[江陵決戰準備](/event/simple/2-10-1-江陵決戰準備)</MarkdownWrapper></li>
       <li><MarkdownWrapper>[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper></li>
   </td>
   <td>
