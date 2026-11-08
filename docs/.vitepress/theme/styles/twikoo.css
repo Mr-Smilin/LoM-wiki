@@ -30,3 +30,15 @@
   .tk-owo-emotion, .twikoo .OwO-item img{
     width: 100px !important;
   }
+  /* 留言系統連不上時的說明 (Twikoo.vue onFail) */
+  .tk-fail {
+    padding: 16px;
+    border-radius: 8px;
+    background: var(--vp-c-bg-soft);
+    color: var(--vp-c-text-2);
+  }
+  .tk-stale {
+    margin-left: 4px;
+    font-size: 0.85em;
+    color: var(--vp-c-text-3);
+  }

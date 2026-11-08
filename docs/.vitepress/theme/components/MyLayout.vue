@@ -97,7 +97,7 @@ onMounted(() => {
 		</template>
 		<template #doc-before>
 			<p class="post-visitor">
-				{{ visitorLabel }}<span id="twikoo_visitors">0</span>
+				{{ visitorLabel }}<span id="twikoo_visitors">-</span>
 			</p>
 			<EventSeriesNav />
 		</template>
