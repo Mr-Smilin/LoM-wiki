@@ -45,8 +45,28 @@ const FAIL_TEXT = {
 		none: "（取得できません）",
 	},
 };
+// 熔斷: 一次逾時後 5 分鐘內(同分頁)換頁/重整都不再打後端, 直接顯示說明。
+// 後端卡住時讀者會一直重整, 這比任何自動重試都容易把後端打垮。
+// ponytail: 刻意不做自動重試, 等確認卡住不是負載造成的再考慮
+const BREAKER_MS = 5 * 60 * 1000;
+const BREAKER_KEY = "tk_down_until";
 let failTimer;
 let viewsObserver;
+
+function breakerOpen() {
+	try {
+		return Date.now() < Number(sessionStorage.getItem(BREAKER_KEY));
+	} catch (e) {
+		return false;
+	}
+}
+
+function onTimeout() {
+	try {
+		sessionStorage.setItem(BREAKER_KEY, String(Date.now() + BREAKER_MS));
+	} catch (e) {}
+	onFail();
+}
 
 const viewsKey = () => "tk_views:" + location.pathname;
 
@@ -94,7 +114,8 @@ function onFail() {
 function initTwikoo() {
 	clearTimeout(failTimer);
 	watchViews();
-	failTimer = setTimeout(onFail, TIMEOUT_MS);
+	if (breakerOpen()) return onFail();
+	failTimer = setTimeout(onTimeout, TIMEOUT_MS);
 	try {
 		twikoo.init({
 			envId,
