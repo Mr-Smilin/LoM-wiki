@@ -2829,7 +2829,13 @@ tags:
             沒有人會記得你。
         </td>
         <td>-</td>
-        <td>-</td>
+        <td>
+            <li>
+                觸發<MarkdownWrapper>[襄陽行](/event/simple/2-10-1-襄陽行#觸發條件)</MarkdownWrapper>。
+                事件進行至<MarkdownWrapper>[宋金糾紛](/event/simple/2-10-1-宋金糾紛)</MarkdownWrapper>時，
+                選擇「主動請纓」，觸發🆚戰胡嵩，且對決落敗。
+            </li>
+        </td>
         <td>-</td>
     </tr>
     <tr>
