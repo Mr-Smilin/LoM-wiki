@@ -37,6 +37,9 @@ text: '青城',
 text: '江陵圍城',
 },
 {
+text: '襄陽',
+},
+{
 text: '雪山',
 },
 {
@@ -4810,6 +4813,103 @@ text: '六大派好感',
             👉 請他喝酒: 心相+30，銀兩檢定:<br>
             • 銀兩＜800: 道德-1、處世+1、名聲-1、南宮家好感-1<br>
             • 銀兩≧800: 心相-10、名聲+1、處世+1、道德+1、銀兩-800<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 30</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>襄陽</td>
+		<td>上街消遣</td>
+		<td>城裡風光</td>
+		<td>-</td>
+		<td>-</td>
+        <td>
+            <Girl3Icon>虞小梅</Girl3Icon>好感+1，銀兩-50。<br>
+            <br>
+            道德≥40: 心相+30。<br>
+            道德＜40: 心相+20。<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 40</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>襄陽</td>
+		<td>上街消遣</td>
+		<td>報官捉拿</td>
+		<td>-</td>
+		<td>-</td>
+        <td>
+            處世＜60: 對話差分。<br>
+            處世≥60: 對話差分。<br>
+            <br>
+            觸發戰役 ⚔️戰官兵。<br>
+            勝敗不影響，武學+3、名聲+1，<Girl3Icon>虞小梅</Girl3Icon>好感+1。<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 20</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>襄陽</td>
+		<td>上街消遣</td>
+		<td>縣主出行</td>
+		<td>-</td>
+		<td>-10</td>
+        <td>
+            <Girl3Icon>虞小梅</Girl3Icon>好感+1、孟仙謠好感+1。<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 20</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>襄陽</td>
+		<td>上街消遣</td>
+		<td>孟珙地陪</td>
+		<td>-</td>
+		<td>+20</td>
+        <td>
+            <Girl3Icon>虞小梅</Girl3Icon>好感+1、孟珙好感+1。<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 20</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>襄陽</td>
+		<td>休沐</td>
+		<td>沉溺夢鄉</td>
+		<td>-</td>
+		<td>+40</td>
+        <td>
+            -
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 30</td>
+		<td>-</td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>襄陽</td>
+		<td>休沐</td>
+		<td>小梅整活</td>
+		<td>-</td>
+		<td>+40</td>
+        <td>
+            -
         </td>
 		<td>-</td>
 		<td>-</td>
