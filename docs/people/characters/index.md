@@ -206,7 +206,7 @@ tags:
 </tr>
 <tr>
 	<td>[[金烏上人]]</td>
-	<td>崆峒派 - 飛天門<br>千燈樓</td>
+	<td>崆峒派 - 飛天門<br>千燈樓<br>極樂教<br>西夏</td>
 	<td>/images/avatars/special207.webp</td>
 </tr>
 <tr>
@@ -266,7 +266,7 @@ tags:
 </tr>
 <tr>
 	<td>[[姚不知名]]</td>
-	<td>崆峒派 - 奪魄門</td>
+	<td>崆峒派 - 奪魄門<br>千燈樓<br>極樂教<br>西夏</td>
 	<td>/images/avatars/special216.webp</td>
 </tr>
 <tr>
@@ -316,7 +316,7 @@ tags:
 </tr>
 <tr>
 	<td>[[申屠龍]]</td>
-	<td>青城派<br>極樂教<br>千燈樓</td>
+	<td>青城派<br>極樂教<br>千燈樓<br>西夏</td>
 	<td>/images/avatars/special405.webp</td>
 </tr>
 <tr>
