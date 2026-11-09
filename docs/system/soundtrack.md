@@ -328,7 +328,7 @@ tags:
       <td>16</td>
       <td>願言配德兮，執子協行<br>To Have and to Hold, Through Every Joy and Storm</td>
       <td>3:53</td>
-      <td><MarkdownWrapper>[備註](#願言配德兮，執子協行)</MarkdownWrapper></td>
+      <td><MarkdownWrapper>[備註](#願言配德兮-執子協行)</MarkdownWrapper></td>
     </tr>
     <tr>
       <td>17</td>
@@ -363,7 +363,7 @@ tags:
 - 最崎嶇的路之改編曲。
 - 曲名取自典故取自李白的[俠客行](https://zh.wikisource.org/zh-hant/%E4%BF%A0%E5%AE%A2%E8%A1%8C_(%E6%9D%8E%E7%99%BD))：
     > 十步殺一人，千里不留行
-#### 願言配德兮，執子協行
+#### 願言配德兮-執子協行
 - <Girl2Icon>葉雲裳</Girl2Icon>在[錦香宮]練曲的劇情插入曲。
 - 子夜寄君書之改編曲。
 - [Youtube - 【活俠傳】 -願言配德兮，執子協行- 還得是魔王才行啊～ -幽火的音樂解析](https://www.youtube.com/watch?v=1ZZ6KcW7oY0)
