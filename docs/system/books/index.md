@@ -757,7 +757,7 @@ tags:
         <td>
             <li>
                 <MarkdownWrapper>[觸發襄陽行](/event/simple/2-10-1-襄陽行#觸發條件)</MarkdownWrapper>，
-                <MarkdownWrapper>[襄陽行歸途](/event/simple/2-10-1-失戀歸途#孟珙送行)</MarkdownWrapper>時，孟珙好感≧3獲得
+                於<MarkdownWrapper>[襄陽行歸途](/event/simple/2-10-1-失戀歸途#孟珙送行)</MarkdownWrapper>時，孟珙好感≧3獲得
             </li>
         </td>
         <td></td>
