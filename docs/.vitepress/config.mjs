@@ -418,6 +418,63 @@ const baseConfig = {
 				appId: process.env.ALGOLIA_ID,
 				apiKey: process.env.ALGOLIA_KEY,
 				indexName: "LoM_wiki",
+
+				/**
+				 * 省 Algolia 免費額度。Algolia 是「每個按鍵算一次 search request」計費,
+				 * 而 DocSearch 3.x 本身完全沒有 debounce;中文更慘,IME 組字期間瀏覽器
+				 * 照樣會發 input 事件,打「襄陽」(xiangyang) 等於 9 次請求。不處理的話
+				 * 免費方案的每月 10000 次很快就會見底。
+				 *
+				 * 注意:這個函式會被 VitePress 序列化成字串,在瀏覽器用 new Function()
+				 * 還原(見 vitepress/dist/node 的 serializeFunctions),所以裡面只能用
+				 * 全域物件,不可以引用任何 import 或外部變數。
+				 */
+				transformSearchClient: (searchClient) => {
+					// 切換語系時 DocSearch 會重建 client,用 window 上的 flag
+					// 確保 composition 監聽只註冊一次
+					const KEY = "__lomSearchIme";
+					if (typeof window !== "undefined" && !window[KEY]) {
+						const state = { composing: false };
+						window[KEY] = state;
+						document.addEventListener(
+							"compositionstart",
+							() => (state.composing = true),
+							true
+						);
+						document.addEventListener(
+							"compositionend",
+							() => (state.composing = false),
+							true
+						);
+					}
+
+					let timerId;
+
+					return {
+						...searchClient,
+						search(requests) {
+							// 組字中拉長等待,讓注音/拼音的中間狀態不要送出去。
+							// 故意不設太長:萬一某些 IME 沒發 compositionend,最差
+							// 也只是慢 0.9 秒,而不是整個搜尋壞掉。
+							const composing =
+								typeof window !== "undefined" &&
+								window[KEY] &&
+								window[KEY].composing;
+							const delay = composing ? 900 : 300;
+
+							// Algolia 官方的 debouncePromise 寫法:被取消的那幾個
+							// promise 就讓它永遠不 resolve,autocomplete-core 只會
+							// 採用最後一個。
+							clearTimeout(timerId);
+							return new Promise((resolve) => {
+								timerId = setTimeout(
+									() => resolve(searchClient.search(requests)),
+									delay
+								);
+							});
+						},
+					};
+				},
 			},
 		},
 
