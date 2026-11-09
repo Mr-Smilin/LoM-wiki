@@ -20,7 +20,7 @@ tags:
     { name: '大幫派', tags: ['丐幫', '滄幫', '飛石幫', '白鯊幫'] },
     { name: '邪派組織', tags: ['極樂教', '泥教'] },
     { name: '宮樓', tags: ['千燈樓', '錦香宮', '火炎山劍閣'] },
-    { name: '國家', tags: ['大宋', '大金', '大理', '蒙古'] },
+    { name: '國家', tags: ['大宋', '大金', '大理', '蒙古','西夏'] },
     { name: '其他', tags: ['雪山派', '孤雲山派', '杏花林', '耕陽讀書齋', '嶺南派', '老百姓', '無立繪', '其他'] }
   ]">
 
@@ -426,7 +426,7 @@ tags:
 </tr>
 <tr>
 	<td>[[丁承烈]]</td>
-	<td>大宋</td>
+	<td>大宋<br>極樂教<br>西夏</td>
 	<td>/images/avatars/special214.webp</td>
 </tr>
 <tr>
@@ -466,22 +466,22 @@ tags:
 </tr>
 <tr>
 	<td>[[李仁友]]</td>
-	<td>極樂教<br>千燈樓<br>無立繪</td>
+	<td>極樂教<br>千燈樓<br>無立繪<br>西夏</td>
 	<td></td>
 </tr>
 <tr>
 	<td>[[袁無憲]]</td>
-	<td>極樂教</td>
+	<td>極樂教<br>西夏</td>
 	<td>/images/avatars/special823.webp</td>
 </tr>
 <tr>
 	<td>[[荊紅]]</td>
-	<td>極樂教<br>崆峒派 - 奪魄門</td>
+	<td>極樂教<br>崆峒派 - 奪魄門<br>西夏</td>
 	<td>/images/avatars/special824.webp</td>
 </tr>
 <tr>
 	<td>[[袁乘風]]</td>
-	<td>極樂教<br>峨嵋派<br>無立繪</td>
+	<td>極樂教<br>峨嵋派<br>無立繪<br>西夏</td>
 	<td></td>
 </tr>
 <tr>
@@ -566,7 +566,7 @@ tags:
 </tr>
 <tr>
 	<td>[[譚霸刀]]</td>
-	<td>其他</td>
+	<td>其他<br>西夏</td>
 	<td>/images/avatars/special801.webp</td>
 </tr>
 <tr>
