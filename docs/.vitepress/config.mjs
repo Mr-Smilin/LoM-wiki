@@ -419,6 +419,21 @@ const baseConfig = {
 				apiKey: process.env.ALGOLIA_KEY,
 				indexName: "LoM_wiki",
 
+				// 讓 DocSearch 真的把點擊事件送回 Algolia。
+				// 這個選項沒有寫在 DocSearch v3 的官方 API 文件上,但
+				// @docsearch/react 3.6.0 支援,開啟後 autocomplete-core 會自動
+				// 註冊 insights plugin。搭配 theme/script/searchInsights.js
+				// 預掛的 window.aa,就不會去 jsDelivr 抓 search-insights。
+				insights: true,
+
+				// DocSearch 會用 hierarchy.lvl0 把結果分組,每組預設只顯示 5 筆
+				// (@docsearch/react 的 utils/groupBy.js:`maxResultsPerGroup || 5`)。
+				// Algolia 的 lvl0 是 scraper 從側邊欄抓的小節,夠細,結果會散在好幾組;
+				// Pagefind 沒有這個概念,只能用路徑第一層推,於是常常 20 筆全部落在
+				// 同一組、只看得到 5 筆。放寬到 10 筆比較實用,而且不會多打任何請求
+				// (hitsPerPage 本來就是 20)。
+				maxResultsPerGroup: 10,
+
 				/**
 				 * 省 Algolia 免費額度。Algolia 是「每個按鍵算一次 search request」計費,
 				 * 而 DocSearch 3.x 本身完全沒有 debounce;中文更慘,IME 組字期間瀏覽器
@@ -467,10 +482,19 @@ const baseConfig = {
 							// 採用最後一個。
 							clearTimeout(timerId);
 							return new Promise((resolve) => {
-								timerId = setTimeout(
-									() => resolve(searchClient.search(requests)),
-									delay
-								);
+								timerId = setTimeout(() => {
+									const runAlgolia = () =>
+										searchClient.search(requests);
+									// theme/script/searchEngine.js 掛上來的,
+									// 負責決定要走 Algolia 還是 Pagefind。
+									// 還沒載入時就照原本的走。
+									const handler = window.__lomSearch;
+									resolve(
+										handler
+											? handler.search(requests, runAlgolia)
+											: runAlgolia()
+									);
+								}, delay);
 							});
 						},
 					};

@@ -30,3 +30,4 @@ docs/zh-hans
 docs/.vitepress/theme/data/forge/zh-hans
 /docs/.vitepress/theme/components/private/text-characters-transition
 /.claude/*
+docs/public/pagefind

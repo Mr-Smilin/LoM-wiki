@@ -75,12 +75,19 @@ import ForgeRoot from "./components/forge/ForgeRoot.vue";
 import BadendBackground from "./components/background/BadendBackground.vue";
 import BadendTitle from "./components/background/BadendTitle.vue";
 import BadendContext from "./components/background/BadendContext.vue";
+// import 搜尋:Algolia 點擊事件統計 + Pagefind 備援
+import { setupSearchInsights } from "./script/searchInsights.js";
+import { setupSearchEngine } from "./script/searchEngine.js";
 
 export default {
     extends: DefaultTheme,
     // 使用注入插槽的包装组件覆盖 Layout
     Layout: MyLayout,
     enhanceApp({app, router, siteData}) {
+        // 搜尋:把 search-insights 掛上去讓 Algolia 收得到點擊事件,
+        // 並準備好 Pagefind 備援(細節看 ./script/ 下的兩支檔案)
+        setupSearchInsights();
+        setupSearchEngine();
         // import 連結預覽
         app.use(NolebaseInlineLinkPreviewPlugin);
         app.provide(InjectionKey, {
