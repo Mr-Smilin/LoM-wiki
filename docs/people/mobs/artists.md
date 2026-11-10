@@ -61,7 +61,9 @@ tags:
 ## 方震天/易凡
 
 <img src="/images/mobs/artists/hero1_normal.webp" style="width:200px;" />
+
 確切與方震天相關事蹟，見個別頁面[[方震天]]。
+
 <table>
     <tr>
         <td>葉家兄妹上山</td>
@@ -92,7 +94,9 @@ tags:
 ## 齊壬
 
 <img src="/images/mobs/artists/hero2_normal.webp" style="width:200px;" />
+
 確切與齊壬相關事蹟，見個別頁面[[齊壬]]。
+
 <table>
     <tr>
         <td>葉家兄妹上山</td>
@@ -190,7 +194,9 @@ tags:
         <ChName nameZh='受傷' nameEn='Injured' position='right' />
     </ChTab>
 </ChTabs>
+            
 確切與花城四少相關事蹟，見個別頁面[[花城四少]]。
+
 <table>
     <tr>
         <td>武林大會</td>
