@@ -197,7 +197,17 @@ tags:
             境界二以上，捅人可扣對手氣<br>
             境界三以上，攻防有機率造成【震撼】
         </td>
-        <td>《鐵琵琶功》</td>
+        <td>
+            <li>
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper><br>
+                <MarkdownWrapper>[江陵決戰](/event/simple/2-10-1-江陵決戰)</MarkdownWrapper>
+                <MarkdownWrapper>[王二壯叫戰](/event/simple/2-10-1-法王就義)</MarkdownWrapper>時，
+                擲骰到【🎲＜80 不妙的人出手了】，<br>
+                且心上人為<Girl7Icon>魏菊</Girl7Icon>，觸發替魏菊接掌後，<br>
+                魏菊要替你療傷時選擇👉「好」，再擲骰到【🎲≥80 沒死】。
+            </li>
+            <li>《鐵琵琶功》</li>
+        </td>
     </tr>
     <tr>
         <td id = "借勢">借勢</td>
