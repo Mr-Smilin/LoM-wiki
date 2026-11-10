@@ -212,13 +212,15 @@ aside: false
 -   崆峒留学中は、よく[虞小梅](/ja/people/characters/girl3)・[趙活](/ja/people/characters/player)と一緒に走り込みをしたが、小梅に階段から突き落とされることもしばしばだった。
 -   武林大会で[虞小梅](/ja/people/characters/girl3)と[趙活](/ja/people/characters/player)が孤雲山派に拝謁した際、瑞笙は後宮団が喧嘩ばかりしていることに困り果て、[虞小梅](/ja/people/characters/girl3)は「自業自得」と言い放った。
 -   [孟仙謡](/ja/people/characters/special831)から、瑞笙が[唐黙鈴](/ja/people/characters/girl0)を娶りたがった動機を聞くと、瑞笙を最低だと思った。
--   [眉山決戦](/ja/event/detailed_description/4-03-1-眉山決戰)で[趙活](/ja/people/characters/player)が戦死した場合、[虞小梅](/ja/people/characters/girl3)は我を失って瑞笙に襲いかかり、瑞笙の剣に倒れる。
+-   [眉山決戦](/ja/event/detailed_description/4-03-1-眉山決戰)で[趙活](/ja/people/characters/player)が戦死した場合、[虞小梅](/ja/people/characters/girl3)は我を失って[趙活](/ja/people/characters/player)の傍らで自害する。
+-   <Girl3Icon>梅</Girl3Icon>ルートで[趙活](/ja/people/characters/player)が<EndIcon no="57">屍心梅との戦いに敗れた</EndIcon>場合、小梅は完全に自我を失って大虐殺を繰り広げ、最後は瑞笙の剣に倒れる。
 
 #### 趙活
 
 -   瑞笙は道で不正を見れば刀を抜いて助けるため、作中には[趙活](/ja/people/characters/player)と知り合う機会がいくつもある。
 -   [趙活](/ja/people/characters/player)が崆峒戦隊の三人組に袋叩きにされているとき、一定のラウンドまで戦うと瑞笙が加勢に入る。
     -   顔が良くても集中砲火は浴びる。瑞笙は登場後、攻撃を一身に集めて崆峒戦隊の攻撃をすべて受け止めるため、[趙活](/ja/people/characters/player)は傷を負わない。
+-   崆峒探検隊に同行した際、趙活はステータス次第で説得を手伝うか、探検に失敗して生贄として犠牲になる。
 -   生活双侠：v6000 で実装
     -   <MarkdownWrapper>||[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)の決戦で瑞笙と当たったとき、瑞笙と面識があり瑞笙好感度≧10なら、互いに手加減して名声を得ようと瑞笙が目配せする。<br>第12ラウンドまで決着がつかないと[鞠冬音](/ja/people/characters/trainee234)が割って入って引き分けで収め、二人は「生活双侠」と並び称される。||</MarkdownWrapper>
         -   [趙活](/ja/people/characters/player)はこの二つ名がまるで覇気がないと突っ込むが、瑞笙は咄嗟に即興で付けたものだと言う。
@@ -227,11 +229,15 @@ aside: false
 
 ### 孤雲山派の後宮団
 
--   [南渓](/ja/people/characters/special829)・[夏霊犀](/ja/people/characters/special825)・[孟仙謡](/ja/people/characters/special831)・[梁有詩](/ja/people/characters/special830)ら後宮団の面々とはいずれも縁があり、好意を示したこともあったが、すげなくあしらわれた。<br>ところが後になって、彼女たちのほうがそろって押しかけてきた。
+-   [南渓](/ja/people/characters/special829)・[夏霊犀](/ja/people/characters/special825)・[孟仙謡](/ja/people/characters/special831)・[梁有詩](/ja/people/characters/special830)ら後宮団の面々とはいずれも縁があり、好意を示したこともあったが、すげなくあしらわれた。
+    -   ところが後になって、彼女たちのほうがそろって押しかけてきた。
+    -   全員を断るどころか丸ごと抱え込んだため、後宮団の面々はしょっちゅう喧嘩している。
 
 #### 唐黙鈴
 
 -   [唐黙鈴](/ja/people/characters/girl0)は[趙活](/ja/people/characters/player)と結ばれなかった場合、比武招親で嫁いで瑞笙の後宮の一人となる。
+-   瑞笙が[唐黙鈴](/ja/people/characters/girl0)を娶った際には後宮団の面々が同行していなかったため、理論上は[唐黙鈴](/ja/people/characters/girl0)が瑞笙の最初の妻にあたる。
+    -   [孟仙謡](/ja/people/characters/special831)の証言もこの見解と一致する。
     -   <MarkdownWrapper>||生活双侠を結成済みで、[趙活](/ja/people/characters/player)の想い人が黙鈴かつ黙鈴好感度≧50の場合、瑞笙は[金烏の騒動](/ja/event/simple/3-05-1-金烏鬧事)に加勢に駆けつける。||</MarkdownWrapper>
         -   [趙活](/ja/people/characters/player)が[金烏の騒動](/ja/event/simple/3-05-1-金烏鬧事)に勝つと、自ら[唐黙鈴](/ja/people/characters/girl0)を諦める。[趙活](/ja/people/characters/player)が敗れた場合は譲らない。
     -   彼は唐黙鈴を喜ばせたいが、同時に他に想いを寄せる女性たちも喜ばせたいと思っている。結果、あちらを立てればこちらが立たずの定めを免れない。[^3]
@@ -247,21 +253,31 @@ aside: false
 #### 南渓
 
 -   後宮団の中で自分は美貌も優しさも気配りも足りないと感じ、引け目を抱いている。
--   [南渓](/ja/people/characters/special829)が[趙活](/ja/people/characters/player)に借りを作った場合、後宮団を抜けて[唐門](/ja/people/factions/tang-men)または西武林盟に助力する。
+-   <Girl2Icon>雲裳</Girl2Icon>ルートで[南渓](/ja/people/characters/special829)が[趙活](/ja/people/characters/player)に借りを作った場合、後宮団を抜けて[唐門](/ja/people/factions/tang-men)または西武林盟に助力する。
     -   瑞笙が連れ戻そうとしても断られる。
     -   [唐門](/ja/people/factions/tang-men)滅門戦で瑞笙の面前まで攻め込むと、[趙活](/ja/people/characters/player)に加勢して瑞笙と戦う。
-    -   瑞笙にこう言い切る：「気の毒な御仁を一人知っている。西武林盟に与したいのに、数々のしがらみゆえに身動きが取れぬ人だ。<br>人知れず随分と骨を折ってきたのに、誰の目にも留まらず、挙げ句、どちらからも良く思われずじまい。<br>私のように身寄りも係累もない独り身なら、そうした気兼ねとは無縁。<br>あの人の心願は、私が代わりに叶えてみせる。そのためなら、あなたと敵になろうとも構わない。」
-        -   この描写は瑞笙にも[唐黙鈴](/ja/people/characters/girl0)にも当てはまる。
+    -   瑞笙にこう言い切る:
+    >   「気の毒な御仁を一人知っている。西武林盟に与したいのに、数々のしがらみゆえに身動きが取れぬ人だ。<br>
+    >   人知れず随分と骨を折ってきたのに、誰の目にも留まらず、挙げ句、どちらからも良く思われずじまい。<br>
+    >   私のように身寄りも係累もない独り身なら、そうした気兼ねとは無縁。<br>
+    >   あの人の心願は、私が代わりに叶えてみせる。そのためなら、あなたと敵になろうとも構わない。」
+
+    -   この描写は瑞笙にも[唐黙鈴](/ja/people/characters/girl0)にも当てはまる。
 
 #### 孟仙謡
 
--   瑞笙が留学する前、金国の養龍苑の手練れを打ち負かし、棗陽の[孟仙謡](/ja/people/characters/special831)を守り抜いた。<br>彼女から熱心に引き入れられたが、心は江湖にあって縛られたくなかったので、黙って去った。
+-   瑞笙が留学する前、金国の養龍苑の手練れを打ち負かし、棗陽の[孟仙謡](/ja/people/characters/special831)を守り抜いた。
+    -   彼女から熱心に引き入れられたが、心は江湖にあって縛られたくなかったので、黙って去った。
     -   [孟仙謡](/ja/people/characters/special831)は、このとき英雄として助けられたことで瑞笙に恋心を抱いた。
--   性格は傲慢で打算的。[南渓](/ja/people/characters/special829)を田舎娘呼ばわりし、[夏霊犀](/ja/people/characters/special825)を蛮人呼ばわりする。
+        -   前後の描写によれば、[孟仙謡](/ja/people/characters/special831)はもともと瑞笙を護衛にしようとしていた。
+-   性格は傲慢で打算的。職務を離れた後も後宮団の中で自分を「本県主（この県主）」と称し続けている。
+-   <Girl3Icon>梅</Girl3Icon>ルートでは、酔った勢いの本音によると、襄陽行のあとにも再び瑞笙に救われたものの、素直になれず縁を逃してしまったという。
+-   [南渓](/ja/people/characters/special829)を田舎娘呼ばわりし、[夏霊犀](/ja/people/characters/special825)を野人呼ばわりする。
     -   瑞笙の想い人たちはたいてい互いに対立しているが、全員が最も嫌っているのは孟仙謡である。[^5]
--   武林大会で[虞小梅](/ja/people/characters/girl3)が[孤雲山派](/ja/people/factions/mount-guyun-sect)に拝謁した際、[孟仙謡](/ja/people/characters/special831)は信じず、[趙活](/ja/people/characters/player)が崆峒の掌派人になったら自分は[崆峒派](/ja/people/factions/kong-tong-sect)に加わると賭けをした。
-    -   ~~武林大会の一大事を知らないのは、おそらく[孤雲山派](/ja/people/factions/mount-guyun-sect)の後宮団だけ。~~
--   [孟仙謡](/ja/people/characters/special831)が後宮団に加わると言ったとき、瑞笙はすでに妻を4人迎えていた。
+-   <Girl3Icon>梅</Girl3Icon>ルートの武林大会で[虞小梅](/ja/people/characters/girl3)が[孤雲山派](/ja/people/factions/mount-guyun-sect)に拝謁した際、[孟仙謡](/ja/people/characters/special831)は信じず、[趙活](/ja/people/characters/player)が崆峒の掌派人になったら自分は後宮団を抜けて[崆峒派](/ja/people/factions/kong-tong-sect)に加わると賭けをした。
+    -   ~~武林大会でこの江湖の一大事を知らないのは、おそらく[孤雲山派](/ja/people/factions/mount-guyun-sect)だけ。~~
+    -   瑞笙が連れ戻そうとしても断られる。
+-   [孟仙謡](/ja/people/characters/special831)が後宮団に加わると言ったとき、瑞笙はすでに妻を4人迎えており、自分が最後の一人だったという。
 
 #### 夏霊犀
 
@@ -276,7 +292,7 @@ aside: false
 
 ## 武功
 
--   江陵囲城の決戦に駆けつけて[魏菊](/ja/people/characters/girl7)の窮地を救った場合、[王幇主](/ja/people/characters/special401)と三十二合を打ち合う。その剣舞は精妙を極め、見る者は思わず喝采を送る。
+-   江陵囲城の決戦に駆けつけて[魏菊](/ja/people/characters/girl7)の窮地を救った場合、王幇主こと[王二壮](/ja/people/characters/special401)と三十二合を打ち合う。その剣舞は精妙を極め、見る者は思わず喝采を送る。
 -   [鄒博](/ja/people/characters/special201)の分析によれば、西武林の[趙活](/ja/people/characters/player)が[唐布衣](/ja/people/characters/brother1)と戦えば勝率五分、<br>趙活が瑞笙と戦っても五分だが、<br>唐布衣が瑞笙と正面から対決すれば、まず負けは免れない。
 
 ### 千里伝音
