@@ -221,17 +221,29 @@ aside: false
 ## 掌刑使
 
 -   唐門の刑罰を担当し、鉄面無私。判案は公正にして、代わりに情状酌量を求める者さえも連座して罰せられる。
--   頑固で悪質な[晁和](/ja/people/characters/special208)を何度も懲らしめ、拍手喝采を浴びる。
+-   門規に従って処断し、その憎らしい男を死ぬほど痛めつけてやれるよう、[晁和](/ja/people/characters/special208)を唐門に入れることを主張した。その後、実際に頑迷で悪質な晁和を何度も懲らしめ、拍手喝采を浴びた。
 -   拷問の手法は精緻。
 -   唐門で騒ぐ者がいると、出てきて秩序を取り締まる。
+-   四師兄の[唐惟元](/ja/people/characters/brother4)が[葉雲舟](/ja/people/characters/special3)の返済金を着服した際は、出てきて仲裁し圧力をかける。
 
 ## 医術
 
 -   毒をもって毒を制することに秀でており、効き目は神速。だが気分次第で副作用のある猛薬を与えることもある。
+-   [呂翁](/ja/people/characters/special807)は長年持病に苦しみ、大金で名医を招いても効果がなかったが、それは金がありすぎるせいだった。二師兄は悪徳医者の食い扶持を潰すためだけに、あっさりこの病を治してやり、同時に下痢を引き起こす猛薬も処方した。
 -   かつて江陵の千金方で客席を務め、地元の医者から厚く信頼されている。[趙活](/ja/people/characters/player)をそこで働くよう紹介したこともある。
--   嫌疑を避けるため、[唐芳](/ja/people/characters/special832)を育てて女性患者への鍼灸を委ねている。名目上は師兄妹だが、実質は師弟に近い。唐芳に対しては相応に厳しい。
+-   [葉雲裳](/ja/people/characters/girl2)の病因を見抜き、彼女のために綿密な治療方針を整えた。
+-   掌門の[唐中翎](/ja/people/characters/master)は生涯で多くの敵を作ってきたため、急所である脈門を軽々しく他人に預けることはなかったが、二師兄と[趙活](/ja/people/characters/player)はその信頼を得た数少ない人物である。
 -   煉丹房の炉の火は年中絶えることなし。これは二師兄が心血を込めて世話する「万寿屍心丹」であり、[掌門](/ja/people/characters/master.md)の延命を支える。余分な物を入れるなかれ！<BadendIcon :no="29">生死簿 No.29</BadendIcon>
+-   南宮寿宴で南宮大旦那の[南宮横](/ja/people/characters/special104)に贈った霊丹は、万寿屍心丹の母丹から薬を分け、他の薬材を加えて速成した子丹だが、その効力は生身の肉体が受け止められる限界に達していた。この丹を服しても寿命は十年延びず、十歳若返るだけである。同じく煉丹に精通する青城掌門の[鄒博](/ja/people/characters/special201)でさえ、内心感服せずにはいられなかった。
 -   煉丹房に自分の寝床を設えて、いつでも薬の火加減を確認できるようにしている。煉丹房では静かにすること。
+
+## 毒術
+
+-   胡椒粉をこよなく愛する。昔[唐門](/ja/people/factions/tang-men)の人数が少なかった時分、[趙活](/ja/people/characters/player)がどんな料理を作ろうが、彼は必ず胡椒粉を加えた。他人が食べなければ機嫌が悪くなり、新入りが増えてようやく止めた。
+-   [趙活](/ja/people/characters/player)は二師兄の留守中にその胡椒粉をくすねて胡椒餅を焼いたことがあり、実にパンチの効いた味だったという。
+-   唐門の者の食事に薬を混ぜているため、解毒薬を舌の下に含んでおけば済む程度の微毒は、唐門の弟子にはまるで効かない。
+-   毒を盛る手口は鮮やかで、少し手を使うだけで[飛石幇](/ja/people/factions/flying-stone-gang)の喧嘩を売ってきた連中を揃って往来で跪かせた。
+-   百毒不侵の身でありながら、大師兄の[唐布衣](/ja/people/characters/brother1)が作った朝食を食べた時はその場で吐き出し、眉をひそめて「これには毒がある」と言った。
 
 ## 三面スパイ
 
@@ -240,6 +252,20 @@ aside: false
 -   錦香宮が風雨山で剣鞘の絹索を焼いて生じた毒煙は、[温夫人](/ja/people/characters/special402)が二師兄に暗に手配させたものである。
 -   [袁無憲](/ja/people/characters/special823)とともに新極楽七仙の一人。[大師兄](/ja/people/characters/brother1.md)が[申屠龍](/ja/people/characters/special405)の暗殺に失敗した時、二人で現れて教主を守るふりをしながら、実は暗に彼の命を救おうとしていた。
 -   [李元棄](/ja/people/characters/special213)（極楽左使）とは多少の因縁がある。[趙活](/ja/people/characters/player)と[葉雲裳](/ja/people/characters/girl2.md)を救うためなら、自分が[千灯楼](/ja/people/factions/thousand-lantern-tower)に遺棄されたことまで許すことができた。
+
+## 趙活
+
+-   二師兄が師弟妹に言いつけた仕事は、巡り巡って[趙活](/ja/people/characters/player)に押し付けられることが多いため、二人はかなり気心が知れている。もっとも、だからといって彼の態度が少しでも和らぐことはない。
+-   [趙活](/ja/people/characters/player)を「役立たず」「趙氏蠢豚」と呼ぶ。しょっちゅう足蹴にする。
+-   好感度が高い場合、[趙活](/ja/people/characters/player)に大きな期待を寄せる。門規に縛られて祖宗の真伝を直接授けることはできないため、苦心を惜しまず、毒術・薬理・丹術・自身の経験を融合させ、新たな《薬典》一冊を授ける。この書は唐門薬典を参考にしてはいるが祖伝ではないため門規に縛られず、ただ彼がこの書で勤勉に学び、技が成っても仁心を忘れず、世の人々を救うことを願ってのことである。
+-   炉の番を手伝う[趙活](/ja/people/characters/player)に『太平聖恵方』の綱目を一冊渡すが、省かれた百冊の原典の内容については、二師兄は常識であり趙活なら当然知っているはずだと考えている。
+
+## 唐芳・唐芬
+
+-   嫌疑を避けるため、[唐芳](/ja/people/characters/special832)を育てて女性患者への鍼灸を委ねている。名目上は師兄妹だが、実質は師弟に近い。唐芳に対しては相応に厳しい。
+-   [大師兄](/ja/people/characters/brother1.md)とともに、ある小師姑にひそかに思いを寄せていたことがある。[唐芳](/ja/people/characters/special832)の姉・[唐芬](/ja/people/characters/other21)である。大師兄が[趙活](/ja/people/characters/player)とこのことについて語った時、二師兄の反応は激烈で、突然怒って[小師妹](/ja/people/characters/girl0.md)を驚かせた。
+-   幼い頃、[唐芬](/ja/people/characters/other21)が発明した中薬蜜餞（生薬の砂糖漬け）のせいで虫歯になったことがある。
+-   唐門の医術の伝承は、師娘の[唐鹿](/ja/people/characters/other10)が[唐芬](/ja/people/characters/other21)を指導し、唐芬が二師兄を指導し、二師兄が[唐芳](/ja/people/characters/special832)を指導したという流れである。
 
 ## 備考
 
@@ -250,16 +276,11 @@ aside: false
     [唐門薬典](/ja/system/books/book_8104)を贈られる。さらに性情≦40だと受け取らない選択肢が現れ、
     「この場で死ぬ」を選ぶと1対1の決闘になり、彼専用の戦闘グラフィックを見ることができる[^3]。
     勝利すると唐錚好感度-2で唐門薬典を失い、敗北すると「毒死」で上記の生死簿へ
--   [趙活](/ja/people/characters/player)を「役立たず」「趙氏蠢豚」と呼ぶ。
 -   口は悪いが心優しく、好感度が高いほどより厳しく罵るが、反面好感度も上げやすくなる。
 -   刑場破りの当時に[大師兄](/ja/people/characters/brother1.md)と二人が7～9歳だったと仮定すると、[唐惟元](/ja/people/characters/brother4.md)は翌年の大雪の日に拾われたため、年齢は約25～27歳とみられる。
 -   [大師兄](/ja/people/characters/brother1.md)と共に育った最も古い仲で、かつては月試の筆記で自分の答案を大師兄に写させてやるほどだった。しかし大師兄が修行を終えて江湖へ下ってからは厳しく当たるようになった。
 -   玉佩はかつて[掌門](/ja/people/characters/master.md)と師娘のもの。掌門のものは[大師兄](/ja/people/characters/brother1.md)に、師娘のものは二師兄の手にある。~~誓いの品かな~~。[出典](https://www.plurk.com/p/3g9a4xb0oh)
--   胡椒粉をこよなく愛する。昔[唐門](/ja/people/factions/tang-men)の人数が少なかった時分、[趙活](/ja/people/characters/player)がどんな料理を作ろうが、彼は必ず胡椒粉を加えた。他人が食べなければ機嫌が悪くなり、新入りが増えてようやく止めた。
--   [趙活](/ja/people/characters/player)は二師兄の留守中にその胡椒粉をくすねて胡椒餅を焼いたことがあり、実にパンチの効いた味だったという。
--   [大師兄](/ja/people/characters/brother1.md)とともに、ある小師姑にひそかに思いを寄せていたことがある。[唐芳](/ja/people/characters/special832)の姉・唐芬である。大師兄が[趙活](/ja/people/characters/player)とこのことについて語った時、二師兄の反応は激烈で、突然怒って[小師妹](/ja/people/characters/girl0.md)を驚かせた。
--   幼い頃、唐芬が作った生薬の砂糖漬け（蜜餞）のせいで虫歯になったことがある。
--   [点蒼派](/ja/people/factions/dian-cang-sect)を恨んでいる。かつて点蒼の剣で傷を負わされたことに加え、連中が日頃から廉潔な正人君子を気取りつつ唐門の薬学を見下しているためである。
+-   [点蒼派](/ja/people/factions/dian-cang-sect)を恨んでいる。かつて点蒼の剣で傷を負わされたことに加え、連中が日頃から廉潔な正人君子を気取りつつ唐門の薬学を見下しているためである。[葉雲舟](/ja/people/characters/special3)が唐門に身を寄せている間は、しょっちゅう彼をこき使っている。
 -   [小師妹](/ja/people/characters/girl0.md)を非常に可愛がっており、道覚えのため下山する[小師妹](/ja/people/characters/girl0.md)と[葉雲裳](/ja/people/characters/girl2.md)を陰から見守らせるためなら、喜んで[趙活](/ja/people/characters/player)の雑務まで肩代わりする。その過保護ぶりから、[上官螢](/ja/people/characters/girl4.md)には「老媽子（お節介婆や）」と呼ばれている。
 
 [^1]: バハムート- [RE:【情報】鳥熊問答集（既に11/2第二波+プライベートで更新済み）](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12184&subbsn=1&bPage=0)

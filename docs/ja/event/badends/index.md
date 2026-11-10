@@ -473,8 +473,16 @@ tags:
             -
         </td>
         <td>
-            1. 唐門が葉家兄妹を受け入れておらず、崆峒派に留学した状態で、江陵囲城戦前の最後の夜に「拳法の稽古で気晴らしをする」を選ぶ。処世≦40だと屋敷の外で修行することになり、ダイスで80以上を出して女飛賊との決闘に敗北する<br>
-            2. <MarkdownWrapper>[廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>イベント中にある複数の殺される結末を参照<br>
+            <li>
+                🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派へ留学。
+                <MarkdownWrapper>[江陵決戦の前夜](/ja/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>で
+                南宮横と城を出ず、眠れないときに「拳法の稽古で気晴らしをする」を選ぶ。<br>
+                「想い人が<Girl3Icon>虞小梅</Girl3Icon>かつ🚩<MarkdownWrapper>[南宮への急援](/ja/event/simple/2-08-1-馳援南宮)</MarkdownWrapper>で小梅に見送られている、または処世＜40」を満たし、<br>
+                さらに「🚩<MarkdownWrapper>[葉氏の行方をめぐる騒動](/ja/event/simple/1-08-1-葉氏行蹤風波)</MarkdownWrapper>で葉氏兄妹を受け入れておらず、
+                かつ心相＞30、かつ虞小梅好感＜20、かつ技能<MarkdownWrapper>[『思想戦』](/ja/system/skill#思想戰)</MarkdownWrapper>がない」を満たす。<br>
+                ダイスで【🎲≥80 待ち伏せしていた女飛賊「ぐあっ！」】を出し、対決が発生したあと、5ターン目の引き分け判定より前に敗北する。
+            </li>
+            <li><MarkdownWrapper>[廃寺の密謀](/ja/event/simple/2-08-2-破廟密謀)</MarkdownWrapper>イベント中にある複数の殺される結末を参照。<br></li>
         </td>
         <td>
             -
@@ -2799,7 +2807,13 @@ tags:
             誰の記憶にも残らない。
         </td>
         <td>-</td>
-        <td>-</td>
+        <td>
+            <li>
+                <MarkdownWrapper>[襄陽行](/ja/event/simple/2-10-1-襄陽行#発動条件)</MarkdownWrapper>を発動する。
+                イベントが<MarkdownWrapper>[宋金の揉め事](/ja/event/simple/2-10-1-宋金糾紛)</MarkdownWrapper>まで進んだ際、
+                「自ら出る」を選び、🆚戦：胡嵩を発生させて対決に敗北する。
+            </li>
+        </td>
         <td>-</td>
     </tr>
     <tr>

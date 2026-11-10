@@ -20,7 +20,7 @@ tags:
     { name: '大幇派', tags: ['丐幇', '滄幇', '飛石幇', '白鮫幇'] },
     { name: '邪派組織', tags: ['極楽教', '泥教'] },
     { name: '宮・楼', tags: ['千灯楼', '錦香宮', '火炎山剣閣'] },
-    { name: '国家', tags: ['大宋', '大金', '大理', '蒙古'] },
+    { name: '国家', tags: ['大宋', '大金', '大理', '蒙古', '西夏'] },
     { name: 'その他', tags: ['雪山派', '孤雲山派', '杏花林', '耕陽読書斎', '嶺南派', '市井の人', '立ち絵なし', 'その他'] }
   ]">
 
@@ -206,7 +206,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[金烏上人](/ja/people/characters/special207)</MarkdownWrapper></td>
-	<td>崆峒派 - 飛天門<br>千灯楼</td>
+	<td>崆峒派 - 飛天門<br>千灯楼<br>極楽教<br>西夏</td>
 	<td>/images/avatars/special207.webp</td>
 </tr>
 <tr>
@@ -266,7 +266,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[姚不知名](/ja/people/characters/special216)</MarkdownWrapper></td>
-	<td>崆峒派 - 奪魄門</td>
+	<td>崆峒派 - 奪魄門<br>千灯楼<br>極楽教<br>西夏</td>
 	<td>/images/avatars/special216.webp</td>
 </tr>
 <tr>
@@ -316,7 +316,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[申屠龍](/ja/people/characters/special405)</MarkdownWrapper></td>
-	<td>青城派<br>極楽教<br>千灯楼</td>
+	<td>青城派<br>極楽教<br>千灯楼<br>西夏</td>
 	<td>/images/avatars/special405.webp</td>
 </tr>
 <tr>
@@ -426,7 +426,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[丁承烈](/ja/people/characters/special214)</MarkdownWrapper></td>
-	<td>大宋</td>
+	<td>大宋<br>極楽教<br>西夏</td>
 	<td>/images/avatars/special214.webp</td>
 </tr>
 <tr>
@@ -466,22 +466,22 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[李仁友](/ja/people/characters/other7)</MarkdownWrapper></td>
-	<td>極楽教<br>千灯楼<br>立ち絵なし</td>
+	<td>極楽教<br>千灯楼<br>立ち絵なし<br>西夏</td>
 	<td></td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[袁無憲](/ja/people/characters/special823)</MarkdownWrapper></td>
-	<td>極楽教</td>
+	<td>極楽教<br>西夏</td>
 	<td>/images/avatars/special823.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[荊紅](/ja/people/characters/special824)</MarkdownWrapper></td>
-	<td>極楽教<br>崆峒派 - 奪魄門</td>
+	<td>極楽教<br>崆峒派 - 奪魄門<br>西夏</td>
 	<td>/images/avatars/special824.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[袁乘風](/ja/people/characters/other11)</MarkdownWrapper></td>
-	<td>極楽教<br>峨嵋派<br>立ち絵なし</td>
+	<td>極楽教<br>峨嵋派<br>立ち絵なし<br>西夏</td>
 	<td></td>
 </tr>
 <tr>
@@ -566,7 +566,7 @@ tags:
 </tr>
 <tr>
 	<td><MarkdownWrapper>[譚覇刀](/ja/people/characters/special801)</MarkdownWrapper></td>
-	<td>その他</td>
+	<td>その他<br>西夏</td>
 	<td>/images/avatars/special801.webp</td>
 </tr>
 <tr>

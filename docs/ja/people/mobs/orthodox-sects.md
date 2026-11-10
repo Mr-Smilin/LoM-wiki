@@ -418,7 +418,7 @@ tags:
 <div class="mob-index">
     <a class="mob-card" href="#崆峒戰隊隊長"><img src="/images/mobs/kong-tong-sect/flying/trainee1_normal.webp" alt="崆峒戦隊の隊長" loading="lazy"><span class="mob-name">崆峒戦隊の隊長</span></a>
     <a class="mob-card" href="#二男"><img src="/images/mobs/kong-tong-sect/iron/trainee1_normal.webp" alt="二男" loading="lazy"><span class="mob-name">二男</span></a>
-    <a class="mob-card" href="#鎮魂獄の鉄拳弟子"><img src="/images/mobs/kong-tong-sect/iron/trainee3_normal.webp" alt="鎮魂獄の鉄拳弟子" loading="lazy"><span class="mob-name">鎮魂獄の鉄拳弟子</span></a>
+    <a class="mob-card" href="#鎮魂獄の鉄拳弟子"><img src="/images/mobs/kong-tong-sect/iron/trainee2_normal.webp" alt="鎮魂獄の鉄拳弟子" loading="lazy"><span class="mob-name">鎮魂獄の鉄拳弟子</span></a>
     <a class="mob-card w2" href="#死亡擂台夫妻"><img src="/images/mobs/kong-tong-sect/soul/trainee1_normal.webp" alt="死亡擂台の夫婦" loading="lazy"><img src="/images/mobs/kong-tong-sect/mystic/trainee2_normal.webp" alt="死亡擂台の夫婦" loading="lazy"><span class="mob-name">死亡擂台の夫婦</span></a>
     <a class="mob-card" href="#持緝凶令牌的奪魄弟子"><img src="/images/mobs/kong-tong-sect/soul/trainee6_normal.webp" alt="緝凶令牌を持つ奪魄弟子" loading="lazy"><span class="mob-name">緝凶令牌を持つ奪魄弟子</span></a>
     <a class="mob-card" href="#玄功門師姐"><img src="/images/mobs/kong-tong-sect/mystic/trainee1_normal.webp" alt="玄功門の師姉" loading="lazy"><span class="mob-name">玄功門の師姉</span></a>
@@ -506,7 +506,10 @@ tags:
 
 ### 鎮魂獄の鉄拳弟子
 
-<img src="/images/mobs/kong-tong-sect/iron/trainee3_normal.webp" style="width:200px;" />
+<img src="/images/mobs/kong-tong-sect/iron/trainee2_normal.webp" style="width:200px;" />
+
+[黄某 / 梁老哥](/ja/people/characters/trainee212)と同じ立ち絵を共用している。
+
 <table>
     <tr>
         <td>鎮魂獄での拘留</td>

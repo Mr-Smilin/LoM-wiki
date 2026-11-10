@@ -98,21 +98,29 @@ tags:
 </ChTabs>
 <br><br>
 
-花城四少は[南宮深](/ja/people/characters/special102)と数人の悪友の総称で、花街柳巷の常連である。<br>[南宮深](/ja/people/characters/special102)本人を除く四人は、陳序、余自詠、成渓、公子秀。
+花城四少は[南宮深](/ja/people/characters/special102)と数人の悪友の総称で、花街柳巷の常連である。<br>[南宮深](/ja/people/characters/special102)本人を除く四人は、陳序、余自詠、成渓、公子秀こと[段智秀](/ja/people/characters/special833)。
 
 <br>
 
 ## 陳序
 
--   [龍湘](/ja/people/characters/girl8)の廃寺イベントで会える。[錦香宮](/ja/people/factions/jin-xiang-palace)の費娘子と明らかに旧知の仲で、[全真教](/ja/people/factions/quan-zhen-sect)の道長の妻をたぶらかした。
-    -   そのうえ金国の『養龍苑』出身の売国奴でもある。
--   [龍湘](/ja/people/characters/girl8)に出くわして指を斬り落とされ、石灰粉を撒いて害そうとしたが、[龍湘](/ja/people/characters/girl8)に一剣で刺し殺される。
+-   いくらかの才気と際立った容貌を頼みに、風月の詩詞をいくつか作ってひけらかし、人倫を顧みず、良家の女性ばかりをたぶらかす。錦香宮の《惜花令》に名を連ねている。
+-   [龍湘](/ja/people/characters/girl8)の廃寺イベントで出会う。共に雨宿りしていた[趙活](/ja/people/characters/player)と居合わせ、気前よく振る舞うふりをして、実はすでに酒と料理に毒を盛っていた。
+-   [錦香宮](/ja/people/factions/jin-xiang-palace)の費娘子と明らかに旧知の仲でありながら、さらに[全真教](/ja/people/factions/quan-zhen-sect)の道長の兄嫁をたぶらかし、実の夫を毒殺させた。
+-   初戦では南宮扇法で応戦し、技そのものは凡庸ではないものの、太刀筋はどこかぎこちなく滑らかさに欠けていた。本当の正体は金国の「養龍苑」出身の売国奴であり、師伝の武功は「養龍苑」の翻雲覆雨手である。
+-   [龍湘](/ja/people/characters/girl8)に出くわして指を斬り落とされ、敵わないと見るや、廟の外に出て自害させてほしいと龍湘に懇願し、隙を見て石灰粉で害そうとしたが、最後は[龍湘](/ja/people/characters/girl8)に一剣で刺し殺された。
 
 ## 余自詠
 
 -   滅門ルートで[譚覇刀](/ja/people/characters/special801)、木仙姑とともに来襲した高手。
+-   崆峒派で[瑞笙](/ja/people/characters/special999)、[南宮浅](/ja/people/characters/special103)と共に崆峒の豆乳を味わった。
+-   棗陽県主の[孟仙謡](/ja/people/characters/special831)の提唱、[南宮深](/ja/people/characters/special102)の采配のもと、書を寄進して兵糧に換える義挙に加わったことがある。
+-   女を騙すクズ男である。~~よく[錦香宮](/ja/people/factions/jin-xiang-palace)に追われなかったものだ。~~
+    -   風流を自任しており、崆峒への留学も魂胆は別にあり、崆峒四姝の美貌を一目拝むためだった。ただ顔が良すぎるせいで崆峒の弟子たちに警戒され、声をかける好機に恵まれなかった。小竹こと[郁竹](/ja/people/characters/girl6)から婚約者のふりをしてほしいと助けを求められると、その場で快諾し、いっそ冗談から駒を出してこのうぶな娘を娶り、風流な快楽を貪ってから江南へ高飛びしようと目論んだ。南宮大公子の[南宮深](/ja/people/characters/special102)と花城四少に並び称されるよしみで取りなしてもらえば、崆峒を怒らせても命までは取られまいと踏んでのことである。
+    -   江湖を歩く際は従者を連れない。行きずりの情事を従者に言いふらされ、幼い頃から決まっている縁談に傷がつくのを防ぐためである。
+    -   浴春楼の売れっ子を騙して身請けすると大口を叩き、我が物にしようとした。
+    -   顔なじみの酒楼の料理人・老黄に薬を盛らせ、城東の柳という寡婦を手籠めにした。
 -   <MarkdownWrapper>||[郁竹](/ja/people/characters/girl6)が帰郷した際に、彼女の婚約者「余公子」を演じていたのは、実は[虞小梅](/ja/people/characters/girl3)が彼の姿に変装した偽者。||</MarkdownWrapper>
--   <MarkdownWrapper>||余公子本人は確かに女を騙すクズ男。~~よく[錦香宮](/ja/people/factions/jin-xiang-palace)に追われなかったものだ。~~||</MarkdownWrapper>
 -   <MarkdownWrapper>||交戦時、「余公子」が妹の気持ちを弄んだことに憤慨した[郁竹](/ja/people/characters/girl6)に捕まえられ、人間ハンマーとして振り回されて瞬殺された。||</MarkdownWrapper>
 
 ## 成渓
@@ -121,8 +129,7 @@ tags:
 
 ## 段智秀
 
--   [段智秀](/ja/people/characters/special833)。金持ち。花卉が好きだが、自分では植えない。土が汚い上に虫もいるから。[^1]
--   毎朝違う花を髪に留めて街を散歩し、嗅いだらポイ。
+-   詳細は[段智秀](/ja/people/characters/special833)の項目を参照。
 
 ## 評価
 

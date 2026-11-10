@@ -148,8 +148,19 @@ tags:
         <td id = "如意境">如意境</td>
         <td>-</td>
         <td>護体気罩のような防護状態があるとき、自身の拳掌が上がり、ブロック率も上がる</td>
-        <td><MarkdownWrapper>[《玄玄如意指》](/ja/system/books/book_4004)</MarkdownWrapper>
-<br>龍湘の結縁イベントで「湘姉、俺に仇を討たせてくれ」を選び、勝つか9ターン耐えると獲得。</td>
+        <td>
+            <li>
+                <MarkdownWrapper>[江陵決戦の前夜](/ja/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>の時点で既に
+                <MarkdownWrapper>[思想戦](#思想戰)</MarkdownWrapper>のレベル1があり、
+                <MarkdownWrapper>[「拳を打って気晴らし」](/ja/event/simple/2-10-1-打拳散心)</MarkdownWrapper>を選んだあと、<br>
+                条件 (該当イベント参照) を満たして<MarkdownWrapper>[「林での修練」の「思想戦」](/ja/event/simple/2-10-1-林中修練#思想戰)</MarkdownWrapper>に入り、
+                対決に勝利して獲得。<br>
+            </li>
+            <li>
+                <MarkdownWrapper>[《玄玄如意指》](/ja/system/books/book_4004)</MarkdownWrapper>を修練:<br>
+                龍湘の結縁イベントで「湘姉、俺に仇を討たせてくれ」を選び、勝つか9ターン耐えると獲得。
+            </li>
+        </td>
     </tr>
     <tr>
         <td id = "龍淵七絕">龍淵七絶</td>
@@ -246,7 +257,21 @@ tags:
         <td id = "思想戰">思想戦</td>
         <td>1~5?</td>
         <td>決闘開始時、LVに相当するコンボ数を持ち、LVx5の気を獲得</td>
-        <td><MarkdownWrapper>[《唐門暗器総綱》](/ja/system/books/book_1000)</MarkdownWrapper>LV4<br><MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>LV5<br><MarkdownWrapper>[《破金策》](/ja/system/books/book_8002)</MarkdownWrapper>LV5</td>
+        <td>
+            <li>
+                秘笈を修練:<br>
+                <MarkdownWrapper>[《唐門暗器総綱》](/ja/system/books/book_1000)</MarkdownWrapper>LV4<br>
+                <MarkdownWrapper>[《孫子兵法》](/ja/system/books/book_8001)</MarkdownWrapper>LV5<br>
+                <MarkdownWrapper>[《雪球教戦守則》](/ja/system/books/book_8003)</MarkdownWrapper>LV5<br>
+                <MarkdownWrapper>[《破金策》](/ja/system/books/book_8002)</MarkdownWrapper>LV5
+            </li>
+            <li>
+                <MarkdownWrapper>[江陵決戦の前夜](/ja/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>の時点で既に思想戦のレベル1があり、
+                <MarkdownWrapper>[「拳を打って気晴らし」](/ja/event/simple/2-10-1-打拳散心)</MarkdownWrapper>を選んだあと、<br>
+                条件 (該当イベント参照) を満たして<MarkdownWrapper>[「林での修練」の「思想戦」](/ja/event/simple/2-10-1-林中修練#思想戰)</MarkdownWrapper>に入り、
+                対決に敗北して獲得。<br>
+            </li>
+        </td>
     </tr>
     <tr>
         <td id = "読勢">読勢</td>

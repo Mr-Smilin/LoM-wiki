@@ -480,12 +480,11 @@ tags:
     <td style="text-align: center">上</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-			[江陵決戦の準備](/ja/event/simple/2-10-1-江陵決戰準備)<br>
 			[江陵決戦の前夜](/ja/event/simple/2-10-1-江陵決戰前夜)<br>
-            小梅の襄陽行<br>
 			[江陵決戦](/ja/event/simple/2-10-1-江陵決戰)<br>
 			[南宮家からの訃報](/ja/event/simple/2-10-1-南宮訃音)<br>
 			[唐門に帰還](/ja/event/simple/2-10-1-返回唐門)<br>
+            [襄陽行](/ja/event/simple/2-10-1-襄陽行)<br>
         </MarkdownWrapper>
     </td>
     <td style="text-align: center">
@@ -827,8 +826,8 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				<li>[温夫人の付託](/ja/event/simple/3-10-2-溫夫人託付)</li>
-				<li>[武林大会編](/ja/event/detailed_description/3-08-2-武林大會)</li>
-				<li>[宿屋と帰路編](/ja/event/detailed_description/3-10-2-客棧歸途)</li>
+				<li>📜[武林大会編](/ja/event/detailed_description/3-08-2-武林大會)</li>
+				<li>📜[宿屋と帰路編](/ja/event/detailed_description/3-10-2-客棧歸途)</li>
 				</MarkdownWrapper>
 			</td>
 			<td>-</td>
@@ -919,7 +918,7 @@ tags:
     [特訓の定期試験](/ja/event/simple/3-12-1-特訓段考)<br>
     [皆の知恵を集める](/ja/event/simple/3-12-1-集思廣益)<br>
     [武林盟への対策](/ja/event/simple/3-12-1-武林盟對策)<br>
-    [衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)<br>
+    📜[衆人の決断](/ja/event/detailed_description/3-12-1-眾人的決策)<br>
     </MarkdownWrapper>
   </td>
 </tr>
@@ -1116,6 +1115,7 @@ tags:
 
 ## 備考
 - 救いようのないルート(Demo)には本編と似たイベントが多いため、イベント名に「Demo」を付けて区別している。
+- 📜 を付した項目は、複数のイベントにまたがるシナリオ攻略である。
 - 🚧未実装 を付したイベントは、ゲームデータ上は存在するが現行版では発生しない。
 - イベントの台本によく出てくる隠しパラメータは、[隠しパラメータ一覧](/ja/system/hidden-params)を参照。
 - 本記事は[活俠傳資料彙総](https://docs.google.com/spreadsheets/u/1/d/10wN_Kfusr5ipzXVzvNewsPHmn3HNCNUtqME26t94I4o)、[活俠傳事件及分歧整理](https://docs.google.com/spreadsheets/d/1YZRvCuf7ar5eqHCEJoVRdD1uxhTtkKBBCuF_0O0OdNg)、[活俠傳事件分岐資料庫](https://mortal-web-database.vercel.app/)を参考に作成。

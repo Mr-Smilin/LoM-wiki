@@ -139,9 +139,11 @@ tags:
 - 根は悪人ではないが、信義に背いた行いは許されるものではない。
 - 意外に騙されやすく、[趙活](/ja/people/characters/player)の「自分は大宋趙氏の宗親」という嘘さえ信じた。岳王の宝蔵を固く信じ込むのも道理である。
 - 段家秘伝の[枯栄神功](/ja/system/books/book_7017)を使い、内功は深厚。
-- 花は好きだが、自分で育てることはない。土は汚いし、虫も出るから。毎朝違う花を髪に挿して街へ出かけ、香りを嗅いだら捨ててしまう。
+- 花は好きだが、自分で育てることはない。土は汚いし、虫も出るから。毎朝違う花を髪に挿して街へ出かけ、香りを嗅いだら捨ててしまう。[^1]
 - 大理皇室の出自 (天明帝・段素興の末裔とされる経緯と、幼時の政変・点蒼派への流刑) は[大理段氏の帝系](/ja/other/dali-duan-lineage) を参照。
 - 皇室は体面維持のため、今も毎年相当な金を彼に送っている。都の王孫には及ばぬまでも、途方もない金持ちである。
 - 愛馬「沖霄」は駿馬で、並の馬では足元にも及ばない。常人が半日かかる行程も、一、二時辰もあれば追いつける。
 - [鉄冠道人](/ja/people/characters/special212)の武芸が大したことないと知った上で、御しやすいと踏んで師事した。
 - [嶺南派](/ja/people/factions/lingnan-sect)の流言を真に受け、娶った[亡き先代掌門の娘](/ja/people/characters/special829)は醜女だと思い込んでいたが、実際に本人に会うとその魅力に惹かれた。もっとも、相手には既に想い人がいる。
+
+[^1]: 鳥熊FBコメント、[リンク](https://www.facebook.com/obbstudio/posts/pfbid0GCevPs4TPNcRvzECS7Dmeeoqg7pvCkADmnqpmgvKHqvx8appLT7bo7npe7VXobKgl?comment_id=851651397097128&reply_comment_id=898386008890732&__cft__[0]=AZVA6WGkHOH-J0f0gY0o-KffUH80JdVab5IH6EYFw14031XZp_WGFi71llZNTjEFXRZnvUTtL2onKpCHqjwLk1Tzz5w961_OqaAyXM6cDxLUkjYe53wMW5pIqkzxyilPTFanCOOp_3r1Yp5idIVXlHXBNFlMqMxEivsSy8tj8dVC5w&__tn__=R]-R)

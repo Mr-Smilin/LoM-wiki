@@ -81,8 +81,19 @@ tags:
 <br><br>
 二十数年前に[青城論道](/ja/event/stories/青城論道)に参加し、道籍を歪曲して[趙逵](/ja/people/characters/special403)の道心を沈め、後に[泥教](/ja/people/factions/mud-school)地獄道法王に堕ちた。このため[鄒博](/ja/people/characters/special201)と仇をなした。
 
+## 人間関係
+
+-   [金烏上人](/ja/people/characters/special207)と同輩の礼をもって相接する。
+-   かつて[上官隼](/ja/people/characters/special407)に媚びを売り、東海龍王の転生だと言った。
+-   [唐守鴻](/ja/people/characters/special812)は火龍仙君と懇意だと自称している。
+-   [虞小梅](/ja/people/characters/girl3)の師父でありながら彼女に手を出そうとし、小梅が第一掌派夫人になれないならいっそ嫁がずに自分の道侶になれと放言する。小梅が逃げ出そうとしていると疑えば地下牢に閉じ込める。
+-   小梅こと[虞小梅](/ja/people/characters/girl3)が焚心火印を修練する際は、火龍仙君の助掌によって火力を消化し、死の劫を乗り切る必要がある。
+-   [雷謙](/ja/people/characters/special804)、[勾魂叟](/ja/people/characters/special806)とは古い付き合いで、仲違いする前は三人でさんざん騒ぎを起こしていた。[童大虫](/ja/people/characters/trainee214)が物心ついた頃には、すでに彼と雷掌門が殴り合っていたという。
+-   留学してきた[趙活](/ja/people/characters/player)と初めて会った際は、その風貌に驚かされ、逆に殺さなかった恩に感謝しろと言った。
+
 ## 備考
 
 -   仙君は非常に嫉妬深く、一山に二仙は容さず。飛天門では調子に乗り過ぎるなよ。<BadendIcon :no="15">生死簿 No.15</BadendIcon>
--   [金烏上人](/ja/people/characters/special207)と同輩の礼をもって相接する
--   かつて[上官隼](/ja/people/characters/special407)に媚びを売り、東海龍王の転生だと言った
+-   飛天門に留学した[趙活](/ja/people/characters/player)が季試で目覚ましい活躍を見せると、飛天門門外不出の秘伝《焚心火印》を授ける。実際の魂胆は、趙活を手下に引き入れ、劫を乗り切るのを助けて恩を売り、さらには小梅こと[虞小梅](/ja/people/characters/girl3)に色仕掛けをさせてでも趙活を使って奪魄門の掌派人候補・[余麟](/ja/people/characters/trainee224)を除き、すべてを唐門のせいにすることである。
+-   幼い頃は父親に連れられて各地で大道芸や雑劇を演じて回っており、一人で何役もこなし、声色を変えて戯曲を歌うことができる。
+-   <MarkdownWrapper>||崆峒神威において、半雨屏で偽の神託を伝えて[趙活](/ja/people/characters/player)に剣を執り魔を除けと命じた人物こそ、火龍仙君である。||</MarkdownWrapper>

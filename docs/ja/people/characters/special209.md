@@ -77,7 +77,10 @@ tags:
 -   丘処機
 -   [成吉思汗](/ja/people/characters/special210)
 -   [尹志平](/ja/people/characters/special205)
+-   [郝大通](/ja/people/characters/other4)
 -   [趙方](/ja/people/characters/soldier31)
 -   [孟珙](/ja/people/characters/special215)
 -   [完顔珣](/ja/people/characters/special819)
+-   [僕散安貞](/ja/people/characters/other6)
+-   [李仁友](/ja/people/characters/other7)
 -   [福韞](/ja/people/characters/special206)（福裕を参考にしたのかもしれない）

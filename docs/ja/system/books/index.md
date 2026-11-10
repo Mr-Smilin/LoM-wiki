@@ -520,7 +520,15 @@ tags:
         <td>体力5<br>侵掠如火<br>戦術LV1</td>
         <td>25</td>
         <td></td>
-        <td>二年崆峒派留学－窩居のランダムイベントで宋兵に勝利して入手<br>二年崆峒派留学－自由行動の「崆峒探検隊」イベントで玄功洞の蔵経洞に至り、ダイス【🎲≧90 小梅】でランダムに入手<br>囲城イベントで唐布衣の金国討伐を知り、同行を選んで気絶させられた後に入手<br>三年四月上旬－唐惟元から購入 ($900)</td>
+        <td>
+            <li>二年崆峒派留学－窩居のランダムイベントで宋兵に勝利して入手</li>
+            <li>二年崆峒派留学－自由行動の「崆峒探検隊」イベントで玄功洞の蔵経洞に至り、ダイス【🎲≧90 小梅】でランダムに入手</li>
+            <li>囲城イベントで唐布衣の金国討伐を知り、同行を選んで気絶させられた後に入手</li>
+            <li>🚧2年目10月上旬の<MarkdownWrapper>[襄陽行](/ja/event/simple/2-10-1-襄陽行)</MarkdownWrapper>の宴席で
+                <MarkdownWrapper>[「孟仙謡の侍衛」を尋ねた](/ja/event/simple/2-10-1-詢問孟仙謠#問丁護衛)</MarkdownWrapper>とき、
+                孟仙謡の好感≥2なら贈られる(v1.0.6001.0: 達成不可。シナリオ段階の設定上、この時点での孟仙謡の好感は最大でも1にしかならない)。</li>
+            <li>三年四月上旬－唐惟元から購入 ($900)</li>
+        </td>
         <td>900</td>
     </tr>
     <tr>
@@ -544,7 +552,17 @@ tags:
         <td>体力5<br>内功10<br>防御10<br>陰陽中寄り</td>
         <td>50</td>
         <td></td>
-        <td>囲城イベント－外出して拳の練習中に南宮深が贈る (処世≧中庸)<br>三年四月上旬－唐惟元から購入 ($1500)</td>
+        <td>
+            <li>
+                🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>で崆峒派へ留学。
+                <MarkdownWrapper>[江陵決戦の前夜](/ja/event/simple/2-10-1-江陵決戰前夜)</MarkdownWrapper>で南宮横と城を出ない。<br>
+                「想い人が<Girl3Icon>虞小梅</Girl3Icon>ではない、または🚩<MarkdownWrapper>[南宮への急援](/ja/event/simple/2-08-1-馳援南宮)</MarkdownWrapper>で小梅に見送られていない」を満たし、
+                かつ処世≥40、かつ南宮深好感≥15、<br>
+                かつ「<Girl6Icon>郁竹</Girl6Icon>好感＜40、または想い人が郁竹ではない、または🚩<MarkdownWrapper>[南宮への急援](/ja/event/simple/2-08-1-馳援南宮)</MarkdownWrapper>で郁竹に見送られていない」を満たす。<br>
+                眠れないときに「拳法の稽古で気晴らしをする」を選ぶと、南宮深が秘笈を贈るイベントが自動で発生して入手。
+            </li>
+            <li>三年四月上旬－唐惟元から購入 ($1500)</li>
+        </td>
         <td>1500</td>
     </tr>
     <tr>
@@ -736,7 +754,12 @@ tags:
         <td>学問12<br>性情+10<br>戦術LV2<br>思想戦LV1</td>
         <td>80</td>
         <td></td>
-        <td>襄陽行－孟珙の好感 ≧ 3 の場合に入手</td>
+        <td>
+            <li>
+                <MarkdownWrapper>[襄陽行を発動](/ja/event/simple/2-10-1-襄陽行#発動条件)</MarkdownWrapper>し、
+                <MarkdownWrapper>[襄陽行の帰路](/ja/event/simple/2-10-1-失戀歸途#孟珙送行)</MarkdownWrapper>で孟珙の好感≧3のときに入手
+            </li>
+        </td>
         <td></td>
     </tr>
     <tr>
