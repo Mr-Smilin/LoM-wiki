@@ -178,7 +178,7 @@ tags:
       <li>可能影響劇情分歧(待確認)</li>
     </td>
     <td>
-      <li>主要透過劇情增減，如江陵大戰許多事件影響丐幫向心</li>
+      <li>主要透過劇情增減，如江陵大戰<br>許多事件影響丐幫向心</li>
       <li>部分<MarkdownWrapper>[養成指令](/system/training/)</MarkdownWrapper>可增減</li>
     </td>
     <td></td>
