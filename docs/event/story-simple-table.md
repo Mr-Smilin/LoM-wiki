@@ -495,7 +495,6 @@ tags:
         <MarkdownWrapper>
 			[江陵決戰前夜](/event/simple/2-10-1-江陵決戰前夜)<br>
 			[江陵決戰](/event/simple/2-10-1-江陵決戰)<br>
-			[南宮訃音](/event/simple/2-10-1-南宮訃音)<br>
 			[返回唐門](/event/simple/2-10-1-返回唐門)<br>
             [襄陽行](/event/simple/2-10-1-襄陽行)<br>
         </MarkdownWrapper>
