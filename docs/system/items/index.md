@@ -198,7 +198,7 @@ tags:
         <td id = "大師兄的塗鴉">大師兄的塗鴉</td>
         <td></td>
         <td></td>
-        <td>雜匠隨機觸發事件，<br>打造<MarkdownWrapper>[逆鱗寶衣](/system/forge-roadmap#逆鱗寶衣)</MarkdownWrapper></td>
+        <td>[[十八種奇兵鍛法雜記]]練滿後，<br>雜匠隨機觸發事件，<br>打造<MarkdownWrapper>[逆鱗寶衣](/system/forge-roadmap#逆鱗寶衣)</MarkdownWrapper></td>
         <td>不明</td>
         <td>一年弟子房-大師兄聊詩琴書畫，不喜歡肩甲。</td>
         <td>相關事件：<br>第一年債主上門時，若骰到"不行，得即刻想辦法"<br>可拿給先生看，但會被罵一頓<br>
@@ -219,7 +219,7 @@ tags:
         <td></td>
         <td>不明</td>
         <td>不明</td>
-        <td>拜夏侯蘭為師&<MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>全勝，可能遇有其他條件（好感/性情/處世？）</td>
+        <td>拜夏侯蘭為師&<br><MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>全勝，可能遇有其他條件（好感/性情/處世？）</td>
         <td></td>
     </tr>
     <tr>
@@ -228,7 +228,7 @@ tags:
         <td></td>
         <td><Girl6Icon>郁竹</Girl6Icon>結緣後，<br>事件差分道具</td>
         <td>事件道具</td>
-        <td>第二年崆峒派留學－拜入鐵拳門&<MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>全勝獎勵</td>
+        <td>第二年崆峒派留學－拜入鐵拳門<br>&<MarkdownWrapper>[崆峒季試](/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>全勝獎勵</td>
         <td></td>
     </tr>
     <tr>
@@ -264,8 +264,8 @@ tags:
         <td></td>
         <td>不明</td>
         <td>不明</td>
-        <td>南宮深好感度高，於小師妹招親時拜訪南宮深獲得，說好的給唐掌門吃。</td>
-        <td>若照二師兄送南宮丹藥的說法，這顆會抵消二師兄那顆，所以很可能是個 bad end</td>
+        <td>南宮深好感度高，<br>於小師妹招親時拜訪南宮深獲得，<br>說好的給唐掌門吃。</td>
+        <td>若照二師兄送南宮丹藥的說法，<br>這顆會抵消二師兄那顆，<br>所以很可能是個 bad end</td>
     </tr>
     <tr>
         <td id = "猴兒酒">猴兒酒</td>
@@ -315,7 +315,7 @@ tags:
         <td></td>
         <td><Girl6Icon>郁竹</Girl6Icon>結緣後，<br>事件差分道具</td>
         <td>事件道具</td>
-        <td>雜匠隨機觸發事件</td>
+        <td>[[十八種奇兵鍛法雜記]]練滿後，雜匠隨機觸發事件</td>
         <td></td>
     </tr>
     <tr>
@@ -342,8 +342,53 @@ tags:
         <td></td>
         <td><Girl6Icon>郁竹</Girl6Icon>結緣後，<br><MarkdownWrapper>[慷慨就義](/event/ends/end-35)</MarkdownWrapper>事件差分道具</td>
         <td>事件道具</td>
-        <td>雜匠隨機觸發事件，滯銷獲得</td>
+        <td>[[十八種奇兵鍛法雜記]]練滿後，雜匠隨機觸發事件，滯銷獲得</td>
         <td></td>
+    </tr>
+    <tr>
+        <td id = "失敗木劍">失敗木劍</td>
+        <td></td>
+        <td></td>
+        <td><Girl6Icon>郁竹</Girl6Icon>返鄉，<br>郁城事件差分道具</td>
+        <td>事件道具</td>
+        <td>第1回葉雲舟外堡削木劍事件，插隊獲得</td>
+        <td>郁城不喜歡</td>
+    </tr>
+    <tr>
+        <td id = "木劍">木劍</td>
+        <td></td>
+        <td></td>
+        <td><Girl6Icon>郁竹</Girl6Icon>返鄉，<br>郁城事件差分道具</td>
+        <td>事件道具</td>
+        <td>第2回葉雲舟外堡削木劍事件，插隊獲得</td>
+        <td>郁城不喜歡</td>
+    </tr>
+    <tr>
+        <td id = "聽雲木劍">聽雲木劍</td>
+        <td></td>
+        <td></td>
+        <td><Girl6Icon>郁竹</Girl6Icon>返鄉，<br>郁城事件差分道具</td>
+        <td>事件道具</td>
+        <td>第3回葉雲舟外堡削木劍事件，插隊獲得</td>
+        <td>郁城超喜歡</td>
+    </tr>
+    <tr>
+        <td id = "六戒刀">六戒刀</td>
+        <td></td>
+        <td></td>
+        <td>不明</td>
+        <td>不明</td>
+        <td><Girl6Icon>郁竹</Girl6Icon>在武林大會，<br>贈送高好感南宮淺之前，<br>事前攔截獲得</td>
+        <td>贈送南宮淺會獲得一筆紅包收入，<br>退還紅包會獲得更大的收入</td>
+    </tr>
+    <tr>
+        <td id = "壯士飛腕">壯士飛腕</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>事件道具</td>
+        <td>第二年三月在唐門，<br>經歷鬼手事件獲得。<br><br><Girl6Icon>郁竹</Girl6Icon>在崆峒翻找鐵匠鋪<br>也能🎲獲得</td>
+        <td><Girl2Icon>雲裳</Girl2Icon>線<br>劇情道具</td>
     </tr>
 </table>
 
