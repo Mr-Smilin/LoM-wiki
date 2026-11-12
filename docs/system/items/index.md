@@ -178,7 +178,7 @@ tags:
         <td id = "湘妃魚糕">湘妃魚糕</td>
         <td>賣價?</td>
         <td></td>
-        <td>體力-1、抗毒+1、廚藝+2、心相30<br></td>
+        <td>體力-1、抗毒+1、廚藝+2、心相+30<br></td>
         <td>休息選飲食</td>
         <td>
             <MarkdownWrapper>[「四師兄訪青城」](/event/simple/2-10-1-四師兄訪青城)</MarkdownWrapper>事件中，選擇👉「送」，再擲骰到【🎲≥80 江陵特產(垃圾)】。<br>
@@ -198,7 +198,7 @@ tags:
         <td id = "大師兄的塗鴉">大師兄的塗鴉</td>
         <td></td>
         <td></td>
-        <td>[十八種奇兵鍛法雜記](/system/books/book_8004)</MarkdownWrapper>練滿後，<br>雜匠隨機觸發事件，<br>打造<MarkdownWrapper>[逆鱗寶衣](/system/forge-roadmap#逆鱗寶衣)</MarkdownWrapper></td>
+        <td><MarkdownWrapper>[十八種奇兵鍛法雜記](/system/books/book_8004)</MarkdownWrapper>練滿後，<br>雜匠隨機觸發事件，<br>打造<MarkdownWrapper>[逆鱗寶衣](/system/forge-roadmap#逆鱗寶衣)</MarkdownWrapper></td>
         <td>不明</td>
         <td>一年弟子房-大師兄聊詩琴書畫，不喜歡肩甲。</td>
         <td>相關事件：<br>第一年債主上門時，若骰到"不行，得即刻想辦法"<br>可拿給先生看，但會被罵一頓<br>
@@ -315,7 +315,7 @@ tags:
         <td></td>
         <td><Girl6Icon>郁竹</Girl6Icon>結緣後，<br>事件差分道具</td>
         <td>事件道具</td>
-        <td>[十八種奇兵鍛法雜記](/system/books/book_8004)</MarkdownWrapper>練滿後，<br>雜匠隨機觸發事件</td>
+        <td><MarkdownWrapper>[十八種奇兵鍛法雜記](/system/books/book_8004)</MarkdownWrapper>練滿後，<br>雜匠隨機觸發事件</td>
         <td>郁竹在錦香宮時，選魔球詢問</td>
     </tr>
     <tr>
