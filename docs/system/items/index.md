@@ -198,7 +198,7 @@ tags:
         <td id = "大師兄的塗鴉">大師兄的塗鴉</td>
         <td></td>
         <td></td>
-        <td>[[十八種奇兵鍛法雜記]]練滿後，<br>雜匠隨機觸發事件，<br>打造<MarkdownWrapper>[逆鱗寶衣](/system/forge-roadmap#逆鱗寶衣)</MarkdownWrapper></td>
+        <td>[十八種奇兵鍛法雜記](/system/books/book_8004)</MarkdownWrapper>練滿後，<br>雜匠隨機觸發事件，<br>打造<MarkdownWrapper>[逆鱗寶衣](/system/forge-roadmap#逆鱗寶衣)</MarkdownWrapper></td>
         <td>不明</td>
         <td>一年弟子房-大師兄聊詩琴書畫，不喜歡肩甲。</td>
         <td>相關事件：<br>第一年債主上門時，若骰到"不行，得即刻想辦法"<br>可拿給先生看，但會被罵一頓<br>
@@ -315,8 +315,8 @@ tags:
         <td></td>
         <td><Girl6Icon>郁竹</Girl6Icon>結緣後，<br>事件差分道具</td>
         <td>事件道具</td>
-        <td>[[十八種奇兵鍛法雜記]]練滿後，雜匠隨機觸發事件</td>
-        <td></td>
+        <td>[十八種奇兵鍛法雜記](/system/books/book_8004)</MarkdownWrapper>練滿後，<br>雜匠隨機觸發事件</td>
+        <td>郁竹在錦香宮時，選魔球詢問</td>
     </tr>
     <tr>
         <td id = "磨喝樂 綠">磨喝樂 綠</td>
@@ -342,7 +342,7 @@ tags:
         <td></td>
         <td><Girl6Icon>郁竹</Girl6Icon>結緣後，<br><MarkdownWrapper>[慷慨就義](/event/ends/end-35)</MarkdownWrapper>事件差分道具</td>
         <td>事件道具</td>
-        <td>[[十八種奇兵鍛法雜記]]練滿後，雜匠隨機觸發事件，滯銷獲得</td>
+        <td><MarkdownWrapper>[十八種奇兵鍛法雜記](/system/books/book_8004)</MarkdownWrapper>練滿後，<br>雜匠隨機觸發事件，滯銷獲得</td>
         <td></td>
     </tr>
     <tr>
