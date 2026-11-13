@@ -871,7 +871,15 @@ tags:
         <td>抗毒15<br>抗麻15<br>醫術LV1</td>
         <td>50</td>
         <td>學問20 (LV5)</td>
-        <td>圍城事件回家後，跟隨二師兄，二師兄贈送(唐錚好感3.5★)<br>二年十一月上旬－四師兄買物($1200)</td>
+        <td>
+            <li>
+                江陵大戰後<MarkdownWrapper>[返回唐門](/event/simple/2-10-1-返回唐門)</MarkdownWrapper>時，
+                無🚩<MarkdownWrapper>[郁竹同行](/event/simple/2-10-1-啟程返唐#郁竹同行)</MarkdownWrapper>。<br>
+                唐錚好感≥35，且若<Girl0Icon>唐默鈴</Girl0Icon>好感≥35需選擇👉「我先隨二師兄商議正事要緊」，隨後二師兄贈送。<br>
+                若性情≤40，需再選擇👉「收此書並習練之」。
+            </li>
+            <li>二年十一月上旬－四師兄買物($1200)</li>
+        </td>
         <td>1200</td>
     </tr>
     <tr>
