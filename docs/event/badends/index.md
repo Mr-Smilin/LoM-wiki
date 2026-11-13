@@ -667,12 +667,9 @@ tags:
             -
         </td>
         <td>
-            留學崆峒派，江陵圍城結束後，歸程在大地圖移動的落馬事件，骰到大失敗「出人命了」
+            留學崆峒派，江陵圍城結束後，<MarkdownWrapper>[歸途](/event/simple/2-10-1-江陵歸途)</MarkdownWrapper>在大地圖移動的落馬事件，骰到【🎲＜10 出人命了】
         </td>
-        <td>
-            有機會骰到被馬踩死一定要試一試，<br>
-            <MoodIcon mood="high">高心相無法觸發</MoodIcon>
-        </td>
+        <td></td>
     </tr>
     <tr>
         <td id="生死簿-No.27">
