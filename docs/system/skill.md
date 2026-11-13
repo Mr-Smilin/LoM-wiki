@@ -480,7 +480,7 @@ tags:
                 <MarkdownWrapper>[啟程返回唐門](/event/simple/2-10-1-啟程返唐)</MarkdownWrapper>時自動獲得。
             </li>
             <li>
-                <MarkdownWrapper>[抵達唐門](/event/simple/2-10-1-抵達唐門)</MarkdownWrapper>時自動消滅。
+                <MarkdownWrapper>[抵達唐門](/event/simple/2-10-2-抵達唐門)</MarkdownWrapper>時自動消滅。
             </li>
         </td>
     </tr>
