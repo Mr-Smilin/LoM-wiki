@@ -517,7 +517,7 @@ tags:
         <MarkdownWrapper>
             [修理彈珠檯](/system/pinball#修理彈珠檯)<br>
             [雲裳重逢](/event/simple/2-10-2-雲裳重逢)<br>
-            鍛冶場升級<br>
+            [鍛冶場升級](/event/simple/2-10-2-鍛冶場升級)<br>
             郁竹學武<br>
 		</MarkdownWrapper>
     </td>
