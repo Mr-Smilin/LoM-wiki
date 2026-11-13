@@ -127,7 +127,12 @@ tags:
         <td>
             <li>煉丹房<MarkdownWrapper>[初識唐錚](/event/simple/1-04-1-初識唐錚)</MarkdownWrapper>選👉「正是找死，怎樣」</li>
             <li>任一次<MarkdownWrapper>[唐門段考](/event/simple/1-07-3-唐門段考)</MarkdownWrapper>時，🚩二師兄主考，對決落敗，並擲骰到【🎲＜10 可疑的藥】。</li>
-            <li>崆峒留學線<MarkdownWrapper>[返回唐門](/event/simple/2-10-1-返回唐門)</MarkdownWrapper>時，唐錚好感≧35並選擇👉「我先隨二師兄商議正事要緊」，再選擇👉「就地受死」，觸發對決二師兄後落敗。</li>
+            <li>
+                崆峒留學線江陵大戰後<MarkdownWrapper>[返回唐門](/event/simple/2-10-1-返回唐門)</MarkdownWrapper>時，
+                無🚩<MarkdownWrapper>[郁竹同行](/event/simple/2-10-1-啟程返唐#郁竹同行)</MarkdownWrapper><br>
+                ，唐錚好感≧35，且若<Girl0Icon>唐默鈴</Girl0Icon>需選擇👉「我先隨二師兄商議正事要緊」，<br>
+                且性情≤40，再選擇👉「就地受死」，觸發對決二師兄後落敗。
+            </li>
         </td>
         <td>
             -
