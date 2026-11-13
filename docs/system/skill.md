@@ -463,4 +463,22 @@ tags:
         <br>無法使用點破雲關</td>
         <td>《同舟劍譜》</td>
     </tr>
+    <tr>
+        <td id = "輕微骨裂">輕微骨裂</td>
+        <td>-</td>
+        <td>受到巨力壓迫，導致輕微骨裂。好好靜養就會好。</td>
+        <td>
+            <li>
+                🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper>且
+                🚩<MarkdownWrapper>[觸發郁竹返家](/event/simple/2-04-2-返回崆峒#返抵崆峒)</MarkdownWrapper>。
+            </li>
+            <li>
+                江陵大戰後<Girl6Icon>郁竹</Girl6Icon>好感≥40，且心上人為郁竹，
+                以觸發🚩<MarkdownWrapper>[郁竹被拋棄](/event/simple/2-10-1-南宮訃音#郁竹拜訪)</MarkdownWrapper>。
+            </li>
+            <li>
+                <MarkdownWrapper>[啟程返回唐門](/event/simple/2-10-1-啟程返唐)</MarkdownWrapper>時自動獲得。
+            </li>
+        </td>
+    </tr>
 </table>
