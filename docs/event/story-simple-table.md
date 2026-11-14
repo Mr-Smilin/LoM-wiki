@@ -540,7 +540,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
             [小梅投靠](/event/simple/2-10-3-小梅投靠)<br>
-            梅竹重逢<br>
+            [梅竹重逢](/event/simple/2-10-3-梅竹重逢)<br>
 		</MarkdownWrapper>
     </td>
     <td colspan = 2 style="text-align: center">-</td>
