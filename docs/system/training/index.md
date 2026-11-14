@@ -1202,7 +1202,7 @@ text: '六大派好感',
 		<td>唐家大院</td>
 		<td>煉丹房<br>煉丹</td>
 		<td>小梅下藥</td>
-		<td>-</td>
+		<td>10</td>
 		<td>-</td>
 		<td>
 			觸發<MarkdownWrapper>[「小梅下藥」](/event/simple/2-10-3-小梅下藥)</MarkdownWrapper>事件
@@ -1396,16 +1396,14 @@ text: '六大派好感',
 		<td>13</td>
 		<td>-9</td>
 		<td>
-            • 已建設茶肆: 名聲+1、門派資產+100、設置🚩茶肆添加小梅果子<br>
-            • 未建設茶肆: 門派資產+300<br>
+            觸發<MarkdownWrapper>[「小梅果子」](/event/simple/2-10-3-小梅果子)</MarkdownWrapper>事件
         </td>
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 20</td>
 		<td>
-            • 第二年十二月下旬以前<br>
-            • 🚩虞小梅在唐門<br>
-            • 一次性事件，不可重複觸發<br>
+            <li>請見<MarkdownWrapper>[「小梅日常事件集」](/event/simple/2-10-3-小梅日常事件集#小梅果子)</MarkdownWrapper></li>
+            <li>一次性事件，不可重複觸發</li>
         </td>
 		<td>🚩茶肆添加小梅果子: 目前無作用</td>
 	</tr>
