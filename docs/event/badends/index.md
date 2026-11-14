@@ -330,7 +330,8 @@ tags:
             -
         </td>
         <td>
-            初識<Girl3Icon>小梅</Girl3Icon>、<Girl3Icon>小梅</Girl3Icon>導覽劇情結束後，後續觸發崆峒戰隊戰鬥時戰敗。
+            <li>初識<Girl3Icon>小梅</Girl3Icon>、<Girl3Icon>小梅</Girl3Icon>導覽劇情結束後，後續觸發崆峒戰隊戰鬥時戰敗。</li>
+            <li><MarkdownWrapper>[劍閣到訪](/event/simple/3-01-2-劍閣到訪)</MarkdownWrapper>時，選擇👉「誰說你能全身而退」，觸發戰鐵飛龍落敗。</li>
         </td>
         <td>
             -
