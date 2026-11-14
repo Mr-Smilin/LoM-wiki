@@ -688,17 +688,19 @@ text: '六大派好感',
 		<td>-</td>
 		<td>-</td>
 		<td>
-            🚩葉雲裳在唐門:<br>
-            👉 玩水時間: 心相+20、廚藝+1，唐默鈴好感+2、葉雲裳好感+2，心上人檢定:<br>
+            1. 🚩葉雲裳在唐門:<br>
+            1-1. 👉 玩水時間: 心相+20、廚藝+1，唐默鈴好感+2、葉雲裳好感+2，心上人檢定:<br>
             • 心上人非葉雲裳且心上人非唐默鈴: 變心+3<br>
-            👉 不能打亂計畫: 接續練武隨機事件<br>
             <br>
-            🚩葉雲裳不在唐門:<br>
-            👉 捉魚時間: 心相+20、廚藝+1、唐默鈴好感+2，心上人檢定:<br>
+            1-2. 👉 不能打亂計畫: 接續練武隨機事件<br>
+            <br>
+            2. 🚩葉雲裳不在唐門:<br>
+            2-1. 👉 捉魚時間: 心相+20、廚藝+1、唐默鈴好感+2，心上人檢定:<br>
             • 心上人非唐默鈴: 變心+3<br>
-            👉 不能打亂計畫: 檢定🚩和唐默鈴結緣: <br>
-            • 沒有結緣: 接續練武隨機事件<br>
-            • 有結緣: 武學+3、心相+5、唐默鈴好感+1，開啟修練介面<br>
+            <br>
+            2-2. 👉 不能打亂計畫: 檢定🚩和唐默鈴結緣: <br>
+            • 有結緣: 設置🚩小師妹陪伴練武<br>
+            • 接續練武隨機事件<br>
         </td>
 		<td>-</td>
 		<td>-</td>
@@ -707,6 +709,44 @@ text: '六大派好感',
             • 🚩小師妹在唐門<br>
             • 無🚩關閉後山烤魚(<MarkdownWrapper>[後山安葬](/event/simple/3-01-3-後山安葬)</MarkdownWrapper>到<MarkdownWrapper>[一波暫平](/event/simple/3-02-1-一波暫平)</MarkdownWrapper>)<br>
         </td>
+		<td></td>
+	</tr>
+    <tr>
+		<td>唐家大院</td>
+		<td>後山<br>練武<br>優先</td>
+		<td>郁竹練功</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            👉「來吧」: 武學+2、郁竹好感+1，🚩郁竹練功次數+1<br>
+            👉「不能耽誤自己」: 接續練武隨機事件<br>
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 25</td>
+		<td>
+            • 🚩<MarkdownWrapper>[郁竹在唐門](/event/simple/2-10-2-郁竹拜師)</MarkdownWrapper><br>
+            • 🚩<MarkdownWrapper>[郁竹開始習武](/event/simple/2-10-2-郁竹學武)</MarkdownWrapper><br>
+        </td>
+		<td>-</td>
+	</tr>
+    <tr>
+		<td>唐家大院</td>
+		<td>後山<br>練武<br>優先</td>
+		<td>小梅雙修</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+            內力+3、陰陽+30、虞小梅好感+3
+        </td>
+		<td>-</td>
+		<td>-</td>
+		<td>基礎: 30</td>
+		<td>
+            • <MarkdownWrapper>[《玄燭心經》](/system/books/book_7011)</MarkdownWrapper>修練完畢<br>
+            • 陰陽＜40<br>
+            • 虞小梅在唐門(需🚩<MarkdownWrapper>[和虞小梅結緣](/event/pursuit/girl3)</MarkdownWrapper>)<br>
+        </td>
 		<td>-</td>
 	</tr>
     <tr>
@@ -714,12 +754,26 @@ text: '六大派好感',
 		<td>後山<br>練武</td>
 		<td>正常</td>
 		<td>-</td>
-		<td>-20</td>
-		<td>武學+5，開啟修練介面</td>
-		<td>武學+3</td>
+		<td>-</td>
+		<td>
+            複合檢定(不符才檢定下一項):<br>
+            1. 🚩<MarkdownWrapper>[和唐默鈴結緣](/event/pursuit/girl0)</MarkdownWrapper>，且🚩小師妹陪伴練武(見上方「小師妹烤魚」):<br>
+            • 武學+3、心相+5、唐默鈴好感+1，開啟修練介面<br>
+            <br>
+            2. 🚩<MarkdownWrapper>[郁竹在唐門](/event/simple/2-10-2-郁竹拜師)</MarkdownWrapper>，
+            且未🚩<MarkdownWrapper>[觸發郁竹學武](/event/simple/2-10-2-郁竹學武)</MarkdownWrapper>，
+            且時間≤第三年一月上旬，<br>
+            滿足以上，機率60%隨機觸發:<br>
+            • 接<MarkdownWrapper>[郁竹學武](/event/simple/2-10-2-郁竹學武)</MarkdownWrapper>事件<br>
+            <br>
+            3. 其他情況:<br>
+            • 武學+5。若心相≥65，追加武學+3。<br>
+            • 心相-20，開啟修練介面<br>
+        </td>
+		<td>-</td>
 		<td>-</td>
 		<td>基礎: 100</td>
-		<td>-</td>
+		<td></td>
 		<td>-</td>
 	</tr>
     <tr>
