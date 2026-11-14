@@ -554,7 +554,7 @@ tags:
     <td style="text-align: center">
         <MarkdownWrapper>
             [郁竹受歡迎](/event/simple/2-11-1-郁竹受歡迎)<br>
-            竹之心<br>            
+            [竹之心](/event/simple/2-11-1-竹之心)<br>            
             [唐門例會](/event/simple/1-07-1-唐門例會)<br>
         </MarkdownWrapper>
     </td>
