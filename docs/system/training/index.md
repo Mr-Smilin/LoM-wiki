@@ -762,8 +762,7 @@ text: '六大派好感',
             <br>
             2. 🚩<MarkdownWrapper>[郁竹在唐門](/event/simple/2-10-2-郁竹拜師)</MarkdownWrapper>，
             且未🚩<MarkdownWrapper>[觸發郁竹學武](/event/simple/2-10-2-郁竹學武)</MarkdownWrapper>，
-            且時間≤第三年一月上旬，<br>
-            滿足以上，機率60%隨機觸發:<br>
+            且時間≤第三年一月上旬。滿足以上，機率60%隨機觸發:<br>
             • 接<MarkdownWrapper>[郁竹學武](/event/simple/2-10-2-郁竹學武)</MarkdownWrapper>事件<br>
             <br>
             3. 其他情況:<br>
