@@ -1405,7 +1405,7 @@ text: '六大派好感',
             <li>請見<MarkdownWrapper>[「小梅日常事件集」](/event/simple/2-10-3-小梅日常事件集#小梅果子)</MarkdownWrapper></li>
             <li>一次性事件，不可重複觸發</li>
         </td>
-		<td>🚩茶肆添加小梅果子: 目前無作用</td>
+		<td></td>
 	</tr>
     <tr>
 		<td>唐家大院</td>
