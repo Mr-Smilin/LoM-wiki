@@ -1203,25 +1203,18 @@ text: '六大派好感',
 	<tr>
 		<td>唐家大院</td>
 		<td>煉丹房<br>煉丹</td>
-		<td>小梅的復仇</td>
-		<td>10</td>
-		<td>-16</td>
+		<td>小梅下藥</td>
+		<td>-</td>
+		<td>-</td>
 		<td>
-			👉不要這樣啦: 觸發對決<br>
-            • 勝: 武學+2(全武學＜200)或+5(全武學＜120)，虞小梅好感-2<br>
-            • 敗: 武學+2(全武學＜120)、向心+1<br>
-            <br>
-			👉我來幫妳:<br>
-            • 道德-2<br>
-            • 虞小梅好感+2、唐惟元好感-3<br>
+			觸發<MarkdownWrapper>[「小梅下藥」](/event/simple/2-10-3-小梅下藥)</MarkdownWrapper>事件
 		</td>
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 30</td>
 		<td>
-            • 最晚第二年十二月下旬<br>
-            • 🚩小梅在唐門<br>
-            • 一次性事件，不可重複觸發
+            <li>請見<MarkdownWrapper>[「小梅日常事件集」](/event/simple/2-10-3-小梅日常事件集#小梅下藥)</MarkdownWrapper></li>
+            <li>一次性事件，不可重複觸發</li>
         </td>
 		<td>-</td>
 	</tr> 
