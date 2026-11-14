@@ -801,16 +801,14 @@ text: '六大派好感',
 		<td>-</td>
 		<td>-</td>
 		<td>
-            • 心上人為虞小梅: 虞小梅好感≥45，心相+30<br>
-            • 心上人非虞小梅: 唐布衣好感＜40，對話差分<br>
+            觸發<MarkdownWrapper>[「小梅亂入」](/event/simple/2-10-3-小梅亂入)</MarkdownWrapper>事件
         </td>
 		<td>-</td>
 		<td>-</td>
 		<td>基礎: 55</td>
 		<td>
-            • 🚩虞小梅在唐門<br>
-            • 最晚第二年十二月下旬<br>
-            • 一次性事件，不可重複觸發<br>
+            <li>請見<MarkdownWrapper>[「小梅日常事件集」](/event/simple/2-10-3-小梅日常事件集#小梅亂入)</MarkdownWrapper></li>
+            <li>一次性事件，不可重複觸發</li>
         </td>
 		<td>-</td>
 	</tr>    
