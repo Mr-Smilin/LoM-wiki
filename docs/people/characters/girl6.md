@@ -789,7 +789,7 @@ aside: false
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/mintty_candy/photo_06.webp" alt="活俠展設定圖（感謝薄荷糖果大俠提供）" title="活俠展設定圖（感謝薄荷糖果大俠提供）" style="width:200px; margin:5px"/>
+        <img src="/images/collab/mintty_candy/photo_06.webp" alt="台灣漫畫基地〈某人的傳說展〉設定圖（感謝薄荷糖果大俠提供）" title="台灣漫畫基地〈某人的傳說展〉設定圖（感謝薄荷糖果大俠提供）" style="width:200px; margin:5px"/>
     </div>
 </div>
 
