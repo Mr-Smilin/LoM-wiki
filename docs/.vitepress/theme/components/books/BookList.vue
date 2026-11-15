@@ -129,7 +129,7 @@
                 </div>
               </td>
               <td class="bk-req">
-                <template v-for="(line, i) in row.requires" :key="i"><br v-if="i" />{{ line }}</template>
+                <span v-for="(line, i) in row.reqLines" :key="i" class="bk-reqline">{{ line }}</span>
               </td>
               <td class="bk-num">{{ row.points }}</td>
               <td class="bk-num">{{ row.price }}</td>
@@ -161,18 +161,40 @@ const { localeIndex } = useData()
 const TEXTS = {
   root: {
     placeholder: '搜尋書名、素質、天賦', filter: '篩選', kind: '種類', stat: '素質', talent: '天賦', all: '全部',
-    clear: '清除篩選', swipe: '左右滑看更多欄位', empty: '找不到符合的秘笈。',
+    clear: '清除篩選', swipe: '左右滑看更多欄位', empty: '找不到符合的秘笈。', or: '或',
     total: n => `共 ${n} 本`, found: n => `找到 ${n} 本`,
     headers: { name: '秘笈', kind: '種類', bonus: '素質', talents: '天賦', requires: '條件', points: '武學點', price: '價格' }
   },
   'zh-hans': {
     placeholder: '搜索书名、素质、天赋', filter: '筛选', kind: '种类', stat: '素质', talent: '天赋', all: '全部',
-    clear: '清除筛选', swipe: '左右滑看更多栏位', empty: '找不到符合的秘笈。',
+    clear: '清除筛选', swipe: '左右滑看更多栏位', empty: '找不到符合的秘笈。', or: '或',
     total: n => `共 ${n} 本`, found: n => `找到 ${n} 本`,
     headers: { name: '秘笈', kind: '种类', bonus: '素质', talents: '天赋', requires: '条件', points: '武学点', price: '价格' }
   }
 }
 const t = computed(() => TEXTS[localeIndex.value] || TEXTS.root)
+
+// 修練條件排成一行一行（資料已經在 books.data.mjs 拆成 [{ level, items: [[甲, 乙], [丙]] }]，items 之間是且、[甲, 乙] 是或）
+//   只有一組「或」：照舊分行、中間夾一行「或」；跟其他條件寫在一起：同一行寫「甲 或 乙」，才分得出哪幾個是或
+//   各級不同：一級一行「LV2～3：學問30」
+function reqLines(requires) {
+  const or = t.value.or
+  const lines = []
+  for (const { level, items } of requires) {
+    const parts = items.map(alts => alts.join(` ${or} `))
+    if (level) {
+      lines.push(`${level}：${parts.join('、')}`)
+    } else if (items.length === 1 && items[0].length > 1) {
+      items[0].forEach((alt, i) => {
+        if (i) lines.push(or)
+        lines.push(alt)
+      })
+    } else {
+      lines.push(...parts)
+    }
+  }
+  return lines
+}
 
 // 書頁的資料（簡中讀轉好的那份，其他語系先用繁中）
 const rows = computed(() => (BOOKS[localeIndex.value] || BOOKS.root).map(book => ({
@@ -180,7 +202,9 @@ const rows = computed(() => (BOOKS[localeIndex.value] || BOOKS.root).map(book =>
   href: withBase(book.url),
   icon: withBase(`/images/items/books/item_book_${book.no}.webp`),
   priceNum: typeof book.price === 'number' ? book.price : parseInt(book.price, 10),
-  haystack: [book.title, book.kind, ...book.bonus.map(([name]) => name), ...book.talents, ...book.requires].join(' ').toLowerCase()
+  reqLines: reqLines(book.requires),
+  // 搜尋只比對條件本身，不含顯示用的「或」和等級
+  haystack: [book.title, book.kind, ...book.bonus.map(([name]) => name), ...book.talents, ...book.requires.flatMap(group => group.items.flat())].join(' ').toLowerCase()
 })))
 const iconBack = computed(() => ({ backgroundImage: `url('${withBase('/images/generic/background/icon_item_back_3.webp')}')` }))
 
@@ -562,6 +586,9 @@ th.bk-namecol {
   line-height: 1.5;
 }
 
+.bk-reqline {
+  display: block;
+}
 .bk-empty {
   color: var(--vp-c-text-2);
 }

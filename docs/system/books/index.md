@@ -13,7 +13,7 @@ tags:
 
 <!--
   資料不寫在這頁：每本秘笈的種類、武學點、價格、素質、天賦、條件寫在那本書頁開頭的 book:，建置時自動收集到這裡。
-  格式見 .vitepress/theme/data/books.data.mjs 開頭的說明。新增一本秘笈：新增書頁 system/books/book_代號.md、開頭寫 book: 那段，列表會自動多一列。
+  格式見 .vitepress/theme/data/books.data.mjs 開頭的說明（〈LoM-wiki 公開組件〉的「BookList 秘笈列表」也有範例）。新增一本秘笈：新增書頁 system/books/book_代號.md、開頭寫 book: 那段，列表會自動多一列。
   下面三排按鈕：kinds 種類、stats 素質、talents 常用天賦，照寫的順序排；要增減按鈕改這裡。
 -->
 <BookList
