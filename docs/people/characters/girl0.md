@@ -412,6 +412,9 @@ aside: false
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_10.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/mintty_candy/photo_11.webp" alt="活俠展設定圖（感謝薄荷糖果大俠提供）" title="活俠展設定圖（感謝薄荷糖果大俠提供）" style="width:200px; margin:5px"/>
+    </div>
+    <div>
+        <img src="/images/collab/mintty_candy/photo_01.webp" alt="活俠展設定圖（感謝薄荷糖果大俠提供）" title="活俠展設定圖（感謝薄荷糖果大俠提供）" style="width:200px; margin:5px"/>
     </div>
 </div>

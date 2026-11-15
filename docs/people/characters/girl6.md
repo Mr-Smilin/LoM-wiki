@@ -784,6 +784,15 @@ aside: false
 -   溫柔全肯定廢人養成機。[^2]
 -   因結局兒女成群，還嫌家中虎鞭酒庫存不夠，在玩家間「竹球隊」一詞不脛而走。
 -   活俠官方巴哈姆特30週年合作賀圖，[[上官螢]]也覬覦郁竹。[^12]
+
+## 畫廊
+
+<div style="display: flex; flex-wrap: wrap;">
+    <div>
+        <img src="/images/collab/mintty_candy/photo_06.webp" alt="活俠展設定圖（感謝薄荷糖果大俠提供）" title="活俠展設定圖（感謝薄荷糖果大俠提供）" style="width:200px; margin:5px"/>
+    </div>
+</div>
+
 [^1]: 巴哈姆特－[【情報】關於龍湘屁股大小的答案+私聊鳥熊的對話訊息](https://forum.gamer.com.tw/C.php?bsn=73317&snA=2973&tnum=8)
 [^2]: [[問答集2024年10月#_2024-10-15|問答集2024-10-15]]，Part2。
 [^3]: 巴哈姆特 - [RE:【情報】鳥熊問答集](https://forum.gamer.com.tw/Co.php?bsn=73317&sn=12029)
