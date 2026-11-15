@@ -66,11 +66,11 @@ const baseConfig = {
 				text: "事件",
 				items: [
 					{
-						text: "主支線年表",
-						link: "/event/story-branch-timeline",
+						text: "劇情攻略彙總",
+						link: "/event/guide-list",
 					},
 					{
-						text: "主支線簡易表格",
+						text: "事件列表",
 						link: "/event/story-simple-table",
 					},
 					{
