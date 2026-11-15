@@ -11,6 +11,7 @@
   按鈕的字寫在列表頁，簡中頁建置時會跟著轉成簡體。
 
   搜尋：空格分隔的每個詞都要符合（比對書名、種類、素質、天賦、條件）。
+  條件的比較符號：書頁寫半形（>= <= > < ==），表格上顯示成全形（≧ ≦ ＞ ＜ ＝）；搜尋打哪一種都找得到。
   表格自己一個捲動區（約一個畫面高）：表頭黏在上面、書名欄黏在左邊；比畫面寬時上方提示可以左右滑。
 -->
 <template>
@@ -174,20 +175,30 @@ const TEXTS = {
 }
 const t = computed(() => TEXTS[localeIndex.value] || TEXTS.root)
 
+// 比較符號：書頁寫半形，表格上顯示成全形；搜尋時把打進來的全形換回半形，跟書頁的寫法比對
+const FULL_OPS = { '>=': '≧', '<=': '≦', '==': '＝', '>': '＞', '<': '＜' }
+const fullOps = text => text.replace(/>=|<=|==|>|</g, op => FULL_OPS[op])
+const halfOps = text => text
+  .replace(/≧|＞＝/g, '>=')
+  .replace(/≦|＜＝/g, '<=')
+  .replace(/＝＝|＝/g, '==')
+  .replace(/＞/g, '>')
+  .replace(/＜/g, '<')
+
 // 修練條件排成一行一行（資料已經在 books.data.mjs 拆成 [{ level, items: [[甲, 乙], [丙]] }]，items 之間是且、[甲, 乙] 是或）
 //   只有一組「或」：照舊分行、中間夾一行「或」；跟其他條件寫在一起：同一行寫「甲 或 乙」，才分得出哪幾個是或
-//   各級不同：一級一行「LV2～3：學問30」
+//   各級不同：一級一行「LV2～3：學問≧30」
 function reqLines(requires) {
   const or = t.value.or
   const lines = []
   for (const { level, items } of requires) {
-    const parts = items.map(alts => alts.join(` ${or} `))
+    const parts = items.map(alts => alts.map(fullOps).join(` ${or} `))
     if (level) {
       lines.push(`${level}：${parts.join('、')}`)
     } else if (items.length === 1 && items[0].length > 1) {
       items[0].forEach((alt, i) => {
         if (i) lines.push(or)
-        lines.push(alt)
+        lines.push(fullOps(alt))
       })
     } else {
       lines.push(...parts)
@@ -217,7 +228,7 @@ const stat = ref('')
 const talent = ref('')
 const showMore = ref(false)
 
-const terms = computed(() => query.value.toLowerCase().split(/\s+/).filter(Boolean))
+const terms = computed(() => halfOps(query.value.toLowerCase()).split(/\s+/).filter(Boolean))
 const pickedCount = computed(() => (stat.value ? 1 : 0) + (talent.value ? 1 : 0))
 const hasFilter = computed(() => terms.value.length > 0 || !!kind.value || pickedCount.value > 0)
 
