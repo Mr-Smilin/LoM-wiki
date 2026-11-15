@@ -78,8 +78,6 @@ const I18N = {
     },
 };
 
-const DEFAULT_NO = 1;
-
 export default {
     components: { ImageDownloadButton },
     setup() {
@@ -122,8 +120,7 @@ export default {
         } catch (e) {
             console.error("badend_texts.json 載入失敗", e); // 範本載不到不影響手動輸入
         }
-        this.presetNo = this.presets.some((p) => p.no === DEFAULT_NO) ? DEFAULT_NO : null;
-        this.applyPreset();
+        this.randomPreset();
     },
     beforeUnmount() {
         this.mq?.removeEventListener("change", this.onMq);
