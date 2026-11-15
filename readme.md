@@ -193,9 +193,7 @@ npm run dev
 例外：`buildBadendTexts.js`、`buildEndTexts.js` **不在建置時執行**。生死簿、汗青書的文字很少變動，產出的 json 直接進 Git；生死簿列表頁 (`event/badends/index.md`) 或結局頁 (`event/ends/end-*.md`) 有修改時，手動跑一次再提交：
 
 ```bash
-node tools/buildSimplifiedChinese.js   # 先產生 zh-hans 頁面
-node tools/buildBadendTexts.js
-node tools/buildEndTexts.js
+npm run build:image-texts   # 先產生 zh-hans 頁面，再更新 badend_texts.json、end_texts.json
 ```
 
 | 檔案 | 用途 |

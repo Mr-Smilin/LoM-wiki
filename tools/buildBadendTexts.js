@@ -1,7 +1,7 @@
 // 從各語系的生死簿列表頁 (event/badends/index.md) 抽出「結局名稱 + 結局文字」,
 // 產生生死簿圖片產生器的範本資料 docs/public/json/badend_texts.json。
 // 死法文字很少變動, json 直接進 git, 不在 build 時跑; 生死簿列表頁有改再手動執行:
-//   node tools/buildSimplifiedChinese.js && node tools/buildBadendTexts.js  (zh-hans 頁面由前者生成)
+//   npm run build:image-texts
 // 英文站沒有生死簿列表頁, 產生器端會回退繁中。
 const fs = require("fs");
 

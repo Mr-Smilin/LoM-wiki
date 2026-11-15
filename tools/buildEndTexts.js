@@ -1,7 +1,7 @@
 // 從各語系的汗青書結局頁 (event/ends/end-*.md) 的 <EndBackground> 抽出「編號 + 結局名稱 + 結局文字」,
 // 產生汗青書圖片產生器的範本資料 docs/public/json/end_texts.json。
 // 結局文字很少變動, json 直接進 git, 不在 build 時跑; 結局頁有改再手動執行:
-//   node tools/buildSimplifiedChinese.js && node tools/buildEndTexts.js  (zh-hans 頁面由前者生成)
+//   npm run build:image-texts
 // 缺頁的語系 (如英文站) 產生器端會回退繁中。
 const fs = require("fs");
 const path = require("path");
