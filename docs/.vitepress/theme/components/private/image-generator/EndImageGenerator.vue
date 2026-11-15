@@ -1,6 +1,6 @@
 <template>
     <div id="image-generator">
-        <EndBackground :imageSource="imageSource" :title="title">
+        <EndBackground :no="presetNo" :imageSource="imageSource" :title="title">
             {{ autoLineBreak(autoLineBreakTagReplace(context)) }}
         </EndBackground>
     </div>
@@ -11,19 +11,28 @@
         {{ t.mobileNote }}<br>
         <ImageDownloadButton :target="captureTarget" prefix="LoM"></ImageDownloadButton>
         <div type="button" class="btn" @click="clearData()">{{ t.btnClear }}</div>
-        <div type="button" class="btn" @click="showExampleData()">{{ t.btnExample }}</div>
+        <div type="button" class="btn" @click="randomPreset()">{{ t.btnRandom }}</div>
+    </div>
+    <hr>
+    <div>
+        {{ t.presetLabel }}
+        <br>
+        <select class="title-input" v-model="presetNo" @change="applyPreset()">
+            <option :value="null">{{ t.presetNone }}</option>
+            <option v-for="p in presets" :key="p.no" :value="p.no">{{ t.endPrefix }}{{ p.no }} {{ p.title }}</option>
+        </select>
     </div>
     <hr>
     <div>
         {{ t.titleLabel }}
         <br>
-        <input name="title-input" type="text" class="title-input" v-model="title">
+        <input name="title-input" type="text" class="title-input" v-model="title" @input="presetNo = null">
     </div>
     <hr>
     <div>
         {{ t.contentLabel }}
         <br>
-        <textarea name="context-input" type="text" class="content-input" :placeholder="t.contentPlaceholder" v-model="context"></textarea>
+        <textarea name="context-input" type="text" class="content-input" :placeholder="t.contentPlaceholder" v-model="context" @input="presetNo = null"></textarea>
         <br>
         <input type="checkbox" id="auto-line-break" checked @change="triggerAutoLineBreak()">
         <label for="auto-line-break">{{ t.autoBreak }}</label>
@@ -40,7 +49,7 @@
     </div>
 </template>
 <script>
-    import { useData } from "vitepress";
+    import { useData, withBase } from "vitepress";
     import ImageDownloadButton from "./ImageDownloadButton.vue";
 
     // 所有對外文字的多語表; 缺該語系時 t 會回退繁中 (zh)
@@ -52,13 +61,16 @@
             ja: "注：本画像ジェネレーターは『活俠傳 (Legend of Mortal)』の宣伝目的のみに使用してください。<br>商用利用は禁止です。"
         },
         mobileNote: {
-            zh: "部分瀏覽器與行動裝置若無法直接下載，將改以「分享」方式儲存圖片。",
-            "zh-hans": "部分浏览器与移动设备若无法直接下载，将改用「分享」方式保存图片。",
-            en: "On some browsers and mobile devices, the image is saved via the \"Share\" dialog instead of a direct download.",
-            ja: "一部のブラウザ・モバイル端末では、直接ダウンロードの代わりに「共有」から画像を保存します。"
+            zh: "iPhone / iPad 會以「分享」方式儲存圖片，請選「儲存影像」。",
+            "zh-hans": "iPhone / iPad 会以「分享」方式保存图片，请选「存储图像」。",
+            en: "On iPhone / iPad the image is saved via the Share sheet; choose \"Save Image\".",
+            ja: "iPhone / iPad では「共有」から「画像を保存」を選んでください。"
         },
         btnClear: { zh: "清除全部資料", "zh-hans": "清除全部数据", en: "Clear All", ja: "すべてクリア" },
-        btnExample: { zh: "帶入範本", "zh-hans": "载入模板", en: "Load Example", ja: "サンプルを読み込む" },
+        btnRandom: { zh: "隨機一個結局", "zh-hans": "随机一个结局", en: "Random Ending", ja: "ランダム" },
+        presetLabel: { zh: "套用遊戲內結局：", "zh-hans": "套用游戏内结局：", en: "Use an in-game ending:", ja: "ゲーム内の結末を使う：" },
+        presetNone: { zh: "（自訂）", "zh-hans": "（自定义）", en: "(custom)", ja: "（カスタム）" },
+        endPrefix: { zh: "結局 ", "zh-hans": "结局 ", en: "Ending ", ja: "結末 " },
         titleLabel: { zh: "請在這裡輸入標題：", "zh-hans": "请在这里输入标题：", en: "Enter a title here:", ja: "タイトルを入力：" },
         contentLabel: { zh: "請在這裡輸入內容：", "zh-hans": "请在这里输入内容：", en: "Enter the content here:", ja: "内容を入力：" },
         contentPlaceholder: { zh: "請在此輸入內容", "zh-hans": "请在此输入内容", en: "Enter content here", ja: "内容を入力してください" },
@@ -101,20 +113,36 @@
             return {
                 imageSource: "",
                 title: "",
-                context: ""
+                context: "",
+                presetNo: null,
+                allPresets: {}
             }
         },
         computed: {
-            // 依當前語系挑字串, localeIndex 為 "root" 時視為 zh
+            // localeIndex 為 "root" 時視為 zh
+            lang() {
+                const l = this.localeIndex;
+                return (l === "en" || l === "ja" || l === "zh-hans") ? l : "zh";
+            },
+            // 依當前語系挑字串
             t() {
-                const l = (this.localeIndex === "en" || this.localeIndex === "ja" || this.localeIndex === "zh-hans") ? this.localeIndex : "zh";
                 const out = {};
-                for (const key in I18N) out[key] = I18N[key][l] ?? I18N[key].zh;
+                for (const key in I18N) out[key] = I18N[key][this.lang] ?? I18N[key].zh;
                 return out;
+            },
+            // 缺該語系結局頁時回退繁中
+            presets() {
+                return this.allPresets[this.lang] ?? this.allPresets.zh ?? [];
             }
         },
-        mounted(){
-            this.showExampleData();
+        async mounted(){
+            try {
+                this.allPresets = await (await fetch(withBase("/json/end_texts.json"))).json();
+            } catch (e) {
+                console.error("end_texts.json 載入失敗", e); // 範本載不到不影響手動輸入
+            }
+            if (this.presets.length) this.randomPreset();
+            else this.showExampleData();
         },
         methods: {
             handleImageUpload() {
@@ -148,13 +176,28 @@
                 node.style.backgroundColor = '#111';
                 return { node, w: node.clientWidth, h: node.clientHeight };
             },
+            applyPreset(){
+                const p = this.presets.find((x) => x.no === this.presetNo);
+                if (!p) return;
+                // 結局原文已依遊戲排版斷行, 關掉自動換行以免二次切斷
+                document.getElementById("auto-line-break").checked = false;
+                this.title = p.title;
+                this.context = p.text;
+            },
+            randomPreset(){
+                if (!this.presets.length) return;
+                this.presetNo = this.presets[Math.floor(Math.random() * this.presets.length)].no;
+                this.applyPreset();
+            },
             clearData(){
+                this.presetNo = null;
                 this.title = "";
                 this.context = "";
                 this.imageSource = "";
                 return true;
             },
             showExampleData(){
+                this.presetNo = null;
                 this.title = this.t.exampleTitle;
                 this.context = this.t.exampleContext;
                 this.imageSource = "/images/generic/background/pic_end_0000.webp";
