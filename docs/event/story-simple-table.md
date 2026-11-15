@@ -1,6 +1,6 @@
 ---
 borderless: true
-title: 主支線簡易表格
+title: 事件列表
 outline: [2, 3]
 tags:
     - simple
