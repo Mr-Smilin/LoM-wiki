@@ -166,9 +166,8 @@ tags:
   </td>
   <td>
     <li>
-        若欲獲得<MarkdownWrapper>[「玉霄神匕」](/system/forge-roadmap#玉霄神匕)</MarkdownWrapper>，<br>
-        此時必須留守山上。獲得<br>
-        的詳細流程較複雜，請見<br>
+        若欲獲得<MarkdownWrapper>[「玉霄神匕」](/system/forge-roadmap#玉霄神匕)</MarkdownWrapper>，此時必須留守<br>
+        山上。獲得的詳細流程較複雜，請見<br>
         該裝備條目。
     </li>
   </td>
