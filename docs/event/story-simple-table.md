@@ -673,8 +673,8 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				    [唐門例會](/event/simple/1-07-1-唐門例會)<br>
+                    [郁竹的家書](/event/simple/3-02-1-郁竹的家書)<br>
                     [一波暫平](/event/simple/3-02-1-一波暫平)<br>
-                    郁竹的家書<br>
                     梅竹辭別<br>
 				</MarkdownWrapper>
 			</td>
