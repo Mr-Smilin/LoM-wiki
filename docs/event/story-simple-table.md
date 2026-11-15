@@ -678,7 +678,7 @@ tags:
                     [郁竹的家書](/event/simple/3-02-1-郁竹的家書)<br>
                     [一波暫平](/event/simple/3-02-1-一波暫平)<br>
                     [梅竹辭別](/event/simple/3-02-1-梅竹辭別)<br>
-                    雲裳關心<br>
+                    [雲裳關心](/event/simple/3-02-1-雲裳關心)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
