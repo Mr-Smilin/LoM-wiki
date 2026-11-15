@@ -182,13 +182,21 @@ npm run dev
 `./docs/public/images/index` 存放首頁用圖片  
 `./docs/public/images/items` 存放物品圖片, 會依據類別做分類  
 `./docs/public/images/factions`、`mobs`、`engagement`、`guide`、`news`、`qna`、`collab`、`story-branch-timeline` 存放對應頁面用圖片  
-`./docs/public/json` 存放 JSON 檔案（`contributors.json`、`badend_list.json`、`badend_texts.json` 為建置時生成，不進 Git）
+`./docs/public/json` 存放 JSON 檔案（`contributors.json`、`badend_list.json` 為建置時生成，不進 Git；`badend_texts.json`、`end_texts.json` 手動生成並進 Git，見下方 `buildBadendTexts.js`、`buildEndTexts.js`）
 
 ### `./node_modules` 存放 npm 模組, 一般為 npm 自行創建, 不會隨著你的 commit 提交, 也不會、不應讓你去修改它。
 
 ### `./tools` 存放開發打包工具
 
 由 `npm run dev` / `npm run build` 自動執行，一般不需手動呼叫。
+
+例外：`buildBadendTexts.js`、`buildEndTexts.js` **不在建置時執行**。生死簿、汗青書的文字很少變動，產出的 json 直接進 Git；生死簿列表頁 (`event/badends/index.md`) 或結局頁 (`event/ends/end-*.md`) 有修改時，手動跑一次再提交：
+
+```bash
+node tools/buildSimplifiedChinese.js   # 先產生 zh-hans 頁面
+node tools/buildBadendTexts.js
+node tools/buildEndTexts.js
+```
 
 | 檔案 | 用途 |
 |---|---|
@@ -197,7 +205,8 @@ npm run dev
 | `zhHansVariantMap.js` | 台灣慣用異體字對照表（上兩者共用） |
 | `buildNewsList.js` | 產生官方更新列表 `docs/other/news.md` |
 | `buildBadendList.js` | 產生生死簿列表資料 |
-| `buildBadendTexts.js` | 產生生死簿圖片產生器的範本資料 |
+| `buildBadendTexts.js` | 產生生死簿圖片產生器的範本資料 `docs/public/json/badend_texts.json` |
+| `buildEndTexts.js` | 產生汗青書圖片產生器的結局資料 `docs/public/json/end_texts.json` |
 | `buildLocalePageManifest.js` | 產生各語系已存在頁面清單，避免連到未翻譯頁 |
 | `buildWikiLinkIndex.js` | 產生 WikiLink 標題索引 |
 | `buildContributors.js` | 產生貢獻者名單 |
