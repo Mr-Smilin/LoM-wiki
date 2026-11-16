@@ -1,6 +1,6 @@
 <template>
     <div id="image-generator">
-        <EndBackground :no="presetNo" :imageSource="imageSource" :title="title">
+        <EndBackground :no="coverNo" :imageSource="imageSource" :title="title">
             {{ autoLineBreak(autoLineBreakTagReplace(context)) }}
         </EndBackground>
     </div>
@@ -115,6 +115,7 @@
                 title: "",
                 context: "",
                 presetNo: null,
+                coverNo: null,
                 allPresets: {}
             }
         },
@@ -181,6 +182,7 @@
                 if (!p) return;
                 // 結局原文已依遊戲排版斷行, 關掉自動換行以免二次切斷
                 document.getElementById("auto-line-break").checked = false;
+                this.coverNo = p.no;
                 this.title = p.title;
                 this.context = p.text;
             },
@@ -191,6 +193,7 @@
             },
             clearData(){
                 this.presetNo = null;
+                this.coverNo = null;
                 this.title = "";
                 this.context = "";
                 this.imageSource = "";
@@ -198,6 +201,7 @@
             },
             showExampleData(){
                 this.presetNo = null;
+                this.coverNo = null;
                 this.title = this.t.exampleTitle;
                 this.context = this.t.exampleContext;
                 this.imageSource = "/images/generic/background/pic_end_0000.webp";
