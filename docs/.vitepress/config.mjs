@@ -1060,7 +1060,7 @@ const baseConfig = {
 								link: "/ja/system/engagement/battle-ui",
 							},
 							{
-								text: "鍛冶場・煉丹房 開発ロードマップ",
+								text: "開発項目ロードマップ",
 								link: "/ja/system/forge-roadmap",
 							},
 							{ text: "道具一覧", link: "/ja/system/items" },
@@ -1076,11 +1076,11 @@ const baseConfig = {
 						text: "イベント",
 						items: [
 							{
-								text: "メイン・サブシナリオ年表",
-								link: "/ja/event/story-branch-timeline",
+								text: "シナリオ攻略まとめ",
+								link: "/ja/event/guide-list",
 							},
 							{
-								text: "シナリオ簡易表",
+								text: "イベント一覧",
 								link: "/ja/event/story-simple-table",
 							},
 							{

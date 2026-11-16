@@ -1,6 +1,6 @@
 ---
 borderless: true
-title: シナリオ簡易表
+title: イベント一覧
 outline: [2, 3]
 tags:
     - simple
@@ -9,6 +9,8 @@ tags:
 ---
 
 # {{ $frontmatter.title }}
+- 本表の各項目では、ゲーム内の各イベントの詳細な流れを整理している。
+- 重要な分岐に関するシナリオ攻略の指針は、[「シナリオ攻略まとめ」](/ja/event/guide-list)を参照。
 
 ## 任意の時期
 <div class="table-container">
@@ -482,7 +484,6 @@ tags:
         <MarkdownWrapper>
 			[江陵決戦の前夜](/ja/event/simple/2-10-1-江陵決戰前夜)<br>
 			[江陵決戦](/ja/event/simple/2-10-1-江陵決戰)<br>
-			[南宮家からの訃報](/ja/event/simple/2-10-1-南宮訃音)<br>
 			[唐門に帰還](/ja/event/simple/2-10-1-返回唐門)<br>
             [襄陽行](/ja/event/simple/2-10-1-襄陽行)<br>
         </MarkdownWrapper>
@@ -505,8 +506,8 @@ tags:
         <MarkdownWrapper>
             [弾珠台の修理](/ja/system/pinball#修理弾珠檯)<br>
             [雲裳との再会](/ja/event/simple/2-10-2-雲裳重逢)<br>
-            鍛冶場の拡張<br>
-            郁竹の武芸修行<br>
+            [鍛冶場の拡張](/ja/event/simple/2-10-2-鍛冶場升級)<br>
+            [郁竹の武芸修行](/ja/event/simple/2-10-2-郁竹學武)<br>
 		</MarkdownWrapper>
     </td>
     <td colspan = 2 style="text-align: center">
@@ -525,9 +526,9 @@ tags:
     <td style="text-align: center">下</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            梅竹の再会<br>
-			[小梅、唐門を頼る](/ja/event/simple/2-10-3-小梅投靠)<br>
-			[虞小梅がらみのランダムイベント](/ja/event/simple/2-10-3-虞小梅相關)<br>
+            [小梅、唐門を頼る](/ja/event/simple/2-10-3-小梅投靠)<br>
+            [梅竹の再会](/ja/event/simple/2-10-3-梅竹重逢)<br>
+            [小梅の日常イベント集](/ja/event/simple/2-10-3-小梅日常事件集)<br>
         </MarkdownWrapper>
     </td>
     <td style="text-align: center">-</td>
@@ -540,8 +541,8 @@ tags:
     <td style="text-align: center">上</td>
     <td style="text-align: center">
         <MarkdownWrapper>
-            郁竹の人気<br>
-            竹の心<br>
+            [郁竹の人気](/ja/event/simple/2-11-1-郁竹受歡迎)<br>
+            [竹の心](/ja/event/simple/2-11-1-竹之心)<br>
             [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
         </MarkdownWrapper>
     </td>
@@ -649,9 +650,10 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				    [唐門会議](/ja/event/simple/1-07-1-唐門例會)<br>
+                    [郁竹の家書](/ja/event/simple/3-02-1-郁竹的家書)<br>
                     [一時の平穏](/ja/event/simple/3-02-1-一波暫平)<br>
-                    郁竹の家書<br>
-                    梅竹の別れ<br>
+                    [梅竹の別れ](/ja/event/simple/3-02-1-梅竹辭別)<br>
+                    [雲裳の気遣い](/ja/event/simple/3-02-1-雲裳關心)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>

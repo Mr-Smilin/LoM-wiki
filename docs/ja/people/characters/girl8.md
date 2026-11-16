@@ -517,16 +517,19 @@ borderless: false
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_22.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/mintty_candy/photo_15.webp" alt="虎の穴〈展你娘親！〉設定画（薄荷糖果氏提供）" title="虎の穴〈展你娘親！〉設定画（薄荷糖果氏提供）" style="width:200px; margin:5px"/>
     </div>
-	<div>
-        <img src="/images/collab/20241220_toranoana/photo_16.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
+    <div>
+        <img src="/images/collab/20241220_toranoana/photo_16.webp" alt="虎の穴〈展你娘親！〉設定画（dbfox氏提供）" title="虎の穴〈展你娘親！〉設定画（dbfox氏提供）" style="width:200px; margin:5px"/>
     </div>
-	<div>
-        <img src="/images/collab/20241220_toranoana/photo_20.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
+    <div>
+        <img src="/images/collab/mintty_candy/photo_19.webp" alt="虎の穴〈展你娘親！〉設定画（薄荷糖果氏提供）" title="虎の穴〈展你娘親！〉設定画（薄荷糖果氏提供）" style="width:200px; margin:5px"/>
     </div>
-	<div>
-        <img src="/images/collab/20241220_toranoana/photo_21.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
+    <div>
+        <img src="/images/collab/mintty_candy/photo_18.webp" alt="虎の穴〈展你娘親！〉設定画（薄荷糖果氏提供）" title="虎の穴〈展你娘親！〉設定画（薄荷糖果氏提供）" style="width:200px; margin:5px"/>
+    </div>
+    <div>
+        <img src="/images/collab/mintty_candy/photo_02.webp" alt="台湾漫画基地〈ある人の伝説展〉設定画（薄荷糖果氏提供）" title="台湾漫画基地〈ある人の伝説展〉設定画（薄荷糖果氏提供）" style="width:200px; margin:5px"/>
     </div>
 </div>
 

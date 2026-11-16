@@ -871,7 +871,15 @@ tags:
         <td>対毒15<br>対麻痺15<br>医術LV1</td>
         <td>50</td>
         <td>学問20 (LV5)</td>
-        <td>囲城イベント後帰宅し、<MarkdownWrapper>[唐錚](/ja/people/characters/brother2)</MarkdownWrapper>に付いて行くと唐錚が贈る (唐錚好感3.5★)<br>二年十一月上旬－唐惟元から購入 ($1200)</td>
+        <td>
+            <li>
+                江陵大戦後に<MarkdownWrapper>[唐門に帰還](/ja/event/simple/2-10-1-返回唐門)</MarkdownWrapper>した際、
+                🚩<MarkdownWrapper>[郁竹が同行](/ja/event/simple/2-10-1-啟程返唐#郁竹同行)</MarkdownWrapper>がないこと。<br>
+                <MarkdownWrapper>[唐錚](/ja/people/characters/brother2)</MarkdownWrapper>好感≥35、かつ<Girl0Icon>唐黙鈴</Girl0Icon>好感≥35の場合は👉「二師兄との公務を優先する。」を選ぶ必要があり、その後に二師兄から贈られる。<br>
+                性情≤40の場合は、さらに👉「本を受け取って勉強する」を選ぶ必要がある。
+            </li>
+            <li>二年十一月上旬－唐惟元から購入 ($1200)</li>
+        </td>
         <td>1200</td>
     </tr>
     <tr>
