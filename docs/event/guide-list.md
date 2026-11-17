@@ -20,6 +20,7 @@ tags:
 
 ## 攻略列表
 - [飛俠歸來](/event/detailed_description/4-02-2-飛俠歸來): 第三年一月臥雲崗事件如何拯救大師兄生命，及第四年讓他歸來的方法。
+- [金烏上人之死](/people/characters/special207_death): 從第三年五月開始，遊戲中所有殺死金烏上人的方法。
 - [武林大會篇](/event/detailed_description/3-08-2-武林大會): 第三年十月中旬武林大會上的主要流程。
 - [客棧歸途篇](/event/detailed_description/3-10-2-客棧歸途): 第三年十月中旬武林大會後回唐門的主要流程。
 - [眾人的決策](/event/detailed_description/3-12-1-眾人的決策): 第三年十二月到第四年，決定故事尾盤劇情走向的主要流程。
