@@ -585,6 +585,11 @@ tags:
 	<td>/images/avatars/other16.webp</td>
 </tr>
 <tr>
+	<td>[[木仙姑]]</td>
+	<td>其他</td>
+	<td></td>
+</tr>
+<tr>
 	<td>[[萬勝]]</td>
 	<td>其他</td>
 	<td>/images/avatars/special814.webp</td>
