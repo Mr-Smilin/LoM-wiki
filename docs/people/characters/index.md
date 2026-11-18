@@ -567,7 +567,7 @@ tags:
 <tr>
 	<td>[[楊玄奇]]</td>
 	<td>老百姓<br>千燈樓</td>
-	<td></td>
+	<td>/images/avatars/other22.webp</td>
 </tr>
 <tr>
 	<td>[[譚霸刀]]</td>
@@ -587,7 +587,7 @@ tags:
 <tr>
 	<td>[[木仙姑]]</td>
 	<td>其他</td>
-	<td></td>
+	<td>/images/avatars/other23.webp</td>
 </tr>
 <tr>
 	<td>[[萬勝]]</td>
