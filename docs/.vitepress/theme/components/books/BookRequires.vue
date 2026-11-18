@@ -4,7 +4,7 @@
 
   用法：<BookRequires />　　標籤要換字：<BookRequires label="前提" />
   沒寫 requires 的書頁不會印出任何東西。顯示的規則與秘笈列表同一份（script/bookRequires.js）。
-  一個條件就寫成一行「需求：學問≧20」；有多個條件或分等級時列成清單。
+  每一級都一樣時寫成一行，且用「、」接、或用「 或 」接（「需求：性情≧60、刀劍≧20」）；分等級時列成清單，一級一項。
 -->
 <template>
     <p v-if="inline">{{ label }}：{{ lines[0] }}</p>
