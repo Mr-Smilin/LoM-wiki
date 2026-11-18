@@ -24,6 +24,8 @@ import CharacterTr from "./components/character/base/CharacterTr.vue";
 import CharacterTd from "./components/character/base/CharacterTd.vue";
 import CharacterMeet from "./components/character/type/CharacterMeet.vue";
 import CharacterList from "./components/character/CharacterList.vue";
+import BookList from "./components/books/BookList.vue";
+import BookRequires from "./components/books/BookRequires.vue";
 import ChineseStyleTd from "./components/tdStyles/ChineseStyleTd.vue";
 // import Icon Group
 import Icon from "./components/icon-family/Icon.vue";
@@ -152,6 +154,10 @@ export default {
         app.component("CnTd", ChineseStyleTd);
         app.component("ChMeet", CharacterMeet);
         app.component("ChList", CharacterList);
+        // 秘笈列表（資料從各書頁開頭的 book: 讀，見 data/books.data.mjs）
+        app.component("BookList", BookList);
+        // 書頁上的修練條件（印那一頁的 book: requires）
+        app.component("BookRequires", BookRequires);
 
         // Icon component group
         app.component("Icon", Icon);
