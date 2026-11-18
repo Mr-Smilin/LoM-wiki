@@ -565,6 +565,11 @@ tags:
 	<td>/images/avatars/special802.webp</td>
 </tr>
 <tr>
+	<td>[[楊玄奇]]</td>
+	<td>老百姓<br>千燈樓</td>
+	<td></td>
+</tr>
+<tr>
 	<td>[[譚霸刀]]</td>
 	<td>其他<br>西夏</td>
 	<td>/images/avatars/special801.webp</td>
