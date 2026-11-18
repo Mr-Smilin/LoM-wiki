@@ -347,7 +347,7 @@ tags:
 
 ## 公開後にやること
 
-[シナリオ簡易表](/ja/event/story-simple-table)の該当月に項目があればリンク化、
+[イベント一覧](/ja/event/story-simple-table)の該当月に項目があればリンク化、
 無ければ項目を追加します。リンクは `<MarkdownWrapper>` 内の Markdown リンク
 (`/ja/` プレフィックス付き) で書きます。以下は実際の表示です。
 

@@ -1,6 +1,6 @@
 ---
 title: 開発項目一覧
-description: 開発項目一覧は鍛冶場・煉丹房開発ロードマップに統合された
+description: 開発項目一覧は開発項目ロードマップに統合された
 sidebar: false
 aside: false
 ---
@@ -12,4 +12,4 @@ onMounted(() => location.replace("forge-roadmap" + location.hash));
 </script>
 
 # {{ $frontmatter.title }}
-開発項目一覧は[鍛冶場・煉丹房開発ロードマップ](/ja/system/forge-roadmap)に統合された。
+開発項目一覧は[開発項目ロードマップ](/ja/system/forge-roadmap)に統合された。

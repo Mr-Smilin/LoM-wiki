@@ -191,7 +191,16 @@ tags:
         <td>防御で相手の攻撃をブロック時、相手の気を削減
 <br>境界二以上、攻撃で相手の気を削減可能
 <br>境界三以上、攻防で【震撼】を引き起こす確率がある</td>
-        <td><MarkdownWrapper>[《鉄琵琶功》](/ja/system/books/book_7008)</MarkdownWrapper></td>
+        <td>
+            <li>
+                🚩「崆峒に留学」(<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>参照)<br>
+                <MarkdownWrapper>[江陵決戦](/ja/event/simple/2-10-1-江陵決戰)</MarkdownWrapper>の<MarkdownWrapper>[法王が死す](/ja/event/simple/2-10-1-法王就義)</MarkdownWrapper>（王二壮の挑発）にて、
+                ダイスで【🎲＜80 まずい人物が出てきた】を引き、<br>
+                かつ想い人が<Girl7Icon>魏菊</Girl7Icon>で魏菊の代わりに掌を受けた後、<br>
+                魏菊が治療を申し出た際に👉「頼みます」を選び、さらにダイスで【🎲≥80 死ななかった】を引く。
+            </li>
+            <li><MarkdownWrapper>[《鉄琵琶功》](/ja/system/books/book_7008)</MarkdownWrapper></li>
+        </td>
     </tr>
     <tr>
         <td id = "借勢">借勢</td>
@@ -432,5 +441,26 @@ tags:
         <br>かつコンボ数>2の時、必殺技が同舟剣法に変化
         <br>点破雲関を使用できない</td>
         <td><MarkdownWrapper>[《同舟剣譜》](/ja/system/books/book_2301)</MarkdownWrapper></td>
+    </tr>
+    <tr>
+        <td id = "輕微骨裂">軽い骨のひび</td>
+        <td>-</td>
+        <td>強い力で圧迫され、骨に軽いひびが入った。しっかり静養すれば治る。</td>
+        <td>
+            <li>
+                🚩「崆峒に留学」(<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper>参照)かつ
+                🚩<MarkdownWrapper>[郁竹の帰郷が発生](/ja/event/simple/2-04-2-返回崆峒#返抵崆峒)</MarkdownWrapper>。
+            </li>
+            <li>
+                江陵大戦後に<Girl6Icon>郁竹</Girl6Icon>好感≥40、かつ想い人が郁竹で、
+                🚩<MarkdownWrapper>[郁竹が見捨てられた](/ja/event/simple/2-10-1-南宮訃音#郁竹拜訪)</MarkdownWrapper>を発生させる。
+            </li>
+            <li>
+                <MarkdownWrapper>[唐門への帰途につく](/ja/event/simple/2-10-1-啟程返唐)</MarkdownWrapper>際に自動で獲得。
+            </li>
+            <li>
+                <MarkdownWrapper>[唐門に到着](/ja/event/simple/2-10-2-抵達唐門)</MarkdownWrapper>した際に自動で消滅。
+            </li>
+        </td>
     </tr>
 </table>

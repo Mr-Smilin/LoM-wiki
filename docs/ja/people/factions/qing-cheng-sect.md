@@ -102,6 +102,6 @@ tags:
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_03.webp" alt="虎の穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/mintty_candy/photo_22.webp" alt="虎の穴〈展你娘親！〉設定画（薄荷糖果氏提供）" title="虎の穴〈展你娘親！〉設定画（薄荷糖果氏提供）" style="width:200px; margin:5px"/>
     </div>
 </div>

@@ -168,11 +168,15 @@ aside: false
 -   崆峒探検隊のイベントでは南宮浅の口下手ぶりが何度も言及され、趙活が口添えしてやる必要がある。
 -   南宮家の豪奢で派手好みな気風とは異なり、自分のもてなしを「粗茶薄酒」と謙遜して一部の侠士の怒りを買う。
     -   虎戦車の組み立てイベントで本人が「粗茶淡飯」と称して振る舞った夕食は、実際には粗末どころかご馳走以上に凝った精緻なものだった。
+
 ## 出自
 -   [温夫人](/ja/people/characters/special402)が音波功で[南宮遠](/ja/people/characters/special101)を幻惑し、[南宮遠](/ja/people/characters/special101)に片想いしていた[錦香宮](/ja/people/factions/jin-xiang-palace)の女性との間に産ませた私生児。
     -   [南宮遠](/ja/people/characters/special101)は正気に返ってから初めて、相手が想い人の蘇迎香（[温夫人](/ja/people/characters/special402)）ではなかったことを知ったと語っている。
     -   [温夫人](/ja/people/characters/special402)は、自分を一方的に[温無畏](/ja/people/characters/other13)へ押し付けた[南宮遠](/ja/people/characters/special101)への報復だったと認めている。
         -   愛していない女との間に生まれた私生児であり、しかも[温夫人](/ja/people/characters/special402)の復讐の産物であるため、[南宮遠](/ja/people/characters/special101)はずっと南宮浅と向き合うのを避けていた。
+-   [袁無憲](/ja/people/characters/special823)の言い分では、南宮浅は[温夫人](/ja/people/characters/special402)と[南宮遠](/ja/people/characters/special101)の間に生まれた子であり、その女性は実は袁無憲の母で、袁無憲を捨ててから代わりに南宮浅を育てたのだという。
+-   南宮世家に戻って認親する前から「阿浅」と呼ばれていた。大公子の[南宮深](/ja/people/characters/special102)に対して低姿勢に振る舞う意味合いがある[^1]。
+
 ## 南宮家
 -   肩甲は着せてもらえない。
     -   [南宮遠](/ja/people/characters/special101)によれば、肩甲は南宮の一族が一人前になった証である。
@@ -191,13 +195,13 @@ aside: false
     -   武林大会で当主の[南宮遠](/ja/people/characters/special101)が武林盟主になった際、長老はただ虫が好かないというだけの理由で、二公子を遠くの森へ引きずり込んで袋叩きにするよう家丁に命じた。
 
 ## 奇遇
-
 -   江陵の釣りイベントでは、王幇主こと[王二壮](/ja/people/characters/special401)が彼のために洗髄してくれたが、事前の断りがなかったため殴られたと思い込み、あまりありがたがっていない。
     -   洗髄の後は、努力して鍛錬しなくとも時間が経つにつれて自然と強くなっていく。
 -   武林大会の前に三つの奇遇がある: [杏花林](/ja/people/factions/apricot-forest)の老和尚が運気凝神の法を教え、大猿猴こと[袁乘風](/ja/people/characters/other11)が筋骨を鍛え、東海龍王こと[上官隼](/ja/people/characters/special407)が刀法を教える。
     -   [杏花林](/ja/people/factions/apricot-forest)は誰もが達人揃いであり、老和尚として現在知られている中で該当するのは[万里鵬程](/ja/people/characters/special6)のみだが、完全には断定できない。
 
 ## 武功
+-   武芸の鍛錬を面白いと思ったことは一度もなく、ただ学問の方がもっと苦痛だったにすぎない。風雅を気取って人の真似をしようにも琴棋書画のどれ一つとして身につかず、今なお茫然としたまま、心から進んで打ち込めたことは何一つない。
 -   南宮扇法はまだ会得しておらず、剣の方が慣れている。
     -   剣は百兵の君であり、長剣こそ[南宮世家](/ja/people/factions/nan-gong-family)の気風にふさわしいと考えている。
     -   南宮扇法は[南宮世家](/ja/people/factions/nan-gong-family)が強制する武功ではなく、[南宮遠](/ja/people/characters/special101)自身が使っているのは鉄の碁盤である。
@@ -257,8 +261,8 @@ aside: false
 -   崆峒遊学中に[虞小梅](/ja/people/characters/girl3)・[趙活](/ja/people/characters/player)・[瑞笙](/ja/people/characters/special999)と崆峒探検隊を結成する。
 -   何か問題が起きると家長の肩書きを持ち出してものを言う、親の威を借る隊長を無理やり務めさせられた。
 -   当初は金をたかられてでも探検隊を抜けようとしたが、断れば[虞小梅](/ja/people/characters/girl3)に階段から突き落とすと脅され、やむなく参加させられた。
+
 ## 備考
 -   人物造形と描写があまりに物議を醸すため、討論スレで彼の名が出るたびに荒れて脱線することから、いつしか「劫串侠」(スレ荒らし侠) の名が付いた。
--   南宮世家に戻って認親する前から「阿浅」と呼ばれていた。大公子の[南宮深](/ja/people/characters/special102)に対して低姿勢に振る舞う意味合いがある[^1]。
 
 [^1]: PTT C 洽－[Re:\[活俠\] 討論-温夫人的愛恨，南宮浅的身世](https://www.pttweb.cc/bbs/C_Chat/M.1732276893.A.0FE)

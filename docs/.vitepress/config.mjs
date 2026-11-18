@@ -53,7 +53,7 @@ const baseConfig = {
 					{ text: "技能效果", link: "/system/skill" },
 					{ text: "隱藏參數列表", link: "/system/hidden-params" },
 					{ text: "對戰指南", link: "/system/engagement/battle-ui" },
-					{ text: "鍛冶場、煉丹房開發路線圖", link: "/system/forge-roadmap" },
+					{ text: "開發項目路線圖", link: "/system/forge-roadmap" },
 					{ text: "道具列表", link: "/system/items" },
 					{ text: "養成指令", link: "/system/training" },
 					{ text: "原聲帶", link: "/system/soundtrack" },
@@ -66,11 +66,11 @@ const baseConfig = {
 				text: "事件",
 				items: [
 					{
-						text: "主支線年表",
-						link: "/event/story-branch-timeline",
+						text: "劇情攻略彙總",
+						link: "/event/guide-list",
 					},
 					{
-						text: "主支線簡易表格",
+						text: "事件列表",
 						link: "/event/story-simple-table",
 					},
 					{
@@ -1060,7 +1060,7 @@ const baseConfig = {
 								link: "/ja/system/engagement/battle-ui",
 							},
 							{
-								text: "鍛冶場・煉丹房 開発ロードマップ",
+								text: "開発項目ロードマップ",
 								link: "/ja/system/forge-roadmap",
 							},
 							{ text: "道具一覧", link: "/ja/system/items" },
@@ -1076,11 +1076,11 @@ const baseConfig = {
 						text: "イベント",
 						items: [
 							{
-								text: "メイン・サブシナリオ年表",
-								link: "/ja/event/story-branch-timeline",
+								text: "シナリオ攻略まとめ",
+								link: "/ja/event/guide-list",
 							},
 							{
-								text: "シナリオ簡易表",
+								text: "イベント一覧",
 								link: "/ja/event/story-simple-table",
 							},
 							{

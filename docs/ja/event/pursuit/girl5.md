@@ -118,7 +118,7 @@ tags:
 <td><MarkdownWrapper>[夏侯蘭を誘う](/ja/event/simple/3-08-3-邀請夏侯蘭)</MarkdownWrapper></td>
 <td>• この時期に大門から下山すると、📜「夏侯蘭を誘う」で武林大会への同行を誘える。
     <br>• どう進めても、<Girl5Icon>夏侯蘭</Girl5Icon>は同行しない。</td>
-<td>📖「いいえ」、続けて📖「夏侯蘭を襲う」を選び、🗡️決闘に負けると防具<MarkdownWrapper>[密密縫](/ja/system/forge-roadmap)</MarkdownWrapper>が解放される。ただし性能は護心鏡に劣る。</td>
+<td>📖「いいえ」、続けて📖「夏侯蘭を襲う」を選び、🗡️決闘に負けると防具<MarkdownWrapper>[密密縫](/ja/system/forge-roadmap#密密縫)</MarkdownWrapper>が解放される。ただし性能は護心鏡に劣る。</td>
 </tr>
 
 <tr>

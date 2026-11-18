@@ -557,21 +557,24 @@ tags:
 
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_04.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/mintty_candy/photo_10.webp" alt="虎之穴〈展你娘親！〉設定圖（感謝薄荷糖果大俠提供）" title="虎之穴〈展你娘親！〉設定圖（感謝薄荷糖果大俠提供）" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_05.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_05.webp" alt="虎之穴〈展你娘親！〉設定圖（感謝dbfox大俠提供）" title="虎之穴〈展你娘親！〉設定圖（感謝dbfox大俠提供）" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_06.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_06.webp" alt="虎之穴〈展你娘親！〉設定圖（感謝dbfox大俠提供）" title="虎之穴〈展你娘親！〉設定圖（感謝dbfox大俠提供）" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_07.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/20241220_toranoana/photo_07.webp" alt="虎之穴〈展你娘親！〉設定圖（感謝dbfox大俠提供）" title="虎之穴〈展你娘親！〉設定圖（感謝dbfox大俠提供）" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_19.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/mintty_candy/photo_08.webp" alt="虎之穴〈展你娘親！〉設定圖（感謝薄荷糖果大俠提供）" title="虎之穴〈展你娘親！〉設定圖（感謝薄荷糖果大俠提供）" style="width:200px; margin:5px"/>
     </div>
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_18.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/mintty_candy/photo_09.webp" alt="虎之穴〈展你娘親！〉設定圖（感謝薄荷糖果大俠提供）" title="虎之穴〈展你娘親！〉設定圖（感謝薄荷糖果大俠提供）" style="width:200px; margin:5px"/>
+    </div>
+    <div>
+        <img src="/images/collab/20251226_comicbase/photo_01.webp" alt="台灣漫畫基地〈某人的傳說展〉主視覺（感謝dbfox大俠提供）" title="台灣漫畫基地〈某人的傳說展〉主視覺（感謝dbfox大俠提供）" style="width:200px; margin:5px"/>
     </div>
 </div>

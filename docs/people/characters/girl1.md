@@ -254,7 +254,7 @@ aside: false
 ## 畫廊
 <div style="display: flex; flex-wrap: wrap;">
     <div>
-        <img src="/images/collab/20241220_toranoana/photo_18.webp" alt="虎之穴活俠展" style="width:200px; margin:5px"/>
+        <img src="/images/collab/mintty_candy/photo_09.webp" alt="虎之穴〈展你娘親！〉設定圖（感謝薄荷糖果大俠提供）" title="虎之穴〈展你娘親！〉設定圖（感謝薄荷糖果大俠提供）" style="width:200px; margin:5px"/>
     </div>
 </div>
 

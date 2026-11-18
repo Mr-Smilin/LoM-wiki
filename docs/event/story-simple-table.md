@@ -1,6 +1,6 @@
 ---
 borderless: true
-title: 主支線簡易表格
+title: 事件列表
 outline: [2, 3]
 tags:
     - simple
@@ -9,6 +9,8 @@ tags:
 ---
 
 # {{ $frontmatter.title }}
+- 本表內各條目整理遊戲中各事件的詳細流程。
+- 如需參考重要分歧的劇情攻略指引，請見[「劇情攻略彙總」](/event/guide-list)條目。
 
 ## 任意時間
 <div class="table-container">
@@ -673,9 +675,10 @@ tags:
 			<td>
 				<MarkdownWrapper>
 				    [唐門例會](/event/simple/1-07-1-唐門例會)<br>
+                    [郁竹的家書](/event/simple/3-02-1-郁竹的家書)<br>
                     [一波暫平](/event/simple/3-02-1-一波暫平)<br>
-                    郁竹的家書<br>
-                    梅竹辭別<br>
+                    [梅竹辭別](/event/simple/3-02-1-梅竹辭別)<br>
+                    [雲裳關心](/event/simple/3-02-1-雲裳關心)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>
@@ -726,7 +729,7 @@ tags:
 				    [師妹的歸宿](/event/simple/3-05-1-師妹的歸宿)<br>
 				    [恩仇盡頭](/event/simple/3-05-1-恩仇盡頭)<br>
                     [雲裳結緣](/event/simple/3-05-1-雲裳結緣)<br>
-                    崆峒爭奪戰<br>
+                    [崆峒爭奪戰](/event/simple/3-05-1-崆峒爭奪戰)<br>
 				</MarkdownWrapper>
 			</td>
 			<td>

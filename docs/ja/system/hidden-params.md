@@ -166,6 +166,24 @@ tags:
     <td></td>
   </tr>
 
+  <tr>
+    <td style="text-align: center" id="門派向心">
+      門派向心
+    </td>
+    <td>
+      各大勢力内部の結束力
+    </td>
+    <td>
+      <li>戦役の人数に影響する可能性がある(要確認)</li>
+      <li>シナリオ分岐に影響する可能性がある(要確認)</li>
+    </td>
+    <td>
+      <li>主にシナリオで増減する。例: 江陵大戦の<br>多くのイベントが丐幇向心に影響する</li>
+      <li>一部の<MarkdownWrapper>[養成コマンド](/ja/system/training/)</MarkdownWrapper>で増減する</li>
+    </td>
+    <td></td>
+  </tr>
+
 </table>
 
 ## 備考 {#備註}

@@ -1,5 +1,5 @@
 ---
-title: 鍛冶場、煉丹房開發路線圖
+title: 開發項目路線圖
 description: 鍛冶場、煉丹房開發路線圖與各項目數值
 aside: true
 outline: [2, 2]

@@ -190,7 +190,7 @@ tags:
         <td id = "大師兄的塗鴉">大師兄の落書き</td>
         <td></td>
         <td></td>
-        <td>雑匠ランダムイベントで、<br><MarkdownWrapper>[逆鱗宝衣](/ja/system/forge-roadmap#逆鱗宝衣)</MarkdownWrapper>を作る</td>
+        <td><MarkdownWrapper>[十八種奇兵鍛法雑記](/ja/system/books/book_8004)</MarkdownWrapper>を修練完了後、<br>雑匠のランダムイベントで、<br><MarkdownWrapper>[逆鱗宝衣](/ja/system/forge-roadmap#逆鱗宝衣)</MarkdownWrapper>を作る</td>
         <td>不明</td>
         <td>1年弟子房-<MarkdownWrapper>[唐布衣](/ja/people/characters/brother1)</MarkdownWrapper>と詩琴書画について雑談。肩甲が嫌い。</td>
         <td><MarkdownWrapper>関連イベント：<br>1年目に債権者が来た時、「駄目だ。今すぐ何か手を打たないと」を選ぶと<br>先生に見せられるが、たしなめられる<br>
@@ -202,7 +202,7 @@ tags:
         <td></td>
         <td></td>
         <td>イベント道具</td>
-        <td></td>
+        <td><MarkdownWrapper>[龍湘、盗難に遭う](/ja/event/simple/1-09-2-龍湘遭竊)</MarkdownWrapper>を参照</td>
         <td>唐惟元に手動で売却する必要</td>
     </tr>
     <tr>
@@ -211,8 +211,8 @@ tags:
         <td></td>
         <td>不明</td>
         <td>不明</td>
-        <td>崆峒派留学ルート－夏侯蘭限定</td>
-        <td>夏侯蘭に拝師し、<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>で全勝すると獲得可能。他の条件がある可能性あり(好感度/性情/処世?)</td>
+        <td>夏侯蘭に拝師＆<br><MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>で全勝。他の条件がある可能性あり(好感度/性情/処世?)</td>
+        <td></td>
     </tr>
     <tr>
         <td id = "小竹按摩券">郁竹の按摩券</td>
@@ -220,8 +220,8 @@ tags:
         <td></td>
         <td><Girl6Icon>郁竹</Girl6Icon>と結縁後、<br>イベント差分用の道具</td>
         <td>イベント道具</td>
-        <td>崆峒派留学ルート－鉄拳門限定</td>
-        <td>2年目崆峒派留学－鉄拳門に入門して<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>で全勝した報酬</td>
+        <td>2年目崆峒派留学－鉄拳門に入門<br>＆<MarkdownWrapper>[崆峒派季期試験](/ja/event/simple/2-05-3-崆峒季試)</MarkdownWrapper>で全勝した報酬</td>
+        <td></td>
     </tr>
     <tr>
         <td id = "文房四宝">文房四宝</td>
@@ -303,13 +303,13 @@ tags:
         <td></td>
     </tr>
     <tr>
-        <td id = "髪簪">髪簪</td>
+        <td id = "髮簪">髪簪</td>
         <td></td>
         <td></td>
         <td><Girl6Icon>郁竹</Girl6Icon>と結縁後、<br>イベント差分用の道具</td>
         <td>イベント道具</td>
-        <td>雑匠ランダムイベント</td>
-        <td></td>
+        <td><MarkdownWrapper>[十八種奇兵鍛法雑記](/ja/system/books/book_8004)</MarkdownWrapper>を修練完了後、<br>雑匠のランダムイベント</td>
+        <td>郁竹が錦香宮にいる際、「魔球式」を選んで尋ねる</td>
     </tr>
     <tr>
         <td id = "磨喝楽 緑">磨喝楽 緑</td>
@@ -335,11 +335,56 @@ tags:
         <td></td>
         <td><Girl6Icon>郁竹</Girl6Icon>と結縁後、<br><MarkdownWrapper>[汗青書35：慷慨、義に赴く](/ja/event/ends/end-35)</MarkdownWrapper>のイベント差分用の道具</td>
         <td>イベント道具</td>
-        <td>雑匠ランダムイベントで、売れ残りとして獲得</td>
+        <td><MarkdownWrapper>[十八種奇兵鍛法雑記](/ja/system/books/book_8004)</MarkdownWrapper>を修練完了後、<br>雑匠のランダムイベントで売れ残りとして獲得</td>
         <td></td>
+    </tr>
+    <tr>
+        <td id = "失敗木劍">失敗木剣</td>
+        <td></td>
+        <td></td>
+        <td><Girl6Icon>郁竹</Girl6Icon>の帰郷、<br>郁城イベントの差分用道具</td>
+        <td>イベント道具</td>
+        <td>外堡の葉雲舟の木剣削りイベントで、1回目の割り込みで獲得</td>
+        <td>郁城は気に入らない</td>
+    </tr>
+    <tr>
+        <td id = "木劍">木剣</td>
+        <td></td>
+        <td></td>
+        <td><Girl6Icon>郁竹</Girl6Icon>の帰郷、<br>郁城イベントの差分用道具</td>
+        <td>イベント道具</td>
+        <td>外堡の葉雲舟の木剣削りイベントで、2回目の割り込みで獲得</td>
+        <td>郁城は気に入らない</td>
+    </tr>
+    <tr>
+        <td id = "聽雲木劍">聴雲木剣</td>
+        <td></td>
+        <td></td>
+        <td><Girl6Icon>郁竹</Girl6Icon>の帰郷、<br>郁城イベントの差分用道具</td>
+        <td>イベント道具</td>
+        <td>外堡の葉雲舟の木剣削りイベントで、3回目の割り込みで獲得</td>
+        <td>郁城は大喜びする</td>
+    </tr>
+    <tr>
+        <td id = "六戒刀">六戒刀</td>
+        <td></td>
+        <td></td>
+        <td>不明</td>
+        <td>不明</td>
+        <td>武林大会で<Girl6Icon>郁竹</Girl6Icon>が<br>高好感度の南宮浅に贈る前に、<br>差し止めて獲得</td>
+        <td>南宮浅に贈ると祝儀の収入を得られ、<br>祝儀を突き返すとさらに大きな収入を得られる</td>
+    </tr>
+    <tr>
+        <td id = "壯士飛腕">壮士飛腕</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>イベント道具</td>
+        <td>2年目3月に唐門で<br>幽霊騒動イベントを経験して獲得。<br><br><Girl6Icon>郁竹</Girl6Icon>と崆峒で鍛冶屋を漁っても<br>🎲獲得できる</td>
+        <td><Girl2Icon>雲裳</Girl2Icon>ルートの<br>イベント道具</td>
     </tr>
 </table>
 
 ## 備考
-- 煉丹房の霊丹の効果は[鍛冶場・煉丹房開発ロードマップ](/ja/system/forge-roadmap#煉丹房-霊丹)を参照。
+- 煉丹房の霊丹の効果は[開発項目ロードマップ](/ja/system/forge-roadmap#煉丹房-霊丹)を参照。
 - 資料出典：https://docs.google.com/spreadsheets/u/0/?authuser=0&usp=sheets_web

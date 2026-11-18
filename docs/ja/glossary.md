@@ -67,12 +67,13 @@ MOD 自体も字体が混在しているため、字体だけの違いは MOD �
 | 技能效果 | 技能効果 | Skill | |
 | 對戰指南 | 対戦ガイド | Battle Guide | |
 | 煉丹效果 | 煉丹効果 | Pills | |
-| 鍛冶場、煉丹房開發路線圖 | 鍛冶場・煉丹房 開発ロードマップ | Forge & Alchemy Room Development Roadmap | |
+| 開發項目路線圖 | 開発項目ロードマップ | Forge & Alchemy Room Development Roadmap | |
 | 道具列表 | 道具一覧 | Items | |
 | 養成指令 | 養成コマンド | Training | |
 | 原聲帶 | サウンドトラック | Soundtrack | |
+| 劇情攻略彙總 | シナリオ攻略まとめ | | |
 | 主支線年表 | メイン・サブシナリオ年表 | Main Timeline | |
-| 主支線簡易表格 | シナリオ簡易表 | Simple Timeline | |
+| 事件列表 | イベント一覧 | Simple Timeline | |
 | 風雲史(成就) | 風雲史 (実績) | Chronicles of Glory (Achievement) | |
 | 生死簿(驟死結局) | 生死簿 (バッドエンド) | Book of Life and Death (badend) | |
 | 汗青書(結局) | 汗青書 (エンディング) | History Book (End) | |

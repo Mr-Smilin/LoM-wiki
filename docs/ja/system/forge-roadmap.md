@@ -1,5 +1,5 @@
 ---
-title: 鍛冶場・煉丹房開発ロードマップ
+title: 開発項目ロードマップ
 description: 鍛冶場・煉丹房の開発ロードマップと各項目の数値
 aside: true
 outline: [2, 2]
