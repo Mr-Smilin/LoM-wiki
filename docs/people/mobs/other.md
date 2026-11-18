@@ -400,7 +400,9 @@ tags:
         <ChName nameZh='重傷' nameEn='Severely Injured' position='right' />
     </ChTab>
 </ChTabs>
+
 確切與第三代千面人魔楊玄奇相關事蹟，見個別頁面[[楊玄奇]]。
+
 <table>
     <tr>
         <td>FB情報<br>「店小二」</td>

@@ -325,7 +325,9 @@ tags:
 ## 仙姑
 
 <img src="/images/mobs/artists/fairy1_normal.webp" style="width:200px;" />
+
 確切與木仙姑相關事蹟，見個別頁面[[木仙姑]]。
+
 <table>
     <tr>
         <td>綁架小師妹<br>(已被刪除)</td>
