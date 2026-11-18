@@ -148,6 +148,8 @@
 import { ref, computed, watch, nextTick, onMounted, onBeforeUnmount } from 'vue'
 import { useData, withBase } from 'vitepress'
 import { data as BOOKS } from '../../data/books.data.mjs'
+import { itemIconSrc, itemIconBack } from '../../script/itemIcon'
+import { halfOps, reqLines } from '../../script/bookRequires'
 import BTableSortIcon from '../bootstrap-vue/table-child/BTableSortIcon.vue'
 
 const props = defineProps({
@@ -175,49 +177,17 @@ const TEXTS = {
 }
 const t = computed(() => TEXTS[localeIndex.value] || TEXTS.root)
 
-// 比較符號：書頁寫半形，表格上顯示成全形；搜尋時把打進來的全形換回半形，跟書頁的寫法比對
-const FULL_OPS = { '>=': '≧', '<=': '≦', '==': '＝', '>': '＞', '<': '＜' }
-const fullOps = text => text.replace(/>=|<=|==|>|</g, op => FULL_OPS[op])
-const halfOps = text => text
-  .replace(/≧|＞＝/g, '>=')
-  .replace(/≦|＜＝/g, '<=')
-  .replace(/＝＝|＝/g, '==')
-  .replace(/＞/g, '>')
-  .replace(/＜/g, '<')
-
-// 修練條件排成一行一行（資料已經在 books.data.mjs 拆成 [{ level, items: [[甲, 乙], [丙]] }]，items 之間是且、[甲, 乙] 是或）
-//   只有一組「或」：照舊分行、中間夾一行「或」；跟其他條件寫在一起：同一行寫「甲 或 乙」，才分得出哪幾個是或
-//   各級不同：一級一行「LV2～3：學問≧30」
-function reqLines(requires) {
-  const or = t.value.or
-  const lines = []
-  for (const { level, items } of requires) {
-    const parts = items.map(alts => alts.map(fullOps).join(` ${or} `))
-    if (level) {
-      lines.push(`${level}：${parts.join('、')}`)
-    } else if (items.length === 1 && items[0].length > 1) {
-      items[0].forEach((alt, i) => {
-        if (i) lines.push(or)
-        lines.push(fullOps(alt))
-      })
-    } else {
-      lines.push(...parts)
-    }
-  }
-  return lines
-}
-
 // 書頁的資料（簡中讀轉好的那份，其他語系先用繁中）
 const rows = computed(() => (BOOKS[localeIndex.value] || BOOKS.root).map(book => ({
   ...book,
   href: withBase(book.url),
-  icon: withBase(`/images/items/books/item_book_${book.no}.webp`),
+  icon: itemIconSrc('book', book.no),
   priceNum: typeof book.price === 'number' ? book.price : parseInt(book.price, 10),
-  reqLines: reqLines(book.requires),
+  reqLines: reqLines(book.requires, t.value.or),
   // 搜尋只比對條件本身，不含顯示用的「或」和等級
   haystack: [book.title, book.kind, ...book.bonus.map(([name]) => name), ...book.talents, ...book.requires.flatMap(group => group.items.flat())].join(' ').toLowerCase()
 })))
-const iconBack = computed(() => ({ backgroundImage: `url('${withBase('/images/generic/background/icon_item_back_3.webp')}')` }))
+const iconBack = computed(() => ({ backgroundImage: `url('${itemIconBack()}')` }))
 
 const signed = value => typeof value === 'number' ? (value > 0 ? `+${value}` : `${value}`) : value
 

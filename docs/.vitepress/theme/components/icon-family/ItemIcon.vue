@@ -16,6 +16,7 @@
 <script>
 import {withBase} from "vitepress";
 import {useLocalePrefix} from "../../script/useLocalePrefix";
+import {itemIconSrc, itemIconBack} from "../../script/itemIcon";
 export default {
     setup() {
         // 站內連結需跟隨當前語系 (root 為空字串, 其他為 /en、/ja ...)
@@ -77,12 +78,12 @@ export default {
         },
         getIconBackgroundSource() {
             return {
-                backgroundImage: `url('${withBase(`/images/generic/background/icon_item_back_3.webp`)}')`
+                backgroundImage: `url('${itemIconBack()}')`
             };
         },
         getIconSource(no, type) {
-            // this requires the same image path format
-            return withBase(`/images/items/${type}s/item_${type}_${no}.webp`);
+            // 檔名規則見 script/itemIcon.js
+            return itemIconSrc(type, no);
         },
         getIconSizeClass(size) {
             const SIZE_SMALL = 'small';
