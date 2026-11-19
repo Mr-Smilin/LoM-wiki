@@ -17,8 +17,12 @@
 //
 // 寫錯（少了必填、數字寫成字、欄位名打錯、條件的寫法不對）時建置會直接報錯，訊息寫出是哪一頁哪一欄。
 // 簡中讀 zh-hans/ 底下轉好的那份，所以書名、素質名都是簡體。
+//
+// 「獲得方式」欄的內容是書頁的「## 獲得方式」這節：顯示的部分由 tools/buildBookSources.mjs 組好給列表頁引入，
+// 這裡只轉成純文字給搜尋用（sourceText），兩邊取的範圍見 ../script/bookSources.mjs。
 import { createContentLoader } from "vitepress";
 import { parseRequires, SEE } from "../script/bookRequires";
+import { sourceSection, sourceText } from "../script/bookSources.mjs";
 
 const FIELDS = ["kind", "points", "price", "bonus", "talents", "requires"];
 const MID_VALUES = new Set(["靠中", "中寄り"]);
@@ -51,6 +55,7 @@ function check(page, book) {
 }
 
 export default createContentLoader(["system/books/book_*.md", "zh-hans/system/books/book_*.md", "ja/system/books/book_*.md"], {
+    includeSrc: true,
     transform(pages) {
         const byLocale = { root: [], "zh-hans": [], ja: [] };
         for (const page of pages) {
@@ -70,6 +75,7 @@ export default createContentLoader(["system/books/book_*.md", "zh-hans/system/bo
                 bonus: Object.entries(book.bonus || {}),
                 talents: (book.talents || []).map(String),
                 requires,
+                sourceText: sourceText(sourceSection(page.src || "")),
             });
         }
         // 遊戲裡的清單順序就是代號順序
