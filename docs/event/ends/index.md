@@ -757,7 +757,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>
         <span style="color: #FF8C00;">【崆峒爭奪戰】</span>
         <span style="color: #70AA39;">【郁竹】</span><br>
-        崆峒爭奪戰中局勢惡化時，和郁竹一起逃下崆峒。
+        崆峒爭奪戰中<MarkdownWrapper>[戰局惡化](/event/simple/3-05-1-鐵鋪閒談#戰局惡化)</MarkdownWrapper>時，和郁竹一起逃下崆峒。
     </td>
 </tr>
 
