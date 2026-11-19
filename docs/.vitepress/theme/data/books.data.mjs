@@ -21,6 +21,7 @@ import { createContentLoader } from "vitepress";
 import { parseRequires, SEE } from "../script/bookRequires";
 
 const FIELDS = ["kind", "points", "price", "bonus", "talents", "requires"];
+const MID_VALUES = new Set(["靠中", "中寄り"]);
 
 // 檢查 book: 這段，回傳整理好的修練條件
 function check(page, book) {
@@ -38,7 +39,7 @@ function check(page, book) {
     if (book.bonus !== undefined) {
         if (typeof book.bonus !== "object" || Array.isArray(book.bonus)) fail("bonus（素質）要寫成 { 刀劍: 10, 輕功: 10 }");
         for (const [stat, value] of Object.entries(book.bonus)) {
-            if (typeof value !== "number" && value !== "靠中") fail(`bonus 的「${stat}」要寫數字或「靠中」`);
+            if (typeof value !== "number" && !MID_VALUES.has(value)) fail(`bonus 的「${stat}」要寫數字或「靠中」`);
         }
     }
     if (book.talents !== undefined) {
@@ -49,15 +50,15 @@ function check(page, book) {
     return parseRequires(book.requires, fail);
 }
 
-export default createContentLoader(["system/books/book_*.md", "zh-hans/system/books/book_*.md"], {
+export default createContentLoader(["system/books/book_*.md", "zh-hans/system/books/book_*.md", "ja/system/books/book_*.md"], {
     transform(pages) {
-        const byLocale = { root: [], "zh-hans": [] };
+        const byLocale = { root: [], "zh-hans": [], ja: [] };
         for (const page of pages) {
             const no = page.url.match(/book_(\d+)/)?.[1];
             if (!no) continue;
             const book = page.frontmatter.book;
             const requires = check(page, book);
-            const locale = page.url.startsWith("/zh-hans/") ? "zh-hans" : "root";
+            const locale = page.url.startsWith("/zh-hans/") ? "zh-hans" : page.url.startsWith("/ja/") ? "ja" : "root";
             byLocale[locale].push({
                 no,
                 title: page.frontmatter.title || no,

@@ -173,6 +173,12 @@ const TEXTS = {
     clear: '清除筛选', swipe: '左右滑看更多栏位', empty: '找不到符合的秘笈。', or: '或',
     total: n => `共 ${n} 本`, found: n => `找到 ${n} 本`,
     headers: { name: '秘笈', kind: '种类', bonus: '素质', talents: '天赋', requires: '条件', points: '武学点', price: '价格' }
+  },
+  ja: {
+    placeholder: '書名・能力・天賦で検索', filter: '絞り込み', kind: '種類', stat: '能力', talent: '天賦', all: 'すべて',
+    clear: '条件をクリア', swipe: '左右にスクロールして他の列を表示', empty: '条件に一致する秘笈が見つからない。', or: 'または',
+    total: n => `全 ${n} 冊`, found: n => `${n} 冊ヒット`,
+    headers: { name: '秘笈', kind: '種類', bonus: '能力', talents: '天賦', requires: '条件', points: '武学点', price: '価格' }
   }
 }
 const t = computed(() => TEXTS[localeIndex.value] || TEXTS.root)
