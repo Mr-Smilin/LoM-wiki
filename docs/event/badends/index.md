@@ -2924,7 +2924,7 @@ tags:
             盛怒之下，將你鞭屍直至變成一攤糊爛血肉。
         </td>
         <td>-</td>
-        <td>第三年五月上旬，崆峒爭奪戰中劫獄鎮魂獄時，決鬥中敗給荊紅</td>
+        <td>第三年五月上旬，崆峒爭奪戰中<MarkdownWrapper>[劫鎮魂獄](/event/simple/3-05-1-劫鎮魂獄)</MarkdownWrapper>時，決鬥中敗給荊紅</td>
         <td>-</td>
     </tr>
     <tr>
