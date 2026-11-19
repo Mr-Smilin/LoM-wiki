@@ -565,6 +565,11 @@ tags:
 	<td>/images/avatars/special802.webp</td>
 </tr>
 <tr>
+	<td><MarkdownWrapper>[楊玄奇](/ja/people/characters/other22)</MarkdownWrapper></td>
+	<td>市井の人<br>千灯楼</td>
+	<td>/images/avatars/other22.webp</td>
+</tr>
+<tr>
 	<td><MarkdownWrapper>[譚覇刀](/ja/people/characters/special801)</MarkdownWrapper></td>
 	<td>その他<br>西夏</td>
 	<td>/images/avatars/special801.webp</td>
@@ -578,6 +583,11 @@ tags:
 	<td><MarkdownWrapper>[方震天](/ja/people/characters/other16)</MarkdownWrapper></td>
 	<td>その他</td>
 	<td>/images/avatars/other16.webp</td>
+</tr>
+<tr>
+	<td><MarkdownWrapper>[木仙姑](/ja/people/characters/other23)</MarkdownWrapper></td>
+	<td>その他</td>
+	<td>/images/avatars/other23.webp</td>
 </tr>
 <tr>
 	<td><MarkdownWrapper>[万勝](/ja/people/characters/special814)</MarkdownWrapper></td>

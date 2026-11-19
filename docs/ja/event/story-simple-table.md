@@ -703,7 +703,6 @@ tags:
 					<td style="text-align: center">分岐前</td>
 					<td colspan="2" style="text-align: center">
 						<MarkdownWrapper>
-                    崆峒争奪戦<br>
 						[小師妹の比武招親 前半](/ja/event/simple/3-05-1-師妹招親前半)<br>
 						[小師妹の比武招親 後半](/ja/event/simple/3-05-1-師妹招親後半)<br>
 						</MarkdownWrapper>
@@ -727,6 +726,7 @@ tags:
 						[金烏との決闘](/ja/event/simple/3-05-1-對決金烏)<br>
 						[小師妹の帰る先](/ja/event/simple/3-05-1-師妹的歸宿)<sup>※2</sup><br>
 						[恩讐の果て](/ja/event/simple/3-05-1-恩仇盡頭)<sup>※3</sup><br>
+						[崆峒争奪戦](/ja/event/simple/3-05-1-崆峒爭奪戰)<br>
 						</MarkdownWrapper>
 					</td>
 				</tr>

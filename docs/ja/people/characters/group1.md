@@ -130,7 +130,7 @@ tags:
 -   <MarkdownWrapper>||滅門ルートの交戦時、「余公子」が妹の気持ちを弄んだことに憤慨した[郁竹](/ja/people/characters/girl6)に捕まえられ、人間ハンマーとして振り回されて瞬殺された。||</MarkdownWrapper>
     -   浴春楼の売れっ子を騙して我が物にしようと、身請けすると大口を叩いた。
     -   顔なじみの酒楼の料理人・老黄に薬を盛らせ、城東の柳という寡婦を手籠めにした。
--   滅門ルートで[譚覇刀](/ja/people/characters/special801)、[木仙姑](/ja/people/mobs/artists#木仙姑)とともに来襲した高手の三人組の一人。
+-   滅門ルートで[譚覇刀](/ja/people/characters/special801)、[木仙姑](/ja/people/characters/other23)とともに来襲した高手の三人組の一人。
 
 ## 成渓
 
@@ -147,10 +147,7 @@ tags:
     2. 貴様のような大理の豚は含まれないわ！
     3. 花城四少が五人いるのは常識ではないか？
 -   どの答えであっても[南宮深](/ja/people/characters/special102)が[段智秀](/ja/people/characters/special833)を適当にあしらった返答であり、腹を立てた[段智秀](/ja/people/characters/special833)が鳳凰の[南宮深](/ja/people/characters/special102)にお灸を据えることになる。
--   [南宮深](/ja/people/characters/special102):
-    > 花城四少が五人いるのは常識ではないか？
-
-    -   この設定に対する公式の回答。[^1]
+-   この設定に対する公式の回答。[^1]
 -   [上官螢](/ja/people/characters/girl4):
     > 花城四少は全員、家財と容姿に頼り、金を浪費して良家の女性を弄ぶ外道どもよ。
 

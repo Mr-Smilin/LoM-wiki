@@ -109,8 +109,8 @@ tags:
 
 ### 唐芳
 
--   [木仙姑](/ja/people/mobs/artists#木仙姑)の話では、[唐芳](/ja/people/characters/special832)も梁有詩も薬草の香りがするため人違いされ、三人は顔見知りのようだ。
-    -   ~~[郁竹](/ja/people/characters/girl6)と[樊嘯天](/ja/people/characters/special4)も[趙活](/ja/people/characters/player)から薬草の香りがすると言っていたのに、[木仙姑](/ja/people/mobs/artists#木仙姑)はなぜ人違いしなかったのか。~~
+-   [木仙姑](/ja/people/characters/other23)の話では、[唐芳](/ja/people/characters/special832)も梁有詩も薬草の香りがするため人違いされ、三人は顔見知りのようだ。
+    -   ~~[郁竹](/ja/people/characters/girl6)と[樊嘯天](/ja/people/characters/special4)も[趙活](/ja/people/characters/player)から薬草の香りがすると言っていたのに、[木仙姑](/ja/people/characters/other23)はなぜ人違いしなかったのか。~~
     -   [唐芳](/ja/people/characters/special832)と梁有詩は確かに顔見知り。
 
 ### 葉雲裳

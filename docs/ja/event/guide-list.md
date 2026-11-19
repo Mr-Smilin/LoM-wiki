@@ -19,6 +19,7 @@ tags:
 - 個別のイベントの詳細な流れは、[「イベント一覧」](/ja/event/story-simple-table)を参照。
 
 ## 攻略一覧
+- [金烏上人の死](/ja/people/characters/special207_death): ゲーム中で金烏上人を殺害するすべての方法のまとめ。
 - [飛侠の帰還](/ja/event/detailed_description/4-02-2-飛俠歸來): 3年目1月の臥雲崗イベントで大師兄の命を救う手順、および4年目に帰還させる方法。
 - [武林大会編](/ja/event/detailed_description/3-08-2-武林大會): 3年目10月中旬の武林大会における主な流れ。
 - [宿屋と帰路編](/ja/event/detailed_description/3-10-2-客棧歸途): 3年目10月中旬の武林大会後に唐門へ帰還するまでの主な流れ。
