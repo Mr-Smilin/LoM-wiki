@@ -2942,10 +2942,10 @@ tags:
         </td>
         <td>-</td>
         <td>
-          <ol>
-            <li><Girl6Icon>郁竹</Girl6Icon>路線中，金烏上人自封掌派人後對決眾崆峒弟子時落敗</li>
-            <li><Girl6Icon>郁竹</Girl6Icon>路線中，在崆峒半雨屏對決金烏上人時，戰至第15回合或落敗</li>
-          </ol>
+            <li>途徑一: <MarkdownWrapper>[崆峒爭奪戰](/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper><Girl6Icon>郁竹</Girl6Icon>路線中，
+                金烏上人自封掌派人後<MarkdownWrapper>[對決眾崆峒弟子](/event/simple/3-05-1-崆峒神威-竹線#眾人圍殺)</MarkdownWrapper>時落敗</li>
+            <li>途徑二: <MarkdownWrapper>[崆峒爭奪戰](/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper><Girl6Icon>郁竹</Girl6Icon>路線中，
+                在崆峒半雨屏<MarkdownWrapper>[對決金烏上人](/event/simple/3-05-1-崆峒神威-竹線#戰金烏上人)</MarkdownWrapper>時，戰至第15回合或落敗</li>
         </td>
         <td>-</td>
     </tr>
