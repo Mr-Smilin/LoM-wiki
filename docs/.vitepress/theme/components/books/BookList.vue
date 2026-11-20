@@ -10,7 +10,11 @@
     talents  天賦按鈕（篩選有這個天賦的書），只放常用的；書頁寫「儒學LV1」的，按「儒學」也找得到
   按鈕的字寫在列表頁，簡中頁建置時會跟著轉成簡體。
 
-  搜尋：空格分隔的每個詞都要符合（比對書名、種類、素質、天賦、條件）。
+  獲得方式：每本一個 slot（<template v-slot:src-代號>），內容是書頁的「## 獲得方式」那節，由 tools/buildBookSources.mjs
+  組成 _sources.md、列表頁引入（見 ../../script/bookSources.mjs）。有這些 slot 才出現「獲得方式」按鈕：預設不顯示，
+  按了在書名右邊多一欄，開關記在瀏覽器裡（同〈人物列表〉的圖案／列表）；搜尋的字只在獲得方式裡對到時，這欄自動出現。
+
+  搜尋：空格分隔的每個詞都要符合（比對書名、種類、素質、天賦、條件、獲得方式）。
   條件的比較符號：書頁寫半形（>= <= > < ==），表格上顯示成全形（≧ ≦ ＞ ＜ ＝）；搜尋打哪一種都找得到。
   表格自己一個捲動區（約一個畫面高）：表頭黏在上面、書名欄黏在左邊；比畫面寬時上方提示可以左右滑。
 -->
@@ -21,8 +25,8 @@
         v-model="query"
         type="search"
         class="bk-input"
-        :placeholder="t.placeholder"
-        :aria-label="t.placeholder"
+        :placeholder="placeholder"
+        :aria-label="placeholder"
         autocomplete="off"
       />
       <button
@@ -31,6 +35,13 @@
         :aria-expanded="String(showMore)"
         @click="showMore = !showMore"
       >{{ t.filter }}<span v-if="pickedCount" class="bk-badge">{{ pickedCount }}</span> ▾</button>
+      <button
+        v-if="hasSources"
+        type="button"
+        class="bk-morebtn"
+        :aria-pressed="String(showSource)"
+        @click="toggleSource"
+      >{{ t.source }}</button>
     </div>
 
     <div class="bk-group bk-kinds">
@@ -80,6 +91,7 @@
     <div class="bk-bar">
       <span class="bk-count">{{ hasFilter ? t.found(shownRows.length) : t.total(rows.length) }}</span>
       <button v-if="hasFilter" type="button" class="bk-clear" @click="clearAll">{{ t.clear }}</button>
+      <span v-if="sourceAuto && !showSource" class="bk-auto">{{ t.sourceAuto }}</span>
     </div>
 
     <div v-if="shownRows.length" class="bk-tablebox" :class="{ 'bk-more-right': moreRight }">
@@ -89,6 +101,7 @@
           <thead>
             <tr>
               <th class="bk-namecol">{{ t.headers.name }}</th>
+              <th v-if="sourceShown">{{ t.source }}</th>
               <th>{{ t.headers.kind }}</th>
               <th>{{ t.headers.bonus }}</th>
               <th>{{ t.headers.talents }}</th>
@@ -107,6 +120,9 @@
                   <span class="bk-icon" :style="iconBack" aria-hidden="true"><img :src="row.icon" alt="" loading="lazy" decoding="async" /></span>
                   <span>{{ row.title }}</span>
                 </a>
+              </td>
+              <td v-if="sourceShown" class="bk-srccol">
+                <div class="bk-src"><slot :name="`src-${row.no}`" /></div>
               </td>
               <td>{{ row.kind }}</td>
               <td>
@@ -145,7 +161,7 @@
 </template>
 
 <script setup>
-import { ref, computed, watch, nextTick, onMounted, onBeforeUnmount } from 'vue'
+import { ref, computed, watch, nextTick, onMounted, onBeforeUnmount, useSlots } from 'vue'
 import { useData, withBase } from 'vitepress'
 import { data as BOOKS } from '../../data/books.data.mjs'
 import { itemIconSrc, itemIconBack } from '../../script/itemIcon'
@@ -165,23 +181,30 @@ const TEXTS = {
   root: {
     placeholder: '搜尋書名、素質、天賦', filter: '篩選', kind: '種類', stat: '素質', talent: '天賦', all: '全部',
     clear: '清除篩選', swipe: '左右滑看更多欄位', empty: '找不到符合的秘笈。', or: '或',
+    placeholderSource: '搜尋書名、素質、天賦、獲得方式', source: '獲得方式', sourceAuto: '（搜到的字在獲得方式裡，先顯示這欄）',
     total: n => `共 ${n} 本`, found: n => `找到 ${n} 本`,
     headers: { name: '秘笈', kind: '種類', bonus: '素質', talents: '天賦', requires: '條件', points: '武學點', price: '價格' }
   },
   'zh-hans': {
     placeholder: '搜索书名、素质、天赋', filter: '筛选', kind: '种类', stat: '素质', talent: '天赋', all: '全部',
     clear: '清除筛选', swipe: '左右滑看更多栏位', empty: '找不到符合的秘笈。', or: '或',
+    placeholderSource: '搜索书名、素质、天赋、获得方式', source: '获得方式', sourceAuto: '（搜到的字在获得方式里，先显示这栏）',
     total: n => `共 ${n} 本`, found: n => `找到 ${n} 本`,
     headers: { name: '秘笈', kind: '种类', bonus: '素质', talents: '天赋', requires: '条件', points: '武学点', price: '价格' }
   },
   ja: {
     placeholder: '書名・能力・天賦で検索', filter: '絞り込み', kind: '種類', stat: '能力', talent: '天賦', all: 'すべて',
     clear: '条件をクリア', swipe: '左右にスクロールして他の列を表示', empty: '条件に一致する秘笈が見つからない。', or: 'または',
+    placeholderSource: '書名・能力・天賦・入手方法で検索', source: '入手方法', sourceAuto: '（入手方法に一致したため、この列を表示中）',
     total: n => `全 ${n} 冊`, found: n => `${n} 冊ヒット`,
     headers: { name: '秘笈', kind: '種類', bonus: '能力', talents: '天賦', requires: '条件', points: '武学点', price: '価格' }
   }
 }
 const t = computed(() => TEXTS[localeIndex.value] || TEXTS.root)
+
+// 列表頁有引入獲得方式（_sources.md 的 slot）才有這欄；沒引入的語系不出現按鈕，搜尋也不比對獲得方式
+const hasSources = Object.keys(useSlots()).some(name => name.startsWith('src-'))
+const placeholder = computed(() => hasSources ? t.value.placeholderSource : t.value.placeholder)
 
 // 書頁的資料（簡中讀轉好的那份，其他語系先用繁中）
 const rows = computed(() => (BOOKS[localeIndex.value] || BOOKS.root).map(book => ({
@@ -191,7 +214,9 @@ const rows = computed(() => (BOOKS[localeIndex.value] || BOOKS.root).map(book =>
   priceNum: typeof book.price === 'number' ? book.price : parseInt(book.price, 10),
   reqLines: reqLines(book.requires, t.value.or),
   // 搜尋只比對條件本身，不含顯示用的「或」和等級
-  haystack: [book.title, book.kind, ...book.bonus.map(([name]) => name), ...book.talents, ...book.requires.flatMap(group => group.items.flat())].join(' ').toLowerCase()
+  haystack: [book.title, book.kind, ...book.bonus.map(([name]) => name), ...book.talents, ...book.requires.flatMap(group => group.items.flat())].join(' ').toLowerCase(),
+  // 獲得方式跟搜尋的字一樣把全形比較符號換成半形，打「≧」才對得到書頁寫的「≧」
+  sourceHaystack: hasSources ? halfOps(book.sourceText.toLowerCase()) : ''
 })))
 const iconBack = computed(() => ({ backgroundImage: `url('${itemIconBack()}')` }))
 
@@ -219,7 +244,26 @@ const filteredRows = computed(() => rows.value.filter(row =>
   (!kind.value || row.kind === kind.value)
   && (!stat.value || row.bonus.some(([name]) => name === stat.value))
   && (!talent.value || row.talents.some(name => name.startsWith(talent.value)))
-  && terms.value.every(word => row.haystack.includes(word))))
+  && terms.value.every(word => row.haystack.includes(word) || row.sourceHaystack.includes(word))))
+//#endregion
+
+//#region 獲得方式欄：按鈕開關，記在瀏覽器裡、下次來還是同一種；搜尋的字只在獲得方式裡對到時自動顯示，看得到是哪一句
+const SOURCE_KEY = 'lom-wiki-book-list-source'
+const showSource = ref(false)
+
+function toggleSource() {
+  showSource.value = !showSource.value
+  try { localStorage.setItem(SOURCE_KEY, showSource.value ? 'on' : 'off') } catch (e) { /* 無痕模式之類存不了就算了 */ }
+}
+
+// 掛載後才讀：建置好的頁面是照「關著」畫的，一載入就讀會跟它對不上（hydration 錯誤）
+onMounted(() => {
+  try { if (localStorage.getItem(SOURCE_KEY) === 'on') showSource.value = true } catch (e) { /* 讀不到就用預設 */ }
+})
+
+const sourceAuto = computed(() => terms.value.length > 0 && filteredRows.value.some(row =>
+  terms.value.some(word => !row.haystack.includes(word) && row.sourceHaystack.includes(word))))
+const sourceShown = computed(() => showSource.value || sourceAuto.value)
 //#endregion
 
 //#region 排序：點一下由少到多，再點反過來，第三下回到遊戲裡的順序；沒有價格的一律排最後
@@ -274,8 +318,8 @@ onMounted(() => {
   }, { immediate: true })
 })
 onBeforeUnmount(() => observer?.disconnect())
-// 篩選後欄寬會變，重算一次
-watch(shownRows, () => nextTick(updateScroll))
+// 篩選後、獲得方式欄開關後欄寬會變，重算一次
+watch([shownRows, sourceShown], () => nextTick(updateScroll))
 //#endregion
 </script>
 
@@ -283,7 +327,7 @@ watch(shownRows, () => nextTick(updateScroll))
 .bk-search {
   display: flex;
   gap: 8px;
-  max-width: 420px;
+  max-width: 500px;
   margin-top: 16px;
 }
 
@@ -313,9 +357,16 @@ watch(shownRows, () => nextTick(updateScroll))
   cursor: pointer;
 }
 
-.bk-morebtn[aria-expanded="true"] {
+.bk-morebtn[aria-expanded="true"],
+.bk-morebtn[aria-pressed="true"] {
   border-color: var(--vp-c-brand-1);
   color: var(--vp-c-brand-1);
+}
+
+/* 獲得方式按鈕：開著時底色也換，看得出這欄是按出來的 */
+.bk-morebtn[aria-pressed="true"] {
+  background-color: var(--vp-c-brand-soft);
+  font-weight: 600;
 }
 
 .bk-badge {
@@ -395,9 +446,15 @@ watch(shownRows, () => nextTick(updateScroll))
 
 .bk-bar {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 10px;
+  gap: 4px 10px;
   margin: 12px 0 8px;
+}
+
+.bk-auto {
+  font-size: 13px;
+  color: var(--vp-c-brand-1);
 }
 
 .bk-count {
@@ -576,6 +633,58 @@ th.bk-namecol {
 .bk-reqline {
   display: block;
 }
+
+/* 獲得方式：書頁那節原樣（清單、段落、小標題），字小一點、間距收緊；slot 的內容要用 :deep 才套得到 */
+.bk-table td.bk-srccol {
+  min-width: 15em;
+  max-width: 24em;
+  vertical-align: top;
+}
+
+.bk-src {
+  font-size: 13.5px;
+  line-height: 1.6;
+}
+
+.bk-src :deep(ul),
+.bk-src :deep(ol) {
+  margin: 0;
+  padding-left: 1.2em;
+}
+
+.bk-src :deep(li + li),
+.bk-src :deep(ul ul) {
+  margin-top: 2px;
+}
+
+.bk-src :deep(p) {
+  margin: 0 0 4px;
+  line-height: 1.6;
+}
+
+.bk-src :deep(p:last-child) {
+  margin-bottom: 0;
+}
+
+.bk-src :deep(h3),
+.bk-src :deep(h4) {
+  margin: 6px 0 2px;
+  padding: 0;
+  border: 0;
+  font-size: 13.5px;
+  line-height: 1.6;
+  font-weight: 600;
+}
+
+.bk-src :deep(h3:first-child),
+.bk-src :deep(h4:first-child) {
+  margin-top: 0;
+}
+
+.bk-src :deep(.header-anchor) {
+  display: none;
+}
+
 .bk-empty {
   color: var(--vp-c-text-2);
 }
@@ -593,6 +702,11 @@ th.bk-namecol {
 
   .bk-name {
     gap: 6px;
+  }
+
+  /* 獲得方式欄縮到書名欄旁邊放得下，讀這欄不用左右滑 */
+  .bk-table td.bk-srccol {
+    min-width: 11.5em;
   }
 }
 </style>

@@ -27,6 +27,8 @@ const baseConfig = {
 	},
 	appearance: "dark", // 默認深色主題
 	lastUpdated: true, // 是否使用 Git 获取每个页面的最后更新时间戳
+	// 秘笈列表引入的獲得方式（tools/buildBookSources.mjs 產生），不當成一頁
+	srcExclude: ["system/books/_sources.md", "zh-hans/system/books/_sources.md"],
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		logo: {
