@@ -172,7 +172,7 @@ tags:
 <tr>
   <td id = "條件7">7</td>
   <td>第三年五月上旬</td>
-  <td>崆峒爭奪戰</td>
+  <td><MarkdownWrapper>[崆峒爭奪戰](/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper></td>
   <td>
     <li>
       進入崆峒地界時:<br>
