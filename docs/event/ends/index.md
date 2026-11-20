@@ -757,7 +757,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>
         <span style="color: #FF8C00;">【崆峒爭奪戰】</span>
         <span style="color: #70AA39;">【郁竹】</span><br>
-        崆峒爭奪戰中<MarkdownWrapper>[戰局惡化](/event/simple/3-05-1-鐵鋪閒談#戰局惡化)</MarkdownWrapper>時，和郁竹一起逃下崆峒。
+        崆峒爭奪戰中<MarkdownWrapper>[戰局惡化](/event/simple/3-05-1-鐵鋪閒談#戰局惡化)</MarkdownWrapper>時，和郁竹一起逃離崆峒。
     </td>
 </tr>
 
@@ -767,7 +767,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>
         <span style="color: #FF8C00;">【崆峒爭奪戰】</span>
         <span style="color: #FF2D51;">【虞小梅】</span><br>
-        崆峒爭奪戰時在半雨屏與虞小梅決鬥敗戰。
+        <MarkdownWrapper>[崆峒爭奪戰](/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>時，<MarkdownWrapper>[在半雨屏與虞小梅決鬥](/event/simple/3-05-1-崆峒神威-梅線)</MarkdownWrapper>任一場敗戰。
     </td>
 </tr>
 
@@ -777,7 +777,8 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>
         <span style="color: #FF8C00;">【崆峒爭奪戰】</span>
         <span style="color: #FF2D51;">【虞小梅】</span><br>
-        崆峒爭奪戰時在半雨屏沒能喚醒虞小梅。
+        <MarkdownWrapper>[崆峒爭奪戰](/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>
+        <MarkdownWrapper>[第二次戰虞小梅](/event/simple/3-05-1-崆峒神威-梅線#二戰小梅)</MarkdownWrapper>時，嘴攻🚩喚醒小梅＜4次就獲勝。
     </td>
 </tr>
 
