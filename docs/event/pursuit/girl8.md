@@ -50,7 +50,7 @@ tags:
     <li><MarkdownWrapper>[龍湘練劍](/system/training/)</MarkdownWrapper></li>
     <li><MarkdownWrapper>[龍湘心事](/event/simple/3-11-2-龍湘心事)</MarkdownWrapper></li>
 </td>
-<td>• 先確保心上人為<Girl8Icon>龍湘</Girl8Icon>
+<td>• 先確保心上人為<Girl8Icon>龍湘</Girl8Icon>，且未成為崆峒掌派人。
     <br>• 至後山挑柴隨機觸發<MarkdownWrapper>[龍湘練劍](/system/training/)</MarkdownWrapper>(需滿足條件2)，選擇📖「我來告訴你，用劍」。
     <br>• 無論勝負，若滿足條件1，進入<MarkdownWrapper>[龍湘心事](/event/simple/3-11-2-龍湘心事)</MarkdownWrapper>事件，開啟📜閒聊。
     <br>• 閒聊完📜「初識之時」與📜「錦香宮」後，選擇📜「龍湘的心事」(需心上人為龍湘)，接著滿足以下任一條件:
