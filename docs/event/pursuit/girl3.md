@@ -12,9 +12,6 @@ tags:
 ---
 
 # {{ $frontmatter.title }}
-::: warning
-- 本條目草創，內容未經仔細驗證。若其中有誤，懇請讀者於留言區回報。
-:::
 
 <p align="center"><img src="/images/characters/girl_3/shy4.webp" style="width:300px"></p>
 
