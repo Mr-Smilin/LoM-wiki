@@ -1,0 +1,187 @@
+/*
+ * 結緣攻略（frontmatter 設 pageClass: pursuit 的頁面）的表格版面
+ *
+ * 這幾頁開了 borderless，內容區沒有上限，寬度會跟著內文最長的一行走：
+ * 字多的頁撐滿螢幕、字少的頁比較窄，每頁不一樣寬；手機上五欄又擠到每格只剩兩三個字。
+ * 所以改成：
+ * - 桌機：內容區最寬 1200px 置中，欄寬固定比例，「時間」和「事件」疊在同一欄（時間小字在上）。
+ * - 手機（小於 768px）：每一列排成一張卡片。
+ *
+ * 表格原始碼照舊寫五格（編號、時間、事件、內容、備註），第一列是表頭；
+ * 只套用在第一列剛好五格的表，其他表格不受影響。
+ */
+
+@media screen and (min-width: 768px) {
+  /* 要蓋過 borderless.css 的 max-width: none，所以選擇器比它多一個 class */
+  .borderless #app .Layout.pursuit .VPContent .VPDoc .container .content .content-container {
+    width: 100%;
+    max-width: 1200px;
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child),
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tbody {
+    display: block;
+    width: 100%;
+  }
+
+  /* 每一列是一個 grid：四欄固定比例；第二欄上下兩格放時間和事件，前後兩條 1fr 讓這兩格整組垂直置中 */
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr {
+    display: grid;
+    grid-template-columns: 5em 22% 42% 1fr;
+    grid-template-rows: 1fr auto auto 1fr;
+    border: 1px solid var(--vp-c-divider);
+    border-top: 0;
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr:first-child {
+    border-top: 1px solid var(--vp-c-divider);
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) :is(td, th) {
+    border: 0;
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+  /* 編號、內容、備註跨整列高，內容垂直置中（照原本表格的樣子）；格線畫在它們身上 */
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :nth-child(1) {
+    grid-column: 1;
+    grid-row: 1 / -1;
+    align-content: center;
+    border-right: 1px solid var(--vp-c-divider);
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :nth-child(2) {
+    grid-column: 2;
+    grid-row: 2;
+    padding-bottom: 0;
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :nth-child(3) {
+    grid-column: 2;
+    grid-row: 3;
+    padding-top: 4px;
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :nth-child(4) {
+    grid-column: 3;
+    grid-row: 1 / -1;
+    align-content: center;
+    border-left: 1px solid var(--vp-c-divider);
+    border-right: 1px solid var(--vp-c-divider);
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :nth-child(5) {
+    grid-column: 4;
+    grid-row: 1 / -1;
+    align-content: center;
+  }
+
+  /* 時間用小一號的淡色字，事件（通常是連結）留原樣 */
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr:not(:first-child) > :nth-child(2) {
+    font-size: 13px;
+    color: var(--vp-c-text-2);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child),
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tbody,
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr,
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) :is(td, th) {
+    display: block;
+    width: auto;
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) {
+    overflow: visible;
+  }
+
+  /* 卡片上不需要表頭 */
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr:first-child {
+    display: none;
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr {
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 10px;
+    margin: 0 0 14px;
+    padding: 10px 14px 12px;
+    background-color: var(--vp-c-bg-soft);
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) :is(td, th) {
+    border: 0;
+    padding: 0;
+  }
+
+  /* 第一行：編號（圓角小標）＋時間 */
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :nth-child(1) {
+    display: inline-block;
+    min-width: 1.8em;
+    margin-right: 8px;
+    padding: 0 6px;
+    border-radius: 11px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 22px;
+    color: var(--vp-c-brand-1);
+    background-color: var(--vp-c-brand-soft);
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :nth-child(2) {
+    display: inline;
+    font-size: 13px;
+    color: var(--vp-c-text-2);
+  }
+
+  /* 第二行：事件，下面用虛線和內容隔開 */
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :nth-child(3) {
+    margin: 6px 0 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px dashed var(--vp-c-divider);
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :is(:nth-child(4), :nth-child(5)) {
+    margin-top: 8px;
+  }
+
+  /* 格子裡直接寫的 <li> 沒有 <ul> 包著，項目符號會跑到卡片外面 */
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) :is(td, th) > li {
+    margin-left: 1.1em;
+  }
+
+  /* 內容、備註前面補小標（表頭藏起來了）；第二張表的欄名是「改變內容」，小標統一寫「內容」「備註」 */
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :is(:nth-child(4), :nth-child(5))::before {
+    display: block;
+    margin-bottom: 2px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--vp-c-text-3);
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :nth-child(4)::before {
+    content: "內容";
+  }
+
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :nth-child(5)::before {
+    content: "備註";
+  }
+
+  /* 簡中頁 */
+  :lang(zh-Hans) .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :nth-child(4)::before {
+    content: "内容";
+  }
+
+  :lang(zh-Hans) .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :nth-child(5)::before {
+    content: "备注";
+  }
+
+  /* 空的格子（多半是備註）不顯示；放最後，蓋過上面各欄的 display */
+  .pursuit .vp-doc table:has(tr:first-child > :nth-child(5):last-child) tr > :empty {
+    display: none;
+  }
+}
