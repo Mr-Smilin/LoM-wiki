@@ -65,6 +65,7 @@ import "./styles/style.css";
 import "./styles/theme-transition.css";
 import "./styles/custom.css";
 import "./styles/borderless.css";
+import "./styles/pursuit.css";
 import "./styles/twikoo.css";
 // import EndBackground
 import EndBackground from "./components/background/EndBackground.vue";
