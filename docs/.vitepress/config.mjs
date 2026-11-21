@@ -22,6 +22,10 @@ const baseConfig = {
 	description: "Legend of Mortal Wiki", // 站點敘述
 	lang: "zh-TW", // 站點語系
 	base: baseUrl, // 站點子目錄
+	// 開發項目頁（含各語系）加上 dev-page，讓 style.css 在寬螢幕放寬左側選單與內文欄
+	transformPageData(pageData) {
+		if (pageData.relativePath.includes("develop/")) pageData.frontmatter.pageClass ??= "dev-page";
+	},
 	sitemap: {
 		hostname: `https://smilin.net${baseUrl}`,
 	},
