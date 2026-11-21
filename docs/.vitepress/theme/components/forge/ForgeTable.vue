@@ -94,6 +94,10 @@ if (import.meta.env.DEV) {
 }
 /* contain: 表格寬度不往外撐（VitePress 的 .content-container 是 min-width:auto 的 flex 子項，iPad 直式會被撐破） */
 .forge .forge-scroll { overflow-x: auto; contain: inline-size; }
+/* PC：讓表格撐開內文欄，寬度由最深的第三階（縮排最多）決定，一、二階共用同一欄寬，不用橫向捲；畫面不夠寬時仍會捲 */
+@media (min-width: 1280px) {
+  .forge .forge-scroll { contain: none; }
+}
 /* sticky 欄位在 border-collapse: collapse 下會錯位，改用 separate，框線只畫右、下避免變兩倍粗 */
 .forge .forge-scroll table {
   display: table; margin: 0; border-collapse: separate; border-spacing: 0;
