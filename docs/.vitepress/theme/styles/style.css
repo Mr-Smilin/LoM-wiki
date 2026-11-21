@@ -148,12 +148,3 @@
         z-index: 1;
     }
   }
-/* 開發項目頁：寬螢幕 PC 放寬左側選單與內文欄，手機/平板維持預設 */
-@media (min-width: 1440px) {
-  .dev-page {
-    --vp-sidebar-width: 360px; /* 預設 272px，第二、三階選單太擠 */
-  }
-  .dev-page .VPDoc.has-aside .content-container {
-    max-width: 960px;
-  }
-}
