@@ -96,8 +96,8 @@ const baseConfig = {
 						text: "拆包資料",
 						items: [
 							{
-								text: "v1.0.3130",
-								link: "https://smilin.pse.is/LoM",
+								text: "活俠傳事件分岐資料庫",
+								link: "https://mortal.eraser.moe",
 							},
 						],
 					},
