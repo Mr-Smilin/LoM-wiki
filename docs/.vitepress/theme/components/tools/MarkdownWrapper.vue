@@ -137,9 +137,21 @@ function renderNode(node) {
     return h(LinkPreview, { href: node.href }, () => children);
   }
   if (node.type === 'element') {
-    return h(node.tag, node.attrs, node.children.map(renderNode));
+    const attrs = node.attrs.class === 'shary'
+      ? { ...node.attrs, onClickCapture: revealSpoiler, onKeydown: e => e.key === 'Enter' && revealSpoiler(e) }
+      : node.attrs;
+    return h(node.tag, attrs, node.children.map(renderNode));
   }
   return null;
+}
+
+// 防劇透未翻開前，點擊（含點在裡面的連結）只負責翻開，不觸發連結；翻開後維持翻開
+function revealSpoiler(e) {
+  const el = e.currentTarget;
+  if (el.classList.contains('revealed')) return;
+  e.preventDefault();
+  e.stopPropagation();
+  el.classList.add('revealed');
 }
 
 function wikilinkDisplayText(text) {
@@ -263,18 +275,18 @@ onMounted(() => {
   z-index: 1;
 }
 
+/* 滑過只是預覽，遮罩仍攔點擊；點擊翻開（.revealed）後才放行連結 */
 .shary:hover::before,
-.shary:focus::before,
-.shary:active::before {
+.shary.revealed::before {
   opacity: 0;
-  /* 遮罩透明後仍會攔截點擊，需放行讓連結可點 */
+}
+
+.shary.revealed::before {
   pointer-events: none;
 }
 
-@media (max-width: 768px) {
-  .shary:active::before {
-    opacity: 0;
-    pointer-events: none;
-  }
+/* VitePress 路由在 window capture 階段攔連結點擊，JS 擋不到；未翻開時讓連結不吃點擊，點擊落在 .shary 本身 */
+.shary:not(.revealed) a {
+  pointer-events: none;
 }
 </style>
