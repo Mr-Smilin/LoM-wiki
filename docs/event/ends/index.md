@@ -239,7 +239,7 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
 結局 15
 </td>
 <td style="color: #a83232;">
-<EndIcon no="15">天下寂寥事，與君闊別時</EndIcon>
+<EndIcon no="15">子夜寄君書</EndIcon>
 </td>
 <td>
 <span style="color: #EEE8AA;">【隨四師兄行商】</span>

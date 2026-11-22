@@ -1,6 +1,6 @@
 ---
-title: 汗青書15：天下寂寥事，與君闊別時
-description: 汗青書15：天下寂寥事，與君闊別時
+title: 汗青書15：子夜寄君書
+description: 汗青書15：子夜寄君書
 aside: true
 outline: [2, 3]
 sidebar: true
@@ -15,10 +15,10 @@ tags:
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=15 title="天下寂寥事，與君闊別時">
-仗劍天涯之遠，慣看寂寞顏色。天下之大，誰也換<br>
-不了她嫣然一笑。活該一生煎熬，來贖她眼淚。<br>
-<br>
+<EndBackground no=15 title="子夜寄君書">
+見字如晤：此去白首難照面，妾所念無它，惟願君<br>
+珍重，來生再續緣。<br>
+子夜無話，張弦代語，一弦一柱盡嗚咽。<br>
 <br>
 <br>
 </EndBackground>
@@ -33,3 +33,15 @@ tags:
 ## 備註
 
 - 必須有青城留學，否則三年一月轉【葉雲裳抵抗】後，仍然會去金國。
+
+## 舊版
+
+v1.0.6001.2 改成現在的名稱與結局文。之前的名稱跟汗青書14<EndIcon no="14">天下寂寥事，與君闊別時</EndIcon>相同：
+
+<EndBackground no=15 title="天下寂寥事，與君闊別時">
+仗劍天涯之遠，慣看寂寞顏色。天下之大，誰也換<br>
+不了她嫣然一笑。活該一生煎熬，來贖她眼淚。<br>
+<br>
+<br>
+<br>
+</EndBackground>

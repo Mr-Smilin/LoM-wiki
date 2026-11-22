@@ -234,7 +234,7 @@ tags:
         > 細把淚捻寫作詩，張弦代語訴君知。<br>
         
         - 相關文本在武林大會的子夜寄君書橋段。
-    - <Girl2Icon>葉雲裳</Girl2Icon>版本行商結局<EndIcon no="15">天下寂寥事，與君闊別時</EndIcon>，[[葉雲裳]]子夜寫信給[[趙活]]的情境。
+    - <Girl2Icon>葉雲裳</Girl2Icon>版本行商結局<EndIcon no="15">子夜寄君書</EndIcon>，[[葉雲裳]]子夜寫信給[[趙活]]的情境。
 - [Youtube - 【活俠傳】- 子夜寄君書 -最感人的音樂，人氣投票第一名! 原本卻是的美麗誤會 - 幽火的音樂解析](https://www.youtube.com/watch?v=yjVGLuu6dFM)
 
 ## 第二輯
