@@ -5,6 +5,7 @@ aside: false
 outline: [2, 3]
 sidebar: false
 borderless: true
+pageClass: pursuit
 tags:
     - 結婚
     - 成親

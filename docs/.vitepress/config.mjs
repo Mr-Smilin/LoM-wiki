@@ -160,6 +160,10 @@ const baseConfig = {
 								text: "角色頁面模板",
 								link: "/develop/clean-character-template.md",
 							},
+							{
+								text: "結緣攻略頁面模板",
+								link: "/develop/clean-pursuit-template.md",
+							},
 						],
 					},
 				],
@@ -209,6 +213,10 @@ const baseConfig = {
 								{
 									text: "角色頁面模板",
 									link: "/develop/clean-character-template.md",
+								},
+								{
+									text: "結緣攻略頁面模板",
+									link: "/develop/clean-pursuit-template.md",
 								},
 							],
 						},
@@ -641,6 +649,10 @@ const baseConfig = {
 										text: "角色页面模板",
 										link: "/zh-hans/develop/clean-character-template.md",
 									},
+									{
+										text: "结缘攻略页面模板",
+										link: "/zh-hans/develop/clean-pursuit-template.md",
+									},
 								],
 							},
 						],
@@ -689,6 +701,10 @@ const baseConfig = {
 										{
 											text: "角色页面模板",
 											link: "/zh-hans/develop/clean-character-template.md",
+										},
+										{
+											text: "结缘攻略页面模板",
+											link: "/zh-hans/develop/clean-pursuit-template.md",
 										},
 									],
 								},
