@@ -788,7 +788,8 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>
         <span style="color: #FF8C00;">【崆峒爭奪戰】</span>
         <span style="color: #70AA39;">【郁竹】</span><br>
-        崆峒爭奪戰後探望郁竹時，說掌派人迎娶四姝是傳統美德。
+        <MarkdownWrapper>[崆峒爭奪戰](/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>後<MarkdownWrapper>[探望郁竹](/event/simple/3-05-1-探望眾人#探望小竹)</MarkdownWrapper>時，
+        說掌派人迎娶四姝是傳統美德。
     </td>
 </tr>
 
@@ -798,7 +799,8 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
     <td>
         <span style="color: #FF8C00;">【崆峒爭奪戰】</span>
         <span style="color: #FF2D51;">【虞小梅】</span><br>
-        崆峒爭奪戰中喚醒虞小梅，事後探望時不讓她離開。
+        <MarkdownWrapper>[崆峒爭奪戰](/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>中<MarkdownWrapper>[喚醒虞小梅](/event/simple/3-05-1-崆峒神威-梅線)</MarkdownWrapper>，
+        <MarkdownWrapper>[事後探望](/event/simple/3-05-1-探望眾人#探望小梅)</MarkdownWrapper>時不讓她離開。
     </td>
 </tr>
 
