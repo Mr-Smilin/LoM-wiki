@@ -18,8 +18,18 @@ tags:
 - 此類攻略著重劇情分歧路線的指引，而非事件的詳細流程，且攻略內容可跨越事件。
 - 單一事件的詳細流程，請見[「事件列表」](/event/story-simple-table)條目。
 
-## 攻略列表
-- [金烏上人之死](/people/characters/special207_death): 整理遊戲中所有殺死金烏上人的方法。
+## 時間線攻略
+- [第一年四月](/event/guide/1-04)
+- [第一年五月](/event/guide/1-05)
+- [第一年六月](/event/guide/1-06)
+- [第一年七月](/event/guide/1-07)
+- [第一年八月](/event/guide/1-08)
+- [第一年九月](/event/guide/1-09)
+- [第一年十月](/event/guide/1-10)
+- [第一年十一月](/event/guide/1-11)
+- [第一年十二月](/event/guide/1-12)
+
+## 重點事件攻略
 - [飛俠歸來](/event/detailed_description/4-02-2-飛俠歸來): 第三年一月臥雲崗事件如何拯救大師兄生命，及第四年讓他歸來的方法。
 - [武林大會篇](/event/detailed_description/3-08-2-武林大會): 第三年十月中旬武林大會上的主要流程。
 - [客棧歸途篇](/event/detailed_description/3-10-2-客棧歸途): 第三年十月中旬武林大會後回唐門的主要流程。
