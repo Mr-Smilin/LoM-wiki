@@ -9,12 +9,12 @@ tags:
     - ends
     - 汗青書
     - エンディング
-    - 君が願う江湖の旅
+    - 君が願いし、江湖の道
 ---
 
 # {{ $frontmatter.title }}
 
-<EndBackground no=47 title="君が願う江湖の旅">
+<EndBackground no=47 title="君が願いし、江湖の道">
 ついに、あなたが主役の番だった。<br>その幕引きは涙を誘う見事なもので、<br>世にあなたを見くびる者は、<br>もう二度と現れなかった。<br>
 <br>
 <br>
