@@ -73,7 +73,7 @@ tags:
         <td id="風雲史-No.03">03</td>
         <td><AchievementIcon :size="`medium`" :no="`03`"><br>懦夫救星</AchievementIcon></td>
         <td>誰不想成為命運寵兒，出手掀翻天地，回家妻妾成群。但你還得活著，必須清醒。</td>
-        <td>臥雲崗事件選擇下山，回程對戰金烏上人，戰鬥落敗或者獲勝後【＜70 中招】，被金烏打暈自動觸發取得。</td>
+        <td>臥雲崗事件選擇下山，回程對戰金烏上人，戰鬥落敗或者獲勝後【🎲＜70 中招】，被金烏打暈自動觸發取得。</td>
         <td></td>
         <td></td>
     </tr>
@@ -138,10 +138,10 @@ tags:
         <td>你在崆峒大試大出風頭，要不是臉，說不定老婆都有了。</td>
         <td>
             第二年崆峒派留學比武連勝三場或<br>
-            第三場被乞丐狂犬之外的人打敗也可以獲得。
+            第三場被<MarkdownWrapper>[[樊嘯天|乞丐狂犬]]</MarkdownWrapper>之外的人打敗也可以獲得。
         </td>
         <td></td>
-        <td></td>
+        <td>崆峒大試大出風頭的男俠，<br>有望在玄功門媒合一位女弟子娶妻，<br>當然<MarkdownWrapper>[[趙活]]</MarkdownWrapper>沒人有意願。</td>
     </tr>
     <tr>
         <td id="風雲史-No.10">10</td>
@@ -160,7 +160,7 @@ tags:
         <td>你曾經那麼受歡迎過，應該死而無憾了吧？</td>
         <td>與<Girl8Icon>龍湘</Girl8Icon>互稱姊弟且好感度4星、且<Girl3Icon>小梅</Girl3Icon>好感2星以上加入唐門後，嘴力>=40且體力＜60，在大師兄下山回程時骰到「兩人都不放手」。</td>
         <td></td>
-        <td></td>
+        <td>~~此名場面已被官方作成門簾周邊。~~</td>
     </tr>
     <tr>
         <td id="風雲史-No.12">12</td>
@@ -219,7 +219,7 @@ tags:
     <tr>
         <td id="風雲史-No.18">18</td>
         <td><AchievementIcon :size="`medium`" :no="`18`"><br>魔王的爪牙</AchievementIcon></td>
-        <td>你是她的心腹，她是你心肝。</td>
+        <td>你是<Girl2Icon>她</Girl2Icon>的心腹，她是你心肝。</td>
         <td>武林傳奇通關時與<Girl2Icon>葉雲裳</Girl2Icon>結緣，步驟請見<MarkdownWrapper>[〈葉雲裳結緣攻略〉](/event/pursuit/girl2)</MarkdownWrapper>。</td>
         <td></td>
         <td>v1.0.5000.0版本後新增</td>
@@ -227,7 +227,7 @@ tags:
     <tr>
         <td id="風雲史-No.19">19</td>
         <td><AchievementIcon :size="`medium`" :no="`19`"><br>惡人自有惡人磨</AchievementIcon></td>
-        <td>區區晁和，無恥無腦，哪裡惡得過她？</td>
+        <td>區區<MarkdownWrapper>[[晁和]]</MarkdownWrapper>，無恥無腦，哪裡惡得過<Girl2Icon>她</Girl2Icon>？</td>
         <td><MarkdownWrapper>[和葉雲裳結緣](/event/pursuit/girl2)</MarkdownWrapper>並<MarkdownWrapper>[讓她同行武林大會](/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>，離開時<MarkdownWrapper>[各派投票結果](/event/simple/3-10-2-公審唐門#公審總結)</MarkdownWrapper>為唐門成為武林公敵，<MarkdownWrapper>[上前解釋](/event/simple/3-10-2-武林公敵)</MarkdownWrapper>時選擇「讓葉雲裳陪伴」。</td>
         <td></td>
         <td>v1.0.5000.0版本後新增</td>
@@ -243,9 +243,14 @@ tags:
     <tr>
         <td id="風雲史-No.21">21</td>
         <td><AchievementIcon :size="`medium`" :no="`21`"><br>一家之主</AchievementIcon></td>
-        <td>唐門外姓弟子，崆峒掌派人，竹城之主，她的歸宿。</td>
+        <td>唐門外姓弟子，崆峒掌派人，竹城之主，<Girl6Icon>她</Girl6Icon>的歸宿。</td>
         <td>武林傳奇通關時與<Girl6Icon>郁竹</Girl6Icon>結緣，步驟請見<MarkdownWrapper>[〈郁竹結緣攻略〉](/event/pursuit/girl6)</MarkdownWrapper>。</td>
         <td></td>
         <td>v1.0.6000.0版本後新增</td>
     </tr>
 </BTable>
+
+## 備註
+- 「惡人自有惡人磨」，指3位惡人：造謠的[[晁和]]、出謀反擊的[[葉雲裳]]、下殺手的[[釋明]]。
+- 「折梅手」名稱，致敬金庸的武俠小說《天龍八部》的絕學「天山折梅手」（亦稱六路折梅手）。
+- 「竹城之主」指<EndIcon no="9">竹之城</EndIcon>。
