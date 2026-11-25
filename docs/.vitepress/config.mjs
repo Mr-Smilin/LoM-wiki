@@ -1133,8 +1133,8 @@ const baseConfig = {
 								text: "解析データ",
 								items: [
 									{
-										text: "v1.0.3130",
-										link: "https://smilin.pse.is/LoM",
+										text: "活俠傳事件分岐資料庫",
+										link: "https://mortal.eraser.moe",
 									},
 								],
 							},
@@ -1204,6 +1204,10 @@ const baseConfig = {
 										link: "/ja/develop/clean-character-template.md",
 									},
 									{
+										text: "結縁攻略ページテンプレート",
+										link: "/ja/develop/clean-pursuit-template.md",
+									},
+									{
 										text: "イベントページテンプレート",
 										link: "/ja/develop/clean-event-template.md",
 									},
@@ -1261,6 +1265,10 @@ const baseConfig = {
 										{
 											text: "キャラクターページテンプレート",
 											link: "/ja/develop/clean-character-template.md",
+										},
+										{
+											text: "結縁攻略ページテンプレート",
+											link: "/ja/develop/clean-pursuit-template.md",
 										},
 										{
 											text: "イベントページテンプレート",
