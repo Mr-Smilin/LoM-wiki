@@ -811,7 +811,8 @@ Demo 版結局，唐門滅派前夕選擇跟普通女弟子下山延續唐門薪
         <span style="color: #FF8C00;">【崆峒爭奪戰】</span>
         <span style="color: #FF2D51;">【虞小梅】</span>
         <span style="color: #70AA39;">【郁竹】</span><br>
-        崆峒爭奪戰後，辭別崆峒時接任崆峒掌派人。
+        <MarkdownWrapper>[崆峒爭奪戰](/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>後，
+        <MarkdownWrapper>[辭別崆峒](/event/simple/3-05-1-辭別崆峒)</MarkdownWrapper>時選擇接任崆峒掌派人。
     </td>
 </tr>
 
