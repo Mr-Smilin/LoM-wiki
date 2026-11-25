@@ -48,6 +48,7 @@ tags:
 ## 備考
 
 -   [瑞笙](/ja/people/characters/special999)の幼馴染。[^1]
+-   [瑞杏](/ja/people/characters/girl1)に制約されており、[瑞笙](/ja/people/characters/special999)は逆らうことができない。
 
 
 [^1]: PTT C 洽－[\[活俠\] 瑞笙設定+龍湘設定+夏侯蘭生日](https://www.ptt.cc/bbs/C_Chat/M.1752927048.A.9E1.html)

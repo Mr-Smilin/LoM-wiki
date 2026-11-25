@@ -73,7 +73,7 @@ tags:
         <td id="風雲史-No.03">03</td>
         <td><AchievementIcon :size="`medium`" :no="`03`"><br>臆病者の救い主 (懦夫救星)</AchievementIcon></td>
         <td>運命の寵児になりたくない者などいない。手を振るえば天地が覆り、家に帰れば<ruby>妻妾<rt>さいしょう</rt></ruby>が群れを成す。<br>だが、あなたは生きねばならない。醒めていなければ、ならない。</td>
-        <td>臥雲崗イベントで山を下りることを選び、帰路で金烏上人と対戦。戦闘に敗北するか、勝利後に【＜70 食らう】になって金烏に殴られて気絶する時に自動取得。</td>
+        <td>臥雲崗イベントで山を下りることを選び、帰路で金烏上人と対戦。戦闘に敗北するか、勝利後に【🎲＜70 食らう】になって金烏に殴られて気絶する時に自動取得。</td>
         <td></td>
         <td></td>
     </tr>
@@ -138,10 +138,10 @@ tags:
         <td><ruby>崆峒<rt>こうどう</rt></ruby>の大試で、あなたは大いに株を上げた。<br>あの顔さえなければ、嫁の一人もできていたかもしれない。</td>
         <td>
             2年目の崆峒派留学中の比武で3連勝する、または<br>
-            3試合目で物乞いの狂犬以外の者に敗北しても取得可能。
+            3試合目で<MarkdownWrapper>[樊嘯天](/ja/people/characters/special4)</MarkdownWrapper>（物乞いの狂犬）以外の者に敗北しても取得可能。
         </td>
         <td></td>
-        <td></td>
+        <td>崆峒大試で頭角を現した男侠は、<br>玄功門で女弟子の誰かと縁談がまとまる見込みがあるが、<br>もちろん<MarkdownWrapper>[趙活](/ja/people/characters/player)</MarkdownWrapper>を望む者は誰もいなかった。</td>
     </tr>
     <tr>
         <td id="風雲史-No.10">10</td>
@@ -160,7 +160,7 @@ tags:
         <td>あれほど引っ張りだこだったのだから、死んでも悔いはないだろう？</td>
         <td><Girl8Icon>龍湘</Girl8Icon>と姉妹兄弟の関係で好感度4星、かつ<Girl3Icon>小梅</Girl3Icon>好感度2星以上で唐門加入後、弁舌≧40かつ体力＜60の時、唐布衣の帰路で「二人とも手を放さない」をダイスで出す。</td>
         <td></td>
-        <td></td>
+        <td>~~この名場面は公式によってのれんグッズ化されている。~~</td>
     </tr>
     <tr>
         <td id="風雲史-No.12">12</td>
@@ -227,7 +227,7 @@ tags:
     <tr>
         <td id="風雲史-No.18">18</td>
         <td><AchievementIcon :size="`medium`" :no="`18`"><br>魔王の爪牙</AchievementIcon></td>
-        <td>あなたは彼女の腹心で、彼女はあなたの想い人。</td>
+        <td>あなたは<Girl2Icon>彼女</Girl2Icon>の腹心で、彼女はあなたの想い人。</td>
         <td>2年目で好感度4星以上（5星推奨）<br>
             武林伝説クリア時に<Girl2Icon>葉雲裳</Girl2Icon>と結縁している。手順は<MarkdownWrapper>[〈葉雲裳結縁攻略〉](/ja/event/pursuit/girl2)</MarkdownWrapper>を参照。</td>
         <td></td>
@@ -236,7 +236,7 @@ tags:
     <tr>
         <td id="風雲史-No.19">19</td>
         <td><AchievementIcon :size="`medium`" :no="`19`"><br>悪人は悪人が制す (惡人自有惡人磨)</AchievementIcon></td>
-        <td>たかが<ruby>晁和<rt>ちょうか</rt></ruby>、恥知らずの能無しごときが、<br>どうして彼女より悪くなれようか？</td>
+        <td>たかが<MarkdownWrapper>[晁和](/ja/people/characters/special208)</MarkdownWrapper>、恥知らずの能無しごときが、<br>どうして<Girl2Icon>彼女</Girl2Icon>より悪くなれようか？</td>
         <td><MarkdownWrapper>[葉雲裳結縁攻略](/ja/event/pursuit/girl2)</MarkdownWrapper>で結縁し、<MarkdownWrapper>[葉雲舟を誘う](/ja/event/simple/3-08-2-邀請葉雲舟)</MarkdownWrapper>で武林大会に同行させる。会場を離れる際の<MarkdownWrapper>[各派の投票結果](/ja/event/simple/3-10-2-公審唐門#公審總結)</MarkdownWrapper>で唐門が武林の公敵となり、<MarkdownWrapper>[前に出て釈明する](/ja/event/simple/3-10-2-武林公敵#對策選擇)</MarkdownWrapper>ときに「葉雲裳を連れて行く」を選ぶと取得。</td>
         <td></td>
         <td>v1.0.5000.0以降に追加</td>
@@ -252,9 +252,14 @@ tags:
     <tr>
         <td id="風雲史-No.21">21</td>
         <td><AchievementIcon :size="`medium`" :no="`21`"><br>一家の主 (一家之主)</AchievementIcon></td>
-        <td>唐門の外姓弟子、崆峒の掌派人、竹城の主、<br>そして彼女の帰る場所。</td>
+        <td>唐門の外姓弟子、崆峒の掌派人、竹城の主、<br>そして<Girl6Icon>彼女</Girl6Icon>の帰る場所。</td>
         <td>武林伝説クリア時に<Girl6Icon>郁竹</Girl6Icon>と結縁している。手順は<MarkdownWrapper>[〈郁竹結縁攻略〉](/ja/event/pursuit/girl6)</MarkdownWrapper>を参照。</td>
         <td></td>
         <td>v1.0.6000.0以降に追加</td>
     </tr>
 </BTable>
+
+## 備考
+- 「悪人は悪人が制す (惡人自有惡人磨)」は、3人の悪人を指す：デマを流した[晁和](/ja/people/characters/special208)、反撃の策を練った[葉雲裳](/ja/people/characters/girl2)、手を下した[釈明](/ja/people/characters/special826)。
+- 「折梅手」という名称は、金庸の武侠小説『天龍八部』の絶学「天山折梅手」(別名：六路折梅手) へのオマージュ。
+- 「竹城の主」は<EndIcon no="9">竹の城</EndIcon>を指す。

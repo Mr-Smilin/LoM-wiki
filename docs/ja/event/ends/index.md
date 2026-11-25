@@ -239,7 +239,7 @@ tags:
 エンディング15
 </td>
 <td style="color: #a83232;">
-<EndIcon no="15"><ruby>天下<rt>てんか</rt>寂寥<rt>せきりょう</rt></ruby>の事、君と<ruby>闊別<rt>かつべつ</rt></ruby>する時</EndIcon>
+<EndIcon no="15">子夜寄君書</EndIcon>
 </td>
 <td>
 <span style="color: #EEE8AA;">【四師兄と商売】</span>
@@ -778,7 +778,7 @@ tags:
 <td>
 <span style="color: #FF8C00;">【崆峒争奪戦】</span>
 <span style="color: #70AA39;">【郁竹】</span><br>
-崆峒争奪戦で戦局が悪化したとき、郁竹と一緒に崆峒から逃げ出す。
+崆峒争奪戦で<MarkdownWrapper>[戦局が悪化](/ja/event/simple/3-05-1-鐵鋪閒談#戰局惡化)</MarkdownWrapper>したとき、郁竹と一緒に崆峒から逃げ出す。
 </td>
 </tr>
 <tr>
@@ -791,7 +791,7 @@ tags:
 <td>
 <span style="color: #FF8C00;">【崆峒争奪戦】</span>
 <span style="color: #FF2D51;">【虞小梅】</span><br>
-崆峒争奪戦のとき、半雨屏で虞小梅との決闘に負ける。
+<MarkdownWrapper>[崆峒争奪戦](/ja/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>の<MarkdownWrapper>[崆峒神威・梅ルート](/ja/event/simple/3-05-1-崆峒神威-梅線)</MarkdownWrapper>（半雨屏での虞小梅との決闘）のいずれかに敗北する。
 </td>
 </tr>
 <tr>
@@ -804,7 +804,7 @@ tags:
 <td>
 <span style="color: #FF8C00;">【崆峒争奪戦】</span>
 <span style="color: #FF2D51;">【虞小梅】</span><br>
-崆峒争奪戦のとき、半雨屏で虞小梅を目覚めさせられない。
+<MarkdownWrapper>[崆峒争奪戦](/ja/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>の<MarkdownWrapper>[2度目の虞小梅戦](/ja/event/simple/3-05-1-崆峒神威-梅線#再戰小梅)</MarkdownWrapper>で、口功による🚩「小梅を目覚めさせる」が4回未満のまま勝利する。
 </td>
 </tr>
 <tr>
@@ -817,7 +817,7 @@ tags:
 <td>
 <span style="color: #FF8C00;">【崆峒争奪戦】</span>
 <span style="color: #70AA39;">【郁竹】</span><br>
-崆峒争奪戦のあと郁竹を見舞ったとき、掌派人が四姝を娶るのは伝統の美徳だと言う。
+<MarkdownWrapper>[崆峒争奪戦](/ja/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>のあと<MarkdownWrapper>[郁竹を見舞った](/ja/event/simple/3-05-1-探望眾人#探望小竹)</MarkdownWrapper>とき、掌派人が四姝を娶るのは伝統の美徳だと言う。
 </td>
 </tr>
 <tr>
@@ -830,7 +830,7 @@ tags:
 <td>
 <span style="color: #FF8C00;">【崆峒争奪戦】</span>
 <span style="color: #FF2D51;">【虞小梅】</span><br>
-崆峒争奪戦で虞小梅を目覚めさせ、そのあと見舞ったときに彼女をどこへも行かせない。
+<MarkdownWrapper>[崆峒争奪戦](/ja/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>の<MarkdownWrapper>[崆峒神威・梅ルート](/ja/event/simple/3-05-1-崆峒神威-梅線)</MarkdownWrapper>で虞小梅を目覚めさせ、そのあと<MarkdownWrapper>[見舞った](/ja/event/simple/3-05-1-探望眾人#探望小梅)</MarkdownWrapper>ときに彼女をどこへも行かせない。
 </td>
 </tr>
 <tr>
@@ -844,7 +844,7 @@ tags:
 <span style="color: #FF8C00;">【崆峒争奪戦】</span>
 <span style="color: #FF2D51;">【虞小梅】</span>
 <span style="color: #70AA39;">【郁竹】</span><br>
-崆峒争奪戦のあと、崆峒に別れを告げるときに崆峒の掌派人を引き継ぐ。
+<MarkdownWrapper>[崆峒争奪戦](/ja/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>のあと、<MarkdownWrapper>[崆峒に別れを告げる](/ja/event/simple/3-05-1-辭別崆峒)</MarkdownWrapper>ときに崆峒の掌派人を引き継ぐ。
 </td>
 </tr>
 <tr>

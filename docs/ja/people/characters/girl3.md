@@ -355,6 +355,14 @@ aside: false
 				    6/6
 				</ChTd>
 			</ChTr>
+            <ChTr>
+				<ChTd isTitle=true>
+				    推算年齢
+				</ChTd>
+				<ChTd>
+				    16〜17歳
+				</ChTd>
+			</ChTr>
 			<ChTr>
 				<ChTd isTitle=true>
 					称号
@@ -410,12 +418,12 @@ aside: false
 			</ChTr>
             <ChTr>
 				<ChTd position='center'>
-					[瑞笙](/ja/people/characters/special999) (友人)
+					[瑞笙](/ja/people/characters/special999) (友人＆探検隊メンバー)
 				</ChTd>
 			</ChTr>
             <ChTr>
 				<ChTd position='center'>
-					[南宮浅](/ja/people/characters/special103) (友人)
+					[南宮浅](/ja/people/characters/special103) (友人＆探検隊メンバー)
 				</ChTd>
 			</ChTr>
             <ChTr>
@@ -426,6 +434,11 @@ aside: false
             <ChTr>
 				<ChTd position='center'>
 					[画中仙](/ja/people/characters/special813) <MarkdownWrapper>||(千面人魔の先輩)||</MarkdownWrapper>
+				</ChTd>
+			</ChTr>
+            <ChTr>
+				<ChTd position='center'>
+					[楊玄奇](/ja/people/characters/other22) <MarkdownWrapper>||(千面人魔の先輩)||</MarkdownWrapper>
 				</ChTd>
 			</ChTr>
 		</table>
@@ -489,11 +502,24 @@ aside: false
 
 詳細は<MarkdownWrapper>[〈虞小梅結縁攻略〉](/ja/event/pursuit/girl3)</MarkdownWrapper>を参照。
 
+## 推算年齢
+-   小梅が自ら[夏侯蘭](/ja/people/characters/girl5)より10歳近く年下だと称し、[唐中翎](/ja/people/characters/master)が[唐黙鈴](/ja/people/characters/girl0)より年上だと述べているため。
+    -   また、[夏侯蘭](/ja/people/characters/girl5)は3年目時点で約25〜27歳。
+    -   [唐黙鈴](/ja/people/characters/girl0)は約15〜16歳であるため、小梅は約16〜17歳と推算される。
+
+## 一人称
+-   普段は常に「本梅（ほんばい / 本梅）」と自称する。
+    -   結局のところ、[崆峒派](/ja/people/factions/kong-tong-sect)の飛天門において小梅とは嫡伝女弟子に共通する名前であり、自我が欠如しているため。
+-   後ろめたいときだけ「小梅」と自称する。
+
 ## 性格
 
 -   活発で明るく、騒ぐのも笑うのも好き。
 -   社交能力Lv9。[^2]
 -   ~~ヤンデレの疑いあり~~重度のヤンデレ。[^1]
+-   自由を愛し、束縛されることを嫌う。
+    -   他人が「あなたのため」と言って自分に介入するのを嫌うが、自分自身は無意識のうちによく「あなたのため」と言って他人に介入する。
+    -   被害者：[火閃電](/ja/people/characters/firebird1)、[郁竹](/ja/people/characters/girl6)（小竹）。
 
 ## 武功
 
@@ -512,18 +538,23 @@ aside: false
     -   <MarkdownWrapper>||[画中仙](/ja/people/characters/special813)から崆峒の神技《一趾御風》（[仙鶴迷踪拳](/ja/system/books/book_6003)の始祖の技）を授かってから、軽功がさらに上達した。||</MarkdownWrapper>
 
 ### 焚心火印
+::: details 焚心火印
 
 -   小梅には、使えば死ぬ技「焚心大火印」もある。
--   修めている[《焚心火印》](/ja/system/books/book_7009)は、火蠍の毒を飲んで内功を速成する法である。速成の代償に病根が残り、運功するたびに寿命を燃やす。毒が発作を起こしたときは、[火龍仙君](/ja/people/characters/special204)の掌の助けで火力を消化してもらい、死の危機を乗り越えるしかない。
+-   修めている[《焚心火印》](/ja/system/books/book_7009)は、火蠍の毒を飲んで内功を速成する法である。速成の代償に病根が残り、運功するたびに寿命を燃やす。
+    -   毒が発作を起こしたときは、[火龍仙君](/ja/people/characters/special204)の掌の助けで火力を消化してもらい、死の危機を乗り越えるしかない。
 -   [趙活](/ja/people/characters/player)が飛天門の季試で焚心火印を得た場合、小梅は焚心火印を修練しないよう忠告し、そのリスクと代償、そして[火龍仙君](/ja/people/characters/special204)の真の目的を教える。
 -   小梅は天賦の才に恵まれ、暴死することなく、さらに[火龍仙君](/ja/people/characters/special204)に運功で火力を導いてもらい、ついに成就した。
-    -   ただし臓腑はすでに傷ついており、後患は尽きない。運功のたびに必ず焦燥に身を焼かれ、激痛に耐えがたく、遠くは寿命を縮め、近くは突然死の危険がある。実戦などとてもできず、そのため小梅は人と手合わせするときも決して焚心火印を使わない。
-    -   唐布衣暗殺事件で、小梅/女盗賊が[趙活](/ja/people/characters/player)と戦う際、珍しく焚心火印を実戦で使った。
+    -   ただし臓腑はすでに傷ついており、後患は尽きない。運功のたびに必ず焦燥に身を焼かれ、激痛に耐えがたく、遠くは寿命を縮め、近くは突然死の危険がある。実戦などとてもできない。
+        -   そのため小梅は人と手合わせするときも決して焚心火印を使わない。
+        -   唐布衣暗殺事件で、小梅/女盗賊が[趙活](/ja/people/characters/player)と戦う際、珍しく焚心火印を実戦で使った。
     -   小梅が焚心火印を修練したのは、功力を急速に高める目的のほか、焚心火印で<MarkdownWrapper>||屍心丹の毒虫||</MarkdownWrapper>を消せると期待したためでもあるが、残念ながら後者は叶わなかった。
 -   掌派争奪戦の間、小梅は半雨屏の向かいの高所にある木の上で焚心火印を使い、烈焔飛天脚と合わせて飛び降り、[金烏上人](/ja/people/characters/special207)と刺し違えようとした。
 -   錦香宮を訪れている間、[画中仙](/ja/people/characters/special813)は危険を冒してひそかに[玄燭心経](/ja/system/books/book_7011)を贈り、小梅が火蠍毒を打ち消せることを願った。
     -   画中仙は、小梅が自分で修練すると、焚心火印で速成した功力もそれに伴って消えてしまうと言う。
     -   [趙活](/ja/people/characters/player)が小梅の代わりに[玄燭心経](/ja/system/books/book_7011)を修練すれば、双修による伝功で火蠍毒を移して均衡させられる。~~小梅は、伝功のとき服を脱ぐのは必須条件ではないと恨んでいる。~~
+
+:::
 
 ### 無相神功
 
@@ -540,40 +571,62 @@ aside: false
 -   平涼特級料理大会で三連覇しており、「老当家」と呼ばれる宮廷料理人も絶賛している。
     -   料理大会の優勝は審査員の娘を誘拐して脅して得たものだと自称しているが、小梅は癖で嘘をつくため、[趙活](/ja/people/characters/player)はその話をあまり信じていない。
     -   自分の名声を逆手に取り、屋台の軽食をわざと強奪してみせることで客足を煽り、店を繁盛させる。
+-   襄陽の孟家の屋敷で料理を振る舞い、その腕前で屋敷中を驚嘆させた。
 -   腐りかけたものでも見違えるような料理にできる。盛り付けと味付けを変えて、[趙活](/ja/people/characters/player)に傷んだ菜っ葉を気づかれずに食べさせた。
--   石灰が水に触れると熱を出す性質を使い、唐門で薬膳火鍋の出前を始めた。
+-   石灰が水に触れると熱を出す性質を使い、[唐門](/ja/people/factions/tang-men)で薬膳火鍋の出前を始めた。
 -   麺を蒸してから油で揚げて乾麺にし、竹筒や竹の杖の中にしまっておく。湯を沸かして煮ればすぐ食べられる。
--   唐門に身を寄せていた間に門人たちの舌を肥えさせてしまい、料理人である唐牛の料理さえ見劣りするようになった。
+-   [唐門](/ja/people/factions/tang-men)に身を寄せていた間に門人たちの舌を肥えさせてしまい、料理人である唐牛の料理さえ見劣りするようになった。
 -   廃寺で野宿したときは、その場で採れた山のきのこと新鮮な肉だけで、酒楼の料理にも負けない野趣あふれる雑炊を即興で作った。
 
 ### 料理の例
 
+-   [夏侯蘭](/ja/people/characters/girl5)のために特製四姝弁当を作った。
 -   江陵へ向かう[趙活](/ja/people/characters/player)のために、日持ちする炊餅、干し肉、梅の蜜漬けを特別に用意した。
 -   料理に毒を盛って[火龍仙君](/ja/people/characters/special204)を倒し、その隙に崆峒を抜け出した。
 -   [趙活](/ja/people/characters/player)が大失敗した創作料理の改造：
     -   卵料理：阿活混蛋（「混蛋」は「ろくでなし」の意で、卵を混ぜることとの掛詞）。
     -   花料理：阿活辣手摧花（「辣手摧花」は花を容赦なく踏みにじることを言う成句）。
 
-## 千灯楼と千面人魔
+## 右手と阿鶴侠
+-   右手には[阿鶴侠](/ja/people/characters/special805)の魂が宿っていると自称している。
+    -   <MarkdownWrapper>||江湖には[阿鶴侠](/ja/people/characters/special805)が実在する。||</MarkdownWrapper>
+-   [阿鶴侠](/ja/people/characters/special805)は責任を押し付けるための身分であり、主に右手で悪事を働いたあと、[阿鶴侠](/ja/people/characters/special805)に罪を着せる。
+-   右手の力は凄まじく、よく屋根を突き破る。
+-   技：雷光毒鶴鑽。阿鶴侠の姿になり、鶴の手で人の尻を突く。被害者：小卉。
+    -   香港漫画『龍虎門』の武学技のパロディ。
+-   [阿鶴侠](/ja/people/characters/special805)形態では鶴の手を頭の代わりにして、自分が鶴であるかのように振る舞う。
+    -   日本でダチョウ少女のミームが流行した後、2024年ハロウィンの記念イラストでは、小梅がダチョウ少女の「鳥怪」の姿で登場した。[^7]
 
--   <MarkdownWrapper>||実は小梅は一人ではない。[千灯楼](/ja/people/factions/thousand-lantern-tower)は大勢の孤児を「小梅」として育て、幼いうちに互いに殺し合わせた。今の小梅はその最後の生き残りである。誕生日の6月6日は、彼女が生き残ったその日である。||</MarkdownWrapper>
--   <MarkdownWrapper>||本当は五代目の千面人魔だが、[千灯楼](/ja/people/factions/thousand-lantern-tower)は除名された四代目の千面人魔を認めていないため、小梅が繰り上がって四代目になった。||</MarkdownWrapper>
+## 千灯楼と千面人魔
+::: details 千灯楼と千面人魔
+
+-   小梅は実は一人ではない。[千灯楼](/ja/people/factions/thousand-lantern-tower)は大勢の孤児を「小梅」として育て、幼いうちに互いに殺し合わせた（総計300人）。今の小梅はその最後の生き残りである。
+    -   誕生日の6月6日は、彼女が生き残ったその日である。
+-   本当は五代目の千面人魔だが、[無相祖師](/ja/people/characters/special212_2)は除名された四代目の千面人魔を認めていないため、小梅が繰り上がって四代目になった。
 -   走るのが好きな理由は、一つにはストレスを発散するため、もう一つには崆峒の地形を下見して暗殺行動に役立てるためである。[^4]
 -   崆峒が攻撃を受けた時に混乱に乗じて逃げ出し、醜い女の阿花に変装して唐門に身を寄せた。[趙活](/ja/people/characters/player)の不誠実さを手掛かりに、[画中仙](/ja/people/characters/special813)（唐仙児）と互いに様子を探り合った。最後にようやく本当の姿を明かす。
--   [千灯楼](/ja/people/factions/thousand-lantern-tower)の命で多くの人間を始末するはずだったが、実際には殺さず、ひそかに世外桃源へと逃がしていた。
+-   [千灯楼](/ja/people/factions/thousand-lantern-tower)の命で多くの人間を始末するはずだったが、実際には殺さず、ひそかに世外桃源「小梅村」へと逃がしていた。
 -   <EndIcon no="11">エンディング11</EndIcon>の会話によると、結縁しなかった場合、最終的には千灯楼の主となる。
 -   [趙活](/ja/people/characters/player)が年をとっても、小梅は相変わらず少女のような姿である。
--   <MarkdownWrapper>||[画中仙](/ja/people/characters/special813)（唐仙児）は小梅の遠縁の叔母だと偽っているが、実は小梅の一家を滅ぼし、小梅を千灯楼へさらった張本人である。その負い目から家族を演じることにし、小梅の面倒をよく見ている。||</MarkdownWrapper>
--   <MarkdownWrapper>||実の母は極楽七仙の妾だった。||</MarkdownWrapper>
--   <MarkdownWrapper>||[申屠龍](/ja/people/characters/special405)（極楽教主）から歴代最弱の千面人魔と名指しされた。武功だけでなく、任務の成功率も含めての評価である。||</MarkdownWrapper>
+-   [画中仙](/ja/people/characters/special813)（唐仙児）は小梅の遠縁の叔母だと偽っているが、実は小梅の一家を滅ぼし、小梅を千灯楼へさらった張本人である。その負い目から家族を演じることにし、小梅の面倒をよく見ている。
+    -   実の母は極楽七仙の妾だった。
+-   [申屠龍](/ja/people/characters/special405)（極楽教主）から歴代最弱の千面人魔と名指しされた。武功だけでなく、任務の成功率も含めての評価である。
+
+:::
 
 ## <MarkdownWrapper>||屍心丹||</MarkdownWrapper>
--   <MarkdownWrapper>||[千灯楼](/ja/people/factions/thousand-lantern-tower)の刺客の話では、屍心丹の作用は人によっても状況によっても違い、[千灯楼](/ja/people/factions/thousand-lantern-tower)を裏切ろうとしたり自害しようとしたりすると屍心丹が働く。||</MarkdownWrapper>
--   <MarkdownWrapper>||小梅は経験から、屍心丹の作用は本人の良心と認識しだいだと推測している。だから小梅は善行をするときも、悪行という名目で行う。||</MarkdownWrapper>
--   <MarkdownWrapper>||[荊紅](/ja/people/characters/special824)が千面人魔の令牌を持って命じると、[勾魂叟](/ja/people/characters/special806)の屍心丹が働いた。屍心丹による服従は、命じる者本人によるものではないことが確かめられた。||</MarkdownWrapper>
--   <MarkdownWrapper>||杏花林を通りかかったときにたくさんの願いをかけ、その中に自由になりたいという願いもあった。そのため[画中仙](/ja/people/characters/special813)（唐仙児）は[瑞杏](/ja/people/characters/girl1)（姫）の命を受け、小梅を屍心丹の支配から解く手助けをする。||</MarkdownWrapper>
-    -   <MarkdownWrapper>||[郁竹](/ja/people/characters/girl6)(小竹)ルートの隠しシナリオで、[画中仙](/ja/people/characters/special813)（唐仙児）は催眠を使い、小梅に夢の中で親しい人々を殺させることで最後の命令を完遂させ、小梅を屍心丹の支配から解く手助けをする。||</MarkdownWrapper>
--   <MarkdownWrapper>||初代の千面人魔は今の奪魄門掌門の[姚不知名](/ja/people/characters/special216)で、崆峒掌派人の権限は奪魄門より上にある。そのため[画中仙](/ja/people/characters/special813)（唐仙児）は[趙活](/ja/people/characters/player)が崆峒掌派人になるのを助け、小梅の屍心丹の支配を解くよう命じさせた。||</MarkdownWrapper>
+::: details <MarkdownWrapper>||屍心丹||</MarkdownWrapper>
+-   [千灯楼](/ja/people/factions/thousand-lantern-tower)の刺客の話では、屍心丹の作用は人によっても状況によっても違い、[千灯楼](/ja/people/factions/thousand-lantern-tower)を裏切ろうとしたり自害しようとしたりすると屍心丹が働く。
+-   小梅は経験から、屍心丹の作用は本人の良心と認識しだいだと推測している。だから小梅は善行をするときも、悪行という名目で行う。
+    -   実は本性は善良で正義感があるが、[千灯楼](/ja/people/factions/thousand-lantern-tower)と屍心丹に心智や言動を歪められており、普段は主に悪事を行っている。
+    -   長年本心をねじ曲げられて表裏が乖離したため、性格が次第に狂気じみていった。
+    -   [荊紅](/ja/people/characters/special824)が奪魄門の令牌を持って命じると、[勾魂叟](/ja/people/characters/special806)の屍心丹が働いた。屍心丹による服従は、命じる者本人によるものではないことが確かめられた。
+-   杏花林を通りかかったときにたくさんの願いをかけ、その中に自由になりたいという願いもあった。そのため[画中仙](/ja/people/characters/special813)（唐仙児）は[瑞杏](/ja/people/characters/girl1)（姫）の命を受け、小梅を屍心丹の支配から解く手助けをする。
+    -   [郁竹](/ja/people/characters/girl6)(小竹)ルートの隠しシナリオで、[画中仙](/ja/people/characters/special813)（唐仙児）は催眠を使い、小梅に夢の中で親しい人々を殺させることで最後の命令を完遂させ、小梅を屍心丹の支配から解く手助けをする。
+-   初代の千面人魔は今の奪魄門掌門の[姚不知名](/ja/people/characters/special216)で、崆峒掌派人の権限は奪魄門より上にある。そのため[画中仙](/ja/people/characters/special813)（唐仙児）は[趙活](/ja/people/characters/player)が崆峒掌派人になるのを助け、小梅の屍心丹の支配を解くよう命じさせた。
+    -   また、崆峒掌派人は神仙の下凡とも見なされており、神令は[李仁友](/ja/people/characters/other7)（西夏王）の王令よりも重んじられる。
+
+:::
 
 ## 人間関係
 
@@ -592,25 +645,74 @@ aside: false
 
 ### 夏侯蘭
 
+::: details 夏侯蘭
+
 -   「蘭姉さん」と呼ぶ。一方、[夏侯蘭](/ja/people/characters/girl5)からは「小瘋子（チビ狂人）」と呼ばれている。
--   幼い頃に[夏侯蘭](/ja/people/characters/girl5)に生きたまま投げつけられて以来、夏侯蘭を非常に恐れている。~~ずいぶん大きな暗器である。~~
--   [夏侯蘭](/ja/people/characters/girl5)のために弁当を用意した。梅干し入りのおにぎり、ガツの和え物（原語：蘭花肚糸）、筍の醤油漬けで、菊花茶と合わせると味は絶品だが、菊花茶はもう切らしていた。
+-   [夏侯蘭](/ja/people/characters/girl5)・[虞小梅](/ja/people/characters/girl3)（小梅）・小竹の3人は幼い頃から仲が良く、姉妹同然だった。
+-   [夏侯蘭](/ja/people/characters/girl5)は昔は生まれつき穏やかで、[虞小梅](/ja/people/characters/girl3)（小梅）と小竹は幼い頃、寝るときによく夏侯蘭の布団に潜り込んでいた。
+-   幼い頃の崆峒事変の際、[夏侯蘭](/ja/people/characters/girl5)に生きたまま投げつけられて以来、夏侯蘭を非常に恐れている。~~ずいぶん大きな暗器である。~~
+    -   崆峒事変で[呼延菊](/ja/people/characters/special822)と前崆峒掌派人を死なせ、[夏侯蘭](/ja/people/characters/girl5)を悪道に堕としたことから、ずっと贖罪して許されたいと願っている。
+    -   もし誤解から[夏侯蘭](/ja/people/characters/girl5)に殴り傷つけられずに済むと、かえって嬉し泣きする。
+-   四姝弁当：
+-   よく[夏侯蘭](/ja/people/characters/girl5)のために弁当を用意し、奪魄森林の近くに置いている。中身は梅干し入りのおにぎり、ガツの和え物（原語：蘭花肚糸）、筍の醤油漬け。
+    -   菊花茶と合わせると味は絶品だが、菊花茶はもう切らしているという。
     -   弁当の献立は旧崆峒四姝（梅・蘭・竹・菊）になぞらえたもので、欠けている菊花茶は前崆峒掌派人の娘[呼延菊](/ja/people/characters/special822)を指す。
-        -   [夏侯蘭](/ja/people/characters/girl5)は小梅にずっと恨みを抱いており、いつも小梅の弁当をわざと無視する。この献立には[夏侯蘭](/ja/people/characters/girl5)をわざと怒らせる狙いがある。
+        -   この献立には、[夏侯蘭](/ja/people/characters/girl5)をわざと激怒させて自分を殺させる狙いがある。
+        -   [夏侯蘭](/ja/people/characters/girl5)は小梅にずっと恨みを抱いており、いつも小梅の弁当をわざと無視する。
     -   梅干しのおにぎりはわざと不味く作ってあり、自分の人柄が悪いことを示している。
+    -   崆峒探検隊を結成した目的の一つは、奪魄森林に踏み込んで森の奥に弁当を置くことである。
+        -   奪魄森林と[夏侯蘭](/ja/people/characters/girl5)のことを熟知しており、探検隊全員を逃がしたうえで弁当を残す。そうでなければ全滅し、自分は[夏侯蘭](/ja/people/characters/girl5)に引きずられて連れて行かれる。
+
+:::
 
 ### 郁竹
 
--   [郁竹](/ja/people/characters/girl6)(小竹)とはかつて親友だった。しかし昔だまして霊薬を飲ませたせいで、小竹は今でも怒っている。本当は仲直りしたいのだが、[千灯楼](/ja/people/factions/thousand-lantern-tower)の一件に巻き込むのを恐れている。
--   二人が初めて会ったとき、[郁竹](/ja/people/characters/girl6)は無色広場で手足の力が抜けるほど泣きじゃくり、お母さんを探すと言っていた。小梅がタンフールー(飴がけの果実の串)を一本渡すと、二口なめただけで泣きやんだ。
--   小梅は幼い頃、首吊り幽霊・溺死霊・餓鬼に扮して[郁竹](/ja/people/characters/girl6)を追い回したことがある。
--   小梅の武器は、[郁竹](/ja/people/characters/girl6)（裂骨魔）がこれまでに作った中で最も完璧な傑作である。刃渡り五吋七分、幅三吋半、名を「玉霄神」という厚刃の双匕首で、形は包丁に似ており、肉を断ち、鎧を破り、人の刀剣を断つためのものだ。当時、小竹は仲直りしたい一心で自分の手のひらを切って血で刀を鍛え、そのせいで気を失った。
--   小竹の知らないところで何かと助け、小竹のために筋を通させている。
-    -   <MarkdownWrapper>||[郁竹](/ja/people/characters/girl6)をひどい家族から引き離すため、余公子になりすまして家族に絶縁状を書かせ、小竹と縁を切らせた。さらに郁父をそそのかし、借金をしてでも小竹に金を返させて、後々口実を残さないようにした。||</MarkdownWrapper>
+::: details 郁竹
+
+-   小梅と[郁竹](/ja/people/characters/girl6)(小竹)はかつて親友だった。しかし昔だまして霊薬を飲ませたせいで、[郁竹](/ja/people/characters/girl6)は今でも怒っている。
+-   小梅が近くでふざけるたび、[郁竹](/ja/people/characters/girl6)は自分の力を抑え、最小限の力で抵抗しなければならない。
+    -   本当は仲直りしたいのだが、[千灯楼](/ja/people/factions/thousand-lantern-tower)の一件に巻き込むのを恐れている。
+-   幼少期：
+    -   二人が初めて会ったとき、[郁竹](/ja/people/characters/girl6)は無色広場で手足の力が抜けるほど泣きじゃくり、お母さんを探すと言っていた。小梅がタンフールー(飴がけの果実の串)を一本渡すと、二口なめただけで泣きやんだ。
+    -   小梅は幼い頃、首吊り幽霊・溺死霊・餓鬼に扮して[郁竹](/ja/people/characters/girl6)を追い回したことがある。
+    -   小梅の武器は、[郁竹](/ja/people/characters/girl6)（裂骨魔）がこれまでに作った中で最も完璧な傑作の一つである。
+        -   刃渡り五吋七分、幅三吋半、名を「玉霄神」という厚刃の双匕首で、形は包丁に似ており、肉を断ち、鎧を破り、人の刀剣を断つためのものだ。
+        -   当時、小竹は仲直りしたい一心で自分の手のひらを切って血で刀を鍛え、そのせいで気を失った。
+-   世話：
+    -   小梅は[郁竹](/ja/people/characters/girl6)の知らないところで何かと助け、[郁竹](/ja/people/characters/girl6)のために筋を通させている。
+        -   <MarkdownWrapper>||小梅は[郁竹](/ja/people/characters/girl6)をひどい家族から引き離すため、余公子になりすまして家族に絶縁状を書かせ、小竹と縁を切らせた。さらに郁父をそそのかし、借金をしてでも小竹に金を返させて、後々口実を残さないようにした。||</MarkdownWrapper>
+    -   小梅は[郁竹](/ja/people/characters/girl6)の知らないところで多くの面倒を片付けているが、[郁竹](/ja/people/characters/girl6)はそれを知らず、小梅も知られたくないと思っている。
+        -   [郁竹](/ja/people/characters/girl6)が帰郷した際、婚約者を演じていた[花城四少](/ja/people/characters/group1)の公子は、実は小梅の変装だった。小竹に家族の本性を見せ、家族との縁を断ち切らせるのが目的である。
+            -   [花城四少](/ja/people/characters/group1)の公子を演じた小梅は、郁父を騙して借金を負わせたうえ、その金をこっそり[郁竹](/ja/people/characters/girl6)の貯金箱に押し込んだ。
+-   唐門への合流：
+    -   小梅は小竹のために[唐門](/ja/people/factions/tang-men)へついて来たのではないと口では言うが、<Girl6Icon>竹</Girl6Icon>ルートのシナリオでは[虞小梅](/ja/people/characters/girl3)の好感度が低くても[唐門](/ja/people/factions/tang-men)へついて来る。
+        -   ~~小梅は[郁竹](/ja/people/characters/girl6)を守ろうとして千灯楼に巻き込まれたのかもしれない。~~
+        -   ~~[郁竹](/ja/people/characters/girl6)の杏花仙の誕生日の願いがかなったのかもしれない。~~
+    -   小梅が画皮の妖怪のふりをし、本人を殺したと偽ると、妖魔鬼怪をひどく怖がる[郁竹](/ja/people/characters/girl6)は、それを聞いてかえって憤り、画皮の妖怪を殺して小梅の仇を討とうとする。
+    -   もし[唐布衣](/ja/people/characters/brother1)が重傷を負って[唐門](/ja/people/factions/tang-men)へ戻り、小梅が[千灯楼](/ja/people/factions/thousand-lantern-tower)を裏切って[唐門](/ja/people/factions/tang-men)を死守した場合、[郁竹](/ja/people/characters/girl6)は小梅に[千灯楼](/ja/people/factions/thousand-lantern-tower)の内幕を問い詰める。
+        -   小梅が[崆峒派](/ja/people/factions/kong-tong-sect)へ戻ると表明した際、[郁竹](/ja/people/characters/girl6)は小梅を救うために掌派夫人の資格を争おうとする。
+-   投獄：
+    -   [郁竹](/ja/people/characters/girl6)は小梅が捕らえられたと聞くと、我が身を顧みず脱獄救出計画を実行した。
+    -   ~~崆峒の嫉妬屋~~小梅は獄中で妬いている。[郁竹](/ja/people/characters/girl6)は[郁宝花](/ja/people/characters/special840)にはとても優しいのに、自分のことは少しも気にかけてくれないと。
+    -   <Girl6Icon>竹</Girl6Icon>ルートでは小梅の好感度が高くても低くても、[郁竹](/ja/people/characters/girl6)が[趙活](/ja/people/characters/player)の三人目の子を身ごもったと嘘をつくと、趙活に殺意を抱く。
+        -   ~~小梅は普段、顔色を読む力が非常に高く、嘘を見破るのも得意なのに、[郁竹](/ja/people/characters/girl6)のこのほころびだらけのあまりに嘘くさい嘘をまったく疑わない。~~
+-   <EndIcon no="11">エンディング11</EndIcon>の会話によると、縁を結ばなかった場合、[郁竹](/ja/people/characters/girl6)は最終的に孤児を一人引き取り、[虞小梅](/ja/people/characters/girl3)と仲直りする。
+-   設計の典故：
+    -   [虞小梅](/ja/people/characters/girl3)と[郁竹](/ja/people/characters/girl6)の組み合わせは、李白『長干行』の「青梅竹馬」から来ている可能性があり、コラボ企画でも言及されている。[^5]
+        -   2026年午年の祝賀イラストでは[郁竹](/ja/people/characters/girl6)のために機関木馬を作っており、このコンセプトを間接的に強調している。[^6]
+
+:::
 
 ### 崆峒探検隊
 
 -   [趙活](/ja/people/characters/player)、[瑞笙](/ja/people/characters/special999)、[南宮浅](/ja/people/characters/special103)と崆峒探検隊を結成し、自ら探検隊長を名乗った。
+-   崆峒探検隊を結成したのには多くの目的がある：
+    -   武功の高い[瑞笙](/ja/people/characters/special999)と組み、[瑞笙](/ja/people/characters/special999)が[千灯楼](/ja/people/factions/thousand-lantern-tower)を討伐してくれることを願った。
+    -   [南宮世家](/ja/people/factions/nan-gong-family)と人脈を築き、前回あと一歩で武林盟主になりかけた[南宮遠](/ja/people/characters/special101)が武林盟主となった暁に[千灯楼](/ja/people/factions/thousand-lantern-tower)を討伐してくれることを願った。
+    -   玄功洞を調査し、秘笈を盗み出す。
+        -   [申屠龍](/ja/people/characters/special405)（千灯楼主）の弱点である[龍吟功](/ja/system/books/book_7005)（鉄琵琶功）を盗み出すつもりだったのかもしれない。
+    -   [郁竹](/ja/people/characters/girl6)（小竹）の住まいの貯金箱を調べ、こっそり砕銀を押し込んで小竹の生活費を援助する。
+    -   奪魄森林に踏み込み、森の奥に弁当を置く。
 
 ### 趙活
 
@@ -620,21 +722,37 @@ aside: false
 
 #### 恋愛
 
+::: details 恋愛
+
 [趙活](/ja/people/characters/player)への評：
 > 前代未聞の醜さ、空前絶後のイケメン！
 
--   攻略可能なヒロインの中で、バッドエンド数が最も多く、死亡率も最も高い。
+-   攻略可能なヒロインの中で、バッドエンド数と死亡率が最も多い。
+-   攻略可能なヒロインの中で最も性欲をはっきり表す女性で、二人きりのときは[趙活](/ja/people/characters/player)が全裸になって自分に見せるべきだと公言さえしている。
+-   襄陽行：
+-   襄陽行の頃から、[趙活](/ja/people/characters/player)に対して隠すことなく好意を示していた。
+    -   [趙活](/ja/people/characters/player)が頼りになる姿を見せると、自分を誘惑していると言う。
+    -   六道峡では[趙活](/ja/people/characters/player)を色男（原語：騷貨）呼ばわりした。
+    -   [趙活](/ja/people/characters/player)がかじった軽食を食べる。
+    -   [趙活](/ja/people/characters/player)が襄陽を離れざるを得なくなった際、泣きながら夜通し追いかけた。
 -   ~~瑞杏に次ぐ醜好きの癖~~。気に入ったのは[趙活](/ja/people/characters/player)の身分ではなく、<MarkdownWrapper>||体である。||</MarkdownWrapper>
+    -   たとえ[趙活](/ja/people/characters/player)が女であっても愛は変わらないと公言している。~~あやうく物理的TS百合が展開されるところだった。~~
 -   易容の腕が高いため、美男子には何も感じず、むしろ[趙活](/ja/people/characters/player)の醜い容姿に極度に夢中になっている。
--   嫉妬心が極めて強く、女性が[趙活](/ja/people/characters/player)に親しく接したり好意を抱いたりすると必ず妬く。優しく活発な自分を[趙活](/ja/people/characters/player)が好きになることを恐れ、自分自身にまで妬く。
-    -   <MarkdownWrapper>||攻略可能なヒロインの中で最も性欲をはっきり表す女性。イベントで[趙活](/ja/people/characters/player)の点穴をして押し倒すだけでなく、二人きりのときは趙活が全裸になって自分に見せるべきだと公言している。||</MarkdownWrapper>
--   <MarkdownWrapper>||何度も[趙活](/ja/people/characters/player)の不実を疑って殺そうとし、多くの場面で趙活を監禁したいと口にしている。同じヤンデレの[荊紅](/ja/people/characters/special824)の歪んだ考えにさえ共感できる。||</MarkdownWrapper>
+-   嫉妬心が極めて強く、女性が[趙活](/ja/people/characters/player)に親しく接したり好意を抱いたりすると必ず妬く。
+    -   [唐門](/ja/people/factions/tang-men)で[趙活](/ja/people/characters/player)を負かした際、[趙活](/ja/people/characters/player)に乗って[唐門](/ja/people/factions/tang-men)の中を走り回り、所有権を宣言しているかのような振る舞いを見せた。
+        -   [葉雲裳](/ja/people/characters/girl2)は義兄が他の女に乗られたと知ると、汚れたからもういらないと言い放った。
+    -   好感度が高いときは嫉妬心から[龍湘](/ja/people/characters/girl8)と綱引きをするが、その綱引きの対象は[趙活](/ja/people/characters/player)である。
+    -   [龍湘](/ja/people/characters/girl8)の[趙活](/ja/people/characters/player)への好感度を測るため、わざと鶏ももでおびき寄せて[趙活](/ja/people/characters/player)を襲撃させた。
+    -   [趙活](/ja/people/characters/player)の服をこっそり持ち出し、[趙活](/ja/people/characters/player)になりすまして他の女性に嫌がらせをして、恋敵がいないように仕向けた。
+-   優しく活発な自分を[趙活](/ja/people/characters/player)が好きになることを恐れ、自分自身にまで妬く。
+-   何度も[趙活](/ja/people/characters/player)の不実を疑って殺そうとし、多くの場面で趙活を監禁したいと口にしている。同じヤンデレの[荊紅](/ja/people/characters/special824)の歪んだ考えにさえ共感できる。
+    -   小梅には3大欲求があり、そのうち2大欲求は厨房にあり、3つすべてが[趙活](/ja/people/characters/player)に関係している。
+
+:::
 
 ## 備考
 
 -   唐門の入室弟子になったのに、唐門の制服に着替えず、姓も改めていない特例である。
--   本人いわく、右手には[阿鶴侠](/ja/people/characters/special805)の魂が宿っている。信じるかどうかはあなた次第！
-    -   <MarkdownWrapper>||江湖に[阿鶴侠](/ja/people/characters/special805)は実在するが、責任を押し付けるための身分にされがちである。||</MarkdownWrapper>
 -   <MarkdownWrapper>||実は初版のある結末では、[金烏上人](/ja/people/characters/special207)との間に無理やり6人の子を産まされるという悲惨な扱いだった。一部のプレイヤーの抗議で炎上した後、この設定は削除された。||</MarkdownWrapper>
 
 ## ギャラリー
@@ -655,3 +773,6 @@ aside: false
 [^2]: Facebook - [オリジナル鳥熊2023/6/21](https://www.facebook.com/obbstudio/posts/pfbid0QyGcVBYJ2F1qEhXJhYcpsanrkXZQ9Dh3Q3QCRf35gguX39k6chvps8LcAXGAUgxTl)
 [^3]: PTT C 洽 - [\[活俠\] 奇妙な小知識](https://www.ptt.cc/bbs/C_Chat/M.1734956470.A.A0C.html)
 [^4]: バハムート - [【情報】鳥熊問答集](https://m.gamer.com.tw/forum/C.php?bsn=73317&snA=2998&bpage=1&ltype=)
+[^5]: Facebook－[原始鳥熊× 和飲九九、『活俠傳』コラボ企画「青梅竹馬」準備中！](https://www.facebook.com/share/p/19YhP5h3Kg/)
+[^6]: Facebook－[原始鳥熊2026年午年祝賀イラスト](https://www.facebook.com/share/p/1CtTBNyrzs/)
+[^7]: Facebook－[原始鳥熊2024年ハロウィン祝賀イラスト](https://www.facebook.com/share/p/1DwJQjNgpc/)

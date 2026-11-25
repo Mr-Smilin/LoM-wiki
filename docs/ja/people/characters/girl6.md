@@ -438,7 +438,7 @@ aside: false
 			</ChTr>
             <ChTr>
 				<ChTd position='center'>
-					[石夫人](/ja/people/characters/special815) (名誉メンバー)
+					[石公遠](/ja/people/characters/special7)＆[石夫人](/ja/people/characters/special815) (バイト先の上司)
 				</ChTd>
 			</ChTr>
             <ChTr>
@@ -561,7 +561,7 @@ aside: false
 -   動物が好きだが、撫でて壊してしまうのが怖くて触れられない。
     -   <MarkdownWrapper>||だが虎に対しては複雑な感情を抱いている。好きでありながら手を出して打ち殺してしまう。||</MarkdownWrapper>
         -   装備や作品の多くは、虎の姿を参考に作られている。
-        -   <MarkdownWrapper>||とりわけ妻になってからは虎の鞭への執着が強く、崆峒山の虎を狩り尽くした。||</MarkdownWrapper>
+        -   <MarkdownWrapper>||とりわけ妻になってからは虎の鞭への執着が強く、崆峒山の虎を狩り尽くした。~~コミュニティでの俗称は「虎狩り魔」。~~||</MarkdownWrapper>
 
 ## 怪力と裂骨魔
 
@@ -602,10 +602,14 @@ aside: false
 -   機関術を好み、機関を分解して研究する趣味がある。唐門短剣を握っただけで、中に仕込まれた機関に気づく。
 -   <MarkdownWrapper>||闘争を好む性格ではないが、[火炎山剣閣](/ja/people/factions/mount-fire-palace)が打ち出した神兵には闘志を掻き立てられる。||</MarkdownWrapper>
 -   小竹の鍛冶の技能は頂点に立つほどの腕前で、[趙活](/ja/people/characters/player)は発想力こそあるものの、基礎の技量ではまだまだ遠く及ばない。[^10]
--   エイプリルフールDLCの「百万趙活」も小竹が開発したものである。[^8]<MarkdownWrapper>||惜しくも作中の幻想にだけ存在し、実際には造られなかった。||</MarkdownWrapper>
+-   エイプリルフールDLCの「百万[趙活](/ja/people/characters/player)」も小竹が開発したものである。[^8]<MarkdownWrapper>||惜しくも作中の幻想にだけ存在し、実際には造られなかった。||</MarkdownWrapper>
 -   木工の技能も高い。<MarkdownWrapper>||家具を見ただけで、材質・技法・造作の費用を詳しく分析できる。||</MarkdownWrapper>
     -   <MarkdownWrapper>||実父は樵で、木工の技法を心得ている。||</MarkdownWrapper>
--   建築の知識も豊富である。<MarkdownWrapper>||唐家大院の屋根を見ただけで皇室限定の様式だと見抜き、唐門の鍛冶場に隠された、[趙活](/ja/people/characters/player)さえ知らない機関にも難なく気づく。||</MarkdownWrapper>
+-   建築の知識も豊富である。<MarkdownWrapper>||[唐門](/ja/people/factions/tang-men)の大院の屋根を見ただけで皇室限定の様式だと見抜く。||</MarkdownWrapper>
+-   [趙活](/ja/people/characters/player)さえ知らない隠し機関にも難なく気づく：
+    -   [唐門](/ja/people/factions/tang-men)の鍛冶場の隠し機関。
+    -   [唐門](/ja/people/factions/tang-men)の練武場の下にある廃れた地龍導熱通路を見つけ、修復した。
+    -   [唐門](/ja/people/factions/tang-men)の井戸の底にある隠し機関。
 
 ### 長期工事計画
 
@@ -621,19 +625,52 @@ aside: false
 ## 用品と作品
 
 -   崆峒には泥棒が多いため、小竹は自分の持ち物すべてに署名を刻んでいる。数年前に大鉄舗が盗賊に洗いざらい盗まれて以来、売れ残りの商品にも字を刻み、売れたものだけ字を磨り消すようになった。
+### 用品
 -   槌にはこだわりがあり、柄は必ず特注で、彼女の握力に耐えられるものでなければならない。[^4]
+    -   槌の胴には「小竹の槌」と刻まれている。
     -   <MarkdownWrapper>||槌を盗まれることを恐れ、帰郷の時を除いてほとんど手放さない。読書会に参加する時でさえ持ち歩いていた。||</MarkdownWrapper>
         -   <MarkdownWrapper>||しかし小竹の杞憂だったようで、この槌は大多数の人には持ち上げることすらできず、盗むなど論外である。||</MarkdownWrapper>
--   これまでで最も強力な武器は虎戦車と火箭飛拳。未実装の内容にはさらに凶悪な武器もある。[^3]
-    -   下記の[逆鱗宝衣](#逆鱗宝衣)、[火箭連弩](#火箭連弩)、[虎戦車](#虎戦車)、[虎の戦衣](#虎の戦衣)を参照。
--   小梅の[玉霄神匕](/ja/system/forge-roadmap#玉霄神匕)は、小竹が作って贈ったものである。
--   壮士飛腕を作り上げ、そのうちいくつかを[唐惟元](/ja/people/characters/brother4)（四師兄）が買い取って[葉雲裳](/ja/people/characters/girl2)に転売し、雲裳のいたずらの道具として使われた。
-    -   もう一振りはまだ鍛冶場にあり、[趙活](/ja/people/characters/player)が見つけると[趙活](/ja/people/characters/player)に贈ってくれる。
-    -   <MarkdownWrapper>||二人が唐門で顔を合わせると、雲裳は壮士飛爪をもう一振り打たせようとそそのかすが、<br>あと一歩のところで[唐錚](/ja/people/characters/brother2)（二師兄）に見つかり、野望は芽のうちに摘まれる。||</MarkdownWrapper>
 -   おしゃれをした時に着けている黒い手袋は烏蚕糸で織られたもので、刀や槍すら通さない。手袋をしているのは傷跡を見られたくないからである。[^7]
     -   <MarkdownWrapper>||外堡の修繕のイベントで互いに想いをほのめかし合っていた場合、崆峒へ戻る際に、大切にしていた烏蚕糸の手袋をほどいて鎧の[烏蚕の宝衣](/ja/system/forge-roadmap#烏蚕宝衣)に縫い直し、形見として[趙活](/ja/people/characters/player)に贈る。||</MarkdownWrapper>
+### おもちゃ
 -   十代前半のころに[弾珠台](/ja/system/pinball)を作り、夜市で屋台を出した。
     -   だが悪意のある子供や親から苦情が入って屋台を出せなくなり、[弾珠台](/ja/system/pinball)は最終的に[唐惟元](/ja/people/characters/brother4)（四師兄）が買い取った。
+-   機関飛蝗：[郁城](/ja/people/characters/special841)に贈った機関おもちゃで、お湯を入れると跳ねる。~~なんだこの大宋の小型蒸気機関の黒技術は。~~
+    -   [郁城](/ja/people/characters/special841)に嫌がられて踏みつけられた。
+-   合体機関人・老虎天王：外堡の男の子に贈った機関おもちゃで、もとは[郁城](/ja/people/characters/special841)に贈るつもりだった。
+    -   二つのパーツに分かれており、合体すると虎形態から機関人形態へ変形できる。
+-   [唐惟元](/ja/people/characters/brother4)（四師兄）の仕入れ傾向から、[磨喝楽 赤](/ja/system/items/#磨喝樂%20紅)と[磨喝楽 緑](/ja/system/items/#磨喝樂%20綠)は小竹の作である可能性がある。
+### 道具
+-   壮士飛腕を作り上げ、そのうちいくつかを[唐惟元](/ja/people/characters/brother4)（四師兄）が買い取って[葉雲裳](/ja/people/characters/girl2)に転売し、[葉雲裳](/ja/people/characters/girl2)のいたずらの道具として使われた。
+    -   もう一振りはまだ鍛冶場にあり、[趙活](/ja/people/characters/player)が見つけると[趙活](/ja/people/characters/player)に贈ってくれる。
+    -   <MarkdownWrapper>||二人が唐門で顔を合わせると、[葉雲裳](/ja/people/characters/girl2)は壮士飛腕をもう一振り打たせようとそそのかすが、<br>あと一歩のところで[唐錚](/ja/people/characters/brother2)（二師兄）に見つかり、野望は芽のうちに摘まれる。||</MarkdownWrapper>
+### 兵器
+::: details 兵器
+
+-   [南宮浅](/ja/people/characters/special103)の鋳剣の注文：
+    -   派手な剣。南宮浅は「修羅火龍剣」と命名した。
+    -   多機能合体兵器。
+-   [虞小梅](/ja/people/characters/girl3)の[玉霄神匕](/ja/system/forge-roadmap#玉霄神匕)は、小竹が作って贈ったものである。
+-   [六戒刀](/ja/people/characters/special103#六戒刀)：
+    -   小竹の傑作で、[魏菊](/ja/people/characters/girl7)が『易経』に基づいて揮毫した六戒が添えられている：
+    > 一に曰く：君子は以て庶政を明らかにし、久利の事を為す勿れ。<br>
+    > 二に曰く：君子は善を見れば遷り、過ち有れば改め、無心の咎を以て志を誤る勿れ。<br>
+    > 三に曰く：君子は多きを減らして寡なきに益し、物を量りて平らかに施し、人の短を言いて己の長を誇る勿れ。<br>
+    > 四に曰く：君子は徳を厚くして物を載せ、利の大なるを以て独り占めにする勿れ。<br>
+    > 五に曰く：亢龍悔い有り、盈つれば久しからず、才を恃みて驕る勿れ。<br>
+    > 六に曰く：天行は健なり、君子は以て自ら強めて息まず、命数は冥冥として天に在り、妄りに自ら菲薄する勿れ。<br>
+
+    -   名匠と才女の揮毫の相乗効果により、価値は家一軒を優に超える。
+-   これまでで最も強力な武器は虎戦車と火箭飛拳。未実装の内容にはさらに凶悪な武器もある。[^3]
+    -   下記の[逆鱗宝衣](#逆鱗宝衣)、[火箭連弩](#火箭連弩)、[虎戰車](#虎戦車)、[虎の戦衣](#虎の戦衣)を参照。
+-   [完竟剣](/ja/system/forge-roadmap#完竟劍)：小竹が[趙活](/ja/people/characters/player)の人間工学・武学・使用習慣に合わせて、[唐門小剣](/ja/system/forge-roadmap#唐門小劍)のコンセプトを模して打ち上げた機関小剣。
+    -   名前の由来は、鍛冶師として、また妻として、未完の志を完遂（完竟）するという意味であり、この世に[趙活](/ja/people/characters/player)にとってこれ以上ふさわしい兵器を打てる鍛冶師は存在せず、生涯最高の傑作である。
+    -   剣身の内部に動的バランス調整装置を内蔵している。
+    -   一部の素材には天外玄鉄が用いられている。
+    -   剣身の丸穴により取り回しがしやすい。
+    -   鍔の引き環は伸縮可能で、剣先へ振動波を伝えて相手の兵器を弾き飛ばすことができる。
+
+:::
 
 ### 共同制作
 
@@ -660,19 +697,19 @@ aside: false
 
 #### 虎の戦衣
 ::: details 虎の戦衣
+
+発動条件は[郁竹結縁攻略](/ja/event/pursuit/girl6#郁竹の専用装備)を参照。
 -   <MarkdownWrapper>||武林盟の宣戦期間、[趙活](/ja/people/characters/player)が小竹の専用兵器の開発を求めると、小竹は鉄剣令を手に、[火炎山剣閣](/ja/people/factions/mount-fire-palace)の全員とともに専用装備の虎の戦衣「老虎大王」を作る。||</MarkdownWrapper>
     -   <MarkdownWrapper>||マント、胸甲、虎頭の盾、巨大な金属製の腕甲一対で構成され、腕甲は大盾（タワーシールド）として使えるほど面積が広い。||</MarkdownWrapper>
     -   <MarkdownWrapper>||虎の戦衣の外殻は造形を施した木製の鎧で、内側は金属の鎧である。[趙活](/ja/people/characters/player)は試着して、重すぎて小竹にしか扱えないと言った。||</MarkdownWrapper>
     -   <MarkdownWrapper>||~~鳳凰の戦衣を着た[南宮深](/ja/people/characters/special102)でさえ、これを見て「何だそのとんでもない代物は！」と叫んだ。~~||</MarkdownWrapper>
-    -   <MarkdownWrapper>||虎の戦衣に付属する斬馬剣は、実は火炎山剣閣の飾りで、剣閣は抜けたら小竹にあげると言い放った。~~この鍛冶師たちは、裂骨魔の噂をまるで知らないらしい。~~||</MarkdownWrapper>
+    -   <MarkdownWrapper>||虎の戦衣に付属する斬馬剣は、実は火炎山剣閣の飾りで、剣閣は抜けたら小竹にあげると言い放った。<br>~~この鍛冶師たちは、裂骨魔の噂をまるで知らないらしい。~~||</MarkdownWrapper>
         -   <MarkdownWrapper>||斬馬剣は目測で長さ約2メートル。巨大な攻撃範囲と重い斬撃で、千軍を楽々と薙ぎ払える。||</MarkdownWrapper>
 -   <MarkdownWrapper>||決闘：虎の戦衣はどんなダメージにも耐えられるが、耐久度には限りがあり、耐久度が尽きると撤退する。||</MarkdownWrapper>
     -   <MarkdownWrapper>||巨大な腕甲の機関には火箭飛拳が仕込まれており、撤退の際に撃ち出される。||</MarkdownWrapper>
 -   <MarkdownWrapper>||戦役：小竹は虎の戦衣をまとって自ら戦場に飛び込み、専用のカットイン演出ののち、斬馬剣を投げつけて敵軍を一撃で薙ぎ払う。||</MarkdownWrapper>
--   <MarkdownWrapper>||[趙活](/ja/people/characters/player)の評価：||</MarkdownWrapper>
-    > <MarkdownWrapper>||見てくれ、まるで竹飛将軍のようだ。千軍を薙ぎ払い、万夫不当！威風堂々、向かうところ敵なしだ！||</MarkdownWrapper>
--   <MarkdownWrapper>||小竹の評価：||</MarkdownWrapper>
-    > <MarkdownWrapper>||ううっ、疲れたのだ……。長く着ていると重くて息苦しいのだ。僕でも耐えられないのだ。||</MarkdownWrapper>
+-   <MarkdownWrapper>||[趙活](/ja/people/characters/player)の評価：「見てくれ、まるで竹飛将軍のようだ。千軍を薙ぎ払い、万夫不当！威風堂々、向かうところ敵なしだ！」||</MarkdownWrapper>
+-   <MarkdownWrapper>||小竹の評価：「ううっ、疲れたのだ……。長く着ていると重くて息苦しいのだ。僕でも耐えられないのだ。」||</MarkdownWrapper>
 
 :::
 
@@ -749,25 +786,36 @@ aside: false
 
 ### 眉山
 
--   <MarkdownWrapper>||小竹は唐門に留学していた間も外堡の近所の人々に深く慕われ、息子の嫁に小竹をもらいたいと考える婦人までいた。||</MarkdownWrapper>
+-   <MarkdownWrapper>||小竹は[唐門](/ja/people/factions/tang-men)に留学していた間も外堡の近所の人々に深く慕われ、息子の嫁に小竹をもらいたいと考える婦人までいた。||</MarkdownWrapper>
 -   <MarkdownWrapper>||内緒で[飛石幇](/ja/people/factions/flying-stone-gang)で力仕事をしており、働きぶりが優秀なため名誉メンバーと称えられ、[石夫人](/ja/people/characters/special815)に給金を上乗せされた。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||もし小竹が[飛石幇](/ja/people/factions/flying-stone-gang)の幇衆を救っていれば、[飛石幇](/ja/people/factions/flying-stone-gang)は小竹の顔を立てて宣戦布告だけして開戦しない。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||[飛石幇](/ja/people/factions/flying-stone-gang)は勝手に小竹を上司と認定しており、たとえ小竹が[唐門](/ja/people/factions/tang-men)支持を表明しても引き抜こうとしてくる。||</MarkdownWrapper>
 
 ### 小梅
+
+::: details 小梅
 
 -   [虞小梅](/ja/people/characters/girl3)（小梅）との関係：かつては親友同士だったが、当時霊薬を騙されて飲まされたことで、小竹はいまだに彼女に怒っている。
 -   <MarkdownWrapper>||[虞小梅](/ja/people/characters/girl3)（小梅）が近くでふざけるたび、小竹は自分の力を抑え、最小限の力で抵抗しなければならない。||</MarkdownWrapper>
 -   <MarkdownWrapper>||[虞小梅](/ja/people/characters/girl3)（小梅）は小竹の知らないところで多くの面倒を片付けているが、小竹はそれを知らず、[虞小梅](/ja/people/characters/girl3)（小梅）も知られたくないと思っている。||</MarkdownWrapper>
     -   <MarkdownWrapper>||小竹が帰郷した際、婚約者を演じていた公子（[花城四少](/ja/people/characters/group1)）は、実は[虞小梅](/ja/people/characters/girl3)（小梅）の変装だった。小竹に家族の本性を見せ、家族との縁を断ち切らせるのが目的である。||</MarkdownWrapper>
         -   <MarkdownWrapper>||公子（[花城四少](/ja/people/characters/group1)）を演じた[虞小梅](/ja/people/characters/girl3)（小梅）は、小竹の実父を騙して借金を負わせたうえ、その金をこっそり小竹の貯金箱に押し込んだ。||</MarkdownWrapper>
--   [虞小梅](/ja/people/characters/girl3)（小梅）は小竹のために唐門へついて来たのではないと口では言うが、<Girl6Icon>竹</Girl6Icon>ルートのシナリオでは[虞小梅](/ja/people/characters/girl3)（小梅）の好感度が低くても唐門へついて来る。
+-   [虞小梅](/ja/people/characters/girl3)（小梅）は小竹のために唐門へついて来たのではないと口では言うが、<Girl6Icon>竹</Girl6Icon>ルートのシナリオでは[虞小梅](/ja/people/characters/girl3)（小梅）の好感度が低くても[唐門](/ja/people/factions/tang-men)へついて来る。
     -   ~~小梅は小竹を守ろうとして千灯楼に巻き込まれたのかもしれない。~~
     -   ~~杏花仙の誕生日の願いがかなったのかもしれない。~~
 -   <MarkdownWrapper>||[虞小梅](/ja/people/characters/girl3)（小梅）が画皮の妖怪のふりをし、本人を殺したと偽ると、妖魔鬼怪をひどく怖がる小竹は、それを聞いてかえって憤り、画皮の妖怪を殺して[虞小梅](/ja/people/characters/girl3)（小梅）の仇を討とうとする。||</MarkdownWrapper>
+-   <MarkdownWrapper>||もし[唐布衣](/ja/people/characters/brother1)が重傷を負って[唐門](/ja/people/factions/tang-men)へ戻り、[虞小梅](/ja/people/characters/girl3)が[千灯楼](/ja/people/factions/thousand-lantern-tower)を裏切って[唐門](/ja/people/factions/tang-men)を死守した場合、小竹は[虞小梅](/ja/people/characters/girl3)に[千灯楼](/ja/people/factions/thousand-lantern-tower)の内幕を問い詰める。||</MarkdownWrapper>
+    -   <MarkdownWrapper>||[虞小梅](/ja/people/characters/girl3)が[崆峒派](/ja/people/factions/kong-tong-sect)へ戻ると表明した際、小竹は[虞小梅](/ja/people/characters/girl3)を救うために掌派夫人の資格を争おうとする。||</MarkdownWrapper>
 -   <MarkdownWrapper>||[虞小梅](/ja/people/characters/girl3)（小梅）が捕らえられたと聞くと、我が身を顧みず脱獄救出計画を実行した。||</MarkdownWrapper>
--   <MarkdownWrapper>||~~崆峒の嫉妬屋~~[虞小梅](/ja/people/characters/girl3)（小梅）は獄中で妬いている。小竹は二番目の妹分にはとても優しいのに、自分のことは少しも気にかけてくれないと。||</MarkdownWrapper>
+-   <MarkdownWrapper>||~~崆峒の嫉妬屋~~[虞小梅](/ja/people/characters/girl3)（小梅）は獄中で妬いている。小竹は[郁宝花](/ja/people/characters/special840)（二妹）にはとても優しいのに、自分のことは少しも気にかけてくれないと。||</MarkdownWrapper>
 -   <MarkdownWrapper>||<Girl6Icon>竹</Girl6Icon>ルートでは[虞小梅](/ja/people/characters/girl3)（小梅）の好感度が高くても低くても、小竹が[趙活](/ja/people/characters/player)の三人目の子を身ごもったと嘘をつくと、趙活に殺意を抱く。||</MarkdownWrapper>
     -   <MarkdownWrapper>||~~[虞小梅](/ja/people/characters/girl3)（小梅）は普段、顔色を読む力が非常に高く、嘘を見破るのも得意なのに、小竹のこのほころびだらけのあまりに嘘くさい嘘をまったく疑わない。~~||</MarkdownWrapper>
 -   <EndIcon no="11">エンディング11</EndIcon>の会話によると、縁を結ばなかった場合、最終的に孤児を一人引き取り、[虞小梅](/ja/people/characters/girl3)（小梅）と仲直りする。
+
+-   [虞小梅](/ja/people/characters/girl3)（小梅）と小竹の組み合わせは、李白『長干行』の「青梅竹馬」から来ている可能性があり、コラボ企画でも言及されている。[^13]
+    -   2026年午年の祝賀イラストでは小竹のために機関木馬を作っており、このコンセプトを間接的に強調している。[^14]
+
+:::
 
 ### 実家との関係
 
@@ -838,3 +886,5 @@ aside: false
 [^10]: dcinside.com(https://gall.dcinside.com/mgallery/board/view/?id=legendofmortal&no=91615&search_head=20&page=5)
 [^11]: YouTube - [【杏花仙、唯一無二の気まぐれ】](https://www.youtube.com/watch?v=ZELq9yk-Z5U)
 [^12]: Facebook－[活俠バハムート30周年コラボ祝賀イラスト](https://www.facebook.com/share/p/1LBZYK9Tew/)
+[^13]: Facebook－[原始鳥熊× 和飲九九、『活俠傳』コラボ企画「青梅竹馬」準備中！](https://www.facebook.com/share/p/19YhP5h3Kg/)
+[^14]: Facebook－[原始鳥熊2026年午年祝賀イラスト](https://www.facebook.com/share/p/1CtTBNyrzs/)

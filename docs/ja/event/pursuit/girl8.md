@@ -5,6 +5,7 @@ aside: false
 outline: [2, 3]
 sidebar: false
 borderless: true
+pageClass: pursuit
 tags:
     - 結婚
     - 成親
@@ -50,7 +51,7 @@ tags:
     <li>龍湘の剣稽古 (<MarkdownWrapper>[養成コマンド](/ja/system/training/)</MarkdownWrapper>参照)</li>
     <li><MarkdownWrapper>[龍湘の悩み事](/ja/event/simple/3-11-2-龍湘心事)</MarkdownWrapper></li>
 </td>
-<td>• あらかじめ想い人を<Girl8Icon>龍湘</Girl8Icon>にしておく。
+<td>• あらかじめ想い人を<Girl8Icon>龍湘</Girl8Icon>にし、かつ崆峒掌派人になっていないこと。
     <br>• 裏山で薪運びを選ぶと、ランダムで龍湘の剣稽古 (<MarkdownWrapper>[養成コマンド](/ja/system/training/)</MarkdownWrapper>参照) が発生する(条件2を満たしている必要がある)。📖「俺が教えてやる、剣で」を選ぶ。
     <br>• 勝敗に関係なく、条件1を満たしていれば<MarkdownWrapper>[龍湘の悩み事](/ja/event/simple/3-11-2-龍湘心事)</MarkdownWrapper>イベントに進み、📜雑談を選べるようになる。
     <br>• 雑談で📜「出会い」と📜「錦香宮」を終えたあと、📜「龍湘の悩み」(想い人が龍湘である必要がある)を選び、続けて次のどれかを満たす:

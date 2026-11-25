@@ -2902,7 +2902,7 @@ tags:
             激怒した彼女は、あなたの死体を鞭打ち、どろどろの血肉の塊に変わるまでやめなかった。
         </td>
         <td>-</td>
-        <td>3年目5月上旬、崆峒争奪戦で鎮魂獄を破る際、決闘で荊紅に敗北する</td>
+        <td>3年目5月上旬、崆峒争奪戦の<MarkdownWrapper>[鎮魂獄襲撃](/ja/event/simple/3-05-1-劫鎮魂獄)</MarkdownWrapper>で、決闘で荊紅に敗北する</td>
         <td>-</td>
     </tr>
     <tr>
@@ -2920,10 +2920,10 @@ tags:
         </td>
         <td>-</td>
         <td>
-          <ol>
-            <li><Girl6Icon>郁竹</Girl6Icon>ルートで、金烏上人が自ら掌派人を名乗った後の崆峒の弟子たちとの対決に敗北する</li>
-            <li><Girl6Icon>郁竹</Girl6Icon>ルートで、崆峒の半雨屏での金烏上人との対決が15ラウンドに達するか、敗北する</li>
-          </ol>
+            <li>ルート1: <MarkdownWrapper>[崆峒争奪戦](/ja/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>の<Girl6Icon>郁竹</Girl6Icon>ルートで、
+                金烏上人が自ら掌派人を名乗った後の<MarkdownWrapper>[崆峒の弟子たちとの対決](/ja/event/simple/3-05-1-崆峒神威-竹線#眾人圍殺)</MarkdownWrapper>に敗北する</li>
+            <li>ルート2: <MarkdownWrapper>[崆峒争奪戦](/ja/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>の<Girl6Icon>郁竹</Girl6Icon>ルートで、
+                崆峒の半雨屏での<MarkdownWrapper>[金烏上人との対決](/ja/event/simple/3-05-1-崆峒神威-竹線#戰金烏上人)</MarkdownWrapper>が15ラウンドに達するか、敗北する</li>
         </td>
         <td>-</td>
     </tr>

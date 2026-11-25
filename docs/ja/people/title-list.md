@@ -158,4 +158,18 @@ tags:
             </li>
         </td>
     </tr>
+    <tr>
+        <td id = "九天應雷趙真君">九天應雷趙真君</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留学について](/ja/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
+            <li>🚩<MarkdownWrapper>[養成コマンド](/ja/system/training/)での飛天殿修仙回数</MarkdownWrapper>≥1</li>
+            <li>🚩<MarkdownWrapper>[虞小梅結縁攻略](/ja/event/pursuit/girl3)</MarkdownWrapper></li>
+            <li>
+                <MarkdownWrapper>[崆峒争奪戦](/ja/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>の最後、
+                <MarkdownWrapper>[崆峒に別れを告げる](/ja/event/simple/3-05-1-辭別崆峒)</MarkdownWrapper>で
+                <MarkdownWrapper>[稟告師兄](/ja/event/simple/3-05-1-辭別崆峒#稟告師兄)</MarkdownWrapper>
+                のシナリオに入ると獲得。
+            </li>
+        </td>
+    </tr>
 </table>
