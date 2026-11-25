@@ -161,4 +161,18 @@ tags:
             </li>
         </td>
     </tr>
+    <tr>
+        <td id = "九天應雷趙真君">九天應雷趙真君</td>
+        <td>
+            <li>🚩<MarkdownWrapper>[留學崆峒](/event/simple/2-02-1-留學討論)</MarkdownWrapper></li>
+            <li>🚩<MarkdownWrapper>[飛天殿修仙次數](/system/training/)</MarkdownWrapper>≥1</li>
+            <li>🚩<MarkdownWrapper>[和虞小梅結緣](/event/pursuit/girl3)</MarkdownWrapper></li>
+            <li>
+                <MarkdownWrapper>[崆峒爭奪戰](/event/simple/3-05-1-崆峒爭奪戰)</MarkdownWrapper>最後
+                <MarkdownWrapper>[辭別崆峒](/event/simple/3-05-1-辭別崆峒)</MarkdownWrapper>時，
+                進入<MarkdownWrapper>[稟告師兄](/event/simple/3-05-1-辭別崆峒#稟告師兄)</MarkdownWrapper>
+                劇情時獲得。
+            </li>
+        </td>
+    </tr>
 </table>
