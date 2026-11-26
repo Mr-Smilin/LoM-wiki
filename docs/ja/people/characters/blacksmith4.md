@@ -57,20 +57,21 @@ tags:
 <br><br>
 
 [火炎山剣閣](/ja/people/factions/mount-fire-palace)の鋳剣の名匠で、[鉄飛鷹](/ja/people/characters/blacksmith5)の兄弟子。「凝雪」と名づけた剣を鋳ており、剣光は冷たく、寒気が迫る。これを携えて神兵会へ赴こうとしている。
-
 <br>
-
-崆峒留学のとき、鉄拳門の大鉄舗に現れる（[神兵会の招待状](/ja/event/simple/2-05-3-神兵會請帖#鐵飛龍到訪)）。飛侠が出かけるときに唐門に残っていると、弟弟子とともに唐門大院に乱入する。
 
 ## 性格
 
 -   道徳は中庸だが、人柄に問題がある。
 -   <BadendIcon :no="111">試し斬りの犠牲者</BadendIcon>の地の文でも、狂人だと断じられている。
+-   戦闘特性：目立ちたがり。
+-   見栄っ張りで、負けるたびに凝雪宝剣が悪いのではなく自分が武術を学んでいないせいだと主張する。
 
 ## 宝剣・凝雪
 
 -   凝雪は鉄飛龍が鋳た宝剣で、見た目は素朴だが品質は優れており、鉄をも泥のように断つ。
 -   [郁竹](/ja/people/characters/girl6)も、欠点の見つからない宝剣だと認めている。
+-   凝雪出鞘：絶招が「凝雪出鞘」に変わり、強力な一撃を放って相手を真っ二つにする。
+    -   凝雪は特性上、気を溜めて一刀で仕留める宝剣とみられる。
 
 ## 神兵会の招待状
 
@@ -80,12 +81,19 @@ tags:
 -   鉄飛龍は凝雪の品質を見せつけようと、いきなり[趙活](/ja/people/characters/player)に斬りかかり、真っ二つにして切れ味を誇示しようとする。
     -   鉄飛龍に負けると斬り殺される。<BadendIcon :no="111">試し斬りの犠牲者</BadendIcon>に至る。
     -   自分の宝剣には人を斬って刃開きをする必要があると言い、[趙活](/ja/people/characters/player)の血で剣を清めてやるのは宝剣の誉れにあずかれるということで、むしろ光栄に思えと言い放つなど、他人の命をまるで何とも思っていない。
-    -   [南宮浅](/ja/people/characters/special103)が[郁竹](/ja/people/characters/girl6)の打った修羅火龍剣を持っている場合、鉄飛龍は凝雪で修羅火龍剣を断ち切り、切れ味を誇示する。
+-   [南宮浅](/ja/people/characters/special103)が[郁竹](/ja/people/characters/girl6)の打った修羅火龍剣を持っている場合、鉄飛龍は[趙活](/ja/people/characters/player)への攻撃をやめ、[南宮浅](/ja/people/characters/special103)へ矛先を変えて凝雪で修羅火龍剣を断ち切り、切れ味を誇示する。
 
 ## 唐門への挑発
 
--   弟弟子の[鉄飛鷹](/ja/people/characters/blacksmith5)とともに江湖を巡り、天下の鋳器の名家を訪ねて回り、[唐門](/ja/people/factions/tang-men)にも来た。
+-   <Girl6Icon>郁竹</Girl6Icon>ルートの[神兵会の招待状](/ja/event/simple/2-05-3-神兵會請帖#鐵飛龍到訪)の後日談として、[唐布衣](/ja/people/characters/brother1)が臥雲崗へ出かける際に[趙活](/ja/people/characters/player)が[唐門](/ja/people/factions/tang-men)に残っていると、鉄飛龍が[鉄飛鷹](/ja/people/characters/blacksmith5)とともに唐門大院へ押しかけてくる。
+-   弟弟子の[鉄飛鷹](/ja/people/characters/blacksmith5)とともに江湖を巡り、天下の鋳器の名家を訪ねて回り、[唐門](/ja/people/factions/tang-men)にも来た。唐門はちょうど兵装検査の最中で応対しづらい状況だった。
+-   鉄飛龍は[郁竹](/ja/people/characters/girl6)を、神兵会から逃げ出した三流の鍛冶屋だと嘲笑する。
 -   凝雪の鋭さを見せるため、[唐門](/ja/people/factions/tang-men)の面前で[鉄飛鷹](/ja/people/characters/blacksmith5)の持つ四振りの宝剣を断ち切り、威嚇してみせた。
+    -   神兵会の本質は武器の強度と使い手の命を懸けた死闘であり、心優しい[郁竹](/ja/people/characters/girl6)はその形式を認めていない。
+-   [趙活](/ja/people/characters/player)が[唐門](/ja/people/factions/tang-men)のために一矢報いようとすると、鉄飛龍が応戦する。
+    -   凝雪剣：境界 3 のとき絶招が「凝雪出鞘」に変わって自動発動し、ダメージ軽減を無視して超特大ダメージを与える。
+    -   折れぬ信念：口功の弱体化を無視し、防御時に毎ターン気を大量回復する。
+-   勝敗にかかわらず、鉄飛龍と[鉄飛鷹](/ja/people/characters/blacksmith5)は[唐門](/ja/people/factions/tang-men)を立ち去る。
 
 ## 千灯楼の魔手
 
