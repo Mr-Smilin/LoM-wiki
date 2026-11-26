@@ -58,6 +58,8 @@ tags:
 千燈樓主生平最忌憚的，便是這位仙人。稱其為『多智近妖，疑非人哉』。
 <br clear="all">
 
+![杏梢錦囊](/images/factions/apricot-forest_jinnang.webp)
+
 ## 相關事情
 
 杏花仙間接與直接參與的事情非常多，以下簡略列出：
